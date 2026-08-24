@@ -3,6 +3,7 @@ const fs = require("node:fs");
 const path = require("node:path");
 
 const DEFAULT_PORT = 3002;
+const DEFAULT_HOST = "127.0.0.1";
 const DEFAULT_MODEL = "gemini-3.5-flash-lite";
 const MAX_MESSAGE_LENGTH = 1200;
 const MAX_HISTORY_ITEMS = 8;
@@ -41,7 +42,19 @@ const localEnv = readLocalEnv();
 const config = {
   apiKey: process.env.GEMINI_API_KEY || localEnv.GEMINI_API_KEY || "",
   model: process.env.GEMINI_MODEL || localEnv.GEMINI_MODEL || DEFAULT_MODEL,
-  port: Number(process.env.AI_SERVER_PORT || localEnv.AI_SERVER_PORT || DEFAULT_PORT),
+  // Freehostia y otros gestores Node asignan el puerto mediante PORT.
+  port: Number(
+    process.env.PORT ||
+      process.env.AI_SERVER_PORT ||
+      localEnv.AI_SERVER_PORT ||
+      DEFAULT_PORT
+  ),
+  // En local mantenemos el proxy privado; en producción aceptamos el tráfico
+  // que llega desde el reverse proxy del hosting.
+  host:
+    process.env.AI_SERVER_HOST ||
+    localEnv.AI_SERVER_HOST ||
+    (process.env.PORT ? "0.0.0.0" : DEFAULT_HOST),
 };
 
 let requestTimes = [];
@@ -263,9 +276,9 @@ const server = http.createServer(async (request, response) => {
   }
 });
 
-server.listen(config.port, "127.0.0.1", () => {
+server.listen(config.port, config.host, () => {
   console.log(
-    `[ai-server] http://localhost:${config.port} | model=${config.model} | configured=${Boolean(
+    `[ai-server] http://${config.host}:${config.port} | model=${config.model} | configured=${Boolean(
       config.apiKey
     )}`
   );

@@ -41,6 +41,18 @@ Si Gemini no está disponible, el chat utiliza respuestas locales de respaldo pa
 
 La experiencia incluye temporalmente `public/audio/caballito-pixelado-45s-test.mp3` como pista de prueba. Se reproduce manualmente desde el control del navegador y está marcada como material provisional hasta confirmar sus condiciones de uso.
 
+### Preparar el despliegue en Freehostia Lovebeat
+
+El frontend se publica generando la carpeta `build/` y subiendo su contenido a la carpeta pública de `/retro-games/`.
+
+El proxy de Gemini se ejecuta como aplicación Node.js independiente. En el panel del hosting hay que configurar:
+
+- `GEMINI_API_KEY`: clave privada del servidor.
+- `GEMINI_MODEL`: opcional; por defecto usa `gemini-3.5-flash-lite`.
+- `PORT`: lo asigna el gestor de aplicaciones Node.js.
+
+El servidor detecta automáticamente `PORT` y escucha en `0.0.0.0` cuando se ejecuta en producción. Antes de compilar el frontend, si el proxy queda en otro dominio o subdominio, define `REACT_APP_AI_API_URL` con esa URL. No incluyas la clave de Gemini en ninguna variable `REACT_APP_*`, porque esas variables quedan incorporadas en el JavaScript público.
+
 ## Comandos útiles
 
 ```bash
