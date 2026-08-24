@@ -336,6 +336,29 @@ input[type="number"]{
   font-size:20px;
 }
 
+.pongHud{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:12px;
+  flex-wrap:wrap;
+  margin: 8px 18px 0;
+  color:var(--neon-yellow);
+  font-family:var(--font-mono);
+  font-size:18px;
+  text-align:center;
+}
+
+.pongCanvas{
+  background:linear-gradient(180deg, #05070d, #0b1020);
+  border:2px solid var(--neon-cyan);
+  display:block;
+  max-width:100%;
+  height:auto;
+  image-rendering:pixelated;
+  box-shadow:0 0 16px rgba(0,255,255,.15);
+}
+
 /* Boot */
 .boot{
   text-align:center;

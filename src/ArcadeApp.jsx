@@ -6,6 +6,7 @@ import TopBar from "./components/TopBar";
 
 import SpaceInvaders from "./games/SpaceInvaders";
 import CannonTrainer from "./games/CannonTrainer";
+import Pong from "./games/Pong";
 
 export default function App() {
   const [screen, setScreen] = useState("boot"); // boot | menu | game
@@ -57,6 +58,10 @@ export default function App() {
 
         {screen === "game" && activeGameId === "cannon-trainer" && (
           <CannonTrainer onExit={goMenu} />
+        )}
+
+        {screen === "game" && activeGameId === "pong" && (
+          <Pong onExit={goMenu} />
         )}
 
         <footer className="footer muted">

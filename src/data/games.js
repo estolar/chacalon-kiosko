@@ -13,4 +13,11 @@ export const GAMES = [
     tagline: "Inputs → lógica → feedback → historial",
     controls: "Enter o botón DISPARAR",
   },
+  {
+    id: "pong",
+    title: "Pong",
+    emoji: "🏓",
+    tagline: "Canvas + movimiento + rebotes",
+    controls: "W/S jugador 1 | ↑/↓ jugador 2 | Espacio iniciar",
+  },
 ];

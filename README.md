@@ -62,6 +62,20 @@ Practica:
 
 Control: ajusta el ángulo y pulsa `DISPARAR` o `Enter`.
 
+### Pong
+
+Juego para dos jugadores basado en Canvas.
+
+Practica:
+
+- Movimiento de paletas.
+- Rebotes y ángulos según el punto de impacto.
+- Marcador y condición de victoria.
+- Clases `Paddle`, `Ball` y `PongEngine`.
+- Separación entre física, motor e interfaz.
+
+Controles: `W/S` para el jugador 1, flechas arriba/abajo para el jugador 2, espacio para iniciar, `P` para pausar y `R` para reiniciar.
+
 ## Arquitectura
 
 ```text
@@ -79,6 +93,9 @@ src/
 ├── games/
 │   ├── CannonTrainer.jsx         # Interfaz React del cañón
 │   ├── cannonPhysics.js          # Lógica física reutilizable
+│   ├── Pong.jsx                  # Interfaz React de Pong
+│   ├── pongPhysics.js            # Rebotes y colisiones de Pong
+│   ├── pongEngine.js             # Motor Canvas de Pong
 │   ├── SpaceInvaders.jsx         # Interfaz React de Space Invaders
 │   └── spaceInvadersEngine.js    # Motor Canvas independiente
 ├── pages/NotFound404.jsx         # Pantalla 404 arcade
