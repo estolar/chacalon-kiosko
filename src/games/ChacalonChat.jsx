@@ -11,6 +11,14 @@ const PLAYER_PROFILE_STORAGE_KEY = "retro-games.chacalon.profile";
 const MAX_SAVED_ANSWERS = 8;
 const MAX_SAVED_ANSWER_LENGTH = 240;
 
+function formatAudioTime(seconds) {
+  if (!Number.isFinite(seconds) || seconds < 0) return "0:00";
+
+  const minutes = Math.floor(seconds / 60);
+  const remainingSeconds = Math.floor(seconds % 60).toString().padStart(2, "0");
+  return `${minutes}:${remainingSeconds}`;
+}
+
 const INTRO_MESSAGE = {
   id: "intro",
   role: "assistant",
@@ -141,7 +149,18 @@ export default function ChacalonChat({ onExit }) {
   const messagesEndRef = useRef(null);
   const inputRef = useRef(null);
   const audioRef = useRef(null);
+  const visualizerCanvasRef = useRef(null);
+  const audioContextRef = useRef(null);
+  const analyserRef = useRef(null);
+  const audioSourceRef = useRef(null);
+  const animationFrameRef = useRef(null);
+  const visualizerDataRef = useRef(null);
   const [musicBlocked, setMusicBlocked] = useState(false);
+  const [isPlaying, setIsPlaying] = useState(false);
+  const [currentTime, setCurrentTime] = useState(0);
+  const [duration, setDuration] = useState(0);
+  const [volume, setVolume] = useState(0.35);
+  const volumeRef = useRef(0.35);
 
   useEffect(() => {
     if (typeof messagesEndRef.current?.scrollIntoView === "function") {
@@ -156,29 +175,179 @@ export default function ChacalonChat({ onExit }) {
     return () => window.clearTimeout(focusTimer);
   }, [messages, playerName, status]);
 
+  function setupAudioVisualizer() {
+    const audio = audioRef.current;
+    const canvas = visualizerCanvasRef.current;
+    const AudioContext = window.AudioContext || window.webkitAudioContext;
+
+    if (!audio || !canvas || !AudioContext || audioSourceRef.current) return;
+
+    try {
+      const context = audioContextRef.current || new AudioContext();
+      const analyser = context.createAnalyser();
+      const source = context.createMediaElementSource(audio);
+
+      analyser.fftSize = 256;
+      analyser.smoothingTimeConstant = 0.82;
+      source.connect(analyser);
+      analyser.connect(context.destination);
+
+      audioContextRef.current = context;
+      analyserRef.current = analyser;
+      audioSourceRef.current = source;
+      visualizerDataRef.current = new Uint8Array(analyser.frequencyBinCount);
+    } catch {
+      // El reproductor sigue funcionando aunque Web Audio no esté disponible.
+    }
+  }
+
+  function startVisualizer() {
+    const canvas = visualizerCanvasRef.current;
+    const analyser = analyserRef.current;
+    const data = visualizerDataRef.current;
+    if (!canvas || !analyser || !data || animationFrameRef.current) return;
+
+    const draw = () => {
+      const context = canvas.getContext("2d");
+      if (!context) return;
+
+      const bounds = canvas.getBoundingClientRect();
+      const pixelRatio = window.devicePixelRatio || 1;
+      const width = Math.max(bounds.width, 320);
+      const height = Math.max(bounds.height, 180);
+
+      if (canvas.width !== Math.floor(width * pixelRatio) || canvas.height !== Math.floor(height * pixelRatio)) {
+        canvas.width = Math.floor(width * pixelRatio);
+        canvas.height = Math.floor(height * pixelRatio);
+      }
+      context.setTransform(pixelRatio, 0, 0, pixelRatio, 0, 0);
+      analyser.getByteFrequencyData(data);
+
+      const average = data.reduce((sum, value) => sum + value, 0) / data.length / 255;
+      const time = performance.now() / 1000;
+      const gradient = context.createLinearGradient(0, 0, width, height);
+      gradient.addColorStop(0, "#080014");
+      gradient.addColorStop(0.48, "#16051f");
+      gradient.addColorStop(1, "#001719");
+      context.fillStyle = gradient;
+      context.fillRect(0, 0, width, height);
+
+      context.globalAlpha = 0.18;
+      context.strokeStyle = "#00ffff";
+      context.lineWidth = 1;
+      for (let line = 0; line < height; line += 4) {
+        context.beginPath();
+        context.moveTo(0, line + 0.5);
+        context.lineTo(width, line + 0.5);
+        context.stroke();
+      }
+      context.globalAlpha = 1;
+
+      const centerX = width / 2;
+      const centerY = height / 2;
+      const pulse = 1 + average * 0.55 + Math.sin(time * 5) * 0.025;
+      context.strokeStyle = `rgba(255, 0, 255, ${0.34 + average * 0.5})`;
+      context.shadowBlur = 18;
+      context.shadowColor = "#ff00ff";
+      context.lineWidth = 2;
+      for (let ring = 0; ring < 3; ring += 1) {
+        context.beginPath();
+        context.arc(centerX, centerY, (24 + ring * 18) * pulse, 0, Math.PI * 2);
+        context.stroke();
+      }
+      context.shadowBlur = 0;
+
+      const barCount = 32;
+      const barWidth = Math.max(3, width / (barCount * 2.7));
+      const gap = barWidth * 0.35;
+      for (let index = 0; index < barCount; index += 1) {
+        const value = data[index] / 255;
+        const barHeight = 10 + value * (height * 0.34) + average * 10;
+        const x = centerX - ((barCount * (barWidth + gap)) / 2) + index * (barWidth + gap);
+        const hue = index % 3 === 0 ? "#fff300" : index % 2 === 0 ? "#00ffff" : "#ff00ff";
+        context.fillStyle = hue;
+        context.shadowBlur = 10;
+        context.shadowColor = hue;
+        context.fillRect(x, height - 18 - barHeight, barWidth, barHeight);
+        context.fillRect(x, 18, barWidth, barHeight * 0.62);
+      }
+      context.shadowBlur = 0;
+
+      context.beginPath();
+      for (let x = 0; x <= width; x += 4) {
+        const index = Math.floor((x / width) * data.length);
+        const waveform = (data[index] || 0) / 255;
+        const y = centerY + Math.sin((x / width) * Math.PI * 8 + time * 4) * (8 + waveform * 30);
+        if (x === 0) context.moveTo(x, y);
+        else context.lineTo(x, y);
+      }
+      context.strokeStyle = "#55ff33";
+      context.shadowBlur = 12;
+      context.shadowColor = "#55ff33";
+      context.lineWidth = 2;
+      context.stroke();
+      context.shadowBlur = 0;
+
+      animationFrameRef.current = requestAnimationFrame(draw);
+    };
+
+    animationFrameRef.current = requestAnimationFrame(draw);
+  }
+
   function startMusic() {
     const audio = audioRef.current;
     if (!audio) return;
 
     try {
+      setupAudioVisualizer();
+      audio.volume = volumeRef.current;
+      const context = audioContextRef.current;
+      if (context?.state === "suspended") context.resume();
       const playPromise = audio.play();
       if (playPromise && typeof playPromise.catch === "function") {
         playPromise
-          .then(() => setMusicBlocked(false))
+          .then(() => {
+            setMusicBlocked(false);
+            setIsPlaying(true);
+            startVisualizer();
+          })
           .catch(() => setMusicBlocked(true));
       } else {
         setMusicBlocked(false);
+        setIsPlaying(true);
+        startVisualizer();
       }
     } catch {
       setMusicBlocked(true);
     }
   }
 
+  function toggleMusic() {
+    const audio = audioRef.current;
+    if (!audio) return;
+
+    if (audio.paused) startMusic();
+    else audio.pause();
+  }
+
+  function handleVolumeChange(event) {
+    const nextVolume = Number(event.target.value);
+    volumeRef.current = nextVolume;
+    setVolume(nextVolume);
+    if (audioRef.current) audioRef.current.volume = nextVolume;
+  }
+
+  function handleProgressChange(event) {
+    const nextTime = Number(event.target.value);
+    if (audioRef.current) audioRef.current.currentTime = nextTime;
+    setCurrentTime(nextTime);
+  }
+
   useEffect(() => {
     const audio = audioRef.current;
     if (!audio) return undefined;
 
-    audio.volume = 0.35;
+    audio.volume = volumeRef.current;
     startMusic();
 
     const unlockMusic = () => startMusic();
@@ -193,7 +362,17 @@ export default function ChacalonChat({ onExit }) {
       } catch {
         // Algunos entornos de prueba no implementan HTMLMediaElement.
       }
+      if (animationFrameRef.current) cancelAnimationFrame(animationFrameRef.current);
+      animationFrameRef.current = null;
+      audioSourceRef.current?.disconnect();
+      analyserRef.current?.disconnect();
+      audioContextRef.current?.close?.();
+      audioSourceRef.current = null;
+      analyserRef.current = null;
+      audioContextRef.current = null;
     };
+    // La inicialización del reproductor debe ejecutarse una sola vez por montaje.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   function resetChat() {
@@ -295,9 +474,14 @@ export default function ChacalonChat({ onExit }) {
         }
       );
       const payload = await response.json().catch(() => ({}));
+      const reply = typeof payload.reply === "string" ? payload.reply.trim() : "";
 
       if (!response.ok) {
         throw new Error(payload.error || "AI server unavailable");
+      }
+
+      if (!reply) {
+        throw new Error("AI server returned an empty response");
       }
 
       setMessages((current) => [
@@ -305,7 +489,7 @@ export default function ChacalonChat({ onExit }) {
         {
           id: `model-${Date.now()}`,
           role: "assistant",
-          text: payload.reply,
+          text: reply,
         },
       ]);
       setStatus("ONLINE");
@@ -348,19 +532,76 @@ export default function ChacalonChat({ onExit }) {
         PERSONAJE VIRTUAL DE HOMENAJE · LA API KEY PERMANECE EN EL SERVIDOR
       </div>
 
-      <div className="chacalon-music">
-        <div className="chacalon-music__label">MÚSICA · CABALLITO PIXELADO · CANCIÓN COMPLETA EN LOOP</div>
+      <div className="chacalon-player">
+        <div className="chacalon-music__label">
+          MÚSICA · CABALLITO PIXELADO · CANCIÓN COMPLETA EN LOOP
+        </div>
+        <div
+          className="chacalon-visualizer"
+          role="img"
+          aria-label="Visualizador cumbiambero con ondas neon"
+        >
+          <canvas ref={visualizerCanvasRef} aria-hidden="true" />
+          <div className="chacalon-visualizer__scanlines" aria-hidden="true" />
+          <div className="chacalon-visualizer__overlay">
+            <span>♪ CUMBIA SIGNAL</span>
+            <span>{isPlaying ? "BAILANDO" : "EN PAUSA"}</span>
+          </div>
+        </div>
         <audio
           ref={audioRef}
           aria-label="Música de prueba 8-bit"
           autoPlay
-          controls
           loop
           preload="auto"
+          className="chacalon-audio"
+          onPlay={() => {
+            setIsPlaying(true);
+            setupAudioVisualizer();
+            startVisualizer();
+          }}
+          onPause={() => setIsPlaying(false)}
+          onLoadedMetadata={(event) => setDuration(event.currentTarget.duration || 0)}
+          onTimeUpdate={(event) => setCurrentTime(event.currentTarget.currentTime || 0)}
           src={AUDIO_SRC}
         >
           Tu navegador no permite reproducir este audio.
         </audio>
+        <div className="chacalon-player__controls">
+          <button
+            className="chacalon-player__play"
+            type="button"
+            onClick={toggleMusic}
+            aria-label={isPlaying ? "Pausar música" : "Reproducir música"}
+          >
+            {isPlaying ? "Ⅱ" : "▶"}
+          </button>
+          <span className="chacalon-player__time">{formatAudioTime(currentTime)}</span>
+          <input
+            className="chacalon-player__progress"
+            type="range"
+            aria-label="Progreso de la canción"
+            min="0"
+            max={duration || 0}
+            step="0.1"
+            value={Math.min(currentTime, duration || 0)}
+            onChange={handleProgressChange}
+            disabled={!duration}
+          />
+          <span className="chacalon-player__time">{formatAudioTime(duration)}</span>
+          <label className="chacalon-player__volume">
+            VOL
+            <input
+              type="range"
+              aria-label="Volumen de la música"
+              min="0"
+              max="1"
+              step="0.05"
+              value={volume}
+              onChange={handleVolumeChange}
+            />
+          </label>
+        </div>
         {musicBlocked && (
           <button className="btn chacalon-music__start" onClick={startMusic} type="button">
             ACTIVAR MÚSICA

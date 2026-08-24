@@ -32,6 +32,12 @@ describe("ChacalonChat", () => {
     expect(screen.getByText(/dime cómo te llamas/i)).toBeInTheDocument();
     expect(screen.getByLabelText(/Dile tu nombre/i)).toBeInTheDocument();
     expect(screen.getByLabelText(/Música de prueba 8-bit/i)).toBeInTheDocument();
+    expect(
+      screen.getByRole("img", { name: /Visualizador cumbiambero con ondas neon/i })
+    ).toBeInTheDocument();
+    expect(
+      screen.getByRole("button", { name: /Reproducir música|Pausar música/i })
+    ).toBeInTheDocument();
     expect(screen.getByAltText(/Retrato arcade de Chacalón Virtual/i)).toBeInTheDocument();
   });
 
@@ -138,6 +144,23 @@ describe("ChacalonChat", () => {
     enterPlayerName();
     const textarea = screen.getByLabelText(/Transmisión al personaje/i);
     fireEvent.change(textarea, { target: { value: "Háblame de música chicha" } });
+    fireEvent.submit(screen.getByRole("button", { name: "ENVIAR" }).closest("form"));
+
+    await waitFor(() => {
+      expect(screen.getByText(/modo de respaldo local/i)).toBeInTheDocument();
+    });
+  });
+
+  test("uses the local fallback when the AI returns an empty reply", async () => {
+    global.fetch = jest.fn().mockResolvedValue({
+      ok: true,
+      json: async () => ({ reply: "" }),
+    });
+
+    render(<ChacalonChat onExit={jest.fn()} />);
+    enterPlayerName();
+    const textarea = screen.getByLabelText(/Transmisión al personaje/i);
+    fireEvent.change(textarea, { target: { value: "de cualquier tema" } });
     fireEvent.submit(screen.getByRole("button", { name: "ENVIAR" }).closest("form"));
 
     await waitFor(() => {

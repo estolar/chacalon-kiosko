@@ -25,6 +25,12 @@ React mantiene el historial visual, el estado de conexión y el formulario. El p
 recibe el mensaje, limita el tamaño del historial, añade las instrucciones de
 personaje y llama a Gemini. La API key nunca se envía al navegador.
 
+El reproductor usa un elemento `<audio>` oculto para conservar la reproducción
+completa en loop y un `AnalyserNode` de Web Audio para alimentar un `<canvas>`.
+Ese canvas dibuja barras de frecuencia, ondas, anillos de pulso y scanlines con
+los colores neon del arcade. Si el navegador no ofrece Web Audio, la canción y
+los controles siguen funcionando sin el visualizador.
+
 ## Estados principales
 
 - `READY`: conversación lista para comenzar.
@@ -47,6 +53,7 @@ personaje y llama a Gemini. La API key nunca se envía al navegador.
 - El historial visual y la memoria se envían al proxy, que prioriza el mensaje actual cuando existe una contradicción.
 - El personaje sigue el tema que proponga el jugador y solo vuelve a los juegos cuando la conversación lo pide.
 - Si el jugador expresa un deseo, el personaje lo repite brevemente y responde con buenos deseos para que se cumpla, manteniéndolo como una ficción de homenaje sin prometer poderes reales.
+- El reproductor reemplaza el control nativo gris por controles propios: play/pausa, progreso, volumen y estado visual de la señal.
 - Las respuestas deben ser breves, no afirmar que el personaje es Chacalón real y evitar inventar citas o reproducir letras extensas.
 
 ## Ejecución local
