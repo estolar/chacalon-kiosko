@@ -1,0 +1,7 @@
+<?php
+
+return [
+    // Copia este archivo como gemini.php y completa la clave únicamente en el hosting.
+    'apiKey' => 'pega_la_clave_en_el_servidor',
+    'model' => 'gemini-3.5-flash-lite',
+];

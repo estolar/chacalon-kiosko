@@ -11,14 +11,19 @@ ChacalonChat.jsx
     │
     │ POST /api/ai/chat
     ▼
-server/aiProxy.js
+server/aiProxy.js (local)
     │
     │ Gemini API
     ▼
 Respuesta del modelo
+
+En producción, Freehostia utiliza `server-php/api/ai/chat.php` con la misma ruta de
+Gemini. La clave se guarda en `api/config/gemini.php` únicamente dentro del hosting.
 ```
 
-React mantiene el historial visual, el estado de conexión y el formulario. El servidor local recibe el mensaje, limita el tamaño del historial, añade las instrucciones de personaje y llama a Gemini. La API key solo se lee desde `.env.local` en el servidor.
+React mantiene el historial visual, el estado de conexión y el formulario. El proxy
+recibe el mensaje, limita el tamaño del historial, añade las instrucciones de
+personaje y llama a Gemini. La API key nunca se envía al navegador.
 
 ## Estados principales
 

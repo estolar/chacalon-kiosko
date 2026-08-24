@@ -41,17 +41,21 @@ Si Gemini no está disponible, el chat utiliza respuestas locales de respaldo pa
 
 La experiencia incluye temporalmente `public/audio/caballito-pixelado-45s-test.mp3` como pista de prueba. Se reproduce manualmente desde el control del navegador y está marcada como material provisional hasta confirmar sus condiciones de uso.
 
-### Preparar el despliegue en Freehostia Lovebeat
+### Preparar el despliegue gratuito en Freehostia Lovebeat
 
-El frontend se publica generando la carpeta `build/` y subiendo su contenido a la carpeta pública de `/retro-games/`.
+No necesitamos contratar la instancia Node.js. El Node (`server/aiProxy.js`) queda para desarrollo local y el hosting usa el endpoint PHP de `server-php/`.
 
-El proxy de Gemini se ejecuta como aplicación Node.js independiente. En el panel del hosting hay que configurar:
+1. Genera el frontend con `npm run build` y sube el contenido de `build/` a la carpeta pública de `/retro-games/`.
+2. Sube `server-php/api/ai/chat.php` a `/retro-games/api/ai/chat.php`.
+3. Copia `server-php/api/config/gemini.php.example` como `api/config/gemini.php` en el hosting y completa allí `apiKey`. Ese archivo está excluido de Git y protegido por `.htaccess`.
+4. Antes de compilar para producción, configura la ruta PHP:
 
-- `GEMINI_API_KEY`: clave privada del servidor.
-- `GEMINI_MODEL`: opcional; por defecto usa `gemini-3.5-flash-lite`.
-- `PORT`: lo asigna el gestor de aplicaciones Node.js.
+   ```powershell
+   $env:REACT_APP_AI_API_PATH="/retro-games/api/ai/chat.php"
+   npm run build
+   ```
 
-El servidor detecta automáticamente `PORT` y escucha en `0.0.0.0` cuando se ejecuta en producción. Antes de compilar el frontend, si el proxy queda en otro dominio o subdominio, define `REACT_APP_AI_API_URL` con esa URL. No incluyas la clave de Gemini en ninguna variable `REACT_APP_*`, porque esas variables quedan incorporadas en el JavaScript público.
+La API key nunca debe estar en una variable `REACT_APP_*`, porque esas variables quedan incorporadas en el JavaScript público.
 
 ## Comandos útiles
 

@@ -2,6 +2,7 @@ import React, { useEffect, useRef, useState } from "react";
 import GameShell from "../components/GameShell";
 
 const API_URL = process.env.REACT_APP_AI_API_URL || "";
+const API_PATH = process.env.REACT_APP_AI_API_PATH || "/api/ai/chat";
 const PUBLIC_URL = process.env.PUBLIC_URL || "";
 const AUDIO_SRC = `${PUBLIC_URL}/audio/caballito-pixelado-45s-test.mp3`;
 const IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-arcade.png`;
@@ -205,16 +206,19 @@ export default function ChacalonChat({ onExit }) {
     const nextAnswers = rememberAnswer(message);
 
     try {
-      const response = await fetch(`${API_URL}/api/ai/chat`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          message,
-          history: toApiHistory(messages),
-          playerName,
-          memory: nextAnswers,
-        }),
-      });
+      const response = await fetch(
+        `${API_URL.replace(/\/$/, "")}${API_PATH}`,
+        {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            message,
+            history: toApiHistory(messages),
+            playerName,
+            memory: nextAnswers,
+          }),
+        }
+      );
       const payload = await response.json().catch(() => ({}));
 
       if (!response.ok) {
@@ -266,7 +270,7 @@ export default function ChacalonChat({ onExit }) {
       }
     >
       <div className="chacalon-notice">
-        PERSONAJE VIRTUAL DE HOMENAJE · LA API KEY PERMANECE EN EL SERVIDOR LOCAL
+        PERSONAJE VIRTUAL DE HOMENAJE · LA API KEY PERMANECE EN EL SERVIDOR
       </div>
 
       <div className="chacalon-music">
