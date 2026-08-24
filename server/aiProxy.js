@@ -194,6 +194,16 @@ function sanitizeDailyContext(context) {
   };
 }
 
+function readLocalDailyContext() {
+  const contextPath = path.join(process.cwd(), "public", "data", "context.json");
+
+  try {
+    return JSON.parse(fs.readFileSync(contextPath, "utf8"));
+  } catch {
+    return null;
+  }
+}
+
 function formatDailyContext(context) {
   if (!context) return "";
 
@@ -374,7 +384,9 @@ const server = http.createServer(async (request, response) => {
     const message = typeof body.message === "string" ? body.message.trim() : "";
     const playerName = sanitizePlayerName(body.playerName);
     const memory = sanitizeMemory(body.memory);
-    const dailyContext = body.dailyContext;
+    const dailyContext = shouldUseDailyContext(message)
+      ? body.dailyContext || readLocalDailyContext()
+      : null;
 
     if (!message) {
       sendJson(response, 400, { error: "Message is required" });

@@ -201,6 +201,15 @@ function sanitizeDailyContext($context)
     ];
 }
 
+function readLocalDailyContext()
+{
+    $contextPath = dirname(dirname(dirname(__DIR__))) . '/data/context.json';
+    if (!is_file($contextPath)) return null;
+
+    $context = json_decode(file_get_contents($contextPath) ?: '', true);
+    return is_array($context) ? $context : null;
+}
+
 function formatDailyContext($context): string
 {
     if ($context === null) return '';
@@ -297,7 +306,9 @@ if ($message === '') {
 $playerName = sanitizeText($body['playerName'] ?? '', 40);
 $memory = sanitizeMemory($body['memory'] ?? []);
 $history = sanitizeHistory($body['history'] ?? []);
-$dailyContext = shouldUseDailyContext($message) ? sanitizeDailyContext($body['dailyContext'] ?? null) : null;
+$dailyContext = shouldUseDailyContext($message)
+    ? sanitizeDailyContext($body['dailyContext'] ?? readLocalDailyContext())
+    : null;
 $playerContext = $playerName
     ? "\nEl jugador se llama \"{$playerName}\". Puedes dirigirte a él por su nombre de forma natural."
     : '';
