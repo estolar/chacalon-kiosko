@@ -1,6 +1,10 @@
 import React from "react";
 import { fireEvent, render, screen, waitFor } from "@testing-library/react";
-import ChacalonChat, { getFallbackReply, toApiHistory } from "./ChacalonChat";
+import ChacalonChat, {
+  extractRequestedName,
+  getFallbackReply,
+  toApiHistory,
+} from "./ChacalonChat";
 
 describe("ChacalonChat", () => {
   const originalFetch = global.fetch;
@@ -87,6 +91,24 @@ describe("ChacalonChat", () => {
     expect(screen.getByText(/Hola de nuevo, Enrique/i)).toBeInTheDocument();
   });
 
+  test("updates and persists the player name when requested in the chat", () => {
+    const { container } = render(<ChacalonChat onExit={jest.fn()} />);
+    enterPlayerName("Holaaaa");
+
+    const textarea = screen.getByLabelText(/Transmisión al personaje/i);
+    fireEvent.change(textarea, { target: { value: "Cambia mi nombre a Quique" } });
+    fireEvent.submit(screen.getByRole("button", { name: "ENVIAR" }).closest("form"));
+
+    expect(screen.getByText(/Desde ahora te llamo Quique/i)).toBeInTheDocument();
+    expect(window.localStorage.getItem("retro-games.chacalon.player-name")).toBe("Quique");
+
+    const labels = Array.from(
+      container.querySelectorAll(".chacalon-message__label")
+    ).map((label) => label.textContent);
+    expect(labels).toContain("Holaaaa");
+    expect(labels).toContain("Quique");
+  });
+
   test("keeps a local fallback when the AI server is unavailable", async () => {
     global.fetch = jest.fn().mockRejectedValue(new Error("offline"));
 
@@ -112,6 +134,12 @@ test("maps chat roles to Gemini roles", () => {
     { role: "model", text: "Hola" },
     { role: "user", text: "¿Qué juego?" },
   ]);
+});
+
+test("extracts common player name changes", () => {
+  expect(extractRequestedName("Cambia mi nombre a Quique")).toBe("Quique");
+  expect(extractRequestedName("Mi nombre es María")).toBe("María");
+  expect(extractRequestedName("Llámame Quique, por favor")).toBe("Quique");
 });
 
 test("creates a useful fallback response", () => {

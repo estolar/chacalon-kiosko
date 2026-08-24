@@ -66,6 +66,27 @@ function createIntroMessage(playerName) {
   };
 }
 
+function extractRequestedName(message) {
+  const patterns = [
+    /(?:cambia(?:r)?\s+mi\s+nombre\s+(?:a|por)|mi\s+nombre\s+es|me\s+llamo|ll[aá]mame|quiero\s+que\s+me\s+llames)\s+(.+)/i,
+  ];
+
+  for (const pattern of patterns) {
+    const match = message.match(pattern);
+    if (!match) continue;
+
+    const name = match[1]
+      .split(/\s+(?:por favor|desde ahora|ahora)\b/i)[0]
+      .replace(/[.,!?;:]+$/, "")
+      .trim()
+      .slice(0, 40);
+
+    if (name) return name;
+  }
+
+  return "";
+}
+
 const FALLBACK_REPLIES = [
   "La señal está descansando, causa. Prueba un juego y volvemos con fe.",
   "La máquina pide una pausa. Dale a Space Invaders, Pong o Breakout y seguimos.",
@@ -183,7 +204,12 @@ export default function ChacalonChat({ onExit }) {
       setPlayerName(name);
       setMessages((current) => [
         ...current,
-        { id: `player-name-${Date.now()}`, role: "user", text: name },
+        {
+          id: `player-name-${Date.now()}`,
+          role: "user",
+          text: name,
+          playerName: name,
+        },
         {
           id: `welcome-${Date.now()}`,
           role: "assistant",
@@ -196,9 +222,39 @@ export default function ChacalonChat({ onExit }) {
       return;
     }
 
+    const requestedName = extractRequestedName(message);
+    if (requestedName) {
+      const messageId = Date.now();
+      storePlayerProfile(requestedName, savedAnswers);
+      setPlayerName(requestedName);
+      setMessages((current) => [
+        ...current,
+        {
+          id: `rename-${messageId}`,
+          role: "user",
+          text: message,
+          playerName: requestedName,
+        },
+        {
+          id: `rename-confirmation-${messageId}`,
+          role: "assistant",
+          text: `¡Hecho, ${requestedName}! Desde ahora te llamo ${requestedName}, causa. ¿Qué conversamos?`,
+        },
+      ]);
+      setInput("");
+      setError("");
+      setStatus("READY");
+      return;
+    }
+
     setMessages((current) => [
       ...current,
-      { id: `user-${Date.now()}`, role: "user", text: message },
+      {
+        id: `user-${Date.now()}`,
+        role: "user",
+        text: message,
+        playerName,
+      },
     ]);
     setInput("");
     setError("");
@@ -315,7 +371,9 @@ export default function ChacalonChat({ onExit }) {
                 key={message.id}
               >
                 <div className="chacalon-message__label">
-                  {message.role === "user" ? playerName || "PLAYER" : "CHACALÓN VIRTUAL"}
+                  {message.role === "user"
+                    ? message.playerName || playerName || "PLAYER"
+                    : "CHACALÓN VIRTUAL"}
                 </div>
                 <p>{message.text}</p>
                 {message.fallback && (
@@ -359,4 +417,4 @@ export default function ChacalonChat({ onExit }) {
   );
 }
 
-export { getFallbackReply, toApiHistory };
+export { extractRequestedName, getFallbackReply, toApiHistory };
