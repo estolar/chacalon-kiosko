@@ -27,9 +27,10 @@ describe("ArcadeApp", () => {
 
     fireEvent.click(screen.getByRole("button", { name: "START" }));
 
-    expect(screen.getAllByRole("button", { name: "JUGAR" })).toHaveLength(3);
+    expect(screen.getAllByRole("button", { name: "JUGAR" })).toHaveLength(4);
     expect(screen.getByText(/Space Invaders/)).toBeInTheDocument();
     expect(screen.getByText(/Cannon Trainer/)).toBeInTheDocument();
     expect(screen.getByText(/Pong/)).toBeInTheDocument();
+    expect(screen.getByText(/Breakout/)).toBeInTheDocument();
   });
 });

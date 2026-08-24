@@ -76,6 +76,19 @@ Practica:
 
 Controles: `W/S` para el jugador 1, flechas arriba/abajo para el jugador 2, espacio para iniciar, `P` para pausar y `R` para reiniciar.
 
+### Breakout
+
+Juego para un jugador basado en Canvas.
+
+Practica:
+
+- Paleta, pelota y bloques como entidades.
+- Colisiones círculo-rectángulo.
+- Vidas, puntuación y condición de victoria.
+- Fases `menu`, `serve`, `play`, `paused`, `win` y `over`.
+
+Controles: flechas izquierda/derecha para mover, espacio para iniciar, `P` para pausar y `R` para reiniciar.
+
 ## Arquitectura
 
 ```text
@@ -96,6 +109,9 @@ src/
 │   ├── Pong.jsx                  # Interfaz React de Pong
 │   ├── pongPhysics.js            # Rebotes y colisiones de Pong
 │   ├── pongEngine.js             # Motor Canvas de Pong
+│   ├── Breakout.jsx              # Interfaz React de Breakout
+│   ├── breakoutPhysics.js        # Colisiones de Breakout
+│   ├── breakoutEngine.js         # Motor Canvas de Breakout
 │   ├── SpaceInvaders.jsx         # Interfaz React de Space Invaders
 │   └── spaceInvadersEngine.js    # Motor Canvas independiente
 ├── pages/NotFound404.jsx         # Pantalla 404 arcade
@@ -121,6 +137,7 @@ La documentación se mantiene junto al código para convertir cada juego en una 
 - [Space Invaders](docs/games/space-invaders.md)
 - [Cannon Trainer](docs/games/cannon-trainer.md)
 - [Pong](docs/games/pong.md)
+- [Breakout](docs/games/breakout.md)
 
 ## Crear un juego nuevo
 

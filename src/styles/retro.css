@@ -359,6 +359,27 @@ input[type="number"]{
   box-shadow:0 0 16px rgba(0,255,255,.15);
 }
 
+.breakoutHud{
+  display:flex;
+  justify-content:space-between;
+  gap:12px;
+  flex-wrap:wrap;
+  margin:8px 18px 0;
+  color:var(--neon-green);
+  font-family:var(--font-mono);
+  font-size:18px;
+}
+
+.breakoutCanvas{
+  background:linear-gradient(180deg, #05070d, #12091b);
+  border:2px solid var(--neon-magenta);
+  display:block;
+  max-width:100%;
+  height:auto;
+  image-rendering:pixelated;
+  box-shadow:0 0 16px rgba(255,0,255,.15);
+}
+
 /* Boot */
 .boot{
   text-align:center;
