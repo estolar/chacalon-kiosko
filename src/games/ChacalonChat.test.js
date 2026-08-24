@@ -35,6 +35,17 @@ describe("ChacalonChat", () => {
     expect(screen.getByAltText(/Retrato arcade de Chacalón Virtual/i)).toBeInTheDocument();
   });
 
+  test("plays the complete song in a loop", () => {
+    render(<ChacalonChat onExit={jest.fn()} />);
+
+    expect(screen.getByLabelText(/Música de prueba 8-bit/i)).toHaveAttribute(
+      "src",
+      expect.stringContaining("caballito-pixelado.mp3")
+    );
+    expect(screen.getByLabelText(/Música de prueba 8-bit/i)).toHaveAttribute("loop");
+    expect(screen.getByText(/CANCIÓN COMPLETA EN LOOP/i)).toBeInTheDocument();
+  });
+
   test("saves the first message as the player name", () => {
     render(<ChacalonChat onExit={jest.fn()} />);
 

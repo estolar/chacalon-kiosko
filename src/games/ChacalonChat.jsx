@@ -4,7 +4,7 @@ import GameShell from "../components/GameShell";
 const API_URL = process.env.REACT_APP_AI_API_URL || "";
 const API_PATH = process.env.REACT_APP_AI_API_PATH || "/api/ai/chat";
 const PUBLIC_URL = process.env.PUBLIC_URL || "";
-const AUDIO_SRC = `${PUBLIC_URL}/audio/caballito-pixelado-45s-test.mp3`;
+const AUDIO_SRC = `${PUBLIC_URL}/audio/caballito-pixelado.mp3`;
 const IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-arcade.png`;
 const PLAYER_NAME_STORAGE_KEY = "retro-games.chacalon.player-name";
 const PLAYER_PROFILE_STORAGE_KEY = "retro-games.chacalon.profile";
@@ -140,9 +140,10 @@ export default function ChacalonChat({ onExit }) {
   }, [messages]);
 
   useEffect(() => {
-    if (status !== "CONNECTING" && typeof inputRef.current?.focus === "function") {
-      inputRef.current.focus();
-    }
+    if (status === "CONNECTING" || typeof inputRef.current?.focus !== "function") return undefined;
+
+    const focusTimer = window.setTimeout(() => inputRef.current?.focus(), 0);
+    return () => window.clearTimeout(focusTimer);
   }, [messages, playerName, status]);
 
   function startMusic() {
@@ -338,7 +339,7 @@ export default function ChacalonChat({ onExit }) {
       </div>
 
       <div className="chacalon-music">
-        <div className="chacalon-music__label">MÚSICA DE PRUEBA · CABALLITO PIXELADO · 45 SEGUNDOS</div>
+        <div className="chacalon-music__label">MÚSICA · CABALLITO PIXELADO · CANCIÓN COMPLETA EN LOOP</div>
         <audio
           ref={audioRef}
           aria-label="Música de prueba 8-bit"
