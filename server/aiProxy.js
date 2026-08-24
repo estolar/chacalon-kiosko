@@ -83,6 +83,10 @@ function sendJson(response, statusCode, payload) {
   response.end(JSON.stringify(payload));
 }
 
+function sanitizeText(value, maxLength) {
+  return typeof value === "string" ? value.trim().slice(0, maxLength) : "";
+}
+
 function getRequestBody(request) {
   return new Promise((resolve, reject) => {
     let body = "";
