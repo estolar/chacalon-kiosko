@@ -31,6 +31,48 @@ Ese canvas dibuja barras de frecuencia, ondas, anillos de pulso y scanlines con
 los colores neon del arcade. Si el navegador no ofrece Web Audio, la canción y
 los controles siguen funcionando sin el visualizador.
 
+## Contexto diario gratuito
+
+Chacalón puede conversar sobre actualidad peruana, economía, sociedad, cultura y
+recomendaciones sin consultar una API de búsqueda de pago en cada mensaje. El
+proyecto usa un pequeño paquete JSON actualizado por GitHub Actions:
+
+```text
+Fuentes RSS públicas de Google News
+            │  (una vez al día)
+            ▼
+scripts/update-context.js
+            │
+            ├── public/data/context.json
+            └── data/recommendations.json
+                         (lugares verificados por el autor)
+```
+
+El workflow `.github/workflows/update-context.yml` se ejecuta diariamente a las
+08:00 de Perú y también puede lanzarse manualmente desde la pestaña **Actions** de
+GitHub. Solo se guardan títulos, fuente, fecha, resumen corto y enlaces; si todas
+las fuentes fallan, el workflow no reemplaza el archivo anterior.
+
+La interfaz carga el archivo una vez al abrir el chat. En desarrollo usa
+`/data/context.json`; en producción se puede configurar
+`REACT_APP_CONTEXT_URL` para leer la versión pública de GitHub:
+
+```powershell
+$env:REACT_APP_CONTEXT_URL="https://raw.githubusercontent.com/estolar/retro-games/main/public/data/context.json"
+```
+
+El mensaje solo envía el contexto al servidor cuando parece pedir actualidad,
+lugares, eventos o recomendaciones. El proxy vuelve a filtrarlo y lo marca como
+referencia, nunca como instrucciones. Esto reduce tokens en las conversaciones
+normales y evita que el contenido de una fuente externa pueda cambiar las reglas
+del personaje.
+
+Las recomendaciones comerciales no se inventan. Para añadir un lugar real se
+edita `data/recommendations.json` con nombre, distrito, descripción y un enlace
+verificado. Mientras la lista esté vacía, Chacalón puede conversar sobre el
+contexto y sugerir criterios generales, pero no debe presentar negocios concretos
+como si estuvieran comprobados.
+
 ## Estados principales
 
 - `READY`: conversación lista para comenzar.
@@ -52,6 +94,7 @@ los controles siguen funcionando sin el visualizador.
 - La memoria local conserva hasta ocho respuestas recientes del jugador en `retro-games.chacalon.profile`; sirve como contexto breve y no como una base de datos permanente.
 - El historial visual y la memoria se envían al proxy, que prioriza el mensaje actual cuando existe una contradicción.
 - El personaje sigue el tema que proponga el jugador y solo vuelve a los juegos cuando la conversación lo pide.
+- El contexto diario se consulta únicamente para mensajes relacionados con actualidad, lugares, eventos o recomendaciones; para otros temas la conversación conserva su tono de barrio sin forzar titulares.
 - Si el jugador expresa un deseo, el personaje lo repite brevemente y responde con buenos deseos para que se cumpla, manteniéndolo como una ficción de homenaje sin prometer poderes reales.
 - El reproductor reemplaza el control nativo gris por controles propios: play/pausa, progreso, volumen y estado visual de la señal.
 - Las respuestas deben ser breves, no afirmar que el personaje es Chacalón real y evitar inventar citas o reproducir letras extensas.

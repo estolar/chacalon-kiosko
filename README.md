@@ -39,6 +39,23 @@ El servidor de IA queda disponible en `http://localhost:3002`. La ruta `GET /api
 
 Si Gemini no está disponible, el chat utiliza respuestas locales de respaldo para que la interfaz siga siendo navegable.
 
+### Actualidad y recomendaciones sin coste adicional
+
+El chat puede recibir contexto diario mediante un JSON generado por GitHub Actions a partir de feeds RSS públicos. No requiere una instancia Node.js en Freehostia ni una llamada de búsqueda por cada mensaje.
+
+- `scripts/update-context.js` genera `public/data/context.json`.
+- `.github/workflows/update-context.yml` lo actualiza diariamente y permite ejecución manual.
+- `data/recommendations.json` contiene únicamente lugares reales que hayamos verificado.
+- El chat usa ese contexto solo cuando el mensaje habla de actualidad, lugares, eventos o recomendaciones.
+
+Para que la versión publicada lea el archivo actualizado de GitHub, compila con:
+
+```powershell
+$env:REACT_APP_CONTEXT_URL="https://raw.githubusercontent.com/estolar/retro-games/main/public/data/context.json"
+```
+
+La explicación de la arquitectura y del flujo está en [Conversando con Chacalón Virtual](docs/games/chacalon-chat.md).
+
 La experiencia incluye temporalmente `public/audio/caballito-pixelado-45s-test.mp3` como pista de prueba. Se reproduce manualmente desde el control del navegador y está marcada como material provisional hasta confirmar sus condiciones de uso.
 
 ### Preparar el despliegue gratuito en Freehostia Lovebeat

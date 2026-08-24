@@ -391,6 +391,17 @@ input[type="number"]{
   text-align:center;
   margin-bottom:14px;
 }
+.chacalon-context-status{
+  border:1px solid var(--neon-green);
+  color:var(--neon-green);
+  background:rgba(57,255,20,.05);
+  padding:7px 10px;
+  margin:-6px 0 14px;
+  font-family:var(--font-mono);
+  font-size:11px;
+  text-align:center;
+  text-shadow:0 0 7px rgba(57,255,20,.55);
+}
 .chacalon-player{
   border:2px solid var(--neon-magenta);
   background:rgba(255,0,255,.05);

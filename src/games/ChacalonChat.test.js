@@ -3,6 +3,7 @@ import { fireEvent, render, screen, waitFor } from "@testing-library/react";
 import ChacalonChat, {
   extractRequestedName,
   getFallbackReply,
+  shouldUseDailyContext,
   toApiHistory,
 } from "./ChacalonChat";
 
@@ -214,4 +215,15 @@ test("repeats a wish in local fallback mode", () => {
   expect(getFallbackReply("Deseo conseguir una buena chamba")).toMatch(
     /Tu deseo es conseguir una buena chamba.*se te cumpla/i
   );
+});
+
+test("detects when a message needs the daily context", () => {
+  expect(shouldUseDailyContext("¿Qué está pasando hoy en la economía?"))
+    .toBe(true);
+  expect(shouldUseDailyContext("¿Qué pasa hoy por mi barrio?"))
+    .toBe(true);
+  expect(shouldUseDailyContext("¿Qué juego arcade me recomiendas?"))
+    .toBe(true);
+  expect(shouldUseDailyContext("Me gusta la música chicha"))
+    .toBe(false);
 });

@@ -6,6 +6,7 @@ const API_PATH = process.env.REACT_APP_AI_API_PATH || "/api/ai/chat";
 const PUBLIC_URL = process.env.PUBLIC_URL || "";
 const AUDIO_SRC = `${PUBLIC_URL}/audio/caballito-pixelado.mp3`;
 const IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-arcade.png`;
+const CONTEXT_URL = process.env.REACT_APP_CONTEXT_URL || "/data/context.json";
 const PLAYER_NAME_STORAGE_KEY = "retro-games.chacalon.player-name";
 const PLAYER_PROFILE_STORAGE_KEY = "retro-games.chacalon.profile";
 const MAX_SAVED_ANSWERS = 8;
@@ -17,6 +18,12 @@ function formatAudioTime(seconds) {
   const minutes = Math.floor(seconds / 60);
   const remainingSeconds = Math.floor(seconds % 60).toString().padStart(2, "0");
   return `${minutes}:${remainingSeconds}`;
+}
+
+function shouldUseDailyContext(message) {
+  return /actualidad|noticia|hoy|ahora|pol[ií]tica|econom[ií]a|sociedad|gobierno|presidente|congreso|d[oó]lar|inflaci[oó]n|precio|empleo|trabajo|evento|qu[eé] hacer|d[oó]nde (comer|ir)|recom|lugar|restaurante|discoteca|cebicher[ií]a|barrio/i.test(
+    message
+  );
 }
 
 const INTRO_MESSAGE = {
@@ -161,6 +168,7 @@ export default function ChacalonChat({ onExit }) {
   const [duration, setDuration] = useState(0);
   const [volume, setVolume] = useState(0.35);
   const volumeRef = useRef(0.35);
+  const [dailyContext, setDailyContext] = useState(null);
 
   useEffect(() => {
     if (typeof messagesEndRef.current?.scrollIntoView === "function") {
@@ -174,6 +182,26 @@ export default function ChacalonChat({ onExit }) {
     const focusTimer = window.setTimeout(() => inputRef.current?.focus(), 0);
     return () => window.clearTimeout(focusTimer);
   }, [messages, playerName, status]);
+
+  useEffect(() => {
+    if (process.env.NODE_ENV === "test" || typeof fetch !== "function") return undefined;
+
+    let active = true;
+    fetch(`${CONTEXT_URL}?v=${encodeURIComponent(new Date().toISOString().slice(0, 10))}`, {
+      cache: "no-store",
+    })
+      .then((response) => (response.ok ? response.json() : null))
+      .then((context) => {
+        if (active && context && typeof context === "object") setDailyContext(context);
+      })
+      .catch(() => {
+        // El chat sigue funcionando aunque el contexto diario no esté disponible.
+      });
+
+    return () => {
+      active = false;
+    };
+  }, []);
 
   function setupAudioVisualizer() {
     const audio = audioRef.current;
@@ -470,6 +498,7 @@ export default function ChacalonChat({ onExit }) {
             history: toApiHistory(messages),
             playerName,
             memory: nextAnswers,
+            dailyContext: shouldUseDailyContext(message) ? dailyContext : null,
           }),
         }
       );
@@ -531,6 +560,12 @@ export default function ChacalonChat({ onExit }) {
       <div className="chacalon-notice">
         PERSONAJE VIRTUAL DE HOMENAJE · LA API KEY PERMANECE EN EL SERVIDOR
       </div>
+
+      {dailyContext && (
+        <div className="chacalon-context-status">
+          CONTEXTO DEL DÍA · {dailyContext.region || "PERÚ"} · ACTUALIZADO
+        </div>
+      )}
 
       <div className="chacalon-player">
         <div className="chacalon-music__label">
@@ -678,4 +713,4 @@ export default function ChacalonChat({ onExit }) {
   );
 }
 
-export { extractRequestedName, getFallbackReply, toApiHistory };
+export { extractRequestedName, getFallbackReply, shouldUseDailyContext, toApiHistory };
