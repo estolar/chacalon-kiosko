@@ -417,6 +417,22 @@ input[type="number"]{
   margin-bottom:8px;
   text-shadow:0 0 8px rgba(255,0,255,.65);
 }
+.chacalon-music__activation{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  flex-wrap:wrap;
+  gap:10px;
+  margin-bottom:10px;
+  padding:7px 10px;
+  border:1px solid var(--neon-yellow);
+  background:rgba(255,243,0,.05);
+  color:var(--neon-yellow);
+  font-family:var(--font-main);
+  font-size:10px;
+  text-align:center;
+  text-shadow:0 0 8px rgba(255,243,0,.65);
+}
 .chacalon-visualizer{
   position:relative;
   height:126px;
@@ -507,8 +523,8 @@ input[type="number"]{
   pointer-events:none;
 }
 .chacalon-music__start{
-  display:block;
-  margin:10px auto 0;
+  display:inline-block;
+  margin:0;
   background:var(--neon-yellow);
   color:#000;
 }

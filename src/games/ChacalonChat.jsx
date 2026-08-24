@@ -577,6 +577,14 @@ export default function ChacalonChat({ onExit }) {
         <div className="chacalon-music__label">
           MÚSICA · CABALLITO PIXELADO · CANCIÓN COMPLETA EN LOOP
         </div>
+        {musicBlocked && (
+          <div className="chacalon-music__activation">
+            <span>SI QUIERES UN CUMBIÓN CHACALONERO</span>
+            <button className="btn chacalon-music__start" onClick={startMusic} type="button">
+              ACTIVAR MÚSICA
+            </button>
+          </div>
+        )}
         <div
           className="chacalon-visualizer"
           role="img"
@@ -646,11 +654,6 @@ export default function ChacalonChat({ onExit }) {
             />
           </label>
         </div>
-        {musicBlocked && (
-          <button className="btn chacalon-music__start" onClick={startMusic} type="button">
-            ACTIVAR MÚSICA
-          </button>
-        )}
       </div>
 
       <div className="chacalon-main-grid">
