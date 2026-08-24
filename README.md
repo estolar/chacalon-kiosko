@@ -112,6 +112,16 @@ BOOT → MENU → GAME
 
 La aplicación se publica bajo `/retro-games`, configurado en `package.json` y en el `basename` de `BrowserRouter`.
 
+## Documentación técnica
+
+La documentación se mantiene junto al código para convertir cada juego en una unidad de aprendizaje:
+
+- [Arquitectura general](docs/architecture.md)
+- [Guía de codificación](docs/coding-guidelines.md)
+- [Space Invaders](docs/games/space-invaders.md)
+- [Cannon Trainer](docs/games/cannon-trainer.md)
+- [Pong](docs/games/pong.md)
+
 ## Crear un juego nuevo
 
 1. Crea un componente dentro de `src/games/`.
