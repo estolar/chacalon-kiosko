@@ -162,7 +162,7 @@ export default function ChacalonChat({ onExit }) {
   const audioSourceRef = useRef(null);
   const animationFrameRef = useRef(null);
   const visualizerDataRef = useRef(null);
-  const [musicBlocked, setMusicBlocked] = useState(false);
+  const [musicBlocked, setMusicBlocked] = useState(true);
   const [isPlaying, setIsPlaying] = useState(false);
   const [currentTime, setCurrentTime] = useState(0);
   const [duration, setDuration] = useState(0);
@@ -379,8 +379,6 @@ export default function ChacalonChat({ onExit }) {
     if (process.env.NODE_ENV === "test") return undefined;
 
     audio.volume = volumeRef.current;
-    void startMusic();
-
     const unlockMusic = () => {
       if (audio.paused || audioContextRef.current?.state === "suspended" || !audioSourceRef.current) {
         void startMusic();
