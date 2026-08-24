@@ -4,7 +4,7 @@ import bg404 from "../assets/404-player-lost.png";
 
 const tips = [
   "¿Has probado a reiniciar el juego?",
-  "Asegúrate de que tu carpeta es /retro-arcade/",
+  "Asegúrate de que tu carpeta es /retro-games/",
   "Intenta navegar a la página de inicio"
 ];
 

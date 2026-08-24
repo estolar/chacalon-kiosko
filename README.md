@@ -1,70 +1,131 @@
-# Getting Started with Create React App
+# Retro Games
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Una colección de juegos arcade construida con React. El proyecto funciona como laboratorio para practicar desarrollo de interfaces, programación orientada a objetos, Canvas, animación, física sencilla y diseño de videojuegos.
 
-## Available Scripts
+## Probarlo en local
 
-In the project directory, you can run:
+```bash
+npm install
+npm start
+```
 
-### `npm start`
+Después abre:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+```text
+http://localhost:3000/retro-games/
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Si el puerto 3000 está ocupado, Create React App propondrá otro puerto. En ese caso utiliza la dirección que muestre la terminal.
 
-### `npm test`
+## Comandos útiles
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+# Servidor de desarrollo
+npm start
 
-### `npm run build`
+# Pruebas automáticas
+npm test -- --watchAll=false --runInBand
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Compilación de producción
+npm run build
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Juegos disponibles
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Space Invaders
 
-### `npm run eject`
+Juego basado en Canvas y un motor de juego independiente de React.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Practica:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- `requestAnimationFrame` y delta time.
+- Entidades y clases: `Player`, `Invader`, `Shot` y `Particle`.
+- Movimiento, disparos y colisiones.
+- Partículas y efectos de sonido con Web Audio.
+- Eventos globales de teclado.
+- Comunicación entre un motor imperativo y un HUD construido con React.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Controles: flechas izquierda y derecha para mover, espacio para disparar, `P` para pausar y `R` para reiniciar.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Cannon Trainer
 
-## Learn More
+Juego construido principalmente con componentes y estado de React.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Practica:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Inputs controlados.
+- Validación de valores.
+- Funciones puras para la lógica física.
+- Cálculo del alcance mediante `R = A × sin(2θ)`.
+- Historial de disparos.
+- Mensajes de éxito, advertencia y derrota.
 
-### Code Splitting
+Control: ajusta el ángulo y pulsa `DISPARAR` o `Enter`.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Arquitectura
 
-### Analyzing the Bundle Size
+```text
+src/
+├── index.js                      # Entrada de React y BrowserRouter
+├── App.jsx                       # Rutas principales
+├── ArcadeApp.jsx                 # Máquina de estados del arcade
+├── data/games.js                 # Catálogo de juegos
+├── components/
+│   ├── BootScreen.jsx            # Pantalla de inicio
+│   ├── ArcadeShowcase.jsx        # Animación visual de portada
+│   ├── GameMenu.jsx              # Selección de juegos
+│   ├── GameShell.jsx             # Plantilla reutilizable para juegos
+│   └── TopBar.jsx                # Barra de navegación del arcade
+├── games/
+│   ├── CannonTrainer.jsx         # Interfaz React del cañón
+│   ├── cannonPhysics.js          # Lógica física reutilizable
+│   ├── SpaceInvaders.jsx         # Interfaz React de Space Invaders
+│   └── spaceInvadersEngine.js    # Motor Canvas independiente
+├── pages/NotFound404.jsx         # Pantalla 404 arcade
+└── styles/retro.css              # Tema visual, CRT y responsive
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Flujo de la aplicación
 
-### Making a Progressive Web App
+```text
+BOOT → MENU → GAME
+           ├── Space Invaders
+           └── Cannon Trainer
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+La aplicación se publica bajo `/retro-games`, configurado en `package.json` y en el `basename` de `BrowserRouter`.
 
-### Advanced Configuration
+## Crear un juego nuevo
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+1. Crea un componente dentro de `src/games/`.
+2. Utiliza `GameShell` para conservar el encabezado, los botones y los controles comunes.
+3. Añade la información del juego en `src/data/games.js`.
+4. Registra el componente en `ArcadeApp.jsx`.
+5. Añade una prueba para la lógica principal del juego.
 
-### Deployment
+La plantilla `GameShell` permite concentrarse en la mecánica de cada juego sin repetir la estructura visual del arcade.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Objetivo didáctico
 
-### `npm run build` fails to minify
+Este repositorio está pensado para avanzar por capas:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Componentes, props y eventos.
+2. Estado y renderizado condicional.
+3. Inputs controlados y validación.
+4. Efectos, temporizadores y limpieza.
+5. Programación orientada a objetos para entidades del juego.
+6. Canvas, bucles de animación y colisiones.
+7. Pruebas automáticas y accesibilidad.
+8. Arquitectura para añadir nuevos juegos.
+
+## Tecnologías
+
+- React 19.
+- React Router.
+- Create React App.
+- Canvas 2D.
+- Web Audio API.
+- CSS, animaciones y tipografías pixel.
+- Jest y React Testing Library.
+
+Proyecto desarrollado por Enrique Stolar para practicar y enseñar Desarrollo de Interfaces.

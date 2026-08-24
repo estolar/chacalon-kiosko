@@ -6,7 +6,6 @@ import TopBar from "./components/TopBar";
 
 import SpaceInvaders from "./games/SpaceInvaders";
 import CannonTrainer from "./games/CannonTrainer";
-import NotFound404 from "./pages/NotFound404";
 
 export default function App() {
   const [screen, setScreen] = useState("boot"); // boot | menu | game
