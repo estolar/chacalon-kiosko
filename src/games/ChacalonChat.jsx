@@ -322,7 +322,7 @@ export default function ChacalonChat({ onExit }) {
     animationFrameRef.current = requestAnimationFrame(draw);
   }
 
-  function startMusic() {
+  async function startMusic() {
     const audio = audioRef.current;
     if (!audio) return;
 
@@ -330,23 +330,14 @@ export default function ChacalonChat({ onExit }) {
       setupAudioVisualizer();
       audio.volume = volumeRef.current;
       const context = audioContextRef.current;
-      if (context?.state === "suspended") context.resume();
-      const playPromise = audio.play();
-      if (playPromise && typeof playPromise.catch === "function") {
-        playPromise
-          .then(() => {
-            setMusicBlocked(false);
-            setIsPlaying(true);
-            startVisualizer();
-          })
-          .catch(() => setMusicBlocked(true));
-      } else {
-        setMusicBlocked(false);
-        setIsPlaying(true);
-        startVisualizer();
-      }
+      if (context?.state === "suspended") await context.resume();
+      await audio.play();
+      setMusicBlocked(false);
+      setIsPlaying(true);
+      startVisualizer();
     } catch {
       setMusicBlocked(true);
+      setIsPlaying(false);
     }
   }
 
@@ -354,7 +345,7 @@ export default function ChacalonChat({ onExit }) {
     const audio = audioRef.current;
     if (!audio) return;
 
-    if (audio.paused) startMusic();
+    if (audio.paused) void startMusic();
     else audio.pause();
   }
 
@@ -374,11 +365,16 @@ export default function ChacalonChat({ onExit }) {
   useEffect(() => {
     const audio = audioRef.current;
     if (!audio) return undefined;
+    if (process.env.NODE_ENV === "test") return undefined;
 
     audio.volume = volumeRef.current;
-    startMusic();
+    void startMusic();
 
-    const unlockMusic = () => startMusic();
+    const unlockMusic = () => {
+      if (audio.paused || audioContextRef.current?.state === "suspended") {
+        void startMusic();
+      }
+    };
     window.addEventListener("pointerdown", unlockMusic);
     window.addEventListener("keydown", unlockMusic);
 
@@ -586,7 +582,6 @@ export default function ChacalonChat({ onExit }) {
         <audio
           ref={audioRef}
           aria-label="Música de prueba 8-bit"
-          autoPlay
           loop
           preload="auto"
           className="chacalon-audio"
@@ -596,6 +591,10 @@ export default function ChacalonChat({ onExit }) {
             startVisualizer();
           }}
           onPause={() => setIsPlaying(false)}
+          onError={() => {
+            setMusicBlocked(true);
+            setIsPlaying(false);
+          }}
           onLoadedMetadata={(event) => setDuration(event.currentTarget.duration || 0)}
           onTimeUpdate={(event) => setCurrentTime(event.currentTarget.currentTime || 0)}
           src={AUDIO_SRC}
