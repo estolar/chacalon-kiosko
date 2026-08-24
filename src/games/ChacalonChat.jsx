@@ -289,13 +289,14 @@ export default function ChacalonChat({ onExit }) {
       }
       context.shadowBlur = 0;
 
-      const barCount = 32;
-      const barWidth = Math.max(3, width / (barCount * 2.7));
-      const gap = barWidth * 0.35;
+      const barCount = 40;
+      const gap = Math.max(2, Math.min(5, width * 0.004));
+      const barWidth = Math.max(2, (width - gap * (barCount - 1)) / barCount);
       for (let index = 0; index < barCount; index += 1) {
-        const value = data[index] / 255;
+        const spectrumIndex = Math.floor((index / barCount) * data.length);
+        const value = (data[spectrumIndex] || 0) / 255;
         const barHeight = 10 + value * (height * 0.34) + average * 10;
-        const x = centerX - ((barCount * (barWidth + gap)) / 2) + index * (barWidth + gap);
+        const x = index * (barWidth + gap);
         const hue = index % 3 === 0 ? "#fff300" : index % 2 === 0 ? "#00ffff" : "#ff00ff";
         context.fillStyle = hue;
         context.shadowBlur = 10;
