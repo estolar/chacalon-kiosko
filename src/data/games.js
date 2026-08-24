@@ -27,4 +27,11 @@ export const GAMES = [
     tagline: "Canvas + bloques + vidas",
     controls: "← → mover | Espacio iniciar | P pausar",
   },
+  {
+    id: "chacalon-chat",
+    title: "Conversando con Chacalón Virtual",
+    emoji: "🎙️",
+    tagline: "React + API + personaje conversacional",
+    controls: "Escribe tu mensaje | Enter enviar | Shift + Enter nueva línea",
+  },
 ];

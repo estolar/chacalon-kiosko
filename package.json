@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "/retro-games",
+  "proxy": "http://localhost:3002",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
@@ -16,6 +17,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "ai-server": "node server/aiProxy.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

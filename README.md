@@ -17,6 +17,30 @@ http://localhost:3000/retro-games/
 
 Si el puerto 3000 está ocupado, Create React App propondrá otro puerto. En ese caso utiliza la dirección que muestre la terminal.
 
+## Probar la conversación con Chacalón Virtual
+
+La experiencia conversacional usa un servidor local como proxy para que la clave de Gemini no llegue al navegador.
+
+1. Copia `.env.example` como `.env.local`.
+2. Completa `GEMINI_API_KEY` con la clave creada en Google AI Studio.
+3. En una terminal, ejecuta el proxy:
+
+   ```bash
+   npm run ai-server
+   ```
+
+4. En otra terminal, ejecuta la aplicación:
+
+   ```bash
+   npm start
+   ```
+
+El servidor de IA queda disponible en `http://localhost:3002`. La ruta `GET /api/health` permite comprobar si detectó la clave, sin mostrarla.
+
+Si Gemini no está disponible, el chat utiliza respuestas locales de respaldo para que la interfaz siga siendo navegable.
+
+La experiencia incluye temporalmente `public/audio/caballito-pixelado-45s-test.mp3` como pista de prueba. Se reproduce manualmente desde el control del navegador y está marcada como material provisional hasta confirmar sus condiciones de uso.
+
 ## Comandos útiles
 
 ```bash
@@ -113,10 +137,16 @@ src/
 │   ├── breakoutPhysics.js        # Colisiones de Breakout
 │   ├── breakoutEngine.js         # Motor Canvas de Breakout
 │   ├── SpaceInvaders.jsx         # Interfaz React de Space Invaders
-│   └── spaceInvadersEngine.js    # Motor Canvas independiente
+│   ├── spaceInvadersEngine.js    # Motor Canvas independiente
+│   ├── ChacalonChat.jsx           # Interfaz del personaje conversacional
+│   └── ChacalonChat.test.js       # Pruebas de conversación y fallback
+├── server/
+│   └── aiProxy.js                 # Proxy local para Gemini API
 ├── pages/NotFound404.jsx         # Pantalla 404 arcade
 └── styles/retro.css              # Tema visual, CRT y responsive
 ```
+
+La IA se consulta en eventos discretos de conversación; no participa en el bucle de animación de Canvas. Esto mantiene los juegos deterministas y permite reutilizar el mismo proxy para futuros NPCs, misiones y evaluaciones de partidas.
 
 ## Flujo de la aplicación
 
