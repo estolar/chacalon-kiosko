@@ -28,7 +28,7 @@ personaje y llama a Gemini. La API key nunca se envía al navegador.
 ## Estados principales
 
 - `READY`: conversación lista para comenzar.
-- La conversación comienza de inmediato; si no hay un nombre guardado, el primer mensaje se interpreta como el nombre del jugador.
+- La conversación comienza con un saludo que pide explícitamente el nombre; si no hay un nombre guardado, el primer mensaje se interpreta como el nombre del jugador.
 - `CONNECTING`: solicitud en curso; se deshabilita el formulario.
 - `ONLINE`: Gemini respondió correctamente.
 - `OFFLINE`: Gemini no respondió y se muestra una respuesta local de respaldo.
@@ -42,7 +42,11 @@ personaje y llama a Gemini. La API key nunca se envía al navegador.
 - La interfaz divide el escenario en dos columnas de igual ancho: retrato arcade y conversación; en móvil se apilan.
 - El personaje usa un tono peruano, criollo y barrial, con buenos deseos, sin afirmar que sea Chacalón real.
 - Si le piden dinero, el personaje no promete prestarlo: responde con una ocurrencia recursera y buenos deseos.
-- El nombre del jugador se guarda en `localStorage` para reconocerlo en futuras visitas desde el mismo navegador.
+- El nombre del jugador se guarda en `localStorage` y puede actualizarse varias veces durante la conversación.
+- La memoria local conserva hasta ocho respuestas recientes del jugador en `retro-games.chacalon.profile`; sirve como contexto breve y no como una base de datos permanente.
+- El historial visual y la memoria se envían al proxy, que prioriza el mensaje actual cuando existe una contradicción.
+- El personaje sigue el tema que proponga el jugador y solo vuelve a los juegos cuando la conversación lo pide.
+- Si el jugador expresa un deseo, el personaje lo repite brevemente y responde con buenos deseos para que se cumpla, manteniéndolo como una ficción de homenaje sin prometer poderes reales.
 - Las respuestas deben ser breves, no afirmar que el personaje es Chacalón real y evitar inventar citas o reproducir letras extensas.
 
 ## Ejecución local

@@ -14,7 +14,7 @@ const MAX_SAVED_ANSWER_LENGTH = 240;
 const INTRO_MESSAGE = {
   id: "intro",
   role: "assistant",
-  text: "¡Hola, mi hermano! Soy Chacalón Virtual, un homenaje interactivo. Antes de empezar, dime tu nombre, causa.",
+  text: "¡Hola, mi hermano! Soy Chacalón Virtual, un homenaje interactivo. Antes de empezar, dime cómo te llamas, causa. ¿Con qué nombre te recibo?",
 };
 
 function readStoredProfile() {
@@ -96,6 +96,16 @@ const FALLBACK_REPLIES = [
 
 function getFallbackReply(message) {
   const normalizedMessage = message.toLowerCase();
+
+  if (/(?:deseo|ojal[aá]|conc[eé]deme|cumple mi deseo)/i.test(message)) {
+    const wish = message
+      .replace(/^(?:yo\s+)?(?:deseo|ojal[aá]|conc[eé]deme(?:\s+un)?\s+deseo|cumple mi deseo)\s*:?[\s]*/i, "")
+      .trim();
+
+    return wish
+      ? `Tu deseo es ${wish}. Con fe, causa, que se te cumpla y se haga realidad.`
+      : "Dime tu deseo, causa, y lo recibimos con fe para que se te cumpla.";
+  }
 
   if (normalizedMessage.includes("juego")) {
     return "Prueba Space Invaders, Pong o Breakout, causa. ¿Cuál te vacila más?";
@@ -381,7 +391,7 @@ export default function ChacalonChat({ onExit }) {
               >
                 <div className="chacalon-message__label">
                   {message.role === "user"
-                    ? message.playerName || playerName || "PLAYER"
+                    ? playerName || message.playerName || "PLAYER"
                     : "CHACALÓN VIRTUAL"}
                 </div>
                 <p>{message.text}</p>

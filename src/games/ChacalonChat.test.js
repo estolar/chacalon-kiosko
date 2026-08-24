@@ -29,7 +29,7 @@ describe("ChacalonChat", () => {
   test("shows the virtual character introduction", () => {
     render(<ChacalonChat onExit={jest.fn()} />);
 
-    expect(screen.getByText(/dime tu nombre/i)).toBeInTheDocument();
+    expect(screen.getByText(/dime cómo te llamas/i)).toBeInTheDocument();
     expect(screen.getByLabelText(/Dile tu nombre/i)).toBeInTheDocument();
     expect(screen.getByLabelText(/Música de prueba 8-bit/i)).toBeInTheDocument();
     expect(screen.getByAltText(/Retrato arcade de Chacalón Virtual/i)).toBeInTheDocument();
@@ -118,8 +118,17 @@ describe("ChacalonChat", () => {
     const labels = Array.from(
       container.querySelectorAll(".chacalon-message__label")
     ).map((label) => label.textContent);
-    expect(labels).toContain("Holaaaa");
-    expect(labels).toContain("Quique");
+    expect(labels.filter((label) => label === "Quique")).toHaveLength(2);
+
+    fireEvent.change(textarea, { target: { value: "Ahora cambia Quique por Gus" } });
+    fireEvent.submit(screen.getByRole("button", { name: "ENVIAR" }).closest("form"));
+
+    expect(screen.getByText(/Desde ahora te llamo Gus/i)).toBeInTheDocument();
+    expect(window.localStorage.getItem("retro-games.chacalon.player-name")).toBe("Gus");
+    expect(
+      Array.from(container.querySelectorAll(".chacalon-message__label"))
+        .filter((label) => label.textContent === "Gus")
+    ).toHaveLength(3);
   });
 
   test("keeps a local fallback when the AI server is unavailable", async () => {
@@ -176,4 +185,10 @@ test("extracts common player name changes", () => {
 
 test("creates a useful fallback response", () => {
   expect(getFallbackReply("¿Qué juego quieres recomendarme?")).toMatch(/Snake|Space Invaders/i);
+});
+
+test("repeats a wish in local fallback mode", () => {
+  expect(getFallbackReply("Deseo conseguir una buena chamba")).toMatch(
+    /Tu deseo es conseguir una buena chamba.*se te cumpla/i
+  );
 });
