@@ -212,6 +212,10 @@ export default function ChacalonChat({ onExit }) {
 
     try {
       const context = audioContextRef.current || new AudioContext();
+      if (context.state === "suspended") {
+        context.close?.();
+        return;
+      }
       const analyser = context.createAnalyser();
       const source = context.createMediaElementSource(audio);
 
@@ -327,17 +331,24 @@ export default function ChacalonChat({ onExit }) {
     if (!audio) return;
 
     try {
-      setupAudioVisualizer();
       audio.volume = volumeRef.current;
-      const context = audioContextRef.current;
-      if (context?.state === "suspended") await context.resume();
       await audio.play();
-      setMusicBlocked(false);
-      setIsPlaying(true);
-      startVisualizer();
     } catch {
       setMusicBlocked(true);
       setIsPlaying(false);
+      return;
+    }
+
+    setMusicBlocked(false);
+    setIsPlaying(true);
+
+    try {
+      setupAudioVisualizer();
+      const context = audioContextRef.current;
+      if (context?.state === "suspended") await context.resume();
+      startVisualizer();
+    } catch {
+      // El audio nativo sigue funcionando aunque el visualizador falle.
     }
   }
 
@@ -371,7 +382,7 @@ export default function ChacalonChat({ onExit }) {
     void startMusic();
 
     const unlockMusic = () => {
-      if (audio.paused || audioContextRef.current?.state === "suspended") {
+      if (audio.paused || audioContextRef.current?.state === "suspended" || !audioSourceRef.current) {
         void startMusic();
       }
     };
