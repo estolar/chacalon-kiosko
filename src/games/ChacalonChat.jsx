@@ -69,6 +69,7 @@ function createIntroMessage(playerName) {
 function extractRequestedName(message) {
   const patterns = [
     /(?:cambia(?:r)?\s+mi\s+nombre\s+(?:a|por)|mi\s+nombre\s+es|me\s+llamo|ll[aá]mame|quiero\s+que\s+me\s+llames)\s+(.+)/i,
+    /(?:quiero\s+que\s+)?(?:me\s+)?cambi(?:a|e|ar|es)\s+(?:mi\s+nombre\s+)?(?:de\s+)?[^,.!?]+?\s+(?:a|por)\s+(.+)/i,
   ];
 
   for (const pattern of patterns) {
@@ -128,6 +129,7 @@ export default function ChacalonChat({ onExit }) {
   const [status, setStatus] = useState("READY");
   const [error, setError] = useState("");
   const messagesEndRef = useRef(null);
+  const inputRef = useRef(null);
   const audioRef = useRef(null);
   const [musicBlocked, setMusicBlocked] = useState(false);
 
@@ -136,6 +138,12 @@ export default function ChacalonChat({ onExit }) {
       messagesEndRef.current.scrollIntoView({ behavior: "smooth" });
     }
   }, [messages]);
+
+  useEffect(() => {
+    if (status !== "CONNECTING" && typeof inputRef.current?.focus === "function") {
+      inputRef.current.focus();
+    }
+  }, [messages, playerName, status]);
 
   function startMusic() {
     const audio = audioRef.current;
@@ -392,6 +400,7 @@ export default function ChacalonChat({ onExit }) {
               </label>
               <textarea
                 id="chacalon-message"
+                ref={inputRef}
                 value={input}
                 onChange={(event) => setInput(event.target.value)}
                 onKeyDown={handleInputKeyDown}

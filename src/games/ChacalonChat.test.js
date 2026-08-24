@@ -96,7 +96,9 @@ describe("ChacalonChat", () => {
     enterPlayerName("Holaaaa");
 
     const textarea = screen.getByLabelText(/Transmisión al personaje/i);
-    fireEvent.change(textarea, { target: { value: "Cambia mi nombre a Quique" } });
+    fireEvent.change(textarea, {
+      target: { value: "pero ahora quiero que cambies holaaaa por Quique" },
+    });
     fireEvent.submit(screen.getByRole("button", { name: "ENVIAR" }).closest("form"));
 
     expect(screen.getByText(/Desde ahora te llamo Quique/i)).toBeInTheDocument();
@@ -122,6 +124,24 @@ describe("ChacalonChat", () => {
       expect(screen.getByText(/modo de respaldo local/i)).toBeInTheDocument();
     });
   });
+
+  test("returns focus to the chat input after the AI reply", async () => {
+    global.fetch = jest.fn().mockResolvedValue({
+      ok: true,
+      json: async () => ({ reply: "Seguimos conversando, causa." }),
+    });
+
+    render(<ChacalonChat onExit={jest.fn()} />);
+    enterPlayerName();
+    const textarea = screen.getByLabelText(/Transmisión al personaje/i);
+    fireEvent.change(textarea, { target: { value: "Quiero seguir conversando" } });
+    fireEvent.submit(screen.getByRole("button", { name: "ENVIAR" }).closest("form"));
+
+    await waitFor(() => {
+      expect(screen.getByText(/Seguimos conversando/i)).toBeInTheDocument();
+      expect(document.activeElement).toBe(textarea);
+    });
+  });
 });
 
 test("maps chat roles to Gemini roles", () => {
@@ -140,6 +160,7 @@ test("extracts common player name changes", () => {
   expect(extractRequestedName("Cambia mi nombre a Quique")).toBe("Quique");
   expect(extractRequestedName("Mi nombre es María")).toBe("María");
   expect(extractRequestedName("Llámame Quique, por favor")).toBe("Quique");
+  expect(extractRequestedName("pero ahora quiero que cambies quique por Gus")).toBe("Gus");
 });
 
 test("creates a useful fallback response", () => {
