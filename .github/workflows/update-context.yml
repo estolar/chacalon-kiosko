@@ -1,9 +1,9 @@
-name: Update daily Chacalon context
+name: Update hourly Chacalon context
 
 on:
   schedule:
-    # 08:00 in Peru (UTC-5). Run manually from the Actions tab too.
-    - cron: "0 13 * * *"
+    # Every hour. GitHub Actions may start scheduled jobs a few minutes late.
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -28,6 +28,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No context changes to commit."
           else
-            git commit -m "chore: update daily Chacalon context"
+            git commit -m "chore: update hourly Chacalon context"
             git push
           fi

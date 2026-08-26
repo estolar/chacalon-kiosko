@@ -44,7 +44,7 @@ Si Gemini no está disponible, el chat utiliza respuestas locales de respaldo pa
 El chat puede recibir contexto diario mediante un JSON generado por GitHub Actions a partir de feeds RSS públicos. No requiere una instancia Node.js en Freehostia ni una llamada de búsqueda por cada mensaje.
 
 - `scripts/update-context.js` genera `public/data/context.json`.
-- `.github/workflows/update-context.yml` lo actualiza diariamente y permite ejecución manual.
+- `.github/workflows/update-context.yml` lo actualiza cada hora y permite ejecución manual.
 - `data/recommendations.json` contiene únicamente lugares reales que hayamos verificado.
 - El chat usa ese contexto solo cuando el mensaje habla de actualidad, lugares, eventos o recomendaciones.
 

@@ -6,9 +6,13 @@ const API_PATH = process.env.REACT_APP_AI_API_PATH || "/api/ai/chat";
 const PUBLIC_URL = process.env.PUBLIC_URL || "";
 const AUDIO_SRC = `${PUBLIC_URL}/audio/caballito-pixelado.mp3`;
 const IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-arcade.png`;
+const LOCAL_CONTEXT_URL = `${PUBLIC_URL.replace(/\/$/, "")}/data/context.json`;
+const PRODUCTION_CONTEXT_URL =
+  "https://raw.githubusercontent.com/estolar/retro-games/main/public/data/context.json";
 const CONTEXT_URL =
   process.env.REACT_APP_CONTEXT_URL ||
-  `${PUBLIC_URL.replace(/\/$/, "")}/data/context.json`;
+  (process.env.NODE_ENV === "production" ? PRODUCTION_CONTEXT_URL : LOCAL_CONTEXT_URL);
+const CONTEXT_REFRESH_INTERVAL = 60 * 60 * 1000;
 const PLAYER_NAME_STORAGE_KEY = "retro-games.chacalon.player-name";
 const PLAYER_PROFILE_STORAGE_KEY = "retro-games.chacalon.profile";
 const MAX_SAVED_ANSWERS = 8;
@@ -190,19 +194,24 @@ export default function ChacalonChat({ onExit }) {
     if (process.env.NODE_ENV === "test" || typeof fetch !== "function") return undefined;
 
     let active = true;
-    fetch(`${CONTEXT_URL}?v=${encodeURIComponent(new Date().toISOString().slice(0, 10))}`, {
-      cache: "no-store",
-    })
-      .then((response) => (response.ok ? response.json() : null))
-      .then((context) => {
-        if (active && context && typeof context === "object") setDailyContext(context);
-      })
-      .catch(() => {
-        // El chat sigue funcionando aunque el contexto diario no esté disponible.
-      });
+    const loadDailyContext = () => {
+      const cacheBuster = Math.floor(Date.now() / CONTEXT_REFRESH_INTERVAL);
+      fetch(`${CONTEXT_URL}?v=${cacheBuster}`, { cache: "no-store" })
+        .then((response) => (response.ok ? response.json() : null))
+        .then((context) => {
+          if (active && context && typeof context === "object") setDailyContext(context);
+        })
+        .catch(() => {
+          // El chat sigue funcionando aunque el contexto diario no esté disponible.
+        });
+    };
+
+    loadDailyContext();
+    const refreshTimer = window.setInterval(loadDailyContext, CONTEXT_REFRESH_INTERVAL);
 
     return () => {
       active = false;
+      window.clearInterval(refreshTimer);
     };
   }, []);
 

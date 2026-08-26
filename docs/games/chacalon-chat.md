@@ -48,14 +48,14 @@ scripts/update-context.js
                          (lugares verificados por el autor)
 ```
 
-El workflow `.github/workflows/update-context.yml` se ejecuta diariamente a las
-08:00 de Perú y también puede lanzarse manualmente desde la pestaña **Actions** de
-GitHub. Solo se guardan títulos, fuente, fecha, resumen corto y enlaces; si todas
+El workflow `.github/workflows/update-context.yml` se ejecuta cada hora y también
+puede lanzarse manualmente desde la pestaña **Actions** de GitHub. Solo se guardan títulos,
+fuente, fecha, resumen corto y enlaces; si todas
 las fuentes fallan, el workflow no reemplaza el archivo anterior.
 
-La interfaz carga el archivo una vez al abrir el chat. En desarrollo usa
-`/data/context.json`; en producción se puede configurar
-`REACT_APP_CONTEXT_URL` para leer la versión pública de GitHub:
+La interfaz carga el archivo al abrir el chat y lo vuelve a consultar cada hora. En
+desarrollo usa `/data/context.json`; en producción usa por defecto la versión pública
+de GitHub. También se puede configurar `REACT_APP_CONTEXT_URL`:
 
 ```powershell
 $env:REACT_APP_CONTEXT_URL="https://raw.githubusercontent.com/estolar/retro-games/main/public/data/context.json"
