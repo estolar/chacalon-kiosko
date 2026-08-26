@@ -609,6 +609,29 @@ input[type="number"]{
   gap:12px;
   min-height:0;
   overflow-y:auto;
+  scrollbar-width:thin;
+  scrollbar-color:var(--neon-magenta) rgba(0,20,24,.95);
+}
+.chacalon-chat__messages::-webkit-scrollbar{
+  width:14px;
+}
+.chacalon-chat__messages::-webkit-scrollbar-track{
+  border:2px solid var(--neon-cyan);
+  background:#001418;
+  box-shadow:inset 0 0 8px rgba(0,255,255,.2);
+}
+.chacalon-chat__messages::-webkit-scrollbar-thumb{
+  min-height:42px;
+  border:3px solid #001418;
+  background:var(--neon-magenta);
+  box-shadow:0 0 0 1px var(--neon-magenta), 0 0 8px rgba(255,0,255,.8);
+}
+.chacalon-chat__messages::-webkit-scrollbar-thumb:hover{
+  background:var(--neon-yellow);
+  box-shadow:0 0 0 1px var(--neon-yellow), 0 0 8px rgba(255,243,0,.8);
+}
+.chacalon-chat__messages::-webkit-scrollbar-button{
+  display:none;
 }
 .chacalon-message{
   max-width:88%;
@@ -627,6 +650,7 @@ input[type="number"]{
 }
 .chacalon-message--user{
   align-self:flex-end;
+  margin-inline-end:18px;
   border-color:var(--neon-magenta);
   color:#fff;
   background:rgba(255,0,255,.08);

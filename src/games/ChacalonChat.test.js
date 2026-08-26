@@ -79,7 +79,7 @@ describe("ChacalonChat", () => {
 
     render(<ChacalonChat onExit={jest.fn()} />);
     enterPlayerName();
-    const textarea = screen.getByLabelText(/Transmisión al personaje/i);
+    const textarea = screen.getByLabelText(/Habla con Chacalón/i);
     fireEvent.change(textarea, { target: { value: "¿Qué juego me recomiendas?" } });
     fireEvent.submit(screen.getByRole("button", { name: "ENVIAR" }).closest("form"));
 
@@ -113,7 +113,7 @@ describe("ChacalonChat", () => {
     const { container } = render(<ChacalonChat onExit={jest.fn()} />);
     enterPlayerName("Holaaaa");
 
-    const textarea = screen.getByLabelText(/Transmisión al personaje/i);
+    const textarea = screen.getByLabelText(/Habla con Chacalón/i);
     fireEvent.change(textarea, {
       target: { value: "pero ahora quiero que cambies holaaaa por Quique" },
     });
@@ -143,7 +143,7 @@ describe("ChacalonChat", () => {
 
     render(<ChacalonChat onExit={jest.fn()} />);
     enterPlayerName();
-    const textarea = screen.getByLabelText(/Transmisión al personaje/i);
+    const textarea = screen.getByLabelText(/Habla con Chacalón/i);
     fireEvent.change(textarea, { target: { value: "Háblame de música chicha" } });
     fireEvent.submit(screen.getByRole("button", { name: "ENVIAR" }).closest("form"));
 
@@ -160,7 +160,7 @@ describe("ChacalonChat", () => {
 
     render(<ChacalonChat onExit={jest.fn()} />);
     enterPlayerName();
-    const textarea = screen.getByLabelText(/Transmisión al personaje/i);
+    const textarea = screen.getByLabelText(/Habla con Chacalón/i);
     fireEvent.change(textarea, { target: { value: "de cualquier tema" } });
     fireEvent.submit(screen.getByRole("button", { name: "ENVIAR" }).closest("form"));
 
@@ -177,7 +177,7 @@ describe("ChacalonChat", () => {
 
     render(<ChacalonChat onExit={jest.fn()} />);
     enterPlayerName();
-    const textarea = screen.getByLabelText(/Transmisión al personaje/i);
+    const textarea = screen.getByLabelText(/Habla con Chacalón/i);
     fireEvent.change(textarea, { target: { value: "Quiero seguir conversando" } });
     fireEvent.submit(screen.getByRole("button", { name: "ENVIAR" }).closest("form"));
 

@@ -160,6 +160,7 @@ export default function ChacalonChat({ onExit }) {
   const audioContextRef = useRef(null);
   const analyserRef = useRef(null);
   const audioSourceRef = useRef(null);
+  const musicPausedByUserRef = useRef(false);
   const animationFrameRef = useRef(null);
   const visualizerDataRef = useRef(null);
   const [musicBlocked, setMusicBlocked] = useState(true);
@@ -277,25 +278,44 @@ export default function ChacalonChat({ onExit }) {
 
       const centerX = width / 2;
       const centerY = height / 2;
-      const pulse = 1 + average * 0.55 + Math.sin(time * 5) * 0.025;
-      context.strokeStyle = `rgba(255, 0, 255, ${0.34 + average * 0.5})`;
-      context.shadowBlur = 18;
-      context.shadowColor = "#ff00ff";
-      context.lineWidth = 2;
-      for (let ring = 0; ring < 3; ring += 1) {
+      const maxRingRadius = width * 0.54;
+      const rings = [
+        { size: 0.18, color: "#ff00ff", lineWidth: 2, glow: 14 },
+        { size: 0.29, color: "#00ffff", lineWidth: 1, glow: 10 },
+        { size: 0.4, color: "#fff300", lineWidth: 3, glow: 14 },
+        { size: 0.52, color: "#39ff14", lineWidth: 1, glow: 10 },
+        { size: 0.64, color: "#ff00ff", lineWidth: 2, glow: 12 },
+        { size: 0.76, color: "#00ffff", lineWidth: 4, glow: 16 },
+        { size: 0.89, color: "#fff300", lineWidth: 1, glow: 10 },
+        { size: 1.02, color: "#39ff14", lineWidth: 3, glow: 14 },
+      ];
+      rings.forEach((ring, ringIndex) => {
+        const pulse =
+          1 + average * (0.4 + ringIndex * 0.04) +
+          Math.sin(time * (3.5 + ringIndex * 0.45) + ringIndex) * 0.025;
+        context.globalAlpha = 0.3 + average * 0.45;
+        context.strokeStyle = ring.color;
+        context.shadowBlur = ring.glow;
+        context.shadowColor = ring.color;
+        context.lineWidth = ring.lineWidth;
         context.beginPath();
-        context.arc(centerX, centerY, (24 + ring * 18) * pulse, 0, Math.PI * 2);
+        context.arc(centerX, centerY, maxRingRadius * ring.size * pulse, 0, Math.PI * 2);
         context.stroke();
-      }
+      });
+      context.globalAlpha = 1;
       context.shadowBlur = 0;
 
       const barCount = 40;
       const gap = Math.max(2, Math.min(5, width * 0.004));
       const barWidth = Math.max(2, (width - gap * (barCount - 1)) / barCount);
+      const centerIndex = (barCount - 1) / 2;
       for (let index = 0; index < barCount; index += 1) {
         const spectrumIndex = Math.floor((index / barCount) * data.length);
         const value = (data[spectrumIndex] || 0) / 255;
-        const barHeight = 10 + value * (height * 0.34) + average * 10;
+        const distanceFromCenter = Math.abs(index - centerIndex) / centerIndex;
+        const centerEnvelope = Math.max(0.24, 1 - distanceFromCenter * 0.76);
+        const barHeight =
+          6 + centerEnvelope * (22 + value * (height * 0.3) + average * 8);
         const x = index * (barWidth + gap);
         const hue = index % 3 === 0 ? "#fff300" : index % 2 === 0 ? "#00ffff" : "#ff00ff";
         context.fillStyle = hue;
@@ -327,9 +347,10 @@ export default function ChacalonChat({ onExit }) {
     animationFrameRef.current = requestAnimationFrame(draw);
   }
 
-  async function startMusic() {
+  async function startMusic({ userInitiated = false } = {}) {
     const audio = audioRef.current;
     if (!audio) return;
+    if (userInitiated) musicPausedByUserRef.current = false;
 
     try {
       audio.volume = volumeRef.current;
@@ -357,8 +378,12 @@ export default function ChacalonChat({ onExit }) {
     const audio = audioRef.current;
     if (!audio) return;
 
-    if (audio.paused) void startMusic();
-    else audio.pause();
+    if (audio.paused) {
+      void startMusic({ userInitiated: true });
+    } else {
+      musicPausedByUserRef.current = true;
+      audio.pause();
+    }
   }
 
   function handleVolumeChange(event) {
@@ -381,6 +406,7 @@ export default function ChacalonChat({ onExit }) {
 
     audio.volume = volumeRef.current;
     const unlockMusic = () => {
+      if (musicPausedByUserRef.current) return;
       if (audio.paused || audioContextRef.current?.state === "suspended" || !audioSourceRef.current) {
         void startMusic();
       }
@@ -580,7 +606,11 @@ export default function ChacalonChat({ onExit }) {
         {musicBlocked && (
           <div className="chacalon-music__activation">
             <span>SI QUIERES UN CUMBIÓN CHACALONERO</span>
-            <button className="btn chacalon-music__start" onClick={startMusic} type="button">
+            <button
+              className="btn chacalon-music__start"
+              onClick={() => void startMusic({ userInitiated: true })}
+              type="button"
+            >
               ACTIVAR MÚSICA
             </button>
           </div>
@@ -695,7 +725,7 @@ export default function ChacalonChat({ onExit }) {
 
           <form className="chacalon-form" onSubmit={sendMessage}>
               <label className="chacalon-form__label" htmlFor="chacalon-message">
-                {playerName ? "TRANSMISIÓN AL PERSONAJE" : "DILE TU NOMBRE A CHACALÓN"}
+                {playerName ? "HABLA CON CHACALÓN" : "DILE TU NOMBRE A CHACALÓN"}
               </label>
               <textarea
                 id="chacalon-message"
