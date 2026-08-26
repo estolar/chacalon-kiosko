@@ -6,7 +6,9 @@ const API_PATH = process.env.REACT_APP_AI_API_PATH || "/api/ai/chat";
 const PUBLIC_URL = process.env.PUBLIC_URL || "";
 const AUDIO_SRC = `${PUBLIC_URL}/audio/caballito-pixelado.mp3`;
 const IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-arcade.png`;
-const CONTEXT_URL = process.env.REACT_APP_CONTEXT_URL || "/data/context.json";
+const CONTEXT_URL =
+  process.env.REACT_APP_CONTEXT_URL ||
+  `${PUBLIC_URL.replace(/\/$/, "")}/data/context.json`;
 const PLAYER_NAME_STORAGE_KEY = "retro-games.chacalon.player-name";
 const PLAYER_PROFILE_STORAGE_KEY = "retro-games.chacalon.profile";
 const MAX_SAVED_ANSWERS = 8;

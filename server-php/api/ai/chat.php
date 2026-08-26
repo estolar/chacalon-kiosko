@@ -203,7 +203,9 @@ function sanitizeDailyContext($context)
 
 function readLocalDailyContext()
 {
-    $contextPath = dirname(dirname(dirname(__DIR__))) . '/data/context.json';
+    $productionContextPath = dirname(dirname(__DIR__)) . '/data/context.json';
+    $repositoryContextPath = dirname(dirname(dirname(__DIR__))) . '/public/data/context.json';
+    $contextPath = is_file($productionContextPath) ? $productionContextPath : $repositoryContextPath;
     if (!is_file($contextPath)) return null;
 
     $context = json_decode(file_get_contents($contextPath) ?: '', true);
