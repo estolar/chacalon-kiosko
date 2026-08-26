@@ -6,6 +6,9 @@ const API_PATH = process.env.REACT_APP_AI_API_PATH || "/api/ai/chat";
 const PUBLIC_URL = process.env.PUBLIC_URL || "";
 const AUDIO_SRC = `${PUBLIC_URL}/audio/caballito-pixelado.mp3`;
 const IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-arcade.png`;
+const WINK_IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-arcade-wink.png`;
+const BODY_MOTION_SRC = `${PUBLIC_URL}/images/chacalon-arcade-body.png`;
+const SALUTE_IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-arcade-salute.png`;
 const LOCAL_CONTEXT_URL = `${PUBLIC_URL.replace(/\/$/, "")}/data/context.json`;
 const PRODUCTION_CONTEXT_URL =
   "https://raw.githubusercontent.com/estolar/retro-games/main/public/data/context.json";
@@ -28,6 +31,12 @@ function formatAudioTime(seconds) {
 
 function shouldUseDailyContext(message) {
   return /actualidad|noticia|hoy|ahora|pol[ií]tica|keiko|ministro|gobierno|presidente|congreso|econom[ií]a|sociedad|seguridad|d[oó]lar|inflaci[oó]n|precio|empleo|trabajo|negocio|empresa|emprend|inversi[oó]n|mercado|innovaci[oó]n|tecnolog[ií]a|inteligencia artificial|\bia\b|idea|redes sociales|viral|tendencia|far[aá]ndula|espect[aá]culo|chisme|evento|qu[eé] hacer|d[oó]nde (comer|ir)|recom|lugar|restaurante|discoteca|cebicher[ií]a|barrio/i.test(
+    message
+  );
+}
+
+function shouldTriggerSalute(message) {
+  return /\b(salud|chela|chelas|helena|helenas|helada|heladas|cerveza|cervezas|trago|tragos|brindis|tomar|tomamos|copa|copas)\b/i.test(
     message
   );
 }
@@ -177,6 +186,9 @@ export default function ChacalonChat({ onExit }) {
   const [volume, setVolume] = useState(0.35);
   const volumeRef = useRef(0.35);
   const [dailyContext, setDailyContext] = useState(null);
+  const [isWinking, setIsWinking] = useState(false);
+  const [isSaluting, setIsSaluting] = useState(false);
+  const saluteTimerRef = useRef(null);
 
   useEffect(() => {
     if (typeof messagesEndRef.current?.scrollIntoView === "function") {
@@ -213,6 +225,42 @@ export default function ChacalonChat({ onExit }) {
     return () => {
       active = false;
       window.clearInterval(refreshTimer);
+    };
+  }, []);
+
+  useEffect(() => () => window.clearTimeout(saluteTimerRef.current), []);
+
+  function triggerSalute() {
+    window.clearTimeout(saluteTimerRef.current);
+    setIsSaluting(true);
+    saluteTimerRef.current = window.setTimeout(() => setIsSaluting(false), 1800);
+  }
+
+  useEffect(() => {
+    if (process.env.NODE_ENV === "test") return undefined;
+
+    let active = true;
+    let winkTimer;
+    let winkEndTimer;
+
+    const scheduleWink = () => {
+      winkTimer = window.setTimeout(() => {
+        if (!active) return;
+
+        setIsWinking(true);
+        winkEndTimer = window.setTimeout(() => {
+          if (!active) return;
+          setIsWinking(false);
+          scheduleWink();
+        }, 140);
+      }, 3600 + Math.random() * 4200);
+    };
+
+    scheduleWink();
+    return () => {
+      active = false;
+      window.clearTimeout(winkTimer);
+      window.clearTimeout(winkEndTimer);
     };
   }, []);
 
@@ -530,6 +578,7 @@ export default function ChacalonChat({ onExit }) {
     setInput("");
     setError("");
     setStatus("CONNECTING");
+    if (shouldTriggerSalute(message)) triggerSalute();
     const nextAnswers = rememberAnswer(message);
 
     try {
@@ -700,12 +749,28 @@ export default function ChacalonChat({ onExit }) {
       </div>
 
       <div className="chacalon-main-grid">
-        <div className={`chacalon-identity ${isPlaying ? "is-playing" : ""}`}>
+        <div
+          className={`chacalon-identity ${isPlaying ? "is-playing" : ""} ${
+            isSaluting ? "is-saluting" : ""
+          }`}
+        >
           <div className="chacalon-identity__portrait-frame" ref={portraitFrameRef}>
             <img
               className="chacalon-identity__portrait"
-              src={IMAGE_SRC}
+              src={isWinking ? WINK_IMAGE_SRC : IMAGE_SRC}
               alt="Retrato arcade de Chacalón Virtual"
+            />
+            <img
+              className="chacalon-identity__body-motion"
+              src={BODY_MOTION_SRC}
+              alt=""
+              aria-hidden="true"
+            />
+            <img
+              className="chacalon-identity__salute"
+              src={SALUTE_IMAGE_SRC}
+              alt=""
+              aria-hidden="true"
             />
           </div>
           <div className="chacalon-identity__copy">
