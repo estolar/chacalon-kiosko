@@ -41,7 +41,7 @@ Si Gemini no está disponible, el chat utiliza respuestas locales de respaldo pa
 
 ### Actualidad y recomendaciones sin coste adicional
 
-El chat puede recibir contexto diario mediante un JSON generado por GitHub Actions a partir de feeds RSS públicos. No requiere una instancia Node.js en Freehostia ni una llamada de búsqueda por cada mensaje.
+El chat puede recibir contexto de actualidad mediante un JSON generado por GitHub Actions a partir de feeds RSS públicos: política peruana, economía, sociedad, negocios, ideas, IA, tendencias, farándula y cultura. No requiere una instancia Node.js en Freehostia ni una llamada de búsqueda por cada mensaje.
 
 - `scripts/update-context.js` genera `public/data/context.json`.
 - `.github/workflows/update-context.yml` lo actualiza cada hora y permite ejecución manual.

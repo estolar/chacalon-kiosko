@@ -5,7 +5,7 @@ const FEEDS = [
   {
     id: "politica",
     label: "Política",
-    url: "https://news.google.com/rss/search?q=Per%C3%BA%20pol%C3%ADtica&hl=es-419&gl=PE&ceid=PE:es-419",
+    url: "https://news.google.com/rss/search?q=Per%C3%BA%20Keiko%20ministros%20gobierno%20Congreso%20pol%C3%ADtica&hl=es-419&gl=PE&ceid=PE:es-419",
   },
   {
     id: "economia",
@@ -15,7 +15,32 @@ const FEEDS = [
   {
     id: "sociedad",
     label: "Sociedad",
-    url: "https://news.google.com/rss/search?q=Per%C3%BA%20sociedad&hl=es-419&gl=PE&ceid=PE:es-419",
+    url: "https://news.google.com/rss/search?q=Per%C3%BA%20sociedad%20seguridad%20educaci%C3%B3n%20salud&hl=es-419&gl=PE&ceid=PE:es-419",
+  },
+  {
+    id: "negocios",
+    label: "Negocios y emprendimiento",
+    url: "https://news.google.com/rss/search?q=Per%C3%BA%20negocios%20empresas%20emprendimiento&hl=es-419&gl=PE&ceid=PE:es-419",
+  },
+  {
+    id: "ideas",
+    label: "Ideas e innovación",
+    url: "https://news.google.com/rss/search?q=Per%C3%BA%20innovaci%C3%B3n%20tecnolog%C3%ADa%20ideas&hl=es-419&gl=PE&ceid=PE:es-419",
+  },
+  {
+    id: "ia",
+    label: "Inteligencia artificial y tecnología",
+    url: "https://news.google.com/rss/search?q=Per%C3%BA%20inteligencia%20artificial%20IA%20tecnolog%C3%ADa&hl=es-419&gl=PE&ceid=PE:es-419",
+  },
+  {
+    id: "tendencias",
+    label: "Redes sociales y tendencias",
+    url: "https://news.google.com/rss/search?q=Per%C3%BA%20redes%20sociales%20viral%20tendencia&hl=es-419&gl=PE&ceid=PE:es-419",
+  },
+  {
+    id: "farandula",
+    label: "Farándula y espectáculos",
+    url: "https://news.google.com/rss/search?q=Per%C3%BA%20f%C3%A1r%C3%A1ndula%20espect%C3%A1culos&hl=es-419&gl=PE&ceid=PE:es-419",
   },
   {
     id: "cultura",
@@ -26,8 +51,17 @@ const FEEDS = [
 
 const OUTPUT_PATH = path.join(process.cwd(), "public", "data", "context.json");
 const RECOMMENDATIONS_PATH = path.join(process.cwd(), "data", "recommendations.json");
-const MAX_ITEMS_PER_CATEGORY = 6;
+const MAX_ITEMS_PER_CATEGORY = 8;
 const MAX_TEXT_LENGTH = 320;
+
+function normalizeTitle(title) {
+  return title
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+}
 
 function decodeEntities(value) {
   return value
@@ -92,7 +126,21 @@ async function fetchFeed(feed) {
     });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
-    return parseRss(await response.text(), "Google News").slice(0, MAX_ITEMS_PER_CATEGORY);
+    const seenTitles = new Set();
+    const items = parseRss(await response.text(), "Google News")
+      .filter((item) => {
+        const key = normalizeTitle(item.title);
+        if (!key || seenTitles.has(key)) return false;
+        seenTitles.add(key);
+        return true;
+      })
+      .sort((first, second) => {
+        const firstTime = first.publishedAt ? Date.parse(first.publishedAt) : 0;
+        const secondTime = second.publishedAt ? Date.parse(second.publishedAt) : 0;
+        return secondTime - firstTime;
+      });
+
+    return items.slice(0, MAX_ITEMS_PER_CATEGORY);
   } finally {
     clearTimeout(timeout);
   }

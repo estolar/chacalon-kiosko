@@ -15,7 +15,7 @@ const CONTEXT_URL =
 const CONTEXT_REFRESH_INTERVAL = 60 * 60 * 1000;
 const PLAYER_NAME_STORAGE_KEY = "retro-games.chacalon.player-name";
 const PLAYER_PROFILE_STORAGE_KEY = "retro-games.chacalon.profile";
-const MAX_SAVED_ANSWERS = 8;
+const MAX_SAVED_ANSWERS = 20;
 const MAX_SAVED_ANSWER_LENGTH = 240;
 
 function formatAudioTime(seconds) {
@@ -27,7 +27,7 @@ function formatAudioTime(seconds) {
 }
 
 function shouldUseDailyContext(message) {
-  return /actualidad|noticia|hoy|ahora|pol[ií]tica|econom[ií]a|sociedad|gobierno|presidente|congreso|d[oó]lar|inflaci[oó]n|precio|empleo|trabajo|evento|qu[eé] hacer|d[oó]nde (comer|ir)|recom|lugar|restaurante|discoteca|cebicher[ií]a|barrio/i.test(
+  return /actualidad|noticia|hoy|ahora|pol[ií]tica|keiko|ministro|gobierno|presidente|congreso|econom[ií]a|sociedad|seguridad|d[oó]lar|inflaci[oó]n|precio|empleo|trabajo|negocio|empresa|emprend|inversi[oó]n|mercado|innovaci[oó]n|tecnolog[ií]a|inteligencia artificial|\bia\b|idea|redes sociales|viral|tendencia|far[aá]ndula|espect[aá]culo|chisme|evento|qu[eé] hacer|d[oó]nde (comer|ir)|recom|lugar|restaurante|discoteca|cebicher[ií]a|barrio/i.test(
     message
   );
 }
@@ -162,6 +162,7 @@ export default function ChacalonChat({ onExit }) {
   const messagesEndRef = useRef(null);
   const inputRef = useRef(null);
   const audioRef = useRef(null);
+  const portraitFrameRef = useRef(null);
   const visualizerCanvasRef = useRef(null);
   const audioContextRef = useRef(null);
   const analyserRef = useRef(null);
@@ -268,6 +269,7 @@ export default function ChacalonChat({ onExit }) {
       analyser.getByteFrequencyData(data);
 
       const average = data.reduce((sum, value) => sum + value, 0) / data.length / 255;
+      portraitFrameRef.current?.style.setProperty("--audio-energy", average.toFixed(3));
       const time = performance.now() / 1000;
       const gradient = context.createLinearGradient(0, 0, width, height);
       gradient.addColorStop(0, "#080014");
@@ -698,12 +700,14 @@ export default function ChacalonChat({ onExit }) {
       </div>
 
       <div className="chacalon-main-grid">
-        <div className="chacalon-identity">
-          <img
-            className="chacalon-identity__portrait"
-            src={IMAGE_SRC}
-            alt="Retrato arcade de Chacalón Virtual"
-          />
+        <div className={`chacalon-identity ${isPlaying ? "is-playing" : ""}`}>
+          <div className="chacalon-identity__portrait-frame" ref={portraitFrameRef}>
+            <img
+              className="chacalon-identity__portrait"
+              src={IMAGE_SRC}
+              alt="Retrato arcade de Chacalón Virtual"
+            />
+          </div>
           <div className="chacalon-identity__copy">
             <div className="chacalon-identity__eyebrow">TRANSMISIÓN VISUAL ONLINE</div>
             <h3>CHACALÓN VIRTUAL</h3>

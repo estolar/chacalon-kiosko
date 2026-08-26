@@ -53,6 +53,10 @@ puede lanzarse manualmente desde la pestaña **Actions** de GitHub. Solo se guar
 fuente, fecha, resumen corto y enlaces; si todas
 las fuentes fallan, el workflow no reemplaza el archivo anterior.
 
+Las búsquedas cubren política peruana —con foco en Keiko, ministros, Gobierno y Congreso—,
+economía, sociedad, negocios, emprendimiento, ideas, inteligencia artificial, tecnología,
+redes sociales, tendencias, farándula, cultura y eventos.
+
 La interfaz carga el archivo al abrir el chat y lo vuelve a consultar cada hora. En
 desarrollo usa `/data/context.json`; en producción usa por defecto la versión pública
 de GitHub. También se puede configurar `REACT_APP_CONTEXT_URL`:
@@ -84,17 +88,17 @@ como si estuvieran comprobados.
 ## Decisiones de codificación
 
 - La conversación se limita a 1200 caracteres por mensaje.
-- Solo se envían los últimos ocho mensajes como contexto.
+- Solo se envían los últimos doce mensajes como contexto de conversación.
 - El proxy aplica un límite local de 20 solicitudes por minuto.
 - El fallback permite estudiar y probar la interfaz sin conexión.
 - La interfaz divide el escenario en dos columnas de igual ancho: retrato arcade y conversación; en móvil se apilan.
 - El personaje usa un tono peruano, criollo y barrial, con buenos deseos, sin afirmar que sea Chacalón real.
 - Si le piden dinero, el personaje no promete prestarlo: responde con una ocurrencia recursera y buenos deseos.
 - El nombre del jugador se guarda en `localStorage` y puede actualizarse varias veces durante la conversación.
-- La memoria local conserva hasta ocho respuestas recientes del jugador en `retro-games.chacalon.profile`; sirve como contexto breve y no como una base de datos permanente.
+- La memoria local conserva hasta veinte aportes recientes del jugador en `retro-games.chacalon.profile`; sirve como contexto breve y no como una base de datos permanente. Se mantiene en el navegador del jugador y no se sincroniza entre dispositivos.
 - El historial visual y la memoria se envían al proxy, que prioriza el mensaje actual cuando existe una contradicción.
 - El personaje sigue el tema que proponga el jugador y solo vuelve a los juegos cuando la conversación lo pide.
-- El contexto diario se consulta únicamente para mensajes relacionados con actualidad, lugares, eventos o recomendaciones; para otros temas la conversación conserva su tono de barrio sin forzar titulares.
+- El contexto se consulta para mensajes relacionados con política, economía, sociedad, negocios, ideas, inteligencia artificial, tendencias, farándula, lugares, eventos o recomendaciones; para otros temas la conversación conserva su tono de barrio sin forzar titulares.
 - Si el jugador expresa un deseo, el personaje lo repite brevemente y responde con buenos deseos para que se cumpla, manteniéndolo como una ficción de homenaje sin prometer poderes reales.
 - El reproductor reemplaza el control nativo gris por controles propios: play/pausa, progreso, volumen y estado visual de la señal.
 - Las respuestas deben ser breves, no afirmar que el personaje es Chacalón real y evitar inventar citas o reproducir letras extensas.

@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 const DEFAULT_MODEL = 'gemini-3.5-flash-lite';
 const MAX_MESSAGE_LENGTH = 1200;
-const MAX_HISTORY_ITEMS = 8;
-const MAX_MEMORY_ITEMS = 8;
+const MAX_HISTORY_ITEMS = 12;
+const MAX_MEMORY_ITEMS = 20;
 const MAX_MEMORY_ITEM_LENGTH = 240;
 const MAX_CONTEXT_ITEMS = 6;
 const MAX_CONTEXT_TEXT_LENGTH = 320;
@@ -137,7 +137,7 @@ function sanitizeMemory($memory): array
 
 function shouldUseDailyContext(string $message): bool
 {
-    return (bool) preg_match('/actualidad|noticia|hoy|ahora|pol[ií]tica|econom[ií]a|sociedad|gobierno|presidente|congreso|d[oó]lar|inflaci[oó]n|precio|empleo|trabajo|evento|qu[eé] hacer|d[oó]nde (comer|ir)|recom|lugar|restaurante|discoteca|cebicher[ií]a|barrio/ui', $message);
+    return (bool) preg_match('/actualidad|noticia|hoy|ahora|pol[ií]tica|keiko|ministro|gobierno|presidente|congreso|econom[ií]a|sociedad|seguridad|d[oó]lar|inflaci[oó]n|precio|empleo|trabajo|negocio|empresa|emprend|inversi[oó]n|mercado|innovaci[oó]n|tecnolog[ií]a|inteligencia artificial|\bia\b|idea|redes sociales|viral|tendencia|far[aá]ndula|espect[aá]culo|chisme|evento|qu[eé] hacer|d[oó]nde (comer|ir)|recom|lugar|restaurante|discoteca|cebicher[ií]a|barrio/ui', $message);
 }
 
 function sanitizeContextItem($item)
@@ -175,7 +175,7 @@ function sanitizeDailyContext($context)
     if (!is_array($context)) return null;
 
     $topics = [];
-    foreach (['politica', 'economia', 'sociedad', 'cultura'] as $category) {
+    foreach (['politica', 'economia', 'sociedad', 'negocios', 'ideas', 'ia', 'tendencias', 'farandula', 'cultura'] as $category) {
         $topics[$category] = [];
         $items = $context['topics'][$category] ?? [];
         if (!is_array($items)) continue;
@@ -241,7 +241,7 @@ function formatDailyContext($context): string
         }
     }
 
-    $lines[] = 'Usa este bloque solo si el mensaje actual pide actualidad, contexto o recomendaciones. No inventes datos faltantes, horarios, precios ni lugares. Si una fuente no basta, dilo.';
+    $lines[] = 'Usa este bloque solo si el mensaje actual pide actualidad, contexto o recomendaciones. Prioriza los temas que pida el jugador: política peruana (incluidos Keiko, ministros, Gobierno y Congreso), economía, sociedad, negocios, innovación, inteligencia artificial, redes sociales, tendencias y farándula. Puedes combinar hasta tres titulares relacionados, menciona la fuente y fecha cuando estén disponibles, separa hechos de rumores y no presentes un chisme como confirmado. No inventes datos faltantes, horarios, precios ni lugares. Si una fuente no basta, dilo.';
     return substr(implode("\n", $lines), 0, 7500);
 }
 
