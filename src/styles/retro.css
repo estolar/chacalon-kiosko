@@ -627,8 +627,11 @@ input[type="number"]{
   pointer-events:none;
   opacity:0;
   transform:translateX(16%);
+  animation:none;
 }
 .chacalon-identity.is-saluting .chacalon-identity__salute{
+  opacity:1;
+  transform:translateX(0);
   animation:chacalon-salute 1.8s ease-in-out both;
 }
 .chacalon-identity.is-playing .chacalon-identity__portrait-frame{

@@ -222,6 +222,10 @@ test("detects when a message needs the daily context", () => {
     .toBe(true);
   expect(shouldUseDailyContext("¿Qué pasa hoy por mi barrio?"))
     .toBe(true);
+  expect(shouldUseDailyContext("¿Qué se cuenta Bill Gates?"))
+    .toBe(true);
+  expect(shouldUseDailyContext("¿Qué sabes de la KK?"))
+    .toBe(true);
   expect(shouldUseDailyContext("¿Qué juego arcade me recomiendas?"))
     .toBe(true);
   expect(shouldUseDailyContext("Me gusta la música chicha"))

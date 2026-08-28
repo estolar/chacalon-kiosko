@@ -186,6 +186,15 @@ async function main() {
     generatedAt,
     timezone: "America/Lima",
     region: "Perú y Lima",
+    currentFacts: [
+      {
+        subject: "Keiko Fujimori",
+        fact: "Es presidenta constitucional de la República del Perú para el periodo 2026-2031; asumió el cargo el 28 de julio de 2026.",
+        source: "Diario Oficial El Peruano",
+        url: "https://elperuano.pe/noticia/301264-keiko-fujimori-jura-como-presidenta-de-la-republica-para-el-periodo-2026-2031",
+        validFrom: "2026-07-28",
+      },
+    ],
     topics,
     recommendations: readRecommendations(),
     feedStatus,

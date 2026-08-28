@@ -20,6 +20,7 @@ const PLAYER_NAME_STORAGE_KEY = "retro-games.chacalon.player-name";
 const PLAYER_PROFILE_STORAGE_KEY = "retro-games.chacalon.profile";
 const MAX_SAVED_ANSWERS = 20;
 const MAX_SAVED_ANSWER_LENGTH = 240;
+const AI_REQUEST_TIMEOUT_MS = 30_000;
 
 function formatAudioTime(seconds) {
   if (!Number.isFinite(seconds) || seconds < 0) return "0:00";
@@ -30,7 +31,7 @@ function formatAudioTime(seconds) {
 }
 
 function shouldUseDailyContext(message) {
-  return /actualidad|noticia|hoy|ahora|pol[ií]tica|keiko|ministro|gobierno|presidente|congreso|econom[ií]a|sociedad|seguridad|d[oó]lar|inflaci[oó]n|precio|empleo|trabajo|negocio|empresa|emprend|inversi[oó]n|mercado|innovaci[oó]n|tecnolog[ií]a|inteligencia artificial|\bia\b|idea|redes sociales|viral|tendencia|far[aá]ndula|espect[aá]culo|chisme|evento|qu[eé] hacer|d[oó]nde (comer|ir)|recom|lugar|restaurante|discoteca|cebicher[ií]a|barrio/i.test(
+  return /actualidad|noticia|hoy|ahora|pol[ií]tica|keiko|\bkk\b|la\s+k\b|señora\s+k|chik[ao]|ministro|gobierno|presidente|congreso|econom[ií]a|sociedad|seguridad|d[oó]lar|inflaci[oó]n|precio|empleo|trabajo|negocio|empresa|emprend|inversi[oó]n|mercado|innovaci[oó]n|tecnolog[ií]a|inteligencia artificial|\bia\b|bill\s+gates|\bgates\b|microsoft|openai|google|meta|idea|redes sociales|viral|tendencia|far[aá]ndula|espect[aá]culo|chisme|evento|qu[eé] hacer|d[oó]nde (comer|ir)|recom|lugar|restaurante|discoteca|cebicher[ií]a|barrio/i.test(
     message
   );
 }
@@ -158,6 +159,91 @@ function toApiHistory(messages) {
     }));
 }
 
+function compactDailyContext(context) {
+  if (!context || typeof context !== "object") return null;
+
+  const trim = (value, length) =>
+    typeof value === "string" ? value.slice(0, length) : "";
+  const compactItem = (item) => ({
+    title: trim(item?.title, 240),
+    summary: trim(item?.summary, 320),
+    source: trim(item?.source, 100),
+    url: trim(item?.url, 500),
+    name: trim(item?.name, 160),
+    district: trim(item?.district, 100),
+    sponsored: Boolean(item?.sponsored),
+  });
+  const topics = {};
+
+  for (const category of ["politica", "economia", "sociedad", "cultura"]) {
+    topics[category] = Array.isArray(context.topics?.[category])
+      ? context.topics[category].slice(0, 6).map(compactItem)
+      : [];
+  }
+
+  return {
+    generatedAt: trim(context.generatedAt, 40),
+    region: trim(context.region, 100),
+    currentFacts: Array.isArray(context.currentFacts)
+      ? context.currentFacts.slice(0, 8).map((fact) => ({
+          subject: trim(fact?.subject, 120),
+          fact: trim(fact?.fact, 360),
+          source: trim(fact?.source, 100),
+          url: trim(fact?.url, 500),
+          validFrom: trim(fact?.validFrom, 20),
+        }))
+      : [],
+    topics,
+    recommendations: Array.isArray(context.recommendations)
+      ? context.recommendations.slice(0, 6).map(compactItem)
+      : [],
+  };
+}
+
+function extractStreamText(payload) {
+  return payload?.candidates?.[0]?.content?.parts
+    ?.map((part) => (typeof part.text === "string" ? part.text : ""))
+    .join("") || "";
+}
+
+async function readSseStream(response, onText) {
+  if (!response.body) throw new Error("Streaming is not supported by this browser");
+
+  const reader = response.body.getReader();
+  const decoder = new TextDecoder();
+  let buffer = "";
+
+  const processEvent = (event) => {
+    const data = event
+      .split(/\r?\n/)
+      .filter((line) => line.startsWith("data:"))
+      .map((line) => line.slice(5).trim())
+      .join("\n");
+
+    if (!data || data === "[DONE]") return data === "[DONE]";
+
+    const payload = JSON.parse(data);
+    const text = extractStreamText(payload);
+    if (text) onText(text);
+    return false;
+  };
+
+  while (true) {
+    const { value, done } = await reader.read();
+    buffer += decoder.decode(value || new Uint8Array(), { stream: !done });
+    const events = buffer.split(/\r?\n\r?\n/);
+    buffer = events.pop() || "";
+
+    for (const event of events) {
+      if (processEvent(event)) return;
+    }
+
+    if (done) break;
+  }
+
+  if (buffer.trim()) processEvent(buffer);
+}
+
 export default function ChacalonChat({ onExit }) {
   const [profile] = useState(readStoredProfile);
   const [playerName, setPlayerName] = useState(profile.name);
@@ -230,10 +316,16 @@ export default function ChacalonChat({ onExit }) {
 
   useEffect(() => () => window.clearTimeout(saluteTimerRef.current), []);
 
+  function finishSalute() {
+    window.clearTimeout(saluteTimerRef.current);
+    saluteTimerRef.current = null;
+    setIsSaluting(false);
+  }
+
   function triggerSalute() {
     window.clearTimeout(saluteTimerRef.current);
     setIsSaluting(true);
-    saluteTimerRef.current = window.setTimeout(() => setIsSaluting(false), 1800);
+    saluteTimerRef.current = window.setTimeout(finishSalute, 1800);
   }
 
   useEffect(() => {
@@ -580,6 +672,16 @@ export default function ChacalonChat({ onExit }) {
     setStatus("CONNECTING");
     if (shouldTriggerSalute(message)) triggerSalute();
     const nextAnswers = rememberAnswer(message);
+    const assistantId = `model-${Date.now()}`;
+    setMessages((current) => [
+      ...current,
+      { id: assistantId, role: "assistant", text: "" },
+    ]);
+    const requestController = new AbortController();
+    const timeoutId = window.setTimeout(
+      () => requestController.abort(),
+      AI_REQUEST_TIMEOUT_MS
+    );
 
     try {
       const response = await fetch(
@@ -587,38 +689,49 @@ export default function ChacalonChat({ onExit }) {
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
+          signal: requestController.signal,
           body: JSON.stringify({
             message,
             history: toApiHistory(messages),
             playerName,
             memory: nextAnswers,
-            dailyContext: shouldUseDailyContext(message) ? dailyContext : null,
+            dailyContext: shouldUseDailyContext(message)
+              ? compactDailyContext(dailyContext)
+              : null,
           }),
         }
       );
-      const payload = await response.json().catch(() => ({}));
-      const reply = typeof payload.reply === "string" ? payload.reply.trim() : "";
-
       if (!response.ok) {
+        const payload = await response.json().catch(() => ({}));
         throw new Error(payload.error || "AI server unavailable");
       }
 
-      if (!reply) {
-        throw new Error("AI server returned an empty response");
+      let streamedText = "";
+      if (response.body?.getReader) {
+        await readSseStream(response, (text) => {
+          streamedText += text;
+          setMessages((current) =>
+            current.map((item) =>
+              item.id === assistantId ? { ...item, text: streamedText } : item
+            )
+          );
+        });
+      } else {
+        const payload = await response.json().catch(() => ({}));
+        streamedText = typeof payload.reply === "string" ? payload.reply : "";
+        setMessages((current) =>
+          current.map((item) =>
+            item.id === assistantId ? { ...item, text: streamedText } : item
+          )
+        );
       }
 
-      setMessages((current) => [
-        ...current,
-        {
-          id: `model-${Date.now()}`,
-          role: "assistant",
-          text: reply,
-        },
-      ]);
+      if (!streamedText.trim()) throw new Error("AI server returned an empty stream");
       setStatus("ONLINE");
-    } catch {
+    } catch (error) {
+      const timedOut = error?.name === "AbortError";
       setMessages((current) => [
-        ...current,
+        ...current.filter((item) => item.id !== assistantId),
         {
           id: `fallback-${Date.now()}`,
           role: "assistant",
@@ -626,8 +739,14 @@ export default function ChacalonChat({ onExit }) {
           fallback: true,
         },
       ]);
-      setError("IA no disponible: usamos el modo de respaldo local.");
+      setError(
+        timedOut
+          ? "La IA está tardando demasiado: usamos el modo de respaldo local."
+          : "IA no disponible: usamos el modo de respaldo local."
+      );
       setStatus("OFFLINE");
+    } finally {
+      window.clearTimeout(timeoutId);
     }
   }
 
@@ -771,6 +890,7 @@ export default function ChacalonChat({ onExit }) {
               src={SALUTE_IMAGE_SRC}
               alt=""
               aria-hidden="true"
+              onAnimationEnd={finishSalute}
             />
           </div>
           <div className="chacalon-identity__copy">
