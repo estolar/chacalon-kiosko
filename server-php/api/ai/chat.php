@@ -137,7 +137,18 @@ function sanitizeMemory($memory): array
 
 function shouldUseDailyContext(string $message): bool
 {
-    return (bool) preg_match('/actualidad|noticia|hoy|ahora|pol[ií]tica|keiko|ministro|gobierno|presidente|congreso|econom[ií]a|sociedad|seguridad|d[oó]lar|inflaci[oó]n|precio|empleo|trabajo|negocio|empresa|emprend|inversi[oó]n|mercado|innovaci[oó]n|tecnolog[ií]a|inteligencia artificial|\bia\b|idea|redes sociales|viral|tendencia|far[aá]ndula|espect[aá]culo|chisme|evento|qu[eé] hacer|d[oó]nde (comer|ir)|recom|lugar|restaurante|discoteca|cebicher[ií]a|barrio/ui', $message);
+    return (bool) preg_match('/actualidad|noticia|hoy|ahora|pol[ií]tica|keiko|\bkk\b|\bla\s+k\b|señora\s+k|chik[ao]|ministro|gobierno|presidente|congreso|econom[ií]a|sociedad|seguridad|d[oó]lar|inflaci[oó]n|precio|empleo|trabajo|negocio|empresa|emprend|inversi[oó]n|mercado|innovaci[oó]n|tecnolog[ií]a|inteligencia artificial|\bia\b|idea|redes sociales|viral|tendencia|far[aá]ndula|espect[aá]culo|chisme|evento|qu[eé] hacer|d[oó]nde (comer|ir)|recom|lugar|restaurante|discoteca|cebicher[ií]a|barrio/ui', $message);
+}
+
+function normalizeNewsAliases(string $message): string
+{
+    $normalized = preg_replace(
+        '/\b(?:la\s+)?(?:kk|k)\b|\bla\s+señora\s+k\b|\bseñora\s+k\b|\bla\s+chik[ao]\b/ui',
+        'Keiko Fujimori',
+        $message
+    );
+
+    return is_string($normalized) ? $normalized : $message;
 }
 
 function sanitizeContextItem($item)
@@ -174,6 +185,23 @@ function sanitizeDailyContext($context)
 {
     if (!is_array($context)) return null;
 
+    $currentFacts = [];
+    $rawFacts = is_array($context['currentFacts'] ?? null) ? $context['currentFacts'] : [];
+    foreach (array_slice($rawFacts, 0, 8) as $fact) {
+        if (!is_array($fact)) continue;
+
+        $subject = sanitizeText($fact['subject'] ?? '', 120);
+        $factText = sanitizeText($fact['fact'] ?? '', 360);
+        if ($subject === '' || $factText === '') continue;
+
+        $currentFacts[] = [
+            'subject' => $subject,
+            'fact' => $factText,
+            'source' => sanitizeText($fact['source'] ?? '', 100),
+            'validFrom' => sanitizeText($fact['validFrom'] ?? '', 20),
+        ];
+    }
+
     $topics = [];
     foreach (['politica', 'economia', 'sociedad', 'negocios', 'ideas', 'ia', 'tendencias', 'farandula', 'cultura'] as $category) {
         $topics[$category] = [];
@@ -196,6 +224,7 @@ function sanitizeDailyContext($context)
     return [
         'generatedAt' => sanitizeText($context['generatedAt'] ?? '', 40),
         'region' => sanitizeText($context['region'] ?? '', 100),
+        'currentFacts' => $currentFacts,
         'topics' => $topics,
         'recommendations' => $recommendations,
     ];
@@ -221,6 +250,14 @@ function formatDailyContext($context): string
         'Región: ' . ($context['region'] ?: 'Perú') . '. Actualizado: ' . ($context['generatedAt'] ?: 'fecha no disponible') . '.',
     ];
 
+    if (!empty($context['currentFacts'])) {
+        $lines[] = 'HECHOS INSTITUCIONALES VIGENTES:';
+        foreach ($context['currentFacts'] as $fact) {
+            $source = !empty($fact['source']) ? ' (fuente: ' . $fact['source'] . ')' : '';
+            $lines[] = '- ' . $fact['subject'] . ': ' . $fact['fact'] . $source;
+        }
+    }
+
     foreach ($context['topics'] as $category => $items) {
         if (!$items) continue;
         $lines[] = strtoupper($category) . ':';
@@ -241,7 +278,7 @@ function formatDailyContext($context): string
         }
     }
 
-    $lines[] = 'Usa este bloque solo si el mensaje actual pide actualidad, contexto o recomendaciones. Prioriza los temas que pida el jugador: política peruana (incluidos Keiko, ministros, Gobierno y Congreso), economía, sociedad, negocios, innovación, inteligencia artificial, redes sociales, tendencias y farándula. Puedes combinar hasta tres titulares relacionados, menciona la fuente y fecha cuando estén disponibles, separa hechos de rumores y no presentes un chisme como confirmado. No inventes datos faltantes, horarios, precios ni lugares. Si una fuente no basta, dilo.';
+    $lines[] = 'Usa este bloque solo si el mensaje actual pide actualidad, contexto o recomendaciones. Prioriza los temas que pida el jugador: política peruana (incluidos Keiko, ministros, Gobierno y Congreso), economía, sociedad, negocios, innovación, inteligencia artificial, redes sociales, tendencias y farándula. Entiende "KK", "la K", "la señora K" y "la chika" como referencias a Keiko Fujimori. Si el jugador usa uno de esos términos, consérvalo de forma natural y no respondas como si fuera un personaje misterioso ni le pidas aclaración. Los HECHOS INSTITUCIONALES VIGENTES tienen prioridad sobre titulares antiguos: si indican que alguien ocupa un cargo actual, no lo describas como candidato o aspirante. Puedes combinar hasta tres titulares relacionados, menciona la fuente y fecha cuando estén disponibles, separa hechos de rumores y no presentes un chisme como confirmado. No inventes datos faltantes, horarios, precios ni lugares. Si una fuente no basta, dilo.';
     return substr(implode("\n", $lines), 0, 7500);
 }
 
@@ -308,7 +345,8 @@ if ($message === '') {
 $playerName = sanitizeText($body['playerName'] ?? '', 40);
 $memory = sanitizeMemory($body['memory'] ?? []);
 $history = sanitizeHistory($body['history'] ?? []);
-$dailyContext = shouldUseDailyContext($message)
+$contextQuery = normalizeNewsAliases($message);
+$dailyContext = shouldUseDailyContext($contextQuery)
     ? sanitizeDailyContext($body['dailyContext'] ?? readLocalDailyContext())
     : null;
 $playerContext = $playerName
@@ -346,6 +384,13 @@ resúmelos; no digas que no tienes el periódico, que no tienes noticias o que d
 comprarlo si el bloque sí contiene información. Si pide una fuente concreta que no
 aparece, dilo con claridad y ofrece los titulares disponibles. No evadas el tema con
 frases como "mejor hablemos de otra cosa".
+Entiende los alias políticos "KK", "la K", "la señora K" y "la chika" como
+referencias a Keiko Fujimori. Si el jugador usa uno de esos términos, consérvalo de
+forma natural en la respuesta; no lo trates como un personaje misterioso, no pidas
+aclaración innecesaria y no lo corrijas a menos que el jugador lo solicite.
+Los hechos institucionales vigentes tienen prioridad sobre titulares antiguos: si el
+contexto indica que alguien ocupa un cargo actual, no lo describas como candidato o
+aspirante a ese cargo.
 Después de responder brevemente, plantea una sola pregunta criolla que invite al
 jugador a continuar la conversa. Para un tema ajeno e inofensivo sí puedes volver con
 suavidad a tu mundo de música, barrio y conversa; no cambies de tema de golpe.

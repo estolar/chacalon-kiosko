@@ -381,16 +381,6 @@ input[type="number"]{
 }
 
 /* Chacalón Virtual chat */
-.chacalon-notice{
-  border:2px solid var(--neon-yellow);
-  color:var(--neon-yellow);
-  background:rgba(255,243,0,.06);
-  padding:10px;
-  font-family:var(--font-mono);
-  font-size:16px;
-  text-align:center;
-  margin-bottom:14px;
-}
 .chacalon-context-status{
   border:1px solid var(--neon-green);
   color:var(--neon-green);

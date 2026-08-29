@@ -99,6 +99,29 @@ describe("ChacalonChat", () => {
     );
   });
 
+  test("renders a JSON API reply even when the browser exposes a response body stream", async () => {
+    const getReader = jest.fn(() => {
+      throw new Error("JSON responses must not be parsed as SSE");
+    });
+    global.fetch = jest.fn().mockResolvedValue({
+      ok: true,
+      headers: { get: () => "application/json; charset=utf-8" },
+      body: { getReader },
+      json: async () => ({ reply: "Respuesta recibida desde la API PHP." }),
+    });
+
+    render(<ChacalonChat onExit={jest.fn()} />);
+    enterPlayerName();
+    const textarea = screen.getByLabelText(/Habla con Chacalón/i);
+    fireEvent.change(textarea, { target: { value: "hola" } });
+    fireEvent.submit(screen.getByRole("button", { name: "ENVIAR" }).closest("form"));
+
+    await waitFor(() => {
+      expect(screen.getByText(/Respuesta recibida desde la API PHP/i)).toBeInTheDocument();
+    });
+    expect(getReader).not.toHaveBeenCalled();
+  });
+
   test("recalls the saved player name in a later visit", () => {
     const firstVisit = render(<ChacalonChat onExit={jest.fn()} />);
     enterPlayerName("Enrique");

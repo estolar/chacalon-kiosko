@@ -707,7 +707,10 @@ export default function ChacalonChat({ onExit }) {
       }
 
       let streamedText = "";
-      if (response.body?.getReader) {
+      const contentType = response.headers?.get?.("content-type") || "";
+      const isSseResponse = contentType.toLowerCase().includes("text/event-stream");
+
+      if (isSseResponse && response.body?.getReader) {
         await readSseStream(response, (text) => {
           streamedText += text;
           setMessages((current) =>
@@ -770,10 +773,6 @@ export default function ChacalonChat({ onExit }) {
         </button>
       }
     >
-      <div className="chacalon-notice">
-        PERSONAJE VIRTUAL DE HOMENAJE · LA API KEY PERMANECE EN EL SERVIDOR
-      </div>
-
       {dailyContext && (
         <div className="chacalon-context-status">
           CONTEXTO DEL DÍA · {dailyContext.region || "PERÚ"} · ACTUALIZADO
