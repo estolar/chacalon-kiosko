@@ -122,6 +122,18 @@ describe("ChacalonChat", () => {
     expect(getReader).not.toHaveBeenCalled();
   });
 
+  test("opens the quick command palette when the player types a slash command", () => {
+    render(<ChacalonChat onExit={jest.fn()} />);
+    enterPlayerName();
+
+    const textarea = screen.getByLabelText(/Habla con Chacalón/i);
+    fireEvent.change(textarea, { target: { value: "/not" } });
+
+    expect(screen.getByRole("listbox", { name: /Comandos rápidos/i })).toBeInTheDocument();
+    expect(screen.getByRole("option", { name: /\/noticias.*Noticias del día/i })).toBeInTheDocument();
+    expect(screen.queryByRole("option", { name: /\/salud/i })).not.toBeInTheDocument();
+  });
+
   test("recalls the saved player name in a later visit", () => {
     const firstVisit = render(<ChacalonChat onExit={jest.fn()} />);
     enterPlayerName("Enrique");

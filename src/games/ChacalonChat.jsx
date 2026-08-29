@@ -42,6 +42,73 @@ function shouldTriggerSalute(message) {
   );
 }
 
+function shouldTriggerWink(message) {
+  return /\b(guiñ[oa]|guino|parpadea|parpadee)\b/i.test(message);
+}
+
+const SLASH_COMMANDS = [
+  {
+    command: "/salud",
+    label: "Hacer un brindis",
+    description: "Levantar la chela y celebrar",
+    prompt: "salud",
+  },
+  {
+    command: "/guiño",
+    label: "Guiñar el ojo",
+    description: "Un guiño especial para la causa",
+    prompt: "hazme un guiño",
+  },
+  {
+    command: "/noticias",
+    label: "Noticias del día",
+    description: "Revisar la actualidad reciente",
+    prompt: "¿Qué noticias tienes hoy?",
+  },
+  {
+    command: "/politica",
+    label: "Política peruana",
+    description: "Keiko, ministros, Gobierno y Congreso",
+    prompt: "¿Qué novedades hay hoy en la política peruana?",
+  },
+  {
+    command: "/economia",
+    label: "Economía y negocios",
+    description: "Empresas, empleo e inversiones",
+    prompt: "¿Qué novedades hay hoy en economía y negocios?",
+  },
+  {
+    command: "/ia",
+    label: "Noticias de IA",
+    description: "Tecnología e inteligencia artificial",
+    prompt: "¿Qué novedades hay hoy sobre inteligencia artificial?",
+  },
+  {
+    command: "/musica",
+    label: "Música chicha",
+    description: "Conversar de música y barrio",
+    prompt: "Hablemos de música chicha",
+  },
+  {
+    command: "/juego",
+    label: "Recomendar un juego",
+    description: "Elegir una partida arcade",
+    prompt: "¿Qué juego arcade me recomiendas?",
+  },
+  {
+    command: "/memoria",
+    label: "Lo que recuerdo de ti",
+    description: "Conversar sobre nuestra memoria",
+    prompt: "¿Qué recuerdas de mí?",
+  },
+  {
+    command: "/ayuda",
+    label: "Ver los comandos",
+    description: "Mostrar cómo conversar con Chacalón",
+    prompt: "¿Qué comandos puedo usar contigo?",
+  },
+];
+
 const INTRO_MESSAGE = {
   id: "intro",
   role: "assistant",
@@ -275,6 +342,19 @@ export default function ChacalonChat({ onExit }) {
   const [isWinking, setIsWinking] = useState(false);
   const [isSaluting, setIsSaluting] = useState(false);
   const saluteTimerRef = useRef(null);
+  const winkCommandTimerRef = useRef(null);
+  const [slashMenuOpen, setSlashMenuOpen] = useState(false);
+  const [slashCommandIndex, setSlashCommandIndex] = useState(0);
+
+  const slashMatch = playerName && input.match(/^\/([^\s]*)$/);
+  const slashQuery = slashMatch ? slashMatch[1].toLocaleLowerCase("es-PE") : "";
+  const slashCommands = slashMatch
+    ? SLASH_COMMANDS.filter(({ command }) =>
+        command.slice(1).toLocaleLowerCase("es-PE").startsWith(slashQuery)
+      )
+    : [];
+  const showSlashMenu =
+    slashMenuOpen && slashCommands.length > 0 && status !== "CONNECTING";
 
   useEffect(() => {
     if (typeof messagesEndRef.current?.scrollIntoView === "function") {
@@ -314,7 +394,13 @@ export default function ChacalonChat({ onExit }) {
     };
   }, []);
 
-  useEffect(() => () => window.clearTimeout(saluteTimerRef.current), []);
+  useEffect(
+    () => () => {
+      window.clearTimeout(saluteTimerRef.current);
+      window.clearTimeout(winkCommandTimerRef.current);
+    },
+    []
+  );
 
   function finishSalute() {
     window.clearTimeout(saluteTimerRef.current);
@@ -326,6 +412,15 @@ export default function ChacalonChat({ onExit }) {
     window.clearTimeout(saluteTimerRef.current);
     setIsSaluting(true);
     saluteTimerRef.current = window.setTimeout(finishSalute, 1800);
+  }
+
+  function triggerWink() {
+    window.clearTimeout(winkCommandTimerRef.current);
+    setIsWinking(true);
+    winkCommandTimerRef.current = window.setTimeout(() => {
+      setIsWinking(false);
+      winkCommandTimerRef.current = null;
+    }, 180);
   }
 
   useEffect(() => {
@@ -591,6 +686,7 @@ export default function ChacalonChat({ onExit }) {
   function resetChat() {
     setMessages([createIntroMessage(playerName)]);
     setInput("");
+    setSlashMenuOpen(false);
     setError("");
     setStatus("READY");
   }
@@ -628,6 +724,7 @@ export default function ChacalonChat({ onExit }) {
         },
       ]);
       setInput("");
+      setSlashMenuOpen(false);
       setError("");
       setStatus("READY");
       return;
@@ -653,6 +750,7 @@ export default function ChacalonChat({ onExit }) {
         },
       ]);
       setInput("");
+      setSlashMenuOpen(false);
       setError("");
       setStatus("READY");
       return;
@@ -668,9 +766,11 @@ export default function ChacalonChat({ onExit }) {
       },
     ]);
     setInput("");
+    setSlashMenuOpen(false);
     setError("");
     setStatus("CONNECTING");
     if (shouldTriggerSalute(message)) triggerSalute();
+    if (shouldTriggerWink(message)) triggerWink();
     const nextAnswers = rememberAnswer(message);
     const assistantId = `model-${Date.now()}`;
     setMessages((current) => [
@@ -754,10 +854,53 @@ export default function ChacalonChat({ onExit }) {
   }
 
   function handleInputKeyDown(event) {
+    if (showSlashMenu) {
+      if (event.key === "ArrowDown") {
+        event.preventDefault();
+        setSlashCommandIndex((current) => (current + 1) % slashCommands.length);
+        return;
+      }
+
+      if (event.key === "ArrowUp") {
+        event.preventDefault();
+        setSlashCommandIndex(
+          (current) => (current - 1 + slashCommands.length) % slashCommands.length
+        );
+        return;
+      }
+
+      if (event.key === "Escape") {
+        event.preventDefault();
+        setSlashMenuOpen(false);
+        return;
+      }
+
+      if (event.key === "Enter" && !event.shiftKey) {
+        event.preventDefault();
+        handleSlashCommandSelect(slashCommands[slashCommandIndex]);
+        return;
+      }
+    }
+
     if (event.key === "Enter" && !event.shiftKey) {
       event.preventDefault();
       event.currentTarget.form?.requestSubmit();
     }
+  }
+
+  function handleInputChange(event) {
+    const nextInput = event.target.value;
+    setInput(nextInput);
+    setSlashCommandIndex(0);
+    setSlashMenuOpen(Boolean(playerName && /^\/[^\s]*$/.test(nextInput)));
+  }
+
+  function handleSlashCommandSelect(command) {
+    if (!command) return;
+
+    setSlashMenuOpen(false);
+    setInput(command.prompt);
+    window.setTimeout(() => inputRef.current?.form?.requestSubmit(), 0);
   }
 
   return (
@@ -926,12 +1069,48 @@ export default function ChacalonChat({ onExit }) {
               <label className="chacalon-form__label" htmlFor="chacalon-message">
                 {playerName ? "HABLA CON CHACALÓN" : "DILE TU NOMBRE A CHACALÓN"}
               </label>
+              {showSlashMenu && (
+                <div
+                  id="chacalon-slash-menu"
+                  className="chacalon-slash-menu"
+                  role="listbox"
+                  aria-label="Comandos rápidos de Chacalón"
+                >
+                  <div className="chacalon-slash-menu__hint">
+                    COMANDOS RÁPIDOS · ELIGE UNA OPCIÓN
+                  </div>
+                  {slashCommands.map((command, index) => (
+                    <button
+                      className={`chacalon-slash-menu__item ${
+                        index === slashCommandIndex ? "is-active" : ""
+                      }`}
+                      key={command.command}
+                      type="button"
+                      role="option"
+                      aria-selected={index === slashCommandIndex}
+                      onMouseDown={(event) => event.preventDefault()}
+                      onClick={() => handleSlashCommandSelect(command)}
+                    >
+                      <span className="chacalon-slash-menu__command">
+                        {command.command}
+                      </span>
+                      <span className="chacalon-slash-menu__label">
+                        {command.label}
+                      </span>
+                      <span className="chacalon-slash-menu__description">
+                        {command.description}
+                      </span>
+                    </button>
+                  ))}
+                </div>
+              )}
               <textarea
                 id="chacalon-message"
                 ref={inputRef}
                 value={input}
-                onChange={(event) => setInput(event.target.value)}
+                onChange={handleInputChange}
                 onKeyDown={handleInputKeyDown}
+                aria-controls="chacalon-slash-menu"
                 placeholder={playerName ? "Escribe un mensaje..." : "Escribe tu nombre..."}
                 rows={3}
                 maxLength={1200}
