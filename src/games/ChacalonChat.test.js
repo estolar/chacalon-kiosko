@@ -62,7 +62,7 @@ describe("ChacalonChat", () => {
 
     expect(screen.getAllByText("Enrique")).toHaveLength(2);
     expect(screen.getByText(/Bienvenido, causa/i)).toBeInTheDocument();
-    expect(window.localStorage.getItem("retro-games.chacalon.player-name")).toBe("Enrique");
+    expect(window.localStorage.getItem("chacalon-virtual.player-name")).toBe("Enrique");
   });
 
   function enterPlayerName(name = "Enrique") {
@@ -120,7 +120,7 @@ describe("ChacalonChat", () => {
     fireEvent.submit(screen.getByRole("button", { name: "ENVIAR" }).closest("form"));
 
     expect(screen.getByText(/Desde ahora te llamo Quique/i)).toBeInTheDocument();
-    expect(window.localStorage.getItem("retro-games.chacalon.player-name")).toBe("Quique");
+    expect(window.localStorage.getItem("chacalon-virtual.player-name")).toBe("Quique");
 
     const labels = Array.from(
       container.querySelectorAll(".chacalon-message__label")
@@ -131,7 +131,7 @@ describe("ChacalonChat", () => {
     fireEvent.submit(screen.getByRole("button", { name: "ENVIAR" }).closest("form"));
 
     expect(screen.getByText(/Desde ahora te llamo Gus/i)).toBeInTheDocument();
-    expect(window.localStorage.getItem("retro-games.chacalon.player-name")).toBe("Gus");
+    expect(window.localStorage.getItem("chacalon-virtual.player-name")).toBe("Gus");
     expect(
       Array.from(container.querySelectorAll(".chacalon-message__label"))
         .filter((label) => label.textContent === "Gus")

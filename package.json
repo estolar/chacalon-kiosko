@@ -1,8 +1,8 @@
 {
-  "name": "retro-games",
+  "name": "chacalon-virtual",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/retro-games",
+  "homepage": "/chacalon",
   "proxy": "http://localhost:3002",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",

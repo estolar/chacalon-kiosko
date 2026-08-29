@@ -11,13 +11,13 @@ const BODY_MOTION_SRC = `${PUBLIC_URL}/images/chacalon-arcade-body.png`;
 const SALUTE_IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-arcade-salute.png`;
 const LOCAL_CONTEXT_URL = `${PUBLIC_URL.replace(/\/$/, "")}/data/context.json`;
 const PRODUCTION_CONTEXT_URL =
-  "https://raw.githubusercontent.com/estolar/retro-games/main/public/data/context.json";
+  "https://raw.githubusercontent.com/estolar/retro-games-streaming/main/public/data/context.json";
 const CONTEXT_URL =
   process.env.REACT_APP_CONTEXT_URL ||
   (process.env.NODE_ENV === "production" ? PRODUCTION_CONTEXT_URL : LOCAL_CONTEXT_URL);
 const CONTEXT_REFRESH_INTERVAL = 60 * 60 * 1000;
-const PLAYER_NAME_STORAGE_KEY = "retro-games.chacalon.player-name";
-const PLAYER_PROFILE_STORAGE_KEY = "retro-games.chacalon.profile";
+const PLAYER_NAME_STORAGE_KEY = "chacalon-virtual.player-name";
+const PLAYER_PROFILE_STORAGE_KEY = "chacalon-virtual.profile";
 const MAX_SAVED_ANSWERS = 20;
 const MAX_SAVED_ANSWER_LENGTH = 240;
 const AI_REQUEST_TIMEOUT_MS = 30_000;

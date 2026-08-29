@@ -4,7 +4,7 @@ import bg404 from "../assets/404-player-lost.png";
 
 const tips = [
   "¿Has probado a reiniciar el juego?",
-  "Asegúrate de que tu carpeta es /retro-games/",
+  "Asegúrate de que tu carpeta es /chacalon/",
   "Intenta navegar a la página de inicio"
 ];
 
@@ -31,11 +31,11 @@ export default function NotFound404() {
 
         <nav className="nf404__actions" aria-label="Acciones">
           <Link className="btn btn-primary" to="/">
-            Volver al Arcade
+            Volver a Chacalón
           </Link>
 
-          <a className="btn" href="/">
-            Ir a Inicio
+          <a className="btn" href="/retro-games/">
+            Ir al Arcade
           </a>
         </nav>
 

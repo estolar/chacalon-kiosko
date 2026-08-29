@@ -1,7 +1,7 @@
 <IfModule mod_rewrite.c>
   RewriteEngine On
-  RewriteBase /retro-games/
+  RewriteBase /chacalon/
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_FILENAME} !-d
-  RewriteRule . /retro-games/index.html [L]
+  RewriteRule . /chacalon/index.html [L]
 </IfModule>

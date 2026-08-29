@@ -1,6 +1,6 @@
-# Retro Games
+# Chacalón Virtual
 
-Una colección de juegos arcade construida con React. El proyecto funciona como laboratorio para practicar desarrollo de interfaces, programación orientada a objetos, Canvas, animación, física sencilla y diseño de videojuegos.
+Una experiencia conversacional retro construida con React: Chacalón Virtual, música chicha, visuales arcade, memoria local, actualidad y respuestas de Gemini mediante streaming. Este repositorio es independiente de `retro-games`.
 
 ## Probarlo en local
 
@@ -12,7 +12,7 @@ npm start
 Después abre:
 
 ```text
-http://localhost:3000/retro-games/
+http://localhost:3010/chacalon/
 ```
 
 Si el puerto 3000 está ocupado, Create React App propondrá otro puerto. En ese caso utiliza la dirección que muestre la terminal.
@@ -51,7 +51,7 @@ El chat puede recibir contexto de actualidad mediante un JSON generado por GitHu
 Para que la versión publicada lea el archivo actualizado de GitHub, compila con:
 
 ```powershell
-$env:REACT_APP_CONTEXT_URL="https://raw.githubusercontent.com/estolar/retro-games/main/public/data/context.json"
+$env:REACT_APP_CONTEXT_URL="https://raw.githubusercontent.com/estolar/retro-games-streaming/main/public/data/context.json"
 ```
 
 La explicación de la arquitectura y del flujo está en [Conversando con Chacalón Virtual](docs/games/chacalon-chat.md).
@@ -62,13 +62,13 @@ La experiencia incluye temporalmente `public/audio/caballito-pixelado-45s-test.m
 
 No necesitamos contratar la instancia Node.js. El Node (`server/aiProxy.js`) queda para desarrollo local y el hosting usa el endpoint PHP de `server-php/`.
 
-1. Genera el frontend con `npm run build` y sube el contenido de `build/` a la carpeta pública de `/retro-games/`.
-2. Sube `server-php/api/ai/chat.php` a `/retro-games/api/ai/chat.php`.
+1. Genera el frontend con `npm run build` y sube el contenido de `build/` a la carpeta pública de `/chacalon/`.
+2. Sube `server-php/api/ai/chat.php` a `/chacalon/api/ai/chat.php`.
 3. Copia `server-php/api/config/gemini.php.example` como `api/config/gemini.php` en el hosting y completa allí `apiKey`. Ese archivo está excluido de Git y protegido por `.htaccess`.
 4. Antes de compilar para producción, configura la ruta PHP:
 
    ```powershell
-   $env:REACT_APP_AI_API_PATH="/retro-games/api/ai/chat.php"
+   $env:REACT_APP_AI_API_PATH="/chacalon/api/ai/chat.php"
    npm run build
    ```
 
@@ -189,7 +189,7 @@ BOOT → MENU → GAME
            └── Cannon Trainer
 ```
 
-La aplicación se publica bajo `/retro-games`, configurado en `package.json` y en el `basename` de `BrowserRouter`.
+La aplicación se publica bajo `/chacalon`, configurado en `package.json`, en el `basename` de `BrowserRouter` y en `public/.htaccess`. El arcade original continúa publicándose bajo `/retro-games/` desde su propio repositorio.
 
 ## Documentación técnica
 
