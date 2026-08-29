@@ -39,7 +39,7 @@ proyecto usa un pequeño paquete JSON actualizado por GitHub Actions:
 
 ```text
 Fuentes RSS públicas de Google News
-            │  (una vez al día)
+            │  (cada hora)
             ▼
 scripts/update-context.js
             │
@@ -62,7 +62,7 @@ desarrollo usa `/data/context.json`; en producción usa por defecto la versión 
 de GitHub. También se puede configurar `REACT_APP_CONTEXT_URL`:
 
 ```powershell
-$env:REACT_APP_CONTEXT_URL="https://raw.githubusercontent.com/estolar/retro-games/main/public/data/context.json"
+$env:REACT_APP_CONTEXT_URL="https://raw.githubusercontent.com/estolar/retro-games-streaming/main/public/data/context.json"
 ```
 
 El mensaje solo envía el contexto al servidor cuando parece pedir actualidad,
@@ -95,7 +95,7 @@ como si estuvieran comprobados.
 - El personaje usa un tono peruano, criollo y barrial, con buenos deseos, sin afirmar que sea Chacalón real.
 - Si le piden dinero, el personaje no promete prestarlo: responde con una ocurrencia recursera y buenos deseos.
 - El nombre del jugador se guarda en `localStorage` y puede actualizarse varias veces durante la conversación.
-- La memoria local conserva hasta veinte aportes recientes del jugador en `retro-games.chacalon.profile`; sirve como contexto breve y no como una base de datos permanente. Se mantiene en el navegador del jugador y no se sincroniza entre dispositivos.
+- La memoria local conserva hasta veinte aportes recientes del jugador en `chacalon-virtual.profile`; sirve como contexto breve y no como una base de datos permanente. Se mantiene en el navegador del jugador y no se sincroniza entre dispositivos.
 - El historial visual y la memoria se envían al proxy, que prioriza el mensaje actual cuando existe una contradicción.
 - El personaje sigue el tema que proponga el jugador y solo vuelve a los juegos cuando la conversación lo pide.
 - El contexto se consulta para mensajes relacionados con política, economía, sociedad, negocios, ideas, inteligencia artificial, tendencias, farándula, lugares, eventos o recomendaciones; para otros temas la conversación conserva su tono de barrio sin forzar titulares.
@@ -112,4 +112,4 @@ npm run ai-server
 npm start
 ```
 
-La interfaz aparece en el menú principal como **Conversando con Chacalón Virtual**.
+La interfaz aparece directamente en `/chacalon/` como **Conversando con Chacalón Virtual**.

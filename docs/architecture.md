@@ -1,24 +1,22 @@
-# Arquitectura de Retro Games
+# Arquitectura de Chacalón Virtual
 
 ## Objetivo
 
-Retro Games está organizado como un laboratorio de interfaces y videojuegos. La aplicación combina componentes React para la interfaz con pequeños motores imperativos para los juegos que utilizan Canvas.
+Chacalón Virtual es una aplicación independiente del arcade `retro-games`. Combina una interfaz React, un reproductor visual y un proxy para conversar con Gemini.
 
 ## Flujo principal
 
 ```text
 index.js
-  ↓ BrowserRouter (basename: /retro-games)
+  ↓ BrowserRouter (basename: /chacalon)
 App.jsx
-  ├── /       → ArcadeApp
+  ├── /       → ChacalonStandaloneApp
+  │              ↓
+  │       ChacalonChat
   └── *       → NotFound404
-              ↓
-       boot → menu → game
-                     ↓
-          Space Invaders | Cannon Trainer | Pong
 ```
 
-`ArcadeApp` mantiene el estado de navegación del arcade. El juego activo se identifica mediante `activeGameId` y cada juego recibe `onExit` para regresar al menú.
+`ChacalonStandaloneApp` presenta directamente la experiencia conversacional. El botón de salida lleva al arcade original en `/retro-games/`.
 
 ## Capas del proyecto
 
@@ -36,22 +34,18 @@ Responsabilidades:
 
 ### 2. Motor del juego
 
-`spaceInvadersEngine.js` y `pongEngine.js` contienen la simulación del juego:
+El visualizador de música utiliza Canvas y Web Audio:
 
-- Bucle `requestAnimationFrame`.
-- Entrada de teclado.
-- Actualización de entidades.
-- Colisiones.
-- Marcador y fases de partida.
-- Renderizado en Canvas.
+El elemento `<audio>` alimenta un `AnalyserNode`; un bucle `requestAnimationFrame`
+dibuja barras, ondas, anillos y scanlines sin depender de Gemini.
 
-El motor no renderiza botones ni depende de componentes React. Envía cambios al HUD mediante callbacks como `onHUD` y `onMessage`.
+### 3. Conversación e IA
 
-### 3. Lógica pura
+`ChacalonChat.jsx` envía el mensaje, el historial, la memoria local y el contexto
+diario a `server/aiProxy.js` durante el desarrollo. En producción, `chat.php` cumple
+la misma función para el hosting.
 
-Las funciones de `cannonPhysics.js` y `pongPhysics.js` reciben datos y devuelven resultados sin modificar la interfaz.
-
-Esto permite probar la física con tests rápidos y deterministas.
+La respuesta de Gemini se retransmite mediante SSE para mostrarla progresivamente.
 
 ### 4. Estilos
 
@@ -101,4 +95,5 @@ Esta máquina evita que el juego se actualice cuando está pausado o terminado.
 
 ## Despliegue
 
-`package.json` define `homepage: "/retro-games"` y `index.js` utiliza el mismo valor como `basename`. Esto permite publicar el build en GitHub Pages dentro de esa subcarpeta.
+`package.json` define `homepage: "/chacalon"`, `index.js` utiliza el mismo valor como
+`basename` y `public/.htaccess` permite resolver las rutas internas en Apache.
