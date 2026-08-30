@@ -2,10 +2,12 @@ import React, { useEffect, useRef, useState } from "react";
 import GameShell from "../components/GameShell";
 
 const API_URL = process.env.REACT_APP_AI_API_URL || "";
+const PUBLIC_URL = process.env.PUBLIC_URL || "";
 const API_PATH =
   process.env.REACT_APP_AI_API_PATH ||
-  (process.env.NODE_ENV === "production" ? "/api/ai/chat.php" : "/api/ai/chat");
-const PUBLIC_URL = process.env.PUBLIC_URL || "";
+  (process.env.NODE_ENV === "production"
+    ? `${PUBLIC_URL.replace(/\/$/, "")}/api/ai/chat.php`
+    : "/api/ai/chat");
 const AUDIO_SRC = `${PUBLIC_URL}/audio/caballito-pixelado.mp3`;
 const IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-arcade.png`;
 const WINK_IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-arcade-wink.png`;
