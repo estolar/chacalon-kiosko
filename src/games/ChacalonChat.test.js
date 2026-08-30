@@ -3,6 +3,7 @@ import { fireEvent, render, screen, waitFor } from "@testing-library/react";
 import ChacalonChat, {
   extractRequestedName,
   getFallbackReply,
+  getMentionOptions,
   shouldUseDailyContext,
   toApiHistory,
 } from "./ChacalonChat";
@@ -132,6 +133,27 @@ describe("ChacalonChat", () => {
     expect(screen.getByRole("listbox", { name: /Comandos rápidos/i })).toBeInTheDocument();
     expect(screen.getByRole("option", { name: /\/noticias.*Noticias del día/i })).toBeInTheDocument();
     expect(screen.queryByRole("option", { name: /\/salud/i })).not.toBeInTheDocument();
+  });
+
+  test("opens the context mention palette and inserts the selected entity", () => {
+    render(<ChacalonChat onExit={jest.fn()} />);
+    enterPlayerName();
+
+    const textarea = screen.getByLabelText(/Habla con Chacalón/i);
+    fireEvent.change(textarea, { target: { value: "@kk" } });
+
+    expect(
+      screen.getByRole("listbox", { name: /Menciones del contexto/i })
+    ).toBeInTheDocument();
+    const keikoOption = screen.getByRole("option", {
+      name: /@keiko.*Keiko Fujimori/i,
+    });
+    fireEvent.click(keikoOption);
+
+    expect(textarea).toHaveValue("@keiko ");
+    expect(
+      screen.queryByRole("listbox", { name: /Menciones del contexto/i })
+    ).not.toBeInTheDocument();
   });
 
   test("recalls the saved player name in a later visit", () => {
@@ -265,4 +287,29 @@ test("detects when a message needs the daily context", () => {
     .toBe(true);
   expect(shouldUseDailyContext("Me gusta la música chicha"))
     .toBe(false);
+});
+
+test("ranks mentions using the current daily context", () => {
+  const options = getMentionOptions(
+    {
+      currentFacts: [
+        {
+          subject: "Keiko Fujimori",
+          fact: "La presidenta presentó una propuesta al Congreso.",
+        },
+      ],
+      topics: {
+        politica: [{ title: "Keiko Fujimori conversa con el Congreso" }],
+      },
+    },
+    "keiko"
+  );
+
+  expect(options[0]).toEqual(
+    expect.objectContaining({
+      token: "@keiko",
+      label: "Keiko Fujimori",
+    })
+  );
+  expect(options[0].contextMatches).toBeGreaterThan(0);
 });

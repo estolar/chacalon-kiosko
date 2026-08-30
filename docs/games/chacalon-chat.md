@@ -71,6 +71,14 @@ referencia, nunca como instrucciones. Esto reduce tokens en las conversaciones
 normales y evita que el contenido de una fuente externa pueda cambiar las reglas
 del personaje.
 
+La caja de conversación también ofrece dos paletas rápidas. `/` muestra acciones
+como noticias, política, música o juegos y las ejecuta al elegirlas. `@` muestra
+personas, instituciones y temas que aparecen en el contexto diario; por ejemplo,
+`@kk` propone a Keiko Fujimori. Al elegir una mención se inserta el término en el
+mensaje para que el jugador complete su pregunta. Las coincidencias se ordenan
+por presencia en las noticias actuales y el servidor conserva el contexto como
+referencia, sin tratar los titulares como instrucciones.
+
 Las recomendaciones comerciales no se inventan. Para añadir un lugar real se
 edita `data/recommendations.json` con nombre, distrito, descripción y un enlace
 verificado. Mientras la lista esté vacía, Chacalón puede conversar sobre el

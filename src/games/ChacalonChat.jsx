@@ -109,6 +109,191 @@ const SLASH_COMMANDS = [
   },
 ];
 
+const MENTION_CATALOG = [
+  {
+    token: "@keiko",
+    label: "Keiko Fujimori",
+    category: "PERSONAS",
+    aliases: ["keiko", "keiko fujimori", "kk", "la k", "señora k", "chika"],
+  },
+  {
+    token: "@billgates",
+    label: "Bill Gates",
+    category: "PERSONAS",
+    aliases: ["bill gates", "gates"],
+  },
+  {
+    token: "@dinaboluarte",
+    label: "Dina Boluarte",
+    category: "PERSONAS",
+    aliases: ["dina boluarte", "dina"],
+  },
+  {
+    token: "@congreso",
+    label: "Congreso de la República",
+    category: "INSTITUCIONES",
+    aliases: ["congreso", "congreso de la republica", "parlamento"],
+  },
+  {
+    token: "@consejodeministros",
+    label: "Consejo de Ministros",
+    category: "INSTITUCIONES",
+    aliases: ["consejo de ministros", "ministros", "gabinete"],
+  },
+  {
+    token: "@gobierno",
+    label: "Gobierno del Perú",
+    category: "INSTITUCIONES",
+    aliases: ["gobierno", "ejecutivo", "gobierno del peru"],
+  },
+  {
+    token: "@microsoft",
+    label: "Microsoft",
+    category: "EMPRESAS Y TECNOLOGÍA",
+    aliases: ["microsoft"],
+  },
+  {
+    token: "@google",
+    label: "Google",
+    category: "EMPRESAS Y TECNOLOGÍA",
+    aliases: ["google"],
+  },
+  {
+    token: "@openai",
+    label: "OpenAI",
+    category: "EMPRESAS Y TECNOLOGÍA",
+    aliases: ["openai"],
+  },
+  {
+    token: "@ia",
+    label: "Inteligencia artificial",
+    category: "TEMAS",
+    aliases: ["inteligencia artificial", "ia", "ai"],
+  },
+  {
+    token: "@economia",
+    label: "Economía y negocios",
+    category: "TEMAS",
+    aliases: ["economia", "economía", "negocios", "empresa", "empleo"],
+  },
+  {
+    token: "@farandula",
+    label: "Farándula peruana",
+    category: "TEMAS",
+    aliases: ["farandula", "farándula", "espectaculo", "espectáculo"],
+  },
+];
+
+function normalizeMentionText(value) {
+  return String(value || "")
+    .toLocaleLowerCase("es-PE")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "");
+}
+
+function createMentionToken(label) {
+  const slug = normalizeMentionText(label)
+    .replace(/[^a-z0-9]+/g, "")
+    .slice(0, 28);
+  return slug ? `@${slug}` : "@tema";
+}
+
+function getContextSearchText(context) {
+  if (!context || typeof context !== "object") return "";
+
+  const values = [];
+  for (const fact of Array.isArray(context.currentFacts) ? context.currentFacts : []) {
+    values.push(fact?.subject, fact?.fact, fact?.source);
+  }
+
+  for (const items of Object.values(context.topics || {})) {
+    for (const item of Array.isArray(items) ? items : []) {
+      values.push(item?.title, item?.summary, item?.source, item?.name);
+    }
+  }
+
+  for (const item of Array.isArray(context.recommendations)
+    ? context.recommendations
+    : []) {
+    values.push(item?.title, item?.summary, item?.source, item?.name);
+  }
+
+  return normalizeMentionText(values.filter(Boolean).join(" "));
+}
+
+function countMentionMatches(text, aliases) {
+  const uniqueAliases = [
+    ...new Set(aliases.map((alias) => normalizeMentionText(alias).trim())),
+  ];
+
+  return uniqueAliases.reduce((total, normalizedAlias) => {
+    if (!normalizedAlias || !text.includes(normalizedAlias)) return total;
+
+    let count = 0;
+    let start = 0;
+    while (start < text.length) {
+      const matchIndex = text.indexOf(normalizedAlias, start);
+      if (matchIndex === -1) break;
+      count += 1;
+      start = matchIndex + normalizedAlias.length;
+    }
+    return total + count;
+  }, 0);
+}
+
+function getMentionOptions(context, query = "") {
+  const contextSearchText = getContextSearchText(context);
+  const hasContext = Boolean(contextSearchText);
+  const normalizedQuery = normalizeMentionText(query).replace(/^@/, "").trim();
+  const catalog = [...MENTION_CATALOG];
+  const catalogLabels = new Set(catalog.map(({ label }) => normalizeMentionText(label)));
+
+  for (const fact of Array.isArray(context?.currentFacts) ? context.currentFacts : []) {
+    const subject = typeof fact?.subject === "string" ? fact.subject.trim() : "";
+    const normalizedSubject = normalizeMentionText(subject);
+    if (!subject || normalizedSubject.length < 3 || catalogLabels.has(normalizedSubject)) {
+      continue;
+    }
+
+    catalog.push({
+      token: createMentionToken(subject),
+      label: subject,
+      category: "CONTEXTO DEL DÍA",
+      aliases: [subject],
+    });
+    catalogLabels.add(normalizedSubject);
+  }
+
+  return catalog
+    .map((entity, index) => {
+      const terms = [entity.token.slice(1), entity.label, ...(entity.aliases || [])];
+      const matchesQuery = !normalizedQuery || terms.some((term) => {
+        const normalizedTerm = normalizeMentionText(term);
+        return (
+          normalizedTerm.startsWith(normalizedQuery) ||
+          normalizedTerm.includes(normalizedQuery)
+        );
+      });
+
+      return {
+        ...entity,
+        contextMatches: countMentionMatches(contextSearchText, terms),
+        matchesQuery,
+        catalogIndex: index,
+      };
+    })
+    .filter(({ matchesQuery, contextMatches }) => {
+      if (!matchesQuery) return false;
+      if (normalizedQuery) return true;
+      return hasContext ? contextMatches > 0 : true;
+    })
+    .sort(
+      (left, right) =>
+        right.contextMatches - left.contextMatches || left.catalogIndex - right.catalogIndex
+    )
+    .slice(0, 10);
+}
+
 const INTRO_MESSAGE = {
   id: "intro",
   role: "assistant",
@@ -345,6 +530,8 @@ export default function ChacalonChat({ onExit }) {
   const winkCommandTimerRef = useRef(null);
   const [slashMenuOpen, setSlashMenuOpen] = useState(false);
   const [slashCommandIndex, setSlashCommandIndex] = useState(0);
+  const [mentionMenuOpen, setMentionMenuOpen] = useState(false);
+  const [mentionIndex, setMentionIndex] = useState(0);
 
   const slashMatch = playerName && input.match(/^\/([^\s]*)$/);
   const slashQuery = slashMatch ? slashMatch[1].toLocaleLowerCase("es-PE") : "";
@@ -355,6 +542,11 @@ export default function ChacalonChat({ onExit }) {
     : [];
   const showSlashMenu =
     slashMenuOpen && slashCommands.length > 0 && status !== "CONNECTING";
+  const mentionMatch = playerName && input.match(/(?:^|\s)@([^\s]*)$/);
+  const mentionQuery = mentionMatch ? mentionMatch[1] : "";
+  const mentionOptions = getMentionOptions(dailyContext, mentionQuery);
+  const showMentionMenu =
+    mentionMenuOpen && mentionOptions.length > 0 && status !== "CONNECTING";
 
   useEffect(() => {
     if (typeof messagesEndRef.current?.scrollIntoView === "function") {
@@ -687,6 +879,7 @@ export default function ChacalonChat({ onExit }) {
     setMessages([createIntroMessage(playerName)]);
     setInput("");
     setSlashMenuOpen(false);
+    setMentionMenuOpen(false);
     setError("");
     setStatus("READY");
   }
@@ -725,6 +918,7 @@ export default function ChacalonChat({ onExit }) {
       ]);
       setInput("");
       setSlashMenuOpen(false);
+      setMentionMenuOpen(false);
       setError("");
       setStatus("READY");
       return;
@@ -751,6 +945,7 @@ export default function ChacalonChat({ onExit }) {
       ]);
       setInput("");
       setSlashMenuOpen(false);
+      setMentionMenuOpen(false);
       setError("");
       setStatus("READY");
       return;
@@ -767,6 +962,7 @@ export default function ChacalonChat({ onExit }) {
     ]);
     setInput("");
     setSlashMenuOpen(false);
+    setMentionMenuOpen(false);
     setError("");
     setStatus("CONNECTING");
     if (shouldTriggerSalute(message)) triggerSalute();
@@ -854,6 +1050,34 @@ export default function ChacalonChat({ onExit }) {
   }
 
   function handleInputKeyDown(event) {
+    if (showMentionMenu) {
+      if (event.key === "ArrowDown") {
+        event.preventDefault();
+        setMentionIndex((current) => (current + 1) % mentionOptions.length);
+        return;
+      }
+
+      if (event.key === "ArrowUp") {
+        event.preventDefault();
+        setMentionIndex(
+          (current) => (current - 1 + mentionOptions.length) % mentionOptions.length
+        );
+        return;
+      }
+
+      if (event.key === "Escape") {
+        event.preventDefault();
+        setMentionMenuOpen(false);
+        return;
+      }
+
+      if (event.key === "Enter" && !event.shiftKey) {
+        event.preventDefault();
+        handleMentionSelect(mentionOptions[mentionIndex]);
+        return;
+      }
+    }
+
     if (showSlashMenu) {
       if (event.key === "ArrowDown") {
         event.preventDefault();
@@ -892,15 +1116,30 @@ export default function ChacalonChat({ onExit }) {
     const nextInput = event.target.value;
     setInput(nextInput);
     setSlashCommandIndex(0);
+    setMentionIndex(0);
     setSlashMenuOpen(Boolean(playerName && /^\/[^\s]*$/.test(nextInput)));
+    setMentionMenuOpen(Boolean(playerName && /(?:^|\s)@[^\s]*$/.test(nextInput)));
   }
 
   function handleSlashCommandSelect(command) {
     if (!command) return;
 
     setSlashMenuOpen(false);
+    setMentionMenuOpen(false);
     setInput(command.prompt);
     window.setTimeout(() => inputRef.current?.form?.requestSubmit(), 0);
+  }
+
+  function handleMentionSelect(entity) {
+    if (!entity || !mentionMatch) return;
+
+    const tokenStart =
+      mentionMatch.index + mentionMatch[0].length - mentionMatch[1].length - 1;
+    const prefix = input.slice(0, tokenStart);
+    setInput(`${prefix}${entity.token} `);
+    setMentionMenuOpen(false);
+    setMentionIndex(0);
+    window.setTimeout(() => inputRef.current?.focus(), 0);
   }
 
   return (
@@ -1104,13 +1343,56 @@ export default function ChacalonChat({ onExit }) {
                   ))}
                 </div>
               )}
+              {showMentionMenu && (
+                <div
+                  id="chacalon-mention-menu"
+                  className="chacalon-mention-menu"
+                  role="listbox"
+                  aria-label="Menciones del contexto de Chacalón"
+                >
+                  <div className="chacalon-mention-menu__hint">
+                    MENCIONES · BUSCAR EN LAS NOTICIAS DEL DÍA
+                  </div>
+                  {mentionOptions.map((entity, index) => (
+                    <button
+                      className={`chacalon-mention-menu__item ${
+                        index === mentionIndex ? "is-active" : ""
+                      }`}
+                      key={entity.token}
+                      type="button"
+                      role="option"
+                      aria-selected={index === mentionIndex}
+                      onMouseDown={(event) => event.preventDefault()}
+                      onClick={() => handleMentionSelect(entity)}
+                    >
+                      <span className="chacalon-mention-menu__token">
+                        {entity.token}
+                      </span>
+                      <span className="chacalon-mention-menu__label">
+                        {entity.label}
+                      </span>
+                      <span className="chacalon-mention-menu__meta">
+                        {entity.category} · {entity.contextMatches
+                          ? `${entity.contextMatches} coincidencia${entity.contextMatches === 1 ? "" : "s"}`
+                          : "sin coincidencias recientes"}
+                      </span>
+                    </button>
+                  ))}
+                </div>
+              )}
               <textarea
                 id="chacalon-message"
                 ref={inputRef}
                 value={input}
                 onChange={handleInputChange}
                 onKeyDown={handleInputKeyDown}
-                aria-controls="chacalon-slash-menu"
+                aria-controls={
+                  showSlashMenu
+                    ? "chacalon-slash-menu"
+                    : showMentionMenu
+                      ? "chacalon-mention-menu"
+                      : undefined
+                }
                 placeholder={playerName ? "Escribe un mensaje..." : "Escribe tu nombre..."}
                 rows={3}
                 maxLength={1200}
@@ -1133,4 +1415,10 @@ export default function ChacalonChat({ onExit }) {
   );
 }
 
-export { extractRequestedName, getFallbackReply, shouldUseDailyContext, toApiHistory };
+export {
+  extractRequestedName,
+  getFallbackReply,
+  getMentionOptions,
+  shouldUseDailyContext,
+  toApiHistory,
+};
