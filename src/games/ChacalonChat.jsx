@@ -294,6 +294,50 @@ function getMentionOptions(context, query = "") {
     .slice(0, 10);
 }
 
+function getConversationSuggestions(text) {
+  const normalizedText = normalizeMentionText(text);
+  const suggestions = [];
+  const addSuggestion = (suggestion) => {
+    if (!suggestions.includes(suggestion)) suggestions.push(suggestion);
+  };
+
+  if (
+    /keiko|\bkk\b|la\s+k|senora\s+k|chik[ao]|congreso|ministro|gobierno|president/.test(
+      normalizedText
+    )
+  ) {
+    addSuggestion("¿Qué implica esto para el Congreso?");
+    addSuggestion("¿Qué dice la gente sobre esta medida?");
+    addSuggestion("¿Qué podría pasar después?");
+  } else if (
+    /economia|negocio|empleo|inversion|mercado|precio|dolar|inflacion/.test(
+      normalizedText
+    )
+  ) {
+    addSuggestion("¿Cómo afecta esto al bolsillo?");
+    addSuggestion("¿Qué sectores se beneficiarían?");
+    addSuggestion("¿Qué otras noticias económicas hay?");
+  } else if (/(^|\s)ia(\s|$)|inteligencia artificial|tecnologia|microsoft|google|openai/.test(normalizedText)) {
+    addSuggestion("¿Cómo nos afecta en la vida diaria?");
+    addSuggestion("¿Qué empresas están metidas?");
+    addSuggestion("¿Qué otras novedades hay?");
+  } else if (/musica|chicha|cancion|ritmo/.test(normalizedText)) {
+    addSuggestion("¿Qué canción chicha me recomiendas?");
+    addSuggestion("¿Qué recuerdos trae esta música?");
+    addSuggestion("Hablemos de otra canción, causa");
+  } else if (/juego|arcade|invaders|pong|breakout/.test(normalizedText)) {
+    addSuggestion("¿Cuál es el juego más difícil?");
+    addSuggestion("Recomiéndame otro juego arcade");
+    addSuggestion("¿Jugamos una partida?");
+  } else {
+    addSuggestion("¿Qué más sabes de esto?");
+    addSuggestion("¿Y qué otras noticias hay, causa?");
+    addSuggestion("¿Tú qué opinas, hermano?");
+  }
+
+  return suggestions.slice(0, 3);
+}
+
 const INTRO_MESSAGE = {
   id: "intro",
   role: "assistant",
@@ -508,6 +552,8 @@ export default function ChacalonChat({ onExit }) {
   const [error, setError] = useState("");
   const messagesEndRef = useRef(null);
   const inputRef = useRef(null);
+  const slashActiveOptionRef = useRef(null);
+  const mentionActiveOptionRef = useRef(null);
   const audioRef = useRef(null);
   const portraitFrameRef = useRef(null);
   const visualizerCanvasRef = useRef(null);
@@ -547,6 +593,16 @@ export default function ChacalonChat({ onExit }) {
   const mentionOptions = getMentionOptions(dailyContext, mentionQuery);
   const showMentionMenu =
     mentionMenuOpen && mentionOptions.length > 0 && status !== "CONNECTING";
+
+  useEffect(() => {
+    if (!showSlashMenu) return;
+    slashActiveOptionRef.current?.scrollIntoView?.({ block: "nearest" });
+  }, [showSlashMenu, slashCommandIndex, slashCommands.length]);
+
+  useEffect(() => {
+    if (!showMentionMenu) return;
+    mentionActiveOptionRef.current?.scrollIntoView?.({ block: "nearest" });
+  }, [showMentionMenu, mentionIndex, mentionOptions.length]);
 
   useEffect(() => {
     if (typeof messagesEndRef.current?.scrollIntoView === "function") {
@@ -1026,16 +1082,25 @@ export default function ChacalonChat({ onExit }) {
       }
 
       if (!streamedText.trim()) throw new Error("AI server returned an empty stream");
+      setMessages((current) =>
+        current.map((item) =>
+          item.id === assistantId
+            ? { ...item, suggestions: getConversationSuggestions(streamedText) }
+            : item
+        )
+      );
       setStatus("ONLINE");
     } catch (error) {
       const timedOut = error?.name === "AbortError";
+      const fallbackText = getFallbackReply(message);
       setMessages((current) => [
         ...current.filter((item) => item.id !== assistantId),
         {
           id: `fallback-${Date.now()}`,
           role: "assistant",
-          text: getFallbackReply(message),
+          text: fallbackText,
           fallback: true,
+          suggestions: getConversationSuggestions(fallbackText),
         },
       ]);
       setError(
@@ -1140,6 +1205,13 @@ export default function ChacalonChat({ onExit }) {
     setMentionMenuOpen(false);
     setMentionIndex(0);
     window.setTimeout(() => inputRef.current?.focus(), 0);
+  }
+
+  function handleSuggestedReply(suggestion) {
+    if (!suggestion || status === "CONNECTING") return;
+
+    setInput(suggestion);
+    window.setTimeout(() => inputRef.current?.form?.requestSubmit(), 0);
   }
 
   return (
@@ -1283,7 +1355,7 @@ export default function ChacalonChat({ onExit }) {
 
         <div className="chacalon-chat">
           <div className="chacalon-chat__messages" aria-live="polite">
-            {messages.map((message) => (
+            {messages.map((message, index) => (
               <div
                 className={`chacalon-message chacalon-message--${message.role}`}
                 key={message.id}
@@ -1297,6 +1369,26 @@ export default function ChacalonChat({ onExit }) {
                 {message.fallback && (
                   <small className="chacalon-message__fallback">MODO LOCAL</small>
                 )}
+                {index === messages.length - 1 &&
+                  message.role === "assistant" &&
+                  message.suggestions?.length > 0 && (
+                    <div
+                      className="chacalon-message__suggestions"
+                      aria-label="Opciones para continuar la conversación"
+                    >
+                      {message.suggestions.map((suggestion) => (
+                        <button
+                          className="chacalon-message__suggestion"
+                          key={suggestion}
+                          type="button"
+                          onClick={() => handleSuggestedReply(suggestion)}
+                          disabled={status === "CONNECTING"}
+                        >
+                          {suggestion}
+                        </button>
+                      ))}
+                    </div>
+                  )}
               </div>
             ))}
             <div ref={messagesEndRef} />
@@ -1324,6 +1416,7 @@ export default function ChacalonChat({ onExit }) {
                         index === slashCommandIndex ? "is-active" : ""
                       }`}
                       key={command.command}
+                      ref={index === slashCommandIndex ? slashActiveOptionRef : null}
                       type="button"
                       role="option"
                       aria-selected={index === slashCommandIndex}
@@ -1359,6 +1452,7 @@ export default function ChacalonChat({ onExit }) {
                         index === mentionIndex ? "is-active" : ""
                       }`}
                       key={entity.token}
+                      ref={index === mentionIndex ? mentionActiveOptionRef : null}
                       type="button"
                       role="option"
                       aria-selected={index === mentionIndex}
@@ -1417,6 +1511,7 @@ export default function ChacalonChat({ onExit }) {
 
 export {
   extractRequestedName,
+  getConversationSuggestions,
   getFallbackReply,
   getMentionOptions,
   shouldUseDailyContext,

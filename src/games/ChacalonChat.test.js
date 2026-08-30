@@ -2,6 +2,7 @@ import React from "react";
 import { fireEvent, render, screen, waitFor } from "@testing-library/react";
 import ChacalonChat, {
   extractRequestedName,
+  getConversationSuggestions,
   getFallbackReply,
   getMentionOptions,
   shouldUseDailyContext,
@@ -12,10 +13,12 @@ describe("ChacalonChat", () => {
   const originalFetch = global.fetch;
   const originalPlay = HTMLMediaElement.prototype.play;
   const originalPause = HTMLMediaElement.prototype.pause;
+  const originalScrollIntoView = Element.prototype.scrollIntoView;
 
   beforeAll(() => {
     HTMLMediaElement.prototype.play = jest.fn().mockResolvedValue(undefined);
     HTMLMediaElement.prototype.pause = jest.fn();
+    Element.prototype.scrollIntoView = jest.fn();
   });
 
   afterEach(() => {
@@ -26,6 +29,7 @@ describe("ChacalonChat", () => {
   afterAll(() => {
     HTMLMediaElement.prototype.play = originalPlay;
     HTMLMediaElement.prototype.pause = originalPause;
+    Element.prototype.scrollIntoView = originalScrollIntoView;
   });
 
   test("shows the virtual character introduction", () => {
@@ -154,6 +158,54 @@ describe("ChacalonChat", () => {
     expect(
       screen.queryByRole("listbox", { name: /Menciones del contexto/i })
     ).not.toBeInTheDocument();
+  });
+
+  test("scrolls the active mention into view when navigating with the keyboard", () => {
+    render(<ChacalonChat onExit={jest.fn()} />);
+    enterPlayerName();
+
+    const textarea = screen.getByLabelText(/Habla con Chacalón/i);
+    fireEvent.change(textarea, { target: { value: "@" } });
+    Element.prototype.scrollIntoView.mockClear();
+
+    fireEvent.keyDown(textarea, { key: "ArrowDown" });
+
+    expect(Element.prototype.scrollIntoView).toHaveBeenCalledWith({ block: "nearest" });
+
+    fireEvent.change(textarea, { target: { value: "/" } });
+    Element.prototype.scrollIntoView.mockClear();
+    fireEvent.keyDown(textarea, { key: "ArrowDown" });
+
+    expect(Element.prototype.scrollIntoView).toHaveBeenCalledWith({ block: "nearest" });
+  });
+
+  test("shows contextual continuation buttons after an AI reply", async () => {
+    global.fetch = jest.fn().mockResolvedValue({
+      ok: true,
+      headers: { get: () => "application/json" },
+      json: async () => ({
+        reply: "Keiko presentó la medida ante el Congreso.",
+      }),
+    });
+
+    render(<ChacalonChat onExit={jest.fn()} />);
+    enterPlayerName();
+    const textarea = screen.getByLabelText(/Habla con Chacalón/i);
+    fireEvent.change(textarea, { target: { value: "¿Qué noticias hay de la política?" } });
+    fireEvent.submit(screen.getByRole("button", { name: "ENVIAR" }).closest("form"));
+
+    const continuationButton = await screen.findByRole("button", {
+      name: "¿Qué implica esto para el Congreso?",
+    });
+    expect(screen.getByRole("button", { name: "¿Qué dice la gente sobre esta medida?" }))
+      .toBeInTheDocument();
+
+    fireEvent.click(continuationButton);
+
+    await waitFor(() => expect(global.fetch).toHaveBeenCalledTimes(2));
+    expect(global.fetch.mock.calls[1][1].body).toContain(
+      '"message":"¿Qué implica esto para el Congreso?"'
+    );
   });
 
   test("recalls the saved player name in a later visit", () => {
@@ -287,6 +339,14 @@ test("detects when a message needs the daily context", () => {
     .toBe(true);
   expect(shouldUseDailyContext("Me gusta la música chicha"))
     .toBe(false);
+});
+
+test("creates continuation suggestions from the current topic", () => {
+  expect(getConversationSuggestions("Keiko habló ante el Congreso")).toEqual([
+    "¿Qué implica esto para el Congreso?",
+    "¿Qué dice la gente sobre esta medida?",
+    "¿Qué podría pasar después?",
+  ]);
 });
 
 test("ranks mentions using the current daily context", () => {

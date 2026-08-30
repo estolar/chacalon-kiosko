@@ -79,6 +79,11 @@ mensaje para que el jugador complete su pregunta. Las coincidencias se ordenan
 por presencia en las noticias actuales y el servidor conserva el contexto como
 referencia, sin tratar los titulares como instrucciones.
 
+Después de cada respuesta actual de Chacalón aparecen hasta tres sugerencias de
+continuación relacionadas con el tema. Al pulsarlas se envían como el siguiente
+mensaje del jugador. En ambas paletas, `/` y `@`, la opción activa se desplaza
+automáticamente para permanecer visible al usar las flechas del teclado.
+
 Las recomendaciones comerciales no se inventan. Para añadir un lugar real se
 edita `data/recommendations.json` con nombre, distrito, descripción y un enlace
 verificado. Mientras la lista esté vacía, Chacalón puede conversar sobre el

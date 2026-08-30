@@ -749,6 +749,39 @@ input[type="number"]{
   font-size:9px;
   margin-top:8px;
 }
+.chacalon-message__suggestions{
+  display:flex;
+  flex-wrap:wrap;
+  gap:6px;
+  margin-top:12px;
+  padding-top:10px;
+  border-top:1px dashed rgba(0,255,255,.5);
+}
+.chacalon-message__suggestion{
+  flex:1 1 120px;
+  min-height:30px;
+  padding:6px 8px;
+  border:1px solid var(--neon-magenta);
+  color:#fff;
+  background:rgba(255,0,255,.1);
+  font-family:var(--font-mono);
+  font-size:13px;
+  line-height:1.15;
+  text-align:left;
+  cursor:pointer;
+}
+.chacalon-message__suggestion:hover,
+.chacalon-message__suggestion:focus-visible{
+  border-color:var(--neon-yellow);
+  color:var(--neon-yellow);
+  background:rgba(255,243,0,.1);
+  outline:1px solid var(--neon-yellow);
+  outline-offset:1px;
+}
+.chacalon-message__suggestion:disabled{
+  cursor:wait;
+  opacity:.55;
+}
 .chacalon-form{
   position:relative;
   flex:0 0 auto;
