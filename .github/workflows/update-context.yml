@@ -1,9 +1,8 @@
 name: Update hourly Chacalon context
 
 on:
-  schedule:
-    # Every hour. GitHub Actions may start scheduled jobs a few minutes late.
-    - cron: "0 * * * *"
+  # La actualización automática se habilitará después de separar los datos
+  # del código. Mientras tanto, se ejecuta manualmente para no modificar main.
   workflow_dispatch:
 
 permissions:
