@@ -1,7 +1,6 @@
 <IfModule mod_rewrite.c>
   RewriteEngine On
-  RewriteBase /chacalon/
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_FILENAME} !-d
-  RewriteRule . /chacalon/index.html [L]
+  RewriteRule ^ index.html [L]
 </IfModule>

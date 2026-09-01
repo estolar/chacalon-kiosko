@@ -4,7 +4,7 @@ import bg404 from "../assets/404-player-lost.png";
 
 const tips = [
   "¿Has probado a reiniciar el juego?",
-  "Asegúrate de que tu carpeta es /chacalon/",
+  "Asegúrate de que sigues dentro de la ruta del kiosco",
   "Intenta navegar a la página de inicio"
 ];
 

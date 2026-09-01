@@ -15,7 +15,7 @@ const BODY_MOTION_SRC = `${PUBLIC_URL}/images/chacalon-arcade-body.png`;
 const SALUTE_IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-arcade-salute.png`;
 const LOCAL_CONTEXT_URL = `${PUBLIC_URL.replace(/\/$/, "")}/data/context.json`;
 const PRODUCTION_CONTEXT_URL =
-  "https://raw.githubusercontent.com/estolar/retro-games-streaming/main/public/data/context.json";
+  "https://raw.githubusercontent.com/estolar/chacalon-kiosko/main/public/data/context.json";
 const CONTEXT_URL =
   process.env.REACT_APP_CONTEXT_URL ||
   (process.env.NODE_ENV === "production" ? PRODUCTION_CONTEXT_URL : LOCAL_CONTEXT_URL);
