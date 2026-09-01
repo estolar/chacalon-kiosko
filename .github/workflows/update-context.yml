@@ -1,8 +1,10 @@
 name: Update hourly Chacalon context
 
 on:
-  # La actualización automática se habilitará después de separar los datos
-  # del código. Mientras tanto, se ejecuta manualmente para no modificar main.
+  # GitHub interpreta el cron en UTC. 17:00 UTC equivale a las 12:00 en Lima
+  # durante el horario UTC-5; el proceso se repite al inicio de cada hora.
+  schedule:
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:
