@@ -461,7 +461,14 @@ function toApiHistory(messages) {
     }));
 }
 
-function compactDailyContext(context) {
+function rotateContextItems(items, rotation = 0, categoryIndex = 0) {
+  if (!Array.isArray(items) || items.length < 2) return items || [];
+
+  const offset = (Math.max(0, rotation) + categoryIndex * 2) % items.length;
+  return [...items.slice(offset), ...items.slice(0, offset)];
+}
+
+function compactDailyContext(context, rotation = 0) {
   if (!context || typeof context !== "object") return null;
 
   const trim = (value, length) =>
@@ -477,9 +484,11 @@ function compactDailyContext(context) {
   });
   const topics = {};
 
-  for (const category of ["politica", "economia", "sociedad", "cultura"]) {
+  for (const [categoryIndex, category] of ["politica", "economia", "sociedad", "cultura"].entries()) {
     topics[category] = Array.isArray(context.topics?.[category])
-      ? context.topics[category].slice(0, 6).map(compactItem)
+      ? rotateContextItems(context.topics[category], rotation, categoryIndex)
+          .slice(0, 6)
+          .map(compactItem)
       : [];
   }
 
@@ -1054,7 +1063,7 @@ export default function ChacalonChat({ onExit }) {
             playerName,
             memory: nextAnswers,
             dailyContext: shouldUseDailyContext(message)
-              ? compactDailyContext(dailyContext)
+              ? compactDailyContext(dailyContext, Math.floor(messages.length / 2))
               : null,
           }),
         }
@@ -1397,6 +1406,7 @@ export default function ChacalonChat({ onExit }) {
 
 export {
   extractRequestedName,
+  compactDailyContext,
   getConversationSuggestions,
   getFallbackReply,
   getMentionOptions,

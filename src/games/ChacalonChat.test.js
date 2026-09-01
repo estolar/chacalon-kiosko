@@ -2,6 +2,7 @@ import React from "react";
 import { fireEvent, render, screen, waitFor } from "@testing-library/react";
 import ChacalonChat, {
   extractRequestedName,
+  compactDailyContext,
   getConversationSuggestions,
   getFallbackReply,
   getMentionOptions,
@@ -30,6 +31,23 @@ describe("ChacalonChat", () => {
     HTMLMediaElement.prototype.play = originalPlay;
     HTMLMediaElement.prototype.pause = originalPause;
     Element.prototype.scrollIntoView = originalScrollIntoView;
+  });
+
+  test("rota los titulares del contexto para no enviar siempre los primeros", () => {
+    const context = {
+      generatedAt: "2026-09-01T12:00:00Z",
+      region: "Perú y Lima",
+      topics: {
+        politica: [
+          { title: "Noticia 1", summary: "Resumen 1", source: "Fuente" },
+          { title: "Noticia 2", summary: "Resumen 2", source: "Fuente" },
+          { title: "Noticia 3", summary: "Resumen 3", source: "Fuente" },
+        ],
+      },
+    };
+
+    expect(compactDailyContext(context, 0).topics.politica[0].title).toBe("Noticia 1");
+    expect(compactDailyContext(context, 1).topics.politica[0].title).toBe("Noticia 2");
   });
 
   test("shows the virtual character introduction", () => {
