@@ -17,9 +17,11 @@ const MAX_REQUESTS_PER_WINDOW = 20;
 const GEMINI_TIMEOUT_MS = 28_000;
 
 function readLocalEnv() {
-  const envPath = path.join(process.cwd(), ".env.local");
+  const envPath = [".env.local", ".env"]
+    .map((filename) => path.join(process.cwd(), filename))
+    .find((candidate) => fs.existsSync(candidate));
 
-  if (!fs.existsSync(envPath)) return {};
+  if (!envPath) return {};
 
   return fs
     .readFileSync(envPath, "utf8")

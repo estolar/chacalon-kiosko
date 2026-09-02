@@ -12,10 +12,10 @@ const API_PATH =
     ? `${PUBLIC_URL.replace(/\/$/, "")}/api/ai/chat.php`
     : "/api/ai/chat");
 const AUDIO_SRC = `${PUBLIC_URL}/audio/caballito-pixelado.mp3`;
-const IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-arcade.png`;
-const WINK_IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-arcade-wink.png`;
-const BODY_MOTION_SRC = `${PUBLIC_URL}/images/chacalon-arcade-body.png`;
-const SALUTE_IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-arcade-salute.png`;
+const IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-natural-counter-final.png`;
+const WINK_IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-natural-wink.png`;
+const BODY_MOTION_SRC = `${PUBLIC_URL}/images/chacalon-natural-shirt-motion.png`;
+const SALUTE_IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-natural-salute.png`;
 const LOCAL_CONTEXT_URL = `${PUBLIC_URL.replace(/\/$/, "")}/data/context.json`;
 const PRODUCTION_CONTEXT_URL =
   "https://raw.githubusercontent.com/estolar/chacalon-kiosko/main/public/data/context.json";
@@ -364,7 +364,7 @@ function getConversationSuggestions(text) {
     addSuggestion("¿Tú qué opinas, hermano?");
   }
 
-  return suggestions.slice(0, 3);
+  return suggestions.slice(0, 2);
 }
 
 const INTRO_MESSAGE = {
@@ -589,8 +589,7 @@ export default function ChacalonChat({ onExit }) {
   ]);
   const [input, setInput] = useState("");
   const [status, setStatus] = useState("READY");
-  const [error, setError] = useState("");
-  const messagesEndRef = useRef(null);
+  const messagesScrollRef = useRef(null);
   const inputRef = useRef(null);
   const slashActiveOptionRef = useRef(null);
   const mentionActiveOptionRef = useRef(null);
@@ -652,9 +651,9 @@ export default function ChacalonChat({ onExit }) {
   }, [showMentionMenu, mentionIndex, mentionOptions.length]);
 
   useEffect(() => {
-    if (typeof messagesEndRef.current?.scrollIntoView === "function") {
-      messagesEndRef.current.scrollIntoView({ behavior: "smooth" });
-    }
+    const messagesPanel = messagesScrollRef.current;
+    if (!messagesPanel) return;
+    messagesPanel.scrollTop = messagesPanel.scrollHeight;
   }, [messages]);
 
   useEffect(() => {
@@ -706,7 +705,7 @@ export default function ChacalonChat({ onExit }) {
   function triggerSalute() {
     window.clearTimeout(saluteTimerRef.current);
     setIsSaluting(true);
-    saluteTimerRef.current = window.setTimeout(finishSalute, 1800);
+    saluteTimerRef.current = window.setTimeout(finishSalute, 2800);
   }
 
   function triggerWink() {
@@ -979,7 +978,6 @@ export default function ChacalonChat({ onExit }) {
     setInput("");
     setSlashMenuOpen(false);
     setMentionMenuOpen(false);
-    setError("");
     setStatus("READY");
   }
 
@@ -1018,7 +1016,6 @@ export default function ChacalonChat({ onExit }) {
       setInput("");
       setSlashMenuOpen(false);
       setMentionMenuOpen(false);
-      setError("");
       setStatus("READY");
       return;
     }
@@ -1045,7 +1042,6 @@ export default function ChacalonChat({ onExit }) {
       setInput("");
       setSlashMenuOpen(false);
       setMentionMenuOpen(false);
-      setError("");
       setStatus("READY");
       return;
     }
@@ -1062,7 +1058,6 @@ export default function ChacalonChat({ onExit }) {
     setInput("");
     setSlashMenuOpen(false);
     setMentionMenuOpen(false);
-    setError("");
     setStatus("CONNECTING");
     if (shouldTriggerSalute(message)) triggerSalute();
     if (shouldTriggerWink(message)) triggerWink();
@@ -1133,8 +1128,7 @@ export default function ChacalonChat({ onExit }) {
         )
       );
       setStatus("ONLINE");
-    } catch (error) {
-      const timedOut = error?.name === "AbortError";
+    } catch {
       const fallbackText = getFallbackReply(message);
       setMessages((current) => [
         ...current.filter((item) => item.id !== assistantId),
@@ -1146,11 +1140,6 @@ export default function ChacalonChat({ onExit }) {
           suggestions: getConversationSuggestions(fallbackText),
         },
       ]);
-      setError(
-        timedOut
-          ? "La IA está tardando demasiado: usamos el modo de respaldo local."
-          : "IA no disponible: usamos el modo de respaldo local."
-      );
       setStatus("OFFLINE");
     } finally {
       window.clearTimeout(timeoutId);
@@ -1282,7 +1271,7 @@ export default function ChacalonChat({ onExit }) {
       }
     >
       <KioskFrame context={dailyContext} onOpenNews={setSelectedNews}>
-        <div className="chacalon-player">
+        <div className="chacalon-player kiosk-layer kiosk-layer--player">
         {musicBlocked && (
           <div className="chacalon-music__activation">
             <span>SI QUIERES UN CUMBIÓN CHACALONERO</span>
@@ -1369,7 +1358,7 @@ export default function ChacalonChat({ onExit }) {
         </div>
         </div>
 
-        <div className="chacalon-main-grid">
+        <div className="chacalon-main-grid kiosk-layer kiosk-layer--portrait">
         <div
           className={`chacalon-identity ${isPlaying ? "is-playing" : ""} ${
             isSaluting ? "is-saluting" : ""
@@ -1379,7 +1368,7 @@ export default function ChacalonChat({ onExit }) {
             <img
               className="chacalon-identity__portrait"
               src={isWinking ? WINK_IMAGE_SRC : IMAGE_SRC}
-              alt="Retrato arcade de Chacalón Virtual"
+              alt="Retrato de Chacalón, vendedor del kiosko"
             />
             <img
               className="chacalon-identity__body-motion"
@@ -1392,26 +1381,19 @@ export default function ChacalonChat({ onExit }) {
               src={SALUTE_IMAGE_SRC}
               alt=""
               aria-hidden="true"
-              onAnimationEnd={finishSalute}
             />
           </div>
-          <div className="chacalon-identity__copy">
-            <div className="chacalon-identity__eyebrow">TRANSMISIÓN VISUAL ONLINE</div>
-            <h3>CHACALÓN VIRTUAL</h3>
-            <p>Homenaje interactivo · música chicha · arcade</p>
-          </div>
+        </div>
         </div>
 
-        <div className="chacalon-chat">
+        <div className="chacalon-chat kiosk-layer kiosk-layer--chat">
           <ConversationMessages
             messages={messages}
             playerName={playerName}
             status={status}
-            messagesEndRef={messagesEndRef}
+            messagesScrollRef={messagesScrollRef}
             onSuggestedReply={handleSuggestedReply}
           />
-
-          {error && <div className="banner banner-warn">{error}</div>}
 
           <ConversationComposer
             playerName={playerName}
@@ -1433,7 +1415,6 @@ export default function ChacalonChat({ onExit }) {
             onInputKeyDown={handleInputKeyDown}
             onSubmit={sendMessage}
           />
-        </div>
         </div>
       </KioskFrame>
       {selectedNews && (

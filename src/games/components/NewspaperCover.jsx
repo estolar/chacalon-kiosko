@@ -59,7 +59,7 @@ export default function NewspaperCover({ item, category, onOpen }) {
 
   return (
     <CoverTag
-      className="newspaper-cover"
+      className={`newspaper-cover ${image ? "newspaper-cover--with-image" : "newspaper-cover--compact"}`}
       style={{
         "--newspaper-accent": accent,
         "--newspaper-brand": brand.color,

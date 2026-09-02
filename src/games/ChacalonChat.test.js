@@ -62,7 +62,7 @@ describe("ChacalonChat", () => {
     expect(
       screen.getByRole("button", { name: /Reproducir música|Pausar música/i })
     ).toBeInTheDocument();
-    expect(screen.getByAltText(/Retrato arcade de Chacalón Virtual/i)).toBeInTheDocument();
+    expect(screen.getByAltText(/Retrato de Chacalón, vendedor del kiosko/i)).toBeInTheDocument();
   });
 
   test("plays the complete song in a loop", () => {
@@ -275,7 +275,7 @@ describe("ChacalonChat", () => {
     fireEvent.submit(screen.getByRole("button", { name: "ENVIAR" }).closest("form"));
 
     await waitFor(() => {
-      expect(screen.getByText(/modo de respaldo local/i)).toBeInTheDocument();
+      expect(screen.getByText("MODO LOCAL")).toBeInTheDocument();
     });
   });
 
@@ -292,7 +292,7 @@ describe("ChacalonChat", () => {
     fireEvent.submit(screen.getByRole("button", { name: "ENVIAR" }).closest("form"));
 
     await waitFor(() => {
-      expect(screen.getByText(/modo de respaldo local/i)).toBeInTheDocument();
+      expect(screen.getByText("MODO LOCAL")).toBeInTheDocument();
     });
   });
 
@@ -363,7 +363,6 @@ test("creates continuation suggestions from the current topic", () => {
   expect(getConversationSuggestions("Keiko habló ante el Congreso")).toEqual([
     "¿Qué implica esto para el Congreso?",
     "¿Qué dice la gente sobre esta medida?",
-    "¿Qué podría pasar después?",
   ]);
 });
 

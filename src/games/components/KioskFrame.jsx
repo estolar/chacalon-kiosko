@@ -1,5 +1,7 @@
 import React from "react";
 import NewspaperCover from "./NewspaperCover";
+import kioskPanorama from "../../assets/chacalon-kiosk-panorama.png";
+import counterExtension from "../../assets/chacalon-counter-extension.png";
 
 const RACK_CATEGORIES = ["politica", "economia", "sociedad", "cultura"];
 
@@ -23,8 +25,7 @@ function getRackItems(context, categories) {
 
 function KioskRack({ title, items, onOpenNews }) {
   return (
-    <aside className="kiosk-rack">
-      <h2>{title}</h2>
+    <aside className="kiosk-rack" aria-label={title}>
       <div className="kiosk-rack__papers">
         {items.map((item, index) => (
           <NewspaperCover
@@ -56,6 +57,21 @@ export default function KioskFrame({ context, children, onOpenNews }) {
 
   return (
     <section className="kiosk-frame" aria-label="Kiosko de Chacalón">
+      <img
+        className="kiosk-scene-layer kiosk-scene-layer--interior"
+        src={kioskPanorama}
+        alt=""
+        aria-hidden="true"
+      />
+      <img
+        className="kiosk-scene-layer kiosk-scene-layer--counter"
+        src={kioskPanorama}
+        alt=""
+        aria-hidden="true"
+      />
+      <div className="kiosk-counter-extension-layer" aria-hidden="true">
+        <img src={counterExtension} alt="" />
+      </div>
       <header className="kiosk-sign">
         <div className="kiosk-sign__identity">
           <span className="kiosk-sign__lights" aria-hidden="true">✦ ✦ ✦</span>
