@@ -3,7 +3,7 @@ import GameShell from "../components/GameShell";
 import ConversationMessages from "./components/ConversationMessages";
 import ConversationComposer from "./components/ConversationComposer";
 import KioskFrame from "./components/KioskFrame";
-import { loadManualNews, mergeManualNewsIntoContext } from "../news/manualNews";
+import { loadManualNews, mergeManualNewsIntoContext, saveManualNews } from "../news/manualNews";
 
 const API_URL = process.env.REACT_APP_AI_API_URL || "";
 const PUBLIC_URL = process.env.PUBLIC_URL || "";
@@ -18,6 +18,7 @@ const WINK_IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-natural-wink.png`;
 const BODY_MOTION_SRC = `${PUBLIC_URL}/images/chacalon-natural-shirt-motion.png`;
 const SALUTE_IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-natural-salute-v2.png`;
 const LOCAL_CONTEXT_URL = `${PUBLIC_URL.replace(/\/$/, "")}/data/context.json`;
+const MANUAL_NEWS_URL = `${PUBLIC_URL.replace(/\/$/, "")}/api/news/manual`;
 const PRODUCTION_CONTEXT_URL =
   "https://raw.githubusercontent.com/estolar/chacalon-kiosko/main/public/data/context.json";
 const CONTEXT_URL =
@@ -622,7 +623,7 @@ export default function ChacalonChat({ onExit }) {
   const [duration, setDuration] = useState(0);
   const [volume, setVolume] = useState(0.35);
   const volumeRef = useRef(0.35);
-  const [manualNews] = useState(loadManualNews);
+  const [manualNews, setManualNews] = useState(loadManualNews);
   const [dailyContext, setDailyContext] = useState(null);
   const [isWinking, setIsWinking] = useState(false);
   const [isSaluting, setIsSaluting] = useState(false);
@@ -636,6 +637,21 @@ export default function ChacalonChat({ onExit }) {
   const [selectedNews, setSelectedNews] = useState(null);
   const [dayPhase, setDayPhase] = useState(() => getDayPhase());
   const kioskContext = mergeManualNewsIntoContext(dailyContext || { topics: {} }, manualNews);
+
+  useEffect(() => {
+    if (process.env.NODE_ENV === "test" || typeof fetch !== "function") return undefined;
+
+    let active = true;
+    fetch(MANUAL_NEWS_URL, { cache: "no-store" })
+      .then((response) => (response.ok ? response.json() : null))
+      .then((payload) => {
+        if (active && Array.isArray(payload?.items)) setManualNews(saveManualNews(payload.items));
+      })
+      .catch(() => {
+        // La copia local permite seguir usando el kiosko aunque no esté el servidor.
+      });
+    return () => { active = false; };
+  }, []);
 
   useEffect(() => {
     const timer = window.setInterval(() => setDayPhase(getDayPhase()), 60_000);
@@ -690,7 +706,7 @@ export default function ChacalonChat({ onExit }) {
         .then((response) => (response.ok ? response.json() : null))
         .then((context) => {
           if (active && context && typeof context === "object") {
-            setDailyContext(mergeManualNewsIntoContext(context, loadManualNews()));
+            setDailyContext(mergeManualNewsIntoContext(context, manualNews));
           }
         })
         .catch(() => {
@@ -705,7 +721,7 @@ export default function ChacalonChat({ onExit }) {
       active = false;
       window.clearInterval(refreshTimer);
     };
-  }, []);
+  }, [manualNews]);
 
   useEffect(
     () => () => {

@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from "react";
+import React, { useEffect, useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import {
   NEWS_CATEGORIES,
@@ -16,6 +16,11 @@ const EMPTY_FORM = {
   priority: 50,
   active: true,
 };
+const PUBLIC_BASE_URL = (process.env.PUBLIC_URL || "").replace(/\/$/, "");
+const NEWS_API_BASE_URL = process.env.NODE_ENV === "production" ? PUBLIC_BASE_URL : "";
+const NEWS_IMPORT_API_URL = process.env.REACT_APP_NEWS_IMPORT_API_URL || `${NEWS_API_BASE_URL}/api/news/import`;
+const NEWS_MANUAL_API_URL = process.env.REACT_APP_NEWS_MANUAL_API_URL || `${NEWS_API_BASE_URL}/api/news/manual`;
+const NEWS_GENERATE_IMAGE_API_URL = process.env.REACT_APP_NEWS_GENERATE_IMAGE_API_URL || `${NEWS_API_BASE_URL}/api/news/generate-image`;
 
 function createId() {
   return `manual-news-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
@@ -25,8 +30,45 @@ export default function NewsAdmin() {
   const [form, setForm] = useState(EMPTY_FORM);
   const [editingId, setEditingId] = useState(null);
   const [notice, setNotice] = useState("");
+  const [articleUrls, setArticleUrls] = useState("");
+  const [isImporting, setIsImporting] = useState(false);
+  const [importErrors, setImportErrors] = useState([]);
+  const [imageStatus, setImageStatus] = useState({});
+  const [generatingImageId, setGeneratingImageId] = useState(null);
 
   const categoryLabels = useMemo(() => Object.fromEntries(NEWS_CATEGORIES), []);
+
+  useEffect(() => {
+    let active = true;
+    fetch(NEWS_MANUAL_API_URL, { cache: "no-store" })
+      .then((response) => (response.ok ? response.json() : null))
+      .then((payload) => {
+        if (active && Array.isArray(payload?.items)) setItems(saveManualNews(payload.items));
+      })
+      .catch(() => {
+        // El administrador conserva la copia local si el proxy todavía no está levantado.
+      });
+    return () => { active = false; };
+  }, []);
+
+  async function persistItems(nextItems, successMessage) {
+    const normalized = saveManualNews(nextItems);
+    setItems(normalized);
+    try {
+      const response = await fetch(NEWS_MANUAL_API_URL, {
+        method: "PUT",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ items: normalized }),
+      });
+      const payload = await response.json().catch(() => ({}));
+      if (!response.ok) throw new Error(payload.error || "No se pudo guardar en el servidor.");
+      if (Array.isArray(payload.items)) setItems(saveManualNews(payload.items));
+      if (successMessage) setNotice(successMessage);
+    } catch (error) {
+      setNotice(`${successMessage || "Cambios guardados localmente."} ${error.message} Se conservaron en este navegador.`);
+    }
+    return normalized;
+  }
 
   function updateField(event) {
     const { name, value, type, checked } = event.target;
@@ -36,6 +78,41 @@ export default function NewsAdmin() {
   function resetForm() {
     setForm(EMPTY_FORM);
     setEditingId(null);
+  }
+
+  async function handleImport(event) {
+    event.preventDefault();
+    const urls = [...new Set(articleUrls.split(/\s+/).map((url) => url.trim()).filter(Boolean))];
+    if (!urls.length) {
+      setNotice("Pega uno o varios enlaces para publicarlos.");
+      return;
+    }
+
+    setIsImporting(true);
+    setImportErrors([]);
+    setNotice("Leyendo los artículos y preparando las portadas...");
+    try {
+      const response = await fetch(NEWS_IMPORT_API_URL, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ urls }),
+      });
+      const payload = await response.json().catch(() => ({}));
+      if (!response.ok && !payload.items?.length) {
+        throw new Error(payload.error || "No se pudieron importar las noticias.");
+      }
+
+      const existingUrls = new Set(items.map((item) => item.url).filter(Boolean));
+      const newItems = (payload.items || []).filter((item) => !existingUrls.has(item.url));
+      await persistItems([...newItems, ...items]);
+      setArticleUrls("");
+      setNotice(`${newItems.length} noticia${newItems.length === 1 ? "" : "s"} publicada${newItems.length === 1 ? "" : "s"} en el bloque prioritario.`);
+      setImportErrors(payload.errors || []);
+    } catch (error) {
+      setNotice(error.message);
+    } finally {
+      setIsImporting(false);
+    }
   }
 
   function handleSubmit(event) {
@@ -56,8 +133,7 @@ export default function NewsAdmin() {
       ? items.map((item) => (item.id === editingId ? { ...item, ...nextItem } : item))
       : [...items, nextItem];
 
-    setItems(saveManualNews(nextItems));
-    setNotice(editingId ? "Noticia actualizada." : "Noticia agregada al bloque prioritario.");
+    persistItems(nextItems, editingId ? "Noticia actualizada." : "Noticia agregada al bloque prioritario.");
     resetForm();
   }
 
@@ -79,7 +155,7 @@ export default function NewsAdmin() {
 
   function deleteItem(item) {
     if (!window.confirm(`¿Eliminar “${item.title}” de las noticias prioritarias?`)) return;
-    setItems(saveManualNews(items.filter(({ id }) => id !== item.id)));
+    persistItems(items.filter(({ id }) => id !== item.id));
     if (editingId === item.id) resetForm();
     setNotice("Noticia eliminada. Google News ocupará su lugar disponible.");
   }
@@ -95,8 +171,39 @@ export default function NewsAdmin() {
       ...entry,
       priority: (sorted.length - position) * 10,
     }));
-    setItems(saveManualNews(reordered));
-    setNotice("Orden editorial actualizado.");
+    persistItems(reordered, "Orden editorial actualizado.");
+  }
+
+  async function generateImage(item) {
+    setGeneratingImageId(item.id);
+    setNotice(`Generando una imagen para “${item.title}”...`);
+    try {
+      const response = await fetch(NEWS_GENERATE_IMAGE_API_URL, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          title: item.title,
+          summary: item.summary,
+          source: item.source,
+          category: item.category,
+          newsId: item.id,
+        }),
+      });
+      const payload = await response.json().catch(() => ({}));
+      if (!response.ok || !payload.image) {
+        throw new Error(payload.detail || payload.error || "El servidor no devolvió una imagen.");
+      }
+
+      const nextItems = items.map((entry) =>
+        entry.id === item.id ? { ...entry, image: payload.image } : entry
+      );
+      await persistItems(nextItems, "Imagen generada y guardada en la noticia.");
+      setImageStatus((current) => ({ ...current, [item.id]: "loading" }));
+    } catch (error) {
+      setNotice(`No se pudo generar la imagen: ${error.message}`);
+    } finally {
+      setGeneratingImageId(null);
+    }
   }
 
   return (
@@ -113,9 +220,32 @@ export default function NewsAdmin() {
           <Link className="news-admin__back" to="/">Volver al kiosko</Link>
         </header>
 
+        <form className="news-admin__importer" onSubmit={handleImport}>
+          <div>
+            <p className="news-admin__eyebrow">PUBLICACIÓN DIRECTA</p>
+            <h2>Pega los enlaces de las noticias</h2>
+            <p>El sistema leerá cada sitio y preparará el titular, resumen, fuente, imagen y categoría. Si la imagen no está disponible, podrás generarla desde la lista.</p>
+          </div>
+          <textarea
+            value={articleUrls}
+            onChange={(event) => setArticleUrls(event.target.value)}
+            rows="4"
+            placeholder={"https://www.hildebrandtensustrece.com/reportaje/articulo/3055\nhttps://larepublica.pe/politica/..."}
+            aria-label="Enlaces de noticias para publicar"
+          />
+          <button className="news-admin__submit" type="submit" disabled={isImporting}>
+            {isImporting ? "LEYENDO Y PUBLICANDO..." : "LEER Y PUBLICAR"}
+          </button>
+          {importErrors.length > 0 && (
+            <ul className="news-admin__import-errors">
+              {importErrors.map((entry) => <li key={entry.url}>{entry.url}: {entry.error}</li>)}
+            </ul>
+          )}
+        </form>
+
         <form className="news-admin__form" onSubmit={handleSubmit}>
           <div className="news-admin__form-heading">
-            <h2>{editingId ? "Editar noticia" : "Agregar noticia prioritaria"}</h2>
+            <h2>{editingId ? "Editar noticia publicada" : "Agregar manualmente (opcional)"}</h2>
             {editingId && <button type="button" className="news-admin__text-button" onClick={resetForm}>Cancelar edición</button>}
           </div>
           <div className="news-admin__fields">
@@ -143,7 +273,7 @@ export default function NewsAdmin() {
             </label>
             <label>
               Imagen (URL)
-              <input name="image" type="url" value={form.image} onChange={updateField} placeholder="https://..." />
+              <input name="image" type="text" value={form.image} onChange={updateField} placeholder="URL o archivo generado" />
             </label>
             <label>
               Enlace original (URL)
@@ -175,10 +305,27 @@ export default function NewsAdmin() {
                     <button type="button" onClick={() => moveItem(item, 1)} disabled={index === items.length - 1} aria-label={`Bajar ${item.title}`}>↓</button>
                   </div>
                   <div className="news-admin__item-copy">
+                    {item.image ? (
+                      <img
+                        className="news-admin__item-thumb"
+                        src={item.image}
+                        alt=""
+                        loading="lazy"
+                        onLoad={() => setImageStatus((current) => ({ ...current, [item.id]: "ok" }))}
+                        onError={() => setImageStatus((current) => ({ ...current, [item.id]: "error" }))}
+                      />
+                    ) : (
+                      <span className="news-admin__image-missing">SIN IMAGEN</span>
+                    )}
                     <strong>{item.title}</strong>
-                    <span>{item.source} · {categoryLabels[item.category] || "Política"}{item.active === false ? " · OCULTA" : ""}</span>
+                    <span>{item.source} · {categoryLabels[item.category] || "Política"}{item.active === false ? " · OCULTA" : ""}{imageStatus[item.id] === "error" ? " · IMAGEN NO DISPONIBLE" : ""}</span>
                   </div>
                   <div className="news-admin__item-actions">
+                    {(!item.image || imageStatus[item.id] === "error") && (
+                      <button type="button" onClick={() => generateImage(item)} disabled={generatingImageId === item.id}>
+                        {generatingImageId === item.id ? "Generando..." : "Generar imagen"}
+                      </button>
+                    )}
                     <button type="button" onClick={() => editItem(item)}>Editar</button>
                     <button type="button" onClick={() => deleteItem(item)}>Eliminar</button>
                   </div>

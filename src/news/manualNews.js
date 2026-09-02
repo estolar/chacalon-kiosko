@@ -29,7 +29,7 @@ export const DEFAULT_MANUAL_NEWS = [
     summary: "El ministro de Cultura, Alberto Beingolea, se pronunció sobre la permanencia de Óscar Arriola en la Comandancia General de la Policía Nacional.",
     source: "El Comercio Perú",
     url: "https://elcomercio.pe/politica/gobierno/ministro-alberto-beingolea-sobre-oscar-arriola-no-es-que-sacando-a-un-funcionario-el-problema-se-va-a-resolver-pnp-trujillo-ultimas-noticia/",
-    image: "https://elcomercio.pe/resizer/v2/CQEAWLLA5BCQZKHLDDPUQDSN3A.jpg?smart=true&width=1200&height=803",
+    image: "https://elcomercio.pe/resizer/v2/CQEAWLLA5BCQZKHLDDPUQDSN3A.jpg?auth=293371e174d95b7fe13828d5944635b54270d3509b7ee5ece6181d544de7fe9e&smart=true&width=1200&height=803",
     publishedAt: "2026-09-02T00:19:12Z",
     priority: 90,
     active: true,
@@ -41,7 +41,7 @@ export const DEFAULT_MANUAL_NEWS = [
     summary: "El Gobierno peruano rompió relaciones diplomáticas con la República Islámica de Irán.",
     source: "El Comercio Perú",
     url: "https://elcomercio.pe/politica/gobierno/peru-rompe-relaciones-diplomaticas-con-la-republica-islamica-de-iran-medio-oriente-ultimas-noticia/",
-    image: "https://elcomercio.pe/resizer/v2/ERDGBDXCL5DHTG6GQWAOTTJJGQ.jpg?smart=true&width=1200&height=800",
+    image: "https://elcomercio.pe/resizer/v2/ERDGBDXCL5DHTG6GQWAOTTJJGQ.jpg?auth=da9e4dadb29d3cd22ef144087b2782f82ace37e93a564bd4b81f3e4719d6d0ae&smart=true&width=1200&height=800",
     publishedAt: "2026-09-02T00:00:50Z",
     priority: 80,
     active: true,
@@ -53,7 +53,7 @@ export const DEFAULT_MANUAL_NEWS = [
     summary: "El Gobierno declaró el estado de emergencia en varios distritos por peligro inminente ante precipitaciones pluviales intensas.",
     source: "Gestión",
     url: "https://gestion.pe/peru/gobiernode-keiko-fujimori-declara-emergencia-en-varias-regiones-ante-peligro-de-lluvias-por-el-nino-noticia/",
-    image: "https://gestion.pe/resizer/v2/BRQQVFLE3JAEJOFX53CMHI3AGQ.jpg?smart=true&width=1200&height=800",
+    image: "https://gestion.pe/resizer/v2/BRQQVFLE3JAEJOFX53CMHI3AGQ.jpg?auth=3dca16ab9745fa8f44d9519f9a8016078b2146f52e9587724e12539f7b51b35b&smart=true&width=1200&height=800",
     publishedAt: "2026-09-02T03:48:00Z",
     priority: 70,
     active: true,
@@ -65,7 +65,7 @@ export const DEFAULT_MANUAL_NEWS = [
     summary: "El Ministerio de Economía y Finanzas informó que no tiene previsto aplicar un impuesto a los intereses de las cuentas de ahorro.",
     source: "Gestión",
     url: "https://gestion.pe/economia/mef-revierte-decision-y-ahora-descarta-aplicar-impuestos-a-intereses-de-cuentas-de-ahorro-noticia/",
-    image: "https://gestion.pe/resizer/v2/INDZG4GRGBBNFNQECXJZKOGDGY.jpg?smart=true&width=1594&height=900",
+    image: "https://gestion.pe/resizer/v2/INDZG4GRGBBNFNQECXJZKOGDGY.jpg?auth=b609b2774a4b136e7e124bac03cf153fa45ef8c3d9cab66d06a60aa41499ff2&width=1200&height=677&quality=75&smart=true",
     publishedAt: "2026-09-02T02:30:26Z",
     priority: 60,
     active: true,
@@ -77,7 +77,7 @@ export const DEFAULT_MANUAL_NEWS = [
     summary: "La minera presentó ante el Senace un estudio ambiental para ampliar la continuidad de la operación Retamas.",
     source: "Gestión",
     url: "https://gestion.pe/economia/empresas/marsa-alista-inversion-de-us-980-millones-para-ampliar-en-20-anos-la-vida-util-de-mina-en-pataz-noticia/",
-    image: "https://gestion.pe/resizer/v2/BQQH3NCHHZGN3I3K3AM7NDKU34.jpg?smart=true&width=1214&height=746",
+    image: "https://gestion.pe/resizer/v2/BQQH3NCHHZGN3I3K3AM7NDKU34.jpg?auth=8c94e3bbad8208141580f2c1fcf180e690883e460904dcff6c4784ddfbf45b76&width=980&height=528&quality=75&smart=true",
     publishedAt: "2026-09-02T02:16:00Z",
     priority: 50,
     active: true,
@@ -87,6 +87,33 @@ export const DEFAULT_MANUAL_NEWS = [
 function cleanText(value, fallback = "") {
   return typeof value === "string" ? value.trim() : fallback;
 }
+
+const IMAGE_OVERRIDES = {
+  "https://gestion.pe/economia/mef-revierte-decision-y-ahora-descarta-aplicar-impuestos-a-intereses-de-cuentas-de-ahorro-noticia/":
+    "https://gestion.pe/resizer/v2/INDZG4GRGBBNFNQECXJZKOGDGY.jpg?auth=b609b2774a4b136e7e124bac03cf153fa45ef8c3d9cab66d06a60aa41499ff2&width=1200&height=677&quality=75&smart=true",
+};
+
+function normalizeImageUrl(value) {
+  const imageUrl = cleanText(value);
+  if (!/^https?:\/\//i.test(imageUrl)) return imageUrl;
+
+  try {
+    const parsed = new URL(imageUrl);
+    if (/^(?:images\.weserv\.nl|wsrv\.nl)$/i.test(parsed.hostname)) {
+      const originalUrl = parsed.searchParams.get("url");
+      if (!originalUrl) return parsed.toString();
+      return normalizeImageUrl(originalUrl);
+    }
+
+    const proxyUrl = new URL("https://wsrv.nl/");
+    proxyUrl.searchParams.set("url", parsed.toString());
+    if (parsed.pathname.includes("INDZG4GRGBBNFNQECXJZKOGDGY")) proxyUrl.searchParams.set("output", "png");
+    return proxyUrl.toString();
+  } catch {
+    return imageUrl;
+  }
+}
+
 function normalizeNewsItem(item, index = 0) {
   if (!item || typeof item !== "object") return null;
 
@@ -103,7 +130,7 @@ function normalizeNewsItem(item, index = 0) {
     summary: cleanText(item.summary),
     source,
     url: cleanText(item.url),
-    image: cleanText(item.image || item.imageUrl || item.thumbnail),
+    image: normalizeImageUrl(IMAGE_OVERRIDES[cleanText(item.url)] || item.image || item.imageUrl || item.thumbnail),
     publishedAt: cleanText(item.publishedAt, new Date().toISOString()),
     priority: Number.isFinite(Number(item.priority)) ? Number(item.priority) : 0,
     active: item.active !== false,

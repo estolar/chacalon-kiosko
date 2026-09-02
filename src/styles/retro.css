@@ -2426,6 +2426,25 @@ background-color: #000;
 .news-admin__item-order button{ width:22px; height:22px; padding:0; }
 .news-admin__item-order button:disabled{ opacity:.3; cursor:not-allowed; }
 .news-admin__item-copy{ min-width:0; display:flex; flex-direction:column; gap:5px; }
+.news-admin__item-thumb{
+  width:76px;
+  height:46px;
+  flex:0 0 auto;
+  object-fit:cover;
+  border:1px solid rgba(200,169,107,.7);
+  background:#08100c;
+}
+.news-admin__image-missing{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  width:76px;
+  height:46px;
+  box-sizing:border-box;
+  border:1px dashed #ffb6a7;
+  color:#ffb6a7;
+  font:700 9px var(--font-mono);
+}
 .news-admin__item-copy strong{ overflow:hidden; color:#f4e8c8; font:700 14px var(--font-mono); text-overflow:ellipsis; white-space:nowrap; }
 .news-admin__item-copy span{ color:#b8d887; font:11px var(--font-mono); }
 .news-admin__item-actions{ display:flex; gap:7px; }
