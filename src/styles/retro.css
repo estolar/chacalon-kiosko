@@ -2515,6 +2515,9 @@ background-color: #000;
   display:none;
 }
 .game-shell--chacalon .chacalon-identity__portrait-frame::before{ display:none; }
+.game-shell--chacalon .chacalon-identity{
+  --chacalon-natural-filter:brightness(1.08) saturate(1.12) contrast(1.03);
+}
 .game-shell--chacalon .chacalon-identity__portrait{
   --chacalon-offset-y:-150px;
   position:relative;
@@ -2525,8 +2528,7 @@ background-color: #000;
   transform:translateY(var(--chacalon-offset-y)) scale(.85);
   transform-origin:center bottom;
   animation:none;
-  /* El salud se muestra sin el realce de audio; igualamos base y guiño. */
-  filter:none;
+  filter:var(--chacalon-natural-filter);
 }
 .game-shell--chacalon .chacalon-identity__body-motion{
   display:block;
@@ -2535,7 +2537,7 @@ background-color: #000;
   transform:translateY(var(--chacalon-offset-y)) scale(.85);
   transform-origin:center bottom;
   animation:chacalon-shirt-breathe 5.2s ease-in-out infinite;
-  filter:none;
+  filter:var(--chacalon-natural-filter);
 }
 .game-shell--chacalon .chacalon-identity .chacalon-identity__salute{
   --chacalon-salute-offset-y:-155px;
@@ -2545,7 +2547,7 @@ background-color: #000;
   transform:translateY(var(--chacalon-salute-offset-y)) scale(.85);
   transform-origin:center bottom;
   opacity:0;
-  filter:none;
+  filter:var(--chacalon-natural-filter);
 }
 .game-shell--chacalon .chacalon-identity.is-saluting .chacalon-identity__portrait,
 .game-shell--chacalon .chacalon-identity.is-saluting .chacalon-identity__body-motion{
