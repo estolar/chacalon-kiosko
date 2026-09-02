@@ -62,7 +62,7 @@ describe("ChacalonChat", () => {
     expect(
       screen.getByRole("button", { name: /Reproducir música|Pausar música/i })
     ).toBeInTheDocument();
-    expect(screen.getByAltText(/Retrato arcade de Chacalón Virtual/i)).toBeInTheDocument();
+    expect(screen.getByAltText(/Retrato de Chacalón, vendedor del kiosko/i)).toBeInTheDocument();
   });
 
   test("plays the complete song in a loop", () => {
@@ -73,7 +73,7 @@ describe("ChacalonChat", () => {
       expect.stringContaining("caballito-pixelado.mp3")
     );
     expect(screen.getByLabelText(/Música de prueba 8-bit/i)).toHaveAttribute("loop");
-    expect(screen.getByText(/CANCIÓN COMPLETA EN LOOP/i)).toBeInTheDocument();
+    expect(screen.getByText(/CANCIÓN: CABALLITO PIXELADO - LOOP/i)).toBeInTheDocument();
   });
 
   test("saves the first message as the player name", () => {
@@ -120,6 +120,37 @@ describe("ChacalonChat", () => {
     expect(global.fetch.mock.calls[0][1].body).toContain(
       '"memory":["¿Qué juego me recomiendas?"]'
     );
+  });
+
+  test("answers a salute locally without calling the AI server and varies the reply", () => {
+    global.fetch = jest.fn();
+
+    render(<ChacalonChat onExit={jest.fn()} />);
+    enterPlayerName();
+    const textarea = screen.getByLabelText(/Habla con Chacalón/i);
+    const form = screen.getByRole("button", { name: "ENVIAR" }).closest("form");
+
+    fireEvent.change(textarea, { target: { value: "salud" } });
+    fireEvent.submit(form);
+    expect(screen.getByText("¡Salud, mi hermano!")).toBeInTheDocument();
+
+    fireEvent.change(textarea, { target: { value: "chela" } });
+    fireEvent.submit(form);
+    expect(screen.getByText("¡Dos más pes, causita!")).toBeInTheDocument();
+    expect(global.fetch).not.toHaveBeenCalled();
+  });
+
+  test("handles a wink locally without calling the AI server", () => {
+    global.fetch = jest.fn();
+
+    render(<ChacalonChat onExit={jest.fn()} />);
+    enterPlayerName();
+    const textarea = screen.getByLabelText(/Habla con Chacalón/i);
+    fireEvent.change(textarea, { target: { value: "hazme un guiño" } });
+    fireEvent.submit(screen.getByRole("button", { name: "ENVIAR" }).closest("form"));
+
+    expect(screen.getByText(/ahí va el guiño/i)).toBeInTheDocument();
+    expect(global.fetch).not.toHaveBeenCalled();
   });
 
   test("renders a JSON API reply even when the browser exposes a response body stream", async () => {
@@ -275,7 +306,7 @@ describe("ChacalonChat", () => {
     fireEvent.submit(screen.getByRole("button", { name: "ENVIAR" }).closest("form"));
 
     await waitFor(() => {
-      expect(screen.getByText(/modo de respaldo local/i)).toBeInTheDocument();
+      expect(screen.getByText("MODO LOCAL")).toBeInTheDocument();
     });
   });
 
@@ -292,7 +323,7 @@ describe("ChacalonChat", () => {
     fireEvent.submit(screen.getByRole("button", { name: "ENVIAR" }).closest("form"));
 
     await waitFor(() => {
-      expect(screen.getByText(/modo de respaldo local/i)).toBeInTheDocument();
+      expect(screen.getByText("MODO LOCAL")).toBeInTheDocument();
     });
   });
 
@@ -363,7 +394,6 @@ test("creates continuation suggestions from the current topic", () => {
   expect(getConversationSuggestions("Keiko habló ante el Congreso")).toEqual([
     "¿Qué implica esto para el Congreso?",
     "¿Qué dice la gente sobre esta medida?",
-    "¿Qué podría pasar después?",
   ]);
 });
 

@@ -5,6 +5,7 @@ export default function ConversationComposer({
   input,
   inputRef,
   status,
+  controls,
   slashCommands,
   slashCommandIndex,
   slashActiveOptionRef,
@@ -24,6 +25,7 @@ export default function ConversationComposer({
       <label className="chacalon-form__label" htmlFor="chacalon-message">
         {playerName ? "HABLA CON CHACALÓN" : "DILE TU NOMBRE A CHACALÓN"}
       </label>
+      {controls && <div className="chacalon-form__controls">CONTROLES: {controls}</div>}
       {showSlashMenu && (
         <div
           id="chacalon-slash-menu"

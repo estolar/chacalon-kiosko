@@ -2,6 +2,7 @@ import React, { useEffect, useRef, useState } from "react";
 import GameShell from "../components/GameShell";
 import ConversationMessages from "./components/ConversationMessages";
 import ConversationComposer from "./components/ConversationComposer";
+import KioskFrame from "./components/KioskFrame";
 
 const API_URL = process.env.REACT_APP_AI_API_URL || "";
 const PUBLIC_URL = process.env.PUBLIC_URL || "";
@@ -11,10 +12,10 @@ const API_PATH =
     ? `${PUBLIC_URL.replace(/\/$/, "")}/api/ai/chat.php`
     : "/api/ai/chat");
 const AUDIO_SRC = `${PUBLIC_URL}/audio/caballito-pixelado.mp3`;
-const IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-arcade.png`;
-const WINK_IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-arcade-wink.png`;
-const BODY_MOTION_SRC = `${PUBLIC_URL}/images/chacalon-arcade-body.png`;
-const SALUTE_IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-arcade-salute.png`;
+const IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-natural-counter-final.png`;
+const WINK_IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-natural-wink.png`;
+const BODY_MOTION_SRC = `${PUBLIC_URL}/images/chacalon-natural-shirt-motion.png`;
+const SALUTE_IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-natural-salute.png`;
 const LOCAL_CONTEXT_URL = `${PUBLIC_URL.replace(/\/$/, "")}/data/context.json`;
 const PRODUCTION_CONTEXT_URL =
   "https://raw.githubusercontent.com/estolar/chacalon-kiosko/main/public/data/context.json";
@@ -28,12 +29,34 @@ const MAX_SAVED_ANSWERS = 20;
 const MAX_SAVED_ANSWER_LENGTH = 240;
 const AI_REQUEST_TIMEOUT_MS = 30_000;
 
+function getDayPhase(date = new Date()) {
+  const hour = Number(new Intl.DateTimeFormat("en-US", {
+    hour: "numeric", hour12: false, timeZone: "America/Lima",
+  }).format(date));
+  if (hour >= 6 && hour < 12) return "morning";
+  if (hour >= 12 && hour < 18) return "sunset";
+  return "night";
+}
+
 function formatAudioTime(seconds) {
   if (!Number.isFinite(seconds) || seconds < 0) return "0:00";
 
   const minutes = Math.floor(seconds / 60);
   const remainingSeconds = Math.floor(seconds % 60).toString().padStart(2, "0");
   return `${minutes}:${remainingSeconds}`;
+}
+
+function formatContextUpdatedAt(value) {
+  if (!value) return "fecha no disponible";
+
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return "fecha no disponible";
+
+  return new Intl.DateTimeFormat("es-PE", {
+    dateStyle: "short",
+    timeStyle: "short",
+    timeZone: "America/Lima",
+  }).format(date);
 }
 
 function shouldUseDailyContext(message) {
@@ -341,7 +364,7 @@ function getConversationSuggestions(text) {
     addSuggestion("¿Tú qué opinas, hermano?");
   }
 
-  return suggestions.slice(0, 3);
+  return suggestions.slice(0, 2);
 }
 
 const INTRO_MESSAGE = {
@@ -427,6 +450,19 @@ const FALLBACK_REPLIES = [
   "Aunque se corte la señal, las ganas siguen. ¿Qué juego quieres dominar?",
 ];
 
+const SALUTE_REPLIES = [
+  "¡Salud, mi hermano!",
+  "¡Dos más pes, causita!",
+  "Ahhh, qué rica chela.",
+  "¡Arriba, abajo, al centro y pa' dentro!",
+  "¡Salud por la buena conversa, causa!",
+];
+
+const WINK_REPLIES = [
+  "Je, je... ahí va el guiño, causa.",
+  "Ese guiño es solo para la causa.",
+];
+
 function getFallbackReply(message) {
   const normalizedMessage = message.toLowerCase();
 
@@ -478,6 +514,8 @@ function compactDailyContext(context, rotation = 0) {
     summary: trim(item?.summary, 320),
     source: trim(item?.source, 100),
     url: trim(item?.url, 500),
+    image: trim(item?.image || item?.imageUrl || item?.thumbnail, 500),
+    publishedAt: trim(item?.publishedAt, 40),
     name: trim(item?.name, 160),
     district: trim(item?.district, 100),
     sponsored: Boolean(item?.sponsored),
@@ -564,8 +602,7 @@ export default function ChacalonChat({ onExit }) {
   ]);
   const [input, setInput] = useState("");
   const [status, setStatus] = useState("READY");
-  const [error, setError] = useState("");
-  const messagesEndRef = useRef(null);
+  const messagesScrollRef = useRef(null);
   const inputRef = useRef(null);
   const slashActiveOptionRef = useRef(null);
   const mentionActiveOptionRef = useRef(null);
@@ -589,10 +626,18 @@ export default function ChacalonChat({ onExit }) {
   const [isSaluting, setIsSaluting] = useState(false);
   const saluteTimerRef = useRef(null);
   const winkCommandTimerRef = useRef(null);
+  const gestureReplyIndexRef = useRef({ salute: 0, wink: 0 });
   const [slashMenuOpen, setSlashMenuOpen] = useState(false);
   const [slashCommandIndex, setSlashCommandIndex] = useState(0);
   const [mentionMenuOpen, setMentionMenuOpen] = useState(false);
   const [mentionIndex, setMentionIndex] = useState(0);
+  const [selectedNews, setSelectedNews] = useState(null);
+  const [dayPhase, setDayPhase] = useState(() => getDayPhase());
+
+  useEffect(() => {
+    const timer = window.setInterval(() => setDayPhase(getDayPhase()), 60_000);
+    return () => window.clearInterval(timer);
+  }, []);
 
   const slashMatch = playerName && input.match(/^\/([^\s]*)$/);
   const slashQuery = slashMatch ? slashMatch[1].toLocaleLowerCase("es-PE") : "";
@@ -620,9 +665,9 @@ export default function ChacalonChat({ onExit }) {
   }, [showMentionMenu, mentionIndex, mentionOptions.length]);
 
   useEffect(() => {
-    if (typeof messagesEndRef.current?.scrollIntoView === "function") {
-      messagesEndRef.current.scrollIntoView({ behavior: "smooth" });
-    }
+    const messagesPanel = messagesScrollRef.current;
+    if (!messagesPanel) return;
+    messagesPanel.scrollTop = messagesPanel.scrollHeight;
   }, [messages]);
 
   useEffect(() => {
@@ -674,7 +719,7 @@ export default function ChacalonChat({ onExit }) {
   function triggerSalute() {
     window.clearTimeout(saluteTimerRef.current);
     setIsSaluting(true);
-    saluteTimerRef.current = window.setTimeout(finishSalute, 1800);
+    saluteTimerRef.current = window.setTimeout(finishSalute, 2800);
   }
 
   function triggerWink() {
@@ -684,6 +729,13 @@ export default function ChacalonChat({ onExit }) {
       setIsWinking(false);
       winkCommandTimerRef.current = null;
     }, 180);
+  }
+
+  function getNextGestureReply(gesture) {
+    const replies = gesture === "salute" ? SALUTE_REPLIES : WINK_REPLIES;
+    const index = gestureReplyIndexRef.current[gesture] % replies.length;
+    gestureReplyIndexRef.current[gesture] += 1;
+    return replies[index];
   }
 
   useEffect(() => {
@@ -723,10 +775,6 @@ export default function ChacalonChat({ onExit }) {
 
     try {
       const context = audioContextRef.current || new AudioContext();
-      if (context.state === "suspended") {
-        context.close?.();
-        return;
-      }
       const analyser = context.createAnalyser();
       const source = context.createMediaElementSource(audio);
 
@@ -951,7 +999,6 @@ export default function ChacalonChat({ onExit }) {
     setInput("");
     setSlashMenuOpen(false);
     setMentionMenuOpen(false);
-    setError("");
     setStatus("READY");
   }
 
@@ -990,7 +1037,6 @@ export default function ChacalonChat({ onExit }) {
       setInput("");
       setSlashMenuOpen(false);
       setMentionMenuOpen(false);
-      setError("");
       setStatus("READY");
       return;
     }
@@ -1017,7 +1063,6 @@ export default function ChacalonChat({ onExit }) {
       setInput("");
       setSlashMenuOpen(false);
       setMentionMenuOpen(false);
-      setError("");
       setStatus("READY");
       return;
     }
@@ -1034,10 +1079,26 @@ export default function ChacalonChat({ onExit }) {
     setInput("");
     setSlashMenuOpen(false);
     setMentionMenuOpen(false);
-    setError("");
     setStatus("CONNECTING");
-    if (shouldTriggerSalute(message)) triggerSalute();
-    if (shouldTriggerWink(message)) triggerWink();
+    const hasSaluteGesture = shouldTriggerSalute(message);
+    const hasWinkGesture = shouldTriggerWink(message);
+    if (hasSaluteGesture) triggerSalute();
+    if (hasWinkGesture) triggerWink();
+
+    if (hasSaluteGesture || hasWinkGesture) {
+      const gesture = hasSaluteGesture ? "salute" : "wink";
+      setMessages((current) => [
+        ...current,
+        {
+          id: `gesture-${Date.now()}`,
+          role: "assistant",
+          text: getNextGestureReply(gesture),
+        },
+      ]);
+      setStatus("READY");
+      return;
+    }
+
     const nextAnswers = rememberAnswer(message);
     const assistantId = `model-${Date.now()}`;
     setMessages((current) => [
@@ -1105,8 +1166,7 @@ export default function ChacalonChat({ onExit }) {
         )
       );
       setStatus("ONLINE");
-    } catch (error) {
-      const timedOut = error?.name === "AbortError";
+    } catch {
       const fallbackText = getFallbackReply(message);
       setMessages((current) => [
         ...current.filter((item) => item.id !== assistantId),
@@ -1118,11 +1178,6 @@ export default function ChacalonChat({ onExit }) {
           suggestions: getConversationSuggestions(fallbackText),
         },
       ]);
-      setError(
-        timedOut
-          ? "La IA está tardando demasiado: usamos el modo de respaldo local."
-          : "IA no disponible: usamos el modo de respaldo local."
-      );
       setStatus("OFFLINE");
     } finally {
       window.clearTimeout(timeoutId);
@@ -1231,27 +1286,30 @@ export default function ChacalonChat({ onExit }) {
 
   return (
     <GameShell
-      title="Conversando con Chacalón Virtual"
-      emoji="🎙️"
+      title=""
+      emoji=""
       status={status}
       controls="Escribe tu mensaje y pulsa Enter | Shift + Enter para una nueva línea"
       onExit={onExit}
-      actions={
-        <button className="btn" onClick={resetChat} type="button">
-          Reiniciar conversación
-        </button>
-      }
-    >
-      {dailyContext && (
+      showTitle={false}
+      controlsInContent
+      actionsInHeader
+      hideHeader
+      className={`game-shell--chacalon game-shell--${dayPhase}`}
+      headerContent={dailyContext && (
         <div className="chacalon-context-status">
-          CONTEXTO DEL DÍA · {dailyContext.region || "PERÚ"} · ACTUALIZADO
+          CONTEXTO DEL DÍA · {dailyContext.region || "PERÚ"} · ACTUALIZADO {formatContextUpdatedAt(dailyContext.generatedAt)}
         </div>
       )}
-
-      <div className="chacalon-player">
-        <div className="chacalon-music__label">
-          MÚSICA · CABALLITO PIXELADO · CANCIÓN COMPLETA EN LOOP
-        </div>
+      actions={
+        <>
+          <button className="btn" onClick={onExit} type="button">Salir</button>
+          <button className="btn" onClick={resetChat} type="button">Reiniciar conversación</button>
+        </>
+      }
+    >
+      <KioskFrame context={dailyContext} onOpenNews={setSelectedNews}>
+        <div className="chacalon-player kiosk-layer kiosk-layer--player">
         {musicBlocked && (
           <div className="chacalon-music__activation">
             <span>SI QUIERES UN CUMBIÓN CHACALONERO</span>
@@ -1272,8 +1330,11 @@ export default function ChacalonChat({ onExit }) {
           <canvas ref={visualizerCanvasRef} aria-hidden="true" />
           <div className="chacalon-visualizer__scanlines" aria-hidden="true" />
           <div className="chacalon-visualizer__overlay">
-            <span>♪ CUMBIA SIGNAL</span>
-            <span>{isPlaying ? "BAILANDO" : "EN PAUSA"}</span>
+            <span>♪ CUMBIA</span>
+            <span className="chacalon-visualizer__track-title">
+              CANCIÓN: CABALLITO PIXELADO - LOOP
+            </span>
+            <span>{isPlaying ? "BAILANDO" : "PAUSA"}</span>
           </div>
         </div>
         <audio
@@ -1333,9 +1394,9 @@ export default function ChacalonChat({ onExit }) {
             />
           </label>
         </div>
-      </div>
+        </div>
 
-      <div className="chacalon-main-grid">
+        <div className="chacalon-main-grid kiosk-layer kiosk-layer--portrait">
         <div
           className={`chacalon-identity ${isPlaying ? "is-playing" : ""} ${
             isSaluting ? "is-saluting" : ""
@@ -1345,7 +1406,7 @@ export default function ChacalonChat({ onExit }) {
             <img
               className="chacalon-identity__portrait"
               src={isWinking ? WINK_IMAGE_SRC : IMAGE_SRC}
-              alt="Retrato arcade de Chacalón Virtual"
+              alt="Retrato de Chacalón, vendedor del kiosko"
             />
             <img
               className="chacalon-identity__body-motion"
@@ -1358,32 +1419,26 @@ export default function ChacalonChat({ onExit }) {
               src={SALUTE_IMAGE_SRC}
               alt=""
               aria-hidden="true"
-              onAnimationEnd={finishSalute}
             />
           </div>
-          <div className="chacalon-identity__copy">
-            <div className="chacalon-identity__eyebrow">TRANSMISIÓN VISUAL ONLINE</div>
-            <h3>CHACALÓN VIRTUAL</h3>
-            <p>Homenaje interactivo · música chicha · arcade</p>
-          </div>
+        </div>
         </div>
 
-        <div className="chacalon-chat">
+        <div className="chacalon-chat kiosk-layer kiosk-layer--chat">
           <ConversationMessages
             messages={messages}
             playerName={playerName}
             status={status}
-            messagesEndRef={messagesEndRef}
+            messagesScrollRef={messagesScrollRef}
             onSuggestedReply={handleSuggestedReply}
           />
-
-          {error && <div className="banner banner-warn">{error}</div>}
 
           <ConversationComposer
             playerName={playerName}
             input={input}
             inputRef={inputRef}
             status={status}
+            controls="Escribe tu mensaje y pulsa Enter | Shift + Enter para una nueva línea"
             slashCommands={slashCommands}
             slashCommandIndex={slashCommandIndex}
             slashActiveOptionRef={slashActiveOptionRef}
@@ -1399,7 +1454,23 @@ export default function ChacalonChat({ onExit }) {
             onSubmit={sendMessage}
           />
         </div>
-      </div>
+      </KioskFrame>
+      {selectedNews && (
+        <div className="news-modal" role="dialog" aria-modal="true" aria-label="Detalle de noticia">
+          <button className="news-modal__close" type="button" onClick={() => setSelectedNews(null)} aria-label="Cerrar noticia">×</button>
+          <div className="news-modal__masthead">{selectedNews.source || "EL KIOSKO"}</div>
+          <div className="news-modal__rule" />
+          <div className="news-modal__category">NOTICIAS</div>
+          {selectedNews.image && <img className="news-modal__image" src={selectedNews.image} alt="" />}
+          <h2>{selectedNews.title}</h2>
+          <p>{selectedNews.summary || "Consulta la noticia completa en el medio original."}</p>
+          {selectedNews.url && (
+            <a className="btn news-modal__link" href={selectedNews.url} target="_blank" rel="noreferrer">
+              IR A LA NOTICIA ORIGINAL ↗
+            </a>
+          )}
+        </div>
+      )}
     </GameShell>
   );
 }
@@ -1407,6 +1478,7 @@ export default function ChacalonChat({ onExit }) {
 export {
   extractRequestedName,
   compactDailyContext,
+  formatContextUpdatedAt,
   getConversationSuggestions,
   getFallbackReply,
   getMentionOptions,

@@ -4,7 +4,9 @@ import App from "./App";
 import "./styles/retro.css";
 import { BrowserRouter } from "react-router-dom";
 
-const APP_BASENAME = (process.env.PUBLIC_URL || "/chacalon").replace(/\/+$/, "") || "/";
+const DEFAULT_BASENAME = process.env.NODE_ENV === "production" ? "/chacalon" : "/";
+const CONFIGURED_BASENAME = process.env.NODE_ENV === "production" ? process.env.PUBLIC_URL : "";
+const APP_BASENAME = (CONFIGURED_BASENAME || DEFAULT_BASENAME).replace(/\/+$/, "") || "/";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 

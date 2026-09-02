@@ -4,11 +4,15 @@ export default function ConversationMessages({
   messages,
   playerName,
   status,
-  messagesEndRef,
+  messagesScrollRef,
   onSuggestedReply,
 }) {
   return (
-    <div className="chacalon-chat__messages" aria-live="polite">
+    <div
+      className="chacalon-chat__messages"
+      aria-live="polite"
+      ref={messagesScrollRef}
+    >
       {messages.map((message, index) => (
         <div
           className={`chacalon-message chacalon-message--${message.role}`}
@@ -45,7 +49,6 @@ export default function ConversationMessages({
           )}
         </div>
       ))}
-      <div ref={messagesEndRef} />
     </div>
   );
 }
