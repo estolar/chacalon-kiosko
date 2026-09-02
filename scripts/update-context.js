@@ -5,12 +5,16 @@ const FEEDS = [
   {
     id: "politica",
     label: "Política",
-    url: "https://news.google.com/rss/search?q=Per%C3%BA%20Keiko%20ministros%20gobierno%20Congreso%20pol%C3%ADtica&hl=es-419&gl=PE&ceid=PE:es-419",
+    sourceLabel: "El Comercio Perú",
+    url: "https://elcomercio.pe/arc/outboundfeeds/rss/category/politica/?outputType=xml",
+    fallbackUrl: "https://news.google.com/rss/search?q=Per%C3%BA%20Keiko%20ministros%20gobierno%20Congreso%20pol%C3%ADtica&hl=es-419&gl=PE&ceid=PE:es-419",
   },
   {
     id: "economia",
     label: "Economía",
-    url: "https://news.google.com/rss/search?q=Per%C3%BA%20econom%C3%ADa&hl=es-419&gl=PE&ceid=PE:es-419",
+    sourceLabel: "Gestión",
+    url: "https://gestion.pe/arc/outboundfeeds/rss/category/economia/?outputType=xml",
+    fallbackUrl: "https://news.google.com/rss/search?q=Per%C3%BA%20econom%C3%ADa&hl=es-419&gl=PE&ceid=PE:es-419",
   },
   {
     id: "sociedad",
@@ -88,6 +92,20 @@ function readTag(block, tagName) {
   return match ? match[1] : "";
 }
 
+function readImageUrl(block) {
+  const candidates = [
+    /<(?:media:)?content\b[^>]*\burl=["']([^"']+)["'][^>]*>/i,
+    /<(?:media:)?thumbnail\b[^>]*\burl=["']([^"']+)["'][^>]*>/i,
+    /<enclosure\b[^>]*\burl=["']([^"']+)["'][^>]*\btype=["']image\//i,
+    /<enclosure\b[^>]*\btype=["']image\//i,
+  ];
+  for (const pattern of candidates) {
+    const match = block.match(pattern);
+    if (match?.[1]) return decodeEntities(match[1]).trim();
+  }
+  return "";
+}
+
 function parseRss(xml, fallbackSource) {
   const items = [...xml.matchAll(/<item\b[^>]*>([\s\S]*?)<\/item>/gi)];
 
@@ -99,6 +117,7 @@ function parseRss(xml, fallbackSource) {
       const publishedAt = new Date(cleanText(readTag(block, "pubDate"), 80));
       const source = cleanText(readTag(block, "source"), 80) || fallbackSource;
       const summary = cleanText(readTag(block, "description"));
+      const image = readImageUrl(block);
 
       if (!title || !url) return null;
 
@@ -107,6 +126,7 @@ function parseRss(xml, fallbackSource) {
         summary,
         source,
         url,
+        image,
         publishedAt: Number.isNaN(publishedAt.getTime())
           ? null
           : publishedAt.toISOString(),
@@ -116,18 +136,22 @@ function parseRss(xml, fallbackSource) {
 }
 
 async function fetchFeed(feed) {
-  const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), 15_000);
+  const urls = [feed.url, feed.fallbackUrl].filter(Boolean);
+  let lastError;
 
-  try {
-    const response = await fetch(feed.url, {
-      headers: { "User-Agent": "retro-games-context/1.0" },
-      signal: controller.signal,
-    });
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  for (const url of urls) {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 15_000);
+    try {
+      const response = await fetch(url, {
+        headers: { "User-Agent": "retro-games-context/1.0" },
+        signal: controller.signal,
+      });
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
+      const parsedItems = parseRss(await response.text(), feed.sourceLabel || feed.label);
     const seenTitles = new Set();
-    const items = parseRss(await response.text(), "Google News")
+    const items = parsedItems
       .filter((item) => {
         const key = normalizeTitle(item.title);
         if (!key || seenTitles.has(key)) return false;
@@ -140,10 +164,15 @@ async function fetchFeed(feed) {
         return secondTime - firstTime;
       });
 
-    return items.slice(0, MAX_ITEMS_PER_CATEGORY);
-  } finally {
-    clearTimeout(timeout);
+      return items.slice(0, MAX_ITEMS_PER_CATEGORY);
+    } catch (error) {
+      lastError = error;
+    } finally {
+      clearTimeout(timeout);
+    }
   }
+
+  throw lastError || new Error("No se pudo consultar el feed");
 }
 
 function readRecommendations() {

@@ -73,7 +73,7 @@ describe("ChacalonChat", () => {
       expect.stringContaining("caballito-pixelado.mp3")
     );
     expect(screen.getByLabelText(/Música de prueba 8-bit/i)).toHaveAttribute("loop");
-    expect(screen.getByText(/CANCIÓN COMPLETA EN LOOP/i)).toBeInTheDocument();
+    expect(screen.getByText(/CANCIÓN: CABALLITO PIXELADO - LOOP/i)).toBeInTheDocument();
   });
 
   test("saves the first message as the player name", () => {
