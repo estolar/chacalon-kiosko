@@ -16,7 +16,7 @@ const AUDIO_SRC = `${PUBLIC_URL}/audio/caballito-pixelado.mp3`;
 const IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-natural-counter-final.png`;
 const WINK_IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-natural-wink.png`;
 const BODY_MOTION_SRC = `${PUBLIC_URL}/images/chacalon-natural-shirt-motion.png`;
-const SALUTE_IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-natural-salute.png`;
+const SALUTE_IMAGE_SRC = `${PUBLIC_URL}/images/chacalon-natural-salute-v2.png`;
 const LOCAL_CONTEXT_URL = `${PUBLIC_URL.replace(/\/$/, "")}/data/context.json`;
 const PRODUCTION_CONTEXT_URL =
   "https://raw.githubusercontent.com/estolar/chacalon-kiosko/main/public/data/context.json";
