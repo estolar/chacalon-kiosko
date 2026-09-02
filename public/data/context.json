@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T03:09:04.642Z",
+  "generatedAt": "2026-09-02T04:07:00.233Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -14,6 +14,15 @@
   ],
   "topics": {
     "politica": [
+      {
+        "category": "politica",
+        "title": "Escándalo en la Policía",
+        "summary": "Un reportaje examina la falta de ejecución de fondos destinados a equipamiento policial y las denuncias dentro de la institución.",
+        "source": "Hildebrandt en sus trece",
+        "url": "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
+        "image": "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
+        "publishedAt": "2026-09-01T00:00:00.000Z"
+      },
       {
         "title": "Ministro Alberto Beingolea sobre Óscar Arriola: “No es que sacando a un funcionario el problema se va a resolver”",
         "summary": "El ministro de Cultura, Alberto Beingolea, se pronunció sobre la permanencia de Óscar Arriola en la Comandancia General de la Policía Nacional (PNP) y afirmó que “no es que sacando a un funcionario”, el problema de la inseguridad ciudadana en el país “se va a resolver”.",
@@ -69,23 +78,23 @@
         "url": "https://elcomercio.pe/politica/gobierno/luis-galarreta-inicia-ronda-de-dialogo-con-bancadas-de-la-camara-de-diputados-por-el-pedido-de-facultades-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/BLETIIZM6ZFMPP7EEMJVJPZXIE.jpg?auth=b70e43c2a697486bc5b7ac120a4667de24069056206f26dffb903d3fc66eef9d&smart=true&width=2048&height=1365",
         "publishedAt": "2026-09-01T19:24:41.000Z"
-      },
-      {
-        "title": "Es impreciso que el precio del petróleo se elevó de US$66 a US$88 dólares por barril entre enero y agosto",
-        "summary": "Lo dijo el diputado Jaime Abensur, de Fuerza Popular. En realidad, el promedio del precio del petróleo alcanzado en enero fue de US$60 y, en agosto, de US$81.8, pero entre estos meses hubo picos de hasta US$119",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/es-impreciso-que-el-precio-del-petroleo-se-elevo-de-us66-a-us88-dolares-por-barril-entre-enero-y-agosto-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/UVGGDEPKWND7HHMU3YXBOEGACY.jpeg?auth=d9096081a1d6b05bd5533a0b2bf7a276acce895a7b247558830a43eaa631ce3e&smart=true&width=1045&height=565",
-        "publishedAt": "2026-09-01T18:24:21.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "El Niño: Gobierno declara emergencia en varias regiones del país ante peligro de lluvias",
+        "summary": "El Gobierno declaró el estado de emergencia, por el plazo de 60 días calendario, en varios distritos de algunas provincias de 23 regiones del país, por peligro inminente ante precipitaciones pluviales intensas asociadas al fenómeno El Niño 2026-2027.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/peru/gobiernode-keiko-fujimori-declara-emergencia-en-varias-regiones-ante-peligro-de-lluvias-por-el-nino-noticia/",
+        "image": "https://gestion.pe/resizer/v2/BRQQVFLE3JAEJOFX53CMHI3AGQ.jpg?auth=3dca16ab9745fa8f44d9519f9a8016078b2146f52e9587724e12539f7b51b35b&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-02T03:48:00.000Z"
+      },
       {
         "title": "MEF revierte decisión y ahora descarta aplicar impuestos a intereses de cuentas de ahorro",
         "summary": "El Ministerio de Economía y Finanzas (MEF) informó que no tiene previsto ni ha planteado aplicar el Impuesto a la Renta a los intereses generados por las cuentas de ahorro.",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/mef-revierte-decision-y-ahora-descarta-aplicar-impuestos-a-intereses-de-cuentas-de-ahorro-noticia/",
-        "image": "https://gestion.pe/resizer/v2/OQ7IUWQYZZCQ7GVRJY7TP7N6RY.jpg?auth=6dd0b9436e6b0d8055767791ccc958bd22ce58d2b9e17fda7551328db7687c33&smart=true&width=630&height=355",
+        "image": "https://gestion.pe/resizer/v2/INDZG4GRGBBNFNQECXJZKOGDGY.jpg?auth=b609b2774a4b136e7e124bac03cf153faf45ef8c3d9cab66d06a60aa41499ff2&smart=true&width=1594&height=900",
         "publishedAt": "2026-09-02T02:30:26.000Z"
       },
       {
@@ -135,14 +144,6 @@
         "url": "https://gestion.pe/economia/empresas/reinfo-empresa-del-grupo-ocim-se-adjudica-concesion-minera-en-cusco-para-no-quedarse-sin-proveedores-de-oro-noticia/",
         "image": "https://gestion.pe/resizer/v2/7MZIILA4SRB43KPUXBBXVYUZTA.jpg?auth=b6c672d1ece6d9cd193fa49a8be8024b2dad9da2b39d42e7595df9585e7e0307&smart=true&width=1200&height=889",
         "publishedAt": "2026-09-02T00:06:17.000Z"
-      },
-      {
-        "title": "¿La versión peruana de Alexa? Glexco alista “mini robot” para casas y oficinas",
-        "summary": "El calendario electoral no solo movió la agenda política del país: también corrió hacia adelante las decisiones de inversión de empresas e instituciones públicas. La peruana Glexco, especializada en soluciones de energía y robótica, lo sintió en sus ventas, pero optó por reasignar recursos al desarrollo tecnológico. El",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/peruana-glexco-invierte-us-15-millones-y-va-por-mercado-del-hogar-con-un-mini-robot-noticia/",
-        "image": "https://gestion.pe/resizer/v2/PFUHY5UYOJEC5P4DEO3KVIY74Q.jpg?auth=cae5dbd1b51bfb90b578c584a517dbd05de54418c683ba803d5d74871dcd72d6&smart=true&width=638&height=480",
-        "publishedAt": "2026-09-02T00:05:42.000Z"
       }
     ],
     "sociedad": [
@@ -171,20 +172,20 @@
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
+        "title": "Reniec: 31 años garantizando la identidad de los peruanos - El Peruano",
+        "summary": "Reniec: 31 años garantizando la identidad de los peruanos &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZDVLWm5qWGFXWk5YdXB4X3VqY3M4OU9KLTl2d1dJNHhlQk1fN2t6eTJURnNfdFdNYnpmT212T2lKU2NZNXpwZVdfdkVOSF9pejZpQzJSMldpbEQ1MEVIM1VjSmR4NVh1WVlCdVNqWmxlVVZaSk9mNE1ubUpIbzNPV19POUQxTUdxYkRiSV9yeUtpemFyZUFJ?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-13T07:00:00.000Z"
+      },
+      {
         "title": "El país real frente al Estado paquidérmico - El Montonero",
         "summary": "El país real frente al Estado paquidérmico &nbsp;&nbsp; El Montonero",
         "source": "El Montonero",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45STdEZEtjTFU4b2xVT3VKREo2Yjd6THBoQ0h6elRiendBYTFWa25WNHpkb0lFbWNpaTFkc2g1c0dmTlM2QlBMUGJPMzZBTFZ4U1Z6N0FFbjJKcTYyRm5PZWhYZjJkVmNWby1FS0tEcFBZOEFBRVVHNjVnZDBmczg?oc=5",
         "image": "",
         "publishedAt": "2026-07-03T07:22:18.000Z"
-      },
-      {
-        "title": "Perú, el país más polarizado de América Latina: sus razones - Arequipa Misti Press",
-        "summary": "Perú, el país más polarizado de América Latina: sus razones &nbsp;&nbsp; Arequipa Misti Press",
-        "source": "Arequipa Misti Press",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWNGSG5xZ0ZLdGFLcnN1RV83ck5BcGMyUGVDZFFGTkJTWHNDU0VaTWVKbE9fTi04TVFDcWxnZmRZRk40czlRVFZRQ05jVjVwZkpSelJVRDVpc2xzb1FneDc3eFRDUTFVMmhaOFZiQ0x5VVR3MVBNQXk0cUxpeHpfT2lhZEw0eDg5RHZ6cWVvUjRhR25VdDNqU1h6bFdyd3NUUWFmYw?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-27T07:00:00.000Z"
       },
       {
         "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - EL PAÍS",
@@ -203,12 +204,12 @@
         "publishedAt": "2026-06-07T07:00:00.000Z"
       },
       {
-        "title": "Así está el país en seguridad, economía y salud, según los datos 👉🏽 https://bbc.in/3Q602JK - facebook.com",
-        "summary": "Así está el país en seguridad, economía y salud, según los datos 👉🏽 https://bbc.in/3Q602JK &nbsp;&nbsp; facebook.com",
-        "source": "facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNVhDaDhPcjlQMHIyVW9aU0o2ci1XOUlSeXU3ZVh6UEluUi05c25RTEpfdzRVOEd5WmVFaWJTRHp4VkpqVGtZUkN2My1VM3JUSDkxSHdQWXZPbW9LTG1VNW1GcHpJU0QtR0NtaXh0VnFxSUlWaUp0bTNDNzB0QUUzeGtYaThQS0gyVzBOQ29kS0k5cFNCUGtfand3cnVGNXF4NTgzZWZHa1ZNdFdGS0hZazNMbkEwTk1saUdMTWY4d2dKMjFKZUhOUklkWm5vdGRhOUlPWDRhRDJ6Sm9pWGltU3c0blk?oc=5",
+        "title": "Día Mundial de la Bicicleta: la fecha que promueve un transporte limpio y accesible con impacto en salud, ciudades e inclusión social - Infobae",
+        "summary": "Día Mundial de la Bicicleta: la fecha que promueve un transporte limpio y accesible con impacto en salud, ciudades e inclusión social &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVms0TFg2anNjbExIaVpKQThVeDFnWF93NTBxSC1iSHRiNGlKdEpQZUpxbUNvcFVVcmVmajFCVTFNYkdvMDM2Y0V4UkJ2T2ZfZ1MxREpaR19oamtjZ1VTNXJ0NHBkUmFNZG9IdEFhWERPN2MwWGNVWGVNRmdwRXlfVFRjWFFfTzlWT1A3X1hCTjhxc25GRTFBVjhyRzdYdGRSZ1B2OFNjSkh2LVdORG9PWXVZQVhiM2NmcVhOSlctc20yM1pZRm1XMWUydTk4aEJ4ZVZvWmtZNkc1Zzd0UlhTaHNKQTlHVk0zd21lYVdSczlveHNiRUktTndWZUdIcWVhLXfSAZwCQVVfeXFMTnJONVdudlJkSnhLdEVrTllIRGRoRmxvVm10cVFITTd3NDZ5bTUxVERUZTZ4eWNtbjRNT0psSnJINmpEZFRvbzFvb0VNaGlpbHRBTHllLTYwLUtHblA0ME1xczl6Y0xBcmxZSTZBbGptMlRhOVN2MlRzeFVmWnF3MzM0V2JFZzA3R1dqYXVyc2NiOGw4U24zb0hFQnNlUGdEMkdzdWgxN1NmVlM0OExnRU9ILTF3VWVsMFMyNXlkNkF2OHJJUVhLem03T0E3RHFiQ21ya3R0OVM5Xzd5MU9xd3hlMC1MTFhwVnBUQXFlWVZ2TF9nZExUR1ltUjVWNkFlQ2JQNUUxSm5lMTdxSElJbzJfMjZRTVFCeDNGcko?oc=5",
         "image": "",
-        "publishedAt": "2026-05-28T07:00:00.000Z"
+        "publishedAt": "2026-06-03T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -224,7 +225,7 @@
         "title": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión - Infobae",
         "summary": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOczV0aHBxeXJTcnQ2eUR5UWh5LUVNaU9UUUd1eGFETGpiUTF4cXBCXzZGVWFSM2hWR0c4a2tTMTNhZVVvWTJOWTNyQTB0VFdFWE50WmtxQXpIaFhHd1VrdERmeGl1eFlEZm94ZWNwMGVLNWJ5TXNreHFwWU8tWEZONVctOVRQc2VGeVJkNGdHcFJXSFZBLXIwalotRVFuWmJSYjBVSDJLVkp2emw1ZzlCNEpadzVoSExUM0RYSXJWZlgxNXp5a255LUN4QXJ5V25ISUpuUS1ORElpaTNxb1B1dFp5UTdRZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOczV0aHBxeXJTcnQ2eUR5UWh5LUVNaU9UUUd1eGFETGpiUTF4cXBCXzZGVWFSM2hWR0c4a2tTMTNhZVVvWTJOWTNyQTB0VFdFWE50WmtxQXpIaFhHd1VrdERmeGl1eFlEZm94ZWNwMGVLNWJ5TXNreHFwWU8tWEZONVctOVRQc2VGeVJkNGdHcFJXSFZBLXIwalotRVFuWmJSYjBVSDJLVkp2emw1ZzlCNEpadzVoSExUM0RYSXJWZlgxNXp5a255LUN4QXJ5V25ISUpuUS1ORElpaTNxb1B1dFp5UTdRZ9IBgAJBVV95cUxQbzBRUy1EZnc5ZnhzandnWFd5T0oyODQ4akMteWVWcnJqaFNYZHpTTG5fZUxFU0tFUTR6c04zNEIzRThldVllMGFjVlFybzdFeHZsam1KR1Y5TkZIV2lxcGFsLVpVa1loWk9qdy14N3p0Ql9oRnhBSUU4MExjYzVTR2FhYTVJQWV4aGJlQl84NExEVUV0SThfUTZpb1FCQ0duUUJ3QXZWd1QxcDNzRERBR0tpMnhfTE5VQzV5dWhPbFJMTWpiZ2EtbENla0dKb1Z5U1FydmZUeUdLYnVVRG1sNTl3TEZtN0MtM0VmcHJUOW1sSlFLdGlKSlJfT0JuOFY0?oc=5",
         "image": "",
         "publishedAt": "2026-07-21T07:00:00.000Z"
       },
@@ -269,12 +270,12 @@
         "publishedAt": "2026-06-25T07:00:00.000Z"
       },
       {
-        "title": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 - Infobae",
-        "summary": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 &nbsp;&nbsp; Infobae",
+        "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
+        "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFBQRGNLOWxaMy1mT2RjU0RCNGw4TVNrRmlfX25qei10R09YTWltOXdNX1Fya1g0NEk5S2hhUnQzZmstM3o4bFNJS3QwbkFvUGs3dmx6TktrMDZZSEkzTkJVZ0ZEdmFaa0NUZk9pT1prS1gzNjVDeVMyUzdjWXlNQTNtSThQcnRyRjJ6YlZEWkw1WUF0aTZsQXRTWnJtRnYyX1Z0NDBCYm1PWGlOekJpeGlBS29qLUkzbTBFa1FKMmJnNDNrNDAxeWZn0gHkAUFVX3lxTFB5cjR0aTlsOEl3ZkZEeV9XR05Vb0RHblRDVTRpMFdTZTllMWdRaEpoSlZpSm5JOUZCbzBXc2pic0NMdG9OOGcwQk5fNWF2Wk9FYVp5RnU1WVg4ckU4eTJfT3FEOTN6cURTMjU2d1U5NUJmZ0ZseC1YdllmbEpuZTlnbThqeF9vSlVTb0cxSkZtZFBpTmcwakkzemxzcGJucU9JbFFic2hqNU9jSGVHWkdUTVNuNFFIb0x3S2pTNFBzRXptSF91N0EtSElUMi1kVldUYl9ocmVQLVNSZDY0V25QNV9iRA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
         "image": "",
-        "publishedAt": "2026-06-18T07:00:00.000Z"
+        "publishedAt": "2026-06-17T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -427,6 +428,14 @@
         "publishedAt": "2026-08-18T07:00:00.000Z"
       },
       {
+        "title": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO - Imagen de Veracruz",
+        "summary": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO &nbsp;&nbsp; Imagen de Veracruz",
+        "source": "Imagen de Veracruz",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLU5fOVFyR1JhZkhPcGs5RGtLX3lGbWtXcVpRLWJtRGxHdElNamtiQURtenhhQVFoQXczdUpva2VUWFotUVJxWFM3ZUFLaENGb1Z6TnJOVVhhUmczbzZiQWltU3pFeC1CVzM1S3ZLbktIMlJSVVBaVklnRUVjNVlFX25pQWJFSzVSS1BGTWpRM2VQalFLSFpGcE1fRTdjZy1KWWU3R29RSF9xX1pNM3pTZjdMemZKakhudHhIUkxNX1VOZklVbWEzc0NpdHN0UUdmMlNpYWNNMnRLU0FmUWxz0gHkAUFVX3lxTE1HTmV6Z3lLcW5pQTNpSGJxT2gwWFptR005THgwbzRyeVhneWVFRm9TV0plWlFoLWlCc2U2QnRZb0VkLVZDa292d0o2RnBaSkhGZDN5VDFtV19Kb0VQQTdTcHZKcExrN1pWVjFWbXVVOVFrekJHNUc5WHhXXzN2d1h3amgtQUw1aThialdock5tME83YWhpUGc2Z1hmbUFFelhlY01tV0VzdmRUU3lnWS11UVJtbGdPYXp3SzBjVFd0ek1rMXlESDNOeXVTcE5SdTZGa1ktWnBsbzk2d21wbGJ5TXpyUA?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-18T07:00:00.000Z"
+      },
+      {
         "title": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” - Infobae",
         "summary": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -465,14 +474,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYXk3T3Y2dVV1ZkxGTS1BMmFRbm5wRERwSHZQN3gtYUVFMFU4a0RnTmMtSTFjM05jSTJraEIxNEQwUjVJVFpvT25Tb2JlUHQxRVFQNlA2Mlk2X2pjOU5nT1V5cDJaV1FqRkZqSmJoNzJXb3lMWGxhRnB6NURYYmhsbnFCLU5EelNDLUZxNm9lNzkxZGNDQy1VUV9GNXJ6VnItQk05VkxpbVgtZmh4NEZWekh2cXczTlR4b3VIQUNpMlpFaDJ0amhSLUctMU9haHFTLXFDMEZZdExnSDE2YnZLQWhBRjQ?oc=5",
         "image": "",
         "publishedAt": "2026-05-07T07:00:00.000Z"
-      },
-      {
-        "title": "Álvaro Paz de la Barra sorprendió con curioso outfit al votar y se vuelve tendencia en redes sociales - Infobae",
-        "summary": "Álvaro Paz de la Barra sorprendió con curioso outfit al votar y se vuelve tendencia en redes sociales &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbmx6cXRRdk9sQWFMUVRBa1ptMkpucldLOEs2WTJITk9kbEVSMFJ4cGswNzhLRXhUcllzdWNBWkZPM0lqbXRPc19ndldJN1BZQVJUUjgtSWdKSHV6dGR2dDR0QTFtVWpIa01sSHNuLW9HVFA5amxLdk5aTWhyaHcydE85MHQwUTlOclpETkVzY24xNXN6ekRuV2llcmNqODNfcGxGSF9xbWlYY05LNWdnT2Q5QWR5T1ZibHl6OHY5czZUSnNFQUU1YzlRQnFQT3N3N1hQQXk4aEpOd9IB9AFBVV95cUxOYmlrdk1ZNFV3Wl9wYzBiNHBkTnhveG5uYzZaZHFVT0F4Wk1MZW1fbDE3RFF5c2JZRC1XdUtReGwxdzR2V2hZUlZNMm5SSzN2WGg2a3JlQ01RUWowQjllRW1RZHNLQ0dxcVhJZ3ZIN1R0dUstNXVNR2ItWW0zTkhoME1qa2ZQeDlrdmVhUlNSeG84NkdKNkM2RTAybDFwUDQtZjBjWnNWMmZ5TFBHajVIQm1yTmZKN3JGcXFpM19SUFR5aUVyUDZsem40alRfbjZmMDBWSjl4MzZ2bDAyU2JnMDAwY1YyX0JKNlRERW8wbW4xaGl5?oc=5",
-        "image": "",
-        "publishedAt": "2026-04-12T07:00:00.000Z"
       }
     ],
     "farandula": [

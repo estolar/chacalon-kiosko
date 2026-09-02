@@ -14,7 +14,9 @@ function getRackItems(context, categories) {
   });
   const preferred = (item) => {
     const source = String(item.source || "").toLocaleLowerCase("es-PE");
-    return source.includes("la república") || source.includes("hildebrandt") ? 0 : 1;
+    const hasImage = item.image || item.imageUrl || item.thumbnail;
+    const preferredSource = source.includes("la república") || source.includes("hildebrandt");
+    return `${hasImage ? "0" : "1"}${preferredSource ? "0" : "1"}`;
   };
   return visibleItems.sort((first, second) => preferred(first) - preferred(second)).slice(0, 3);
 }

@@ -57,6 +57,17 @@ const OUTPUT_PATH = path.join(process.cwd(), "public", "data", "context.json");
 const RECOMMENDATIONS_PATH = path.join(process.cwd(), "data", "recommendations.json");
 const MAX_ITEMS_PER_CATEGORY = 8;
 const MAX_TEXT_LENGTH = 320;
+const MANUAL_NEWS = [
+  {
+    category: "politica",
+    title: "Escándalo en la Policía",
+    summary: "Un reportaje examina la falta de ejecución de fondos destinados a equipamiento policial y las denuncias dentro de la institución.",
+    source: "Hildebrandt en sus trece",
+    url: "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
+    image: "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
+    publishedAt: "2026-09-01T00:00:00.000Z",
+  },
+];
 
 function normalizeTitle(title) {
   return title
@@ -204,6 +215,11 @@ async function main() {
       feedStatus.push({ id: feed.id, label: feed.label, ok: false, error: error.message });
       console.warn(`[context] ${feed.id}: ${error.message}`);
     }
+  }
+
+  for (const item of MANUAL_NEWS) {
+    topics[item.category] = [item, ...(topics[item.category] || [])]
+      .slice(0, MAX_ITEMS_PER_CATEGORY);
   }
 
   if (successfulFeeds === 0) {
