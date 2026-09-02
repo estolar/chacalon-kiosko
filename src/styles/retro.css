@@ -2266,6 +2266,17 @@ background-color: #000;
   text-shadow:1px 1px 0 rgba(255,247,218,.8);
 }
 .game-shell--chacalon .kiosk-sign p{ color:#59452b; font-size:12px; }
+.game-shell--chacalon .kiosk-sign__admin-link{
+  display:inline-block;
+  margin-top:10px;
+  color:#234f37;
+  font:700 11px var(--font-mono);
+  text-decoration:none;
+  text-transform:uppercase;
+  border-bottom:1px solid rgba(35,79,55,.55);
+}
+.game-shell--chacalon .kiosk-sign__admin-link:hover,
+.game-shell--chacalon .kiosk-sign__admin-link:focus-visible{ color:#8c1d40; border-color:#8c1d40; }
 .game-shell--chacalon .kiosk-rack,
 .game-shell--chacalon .kiosk-center{
   position:relative;
@@ -2297,6 +2308,116 @@ background-color: #000;
 .game-shell--chacalon .kiosk-rack__papers .newspaper-cover{
   border-width:1px;
   box-shadow:3px 5px 7px rgba(0,0,0,.42);
+}
+
+/* Administrador editorial: separado del contexto automático de Google News. */
+.news-admin-page{
+  min-height:100vh;
+  padding:28px 18px 56px;
+  color:#f4e8c8;
+  background:
+    linear-gradient(rgba(7,14,11,.84),rgba(7,14,11,.94)),
+    url("../assets/miraflores-street-night.png") center / cover fixed;
+}
+.news-admin{
+  width:min(1040px,100%);
+  margin:0 auto;
+  padding:26px;
+  border:1px solid #c8a96b;
+  background:rgba(22,31,25,.97);
+  box-shadow:0 16px 42px rgba(0,0,0,.52),inset 0 0 0 3px rgba(91,61,31,.34);
+}
+.news-admin__header,
+.news-admin__form-heading,
+.news-admin__list-heading{
+  display:flex;
+  align-items:flex-start;
+  justify-content:space-between;
+  gap:18px;
+}
+.news-admin__eyebrow{
+  margin:0 0 8px;
+  color:#b8d887;
+  font:700 11px var(--font-mono);
+  letter-spacing:1px;
+}
+.news-admin h1,
+.news-admin h2{ margin:0; color:#f5d329; }
+.news-admin h1{ font-size:30px; }
+.news-admin h2{ font-size:18px; }
+.news-admin__header p:not(.news-admin__eyebrow){ max-width:680px; margin:10px 0 0; color:#d6c9a4; }
+.news-admin__back,
+.news-admin__text-button,
+.news-admin__item-actions button,
+.news-admin__item-order button{
+  border:1px solid #c8a96b;
+  color:#f4e8c8;
+  background:#2c3d2f;
+  font:700 12px var(--font-mono);
+  cursor:pointer;
+}
+.news-admin__back{ flex:0 0 auto; padding:10px 12px; text-decoration:none; }
+.news-admin__back:hover,
+.news-admin__back:focus-visible,
+.news-admin__text-button:hover,
+.news-admin__text-button:focus-visible,
+.news-admin__item-actions button:hover,
+.news-admin__item-actions button:focus-visible,
+.news-admin__item-order button:hover:not(:disabled),
+.news-admin__item-order button:focus-visible:not(:disabled){ color:#171c15; background:#f5d329; }
+.news-admin__form,
+.news-admin__list{ margin-top:28px; padding:20px; border:1px solid rgba(200,169,107,.72); background:rgba(9,18,14,.74); }
+.news-admin__form-heading{ align-items:center; margin-bottom:16px; }
+.news-admin__text-button{ padding:7px 10px; }
+.news-admin__fields{ display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:14px 16px; }
+.news-admin__fields label{ display:flex; flex-direction:column; gap:6px; color:#b8d887; font:700 12px var(--font-mono); }
+.news-admin__fields input,
+.news-admin__fields textarea,
+.news-admin__fields select{
+  width:100%;
+  box-sizing:border-box;
+  border:1px solid #71906e;
+  padding:9px 10px;
+  color:#f4e8c8;
+  background:#08100c;
+  font:14px var(--font-mono);
+}
+.news-admin__fields textarea{ resize:vertical; }
+.news-admin__fields input:focus,
+.news-admin__fields textarea:focus,
+.news-admin__fields select:focus{ outline:2px solid #f5d329; outline-offset:1px; }
+.news-admin__wide{ grid-column:1 / -1; }
+.news-admin__checkbox{ display:flex; align-items:center; gap:8px; margin:16px 0; color:#d6c9a4; font:12px var(--font-mono); }
+.news-admin__checkbox input{ accent-color:#55aa4c; }
+.news-admin__submit{ border:1px solid #f5d329; padding:11px 15px; color:#192116; background:#f5d329; font:700 13px var(--font-mono); cursor:pointer; }
+.news-admin__submit:hover,
+.news-admin__submit:focus-visible{ background:#fff0a1; }
+.news-admin__notice{ display:inline-block; margin:0 0 0 14px; color:#b8d887; font:12px var(--font-mono); }
+.news-admin__list-heading{ align-items:center; margin-bottom:14px; }
+.news-admin__list-heading span{ color:#a99d7f; font:11px var(--font-mono); }
+.news-admin__list ol{ display:grid; gap:8px; margin:0; padding:0; list-style:none; }
+.news-admin__item{ display:grid; grid-template-columns:58px minmax(0,1fr) auto; align-items:center; gap:12px; padding:10px; border:1px solid rgba(200,169,107,.48); background:rgba(30,49,35,.78); }
+.news-admin__item.is-disabled{ opacity:.55; }
+.news-admin__item-order{ display:flex; align-items:center; justify-content:center; gap:4px; }
+.news-admin__item-order strong{ min-width:24px; color:#f5d329; text-align:center; font:700 12px var(--font-mono); }
+.news-admin__item-order button{ width:22px; height:22px; padding:0; }
+.news-admin__item-order button:disabled{ opacity:.3; cursor:not-allowed; }
+.news-admin__item-copy{ min-width:0; display:flex; flex-direction:column; gap:5px; }
+.news-admin__item-copy strong{ overflow:hidden; color:#f4e8c8; font:700 14px var(--font-mono); text-overflow:ellipsis; white-space:nowrap; }
+.news-admin__item-copy span{ color:#b8d887; font:11px var(--font-mono); }
+.news-admin__item-actions{ display:flex; gap:7px; }
+.news-admin__item-actions button{ padding:7px 9px; }
+.news-admin__empty{ color:#a99d7f; font:13px var(--font-mono); }
+@media (max-width:700px){
+  .news-admin-page{ padding:14px 8px 36px; }
+  .news-admin{ padding:16px 12px; }
+  .news-admin__header,
+  .news-admin__form-heading,
+  .news-admin__list-heading{ flex-direction:column; }
+  .news-admin__fields{ grid-template-columns:1fr; }
+  .news-admin__wide{ grid-column:auto; }
+  .news-admin__item{ grid-template-columns:48px minmax(0,1fr); }
+  .news-admin__item-actions{ grid-column:2; }
 }
 .game-shell--chacalon .kiosk-rack__papers .newspaper-cover:hover,
 .game-shell--chacalon .kiosk-rack__papers .newspaper-cover:focus-visible{

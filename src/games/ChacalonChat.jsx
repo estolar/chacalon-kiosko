@@ -3,6 +3,7 @@ import GameShell from "../components/GameShell";
 import ConversationMessages from "./components/ConversationMessages";
 import ConversationComposer from "./components/ConversationComposer";
 import KioskFrame from "./components/KioskFrame";
+import { loadManualNews, mergeManualNewsIntoContext } from "../news/manualNews";
 
 const API_URL = process.env.REACT_APP_AI_API_URL || "";
 const PUBLIC_URL = process.env.PUBLIC_URL || "";
@@ -621,6 +622,7 @@ export default function ChacalonChat({ onExit }) {
   const [duration, setDuration] = useState(0);
   const [volume, setVolume] = useState(0.35);
   const volumeRef = useRef(0.35);
+  const [manualNews] = useState(loadManualNews);
   const [dailyContext, setDailyContext] = useState(null);
   const [isWinking, setIsWinking] = useState(false);
   const [isSaluting, setIsSaluting] = useState(false);
@@ -633,6 +635,7 @@ export default function ChacalonChat({ onExit }) {
   const [mentionIndex, setMentionIndex] = useState(0);
   const [selectedNews, setSelectedNews] = useState(null);
   const [dayPhase, setDayPhase] = useState(() => getDayPhase());
+  const kioskContext = mergeManualNewsIntoContext(dailyContext || { topics: {} }, manualNews);
 
   useEffect(() => {
     const timer = window.setInterval(() => setDayPhase(getDayPhase()), 60_000);
@@ -650,7 +653,7 @@ export default function ChacalonChat({ onExit }) {
     slashMenuOpen && slashCommands.length > 0 && status !== "CONNECTING";
   const mentionMatch = playerName && input.match(/(?:^|\s)@([^\s]*)$/);
   const mentionQuery = mentionMatch ? mentionMatch[1] : "";
-  const mentionOptions = getMentionOptions(dailyContext, mentionQuery);
+  const mentionOptions = getMentionOptions(kioskContext, mentionQuery);
   const showMentionMenu =
     mentionMenuOpen && mentionOptions.length > 0 && status !== "CONNECTING";
 
@@ -686,7 +689,9 @@ export default function ChacalonChat({ onExit }) {
       fetch(`${CONTEXT_URL}?v=${cacheBuster}`, { cache: "no-store" })
         .then((response) => (response.ok ? response.json() : null))
         .then((context) => {
-          if (active && context && typeof context === "object") setDailyContext(context);
+          if (active && context && typeof context === "object") {
+            setDailyContext(mergeManualNewsIntoContext(context, loadManualNews()));
+          }
         })
         .catch(() => {
           // El chat sigue funcionando aunque el contexto diario no esté disponible.
@@ -1124,7 +1129,7 @@ export default function ChacalonChat({ onExit }) {
             playerName,
             memory: nextAnswers,
             dailyContext: shouldUseDailyContext(message)
-              ? compactDailyContext(dailyContext, Math.floor(messages.length / 2))
+              ? compactDailyContext(kioskContext, Math.floor(messages.length / 2))
               : null,
           }),
         }
@@ -1308,7 +1313,7 @@ export default function ChacalonChat({ onExit }) {
         </>
       }
     >
-      <KioskFrame context={dailyContext} onOpenNews={setSelectedNews}>
+      <KioskFrame context={kioskContext} onOpenNews={setSelectedNews}>
         <div className="chacalon-player kiosk-layer kiosk-layer--player">
         {musicBlocked && (
           <div className="chacalon-music__activation">

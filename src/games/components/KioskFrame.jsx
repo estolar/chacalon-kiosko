@@ -4,23 +4,38 @@ import kioskPanorama from "../../assets/chacalon-kiosk-panorama.png";
 import counterExtension from "../../assets/chacalon-counter-extension.png";
 
 const RACK_CATEGORIES = ["politica", "economia", "sociedad", "cultura"];
+const ADMIN_NEWS_BASE = process.env.NODE_ENV === "production"
+  ? (process.env.PUBLIC_URL || "/chacalon")
+  : "";
+const ADMIN_NEWS_URL = `${ADMIN_NEWS_BASE.replace(/\/$/, "")}/admin/noticias`;
 
-function getRackItems(context, categories) {
+function getNewsKey(item) {
+  return item.url || `${item.source || ""}::${item.title || ""}`;
+}
+
+function getRackItems(context, categories, usedKeys = new Set()) {
   const items = categories.flatMap((category) =>
     (Array.isArray(context?.topics?.[category]) ? context.topics[category] : [])
       .map((item) => ({ ...item, category }))
   );
   const visibleItems = items.filter((item) => {
+    if (usedKeys.has(getNewsKey(item))) return false;
+    if (item.isManual) return true;
     const source = String(item.source || "").toLocaleLowerCase("es-PE");
     return !source.includes("agencia andina") && !source.includes("infobae");
   });
   const preferred = (item) => {
+    if (item.isManual) return 0;
     const source = String(item.source || "").toLocaleLowerCase("es-PE");
     const hasImage = item.image || item.imageUrl || item.thumbnail;
     const preferredSource = source.includes("la república") || source.includes("hildebrandt");
-    return `${hasImage ? "0" : "1"}${preferredSource ? "0" : "1"}`;
+    return (hasImage ? 0 : 2) + (preferredSource ? 0 : 1);
   };
-  return visibleItems.sort((first, second) => preferred(first) - preferred(second)).slice(0, 3);
+  const selected = visibleItems
+    .sort((first, second) => preferred(first) - preferred(second))
+    .slice(0, 3);
+  selected.forEach((item) => usedKeys.add(getNewsKey(item)));
+  return selected;
 }
 
 function KioskRack({ title, items, onOpenNews }) {
@@ -52,8 +67,10 @@ function KioskProducts() {
 }
 
 export default function KioskFrame({ context, children, onOpenNews }) {
-  const leftItems = getRackItems(context, RACK_CATEGORIES.slice(0, 2));
-  const rightItems = getRackItems(context, RACK_CATEGORIES.slice(2));
+  const usedNewsKeys = new Set();
+  const leftItems = getRackItems(context, RACK_CATEGORIES.slice(0, 2), usedNewsKeys);
+  const centerItems = getRackItems(context, ["cultura", "economia"], usedNewsKeys);
+  const rightItems = getRackItems(context, RACK_CATEGORIES.slice(2), usedNewsKeys);
 
   return (
     <section className="kiosk-frame" aria-label="Kiosko de Chacalón">
@@ -77,13 +94,14 @@ export default function KioskFrame({ context, children, onOpenNews }) {
           <span className="kiosk-sign__lights" aria-hidden="true">✦ ✦ ✦</span>
           <h1>KIOSKO DE CHACALÓN</h1>
           <p>DIARIOS · REVISTAS · NOTICIAS · BUENA CONVERSA</p>
+          <a className="kiosk-sign__admin-link" href={ADMIN_NEWS_URL}>Administrar noticias</a>
         </div>
       </header>
 
       <KioskRack title="EL DIARIO" items={leftItems} onOpenNews={onOpenNews} />
       <KioskRack
         title="ANAQUEL CENTRAL"
-        items={getRackItems(context, ["cultura", "economia"])}
+        items={centerItems}
         onOpenNews={onOpenNews}
       />
       <div className="kiosk-center kiosk-center--right">
