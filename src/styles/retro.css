@@ -2346,6 +2346,29 @@ background-color: #000;
 .news-admin h1{ font-size:30px; }
 .news-admin h2{ font-size:18px; }
 .news-admin__header p:not(.news-admin__eyebrow){ max-width:680px; margin:10px 0 0; color:#d6c9a4; }
+.news-admin__importer{
+  display:grid;
+  gap:12px;
+  margin-top:28px;
+  padding:20px;
+  border:2px solid #f5d329;
+  background:rgba(58,48,18,.38);
+}
+.news-admin__importer h2{ margin:0; }
+.news-admin__importer p:not(.news-admin__eyebrow){ margin:7px 0 0; color:#d6c9a4; font:13px var(--font-mono); }
+.news-admin__importer textarea{
+  width:100%;
+  box-sizing:border-box;
+  border:1px solid #b8d887;
+  padding:11px;
+  color:#f4e8c8;
+  background:#08100c;
+  font:14px var(--font-mono);
+  resize:vertical;
+}
+.news-admin__importer textarea:focus{ outline:2px solid #f5d329; outline-offset:1px; }
+.news-admin__submit:disabled{ opacity:.55; cursor:wait; }
+.news-admin__import-errors{ margin:0; padding-left:20px; color:#ffb6a7; font:11px var(--font-mono); }
 .news-admin__back,
 .news-admin__text-button,
 .news-admin__item-actions button,
@@ -2493,7 +2516,7 @@ background-color: #000;
 }
 .game-shell--chacalon .chacalon-identity__portrait-frame::before{ display:none; }
 .game-shell--chacalon .chacalon-identity__portrait{
-  --chacalon-offset-y:-100px;
+  --chacalon-offset-y:-150px;
   position:relative;
   z-index:1;
   image-rendering:auto;
@@ -2502,7 +2525,8 @@ background-color: #000;
   transform:translateY(var(--chacalon-offset-y)) scale(.85);
   transform-origin:center bottom;
   animation:none;
-  filter:saturate(calc(1 + var(--audio-energy) * .08)) brightness(calc(1 + var(--audio-energy) * .04));
+  /* El salud se muestra sin el realce de audio; igualamos base y guiño. */
+  filter:none;
 }
 .game-shell--chacalon .chacalon-identity__body-motion{
   display:block;
@@ -2511,16 +2535,17 @@ background-color: #000;
   transform:translateY(var(--chacalon-offset-y)) scale(.85);
   transform-origin:center bottom;
   animation:chacalon-shirt-breathe 5.2s ease-in-out infinite;
-  filter:saturate(calc(1 + var(--audio-energy) * .08)) brightness(calc(1 + var(--audio-energy) * .04));
+  filter:none;
 }
 .game-shell--chacalon .chacalon-identity .chacalon-identity__salute{
-  --chacalon-salute-offset-y:-105px;
+  --chacalon-salute-offset-y:-155px;
   display:block;
   object-fit:contain;
   object-position:center bottom;
   transform:translateY(var(--chacalon-salute-offset-y)) scale(.85);
   transform-origin:center bottom;
   opacity:0;
+  filter:none;
 }
 .game-shell--chacalon .chacalon-identity.is-saluting .chacalon-identity__portrait,
 .game-shell--chacalon .chacalon-identity.is-saluting .chacalon-identity__body-motion{
@@ -2532,8 +2557,8 @@ background-color: #000;
   animation:none;
 }
 @keyframes chacalon-shirt-breathe{
-  0%,100%{ transform:translateY(-100px) scale(.85); }
-  50%{ transform:translateY(-99px) scale(.85) scaleY(1.008); }
+  0%,100%{ transform:translateY(-150px) scale(.85); }
+  50%{ transform:translateY(-148px) scale(.85) scaleY(1.008); }
 }
 .game-shell--chacalon .chacalon-identity__copy{
   position:relative;
