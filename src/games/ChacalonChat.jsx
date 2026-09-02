@@ -450,6 +450,19 @@ const FALLBACK_REPLIES = [
   "Aunque se corte la señal, las ganas siguen. ¿Qué juego quieres dominar?",
 ];
 
+const SALUTE_REPLIES = [
+  "¡Salud, mi hermano!",
+  "¡Dos más pes, causita!",
+  "Ahhh, qué rica chela.",
+  "¡Arriba, abajo, al centro y pa' dentro!",
+  "¡Salud por la buena conversa, causa!",
+];
+
+const WINK_REPLIES = [
+  "Je, je... ahí va el guiño, causa.",
+  "Ese guiño es solo para la causa.",
+];
+
 function getFallbackReply(message) {
   const normalizedMessage = message.toLowerCase();
 
@@ -613,6 +626,7 @@ export default function ChacalonChat({ onExit }) {
   const [isSaluting, setIsSaluting] = useState(false);
   const saluteTimerRef = useRef(null);
   const winkCommandTimerRef = useRef(null);
+  const gestureReplyIndexRef = useRef({ salute: 0, wink: 0 });
   const [slashMenuOpen, setSlashMenuOpen] = useState(false);
   const [slashCommandIndex, setSlashCommandIndex] = useState(0);
   const [mentionMenuOpen, setMentionMenuOpen] = useState(false);
@@ -715,6 +729,13 @@ export default function ChacalonChat({ onExit }) {
       setIsWinking(false);
       winkCommandTimerRef.current = null;
     }, 180);
+  }
+
+  function getNextGestureReply(gesture) {
+    const replies = gesture === "salute" ? SALUTE_REPLIES : WINK_REPLIES;
+    const index = gestureReplyIndexRef.current[gesture] % replies.length;
+    gestureReplyIndexRef.current[gesture] += 1;
+    return replies[index];
   }
 
   useEffect(() => {
@@ -1059,8 +1080,25 @@ export default function ChacalonChat({ onExit }) {
     setSlashMenuOpen(false);
     setMentionMenuOpen(false);
     setStatus("CONNECTING");
-    if (shouldTriggerSalute(message)) triggerSalute();
-    if (shouldTriggerWink(message)) triggerWink();
+    const hasSaluteGesture = shouldTriggerSalute(message);
+    const hasWinkGesture = shouldTriggerWink(message);
+    if (hasSaluteGesture) triggerSalute();
+    if (hasWinkGesture) triggerWink();
+
+    if (hasSaluteGesture || hasWinkGesture) {
+      const gesture = hasSaluteGesture ? "salute" : "wink";
+      setMessages((current) => [
+        ...current,
+        {
+          id: `gesture-${Date.now()}`,
+          role: "assistant",
+          text: getNextGestureReply(gesture),
+        },
+      ]);
+      setStatus("READY");
+      return;
+    }
+
     const nextAnswers = rememberAnswer(message);
     const assistantId = `model-${Date.now()}`;
     setMessages((current) => [

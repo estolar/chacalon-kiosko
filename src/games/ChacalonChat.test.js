@@ -122,6 +122,37 @@ describe("ChacalonChat", () => {
     );
   });
 
+  test("answers a salute locally without calling the AI server and varies the reply", () => {
+    global.fetch = jest.fn();
+
+    render(<ChacalonChat onExit={jest.fn()} />);
+    enterPlayerName();
+    const textarea = screen.getByLabelText(/Habla con Chacalón/i);
+    const form = screen.getByRole("button", { name: "ENVIAR" }).closest("form");
+
+    fireEvent.change(textarea, { target: { value: "salud" } });
+    fireEvent.submit(form);
+    expect(screen.getByText("¡Salud, mi hermano!")).toBeInTheDocument();
+
+    fireEvent.change(textarea, { target: { value: "chela" } });
+    fireEvent.submit(form);
+    expect(screen.getByText("¡Dos más pes, causita!")).toBeInTheDocument();
+    expect(global.fetch).not.toHaveBeenCalled();
+  });
+
+  test("handles a wink locally without calling the AI server", () => {
+    global.fetch = jest.fn();
+
+    render(<ChacalonChat onExit={jest.fn()} />);
+    enterPlayerName();
+    const textarea = screen.getByLabelText(/Habla con Chacalón/i);
+    fireEvent.change(textarea, { target: { value: "hazme un guiño" } });
+    fireEvent.submit(screen.getByRole("button", { name: "ENVIAR" }).closest("form"));
+
+    expect(screen.getByText(/ahí va el guiño/i)).toBeInTheDocument();
+    expect(global.fetch).not.toHaveBeenCalled();
+  });
+
   test("renders a JSON API reply even when the browser exposes a response body stream", async () => {
     const getReader = jest.fn(() => {
       throw new Error("JSON responses must not be parsed as SSE");
