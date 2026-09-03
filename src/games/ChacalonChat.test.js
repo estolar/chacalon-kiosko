@@ -6,6 +6,7 @@ import ChacalonChat, {
   getConversationSuggestions,
   getFallbackReply,
   getMentionOptions,
+  createNewsReadComment,
   shouldUseDailyContext,
   toApiHistory,
 } from "./ChacalonChat";
@@ -151,6 +152,27 @@ describe("ChacalonChat", () => {
 
     expect(screen.getByText(/ahí va el guiño/i)).toBeInTheDocument();
     expect(global.fetch).not.toHaveBeenCalled();
+  });
+
+  test("comments on a news article after the modal is closed", () => {
+    render(<ChacalonChat onExit={jest.fn()} />);
+
+    const newsCover = document.querySelector(".newspaper-cover");
+    expect(newsCover).toBeInTheDocument();
+    fireEvent.click(newsCover);
+    expect(screen.getByRole("dialog", { name: /Detalle de noticia/i })).toBeInTheDocument();
+
+    const originalLink = screen.getByRole("link", { name: /IR A LA NOTICIA ORIGINAL/i });
+    expect(originalLink).toHaveAttribute("target", "_blank");
+    expect(originalLink).toHaveAttribute("href");
+    fireEvent.click(screen.getByRole("button", { name: /Cerrar noticia/i }));
+
+    expect(screen.getByText(/¿Qué te pareció|Sobre “|va a dar que hablar/i)).toBeInTheDocument();
+
+    fireEvent.click(newsCover);
+    fireEvent.click(screen.getByRole("button", { name: /Cerrar noticia/i }));
+
+    expect(screen.getAllByText(/¿Qué te pareció|Sobre “|va a dar que hablar/i)).toHaveLength(1);
   });
 
   test("renders a JSON API reply even when the browser exposes a response body stream", async () => {
@@ -344,6 +366,17 @@ describe("ChacalonChat", () => {
       expect(document.activeElement).toBe(textarea);
     });
   });
+});
+
+test("creates a bounded contextual comment without calling the AI", () => {
+  const comment = createNewsReadComment({
+    title: "Una noticia importante",
+    source: "La República",
+    summary: "El resumen de la noticia.",
+  }, 1);
+
+  expect(comment).toContain("Una noticia importante");
+  expect(comment).toContain("El resumen de la noticia.");
 });
 
 test("maps chat roles to Gemini roles", () => {

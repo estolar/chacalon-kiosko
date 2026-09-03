@@ -465,6 +465,29 @@ const WINK_REPLIES = [
   "Ese guiño es solo para la causa.",
 ];
 
+const NEWS_READ_COMMENT_TEMPLATES = [
+  ({ title, source }) =>
+    `¿Qué te pareció “${title}”? ${source ? `Es una nota movida de ${source}.` : "Está movida."}`,
+  ({ title, summary }) =>
+    summary
+      ? `Sobre “${title}”: ${summary} Da para conversarla con calma, hermano.`
+      : `Ya le diste una mirada a “${title}”. Está buena para comentarla, hermano.`,
+  ({ title }) =>
+    `Esa noticia de “${title}” va a dar que hablar. ¿Qué fue lo que más te llamó la atención?`,
+];
+
+function createNewsReadComment(item, index = 0) {
+  const title = String(item?.title || "esa noticia").trim().slice(0, 180);
+  const source = String(item?.source || "").trim().slice(0, 80);
+  const summary = String(item?.summary || "").trim().replace(/\s+/g, " ").slice(0, 260);
+  const template = NEWS_READ_COMMENT_TEMPLATES[Math.abs(index) % NEWS_READ_COMMENT_TEMPLATES.length];
+  return template({ title, source, summary });
+}
+
+function getNewsReadKey(item) {
+  return String(item?.id || item?.url || `${item?.source || ""}::${item?.title || ""}`);
+}
+
 function getFallbackReply(message) {
   const normalizedMessage = message.toLowerCase();
 
@@ -636,6 +659,8 @@ export default function ChacalonChat({ onExit }) {
   const [mentionIndex, setMentionIndex] = useState(0);
   const [selectedNews, setSelectedNews] = useState(null);
   const [dayPhase, setDayPhase] = useState(() => getDayPhase());
+  const newsCommentIndexRef = useRef(0);
+  const commentedNewsRef = useRef(new Set());
   const kioskContext = mergeManualNewsIntoContext(dailyContext || { topics: {} }, manualNews);
 
   useEffect(() => {
@@ -1021,6 +1046,28 @@ export default function ChacalonChat({ onExit }) {
     setSlashMenuOpen(false);
     setMentionMenuOpen(false);
     setStatus("READY");
+  }
+
+  function closeNews() {
+    const news = selectedNews;
+    setSelectedNews(null);
+
+    if (!news) return;
+    const newsKey = getNewsReadKey(news);
+    if (commentedNewsRef.current.has(newsKey)) return;
+    commentedNewsRef.current.add(newsKey);
+
+    const comment = createNewsReadComment(news, newsCommentIndexRef.current);
+    newsCommentIndexRef.current += 1;
+    setMessages((current) => [
+      ...current,
+      {
+        id: `news-comment-${Date.now()}`,
+        role: "assistant",
+        text: comment,
+        newsComment: true,
+      },
+    ]);
   }
 
   function rememberAnswer(answer) {
@@ -1477,19 +1524,31 @@ export default function ChacalonChat({ onExit }) {
         </div>
       </KioskFrame>
       {selectedNews && (
-        <div className="news-modal" role="dialog" aria-modal="true" aria-label="Detalle de noticia">
-          <button className="news-modal__close" type="button" onClick={() => setSelectedNews(null)} aria-label="Cerrar noticia">×</button>
-          <div className="news-modal__masthead">{selectedNews.source || "EL KIOSKO"}</div>
-          <div className="news-modal__rule" />
-          <div className="news-modal__category">NOTICIAS</div>
-          {selectedNews.image && <img className="news-modal__image" src={selectedNews.image} alt="" />}
-          <h2>{selectedNews.title}</h2>
-          <p>{selectedNews.summary || "Consulta la noticia completa en el medio original."}</p>
-          {selectedNews.url && (
-            <a className="btn news-modal__link" href={selectedNews.url} target="_blank" rel="noreferrer">
-              IR A LA NOTICIA ORIGINAL ↗
-            </a>
-          )}
+        <div className="news-modal-backdrop">
+          <div className="news-modal" role="dialog" aria-modal="true" aria-label="Detalle de noticia">
+            <button className="news-modal__close" type="button" onClick={closeNews} aria-label="Cerrar noticia">×</button>
+            <div className="news-modal__masthead">{selectedNews.source || "EL KIOSKO"}</div>
+            <div className="news-modal__rule" />
+            <div className="news-modal__category">{selectedNews.category || "NOTICIAS"}</div>
+            <div className="news-modal__body">
+              <div className="news-modal__visual">
+                {selectedNews.image ? (
+                  <img className="news-modal__image" src={selectedNews.image} alt="" />
+                ) : (
+                  <div className="news-modal__image-placeholder">IMAGEN NO DISPONIBLE</div>
+                )}
+              </div>
+              <div className="news-modal__copy">
+                <h2>{selectedNews.title}</h2>
+                <p>{selectedNews.summary || "No hay un resumen adicional disponible para esta noticia."}</p>
+                {selectedNews.url && (
+                  <a className="btn news-modal__link" href={selectedNews.url} target="_blank" rel="noreferrer">
+                    IR A LA NOTICIA ORIGINAL ↗
+                  </a>
+                )}
+              </div>
+            </div>
+          </div>
         </div>
       )}
     </GameShell>
@@ -1503,6 +1562,7 @@ export {
   getConversationSuggestions,
   getFallbackReply,
   getMentionOptions,
+  createNewsReadComment,
   shouldUseDailyContext,
   toApiHistory,
 };

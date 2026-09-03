@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useRef } from "react";
 import NewspaperCover from "./NewspaperCover";
 import kioskPanorama from "../../assets/chacalon-kiosk-panorama.png";
 import counterExtension from "../../assets/chacalon-counter-extension.png";
@@ -33,15 +33,34 @@ function getRackItems(context, categories, usedKeys = new Set()) {
   };
   const selected = visibleItems
     .sort((first, second) => preferred(first) - preferred(second))
-    .slice(0, 3);
+    .slice(0, 10);
   selected.forEach((item) => usedKeys.add(getNewsKey(item)));
   return selected;
 }
 
 function KioskRack({ title, items, onOpenNews }) {
+  const papersRef = useRef(null);
+  const rackId = `kiosk-rack-${title.toLocaleLowerCase("es-PE").replace(/[^a-z0-9]+/gi, "-")}`;
+
+  function scrollRack(direction) {
+    papersRef.current?.scrollBy({
+      top: direction * Math.max(260, papersRef.current.clientHeight * 0.72),
+      behavior: "smooth",
+    });
+  }
+
   return (
     <aside className="kiosk-rack" aria-label={title}>
-      <div className="kiosk-rack__papers">
+      <button
+        className="kiosk-rack__scroll-button kiosk-rack__scroll-button--up"
+        type="button"
+        aria-label={`Ver noticias anteriores en ${title}`}
+        aria-controls={rackId}
+        onClick={() => scrollRack(-1)}
+      >
+        ▲
+      </button>
+      <div className="kiosk-rack__papers" id={rackId} ref={papersRef}>
         {items.map((item, index) => (
           <NewspaperCover
             item={item}
@@ -51,6 +70,15 @@ function KioskRack({ title, items, onOpenNews }) {
           />
         ))}
       </div>
+      <button
+        className="kiosk-rack__scroll-button kiosk-rack__scroll-button--down"
+        type="button"
+        aria-label={`Ver más noticias en ${title}`}
+        aria-controls={rackId}
+        onClick={() => scrollRack(1)}
+      >
+        ▼
+      </button>
     </aside>
   );
 }
