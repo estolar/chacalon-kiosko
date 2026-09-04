@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T14:19:41.042Z",
+  "generatedAt": "2026-09-04T18:22:11.992Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,52 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
+        "title": "Miguel Torres sobre pedido de facultades: “Comisión de Constitución ha solicitado a más de ocho comisiones sus opiniones”",
+        "summary": "El presidente del Senado, Miguel Torres (Fuerza Popular) dijo que la Comisión de Constitución ha pedido a más de ocho comisiones sus opiniones sobre el pedido de facultades legislativas que hizo el Gobierno de Keiko Fujimori. Por esto, reiteró su pedido para que este proceso concluya lo antes posible.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/miguel-torres-sobre-pedido-de-facultades-comision-de-constitucion-ha-solicitado-a-mas-de-ocho-comisiones-sus-opiniones-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/YBWSZOCATZF2XP4VU354OO2ITM.jpg?auth=676af41e57e688457ecc9e6e6e8f11297dbc5ef2e38c93d337c0e581ce8eb92b&smart=true&width=2048&height=1347",
+        "publishedAt": "2026-09-04T18:17:54.000Z"
+      },
+      {
+        "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
+        "summary": "Fuerza Popular | Desde que empezó a participar en elecciones subnacionales, el fujimorismo redujo su oferta electoral en más de la mitad.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/ecdata/en-16-anos-fuerza-popular-solo-ha-ganado-3-gobiernos-regionales-y-no-ha-colocado-un-solo-alcalde-en-lima-metropolitana-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/3ZQHU5EOGNH33LU7J6EN3J4QSE.jpeg?auth=05b2ba86279d4f5e8c5af8ea35780dce6caca06e15b2546119eb9e3be8b10463&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-09-04T18:00:00.000Z"
+      },
+      {
+        "title": "Pedro Hernández al asumir presidencia del TC: “La Constitución no pertenece a un gobierno, ni a una mayoría (...) es de todos los peruanos”",
+        "summary": "Pedro Alfredo Hernández Chávez juró como presidente del Tribunal Constitucional para el periodo 2026-2028 y destacó su compromiso con la Constitución, la democracia y los derechos fundamentales.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/pedro-hernandez-al-asumir-presidencia-del-tc-la-constitucion-no-pertenece-a-un-gobierno-ni-a-una-mayoria-es-de-todos-los-peruanos-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/KMZMSTIYANBHVJZBAWAYR6GLCY.jpg?auth=d0daa4e4787993c21eeabf1c1422da9d9b7b2807e072b918688928aba2617728&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-04T17:48:47.000Z"
+      },
+      {
+        "title": "Pier Figari y José Chlimper: ¿Cuál es la situación de las anunciadas demandas contra los que integraron el equipo fiscal Lava Jato y dos jueces?",
+        "summary": "El Caso Cócteles vuelve a los tribunales: Pier Figari y José Chlimper, vinculados a Keiko Fujimori y Fuerza Popular, buscan una indemnización de S/3,2 millones contra fiscales y jueces que participaron en la investigación por lavado de activos. Conoce los montos reclamados, a quiénes apuntan las acciones legales y qué ",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/keiko-fujimori-y-caso-cocteles-pier-figari-y-jose-chlimper-reclaman-s32-millones-cual-es-la-situacion-de-la-millonaria-anunciada-demanda-contra-los-que-integraron-el-equipo-fiscal-lava-jato-y-dos-jueces-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/OISGD7TXFFCOFMZWOKBBPZYBZU.jpg?auth=000dbb42e4556ce786893aee51141418d4ea90b05895e90671d463df5d0490c0&smart=true&width=1200&height=647",
+        "publishedAt": "2026-09-04T17:30:00.000Z"
+      },
+      {
+        "title": "Bernie Navarro, embajador de EE.UU. en Perú, sobre visita de Marco Rubio: “Esperen excelentes noticias para nuestra cooperación”",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/actualidad/bernie-navarro-embajador-de-estados-unidos-sobre-visita-de-marco-rubio-esperen-excelentes-noticias-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/65D6Y7X6ABBVBDXE36OE5FTXWA.jpg?auth=641f75fbcefcc924ebd725bce09ade2217e1d9c763084c2e62e52fd7b32d5f16&smart=true&width=1200&height=862",
+        "publishedAt": "2026-09-04T17:08:34.000Z"
+      },
+      {
         "title": "APP, Podemos y otros partidos gastaron más de S/24 millones en última campaña, pero no lograron mantener su inscripción",
         "summary": "No siempre el dinero garantiza un buen resultado electoral. Seis partidos y una alianza electoral con representación en el Congreso anterior- criticado por tener a más de una decena de parlamentarios acusados de “mochasueltos”, a Los Niños y aprobar las denominadas “leyes procrimen” (que hoy están en revisión)- gastaro",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/congreso/app-podemos-y-otros-partidos-gastaron-mas-de-s24-millones-en-ultima-campana-pero-no-lograron-mantener-su-inscripcion-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/ZGLRWVFD5JGHTFLJZVFOW6KL7A.png?auth=565b4536717e020acfa3a3393b9689dbbf2087161144ec53e918202d99de8fc2&smart=true&width=1160&height=660",
-        "publishedAt": "2026-09-04T13:48:03.000Z"
+        "publishedAt": "2026-09-04T17:05:43.000Z"
       },
       {
         "title": "Marco Vinelli: ¿Cuáles son las razones de la Fiscalía para acusar y pedir una condena para el actual ministro de Agricultura?",
@@ -37,57 +77,17 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/marco-vinelli-cuales-son-las-razones-de-la-fiscalia-para-acusar-y-pedir-una-condena-para-el-actual-ministro-de-agricultura-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/HHJ5JW2HEZACNEONR5BWQPH2BA.png?auth=9a4fc2d70fb7a9f4ed65a4b301da349e4a4673427d20ea7f4b2e99fb7df9a687&smart=true&width=1200&height=647",
-        "publishedAt": "2026-09-04T13:47:47.000Z"
-      },
-      {
-        "title": "Pedido de facultades: mayoría de bancadas se inclina por priorizar solo seguridad ciudadana y Fenómeno del Niño",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/pedido-de-facultades-mayoria-de-bancadas-se-inclina-por-priorizar-solo-seguridad-ciudadana-y-fenomeno-del-nino-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/65F2WCD2NVH6ZK3QCJT5AZILK4.jpg?auth=b66f0c63189f2fd6ab8bb1da188f171897c33e22a51ea2e3bdcc26e2ba6838fd&smart=true&width=1363&height=768",
-        "publishedAt": "2026-09-04T13:47:30.000Z"
-      },
-      {
-        "title": "Marco Rubio viajará al Perú y otros países de la región entre el 8 y 10 de setiembre",
-        "summary": "El secretario de Estado de Estados Unidos, Marco Rubio, visitará oficialmente el Perú entre el 8 al 10 de setiembre. Este viaje diplomático busca afianzar los lazos de cooperación mutua y defensa con el gobierno de Keiko Fujimori y con autoridades de Colombia y Ecuador.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/actualidad/marco-rubio-viajara-al-peru-y-otros-paises-de-la-region-entre-el-8-y-10-de-setiembre-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/VH5RFWBIVBGHZKLX2I27V5WCJ4.jpg?auth=f5237977da3852f688c12b66670dce05f9238a22540e978a9e4efd75011c673c&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-04T13:43:07.000Z"
-      },
-      {
-        "title": "Excongresista Esdras Medina es nombrado como asesor de la presidencia en el Sineace",
-        "summary": "El Consejo Superior del Sistema Nacional de Evaluación, Acreditación y Certificación de la Calidad Educativa (Sineace) designó al excongresista Esdras Medina en el puesto de confianza de asesor de la presidencia de dicha institución. Esta decisión entra en vigencia desde el 7 de setiembre.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/actualidad/excongresista-esdras-medina-es-nombrado-como-asesor-de-la-presidencia-en-el-sineace-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/7ZD52OPMCZD4BBNXYYCH5RL3XQ.jpg?auth=5942a3b3aa209236e2cb9bd8b3957f566dccecdfb737926c9c075fbd140b09be&smart=true&width=1200&height=802",
-        "publishedAt": "2026-09-04T13:02:11.000Z"
-      },
-      {
-        "title": "Congreso: Presentan denuncia constitucional contra defensor del Pueblo y piden su destitución e inhabilitación",
-        "summary": "La diputada Analí Márquez Huanca presentó una denuncia constitucional contra el Defensor del Pueblo, Josué Manuel Gutiérrez Cóndor, por sus declaraciones sobre un eventual cierre del Congreso por parte de la presidenta Keiko Fujimori.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/diputada-presenta-denuncia-constitucional-contra-defensor-del-pueblo-y-pide-su-destitucion-e-inhabilitacion-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/OTGQRYKC2FAB3OZQD2WOXZWMEA.jpg?auth=46f0b9471206b6ad9563652cfec5d9df2da6d41134ffbd930e9944f65a8d827b&smart=true&width=1200&height=767",
-        "publishedAt": "2026-09-04T12:20:09.000Z"
-      },
-      {
-        "title": "Mucho más que un secuestro",
-        "summary": "El secuestro de Jenss Marty Lara Tantaquilla la madrugada del domingo en Trujillo, junto con el asesinato de todos sus acompañantes, no ha hecho más que ratificar lo que viene pasando en la región La Libertad desde hace ya un buen tiempo: que los grupos criminales actúan libremente y que el negocio de la minería inform",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/opinion/columnistas/mucho-mas-que-un-secuestro-por-diana-seminario-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/NENS6IXB7FHIPCBX5UNYT6HGZA.png?auth=5cd0c1025fdc15f8056254ec2d0579eb60f80fecd5750ed91a4f50c297406a90&smart=true&width=1200&height=649",
-        "publishedAt": "2026-09-04T11:00:01.000Z"
+        "publishedAt": "2026-09-04T17:05:27.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Latam suma ruta para pasajeros corporativos Arequipa-Lima: los horarios y las expectativas",
-        "summary": "Vuelos corporativo de Latam Airlines. La nueva operación comenzó el 2 de septiembre y contempla el pernocte de una aeronave en Arequipa, lo que permite a la aerolínea iniciar el primer vuelo del día desde la ciudad.",
+        "title": "Tipo de cambio sube hoy en Perú: ¿Cuánto está el dólar este viernes 4 de septiembre?",
+        "summary": "El viernes 4 de septiembre, el dólar en Perú comenzó el día con un ligero incremento, en medio de tensiones entre Estados Unidos e Irán, el incremento en la demanda por activos considerados refugio y la subida del precio del petróleo.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/latam-airlines-apuesta-por-viajeros-corporativos-en-peru-con-nuevo-vuelo-arequipa-lima-noticia/",
-        "image": "https://gestion.pe/resizer/v2/BQOH2BFJIFDATDQKWVJSW3NCSQ.png?auth=382f64a9e14d6de3b4f44aa19bdb24ea9de6b6fa6a8cbd862c10603f2cd31a32&smart=true&width=1642&height=958",
-        "publishedAt": "2026-09-04T14:06:58.000Z"
+        "url": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-viernes-4-de-septiembre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
+        "image": "https://gestion.pe/resizer/v2/Y6HI3BMOKFCOFDSZKDWTFTWF3I.jpg?auth=70902207d81e8c4dfe729915eaef39ac7aebd9246d77c270096e8fd0dd3b1614&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-04T17:07:15.000Z"
       },
       {
         "title": "Sunat puede pedir pruebas sobre el destino de compras de las empresas, ¿cuál es el límite?",
@@ -95,7 +95,23 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/sunat-puede-pedir-pruebas-sobre-el-destino-de-las-compras-de-las-empresas-cual-es-el-limite-de-la-administracion-tributaria-noticia/",
         "image": "https://gestion.pe/resizer/v2/EYRMQVMTDRDRVPV24BUI55NBZE.png?auth=c41dac2b1c7622f75b1eb915cae420eb29b2777d57b64cc4f4de486dc9d0c643&smart=true&width=1400&height=800",
-        "publishedAt": "2026-09-04T13:44:01.000Z"
+        "publishedAt": "2026-09-04T16:46:30.000Z"
+      },
+      {
+        "title": "Gerentes de finanzas peruanos: el 50% no domina la IA, ¿qué barreras enfrentan?",
+        "summary": "Las áreas de finanzas de todas las compañías enfrentan hoy un importante desafío para adaptarse, pues la Inteligencia Artificial (IA) no detiene su avance, ¿qué se observa en Perú?",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/gerentes-de-finanzas-peruanos-el-50-no-domina-la-ia-que-barreras-enfrentan-noticia/",
+        "image": "https://gestion.pe/resizer/v2/HD4DJMGVLVG33JK5E2US2F6G34.jpg?auth=b533e098fd0509020ab80096d77a4c800fe128cf8dc22df71aefbb78bda04fff&smart=true&width=1200&height=801",
+        "publishedAt": "2026-09-04T16:42:32.000Z"
+      },
+      {
+        "title": "Latam suma ruta para pasajeros corporativos Arequipa-Lima: los horarios y las expectativas",
+        "summary": "Vuelos corporativo de Latam Airlines. La nueva operación comenzó el 2 de septiembre y contempla el pernocte de una aeronave en Arequipa, lo que permite a la aerolínea iniciar el primer vuelo del día desde la ciudad.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/latam-airlines-apuesta-por-viajeros-corporativos-en-peru-con-nuevo-vuelo-arequipa-lima-noticia/",
+        "image": "https://gestion.pe/resizer/v2/BQOH2BFJIFDATDQKWVJSW3NCSQ.png?auth=382f64a9e14d6de3b4f44aa19bdb24ea9de6b6fa6a8cbd862c10603f2cd31a32&smart=true&width=1642&height=958",
+        "publishedAt": "2026-09-04T14:06:58.000Z"
       },
       {
         "title": "Entre insurtechs y corredores de seguros: el cambio de la industria a la llegada de la IA",
@@ -122,39 +138,15 @@
         "publishedAt": "2026-09-04T12:55:00.000Z"
       },
       {
-        "title": "Gerentes de finanzas peruanos: el 50% no domina la IA, ¿qué barreras enfrentan?",
-        "summary": "Las áreas de finanzas de todas las compañías enfrentan hoy un importante desafío para adaptarse, pues la Inteligencia Artificial (IA) no detiene su avance, ¿qué se observa en Perú?",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/gerentes-de-finanzas-peruanos-el-50-no-domina-la-ia-que-barreras-enfrentan-noticia/",
-        "image": "https://gestion.pe/resizer/v2/HD4DJMGVLVG33JK5E2US2F6G34.jpg?auth=b533e098fd0509020ab80096d77a4c800fe128cf8dc22df71aefbb78bda04fff&smart=true&width=1200&height=801",
-        "publishedAt": "2026-09-04T10:45:00.000Z"
-      },
-      {
         "title": "Mercados e indicadores – Hoy viernes 4 de setiembre",
         "summary": "Para tomar las decisiones más acertadas de inversión, manténgase diariamente bien informado sobre el desempeño de las acciones de la plaza bursátil, de la variación de las principales variables del mercado financiero, así como de la evolución de los precios de los commodities. La cotización en el mercado de Londres el ",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/mercados/mercados-e-indicadores-viernes-4-de-setiembre-2026-noticia/",
         "image": "https://gestion.pe/resizer/v2/CKBJCXWQXVCTXHZN5ZAGTM66RE.jpg?auth=c935a9816683dbd514d89311dedaf60293df727aefbd90da56a9830e4813f2eb&smart=true&width=1280&height=720",
         "publishedAt": "2026-09-04T10:30:00.000Z"
-      },
-      {
-        "title": "Bear Creek con luz verde en Corani: una nueva exploración para el esperado proyecto de plata",
-        "summary": "La minera canadiense Bear Creek Mining S.A.C. recibió la aprobación ambiental para realizar nuevas actividades de exploración en el proyecto de plata Corani, ubicado en el distrito de Corani, provincia de Carabaya, en Puno. El Servicio Nacional de Certificación Ambiental para las Inversiones Sostenibles (Senace) aprobó",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/minera-canadiense-bear-creek-recibe-aprobacion-ambiental-para-avanzar-en-exploracion-en-proyecto-de-plata-corani-en-puno-noticia/",
-        "image": "https://gestion.pe/resizer/v2/C5PF64J5VFDK3K3NPNUYP7UQCU.jpg?auth=ae790bb836a41ed53b1ce2faae942601f9ce891b7ca164f61a03a4b3a26f921c&smart=true&width=1800&height=1200",
-        "publishedAt": "2026-09-04T10:19:00.000Z"
       }
     ],
     "sociedad": [
-      {
-        "title": "Autoridades anuncian que el suministro de gas se... - Panamericana TV",
-        "summary": "Autoridades anuncian que el suministro de gas se... &nbsp;&nbsp; Panamericana TV",
-        "source": "Panamericana TV",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkpBaExLQVBhQ0t1Q2pTa0t2NnIwRzA2UDJFbHBCYWJpclMyenRlREN5djFSVGg4NC12cTI1RkNRb2xQNndEUU8tUm16Z09aUWxOdXFXbGNDNzFBNGdEdlZXR0tOeE45VnJLZVJEMWhFMmRsUmFzWWJRRVlTT1JwU05WUlZGeUZLS3NqMUpPTXNKSGNxOUNsYVZIUFB5T3RYZG8tcy12S09EdVpLRGd30gG0AUFVX3lxTE96YzZGQzc5bDhrcndHSGlDMDlUUVprNUhOOXozOF9LR2JNT1piM0l2V056bFU3OVljdlEwVm8tYnVTa3FKTlpfQzFUY1FuYnZRWUZEd2Q5aTNmYnJORDFxdHl5VjI1ODFoS2dHaG1NeWV2aEdqcHgwMDduT2NpQ19KN0gzcEY3UGFHRTVWbEI2bTFOY0hzcnlWSTJOVUk2ejJGQkk3UDU5bEJoQVBCM0dieHUxSQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-04T02:06:31.000Z"
-      },
       {
         "title": "Presupuesto 2027: Gobierno prioriza seguridad, educación, salud y transporte - losandes.com.pe",
         "summary": "Presupuesto 2027: Gobierno prioriza seguridad, educación, salud y transporte &nbsp;&nbsp; losandes.com.pe",
@@ -196,6 +188,14 @@
         "publishedAt": "2026-08-11T07:00:00.000Z"
       },
       {
+        "title": "Estas son las comisiones de la Cámara de Diputados que tendrán mayor poder de decisión en el nuevo periodo legislativo - Infobae",
+        "summary": "Estas son las comisiones de la Cámara de Diputados que tendrán mayor poder de decisión en el nuevo periodo legislativo &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeXZsRHloYmRHU3ppR3pKTWg0U0FtSFM1MC1GWjJqeHVVb1M3QzlQelJUWFlGR1gtOWZYQ05iS1VDTlF0aUx6OHphRW1fVmtETVR3Tnc3YXFhQndfc1hRZW1mNnlLNXdDdTlfSlNOUlVPeE5pOXA5ekRsODVnemNSVTB3dzhGTmgwVGFMYVN1Zy1NTnhRVTUxejBjc1lIZ2ZWQjZ0d0cwSHJCUWRMM2xtcHpqWkppOGJXLTZqYzV6RzI0OXc3T1dEZEdiM0VXcjZkZllCcVRYWDMyRlVPS0xkWGdKR2NxWXZPUzVBUzJDSDbSAYsCQVVfeXFMTXgxSkI3ZG1kTXVidU1CMkVvRFNURFFvTmNjaE14UHk1YmFjbklkLThvWGVBWnVnTUtyTXRnM3dRcklHY0JRWE9Kd1FTSDV2QVNDRDlCYW9TOThfZVItcUprZElqazRpd2tDdG4tamVGUGNtYzFhbFEzX1dCanNOY2VMZnEtQmFPYkpvRDJWSDM3U0tZa3VSanlqZkRGOTVIN05tQlhoR2psMlNyNFJUVV9aNnE1bjlidksxNnh6SGlFUGZVcllNUFZPTUpSRVUxVU9UcE9DYlJxWUt3OXEwaDlIWTJPVS1vRlB6SDNBZmZZZHZIcWUtSDZYVGszTGYyMWJSUE8xTUU5RlM0?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-05T07:00:00.000Z"
+      },
+      {
         "title": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú - Al Poniente",
         "summary": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú &nbsp;&nbsp; Al Poniente",
         "source": "Al Poniente",
@@ -222,6 +222,14 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
+        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - Business Empresarial",
+        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbEpWQWwzZjk1OHUyMXNjdl9taXN3YWtlVkc3WUd6ak1GNTNKTjMwWHhEd0Y4TTF6WU90LTMwTjZSNDVFN29ReWFGQkVvTmtya3pNMG9kSEdjYzRvdnZsTG16M3E1bzZhV09OVVBwWUNCU2ZJVHpfdnlvV1VmVXVLU2FmR3FYeVlIRnl1MVRvWmJlSWU4eVZ4Rkxxd2tZUHBKcWp6Q3BRUkZRMVRkbDRiVWNOdTFNSU5yNjByS2FobmlLdGRrOVJHdU9YOW9VYjZBLTYySHM1cDNhR1pDR0JZ?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-24T07:00:00.000Z"
+      },
+      {
         "title": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión - Infobae",
         "summary": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -244,14 +252,6 @@
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORW1HTmxZWG5YdXc5QVZMVTJ4ZE9rVUoxODBXSnRIRnJtVjc0NzlnV2xQeFFrRkVzWkdRMTVyU3YxQU1kQ0UzejMxcGI3NzdqdGZMZWQtZlp1eEdwWHhGYnJRMFRIeHcyMFE4OGI4bFdCekl6NlF1U2NoXzNiNEo3LXk4N0hodWJnTldoUEtqY3BUU3Q4S01GZTNMdDFySmMzeDY4emVXSjdQSGtXNmd0NGxQQi1pT0ZWWnlGTHk3cWtxd2lBR2xvTlRUWEJrQVVFaU83NnF0SQ?oc=5",
         "image": "",
         "publishedAt": "2026-07-16T07:00:00.000Z"
-      },
-      {
-        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - Business Empresarial",
-        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOclpab3k5dms5U3JOSXdvUU1pSnFnUnYzWDY3QUtyeU9ob2NhZnI5U092N3QxY19kVUtUX1JPR0tzUElTTXVlMGdUbV9tclI0Y0JQcU11QWhJQkkxalNIR3R3VmdGSHdMY0NJUVE1V09Tel9OX3R5eUVKV3owZnJ2VjJ0VVRlNFowbWZyVUl4SDAwc2lYUzZKcTZtTDhEUlV0LTJMY2hnSGJkQ0c5U1AwRkVGVm5qQXk3XzI0ZEZ3ZTE4RjBtbTcwTG15MVdKX1F3Y3VGby1IdVNrd0pB?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-04T07:00:00.000Z"
       },
       {
         "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - Business Empresarial",
@@ -280,9 +280,9 @@
     ],
     "ideas": [
       {
-        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - forbes.pe",
-        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; forbes.pe",
-        "source": "forbes.pe",
+        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - Forbes Perú",
+        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; Forbes Perú",
+        "source": "Forbes Perú",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnR2OFJqcnVKWEVnZF9Fc1FFQ1AxY3lYbTFYQnh2WkJZMEljS2I4UHozWHN5eTNXVXkwSV9WS0U2WDdCenNoMGVLUzRpMEZXcnIzRVpJSWloS295VGJzNVZtT3h6akN0b3EyVDdYVUwtc05SR0Z6WWE0MjZKUnd3TDFnUWx3aEJwbHRYUmgxNHJseERsVE8tdTg0WnJrT1hMMEFER0h6WVp1ekd1V2JWLTNPUQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-25T12:02:15.000Z"
@@ -296,18 +296,18 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
+        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - Instituto de Ingenieros de Minas del Perú - IIMP",
+        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; Instituto de Ingenieros de Minas del Perú - IIMP",
+        "source": "Instituto de Ingenieros de Minas del Perú - IIMP",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRE5fZ3JJNF84QkRUbkg3dVFHbWlZbER1STBIYXZMdlU4VnUtYlo5MnROakM2RE1JNC1CbGswOVUyZG1iUWxDeTAtRzY0aEJLY1d3bFdRMlJ1elE5Qmp1UGx0S2I4LWdlSF9SQi1ZSVFveEJwRE1iakhBVTMtUEthOXZyVU1TdlM1dFNNR3ljb3hrR0pBNWpJWTlHUWFzbU1jNWtXVndDclN0Ul9RNGZwSHh6aVpxWWRtNWRnUk1xMHhIVU10NWx3RTQ3QXVyc3BIYm4zTDJXbl8?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-30T07:00:00.000Z"
+      },
+      {
         "title": "Solve for Tomorrow: Samsung extiende hasta el 31 de julio las inscripciones para proyectos escolares de impacto - Samsung Global Newsroom",
         "summary": "Solve for Tomorrow: Samsung extiende hasta el 31 de julio las inscripciones para proyectos escolares de impacto &nbsp;&nbsp; Samsung Global Newsroom",
         "source": "Samsung Global Newsroom",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSVQxLVVxUVdxTXBmZ2JhNzlRV2g5WThnRXl4SkdBWjg0ZERjdmJaT0pqeDlLRmgyZmtQbjNTeXpPMFRVbzNkMVNKcUpISkNpU0hjSjBQejR3THlhRklmeTFBX0pDSmVkSUFoRmpsMnkxY3FXSDRnUGY3TVFDdGpuekdoMXdIVFlFNHpmMk1qNnNqOGwzUXc5U2JJcnlLT252QUJQZS1wV0o4S3BqeVN1R25RVGN0SFJ3UkhFQVA4SUxnOFlCNVY5R3BWZF9UbG9IMGduZQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-17T07:00:00.000Z"
-      },
-      {
-        "title": "Los emprendimientos dinámicos en el Perú - proexpansion.com",
-        "summary": "Los emprendimientos dinámicos en el Perú &nbsp;&nbsp; proexpansion.com",
-        "source": "proexpansion.com",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ2xwZk5iNDhxTkE4ZW1POXVPZWNjVDgtNHNiVHBFSWtkdUlZN2paMlFLelVvZWoteEtBcGJXcFVsajBCTjBfWU04Q0pnQkkwY1hkT0N0VW00aGwydU1TVTNZay1SOHppQ3ZOOE5qMjJ0NUlXMmhpLXBOLWZ1YmV0dkU4eEd0Qlgx?oc=5",
         "image": "",
         "publishedAt": "2026-07-17T07:00:00.000Z"
       },
@@ -386,20 +386,20 @@
         "publishedAt": "2026-09-01T00:36:42.000Z"
       },
       {
-        "title": "Moventi, consultora TI peruana, levanta US$1,2M para IA - El Ecosistema Startup",
-        "summary": "Moventi, consultora TI peruana, levanta US$1,2M para IA &nbsp;&nbsp; El Ecosistema Startup",
-        "source": "El Ecosistema Startup",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMnNWV29IQW56Vlp3cEFsbEUxUjNZekt2U2tBY2JhTEhkMzN5Um9seVA3WV9jeDVVRkc2YlNLd1p3b3R1Um9zbkctSUUweDFYLVBoUVd1cjVkcHM3TEpwTVF5WlBCUkVTLXBtdzI3WmJEQ2JiUms3V3RJU0o2M2M4QU92dEw5M183LXc?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-31T23:36:31.000Z"
-      },
-      {
         "title": "Uso de IA en empresas en Perú: 48% ya la utiliza para decisiones de tecnología e inversión - La República",
         "summary": "Uso de IA en empresas en Perú: 48% ya la utiliza para decisiones de tecnología e inversión &nbsp;&nbsp; La República",
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcm5QZWtMU3hqczlvbmM4b2tvbV9uN29TN19VTWt5Z0xrV2I0OTJkelNFcFU4YmY3aUVfQ2QtYWNnQldIaGpXNVE0d0V1dmhQeGRxUE00dXpWaERrRzVkUmVKZUcxenNjejhxeVBQSzg1NmVHUTg4TFBZWlNXdVNqM0h1SHRRNUMyblBrTDVrX2o5STZ0SjI3eEtVV3VveGVldGd3U0U5d0ZmMFlrVmYxMi0tM29mSGdHSWVaOGMzV0Q4YUhpR0hZUnRxekp2VkNXeGtvbERDTlpQX0xfc1Vsc01vZXl3TmtYQ1M3Ukt0Yw?oc=5",
         "image": "",
         "publishedAt": "2026-08-31T22:12:01.000Z"
+      },
+      {
+        "title": "Educación en tiempos de la IA: los retos en Perú y cómo viene cambiando el aprendizaje de idiomas - El Comercio Perú",
+        "summary": "Educación en tiempos de la IA: los retos en Perú y cómo viene cambiando el aprendizaje de idiomas &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQQ3E0Wk53M0ZYWlRIZnd5U2hWcXRFbGhzRWNwUjFSOFZndmZnaF9ValIybmxiSG0zclY4RlJYY201ZGtiRGRXTkhyVXh5eHlWb0pCZGZERU9OVnVrTWc5ODRjTy1wLVI2cE4taENzSGFNNXBVcUVwSFlLaHpOb3BQN0V1dnZObk9ReC15alkzNlZ0X1RRWDZhQVZobjFJSUpHQVNBRy1PbklTWnFjNmJ2TkgwS2hValR6QkphdUxtMUNhZF9ocldvbklLX2hJS1M2aWEwNi1lSEdsc29qWWVfcnJsS2lJUkhiOTVIbHk1VE4xWDh4bU1ONU5EeDNKazk5bjhVY2dZb1FKampQT0xwa2gyZ3k?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-29T21:15:00.000Z"
       },
       {
         "title": "La IA avanza en Perú, pero las empresas enfrentan un reto clave: mejorar su infraestructura tecnológica - Infobae",
@@ -510,12 +510,20 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "Domínguez recibe reconocimiento del Congreso junto a Paul Michael, ‘Cachay’ y más artistas: “Contribuyen al desarrollo del país” - Trome.com",
-        "summary": "Domínguez recibe reconocimiento del Congreso junto a Paul Michael, ‘Cachay’ y más artistas: “Contribuyen al desarrollo del país” &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxONHE2VHgwbHpNX1RiaWdQUGVFTkc5NDJEcXZQUDFuRHhCcUpCdzR0Y2NHbDNvRURMQlMzSlk5cHRSb3BjclRaMkNEMEF4R0lqLTVxRGQ2SDRBV2x5cklZcTdjTkp2RExYb2VVZWZHb2piLUFBM3lNS0Rqc2R3Mndrdmlvalp2alhMd1ZZYlNrU240YUs4a003el9jSS1sSFNLNzMxNmxaeGV1bWRGQUJpcmVRMkl3MERDbUVfa0VTbTZkVmR1MjdwVnhHQXMxUS1lTDNKNjBCU0V4UksxN1hFUFdWYUdZN2drV0lyNTR2cy1kMXdNZndXV09KeHN0M2NxNG1SQVhjUVRMaWxZemxXTVN30gGmAkFVX3lxTE1BR29NZk9mczFZd284MzBxZWY3S1lvLTRGYzNxU1R6MDVDZEwwdkktb0t0ZkRtMG03SlVKYjNlVmMyMUVTNG8waFc4NnBDUWRwcUI1cl92SmZQQXVnckFaRGdDSEVyLVN0ekl4Y2ppMm9BeUxWVUthQjRhUzhiNkRDMUNuclA1Xzg4MU80V3AzeEFHWVdDUnRjWEpwTEtmQ0k4OUdyX0lHMTV6TGJ5UUNiSW8tZkVqcmRZMmpLOEpfZl8wNnhGdmg0T01ZVVgyVGRKeUhqVXJmWm56NndqNTJ5d09PczhNekQ3cFJWQTBkWUJJUVEyekdlRUJTSk5HdUZaakUxR2VXaFE1YXg4NXVnTjFFZFdxanl6UXUxUFByUjlXSVVNQQ?oc=5",
+        "title": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión - Infobae",
+        "summary": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFpHYlBfWE5DYjhNXzVvdjhzWEJUU3NRYUxCei13QUhSajlnTWtaNmxCUmRZeFJsU0FQZ2Uxa0hkMHNCanNqd1pPUDlveFZGUXlvU0MyblFibDBMY1pZVHZZczdZNlFpZ0dVU2hwUlJrQjdOY3FMZHloNXY2cXhCVVR4YjVLR1B5NEFhOGJlY2NKZnF2dWpfMWNUYTdGd2U1MWt1RWNpVUw1NXdWWE1SN0dSMm9ldWNqZUM2Z1930gHYAUFVX3lxTE9YYW5mSTRNYXNfWFBBZi0tX1h0S3A1b09TY09zaVFmcWdLTllzMHhtTzRQOHNwaEFOT1ZycS1fNklDamM2Tm4zbGZ0Uk5DTldIMDAxUlhGZVNmV2RvZXdVRERiTGFxV0Jhclc1bERDd3ItWU9yY1dpQjE2d0NnTVZzVDhBTjV4ellKTW5HOUxBWUtOLVNnVGs3Wi1ibF9iNVNMWFlzajFjSzhUSjRKdXBZQUdlbTh0QklnMUxNNFFlVXpTYi1jZXE2Z2dFcklfX2U3Y0VnTUM4Vg?oc=5",
         "image": "",
-        "publishedAt": "2026-07-24T07:00:00.000Z"
+        "publishedAt": "2026-07-30T07:00:00.000Z"
+      },
+      {
+        "title": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina - Infobae",
+        "summary": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOajFsLUtIcVlCbVlEeDJrZERUeklvOU1Hak5IRjdkWWRuTjhuR24zTnRkNDFONDRHelY2RG9QU2FobEYwdUQxRDRYX3N0QTFqenR3aU43NUJPRWlVUnExalVDUlVwZ0d0WFRud2dYNENFRHd6d0JPWTQ3WlNCM3pjNEJ0R0R5dGlwZVJ0Yk90MDNzWlZrZXYwbGd1ekN2NzkxdFB1dThxYjBLSDVBNF96d3VNYS1ZNHNwc21WMWhwSFdCamJtd3FwczY4V0lIcFZaLVHSAewBQVVfeXFMT29fdXdnLWEyMlBwSDlqZEVOT3ViRkhla192bHU0bnh1MzNoVGFMZkttSmlFOURhVmNUeVFqLXZoMXVUVHg2M3JZZXo2SjMxY2dCUGJrUWNMX2l6Zk9GVU9HVjZrUnhDMEpqRmp1bU1vM3lfbTZJZ0VJQnR6QnJZLWJPV081YnNhMXFqOEh0ZTVSMHM3RzkwNDlRSE5XMU4wMHJ0T0VzZU5ZNXdudENQNjQtM2FXM3BIS3RmWUY5SzMyUU5pQ1lEc1FldW1RWlM2cEt1NEtQRFdjNm8zcE8tdi1UeWVpY1NadHNnWTg?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
         "title": "¡Se acabó! Sheyla Rojas confirma su ruptura con Sir Winston tras larga permanencia en Perú: “Terminamos” - Trome.com",
@@ -532,80 +540,72 @@
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVDRrWHZhNEtYVHphRGlZQzBPYlh5azE5b0l2R0Fqc0tJRGxnMTR0dFpCQ1A2Qi1xenRzNjd3anRiQ2RZaV9kQ29HQmxwekJXamltNkhvM1ZaS01XZnJrZmZ0bGtSWi1JSFVRd3RMT1ZSWUJDOEthaEliSGg5eE9RV1BEa1R1NzliT3FfTkgzdWw4ejFqWGFJcGRIRDN3Q0NMc1EwQ21EN3R4LU4xSDJLZFJFcEt5Zw?oc=5",
         "image": "",
         "publishedAt": "2026-07-03T07:00:00.000Z"
-      },
-      {
-        "title": "Ricardo Arjona se solidariza con los venezolanos en su concierto en Perú tras los dos terremotos - Trome.com",
-        "summary": "Ricardo Arjona se solidariza con los venezolanos en su concierto en Perú tras los dos terremotos &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOERDMDlhVkRZY3pybFhrVE5xT19RbVRHcFpzNFFzbkY1bFVQYkdWaFg4djBNTEtuTGZSQ1NZdV9Lc2NKNm1PTzN5amk3Mk1HZHdHSWtrcWlsa21hbFpsSnpTa2ZGWEhsbTVhd2RjQXRzLWFjampfNFJfMUNTVlVmT1ZDZVJZcDdPS3NSSUliX2s2SVpGNUQtSFVUUXBDTEJYMlM2eTczTEVHQldVVS1nY2ZYQmJPeWY0LVRYbm1yV096b3U1eFpaQzhPZjJxWVFtelRwWnZSN3dSeFpMY1VSbFVjenJ2VDRzb3JvbHl2VTFOZ9IBhgJBVV95cUxOMjMzZ1BDa21SQ0lraS1malU3Rzl5NEtkMldjUlBzbVBzeV9TV1R1N3ZOTFlOcjNKYnZqR3E2Nl8tUzRNZ3kxXzdCcXEzNXh4b3FTRzRsZjJWNmNYdk9SckJua185UkxRaFNHRmgtblpaOW1NcU5rUkhTVk1OX3EzN2YwNV94RWh5WUQ3dXV0ZklNclFyTDJuQzNkLVRiX0NSRlBSZ2hYMHpxTC1ZU2dJZEs1ZTFlS3lsV3ZpOXFlVmxjQlUxcVFFYnZ6RUZoUklJYXh0cVlJTlpwdHNVMnFxc29KOUJYbk84d2lodmFnRko1WXB6ejUwTFh1Z3FZdXJpcjBTNUJR?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-26T07:00:00.000Z"
       }
     ],
     "cultura": [
       {
-        "title": "Batman Day Perú 2026 en Lima: entrada gratis en la Casona Manya y una Batiseñal que promete encender el Centro Cívico - Infobae",
-        "summary": "Batman Day Perú 2026 en Lima: entrada gratis en la Casona Manya y una Batiseñal que promete encender el Centro Cívico &nbsp;&nbsp; Infobae",
+        "title": "Agenda cultural en Lima del 27 de agosto al 2 de setiembre: Black Eyed Peas, Paulo Londra, Animatissimo y el Festival Escape del MALI - Infobae",
+        "summary": "Agenda cultural en Lima del 27 de agosto al 2 de setiembre: Black Eyed Peas, Paulo Londra, Animatissimo y el Festival Escape del MALI &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNX290WFRZdmtlZ19nSGN1bTc5RWxMa29RQ0RpODI1a2x3eDJnSFAzWDJsNHl2bDJlelBqLW83bWwyTWNvekV3Wm90eFJBZ2pqaHl6a1l4SEZ5TEVUYnRLVWNSdUdXSkRJSDJUYk9Bd0RhRDhwTlhPX1lSTEthcUdRbExjRXJfY1FfdUJOWkJpU1RaOGdlNU5OSl9Td1J0aUk1bXRndUIwb2duTHJmcUxWd2s4bW9LWGVKcnRwWUFsT3E5aTJ4UkNzdk1RYlEtWWFsVWtPYUEyRW9Jek9xQ0Q3cGQ2cU1RLXhyNWdBSFl30gGIAkFVX3lxTE85emVuekc0eWRpcGM5OGgzRnlYYnlEZTZ2T1c5dEpEY3FaX21sa1VWcWhnanJjQ0Ytbkw0SmNrYnhMOTZEeTZ1a0ZyTldxUE1zZTVPbE14VXlPMjJRSUF0NXM3dW1nbnV0b3JtTUNvX0owWjhqZnllZ1NJSElveEUxaUc3UG4tSV9MV1Q2WktCUVZITXA1aUZlRmwxVUNrdmxTdG1yeU54RkVtaGZQbkpMLUNHc2hOOXllS2Q2MWhyWVo2YmJCWS04M21YZ2IxcVBOdnZFZ1Z3SWpoX2ZxN3Y3VTlVamYyWlZSNThpVVVTWFpRVUk1eWR5UFYtVlgzazZuVjVCaVJKLQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQYXF1LXQtc1VqT1hYLU1JWFJwTVRUZ09RbjhPdHoyRTBxMVptUFMxMC1vNTlYelBDUFdwaldxX091ckNfeFJueUJkdVBDOGZ1VENfX3NwaXhjTnNiLVJabkdpQ0VOUWtBcGdsUldYTXpxazNEWmp2TWhmMFkxVExXM2xiRHg5RDBQdFlNQk1hZmtwWWNrY09GZkFlMExpQ0Q2cGdkcVJENDBPQXhBWHJ3Vzc2RW1pZmVBLUJSa2xLRUY3cFAxVkxsVHZrLWIwamdESEJ4Mm5GS3Bnbk4yQUhKTzNQSVRaYUp0WnBEb1lnemF4ZExEY1FuOTdBQUpWQ3Bl0gGbAkFVX3lxTE5hOHV3dU1TbmlvMUl6cWJpVmdGRXVPWmVJMnR5VUtTNjNfSnkxSC1pTTktaVVid2c5TUo0NEQ0aS1GTFpwOUxvRUswcmtVQUZwY0dEaEtBMmlpYkhsaHZYWUtleVlTenVyWGVQSTVJQ3F2NVZPVUw4emxQRU9wSUY1cTQxTkZtVDlScnpwcXJhTTVlejZSak4ySVY2MHQ0MkhnMHR3N21wNTA2Q2owd2hqcWlRWVYtQVU1QVl1VnJRaXpOS2NMVE95b1pFZmdFX0NZRk9RSE9obUN4UHhrYXUyR3pEYXBncnpJbEwxYWhqSmRkVUlOUmlSOUFkOGkwWG9CWDFGM3hXUUdpQ2xOalFmdld6OWF5LWpRNFk?oc=5",
         "image": "",
-        "publishedAt": "2026-09-04T02:04:55.000Z"
+        "publishedAt": "2026-09-01T01:09:00.000Z"
       },
       {
-        "title": "TEDxBarriosAltosED: la primera licencia TEDx educativa del Perú llega a Lima - diariouno.pe",
-        "summary": "TEDxBarriosAltosED: la primera licencia TEDx educativa del Perú llega a Lima &nbsp;&nbsp; diariouno.pe",
-        "source": "diariouno.pe",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMTFvbEJ0U0tuLTN2eW9wbk5nay1oSWhxZFJIako2ZTkzMFdIa2l5MG9JVHlWSUxQU1BjNDdVaG5FZFNObG5QaDlvYnVESUtLcG9EZllQR1lrUUFESUhHNnU2b29adGFsYnpxSjBNLVVHeVMyNVplZklHbUppeVNxUEdCWkZLUm5nOFl2WURCOE5MYnFISHFrdWl4eEY1aFNYd0ZvY0o4aTM0TXpQ?oc=5",
+        "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - Agencia Andina",
+        "summary": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOTNTd1VMWGJFRlFGZG1LOXpLSllZVE5JUG1xU19TaFdKbnJzam85dVlJN0VVVWQ1ZzJLanExY0xmbXV2cXY4a0Y4M1JXcExuUm1Nc0Q0S2N2WkhtZzNwWlJJdmoxS0gwdTFYYjVQT0VkVTJHcEtrZFFES1R3X3JWTWNMaWtvQkM0S1lyRXNNblBJaUh3c3hNX3JYaFhiUXFkemVJa1F4Y1NJNjRmX2tPekJ1Snc2aWVDRFE?oc=5",
         "image": "",
-        "publishedAt": "2026-09-02T17:40:18.000Z"
+        "publishedAt": "2026-08-22T07:00:00.000Z"
       },
       {
-        "title": "Fiestas Patrias 2026: conciertos, festivales y eventos GRATIS en Lima - La República",
-        "summary": "Fiestas Patrias 2026: conciertos, festivales y eventos GRATIS en Lima &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNN05nUVFQYmxzZmNyb1lfZE9OT3VCVmlTdmFKNkI3bWxNMi1PWkloSkV3OURBMnZ4c2laOHlGY3M3eEluUC1pc1FzWmhjTGhpZVhDLWRQV2hKWEVPVUlkX21hS1djNkZOMnhTRFdPREdPSnJRQndvMWo1TUlCNThUS1F3UVIyaTNNd2xKMmlvYW5xTkxjX3pIT1ZBbHVuZjNudHUzQ1YwZEtKTU9HaG5FZ3RNNWtpV2RHTEZoaVVldFR3Ty13RzhLaUxWUjNCSmw0cXc1OGhBdVg1N2FXMlROSWNOemtsQlNHVDQ0b1NScmk5Z0NpUFF6bVlCTTZPbkN2SzN2eHZmcTd1cGRWcWRFMnVkQURtalRsSjllUdIBogJBVV95cUxNd3MtbllPVGNfOUZpOVQ2WGkydDBOWTJ5Yzhpb3EwVV92Nmt2OTJBTW5Tb1pwbkIzTmZFYkZkaDNhOUNNLUVFeEw3M2RzeDlFTHpzS3JNcW5FNS1kQ2lMWTNQMUlpeXhEcGUzUUFyQzFzUEtuNmdWUTJQSGUzeGx0c0xFaENqWVpUOUpOckh1TW1NelJnVW0tOWZmMnJnd2dkcjNDWGNSLXZTckRaYzdMYzFfbkF6UWNBQmdZalVHNEFRV0JIWG9RczBzVHdRMWV3aUI3MU9VMFNnTlhCUmd5LURkVk5lSnpTTF9KcnVRWloteVQ3RHlKT2o2bFZEVE05bXdvQW9NeFBQMGFGWXM0OWJvcDhnRk13ZmJhd2tmOFlwQQ?oc=5",
+        "title": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones - Infobae",
+        "summary": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTTZDSUpUY3djZ1R3U0lOUzRLVVV6OGFpNGZvRm83N0dTV2VlclhHT3U5YlVzX1NLMUFzdUx4cHZrX2FhdGhDeGtYOWZwZ1VyUnZiZEIxRUw5NmhZUG93WHZJNUFHUzRTMHBtVTRQUE91OFprb1NlMXhsbkF5ZHZINWxweFVsVzRJZlpUcFI2Mks5andzSTgwNVhUZXJsaVl5bUhrMXFLX0JMWDgtNEtWbW92YXVBS19kQ1dYS1hqSEt4YVpnaFNqeFVHQzhqbVBIZnFnUEcyOXdqUnFZNllOZG5aVjlsbUtlV21JZ21aTjRkNlNyOEYwZnVhbnhSdDNadVRZbUNvYjPSAaMCQVVfeXFMT0lVVzhVeG9mNGZBb2diQW9Bd1ItVlppWDFzMmt4eDAyY1ZYMjVQUWpzN2hzMGpfR3RqRGhVS3NGZm04ZlBnaGxsUXozY1o1ZlFkWjl3aElHZjAyaWo0SDR1VU5SM09KSm1HWkRTeDlSa1Z5bGVpZS0yN0s2cVYxRFBvUjRwZHV1eHFnbUx0RlRaLUdSU0JPWmdSY0V2SXE0QUpFbGlCa3JtOE0tOHNCMWlsV19wTi1ienIyLTdubnJCUXQ0T2xkSTluVENhVENBeEcwZVM4NlZjS2IwS3NhbTRNQ3d0cFlLd3JWakw2Wl9YbTBkcGowYkVYU2NKbVl4eXdVa2FNZ3FlVVNpejg4T1FQaUxmZlR2Rk9idk9RLVV4cmtB?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-21T07:00:00.000Z"
+      },
+      {
+        "title": "Agenda cultural en Lima del 13 al 19 de agosto: lo último del Festival de Cine PUCP, ópera y ballet, salsa, teatro y exposiciones gratuitas - Infobae",
+        "summary": "Agenda cultural en Lima del 13 al 19 de agosto: lo último del Festival de Cine PUCP, ópera y ballet, salsa, teatro y exposiciones gratuitas &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVEN4R0wzbk9BVWZvS0JOOS1TcXR1SkFWTzVHbEhDM0hjYzBaX056STYyZkgybnR1VDc0VEl3WWZjeE01ZkEtUGl4OHZoOWxEcDd0WFdGbnJsanpXS0lNOW1rR0ZPcm9YcHVORFYyRE5PYXpiYVpVdWtOeWFPN1Y5QmJUeGMxSVZ5YWZnb3VoT0VyelEtLUtDM0pRam9zOFlIWEpOZUxUUjFBSl9YZXlUSFJqenRuaE5LR0RqRGQyck50NFdxaV9nMi1KSmRFMVFNZ2c0Z0dhUzd2aU4yOGZyb20wNFQzR0pRaUxtWTZsRkMtbTVzNnhnZk13N3FHNlJlbkdmOXByRdIBogJBVV95cUxNSzdWSFA0MnYyRkhjdGRKRnVsUDlOUzZobWxGUGw2T083NG41MUVmX1ZObGpOZjcyLVRQTGg2NV9ObXJhSUtRQ3VVS2wzRUtxaFdocUozSEJPeHZXc2JabzhENS16QXZFYVVmY0ltS3BocnJTZEFLeVhOMHdXUWY4LWpFc3FzRWU3RndwYjZ5d1FLX09vNFBnemc1aldIN0tyUEE3NzJpZmwxOEN2Wmdpc1RBUU5uVXRVRTZNUzdsMW5oVmVJYUdZc0hLdG00S1o0TVB3NzlsSm8xTC1kMmo0SXNRTVhNUzFYaUYzd1dRRi1OVmprRlVMd1IxcG11Z1JqSElMMGc0QkFKQmxOYVlfUUJOd0IzbWtsa3h4RWNVQTFfdw?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-13T07:00:00.000Z"
+      },
+      {
+        "title": "¿Cuáles son los cuatro eventos internacionales que se darán en Lima? - Revista Caretas",
+        "summary": "¿Cuáles son los cuatro eventos internacionales que se darán en Lima? &nbsp;&nbsp; Revista Caretas",
+        "source": "Revista Caretas",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0h5WTF4MXVHQjVWY3VYd3VZUWVIWnE5c1VfYTRHbXNMWEhRcUFESUlXYXpmWncyZ1pPNWtjdmN5N3dBOTQzak1mMWswYUUzSTF5aWxUTmFjdnpndmNjenV6dEJORHFRRUFmWG1lU2lDeVNNWENGY1pFYkYtV202QmVUb1djZ2JTS3RYTlNDQVZrM1U5YXBPamlrU2hyT0lzYzk0aA?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-05T17:35:26.000Z"
+      },
+      {
+        "title": "FIL Lima 2026 entra en su recta final: “Hemos reemplazado a la Feria del Hogar” - Infobae",
+        "summary": "FIL Lima 2026 entra en su recta final: “Hemos reemplazado a la Feria del Hogar” &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbXNxZE9UU2NxTnl5Q1EzNlJZek1yQzIyS1RGZ0g3LXB5dmtRX1NzX09SSjJGQmx5U0RnQ3B4elNyTlhzUFk1VDdZZmhoYTh5d2R0dk9PQ0QwY2FiWVdEZTlndElITG9pWElhMGdSOHYzVGtLSGhlWTZ5bXZvQUxjWnpJS05GRk9WQnU4UlQ3cmcxS0J6RmlQU19yZFczaGRqQlVXTy0zOVRsNm5nWnM3MGl5a3dINFk40gHTAUFVX3lxTFBUX3FpdkhQaEN3V2NEUXRYdXl5NlpqemhkYnhXdkRnbkFyVUYxWUVuTDQwb3dmY2ZCNXY2NUZXWWlvMzVwTE5LZE5hVEF3M1QxR282MkxlQXVtSFdaeW0wZUFIWWlTVFJUQ0czMXVFWFVyd284VEdHdVFVZUZINjhtLUtwaHVONkd3OEt4M0RNbDk0anB0RFNVMWM4aUhSQXNuYW9PaS1qczJyajNVcDhlT3FXLXFOTWlRb05IMHdJUFVfbkJYZTVQcHk1eGtpam1qcm8?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-04T07:00:00.000Z"
+      },
+      {
+        "title": "Agenda cultural en Lima del 30 de julio al 5 de agosto: DanSa, Diego Torres y 'El Principito' inmersivo encabezan la propuesta semanal - Infobae",
+        "summary": "Agenda cultural en Lima del 30 de julio al 5 de agosto: DanSa, Diego Torres y 'El Principito' inmersivo encabezan la propuesta semanal &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNakh4U3JYZGg5SFplLUd5U1U0SXgyUGRBUkxsVzVhbi1yZW85Mm0xem02Vm11N0FFUGhJZlA0QU5EXzlQNmdkTnJOOHRHVnNaWFNERUVWcWJ2ZEtEVlBtQUd1d0dDT3hwY3BhNm5OVTd3aGlOcWRHd2o3dE11U3poVExlMVhkRE55NHNNNjJTSTV4VEJTRU5XZnc2a1RibW1iRE4xai1YMmwtMUF3c3Z2THNId3I1RmZSZVFiOWl5YWdIaDZYUDhzWUppdlhrOWJieHFVSFFOWE9UYUk5X2hnYTQtQndwQTY5MlFDdkVldG5RNk1DbU14ZzRZd0c3YWxC0gGbAkFVX3lxTE0yaWZzMGM0Z0hRanBLWWNWYVJvZzVTejd2VTgtQVZ0LTJURG0zRmYzR21RSnpjOUlKUTUtWmY2em9aZGFjLWZGa1UzWnQ2NEs0N25ydXJhc25xUGxoMTRlc3dBc3FoU2Z1X21DVTI4dUpsQ2thaDJvTmxMQVlrb0dIM2lmb1JtanRoZ1JzQWZsMC1lazFSelRQZjd2cl9zOHJpN1JNNEN1NTlTOVBsZVg2blVDRUI2QnJlYndXbnlTczRNek9hZ29lSDdZOGVNMUVpWldHaXJPSzQ0YW9qcXRtem1QQkNleUVTNHlRTU9NN2VudDktUkRySUtKSmxMbDdQZ2VTYXkxRjYzLWtTcDdsV2JBNTBkWTBDclE?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-30T07:00:00.000Z"
+      },
+      {
+        "title": "¿Qué hacer en Lima este 28 y 29 de julio? La agenda cultural y de circo por Fiestas Patrias - altavoz.pe",
+        "summary": "¿Qué hacer en Lima este 28 y 29 de julio? La agenda cultural y de circo por Fiestas Patrias &nbsp;&nbsp; altavoz.pe",
+        "source": "altavoz.pe",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFg3R3g2Y2RlalJ6UTdvUUpjNDJ2bU5jSzRjTXpBT0FaOE5TdjdQdTlkelpGYnhWQnBLZ09IZ3Fmb19nYjd2azhBaW04Q0Qya2FydHZKVVdjRE9tWWZCeUtaQ1dFOUNoWlRUcklyakZtNFdFWVY4b1NaME5ScERDNktzel83UlNLdkpMdW95Vl9SM1ZBcHR6WF9XZGRYMHJvVmt0MV90ek9iWGc4Vkw3QVdaTjE3Vm0z?oc=5",
         "image": "",
         "publishedAt": "2026-07-27T07:00:00.000Z"
-      },
-      {
-        "title": "Fiestas Patrias 2026: 10 eventos gratuitos en Lima con conciertos, museos y cine - Infobae",
-        "summary": "Fiestas Patrias 2026: 10 eventos gratuitos en Lima con conciertos, museos y cine &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSTdMLUZ4aGlBVmROdC1UWnZaRTlhWDFrVjVxUUdNVm1NQVhQLTJSMHBPX1RSQXVjcmJkdnVna0dxWE5mREpvdUVnTXB0U0pEdE1qbHY0S2JLcG9VRF9hN1BqWDlaMC1zS05CSS0wRlZuamNIZ25jYnJQOFhESzgzSG5DMVBjcV9EbDFnT0pCdk5IX2d2dHc3ZENkcTlOczg2TUxVa0E1Qkt0UUZiYWc3YkRvVEgwSkliNzBRQTFqSV8waERIVWs1VlIyUFQ3SldkcXfSAewBQVVfeXFMTnAwQS1xSXE1cjRONU1vTDVzemZLVFQyX1hqWXZQZ2pKc3U3bnFEQkJvNEFKS1pDdFdpVkdkRkZkc25OV2dMV1RwYWNOb2JHU1JocjVsRUpTbDhiTjU5Yzd2WGJXTl9tZ0xqQWViWC1tWUJNbXFodlVjY3ltYUlLME5YWk1CalRnS1A1ZUVkQ2FPaElKRjJCbHVOdllCSEFrX1ItNFlHOU8xT05mVFBPanF4Nkw2OEJwdG5xckIyZkNGZ0NYUFctSjZOaWRkNkpUS3JleFltdXpXbGUtaE1na09tZVpXVklxWnB3Vnk?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-24T07:00:00.000Z"
-      },
-      {
-        "title": "Del 6 al 15 de agosto, vamos a vernos en el 30 Festival Internacional de Cine de Lima PUCP - PuntoEdu PUCP",
-        "summary": "Del 6 al 15 de agosto, vamos a vernos en el 30 Festival Internacional de Cine de Lima PUCP &nbsp;&nbsp; PuntoEdu PUCP",
-        "source": "PuntoEdu PUCP",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSm1odTFCSjNEWlNENWRYU0JRQnF2eWNIMngzTzR0RkhkZkxVQkdreHpfLVB2cEZWM3RXcHJMcE5pT3czcHBVS1JGU282VG41b1BUQVEzbXJXVWxTSl9IVDZqQWN0b19TOV9lbDM1VkJYWjRDUFhVczNwc0RaMWoybzZHNFFqSnZvU2twOWlkek9MQmZLdnk4NkR4MDFzZDg4WmJXa3h1Z0VEbThYdW5vSkpIY05mNWNqLWJkVDFXOEpiVVpWTFIwYWVR?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-22T07:00:00.000Z"
-      },
-      {
-        "title": "Cochinola regresa con Nicky Jam, Wisin y Ángel & Khriz: fecha, lugar, precios y cómo comprar entradas - Infobae",
-        "summary": "Cochinola regresa con Nicky Jam, Wisin y Ángel & Khriz: fecha, lugar, precios y cómo comprar entradas &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbTdEaGoyeU5ibG13anZiRlBfeTdVeUhlVkhLYXFzQ09JeUVrMzRURWJmOEtJR1llb0xzOG94a1ZKc2hGMjktajY2TXJRdEpvQ3JWRmhTcjJSTE1lTlpiWmp5MnJQSmdJNW5UVEhpU3RPdWVaRk16NWl0dzNUX3pLMHRiMWhiMnB1enVpZlVQbkFraUFHT3ZqWkV2cTRFUFRzOTNOZF9pb041NnFHWUV1WVdNTWFqTnNtS3VNRXVnNWhncEM5TUx5ank4VHpFNnBoY2fSAewBQVVfeXFMUC11cTQwTFlYVjBrOGxrRk1oT2F4TUtNZXJEQzhmSGF1a0ZnRjRfeUc2OWxUS2tNd19rMl9DSjRvWHpxbzV2Mml2aGdHUjREOEhQTjFnSEJraWU0aGdReFNwdVIyQ2Jfa0QzdENVbGpfb0pscFVRdmRNV0xKbW4zM2JLbVZfd1BlSWc0dFhoejFvYnRVY09Xc1JFZTBMMlBxcGNNM2xrSjBwWXJ4T2l3bzJudFhCUzN3U1I3cVNuUDNKbFBRSEhrazMtUXJQWk8zUDJTekNtcFJQSFZ2bUlFS1JCaklUVXkxTWdOaDk?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-21T07:00:00.000Z"
-      },
-      {
-        "title": "Parques de Lima para pasar el 28 y 29 de julio: actividades por Fiestas Patrias - Infobae",
-        "summary": "Parques de Lima para pasar el 28 y 29 de julio: actividades por Fiestas Patrias &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWFVMazdSd2lqYVVHUTV5Q1BkZHdSMUJPT2NxUHJYcWNVclppRGN1WWZNMWxJRF84MmxxRDlTb0U1REJjMXBFMnB1bm9XYkI1d1VmWkhWeG5vWHlnSzZzM2FaRjBrRHBHaktOV2xOZUNHLUJhSlBCOUVZN2JDX1h5VGxuSTFtR2daQWgxVm1RRktoWlFDRnVYcXVVU0x1NWJTZXVmOV9jTGhnaDdiVFFSUUJqcnVXMndKMlp30gHWAUFVX3lxTE1rYlNueXZRYXEwR1NlcDZ4WENUcVBUNENwUDFobHZiSWZHVGx6ajA3WGFJRHJyOEhCVUJRaV80akFSRGRSaURQckU3dDQzdjh2blhTOVk4UHZveVBVYXBjMWszUy11OXpwNU94MjNiMWFCNDdKVDI5YzRldnBEdUx0c19BZ3RKRUpzN3JkOWxmbmtma19nU1Q0ek1VcmVWZzNVWlBCU0ZoeXVhMWJhQlQ4Z00wYVhTSHJvZ2YxSl9zaVo4MkJGa2MzZUdib041a2xGRWFJOFE?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-10T07:00:00.000Z"
-      },
-      {
-        "title": "La guía del mes: eventos de arte, cultura y gastronomía que no puedes perderte - Revista COSAS",
-        "summary": "La guía del mes: eventos de arte, cultura y gastronomía que no puedes perderte &nbsp;&nbsp; Revista COSAS",
-        "source": "Revista COSAS",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdTRLc3FjYWRmLXloOERIYUVyT3Y0TC1PbTJPZlBVQnhXRmhHSk1FbjlzQlpINHhXTDNVcTFhd0dFZF9FZ0RVS3Fvdk9ZTUtCYTlBOV9pcnNpNDd5eExCTXFHSS12aFByeXBPdjVpdHhtQUlodGp0b1N0a0dpZmZxczg0dTFVTVpuWWJNcnNNMFJJNkk3dHUxUTEzYVg4SlHSAaQBQVVfeXFMT1BFS2FOb3dqdHBGSDJ2X0k5V2I0RC03cVR4ME9IUTJ4YWJzd3BWLVRlSG1KVzlTdTlYX3F1U3l1dHFpM09RUE91blVOWU9LQzdXMUxhUXpnZkxuZ1hSbEE2c0o5LTN6QkdTa0JhMmh0eDNyM0lrcG50Rm9NR3RrVWJndUZxMmRMMjdtRmhubUg1U05yU0ZLSUQ4THpTQmdscTFHQ0g?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-07T07:00:00.000Z"
       }
     ]
   },
