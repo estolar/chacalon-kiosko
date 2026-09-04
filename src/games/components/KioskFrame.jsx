@@ -101,7 +101,7 @@ export default function KioskFrame({ context, children, onOpenNews }) {
   const rightItems = getRackItems(context, RACK_CATEGORIES.slice(2), usedNewsKeys);
 
   return (
-    <section className="kiosk-frame" aria-label="Kiosko de Chacalón">
+    <section className="kiosk-frame" aria-label="El Kiosko de Chacalón">
       <img
         className="kiosk-scene-layer kiosk-scene-layer--interior"
         src={kioskPanorama}
@@ -120,7 +120,7 @@ export default function KioskFrame({ context, children, onOpenNews }) {
       <header className="kiosk-sign">
         <div className="kiosk-sign__identity">
           <span className="kiosk-sign__lights" aria-hidden="true">✦ ✦ ✦</span>
-          <h1>KIOSKO DE CHACALÓN</h1>
+          <h1>El Kiosko de Chacalón</h1>
           <p>DIARIOS · REVISTAS · NOTICIAS · BUENA CONVERSA</p>
           <a className="kiosk-sign__admin-link" href={ADMIN_NEWS_URL}>Administrar noticias</a>
         </div>

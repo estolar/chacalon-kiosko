@@ -2354,10 +2354,14 @@ background-color: #000;
 }
 .game-shell--chacalon .kiosk-sign__lights{ color:#39734c; text-shadow:none; letter-spacing:10px; }
 .game-shell--chacalon .kiosk-sign h1{
+  font-family:"Lobster", cursive;
   color:#234f37;
-  font-size:25px;
+  font-size:clamp(30px,4vw,46px);
+  font-weight:400;
+  letter-spacing:.02em;
   margin:5px 0 8px;
-  text-shadow:1px 1px 0 rgba(255,247,218,.8);
+  text-transform:none;
+  text-shadow:2px 2px 0 rgba(255,247,218,.95),4px 4px 0 rgba(91,61,31,.28);
 }
 .game-shell--chacalon .kiosk-sign p{ color:#59452b; font-size:12px; }
 .game-shell--chacalon .kiosk-sign__admin-link{

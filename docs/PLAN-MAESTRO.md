@@ -791,6 +791,8 @@ El directorio `/chacalon/` continuará sirviendo la aplicación anterior. No deb
 
 - Diseñar wireframes.
 - Crear kiosco, calle y cerros.
+- Rediseñar el letrero principal inspirado en la gráfica chicha del afiche de referencia: fondo oscuro, colores neón, lettering protagonista y composición propia.
+- Integrar el reproductor de música dentro del letrero, reemplazando las ondas decorativas del diseño por el visualizador real que emite el reproductor.
 - Crear sprites de espera, acomodo, limpieza, atención y conversación.
 - Integrar chat y radio.
 - Implementar máquina de estados.
