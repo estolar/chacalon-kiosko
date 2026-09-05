@@ -15,6 +15,17 @@ $env:REACT_APP_SITE_URL = "https://enriquestolar.com/chacalon-lab"
 npm run build
 ```
 
+Para probar solamente la pantalla de acceso en localhost, sin usar credenciales de producción:
+
+```powershell
+$env:REACT_APP_ADMIN_AUTH = "local"
+$env:REACT_APP_ADMIN_USERNAME = "admin"
+$env:REACT_APP_ADMIN_PASSWORD = "chacalon-local"
+npm start
+```
+
+Ese modo es una simulación visual del login y guarda la sesión únicamente en `sessionStorage`; no reemplaza la autenticación PHP del hosting.
+
 Subir el contenido de `build/` dentro de:
 
 ```text

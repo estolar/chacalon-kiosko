@@ -19,6 +19,10 @@ const EMPTY_FORM = {
 const PUBLIC_BASE_URL = (process.env.PUBLIC_URL || "").replace(/\/$/, "");
 const NEWS_API_BASE_URL = process.env.NODE_ENV === "production" ? PUBLIC_BASE_URL : "";
 const IS_PRODUCTION = process.env.NODE_ENV === "production";
+const LOCAL_AUTH_ENABLED = process.env.REACT_APP_ADMIN_AUTH === "local";
+const AUTH_REQUIRED = IS_PRODUCTION || LOCAL_AUTH_ENABLED;
+const LOCAL_ADMIN_USERNAME = process.env.REACT_APP_ADMIN_USERNAME || "admin";
+const LOCAL_ADMIN_PASSWORD = process.env.REACT_APP_ADMIN_PASSWORD || "chacalon-local";
 const ADMIN_SESSION_API_URL = process.env.REACT_APP_ADMIN_SESSION_API_URL || `${NEWS_API_BASE_URL}/api/admin/session.php`;
 const ADMIN_LOGIN_API_URL = process.env.REACT_APP_ADMIN_LOGIN_API_URL || `${NEWS_API_BASE_URL}/api/admin/login.php`;
 const ADMIN_LOGOUT_API_URL = process.env.REACT_APP_ADMIN_LOGOUT_API_URL || `${NEWS_API_BASE_URL}/api/admin/logout.php`;
@@ -46,7 +50,7 @@ async function fetchServerItems(token) {
 }
 
 export default function NewsAdmin() {
-  const [items, setItems] = useState(IS_PRODUCTION ? [] : loadManualNews);
+  const [items, setItems] = useState(AUTH_REQUIRED ? [] : loadManualNews);
   const [form, setForm] = useState(EMPTY_FORM);
   const [editingId, setEditingId] = useState(null);
   const [notice, setNotice] = useState("");
@@ -55,7 +59,7 @@ export default function NewsAdmin() {
   const [importErrors, setImportErrors] = useState([]);
   const [imageStatus, setImageStatus] = useState({});
   const [generatingImageId, setGeneratingImageId] = useState(null);
-  const [authState, setAuthState] = useState(IS_PRODUCTION ? "checking" : "local");
+  const [authState, setAuthState] = useState(AUTH_REQUIRED ? "checking" : "local");
   const [authError, setAuthError] = useState("");
   const [csrfToken, setCsrfToken] = useState("");
   const [username, setUsername] = useState("");
@@ -67,6 +71,14 @@ export default function NewsAdmin() {
   useEffect(() => {
     let active = true;
     async function initialize() {
+      if (LOCAL_AUTH_ENABLED) {
+        const localSession = window.sessionStorage.getItem("chacalon-admin-local-session");
+        if (active) {
+          setAuthState(localSession ? "authenticated" : "unauthenticated");
+          if (localSession) setItems(loadManualNews());
+        }
+        return;
+      }
       if (IS_PRODUCTION) {
         try {
           const sessionResponse = await fetch(ADMIN_SESSION_API_URL, { cache: "no-store", credentials: "same-origin" });
@@ -121,6 +133,16 @@ export default function NewsAdmin() {
     setIsLoggingIn(true);
     setAuthError("");
     try {
+      if (LOCAL_AUTH_ENABLED) {
+        if (username !== LOCAL_ADMIN_USERNAME || password !== LOCAL_ADMIN_PASSWORD) {
+          throw new Error("Usuario o contraseña incorrectos.");
+        }
+        window.sessionStorage.setItem("chacalon-admin-local-session", "active");
+        setPassword("");
+        setAuthState("authenticated");
+        setItems(loadManualNews());
+        return;
+      }
       const response = await fetch(ADMIN_LOGIN_API_URL, {
         method: "POST",
         credentials: "same-origin",
@@ -142,6 +164,12 @@ export default function NewsAdmin() {
   }
 
   async function handleLogout() {
+    if (LOCAL_AUTH_ENABLED) {
+      window.sessionStorage.removeItem("chacalon-admin-local-session");
+      setAuthState("unauthenticated");
+      setItems([]);
+      return;
+    }
     try {
       await fetch(ADMIN_LOGOUT_API_URL, {
         method: "POST",
@@ -158,6 +186,10 @@ export default function NewsAdmin() {
   async function persistItems(nextItems, successMessage) {
     const normalized = saveManualNews(nextItems);
     setItems(normalized);
+    if (LOCAL_AUTH_ENABLED) {
+      if (successMessage) setNotice(`${successMessage} (modo local)`);
+      return normalized;
+    }
     if (IS_PRODUCTION && authState !== "authenticated") {
       setNotice("Inicia sesión para guardar cambios en el servidor.");
       return normalized;
@@ -322,7 +354,7 @@ export default function NewsAdmin() {
     }
   }
 
-  if (IS_PRODUCTION && authState !== "authenticated") {
+  if (AUTH_REQUIRED && authState !== "authenticated") {
     return (
       <main className="news-admin-page">
         <section className="news-admin news-admin--auth" aria-labelledby="news-admin-auth-title">
@@ -330,7 +362,7 @@ export default function NewsAdmin() {
             <div>
               <p className="news-admin__eyebrow">KIOSKO DE CHACALÓN · ACCESO RESTRINGIDO</p>
               <h1 id="news-admin-auth-title">Administrador de noticias</h1>
-              <p>Inicia sesión para importar, editar y publicar noticias.</p>
+              <p>{LOCAL_AUTH_ENABLED ? "Modo local de prueba: inicia sesión para revisar el flujo del administrador." : "Inicia sesión para importar, editar y publicar noticias."}</p>
             </div>
             <Link className="news-admin__back" to="/">Volver al kiosko</Link>
           </header>
@@ -366,7 +398,7 @@ export default function NewsAdmin() {
             </p>
           </div>
           <div className="news-admin__header-actions">
-            {IS_PRODUCTION && <button className="news-admin__back" type="button" onClick={handleLogout}>Cerrar sesión</button>}
+            {AUTH_REQUIRED && <button className="news-admin__back" type="button" onClick={handleLogout}>Cerrar sesión</button>}
             <Link className="news-admin__back" to="/">Volver al kiosko</Link>
           </div>
         </header>
