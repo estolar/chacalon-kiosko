@@ -1,0 +1,5 @@
+RewriteEngine On
+
+# El archivo compartido solo se incluye desde PHP; nunca debe descargarse.
+RewriteRule ^_bootstrap\.php$ - [F,L]
+

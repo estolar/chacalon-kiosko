@@ -807,7 +807,9 @@ El directorio `/chacalon/` continuará sirviendo la aplicación anterior. No deb
 
 ### Fase 5 — Panel editorial
 
-- Login administrativo.
+- Login administrativo (primera etapa implementada en `feature/admin-security`).
+- Sesión con cookie HttpOnly, expiración y límite básico de intentos.
+- CSRF para las operaciones de escritura.
 - Importación segura por URL.
 - Borrador con IA.
 - Edición y aprobación.

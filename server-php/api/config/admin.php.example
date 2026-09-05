@@ -1,0 +1,9 @@
+<?php
+
+// Copia este archivo como admin.php en el servidor y reemplaza el hash.
+// Genera el hash una sola vez con: php -r "echo password_hash('TU_CONTRASEÑA', PASSWORD_DEFAULT), PHP_EOL;"
+return [
+    'username' => 'admin',
+    'passwordHash' => 'REEMPLAZAR_CON_UN_HASH_DE_PASSWORD_HASH',
+];
+

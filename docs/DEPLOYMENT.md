@@ -23,6 +23,23 @@ Subir el contenido de `build/` dentro de:
 
 La carpeta debe conservar `.htaccess`, `index.html`, `manifest.json`, `static/`, `images/`, `audio/` y `data/`.
 
+## Administrador de noticias
+
+La lectura de noticias del kiosko es pública, pero el administrador requiere sesión para importar, guardar, reordenar, eliminar o generar imágenes.
+
+1. Sube el contenido de `server-php/api/` dentro de la carpeta `api/` de la instalación, conservando `admin/`, `news/`, `ai/`, `config/` y `data/`.
+2. En el hosting copia `api/config/admin.php.example` como `api/config/admin.php`.
+3. Genera un hash de contraseña en una terminal con PHP:
+
+   ```powershell
+   php -r "echo password_hash('TU_CONTRASEÑA', PASSWORD_DEFAULT), PHP_EOL;"
+   ```
+
+4. Coloca el usuario y el hash generado en `api/config/admin.php`. No subas ese archivo a Git ni lo incluyas en un ZIP público.
+5. Verifica que `api/config/.htaccess` y `api/data/.htaccess` sigan presentes; evitan descargar configuración y datos.
+
+La sesión usa cookie `HttpOnly`, `SameSite=Lax`, vencimiento de 12 horas y token CSRF en las operaciones de escritura. Si no existe `admin.php`, el panel no permite operar y muestra que falta configuración.
+
 ## Producción nueva
 
 La compilación de producción utilizará la misma fuente, cambiando únicamente las variables de ruta:

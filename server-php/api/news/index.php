@@ -8,10 +8,9 @@ const ARTICLE_FETCH_TIMEOUT_SECONDS = 15;
 const MAX_ARTICLE_HTML_LENGTH = 2000000;
 const STORE_PATH = __DIR__ . '/../data/manual-news.json';
 
-header('Access-Control-Allow-Origin: *');
-header('Access-Control-Allow-Headers: Content-Type');
-header('Access-Control-Allow-Methods: GET, PUT, POST, OPTIONS');
 header('Content-Type: application/json; charset=utf-8');
+header('Cache-Control: no-store, max-age=0');
+header('X-Content-Type-Options: nosniff');
 
 function sendJson(int $statusCode, array $payload): void
 {
@@ -249,6 +248,8 @@ $body = json_decode(file_get_contents('php://input') ?: '{}', true);
 if (!is_array($body)) sendJson(400, ['error' => 'JSON inválido.']);
 
 if ($operation === 'manual' && $method === 'PUT') {
+    require_once dirname(__DIR__) . '/admin/_bootstrap.php';
+    adminRequireAuth(true);
     if (!is_array($body['items'] ?? null)) sendJson(400, ['error' => 'La lista de noticias no es válida.']);
     $items = array_values(array_filter(array_map('sanitizeNewsItem', array_slice($body['items'], 0, MAX_MANUAL_NEWS_ITEMS))));
     writeStore($items);
@@ -256,6 +257,8 @@ if ($operation === 'manual' && $method === 'PUT') {
 }
 
 if ($operation === 'import' && $method === 'POST') {
+    require_once dirname(__DIR__) . '/admin/_bootstrap.php';
+    adminRequireAuth(true);
     $urls = array_values(array_unique(array_filter(array_map('trim', is_array($body['urls'] ?? null) ? $body['urls'] : []))));
     if (!$urls) sendJson(400, ['error' => 'Pega al menos un enlace de noticia.']);
     $results = [];
