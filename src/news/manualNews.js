@@ -7,6 +7,12 @@ export const NEWS_CATEGORIES = [
   ["cultura", "Cultura"],
 ];
 
+export const NEWS_STATUSES = [
+  ["published", "Publicada"],
+  ["draft", "Borrador"],
+  ["archived", "Archivada"],
+];
+
 // Estas portadas conservan la selección editorial que estaba visible antes
 // de que el contexto automático se actualizara.
 export const DEFAULT_MANUAL_NEWS = [
@@ -134,6 +140,7 @@ function normalizeNewsItem(item, index = 0) {
     publishedAt: cleanText(item.publishedAt, new Date().toISOString()),
     priority: Number.isFinite(Number(item.priority)) ? Number(item.priority) : 0,
     active: item.active !== false,
+    status: NEWS_STATUSES.some(([status]) => status === item.status) ? item.status : "published",
     isManual: true,
   };
 }
@@ -179,7 +186,7 @@ function newsKey(item) {
 export function mergeManualNewsIntoContext(context, manualNews = loadManualNews()) {
   if (!context || typeof context !== "object") return context;
 
-  const activeManual = sortManualNews(manualNews.filter((item) => item.active !== false));
+  const activeManual = sortManualNews(manualNews.filter((item) => item.active !== false && item.status !== "draft" && item.status !== "archived"));
   const manualKeys = new Set(activeManual.map(newsKey));
   const categories = { ...(context.topics || {}) };
 

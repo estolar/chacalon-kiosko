@@ -2,9 +2,29 @@ import React, { useEffect, useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import {
   NEWS_CATEGORIES,
+  NEWS_STATUSES,
   loadManualNews,
   saveManualNews,
 } from "../news/manualNews";
+
+function toDateTimeLocal(value) {
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return "";
+  const timezoneOffset = date.getTimezoneOffset() * 60000;
+  return new Date(date.getTime() - timezoneOffset).toISOString().slice(0, 16);
+}
+
+function fromDateTimeLocal(value) {
+  const date = new Date(value);
+  return Number.isNaN(date.getTime()) ? new Date().toISOString() : date.toISOString();
+}
+
+function formatPublishedAt(value) {
+  const date = new Date(value);
+  return Number.isNaN(date.getTime())
+    ? "Fecha no disponible"
+    : new Intl.DateTimeFormat("es-PE", { dateStyle: "short", timeStyle: "short" }).format(date);
+}
 
 const EMPTY_FORM = {
   title: "",
@@ -14,10 +34,20 @@ const EMPTY_FORM = {
   image: "",
   url: "",
   priority: 50,
+  publishedAt: toDateTimeLocal(new Date()),
+  status: "published",
   active: true,
 };
 const PUBLIC_BASE_URL = (process.env.PUBLIC_URL || "").replace(/\/$/, "");
 const NEWS_API_BASE_URL = process.env.NODE_ENV === "production" ? PUBLIC_BASE_URL : "";
+const IS_PRODUCTION = process.env.NODE_ENV === "production";
+const LOCAL_AUTH_ENABLED = process.env.REACT_APP_ADMIN_AUTH === "local";
+const AUTH_REQUIRED = IS_PRODUCTION || LOCAL_AUTH_ENABLED;
+const LOCAL_ADMIN_USERNAME = process.env.REACT_APP_ADMIN_USERNAME || "admin";
+const LOCAL_ADMIN_PASSWORD = process.env.REACT_APP_ADMIN_PASSWORD || "chacalon-local";
+const ADMIN_SESSION_API_URL = process.env.REACT_APP_ADMIN_SESSION_API_URL || `${NEWS_API_BASE_URL}/api/admin/session.php`;
+const ADMIN_LOGIN_API_URL = process.env.REACT_APP_ADMIN_LOGIN_API_URL || `${NEWS_API_BASE_URL}/api/admin/login.php`;
+const ADMIN_LOGOUT_API_URL = process.env.REACT_APP_ADMIN_LOGOUT_API_URL || `${NEWS_API_BASE_URL}/api/admin/logout.php`;
 const NEWS_IMPORT_API_URL = process.env.REACT_APP_NEWS_IMPORT_API_URL || `${NEWS_API_BASE_URL}/api/news/import`;
 const NEWS_MANUAL_API_URL = process.env.REACT_APP_NEWS_MANUAL_API_URL || `${NEWS_API_BASE_URL}/api/news/manual`;
 const NEWS_GENERATE_IMAGE_API_URL = process.env.REACT_APP_NEWS_GENERATE_IMAGE_API_URL || `${NEWS_API_BASE_URL}/api/news/generate-image`;
@@ -25,8 +55,24 @@ const NEWS_GENERATE_IMAGE_API_URL = process.env.REACT_APP_NEWS_GENERATE_IMAGE_AP
 function createId() {
   return `manual-news-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
 }
+
+async function fetchServerItems(token) {
+  const response = await fetch(NEWS_MANUAL_API_URL, {
+    cache: "no-store",
+    credentials: "same-origin",
+    headers: token ? { "X-CSRF-Token": token } : {},
+  });
+  const payload = await response.json().catch(() => ({}));
+  if (!response.ok || !Array.isArray(payload.items)) {
+    const error = new Error(payload.error || "No se pudieron cargar las noticias.");
+    error.status = response.status;
+    throw error;
+  }
+  return payload.items;
+}
+
 export default function NewsAdmin() {
-  const [items, setItems] = useState(loadManualNews);
+  const [items, setItems] = useState(AUTH_REQUIRED ? [] : loadManualNews);
   const [form, setForm] = useState(EMPTY_FORM);
   const [editingId, setEditingId] = useState(null);
   const [notice, setNotice] = useState("");
@@ -35,37 +81,157 @@ export default function NewsAdmin() {
   const [importErrors, setImportErrors] = useState([]);
   const [imageStatus, setImageStatus] = useState({});
   const [generatingImageId, setGeneratingImageId] = useState(null);
+  const [authState, setAuthState] = useState(AUTH_REQUIRED ? "checking" : "local");
+  const [authError, setAuthError] = useState("");
+  const [csrfToken, setCsrfToken] = useState("");
+  const [username, setUsername] = useState("");
+  const [password, setPassword] = useState("");
+  const [isLoggingIn, setIsLoggingIn] = useState(false);
 
   const categoryLabels = useMemo(() => Object.fromEntries(NEWS_CATEGORIES), []);
 
   useEffect(() => {
     let active = true;
-    fetch(NEWS_MANUAL_API_URL, { cache: "no-store" })
-      .then((response) => (response.ok ? response.json() : null))
-      .then((payload) => {
+    async function initialize() {
+      if (LOCAL_AUTH_ENABLED) {
+        const localSession = window.sessionStorage.getItem("chacalon-admin-local-session");
+        if (active) {
+          setAuthState(localSession ? "authenticated" : "unauthenticated");
+          if (localSession) setItems(loadManualNews());
+        }
+        return;
+      }
+      if (IS_PRODUCTION) {
+        try {
+          const sessionResponse = await fetch(ADMIN_SESSION_API_URL, { cache: "no-store", credentials: "same-origin" });
+          const sessionPayload = await sessionResponse.json().catch(() => ({}));
+          if (sessionResponse.status === 401) {
+            if (active) setAuthState("unauthenticated");
+            return;
+          }
+          if (!sessionResponse.ok || !sessionPayload.csrfToken) {
+            throw new Error(sessionPayload.error || "No se pudo comprobar la sesión administrativa.");
+          }
+          if (active) {
+            setCsrfToken(sessionPayload.csrfToken);
+            setAuthState("authenticated");
+          }
+          const serverItems = await fetchServerItems(sessionPayload.csrfToken);
+          if (active) setItems(saveManualNews(serverItems));
+        } catch (error) {
+          if (active) {
+            if (error.status === 401) {
+              setAuthState("unauthenticated");
+            } else {
+              setAuthError(error.message);
+              setAuthState("error");
+            }
+          }
+        }
+        return;
+      }
+
+      try {
+        const response = await fetch(NEWS_MANUAL_API_URL, { cache: "no-store" });
+        const payload = response.ok ? await response.json() : null;
         if (active && Array.isArray(payload?.items)) setItems(saveManualNews(payload.items));
-      })
-      .catch(() => {
+      } catch {
         // El administrador conserva la copia local si el proxy todavía no está levantado.
-      });
+      }
+    }
+    initialize();
     return () => { active = false; };
   }, []);
+
+  function protectedHeaders() {
+    return {
+      "Content-Type": "application/json",
+      ...(IS_PRODUCTION && csrfToken ? { "X-CSRF-Token": csrfToken } : {}),
+    };
+  }
+
+  async function handleLogin(event) {
+    event.preventDefault();
+    setIsLoggingIn(true);
+    setAuthError("");
+    try {
+      if (LOCAL_AUTH_ENABLED) {
+        if (username !== LOCAL_ADMIN_USERNAME || password !== LOCAL_ADMIN_PASSWORD) {
+          throw new Error("Usuario o contraseña incorrectos.");
+        }
+        window.sessionStorage.setItem("chacalon-admin-local-session", "active");
+        setPassword("");
+        setAuthState("authenticated");
+        setItems(loadManualNews());
+        return;
+      }
+      const response = await fetch(ADMIN_LOGIN_API_URL, {
+        method: "POST",
+        credentials: "same-origin",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ username, password }),
+      });
+      const payload = await response.json().catch(() => ({}));
+      if (!response.ok || !payload.csrfToken) throw new Error(payload.error || "No se pudo iniciar sesión.");
+      setCsrfToken(payload.csrfToken);
+      setPassword("");
+      setAuthState("authenticated");
+      setItems(saveManualNews(await fetchServerItems(payload.csrfToken)));
+    } catch (error) {
+      setAuthError(error.message);
+      setAuthState("unauthenticated");
+    } finally {
+      setIsLoggingIn(false);
+    }
+  }
+
+  async function handleLogout() {
+    if (LOCAL_AUTH_ENABLED) {
+      window.sessionStorage.removeItem("chacalon-admin-local-session");
+      setAuthState("unauthenticated");
+      setItems([]);
+      return;
+    }
+    try {
+      await fetch(ADMIN_LOGOUT_API_URL, {
+        method: "POST",
+        credentials: "same-origin",
+        headers: protectedHeaders(),
+      });
+    } finally {
+      setCsrfToken("");
+      setAuthState("unauthenticated");
+      setItems([]);
+    }
+  }
 
   async function persistItems(nextItems, successMessage) {
     const normalized = saveManualNews(nextItems);
     setItems(normalized);
+    if (LOCAL_AUTH_ENABLED) {
+      if (successMessage) setNotice(`${successMessage} (modo local)`);
+      return normalized;
+    }
+    if (IS_PRODUCTION && authState !== "authenticated") {
+      setNotice("Inicia sesión para guardar cambios en el servidor.");
+      return normalized;
+    }
     try {
       const response = await fetch(NEWS_MANUAL_API_URL, {
         method: "PUT",
-        headers: { "Content-Type": "application/json" },
+        credentials: "same-origin",
+        headers: protectedHeaders(),
         body: JSON.stringify({ items: normalized }),
       });
       const payload = await response.json().catch(() => ({}));
+      if (response.status === 401) setAuthState("unauthenticated");
       if (!response.ok) throw new Error(payload.error || "No se pudo guardar en el servidor.");
       if (Array.isArray(payload.items)) setItems(saveManualNews(payload.items));
       if (successMessage) setNotice(successMessage);
     } catch (error) {
-      setNotice(`${successMessage || "Cambios guardados localmente."} ${error.message} Se conservaron en este navegador.`);
+      setNotice(IS_PRODUCTION
+        ? error.message
+        : `${successMessage || "Cambios guardados localmente."} ${error.message} Se conservaron en este navegador.`);
     }
     return normalized;
   }
@@ -76,7 +242,7 @@ export default function NewsAdmin() {
   }
 
   function resetForm() {
-    setForm(EMPTY_FORM);
+    setForm({ ...EMPTY_FORM, publishedAt: toDateTimeLocal(new Date()) });
     setEditingId(null);
   }
 
@@ -94,10 +260,12 @@ export default function NewsAdmin() {
     try {
       const response = await fetch(NEWS_IMPORT_API_URL, {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        credentials: "same-origin",
+        headers: protectedHeaders(),
         body: JSON.stringify({ urls }),
       });
       const payload = await response.json().catch(() => ({}));
+      if (response.status === 401) setAuthState("unauthenticated");
       if (!response.ok && !payload.items?.length) {
         throw new Error(payload.error || "No se pudieron importar las noticias.");
       }
@@ -126,7 +294,8 @@ export default function NewsAdmin() {
       ...form,
       id: editingId || createId(),
       priority: Number(form.priority) || 0,
-      publishedAt: new Date().toISOString(),
+      publishedAt: fromDateTimeLocal(form.publishedAt),
+      status: form.status,
       isManual: true,
     };
     const nextItems = editingId
@@ -147,6 +316,8 @@ export default function NewsAdmin() {
       image: item.image || "",
       url: item.url || "",
       priority: item.priority ?? 0,
+      publishedAt: toDateTimeLocal(item.publishedAt || new Date()),
+      status: item.status || "published",
       active: item.active !== false,
     });
     setNotice("");
@@ -180,7 +351,8 @@ export default function NewsAdmin() {
     try {
       const response = await fetch(NEWS_GENERATE_IMAGE_API_URL, {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        credentials: "same-origin",
+        headers: protectedHeaders(),
         body: JSON.stringify({
           title: item.title,
           summary: item.summary,
@@ -190,6 +362,7 @@ export default function NewsAdmin() {
         }),
       });
       const payload = await response.json().catch(() => ({}));
+      if (response.status === 401) setAuthState("unauthenticated");
       if (!response.ok || !payload.image) {
         throw new Error(payload.detail || payload.error || "El servidor no devolvió una imagen.");
       }
@@ -206,6 +379,38 @@ export default function NewsAdmin() {
     }
   }
 
+  if (AUTH_REQUIRED && authState !== "authenticated") {
+    return (
+      <main className="news-admin-page">
+        <section className="news-admin news-admin--auth" aria-labelledby="news-admin-auth-title">
+          <header className="news-admin__header">
+            <div>
+              <p className="news-admin__eyebrow">KIOSKO DE CHACALÓN · ACCESO RESTRINGIDO</p>
+              <h1 id="news-admin-auth-title">Administrador de noticias</h1>
+              <p>{LOCAL_AUTH_ENABLED ? "Modo local de prueba: inicia sesión para revisar el flujo del administrador." : "Inicia sesión para importar, editar y publicar noticias."}</p>
+            </div>
+            <Link className="news-admin__back" to="/">Volver al kiosko</Link>
+          </header>
+          {authState === "checking" && <p className="news-admin__notice news-admin__notice--block">Comprobando sesión...</p>}
+          {authState === "error" && (
+            <div className="news-admin__auth-message" role="alert">
+              <p>{authError}</p>
+              <button className="news-admin__submit" type="button" onClick={() => window.location.reload()}>Reintentar</button>
+            </div>
+          )}
+          {authState === "unauthenticated" && (
+            <form className="news-admin__login" onSubmit={handleLogin}>
+              <label>Usuario<input value={username} onChange={(event) => setUsername(event.target.value)} autoComplete="username" required /></label>
+              <label>Contraseña<input type="password" value={password} onChange={(event) => setPassword(event.target.value)} autoComplete="current-password" required /></label>
+              {authError && <p className="news-admin__auth-error" role="alert">{authError}</p>}
+              <button className="news-admin__submit" type="submit" disabled={isLoggingIn}>{isLoggingIn ? "ENTRANDO..." : "INICIAR SESIÓN"}</button>
+            </form>
+          )}
+        </section>
+      </main>
+    );
+  }
+
   return (
     <main className="news-admin-page">
       <section className="news-admin" aria-labelledby="news-admin-title">
@@ -217,7 +422,10 @@ export default function NewsAdmin() {
               Las noticias manuales aparecen primero. Google News completa los espacios que queden libres.
             </p>
           </div>
-          <Link className="news-admin__back" to="/">Volver al kiosko</Link>
+          <div className="news-admin__header-actions">
+            {AUTH_REQUIRED && <button className="news-admin__back" type="button" onClick={handleLogout}>Cerrar sesión</button>}
+            <Link className="news-admin__back" to="/">Volver al kiosko</Link>
+          </div>
         </header>
 
         <form className="news-admin__importer" onSubmit={handleImport}>
@@ -267,6 +475,16 @@ export default function NewsAdmin() {
               Prioridad
               <input name="priority" type="number" min="0" max="999" value={form.priority} onChange={updateField} />
             </label>
+            <label>
+              Fecha de publicación
+              <input name="publishedAt" type="datetime-local" value={form.publishedAt} onChange={updateField} />
+            </label>
+            <label>
+              Estado editorial
+              <select name="status" value={form.status} onChange={updateField}>
+                {NEWS_STATUSES.map(([value, label]) => <option key={value} value={value}>{label}</option>)}
+              </select>
+            </label>
             <label className="news-admin__wide">
               Resumen
               <textarea name="summary" value={form.summary} onChange={updateField} rows="3" placeholder="Texto breve para el detalle de la noticia" />
@@ -298,7 +516,7 @@ export default function NewsAdmin() {
           ) : (
             <ol>
               {items.map((item, index) => (
-                <li className={`news-admin__item ${item.active === false ? "is-disabled" : ""}`} key={item.id}>
+                  <li className={`news-admin__item ${item.active === false || item.status !== "published" ? "is-disabled" : ""}`} key={item.id}>
                   <div className="news-admin__item-order">
                     <button type="button" onClick={() => moveItem(item, -1)} disabled={index === 0} aria-label={`Subir ${item.title}`}>↑</button>
                     <strong>{item.priority}</strong>
@@ -318,7 +536,7 @@ export default function NewsAdmin() {
                       <span className="news-admin__image-missing">SIN IMAGEN</span>
                     )}
                     <strong>{item.title}</strong>
-                    <span>{item.source} · {categoryLabels[item.category] || "Política"}{item.active === false ? " · OCULTA" : ""}{imageStatus[item.id] === "error" ? " · IMAGEN NO DISPONIBLE" : ""}</span>
+                    <span>{item.source} · {categoryLabels[item.category] || "Política"} · {NEWS_STATUSES.find(([status]) => status === item.status)?.[1] || "Publicada"} · {formatPublishedAt(item.publishedAt)}{item.active === false ? " · OCULTA" : ""}{imageStatus[item.id] === "error" ? " · IMAGEN NO DISPONIBLE" : ""}</span>
                   </div>
                   <div className="news-admin__item-actions">
                     {(!item.image || imageStatus[item.id] === "error") && (

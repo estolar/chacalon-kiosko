@@ -63,9 +63,10 @@ La experiencia incluye temporalmente `public/audio/caballito-pixelado-45s-test.m
 No necesitamos contratar la instancia Node.js. El Node (`server/aiProxy.js`) queda para desarrollo local y el hosting usa el endpoint PHP de `server-php/`.
 
 1. Genera el frontend con `npm run build` y sube el contenido de `build/` a la carpeta pública de `/chacalon/`.
-2. Sube `server-php/api/ai/chat.php` a `/chacalon/api/ai/chat.php`.
+2. Sube el contenido de `server-php/api/` a `/chacalon/api/`, conservando especialmente `admin/`, `news/`, `ai/`, `config/` y `data/`.
 3. Copia `server-php/api/config/gemini.php.example` como `api/config/gemini.php` en el hosting y completa allí `apiKey`. Ese archivo está excluido de Git y protegido por `.htaccess`.
-4. Antes de compilar para producción, configura la ruta PHP:
+4. Copia `server-php/api/config/admin.php.example` como `api/config/admin.php` y completa el usuario y el hash de contraseña. Genera el hash con `php -r "echo password_hash('TU_CONTRASEÑA', PASSWORD_DEFAULT), PHP_EOL;"`; ese archivo también está excluido de Git.
+5. Antes de compilar para producción, configura la ruta PHP:
 
    ```powershell
    $env:REACT_APP_AI_API_PATH="/chacalon/api/ai/chat.php"

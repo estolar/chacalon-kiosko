@@ -62,4 +62,16 @@ describe("manualNews", () => {
     expect(merged.topics.politica[1].title).toBe("Titular automático");
     expect(merged.topics.politica[1].isManual).toBe(false);
   });
+
+  test("no publica borradores ni noticias archivadas en el kiosko", () => {
+    const context = { topics: { politica: [{ title: "Automática", source: "Google News", url: "https://auto.test" }] } };
+    const manual = [
+      { id: "draft", title: "Borrador", source: "Redacción", category: "politica", status: "draft", active: true, priority: 100 },
+      { id: "archived", title: "Archivada", source: "Redacción", category: "politica", status: "archived", active: true, priority: 90 },
+    ];
+
+    const merged = mergeManualNewsIntoContext(context, manual);
+
+    expect(merged.topics.politica.map((item) => item.title)).toEqual(["Automática"]);
+  });
 });
