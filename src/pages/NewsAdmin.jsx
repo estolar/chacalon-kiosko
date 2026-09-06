@@ -2,9 +2,29 @@ import React, { useEffect, useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import {
   NEWS_CATEGORIES,
+  NEWS_STATUSES,
   loadManualNews,
   saveManualNews,
 } from "../news/manualNews";
+
+function toDateTimeLocal(value) {
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return "";
+  const timezoneOffset = date.getTimezoneOffset() * 60000;
+  return new Date(date.getTime() - timezoneOffset).toISOString().slice(0, 16);
+}
+
+function fromDateTimeLocal(value) {
+  const date = new Date(value);
+  return Number.isNaN(date.getTime()) ? new Date().toISOString() : date.toISOString();
+}
+
+function formatPublishedAt(value) {
+  const date = new Date(value);
+  return Number.isNaN(date.getTime())
+    ? "Fecha no disponible"
+    : new Intl.DateTimeFormat("es-PE", { dateStyle: "short", timeStyle: "short" }).format(date);
+}
 
 const EMPTY_FORM = {
   title: "",
@@ -14,6 +34,8 @@ const EMPTY_FORM = {
   image: "",
   url: "",
   priority: 50,
+  publishedAt: toDateTimeLocal(new Date()),
+  status: "published",
   active: true,
 };
 const PUBLIC_BASE_URL = (process.env.PUBLIC_URL || "").replace(/\/$/, "");
@@ -220,7 +242,7 @@ export default function NewsAdmin() {
   }
 
   function resetForm() {
-    setForm(EMPTY_FORM);
+    setForm({ ...EMPTY_FORM, publishedAt: toDateTimeLocal(new Date()) });
     setEditingId(null);
   }
 
@@ -272,7 +294,8 @@ export default function NewsAdmin() {
       ...form,
       id: editingId || createId(),
       priority: Number(form.priority) || 0,
-      publishedAt: new Date().toISOString(),
+      publishedAt: fromDateTimeLocal(form.publishedAt),
+      status: form.status,
       isManual: true,
     };
     const nextItems = editingId
@@ -293,6 +316,8 @@ export default function NewsAdmin() {
       image: item.image || "",
       url: item.url || "",
       priority: item.priority ?? 0,
+      publishedAt: toDateTimeLocal(item.publishedAt || new Date()),
+      status: item.status || "published",
       active: item.active !== false,
     });
     setNotice("");
@@ -450,6 +475,16 @@ export default function NewsAdmin() {
               Prioridad
               <input name="priority" type="number" min="0" max="999" value={form.priority} onChange={updateField} />
             </label>
+            <label>
+              Fecha de publicación
+              <input name="publishedAt" type="datetime-local" value={form.publishedAt} onChange={updateField} />
+            </label>
+            <label>
+              Estado editorial
+              <select name="status" value={form.status} onChange={updateField}>
+                {NEWS_STATUSES.map(([value, label]) => <option key={value} value={value}>{label}</option>)}
+              </select>
+            </label>
             <label className="news-admin__wide">
               Resumen
               <textarea name="summary" value={form.summary} onChange={updateField} rows="3" placeholder="Texto breve para el detalle de la noticia" />
@@ -481,7 +516,7 @@ export default function NewsAdmin() {
           ) : (
             <ol>
               {items.map((item, index) => (
-                <li className={`news-admin__item ${item.active === false ? "is-disabled" : ""}`} key={item.id}>
+                  <li className={`news-admin__item ${item.active === false || item.status !== "published" ? "is-disabled" : ""}`} key={item.id}>
                   <div className="news-admin__item-order">
                     <button type="button" onClick={() => moveItem(item, -1)} disabled={index === 0} aria-label={`Subir ${item.title}`}>↑</button>
                     <strong>{item.priority}</strong>
@@ -501,7 +536,7 @@ export default function NewsAdmin() {
                       <span className="news-admin__image-missing">SIN IMAGEN</span>
                     )}
                     <strong>{item.title}</strong>
-                    <span>{item.source} · {categoryLabels[item.category] || "Política"}{item.active === false ? " · OCULTA" : ""}{imageStatus[item.id] === "error" ? " · IMAGEN NO DISPONIBLE" : ""}</span>
+                    <span>{item.source} · {categoryLabels[item.category] || "Política"} · {NEWS_STATUSES.find(([status]) => status === item.status)?.[1] || "Publicada"} · {formatPublishedAt(item.publishedAt)}{item.active === false ? " · OCULTA" : ""}{imageStatus[item.id] === "error" ? " · IMAGEN NO DISPONIBLE" : ""}</span>
                   </div>
                   <div className="news-admin__item-actions">
                     {(!item.image || imageStatus[item.id] === "error") && (

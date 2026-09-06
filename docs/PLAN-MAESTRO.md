@@ -810,6 +810,7 @@ El directorio `/chacalon/` continuará sirviendo la aplicación anterior. No deb
 - Login administrativo (primera etapa implementada en `feature/admin-security`).
 - Sesión con cookie HttpOnly, expiración y límite básico de intentos.
 - CSRF para las operaciones de escritura.
+- Fecha de publicación editable y estados publicada/borrador/archivada.
 - Importación segura por URL.
 - Borrador con IA.
 - Edición y aprobación.

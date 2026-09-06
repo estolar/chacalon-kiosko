@@ -7,6 +7,7 @@ const MAX_MANUAL_NEWS_ITEMS = 60;
 const ARTICLE_FETCH_TIMEOUT_SECONDS = 15;
 const MAX_ARTICLE_HTML_LENGTH = 2000000;
 const STORE_PATH = __DIR__ . '/../data/manual-news.json';
+const NEWS_STATUSES = ['published', 'draft', 'archived'];
 
 header('Content-Type: application/json; charset=utf-8');
 header('Cache-Control: no-store, max-age=0');
@@ -220,6 +221,7 @@ function sanitizeNewsItem($item, $index = 0)
         'publishedAt' => cleanText($item['publishedAt'] ?? '', 40, gmdate('c')),
         'priority' => is_numeric($item['priority'] ?? null) ? (int) $item['priority'] : 0,
         'active' => ($item['active'] ?? true) !== false,
+        'status' => in_array($item['status'] ?? '', NEWS_STATUSES, true) ? $item['status'] : 'published',
         'isManual' => true,
     ];
 }
@@ -266,7 +268,7 @@ if ($operation === 'import' && $method === 'POST') {
     foreach (array_slice($urls, 0, MAX_NEWS_IMPORT_URLS) as $index => $url) {
         try {
             $article = generateMetadata(fetchArticle($url));
-            $results[] = array_merge($article, ['id' => 'manual-import-' . time() . '-' . $index, 'priority' => 100 - $index, 'active' => true, 'isManual' => true]);
+            $results[] = array_merge($article, ['id' => 'manual-import-' . time() . '-' . $index, 'priority' => 100 - $index, 'active' => true, 'status' => 'published', 'isManual' => true]);
         } catch (Throwable $error) {
             $errors[] = ['url' => $url, 'error' => $error->getMessage()];
         }
