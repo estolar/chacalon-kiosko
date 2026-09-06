@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T05:55:16.110Z",
+  "generatedAt": "2026-09-06T10:52:30.829Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -22,6 +22,22 @@
         "url": "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
         "image": "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
         "publishedAt": "2026-09-01T00:00:00.000Z"
+      },
+      {
+        "title": "Delegación de facultades: Estos son los tiempos y votos claves para el pedido que se define en el Congreso",
+        "summary": "Las posturas de de Renovación Popular, Partido de Buen Gobierno y Obras son claves para el oficialismo, tanto en diputados como en Senado; pero presentan objeciones en los pedidos sobre temas financieros y laborales. Proyecto del gobierno podría resolver entre finales de octubre o inicios de noviembre.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/delegacion-de-facultades-estos-son-los-tiempos-y-votos-claves-para-el-pedido-que-se-define-en-el-congreso-keiko-fujimori-senado-diputados-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/6S2FQPZ6EVE7RMTF5FRC6VT4FE.jpg?auth=e38e450c4e9857a67b165de40874f37e9f1e6b98e9de1d353728cec7a36bf347&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-06T10:45:54.000Z"
+      },
+      {
+        "title": "La feria de las facultades, una crónica de Fernando Vivas sobre el juego bicameral",
+        "summary": "La Bicameralidad tiene sus trucos. Vamos a conocer uno. Es legal, no se escandalicen.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/la-feria-de-las-facultades-una-cronica-de-fernando-vivas-sobre-el-juego-bicameral-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/HV2A2D74YVBTVJQPNFKX577RSY.jpg?auth=44978fe88ac6a037f00c35f7d581099a602861126638dcbe8a6f9b141f028ddf&smart=true&width=1200&height=647",
+        "publishedAt": "2026-09-06T10:44:33.000Z"
       },
       {
         "title": "Pier Figari y José Chlimper: ¿Cuál es la situación de las anunciadas demandas contra los que integraron el equipo fiscal Lava Jato y dos jueces?",
@@ -62,25 +78,57 @@
         "url": "https://elcomercio.pe/politica/marco-rubio-cual-es-el-impacto-y-la-relevancia-de-la-visita-del-secretario-de-estado-de-eeuu-al-peru-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/GVOLQ3SKLNEA7KOKNWWJRYNQFU.jpg?auth=54142ca20253b3e47a8296097d4ff94dafbd9e712b5ff77c1b0240a0f70b296e&smart=true&width=1200&height=647",
         "publishedAt": "2026-09-05T19:15:00.000Z"
-      },
-      {
-        "title": "Radiografía educativa de las Elecciones Regionales y Municipales 2026: Conoce el nivel de estudios y profesiones más frecuentes de los candidatos",
-        "summary": "Más de la mitad de los candidatos a distintos cargos en las elecciones municipales y regionales 2026 no tiene estudios superiores concluidos, según sus hojas de vida. La oferta electoral refleja la brecha en el acceso a la educación superior en el país.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/elecciones-municipales-2026-elecciones-regionales-2026-keiko-fujimori-fuerza-popular-rafael-lopez-aliaga-carlos-bruce-franco-vidal-onpe-jne-votaciones-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/LMHWTWX775AK5G44CFXVY5RAOY.jpeg?auth=bf21dc5594102cc50f97bdbf198a55ccc8c43a04680ab930f91f1baa5b45b7e7&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-09-05T19:10:00.000Z"
-      },
-      {
-        "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
-        "summary": "Fuerza Popular | Desde que empezó a participar en elecciones subnacionales, el fujimorismo redujo su oferta electoral en más de la mitad.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/en-16-anos-fuerza-popular-solo-ha-ganado-3-gobiernos-regionales-y-no-ha-colocado-un-solo-alcalde-en-lima-metropolitana-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/3ZQHU5EOGNH33LU7J6EN3J4QSE.jpeg?auth=05b2ba86279d4f5e8c5af8ea35780dce6caca06e15b2546119eb9e3be8b10463&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-09-05T19:09:00.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "El Niño agravaría inseguridad alimentaria, ¿qué tan vulnerable es el “bolsillo” en el Perú?",
+        "summary": "Ante un eventual impacto de El Niño sobre los precios y los ingresos, especialistas advierten que las familias podrían tener que ajustar nuevamente su consumo.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/el-nino-en-peru-agravaria-la-inseguridad-alimentaria-que-tan-vulnerable-es-el-bolsillo-de-los-hogares-peruanos-para-enfrentar-esta-situacion-noticia/",
+        "image": "https://gestion.pe/resizer/v2/JOCUBYWTDNCDRN2BRTGHVSGOFI.jpg?auth=7f3eb91846740dd42b395ff48a243e3f4030803899e7d95b1a96432a3abab0f7&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-06T10:42:00.000Z"
+      },
+      {
+        "title": "Fabricante Agrovet Market acelera en Lurín y prepara su expansión en mascotas",
+        "summary": "Agrovet Market crecerá entre 25% y 28% este año, empujado por el negocio de mascotas. Ahora planea levantar una planta en Lurín, montar un centro de I+D y entrar a una nueva categoría.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/agrovet-market-atrevia-acelera-mayor-produccion-en-lurin-y-prepara-su-expansion-en-mascotas-noticia/",
+        "image": "https://gestion.pe/resizer/v2/HHAPI5HZFFF7ZORGD3CZLOQJCY.jpg?auth=68dac435fdb6dba0a93208edbab0468cc59030fcf9d357d9b983063bde4290ee&smart=true&width=790&height=527",
+        "publishedAt": "2026-09-06T10:34:00.000Z"
+      },
+      {
+        "title": "Santa Catalina, en La Victoria, mantiene su atractivo inmobiliario: qué prepara Alcanza",
+        "summary": "La inmobiliaria del Grupo Pajuelo, que ya cuenta con 14 proyectos desarrollados en Santa Catalina, prevé iniciar la construcción de Catalina Living en 2027 y evalúa terrenos en Jesús María, Surquillo, Pueblo Libre y Surco.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/santa-catalina-en-la-victoria-mantiene-su-atractivo-inmobiliario-alcanza-inmobiliaria-duenos-de-ladrillos-fortes-noticia/",
+        "image": "https://gestion.pe/resizer/v2/6DXJUAD36ZG35NNYRTXODAP5SY.jpeg?auth=59a65ddf93b88f8244041ecb3a57230cb395d5bbf6fd8678508eadf2e8b6e23e&smart=true&width=1600&height=1129",
+        "publishedAt": "2026-09-06T10:30:00.000Z"
+      },
+      {
+        "title": "Puerto de Chancay busca carga y la Amazonía tiene el potencial: ¿qué frena el “viaje”?",
+        "summary": "El Puerto de Chancay busca aumentar su volumen de carga y la Amazonía aparece como un potencial proveedor. ¿Qué necesita primero para aprovechar esta oportunidad?",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/puerto-de-chancay-en-peru-busca-carga-y-la-amazonia-tiene-el-potencial-que-frena-el-viaje-noticia/",
+        "image": "https://gestion.pe/resizer/v2/MOJGWBHQCJE4NIXNW4IR3RW4T4.png?auth=2ccc16c80286fec24763de215a4fd443db7bd9356ced56561e8b5b7e36695b5c&smart=true&width=1395&height=926",
+        "publishedAt": "2026-09-06T10:02:00.000Z"
+      },
+      {
+        "title": "Pagos desde el extranjero: fintech compiten con la banca en costos y tiempo",
+        "summary": "Pagar a un proveedor en el extranjero o recibir el dinero de un cliente ubicado en otro país puede no requerir seguir íntegramente la ruta bancaria tradicional. La aparición de nuevas plataformas de servicios de pago incorpora alternativas para realizar operaciones internacionales, con modelos que buscan reducir alguno",
+        "source": "Gestión",
+        "url": "https://gestion.pe/tu-dinero/finanzas-personales/pagos-desde-y-para-el-extranjero-fintech-compiten-con-la-banca-en-costos-y-tiempo-noticia/",
+        "image": "https://gestion.pe/resizer/v2/NWB3LZQLVNDNZABJZPM47XZUD4.jpg?auth=7ee2f0ea62f0a48440077667f3ea9c90454faa8b11f328056f52978a03f05cfe&smart=true&width=1024&height=576",
+        "publishedAt": "2026-09-06T10:02:00.000Z"
+      },
+      {
+        "title": "Cambios Tributarios bajo análisis: pequeños negocios podrían tributar según su margen de ganancia",
+        "summary": "Vender más no necesariamente significa ganar más. Una empresa puede aumentar sus ventas, pero también sus costos de mercadería, planilla, alquiler y otros gastos, por lo que una mayor facturación no siempre se traduce en una mayor utilidad. Esta diferencia está en el centro del debate que abrió el Ministerio de Economí",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/cambios-tributarios-que-evalua-el-mefs-mypes-bodegas-pagarian-segun-su-ganancia-noticia/",
+        "image": "https://gestion.pe/resizer/v2/6BLZBOQCEJEW5LGHTJIAGOZ7NM.jpg?auth=11fe4deed0779123d7e97da61a6749a120f32c7667823b4a2fa87f8f68c2e014&smart=true&width=1264&height=843",
+        "publishedAt": "2026-09-06T06:54:00.000Z"
+      },
       {
         "title": "IA y robotización podrían cambiar el mercado laboral peruano: ¿qué prepara el MTPE?",
         "summary": "El Ministerio de Trabajo y Promoción del Empleo creó una Comisión Sectorial que tendrá como función analizar el impacto de avances tecnológicos como la inteligencia artificial, la automatización y robotización que podrían generar cambios importantes en el mercado laboral peruano.",
@@ -96,54 +144,6 @@
         "url": "https://gestion.pe/economia/peru-atrae-la-mirada-de-la-chilena-cesco-expomina-2026-sera-el-escenario-noticia/",
         "image": "https://gestion.pe/resizer/v2/GJEENOUQ7ZBF5PQIFH2AGB2YAA.jpeg?auth=a7caf0ea9386f523e801ed2649054fc1daf698f6e06fe72f9c9e034cd53941c5&smart=true&width=6722&height=5022",
         "publishedAt": "2026-09-06T03:17:48.000Z"
-      },
-      {
-        "title": "Lista de feriados 2026: Las fechas festivas y no laborales",
-        "summary": "En estas fechas, los trabajadores tienen el derecho a un día de descanso remunerado.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/peru/feriados-2026-lista-de-fechas-festivas-y-no-laborales-para-este-ano-noticia/",
-        "image": "https://gestion.pe/resizer/v2/KLW4CCYMEBHU7BAB27ZDJOLGXM.jpeg?auth=8b8afbcfe09ad46ff0ec2870095f7bb227dc93a39c374338339010fb9a2ba768&smart=true&width=1200&height=675",
-        "publishedAt": "2026-09-06T03:04:22.000Z"
-      },
-      {
-        "title": "Cambios Tributarios bajo análisis: pequeños negocios podrían tributar según su margen de ganancia",
-        "summary": "Vender más no necesariamente significa ganar más. Una empresa puede aumentar sus ventas, pero también sus costos de mercadería, planilla, alquiler y otros gastos, por lo que una mayor facturación no siempre se traduce en una mayor utilidad. Esta diferencia está en el centro del debate que abrió el Ministerio de Economí",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/cambios-tributarios-que-evalua-el-mefs-mypes-bodegas-pagarian-segun-su-ganancia-noticia/",
-        "image": "https://gestion.pe/resizer/v2/6BLZBOQCEJEW5LGHTJIAGOZ7NM.jpg?auth=11fe4deed0779123d7e97da61a6749a120f32c7667823b4a2fa87f8f68c2e014&smart=true&width=1264&height=843",
-        "publishedAt": "2026-09-06T02:53:58.000Z"
-      },
-      {
-        "title": "Premio Comunika reconoce buenas prácticas en comunicación corporativa: segunda edición",
-        "summary": "",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/premio-comunika-reconoce-buenas-practicas-en-comunicacion-corporativa-segunda-edicion-noticia/",
-        "image": "https://gestion.pe/resizer/v2/SL5CQG6ZZBHEFNXU3VAVI7JP6A.jpg?auth=8c440f7a5ad6311043dd8b5848677adb57c754349c1f6bbb353dd0830891a8c5&smart=true&width=1200&height=675",
-        "publishedAt": "2026-09-06T02:50:22.000Z"
-      },
-      {
-        "title": "Precios al alza: los productos y servicios que “movieron” el bolsillo de las familias en agosto",
-        "summary": "Pese a que la inflación anual en Lima Metropolitana llegó a su nivel más alto en casi tres años, en agosto el alza fue menor que en meses previos.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/precios-al-alza-los-productos-y-servicios-que-movieron-el-bolsillo-de-las-familias-peruanas-en-agosto-noticia/",
-        "image": "https://gestion.pe/resizer/v2/ZV6BLHDQOJFK5DVDI2LMOCMGZE.png?auth=fa4ba905692bc7c6a3a79ade557517ec97df73e67809f0fda1fa40acbda1fadb&smart=true&width=923&height=608",
-        "publishedAt": "2026-09-06T00:53:00.000Z"
-      },
-      {
-        "title": "Azucarera El Ingenio, vinculada a Corporación E. Wong, avanza en su salida de la BVL",
-        "summary": "La compañía adjudicó 24,214 acciones comunes a S/ 9.799 cada una, en el marco de una oferta pública de compra por exclusión. El monto de la operación ascendió a S/ 237,331.59, equivalente a unos US$ 70,557 al tipo de cambio referencial utilizado.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/empresa-azucarera-el-ingenio-compra-24214-de-sus-propias-acciones-por-us-70557-noticia/",
-        "image": "https://gestion.pe/resizer/v2/34F5SYTMPRGTLEJ5QBPMNWYALI.jpg?auth=2118faa204e5c7c34e412dece443a5e1b75322b130234f1df64fe2d12bda9cb1&smart=true&width=1280&height=782",
-        "publishedAt": "2026-09-05T23:52:00.000Z"
-      },
-      {
-        "title": "Terpel sale de los grifos y apuesta por lubricantes: la inversión que ejecutará en Perú",
-        "summary": "Terpel entregó a Primax su última estación de servicio en el Perú y cierra su etapa de grifos. Ahora apuesta por lubricantes, nuevos fluidos y US$ 15 millones en su planta del Callao a diez años.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/terpel-entrega-su-ultima-estacion-de-servicio-a-primax-que-negocio-hara-ahora-en-peru-noticia/",
-        "image": "https://gestion.pe/resizer/v2/563VFPJHORGBRA32WYNHPIDLRM.jpeg?auth=567bec5b4a4a3dd8ea5b88dbefeb59692e1dcaebd7c7f69df385ca0c0b800994&smart=true&width=2000&height=1334",
-        "publishedAt": "2026-09-05T22:43:00.000Z"
       }
     ],
     "sociedad": [
@@ -164,20 +164,12 @@
         "publishedAt": "2026-09-03T16:27:00.000Z"
       },
       {
-        "title": "Luis Galarreta: Presupuesto 2027 priorizará seguridad, educación, salud y transporte - Canal N",
-        "summary": "Luis Galarreta: Presupuesto 2027 priorizará seguridad, educación, salud y transporte &nbsp;&nbsp; Canal N",
-        "source": "Canal N",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTFRsX3RBVDlNbFlScDFtVDJuUTVReWc5X1hJNUp2OHVJcUx2Zm5GVnRxcG02YnZzQ0lWZmRJcDVOc2hLV2w2Z29MQ2lBMExLTGFxSFBDYUNVWjRtTndKQ2lHVXROOWVhRTF2dHFYUi1XSzFTdlJiaG82VEc4T1dwOS1hQnJtR2pNVVU1TzhPejM0eTJqa0tPdEY2OHFmYm1QbVBwdEJXN0wxSnkxMFpoNVJpMVVsWl9xRWY4?oc=5",
+        "title": "Luis Galarreta: “El Perú no necesita un Estado más grande, necesita un Estado que funcione” - canaln.pe",
+        "summary": "Luis Galarreta: “El Perú no necesita un Estado más grande, necesita un Estado que funcione” &nbsp;&nbsp; canaln.pe",
+        "source": "canaln.pe",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZnRrbk9ybGMzZzJYQm9wOV91Wks1cDVEZ2xVRUVIbm1Ia19FY1dNNm1VNmxVYktPVU9mbGtxWThGc2FNZlNDd1hOYkdwelk5Y3dnVkVIX3RuU3NJXzBYc0ZmdWpKeVNuRk50Mkt1MW9KamtkWG5vQjNvZ1JYU3prYUVtLXA3SkRyaWQtMkFDSTFISlJ0d2cya2NGVFNadmRzY1QxTm83emF1OWhfYWx6aDllbzRydw?oc=5",
         "image": "",
-        "publishedAt": "2026-09-03T15:55:55.000Z"
-      },
-      {
-        "title": "Restricción a prestaciones de salud que propone borrador de reforma de seguridad divide al gobierno y alerta a partidos - La Tercera",
-        "summary": "Restricción a prestaciones de salud que propone borrador de reforma de seguridad divide al gobierno y alerta a partidos &nbsp;&nbsp; La Tercera",
-        "source": "La Tercera",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRlNLMFZqSDFPaXdOQTY4bDFzc0N2ejIxbGhXWUtEaWdtOWl0UTYyNE40NGxXVHBHMENXeWZ1U1dCUm1nSk1sZV9QenRKTVhFU0pEZlY0RXlGYzNENjVSeVFxTk4xb0VUWWdUc2dCN056bVhsbUpJVjJmcDV2Yzl3Tkw4U3EyTHJXem1BTzA1S0R1TUoxUU5JSlpyd29ySmNzdmhZS21uOWduQWFPSzJ0SmVHVmxla1BQc0JvZXdDMkxzMkZ4VE5aRFRfQlRmaEZZZXltNndLSjBfLUlyR2JmenJRVUt5TXFUb09MbVpRdkZSQWQtU2fSAZcCQVVfeXFMTmxERjV3VXNHRFpyYkh1TUo1cE1RT0Z4WG1ZTkVmOVFVTE1rMkhWS1ZmSWdOZmdCWDd2dEt1RUg2WVA2MlZvMXYtRmxlZEQxQjhsdFJ2ZmQ0cngxTEw1ZlIwb2VtcEpsZzJDVGdKTGRHUVdqQmhkcjhaQ3RrZ2lsM2RNZzZlZ29zOVdOWnZqX211R3dDb0Joa3cxcjFiZ0xHWE51VkVCV00ySWpEUmdzNXByZzFqN0tKVnJfcWdsQzg4ZXdYbnpHV09XNGlkdDRKNW1ZaVFFRWFiQnR5RnlRUF9MclJrSnhsaGktNU1id2xyNEppdVlrb2JTNlNuUUZReFlLa2Y3UktPOUtUV29zbW9iV0V0cnQ4?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-13T07:00:00.000Z"
+        "publishedAt": "2026-09-03T15:45:47.000Z"
       },
       {
         "title": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos - Agencia Andina",
@@ -210,6 +202,14 @@
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUnB3bzVxUmd0OUYtcDl1b01PcVNtVzVac18zZGpEdWxSZTVWUGxiUGY2VHZYSHE1c0VQcG11Zlg3eHZLZkctY1JFSGE2UVRTNE1jcWxiTE9rTXdabGdJUTdsQTlhN2ZKYWxXczRBUGhUYjE0LXlfZElpWTltR2FRVnBCMnZROTU1a3ZxWXZhNlFIaTZVWjlBTWJoT21Tbmd3NmhHLVJGSnlOdjBtUHZ3VGJnelJKeTJaX0hpdWJJeklIR3B1N1dfZ01iZWlFV0xrT1d2bG1mc0JWVG9rRVVkalFxZmNsRkXSAYICQVVfeXFMTVVCcVFOaGV1T3c1U1Q5cFppVFBQZ0hma1ctVDVYbzdFUlBsZ0dETG9tWk1GSWFzRk5zUEtlY3h6SDB3OGhyTUpWVG9qdEdMOVVhUUZTbEFBYS1TZmFBQWpDN2lHN0VMQWdWMnV1NHU4WGNDVlB1eGZrMXNITmxqdmx2M0tYN2lzODdGZDVJVWVUbVhZeXhYNlktV1hkTmJHS0d4NjVEcEhKOTMxUkx0STA3WDYyMWJZc0YwU09lQVlESHkweTBxSmtmZ3BvZzBIS1dlRHJtVG9tQU1sU1kwYVg0cW1pcExDSzgyUS1kMmZvbTVPNXAyX3plMWM5TXNZWE5n?oc=5",
         "image": "",
         "publishedAt": "2026-07-26T07:00:00.000Z"
+      },
+      {
+        "title": "La Libertad: Piden al nuevo Ejecutivo más empleo y seguridad - Diario Correo",
+        "summary": "La Libertad: Piden al nuevo Ejecutivo más empleo y seguridad &nbsp;&nbsp; Diario Correo",
+        "source": "Diario Correo",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVUdWWFZ0azN6ZVg2TUdyclVlRjQyTnk1bFV5aElpNV9OX3AzZGJvX0VRSnhicEUtbGZBYndqMzB2UllBaHlhZ0k4RzlTSU5DOERUN0ZxZkhlZmFhcU9RcDg4b1o1RzZGV0wwYTBLTDJXN3VpT2dpVjRLR3BmVUpUREpKWWNydC1JLWFDOFBNakp6MHF1R2ZtSXA4VTlTMWtkRlk2c1pKZ3hXZmNVSm9OcmxRQy1CUG90MVJWbjBfdmdWNHdl0gHYAUFVX3lxTE5UbVZCUUpheWt2YVBtMldYSGNqUlVIcEhLVkVvZG5CdXBhNmpYZUNJOFlsVDN2SThkdUNjNGlXNXROVkNlOUdHbHF1Uks5bWlsb3lrX2FOZFRYY05ROWd1YTVxQTNJSGpjNTI0MkJvNmtadFlYN1kwN1AtVk8xQXItd05qdWtRaE5QSXR1S1FIdC1Dc0xQTFlZckpFWFplYXl3UEh0bXc4eExUd2I0cXIxazdoRHFnZVF4UlZrVUdQYkczSkp1S25DNmhzNmp1aHV6T1o4QmtSUg?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-07T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -346,6 +346,14 @@
     ],
     "ia": [
       {
+        "title": "Ministerio de Trabajo analizará impacto de la IA en el empleo y en los derechos de los trabajadores - Infobae",
+        "summary": "Ministerio de Trabajo analizará impacto de la IA en el empleo y en los derechos de los trabajadores &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOE12U0loa2xpRXQ4d281ZVRmUmVYTnVhdmo4Y3g4OWpTekdoeTUwa0RBUkdCT0ZKZUthLV83VXlOTUhLSUpJWGx3WWRZazFWSTV6bFJPTkVzZDV6cHpLUlQtZm9Id3BWS3gyZjBiZjBhaUJyY2RxZjJmd25oZ0dhczlQb1BUYW5hX2RWbUpVdjY5M3VxVGE1b201WGhaaVVuZUxpWVd5a0hoS2l4NmRCZXNFMEJacXBqR3oxMWtzeDd3Q2F6Y25KV2VFSW0tQlNnZWhfSXRxTdIB8gFBVV95cUxOY2pBX3ZtRHZsZXFNQzVjSEVTWjZ3S29YZ3k3QjFfR3czUVBSR3NCNXQ0UDJ3VklXeThFT0gwN2gzZkJoSi00Z09WVUtocElEVHplMWRHNlVFR1JjUGJiWnFndVllcXJFdEZUNWc0QVdEblZlMEpTX2ZvT0drVGlPYmlnUllFRDJ6NEx3ZTdZVEpJbjJiNjV0X1J5cmFvSkpUd3dwR0EwQUNmWmVNeHpmeFJKOUJ6dXRYOU1DT1V4VVFFNDdMNnFvZUM3cjZSbkp3aHlLSTBaVUNyWVBIcE8tYWYwOElvS2xWT0xLWXlHTE9qdw?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-05T21:53:00.000Z"
+      },
+      {
         "title": "Conoce el talento peruano que innova con inteligencia artificial - Revista Caretas",
         "summary": "Conoce el talento peruano que innova con inteligencia artificial &nbsp;&nbsp; Revista Caretas",
         "source": "Revista Caretas",
@@ -370,44 +378,36 @@
         "publishedAt": "2026-09-03T04:09:11.000Z"
       },
       {
+        "title": "La IA avanza en Perú, pero las empresas enfrentan un reto clave: mejorar su infraestructura tecnológica - Infobae",
+        "summary": "La IA avanza en Perú, pero las empresas enfrentan un reto clave: mejorar su infraestructura tecnológica &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcHcxMHZXbVRFdm1rYVdjR05vdWkwRC1YZEs1STVyMjNVNTJ6RjlmcVgwUUFMWDNpeU1aR3I3TWMzdVczRW4tRkg2S1pmR2haZE9WdE9MT0pwZFktcC0xQk5KbGpoYTZrWGE2VDViYmhRVmZfS1pkOHc1UGw3OU5oNmtfeU1Sc1Q0NnZ5amVPZFR2MzB1dkllZVB2U3dhYVFfN3Q4OWJxdXI5Z3dEMkcwdi1sWWtHNTBIZ0daa1E2bDN1UlU4UDdPN2dlOFVpZGZrTkZOenZVMl9TVkXSAfYBQVVfeXFMTWhZejBPWVJvRWc5VmowYS1ocnJIQlU3TnJxcUlzWGpRVHJOZGJVcXlKZll6SlhycDRMOC0wMkZIbnZOZVpKTDlSSHFNY21qYjRRWjBEeGVHdXFQOWRwSVVoVFR3UVZwTzRHb1ZidWktcklvOGZjYVRxZk00WnE5MmlVZXhzVVRaV0RjMk1VLThMak9lYUZOTERPWGtwcTZCTXZmT0stUkhxeVlkQ3V6SzJkYnVfMXBScTZuWHlrVVEyLWQtdENYZzlMSkpERl9xdWZyZmVkV1Z2bXVMRVBaajlzNUF0Q3pfT2R2S1kzaHA1NWNFeURB?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-26T07:00:00.000Z"
+      },
+      {
+        "title": "La IA es el futuro: 62% de los limeños considera que no saber usar inteligencia artificial resta oportunidades laborales - Infobae",
+        "summary": "La IA es el futuro: 62% de los limeños considera que no saber usar inteligencia artificial resta oportunidades laborales &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSmRqWEdrUElPZmtfbk40ZS1NeGhFZnZZQmZocDlFeDkzWWU5RmtPMk1jeXV2dkFQYVg0VjJZMEtrNmFmV1BuT1pmNkdneTVnUDFvamQybi1jalBlU1FrNGdncTRXd0JFTW1YYk5VdDFteVhwSE5ONTBWck93V0dEUW1QTnRuS3ZSN2I1V2FSV2lQZFRZRndnYmdIdHc1OWQ3di1TVjZzYllJWG1EX293MFBxb2RzYVR6LTN1dE84YTJMY2ZtOTBPTDBpdl9kSkZyRUNqeXVfUWp3RTZDaFE4bWZOSzhFNG1MMEhtMm8zNkTSAYsCQVVfeXFMUEs2NGVYMVFOWkZueFFPblVXd2daNFIwMGdQOHNWRlZjazBRVkpQN2lCcEpnRVVCcndvT1FlUG1LUG9BNTc5ZkZGZGkyaklPcGh4WXhBeG51eW4zcUNtSXgxTmNLVFdHaDdtLTJ5QlRYTmdkRW5ZWkRQX1REanNkTGxBamhrU1F6UDA1bVItZDJQYjV5YjZQa1lYZVhtRzNtVkoxdEJYeHU5aldpeWN2ZEd5S0xWTlVoOHJOSE1LcmFGN1BBNlVsRUhiZDhqSDVEY0pwcXk4NlV6M0dhbGRFWnlBVHJ2X3VleEI5Nm9fdjBWN2F2WlFQMXdKS2h0SzJGRkNnRy1IbFQ0a3Nv?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-15T07:00:00.000Z"
+      },
+      {
+        "title": "Inteligencia artificial en Perú redefine el trabajo y la productividad empresarial - El Peruano",
+        "summary": "Inteligencia artificial en Perú redefine el trabajo y la productividad empresarial &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR2puRGpkYUJFbzBZM0NJRG0yVEpZRWlra0ExQjdzb3IxemlWRU04a0dfRXFjRVUxQnhHRDFqQ0wtM1RacnAybkJyekEyWEgzTkx4b2Ntek02SGZLQXlLSHBfMHNudG1PUy12ZE90aUlCeXcwQWFUTnVIeU1JYUdKd3diMU5JYXd1RFpLQ0duMFN1dlAzUXFrOTFwdjlULW00SE92UFRSRmp5SkkyaUFGcEFQeWw0cjVMREE?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-05T07:00:00.000Z"
+      },
+      {
         "title": "Mercado de inteligencia artificial en Perú crecería 20% anual hasta 2027 - El Peruano",
         "summary": "Mercado de inteligencia artificial en Perú crecería 20% anual hasta 2027 &nbsp;&nbsp; El Peruano",
         "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObUFQQklOYXZQYmpLZlFRaUszSzNxSWhOQjNOMkNoY1ZXVWgxRTBrZ3NmcXc5UnFDWWRsTFRWVUJEdXBndXExQjh4UWFiYUJfWkVId2VPR2VHUVhlUnZQVXhvcFNlM2RBTkYxLVcweWVQM3ppdzdwTWFBYW5WM21YVTlCQU1RcVVjZEVKd2RDdEhtTS0tRDNiZk5VZ3B2Zzh1VnZMN1A0RGJpMFkzSWZqdg?oc=5",
         "image": "",
         "publishedAt": "2026-07-22T07:00:00.000Z"
-      },
-      {
-        "title": "Inteligencia artificial: plantean guía para convertir la tecnología en valor para las empresas - El Peruano",
-        "summary": "Inteligencia artificial: plantean guía para convertir la tecnología en valor para las empresas &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTDh2MTNsbnQyNmVLMVQ3X3VuaWtCRW1EbEpsYjI4UHJRb2pMZUg0UE14R19lRWFDXzM3SHEybkdJLTlUN3BTc1o2VHR1Y0xaZlNpV1Ryc3hfQW9Qamw1bU9hT1VBeVB4dTNSd0V2NzhFTHd1T1R5VTV3U0RWRjFpVkVFNTR4OXNsMHFPRFp4eE1vUWpfZi1LTnEwRENiVVgzUkVacU51OXlmd04yT1c4VXkzOERhQ0FlQy1vRWlMYVlmRXNEZWNYcUFvOVVWUQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-13T07:00:00.000Z"
-      },
-      {
-        "title": "Inteligencia artificial transforma la salud y acelera la modernización hospitalaria en Perú - El Peruano",
-        "summary": "Inteligencia artificial transforma la salud y acelera la modernización hospitalaria en Perú &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeGcyN0M2VUxPY0gxN3d3Y2pGMF9fbFlYZmk2RGpXWS1neU1oUTBQME5hYnNaNXV0andvZmtrY1dqQ3lxbUtVYmxsN1BYY1hkLWJ4ZXVnaHZ3dFVBbE1uQ1o5aDF4QS0xZ1pmWjgzc3E3ajk1MmFOb19IM2dSd3dCdkxZZXBUeEZIY2xYdmx3el9LbHdaZlM0b0g1aURrTXlfdC14cWRCQzFCR19BMExtY1RtM2VRVFRoUzB3U1ctR0JYczEtci1zaXhuTQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-05-13T07:00:00.000Z"
-      },
-      {
-        "title": "Creatividad e inteligencia artificial: cómo la tecnología está ampliando la toma de decisiones en el Perú - Infobae",
-        "summary": "Creatividad e inteligencia artificial: cómo la tecnología está ampliando la toma de decisiones en el Perú &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORWs5LV81SWN6SUR3WG1kMGdZMzNTNWVrUjBuLWlja0lwUXI5a0VNVk1aLTJlU1cwSWtZQ2JwR1FIR2F5dkJXN1B6Qi1HWTB5S1NHb2I4UmYwOGpQWG1GbWo2MGM0S3JNNDFtNzV2UmN6S2UzWVdQYVA1dlV1UU9iNnlTSUlqN1I2TUtkeGZ0c1Fwb2ttX1NEdzA3bzFCS05lZ2dlRGVMMGNuS3hzTHFhUUNZTHNTc0tmNXZZdVFfUWNKcTQ3Q2dRbEFoVldRVWpoY3FtcnRKZ0NkcktEZVHSAfgBQVVfeXFMUE1Vd2pNYmdoaU9yZlIxTlZxajFfWkJMSWliZjNCbWNKUEQ5T01QYkUyWEpqZkY3NXJERFBNMTZReXRUYVY1aFNZYkpwcUg0am02OEdRUmVLZUk1Um9OMUdsUzNIQXhWX2R2Q2NlcUpLdXZKb0JzUV9vaGVNT01FMnd1eVkzc19abUI3UXVhZXVxOG1CTi1lbzZWSXpLejdfZFVQMXhmcDVzVHBxU2ZnYWxidi12UE5mWEZQR3Zyd2x2SzNlZkgxT1BpTEJVZUpsRklFb0RSanp1aG5YN2lNb1kzR2JrMzNLclpNLUdfd0dTQTdCbVc1VWI?oc=5",
-        "image": "",
-        "publishedAt": "2026-05-08T07:00:00.000Z"
-      },
-      {
-        "title": "Encuesta sobre el uso de Inteligencia Artificial en el Estado - gob.pe",
-        "summary": "Encuesta sobre el uso de Inteligencia Artificial en el Estado &nbsp;&nbsp; gob.pe",
-        "source": "gob.pe",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVmdUbWFuY0w4cEQ2cXdNNE9rLVhMNWhxUFQwY2luWEJFeTJ1YkI1d3ZnS3V3dFBPTkFxSW0zeHRYR1VNazh3ckhhYjdaTmZ5OElHb3drNEVlMnFMMEdPaGk5Zm94SzNrS2JQclo5TFFmUUEzQnFZdjMtUWF2LUxmMG82dE1pWkhJVG9BMGxvN1RBSlVHSUZhQzdsbDZodW1VbkJGOXgtNzdyMWN1SDd1dVFuQmlWd21n?oc=5",
-        "image": "",
-        "publishedAt": "2026-04-27T07:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -444,14 +444,6 @@
         "publishedAt": "2026-08-15T07:00:00.000Z"
       },
       {
-        "title": "Dr. Guali, la botarga peruana que desató comparaciones con el Dr. Simi en redes sociales - canal44.com",
-        "summary": "Dr. Guali, la botarga peruana que desató comparaciones con el Dr. Simi en redes sociales &nbsp;&nbsp; canal44.com",
-        "source": "canal44.com",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTFsQ2ZkX0d0V2FnTXBncWYyVGlGejdENURmN0llZ2Q4Z3F2a0liVEYzcnI5UHUtYkxSZlV1WHNHV25CUlEwdThPXzRHODZWWHNVV0F4RVFnRDBCdGNIZVR5d2luZTBuOE9ia21TRGcxVjhOZnlnOVBWX2hUaGlOWURnZ1ZpM0xoQ0I5dno2TThhc0lUdXNCMzdBdGU4dmUweDlYQWZJUUh3dw?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-04T18:37:14.000Z"
-      },
-      {
         "title": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” - Infobae",
         "summary": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -474,6 +466,14 @@
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ19nT2YyMlR5RFhzZVRjTXpPcjZXYjhHZ25aV1BkeTFuWDVKTHZxUFRyQklUb0JYaGFIMUJEbEdVbTg3Y01OV255QmN3OHlEbWNaS185UXVqUHhydnF1YTlrZTNSQmtmVGNKc2xyb28zTmt4czlsd2Z1OC0wQTZYWmpjT0pUNU0yN21CWnpYamV6eU43TkdQUE1FdjUxUGVRQ0tzbGpDbEk2Y0xrS3Y1bl9hY2UxSnVuMTF2ZV82MTZ2dGVkQ0tPVG1R0gHkAUFVX3lxTE5xaE1KVl9TLXVjQW16VUhTbmotZWRBcUJueDBnQWZLZFhPaC1hSjZNSGVXSnFEQlotekUweWloX0xEc2txcEt5N2RGOUFBYXBFaXBZYTdZaWpkaktoNUd4cDFsV2R3bGdOOGNDVV9qajFLMy1ZTUh3TXU4dlZmVmprRnlvQzhLMlM4RnpTT2FMSzhKdS1PaXdvZE0tQnlIUmIyM3l4akJrYjIwcnMwY25yMXl2TFIwdjg1YXpBNmRnNDBrdU9oZTN5LVU4MGp6dHVVR09fTnh5cmN1eGNsaXBDNUlZXw?oc=5",
         "image": "",
         "publishedAt": "2026-07-07T07:00:00.000Z"
+      },
+      {
+        "title": "Qué es el “Door Kick Challenge”, el reto viral que alarma en Perú tras ataques a viviendas grabados por adolescentes para redes sociales - Infobae",
+        "summary": "Qué es el “Door Kick Challenge”, el reto viral que alarma en Perú tras ataques a viviendas grabados por adolescentes para redes sociales &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQNlhRa3hZRWhpSGh3SVFmWkEzTUM3WXlIeXJCdlYycXE0U0NCSnZFbnM0M2RweVpoalhnTXROWkpLYlExbjA4RGF4dEVXZHk2d0t1Z0lYZHdrcUU4eERIZ1htcTdlUW5ETmNycXVUUFM0d3F0RTRHeVlzZ1hwU2liXzJoTFJ2NVlMV183X1VkS09CcGJrckQ1SFl2TFg1NjBTT082VFVwanVfVmtkZ1RVZVo5WE84TEpzeEF0MUVLallqSzd4c21zeF8yQzN2M1ZUT0xpYllKZ09BUEFKZmw5akhWc2NBaUZ4bFlBQ0hPLXJXRF95N3cwdWlpZGwyNXpFd04zVNIBnwJBVV95cUxPSmowXzdWYTdRbnhzb2lob0R4M0tqYWxJeTRSdUQ5N002RUpGOEJOdU9fSmw2WGlqNWhfaEVZcXhnUEtkS3VpZFdXZDJHbi1oSnJNd1FDWkJxcTN6Q1RtNGZoSkViTTVaOUtnQVZURmlCRVFUcHYtekZJQXc4OEdseTcxOFBrYmVzN2VJdElRalhuaFJSWkQyZHhHZG5Ldlg2ZldsemNHS2xSVHdTRzB1aHpnZF9iZXI3MDlGeXVyVjAydFN0OGdTc2pGX2VjVEVmRG1JbjNxaGFWZkd6VFd2NmVENmJjV2RMU3FwbUMzQjZQMEs1MWtJYUFocnl0T2RqQXNyNnRMYUZMY200cnB0S0FvSWo3dlRZOEl0enB6cw?oc=5",
+        "image": "",
+        "publishedAt": "2026-05-21T07:00:00.000Z"
       }
     ],
     "farandula": [
@@ -563,7 +563,7 @@
         "title": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones - Infobae",
         "summary": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTTZDSUpUY3djZ1R3U0lOUzRLVVV6OGFpNGZvRm83N0dTV2VlclhHT3U5YlVzX1NLMUFzdUx4cHZrX2FhdGhDeGtYOWZwZ1VyUnZiZEIxRUw5NmhZUG93WHZJNUFHUzRTMHBtVTRQUE91OFprb1NlMXhsbkF5ZHZINWxweFVsVzRJZlpUcFI2Mks5andzSTgwNVhUZXJsaVl5bUhrMXFLX0JMWDgtNEtWbW92YXVBS19kQ1dYS1hqSEt4YVpnaFNqeFVHQzhqbVBIZnFnUEcyOXdqUnFZNllOZG5aVjlsbUtlV21JZ21aTjRkNlNyOEYwZnVhbnhSdDNadVRZbUNvYjM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTTZDSUpUY3djZ1R3U0lOUzRLVVV6OGFpNGZvRm83N0dTV2VlclhHT3U5YlVzX1NLMUFzdUx4cHZrX2FhdGhDeGtYOWZwZ1VyUnZiZEIxRUw5NmhZUG93WHZJNUFHUzRTMHBtVTRQUE91OFprb1NlMXhsbkF5ZHZINWxweFVsVzRJZlpUcFI2Mks5andzSTgwNVhUZXJsaVl5bUhrMXFLX0JMWDgtNEtWbW92YXVBS19kQ1dYS1hqSEt4YVpnaFNqeFVHQzhqbVBIZnFnUEcyOXdqUnFZNllOZG5aVjlsbUtlV21JZ21aTjRkNlNyOEYwZnVhbnhSdDNadVRZbUNvYjPSAaMCQVVfeXFMT0lVVzhVeG9mNGZBb2diQW9Bd1ItVlppWDFzMmt4eDAyY1ZYMjVQUWpzN2hzMGpfR3RqRGhVS3NGZm04ZlBnaGxsUXozY1o1ZlFkWjl3aElHZjAyaWo0SDR1VU5SM09KSm1HWkRTeDlSa1Z5bGVpZS0yN0s2cVYxRFBvUjRwZHV1eHFnbUx0RlRaLUdSU0JPWmdSY0V2SXE0QUpFbGlCa3JtOE0tOHNCMWlsV19wTi1ienIyLTdubnJCUXQ0T2xkSTluVENhVENBeEcwZVM4NlZjS2IwS3NhbTRNQ3d0cFlLd3JWakw2Wl9YbTBkcGowYkVYU2NKbVl4eXdVa2FNZ3FlVVNpejg4T1FQaUxmZlR2Rk9idk9RLVV4cmtB?oc=5",
         "image": "",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       },
@@ -576,9 +576,9 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
-        "title": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO - blog.ticketmaster.pe",
-        "summary": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO &nbsp;&nbsp; blog.ticketmaster.pe",
-        "source": "blog.ticketmaster.pe",
+        "title": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO - Ticketmaster Peru Blog",
+        "summary": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO &nbsp;&nbsp; Ticketmaster Peru Blog",
+        "source": "Ticketmaster Peru Blog",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVJKaExOenRRZmxzRzVVZWxoanFOaE1fTFdEZmpiRUV0X3FYcFAtTjVwMGo1R1hoUUo2dUhQVVNIZEl5eDhMSlBSdE1jWWZ3YUJXZncxM3J1d2tCUVJvUnNULS1lMEoxZlZkZ0tBbFpFZGxwYm5TSUYyd1RUZmt2VU1JN2thUl94dHduXzdKRWJGOUxQLUp1cWs4U0NMcEhDLVJrVWdVODJDSjJlYjNZODFmY0I0b3NuS2Jn?oc=5",
         "image": "",
         "publishedAt": "2026-08-08T07:00:00.000Z"
@@ -600,9 +600,9 @@
         "publishedAt": "2026-08-05T17:35:26.000Z"
       },
       {
-        "title": "Alcalde Renzo Reggiardo: “Lima se consolida como capital de los grandes eventos internacionales del mundo” - Willax",
-        "summary": "Alcalde Renzo Reggiardo: “Lima se consolida como capital de los grandes eventos internacionales del mundo” &nbsp;&nbsp; Willax",
-        "source": "Willax",
+        "title": "Alcalde Renzo Reggiardo: “Lima se consolida como capital de los grandes eventos internacionales del mundo” - willax.pe",
+        "summary": "Alcalde Renzo Reggiardo: “Lima se consolida como capital de los grandes eventos internacionales del mundo” &nbsp;&nbsp; willax.pe",
+        "source": "willax.pe",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR3hwa3FscUt6SXJuc294R2I4czZUM0xIaEtrN3dIWnFzdnFhczhDSTlVSzJEa0t6Z2txT2taanQtTEV2anpjWV9xZVpSakdDc1BzY01ISEFpbkppMnZRRnNuWEZ1dEY5MDJMLTRsbnV4d2ZXTDExa3E3alRWaUxEcDRlaFpYUWdGS3Y2T1c4NFlHdlBhQmh5SjN3dVZ1WThqdHpfcjVyYkZ5dW5ZTGUza2R3cEFxb0tod01ZMFBJc1FFZl9PaUlJX19n?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
