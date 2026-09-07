@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T04:35:03.553Z",
+  "generatedAt": "2026-09-07T10:14:04.418Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -29,7 +29,7 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/ecdata/elecciones-municipales-2026-elecciones-regionales-2026-keiko-fujimori-fuerza-popular-rafael-lopez-aliaga-carlos-bruce-franco-vidal-onpe-jne-votaciones-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/LMHWTWX775AK5G44CFXVY5RAOY.jpeg?auth=bf21dc5594102cc50f97bdbf198a55ccc8c43a04680ab930f91f1baa5b45b7e7&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-09-07T02:47:00.000Z"
+        "publishedAt": "2026-09-07T07:09:59.000Z"
       },
       {
         "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
@@ -37,7 +37,15 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/ecdata/en-16-anos-fuerza-popular-solo-ha-ganado-3-gobiernos-regionales-y-no-ha-colocado-un-solo-alcalde-en-lima-metropolitana-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/3ZQHU5EOGNH33LU7J6EN3J4QSE.jpeg?auth=05b2ba86279d4f5e8c5af8ea35780dce6caca06e15b2546119eb9e3be8b10463&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-09-07T02:46:00.000Z"
+        "publishedAt": "2026-09-07T07:09:20.000Z"
+      },
+      {
+        "title": "Óscar Arriola: los entretelones detrás de su salida de la Comandancia General de la Policía",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/oscar-arriola-los-entretelones-detras-de-su-salida-de-la-comandancia-de-la-pnp-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/WMTM5EM43VH3NN23FMGGNP3OSA.jpg?auth=2311edb9e8273cc6787d776a42f3ef64d242a8b6b2b88ee4f018d860e0079ce5&smart=true&width=1200&height=647",
+        "publishedAt": "2026-09-07T05:01:00.000Z"
       },
       {
         "title": "Óscar Arriola renuncia a jefe de la PNP: senadores y ministros se pronuncian frente anuncio",
@@ -70,80 +78,72 @@
         "url": "https://elcomercio.pe/politica/luis-galarreta-necesitamos-esas-facultades-para-hacer-lo-que-hemos-planteado-como-plan-de-gobierno-entrevista-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/52JK2KRNB5GMJGT67MSRNAPBIM.jpg?auth=b457fe70ae7ffaa8fe73bfec9a2e5faf3e270f9bfab1fb11392e1ea4a33f2eae&smart=true&width=1600&height=1164",
         "publishedAt": "2026-09-07T00:13:09.000Z"
-      },
-      {
-        "title": "Delegación de facultades: Estos son los tiempos y votos claves para el pedido que se define en el Congreso",
-        "summary": "Las posturas de de Renovación Popular, Partido de Buen Gobierno y Obras son claves para el oficialismo, tanto en diputados como en Senado; pero presentan objeciones en los pedidos sobre temas financieros y laborales. Proyecto del gobierno podría resolver entre finales de octubre o inicios de noviembre.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/delegacion-de-facultades-estos-son-los-tiempos-y-votos-claves-para-el-pedido-que-se-define-en-el-congreso-keiko-fujimori-senado-diputados-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/6S2FQPZ6EVE7RMTF5FRC6VT4FE.jpg?auth=e38e450c4e9857a67b165de40874f37e9f1e6b98e9de1d353728cec7a36bf347&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-06T23:37:00.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Gobierno aprueba nuevo modelo de convenio para gestión de infraestructura pesquera artesanal",
-        "summary": "La medida regirá a nivel nacional y establece nuevas reglas para convenios, adendas y administración en la infraestructura pesquera artesanal.",
+        "title": "Gobierno de Fujimori apunta a las mypes para aumentar empleos formales: ¿qué podría cambiar?",
+        "summary": "En su reciente política general, se consideró el impulso de “esquemas de incentivos y otros económicos”, aunque expertos observaron que ya existen algunos. ¿Cómo lograr que se “mueva la aguja”?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/gobierno-aprueba-nuevo-modelo-de-convenio-para-la-gestion-de-infraestructura-pesquera-artesanal-noticia/",
-        "image": "https://gestion.pe/resizer/v2/I2SMEXK3KVGIHOXEWW47IP57SY.jpg?auth=743b18ff0512e897aba81cc94c65de97c6fff2b1ebbc886157ee7bd30f9d7b76&smart=true&width=1800&height=1203",
-        "publishedAt": "2026-09-07T03:54:00.000Z"
+        "url": "https://gestion.pe/economia/gobierno-de-keiko-fujimori-apunta-a-las-mypes-para-aumentar-empleos-formales-esta-es-la-estrategia-que-aplicaran-como-parte-de-su-politica-general-noticia/",
+        "image": "https://gestion.pe/resizer/v2/K26MY7XI3VDV5DX77ZY6P3FSM4.png?auth=aef0317097330f729e1da77625ff4144ec4e8aad157fc6cc9f653f35cc3b1372&smart=true&width=1038&height=685",
+        "publishedAt": "2026-09-07T10:02:00.000Z"
       },
       {
-        "title": "Machupicchu: reinician ingreso a la Red Caminos Inka tras obras de mantenimiento",
-        "summary": "El Camino Inka vuelve a recibir turistas de 12 países tras la suspensión temporal de visitas a la ruta que conduce a Machu Picchu.",
+        "title": "Demanda interna y recuperación gradual de agro y pesca marcarían pauta en 2027",
+        "summary": "Gestión realizará el 27 de octubre una nueva edición de su evento “Perspectivas Económicas”, esta vez con el tema “Las decisiones empiezan hoy”.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/machu-picchu-con-mas-ingresos-turistas-de-12-paises-retoman-red-de-caminos-inka-noticia/",
-        "image": "https://gestion.pe/resizer/v2/6346G6YMSBEB3MZCHJXQTSZJRI.png?auth=46b9b8799cf275ae3aa34650bf1783abbde37b18e4cc55bd6351e70e50c30c59&smart=true&width=1400&height=800",
-        "publishedAt": "2026-09-07T01:10:00.000Z"
+        "url": "https://gestion.pe/economia/demanda-interna-y-recuperacion-gradual-de-agro-y-pesca-marcarian-pauta-en-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/3P3Q2CIT2BAAZELYMWYH3JRTIU.png?auth=76e0dede478366908dcc70aa9e0b24496281b558f2f4f7a4917d0c75020774ac&smart=true&width=969&height=644",
+        "publishedAt": "2026-09-07T10:00:00.000Z"
       },
       {
-        "title": "Peruanos diversifican sus inversiones: los sectores que “farmean más aura”",
-        "summary": "Los peruanos, cada vez, apuestan por diversificar sus inversiones para proteger sus ahorros y buscar nuevas oportunidades de rentabilidad. Sin embargo, factores climáticos como el fenómeno El Niño podrían frenar esto.",
+        "title": "Minem alista 3 instrumentos para dar giro al sistema eléctrico: ¿qué pasos dará?",
+        "summary": "El Minem informó que trabaja en el Plan de Transición 2027-2036, el Plan Energético Integrado Nacional y el Plan Provincial de Uso Eficiente de la Energía Eléctrica.",
         "source": "Gestión",
-        "url": "https://gestion.pe/tu-dinero/finanzas-personales/peruanos-diversifican-sus-inversiones-que-sectores-farmean-mas-aura-en-2026-noticia/",
-        "image": "https://gestion.pe/resizer/v2/WRHYROGLCBAGRIYPHGLJMAEVJU.jpg?auth=f597361eae217e1f0ac2dd21c502e2f47639b182df31b18930e4f62ed37b8605&smart=true&width=611&height=458",
-        "publishedAt": "2026-09-07T00:28:00.000Z"
+        "url": "https://gestion.pe/economia/sistema-electrico-gobierno-de-peru-alista-3-instrumentos-para-dar-giro-que-pasos-dara-noticia/",
+        "image": "https://gestion.pe/resizer/v2/2YITUNMDQNEV3AKXGQLMOJ7IQU.jpg?auth=0961010b90d6ab0c7a3ba0794a27981b6dfaf52f7b8e540e6d06110dc7ec383a&smart=true&width=925&height=580",
+        "publishedAt": "2026-09-07T09:50:00.000Z"
       },
       {
-        "title": "Azucarera El Ingenio, vinculada a Corporación E. Wong, avanza en su salida de la BVL",
-        "summary": "La compañía adjudicó 24,214 acciones comunes a S/ 9.799 cada una, en el marco de una oferta pública de compra por exclusión. El monto de la operación ascendió a S/ 237,331.59, equivalente a unos US$ 70,557 al tipo de cambio referencial utilizado.",
+        "title": "Precios al alza: productos y servicios que “movieron” el bolsillo de las familias en agosto",
+        "summary": "Pese a que la inflación anual en Lima Metropolitana llegó a su nivel más alto en casi tres años, en agosto el alza fue menor que en meses previos.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/empresa-azucarera-el-ingenio-compra-24214-de-sus-propias-acciones-por-us-70557-noticia/",
-        "image": "https://gestion.pe/resizer/v2/34F5SYTMPRGTLEJ5QBPMNWYALI.jpg?auth=2118faa204e5c7c34e412dece443a5e1b75322b130234f1df64fe2d12bda9cb1&smart=true&width=1280&height=782",
-        "publishedAt": "2026-09-06T23:33:35.000Z"
+        "url": "https://gestion.pe/economia/precios-al-alza-los-productos-y-servicios-que-movieron-el-bolsillo-de-las-familias-peruanas-en-agosto-noticia/",
+        "image": "https://gestion.pe/resizer/v2/HZ4X22JMJRCITBHI3KEQMNJYGA.jpg?auth=d51d5ede6fe0603562498b5ed7d076f98838845f0c6d44894e3a52963f202cc0&smart=true&width=1400&height=800",
+        "publishedAt": "2026-09-07T05:29:16.000Z"
       },
       {
-        "title": "Perú atrae la mirada de la chilena Cesco: Expomina 2026 será el escenario",
-        "summary": "Cesco realizará durante Expomina Perú 2026 su primer encuentro de este tipo en Sudamérica fuera de Chile. Conozca por qué eligió Lima.",
+        "title": "Puerto de Chancay busca carga y la Amazonía tiene el potencial: ¿qué frena el “viaje”?",
+        "summary": "El Puerto de Chancay busca aumentar su volumen de carga y la Amazonía aparece como un potencial proveedor. ¿Qué necesita primero para aprovechar esta oportunidad?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/peru-atrae-la-mirada-de-la-chilena-cesco-expomina-2026-sera-el-escenario-noticia/",
-        "image": "https://gestion.pe/resizer/v2/GJEENOUQ7ZBF5PQIFH2AGB2YAA.jpeg?auth=a7caf0ea9386f523e801ed2649054fc1daf698f6e06fe72f9c9e034cd53941c5&smart=true&width=6722&height=5022",
-        "publishedAt": "2026-09-06T23:16:00.000Z"
+        "url": "https://gestion.pe/economia/puerto-de-chancay-en-peru-busca-carga-y-la-amazonia-tiene-el-potencial-que-frena-el-viaje-noticia/",
+        "image": "https://gestion.pe/resizer/v2/MOJGWBHQCJE4NIXNW4IR3RW4T4.png?auth=2ccc16c80286fec24763de215a4fd443db7bd9356ced56561e8b5b7e36695b5c&smart=true&width=1395&height=926",
+        "publishedAt": "2026-09-07T04:55:46.000Z"
       },
       {
-        "title": "Penal El Milagro será el primero en probar nuevo sistema de seguridad: ¿qué se instalará?",
-        "summary": "El penal El Milagro de Trujillo será el primero en recibir tecnología de seguridad con ondas milimétricas, rayos X y detectores de metales.",
+        "title": "El Niño agravaría inseguridad alimentaria, ¿qué tan vulnerable es el “bolsillo” en el Perú?",
+        "summary": "Ante un eventual impacto de El Niño sobre los precios y los ingresos, especialistas advierten que las familias podrían tener que ajustar nuevamente su consumo.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/trujillo-penal-el-milagro-sera-el-primero-en-probar-nuevo-sistema-de-seguridad-que-se-instalara-noticia/",
-        "image": "https://gestion.pe/resizer/v2/N6SCQUGZGBBJBEULBJBYZWTX7M.jpg?auth=868dad2adedd98153058e5ef7fd27f1b8997fe6cc48a72161cf389c3cf581bc3&smart=true&width=1280&height=720",
-        "publishedAt": "2026-09-06T22:08:09.000Z"
+        "url": "https://gestion.pe/economia/el-nino-en-peru-agravaria-la-inseguridad-alimentaria-que-tan-vulnerable-es-el-bolsillo-de-los-hogares-peruanos-para-enfrentar-esta-situacion-noticia/",
+        "image": "https://gestion.pe/resizer/v2/JOCUBYWTDNCDRN2BRTGHVSGOFI.jpg?auth=7f3eb91846740dd42b395ff48a243e3f4030803899e7d95b1a96432a3abab0f7&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-07T04:53:52.000Z"
       },
       {
-        "title": "Santa Catalina, en La Victoria, mantiene su atractivo inmobiliario: qué prepara Alcanza",
-        "summary": "La inmobiliaria del Grupo Pajuelo, que ya cuenta con 14 proyectos desarrollados en Santa Catalina, prevé iniciar la construcción de Catalina Living en 2027 y evalúa terrenos en Jesús María, Surquillo, Pueblo Libre y Surco.",
+        "title": "Empresas se preparan ante El Niño, pero ya temen por estas tres afectaciones",
+        "summary": "Una encuesta del BCRP muestra cómo las empresas se preparan ante los posibles efectos del Fenómeno de El Niño.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/santa-catalina-en-la-victoria-mantiene-su-atractivo-inmobiliario-alcanza-inmobiliaria-duenos-de-ladrillos-fortes-noticia/",
-        "image": "https://gestion.pe/resizer/v2/NOOT2F7IMVA37FJRSKMI2UJC3A.jpg?auth=ea72cb06715e9afa46a512515f2213cd9f413e2674a0f1598596a947d06d32f7&smart=true&width=1921&height=1081",
-        "publishedAt": "2026-09-06T22:02:50.000Z"
+        "url": "https://gestion.pe/economia/empresas-de-peru-se-preparan-ante-el-nino-pero-advierten-sobre-tres-afectaciones-principalmente-para-sus-negocios-lo-que-dice-la-data-del-bcrp-noticia/",
+        "image": "https://gestion.pe/resizer/v2/U4EWHYHXH5BFDG4H4LYWBYPA54.jpeg?auth=e655819ab848243c0c8927de6cb9300579b9fca1185754dbd3a1d4c7dad7a9a8&smart=true&width=1600&height=1066",
+        "publishedAt": "2026-09-07T04:51:07.000Z"
       },
       {
-        "title": "Terpel sale de los grifos y apuesta por lubricantes: la inversión que ejecutará en Perú",
-        "summary": "Terpel entregó a Primax su última estación de servicio en el Perú y cierra su etapa de grifos. Ahora apuesta por lubricantes, nuevos fluidos y US$ 15 millones en su planta del Callao a diez años.",
+        "title": "Desempleo juvenil en Perú alcanzó máximo nivel en casi una década: el panorama que preocupa",
+        "summary": "Los jóvenes sin experiencia tienen más dificultades para acceder a un puesto formal, mientras que la baja productividad y los costos de contratación reducen los incentivos de las empresas para incorporarlos.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/terpel-entrega-su-ultima-estacion-de-servicio-a-primax-que-negocio-hara-ahora-en-peru-noticia/",
-        "image": "https://gestion.pe/resizer/v2/563VFPJHORGBRA32WYNHPIDLRM.jpeg?auth=567bec5b4a4a3dd8ea5b88dbefeb59692e1dcaebd7c7f69df385ca0c0b800994&smart=true&width=2000&height=1334",
-        "publishedAt": "2026-09-06T21:54:49.000Z"
+        "url": "https://gestion.pe/economia/management-empleo/desempleo-juvenil-en-peru-alcanzo-maximo-nivel-en-una-decada-e-impacta-en-productividad-el-panorama-que-preocupa-noticia/",
+        "image": "https://gestion.pe/resizer/v2/XVMKOO6L4JCYRDU5VP54P34XWE.png?auth=1a804f6d73f97dae9527b90ecd8147c59a6940b044cc0693e2755c290694fb8e&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-09-07T04:50:40.000Z"
       }
     ],
     "sociedad": [
@@ -204,12 +204,12 @@
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
-        "title": "La Libertad: Piden al nuevo Ejecutivo más empleo y seguridad - Diario Correo",
-        "summary": "La Libertad: Piden al nuevo Ejecutivo más empleo y seguridad &nbsp;&nbsp; Diario Correo",
-        "source": "Diario Correo",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVUdWWFZ0azN6ZVg2TUdyclVlRjQyTnk1bFV5aElpNV9OX3AzZGJvX0VRSnhicEUtbGZBYndqMzB2UllBaHlhZ0k4RzlTSU5DOERUN0ZxZkhlZmFhcU9RcDg4b1o1RzZGV0wwYTBLTDJXN3VpT2dpVjRLR3BmVUpUREpKWWNydC1JLWFDOFBNakp6MHF1R2ZtSXA4VTlTMWtkRlk2c1pKZ3hXZmNVSm9OcmxRQy1CUG90MVJWbjBfdmdWNHdl0gHYAUFVX3lxTE5UbVZCUUpheWt2YVBtMldYSGNqUlVIcEhLVkVvZG5CdXBhNmpYZUNJOFlsVDN2SThkdUNjNGlXNXROVkNlOUdHbHF1Uks5bWlsb3lrX2FOZFRYY05ROWd1YTVxQTNJSGpjNTI0MkJvNmtadFlYN1kwN1AtVk8xQXItd05qdWtRaE5QSXR1S1FIdC1Dc0xQTFlZckpFWFplYXl3UEh0bXc4eExUd2I0cXIxazdoRHFnZVF4UlZrVUdQYkczSkp1S25DNmhzNmp1aHV6T1o4QmtSUg?oc=5",
+        "title": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS - ahora.com.pe",
+        "summary": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS &nbsp;&nbsp; ahora.com.pe",
+        "source": "ahora.com.pe",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUm9heXNQZzZPY0tMTmxyWEJrSVFZMlFtb2JVOFpfZXpubndad19NYTVyQVpyLVk0Yi1GZ0xCNmtRY0lWbV9VMTE5QUtRZG1zM2FJMzQweTU1a1lsVzl3OURfYldrUVM1aEJXWGI1OTR4OTFkRDQzcEtpaG1rcE42Zl9jT1g3RVdmQkZETk1ZOFBpd0o1MmF2RHVOczJsQ2Q1VHJGMjJrQ2tCVE42OXNz?oc=5",
         "image": "",
-        "publishedAt": "2026-06-07T07:00:00.000Z"
+        "publishedAt": "2026-07-15T15:44:23.000Z"
       }
     ],
     "negocios": [
@@ -346,6 +346,14 @@
     ],
     "ia": [
       {
+        "title": "Entiendo.ai, startup peruana de IA educativa, viaja a EE. UU. - El Ecosistema Startup",
+        "summary": "Entiendo.ai, startup peruana de IA educativa, viaja a EE. UU. &nbsp;&nbsp; El Ecosistema Startup",
+        "source": "El Ecosistema Startup",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNm5yVGhFTzF6T0xYdl9oY1RUWXI2UDVmb01kYndMU3B4eWhoMHNsSF9xS0pPQ2RBaDZIMDZXeGlTd0FiRnNINVhGa2VsOF9uN0RWVmUyNW5aUDdDdkplWXdBUjNsY0h2UDBSNkJuMUdycGpjbDdYTHdpSkFMRHV2VzFUS2lEQzJrSWJva1llVUtQdw?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-07T06:51:31.000Z"
+      },
+      {
         "title": "Entiendo.ai: startup peruana de IA educativa salta a EE.UU. - El Ecosistema Startup",
         "summary": "Entiendo.ai: startup peruana de IA educativa salta a EE.UU. &nbsp;&nbsp; El Ecosistema Startup",
         "source": "El Ecosistema Startup",
@@ -378,6 +386,14 @@
         "publishedAt": "2026-09-06T06:33:56.000Z"
       },
       {
+        "title": "Conoce el talento peruano que innova con... - Panamericana TV",
+        "summary": "Conoce el talento peruano que innova con... &nbsp;&nbsp; Panamericana TV",
+        "source": "Panamericana TV",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZS12Y0l2d0hneGhfZE9yd1ZKNTRkMTlhZWQ2M0xrcnctQWktazg3d25GM25TaTNOLW9sbkNBNkVjdXpZZEs5ZWoxQ0JsRzNoZVRuSUJ6VUNUdi1veEJ6elpKOWZrYTBKS2xobnpDcXc2WENBSEpFVkVFR2hTMkpzY3l2dHdVR3NxTXAzZWdiNWJYNmFrVEM5cnNUY9IBoAFBVV95cUxPaWlqREVSa2cycmdGSHRYWWF4cTE2ZzB2QkEwSnlfRWFnQlhoVVliYzVtaWtaSm9NVWxIWnRJRUlBbzUxQ3BlNTh3d2ljc0QxRW04UjMtLWh4TUI3cmxsSWFwTG04RlpJM0lSMVpaNmhidlU1SG1CN3hUOWlZLW1SY1ZWaVVXNEFNanFiU1R5SmJHbDBodnhsVkNMLXR0MVpZ?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-05T17:31:08.000Z"
+      },
+      {
         "title": "Conoce el talento peruano que innova con inteligencia artificial - Revista Caretas",
         "summary": "Conoce el talento peruano que innova con inteligencia artificial &nbsp;&nbsp; Revista Caretas",
         "source": "Revista Caretas",
@@ -392,29 +408,13 @@
         "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQakt0Qk9tU1RJb1pZdkpmWkRTdXJTQV9NN3g0WXgxZjVzSW5ZUnlaWEtieTFwdDlaTU5HZWxNNFNKeURpMThTMDlzS2FEcHVyNHdELUQxbWk3SnVabzVvRXVQYVE2V3NsUmtHei02Ymo3UVJpanI4aFZrLWlzYTRkbURMRXI2U3pxTUlMMlhLc2xuTV9Udkl0bElkSmFHZ1I4QmtZRXJrLVZhUzVDeUo5X3R3OFh5UUt6cXVjWDlkWll4SmVXVDlnU1V6Y1NuVWM4bzRGTW4wbFJHUFlsWXdXd3MyQjVXNUUtUW5hdnZSSHpuQk45VElDTjZHd0pkWURqQmZNc290d0RqM2wxRkpXTFlYZm5uSFR3ZC1LLXlxTHZFd9IBtgJBVV95cUxQMXVORXFvQTRUWWJ0M1BsYVlXaUh6TkdaTEViN1BWSllUUnl1UFJhU0hWa05UUUlhNkYzaXlDdkNSbUc5WjRBYUs1cFhfODJHSDFFUzE2RndNTE96Qk13Nk9wRjJFd0RPM0dJVlk1MXdSV0szZDJLQVo0ZG1LLXZ0TE1GVnNsbWMxOTFtazZSdjMyRGoxT3V4anpPY245VEJuUFI0QnRXakpBMkdyVndVMW54RmJkQmEyZ0tHNWZqZVVwRy1RMTVMTVk5TEZMMGVrNnd3aUZiaDN3elR2U3lhaGdIS3FzZGc3VjZ6Zm50WTNuTDNBRXNTZUxHWlZ3bTJxbnZlbVE0WVVaczNvMDdrb2xBYy1KTXQ1T0tOR3JJX1dSRjJTUFJVMmEyVXF3ZGFMTGJzR1B3?oc=5",
         "image": "",
         "publishedAt": "2026-09-05T17:00:00.000Z"
-      },
-      {
-        "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - Diario Ahora",
-        "summary": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú &nbsp;&nbsp; Diario Ahora",
-        "source": "Diario Ahora",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUwwRm5ROVRhYTJuX0RCWEVaNW4yU1lQU0k0anlPcFRITnJEZTItWXJnVDF5MkYxODhCSV9sSWRJelduRjFLRnNYTDZGVG15WVdDQTJkRUpBVFd4V2FZazA2Q3ZvNGgxV2M3Z2FlcEl5cHJESEZoRWwyM0VPQ2MwWlpBc3BSakN3N25NTi1UNU1rWEhwejBONjQ1dTdUS3Y5Y1RUc0Y4dkpOZzFvTFJsWnZJREZGMmpwb2tPeFpyRnpha1Q5MWRlQw?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-04T03:11:37.000Z"
-      },
-      {
-        "title": "El MEF identifica en la inteligencia artificial un nuevo motor de productividad para el Perú - Gan@Más",
-        "summary": "El MEF identifica en la inteligencia artificial un nuevo motor de productividad para el Perú &nbsp;&nbsp; Gan@Más",
-        "source": "Gan@Más",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS1AxajBkQ1ZJelYzUTlnMVBiUVhFWTFSRi1KYXZuWU9xbnNBbmxXeG85ZTJXTHBJaGRRSE1VTWtjdlFpOTZ2VFJtZHQtT2lRdVhpUHNsd1V4ZkJwdjZ3YnBEVDRNMVNoSHFCYjdlbWVOSGl0TldWT0VCZ1VkV191TWw2Zno5dkV3UFptY0pqMXdhcnJYQVNLcUxjMjNnajJPaUNDSWN1UjFFLWVIblc0MEhtSC1UOC0tSFVsWFpoSHc?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-02T12:00:00.000Z"
       }
     ],
     "tendencias": [
       {
-        "title": "La Kachame video viral Twitter: Alexlumix1 tendencia en Telegram por filtración - TuNota",
-        "summary": "La Kachame video viral Twitter: Alexlumix1 tendencia en Telegram por filtración &nbsp;&nbsp; TuNota",
-        "source": "TuNota",
+        "title": "La Kachame video viral Twitter: Alexlumix1 tendencia en Telegram por filtración - tunota.com",
+        "summary": "La Kachame video viral Twitter: Alexlumix1 tendencia en Telegram por filtración &nbsp;&nbsp; tunota.com",
+        "source": "tunota.com",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWFVJZUZRdFl2VTJFZU9pcWEzOHZPVnhwTzNqN1MtbW5VSHFkcnk0OWd5RTM1bmdWUzV5ekxaak84Rl8zcjZIS2dPem9OWnRvajBJM2dvVUhna3diUVZuNGJRUTlFTzJYSjZUcUYzQkl1WWJJcFpaR0tYc2JqRjlZcUFnQllXQm96Nmpoenl3eE5EOF91M3ROUjFJZmdOVlpzbXhpa3p5d1ZoWVBiN2hUZHVxT1huRDFWVThDdlFVT2VESG9fQVE?oc=5",
         "image": "",
         "publishedAt": "2026-09-06T15:47:28.000Z"
@@ -436,9 +436,9 @@
         "publishedAt": "2026-08-30T04:30:15.000Z"
       },
       {
-        "title": "Qué significa “farmear aura” y cómo llegó a Perú - Diario Ahora",
-        "summary": "Qué significa “farmear aura” y cómo llegó a Perú &nbsp;&nbsp; Diario Ahora",
-        "source": "Diario Ahora",
+        "title": "Qué significa “farmear aura” y cómo llegó a Perú - ahora.com.pe",
+        "summary": "Qué significa “farmear aura” y cómo llegó a Perú &nbsp;&nbsp; ahora.com.pe",
+        "source": "ahora.com.pe",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QdFppR05rVjhGQzJMWnpycENKejBfQ2hLMG43cGRXalNvdXRVX2wzcGxzcFlaWmV0X1JxX2JobzZockdvanVVV1daMUl4SkVTaVFVZUkyelRTQWg4cWJyR0VrU1pIZTdYTllqVUhwelg?oc=5",
         "image": "",
         "publishedAt": "2026-08-22T06:20:10.000Z"
@@ -478,6 +478,14 @@
     ],
     "farandula": [
       {
+        "title": "Jaime ‘Choca’ Mandros celebra que Feria Fusión sea Marca Perú: “Que el público pueda disfrutar de nuestra rica comida” - Trome.com",
+        "summary": "Jaime ‘Choca’ Mandros celebra que Feria Fusión sea Marca Perú: “Que el público pueda disfrutar de nuestra rica comida” &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSTVYYlBqX2t4N1ZWUmtaMHg2N0F6c1lscms1Q0pjWWZsc1hHVUZlbGU0VnNWVVJjN3kxU1EzakFUd0poUWpQSmVYOXgwUWxiT3M3VjFCQXJtaFBaVV9tOXcyVUZLRUJPNmpZRjBOUDdGUDNTWnVLTkhyUDhtVkd4TVlpRGJRTUN3VURKYVVPNnpkWkZ0Mkk4dmwtMkRSRXdVRVlFbllfOGJwZjZjVjJhcG9YNTZhakY5Y01DMWFuRDJTdzNiVGJiV0tyeVpRY3B1cXBNWUZvUkt5QzUyYjNNTFNHSjBGUdIB-gFBVV95cUxOVmpYdExMQzREcHh1bS1kMFY2azJHekdad0U0ZWMyX2QwN2Y3Y0ZKSWhzbFZKYjNlWW1HNXJmZzRVZWdXTjVIZmVqeGRfS0U5azFzT3VsdXZ3QXhUUkhjZFJBWmI0Y0kxWlUzdllGV2VtckR0VFpYRmZ4SGcwbkdGZEtXTnJuelhXbFExS0VBZF9jbXlpc0JCZDFrWGdsTFh5SXJUcllVZXV4V1Q0WFRpVVhjRlJ6YkxHNk1vaG9oMGNTdkJoU2VNS25kRVl6VTRfRVZzYW9XdG1VYVpxLTdJWDZVZVdMcWZUbmw2aHZiNlNiUEl3Y0lCLU5R?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-04T13:44:02.000Z"
+      },
+      {
         "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
         "summary": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -510,36 +518,28 @@
         "publishedAt": "2026-07-27T07:00:00.000Z"
       },
       {
+        "title": "¡Se acabó! Sheyla Rojas confirma su ruptura con Sir Winston tras larga permanencia en Perú: “Terminamos” - Trome.com",
+        "summary": "¡Se acabó! Sheyla Rojas confirma su ruptura con Sir Winston tras larga permanencia en Perú: “Terminamos” &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSEstT2tDMnBuZDRXd01zVlZhV3JNTWh5blV3eXdVaGVDUmt4YmpFWElEVHVwQjJjcnF3LWJYMnVqenBhX3dsUzczU2xwUl83U1hxZXVsd1c1Rm5pMktCVW5vRkU4RUladzN4NXBrc2ZydjQtdW1EUm0yT2hvdE8tcHRmLUFYUEdqUHdnZGZ4WUZCV1JWMF9jb0xRdWpNX2ZiMGVYbWdxeUR3cEx6RkE1ZU0wX1BYUW9HUGp5Y0stSTFBa3dsZThjMU5TbDBLcWVlMTdmSWRTdktJZUluRFRJZEUyRGFtTDlsd1HSAf4BQVVfeXFMTVhpUFprMVd5Yi10UTBEU2FFckY4MlNTNHRCa0g1NERLSFBWMG5USlpYSUowZ2J3UERTRE5hZmNrWWJLQWRjeGhEaEJ1ZlZ4TkhaT18yY2NWSmx4M2JJUklhTXU0QVFPOF91a2lVaEhIbXJFaG9LQmFWS1U0VGtWWi0yTFdBNlFBVEZVakw3NzFiNlhaLW9MNjBYOUhRdFRVeWpnS0pESDB4YUliU2dndzVieVlKVVB6SU56LUxGaXN0TWtaQmNwMXQ0SjAtYThKdzJVanNiczY5RmkxRVdHUDA2QzctRWtPSVJMdDZXTk13ZVRwVks3d2FnZlZxSWc?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-12T07:00:00.000Z"
+      },
+      {
+        "title": "Fusión 2026 regresa con la gran fiesta de la gastronomía y el entretenimiento del Perú - Radio Onda Cero",
+        "summary": "Fusión 2026 regresa con la gran fiesta de la gastronomía y el entretenimiento del Perú &nbsp;&nbsp; Radio Onda Cero",
+        "source": "Radio Onda Cero",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVDRrWHZhNEtYVHphRGlZQzBPYlh5azE5b0l2R0Fqc0tJRGxnMTR0dFpCQ1A2Qi1xenRzNjd3anRiQ2RZaV9kQ29HQmxwekJXamltNkhvM1ZaS01XZnJrZmZ0bGtSWi1JSFVRd3RMT1ZSWUJDOEthaEliSGg5eE9RV1BEa1R1NzliT3FfTkgzdWw4ejFqWGFJcGRIRDN3Q0NMc1EwQ21EN3R4LU4xSDJLZFJFcEt5Zw?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-03T07:00:00.000Z"
+      },
+      {
         "title": "Ricardo Arjona se solidariza con los venezolanos en su concierto en Perú tras los dos terremotos - Trome.com",
         "summary": "Ricardo Arjona se solidariza con los venezolanos en su concierto en Perú tras los dos terremotos &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOERDMDlhVkRZY3pybFhrVE5xT19RbVRHcFpzNFFzbkY1bFVQYkdWaFg4djBNTEtuTGZSQ1NZdV9Lc2NKNm1PTzN5amk3Mk1HZHdHSWtrcWlsa21hbFpsSnpTa2ZGWEhsbTVhd2RjQXRzLWFjampfNFJfMUNTVlVmT1ZDZVJZcDdPS3NSSUliX2s2SVpGNUQtSFVUUXBDTEJYMlM2eTczTEVHQldVVS1nY2ZYQmJPeWY0LVRYbm1yV096b3U1eFpaQzhPZjJxWVFtelRwWnZSN3dSeFpMY1VSbFVjenJ2VDRzb3JvbHl2VTFOZ9IBhgJBVV95cUxOMjMzZ1BDa21SQ0lraS1malU3Rzl5NEtkMldjUlBzbVBzeV9TV1R1N3ZOTFlOcjNKYnZqR3E2Nl8tUzRNZ3kxXzdCcXEzNXh4b3FTRzRsZjJWNmNYdk9SckJua185UkxRaFNHRmgtblpaOW1NcU5rUkhTVk1OX3EzN2YwNV94RWh5WUQ3dXV0ZklNclFyTDJuQzNkLVRiX0NSRlBSZ2hYMHpxTC1ZU2dJZEs1ZTFlS3lsV3ZpOXFlVmxjQlUxcVFFYnZ6RUZoUklJYXh0cVlJTlpwdHNVMnFxc29KOUJYbk84d2lodmFnRko1WXB6ejUwTFh1Z3FZdXJpcjBTNUJR?oc=5",
         "image": "",
         "publishedAt": "2026-06-26T07:00:00.000Z"
-      },
-      {
-        "title": "¡Lima vibró! Milo J encendió el Estadio Nacional con show inolvidable: “Perú es clave” - Trome.com",
-        "summary": "¡Lima vibró! Milo J encendió el Estadio Nacional con show inolvidable: “Perú es clave” &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVXVaSDg1R3Bwb201eE5KQUh5WW1ScDZ0dkozZHlVeFlyRlpGR1A3TlgtSEpOc2FCbTdDcWUtWHJScF92LWViZ0pBZEhpcTBiRktmN01RU3NDdEtHVGVKcF9KYkJ0OUgzbDRTOHE3Vk9PN1ktZHNYUXk2VW9ZWkI1WU1VV2FqNFFkWFMzZ1FtbDdBMjZ1QU9MTGJpNmJIeVBUSnZ3bzVMNkV5endDblhzbjVsNkhvcjMtdmJ6SnpPSzZZT2pUNjVJRDk4STBWUlViN2ZwVW4yNUt5eDVENWRkYVBwMW5fNTdVN2hvaE1xMk5YenN1ZXfSAYoCQVVfeXFMTmd6QzhlcjQ0eGRTN2ZxbTdkdXhackZLUzV2U1ZXU1cza2hsZE5iZDVodzhZd3dnNVJjTHpkbTc4Yk9SZ1h1MjU0OFRWTkZZSzBsVlZOdWg5MWVtQlJTVl9IWUM0Q21OOW5qd0dNMkQtR182SmRUWWJsd3V5THkycXA0N2dZX0UtaHNValNUUjlUekU1dmZ6LWVlWjZESTFPRDZNWlJBaGY0d1ZhUHJHS3RTYUE1RkRqcWQ5TTA5QzQyazBZejV5RWkyQ0NJeVdXWFFUVkYtV1U5X1QyZVQ0ZTJmTy14cVlyMlZyTFItOVNhZGttVE9YSlRQUFpsem90QVhQbWI1Ni1RcWc?oc=5",
-        "image": "",
-        "publishedAt": "2026-04-18T07:00:00.000Z"
-      },
-      {
-        "title": "María Conchita Alonso cancela conciertos en Perú por incumplimiento de contrato con promotor: “Estoy triste, hubo faltas” - Trome.com",
-        "summary": "María Conchita Alonso cancela conciertos en Perú por incumplimiento de contrato con promotor: “Estoy triste, hubo faltas” &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNQWhfYnhiUlgyQXhEX2lpN1ZyZHBMdGJUQlVwdW9xeFliWWltOU1zUHBHaFE1TWRPcU5ndEV3ZTRUNjhfZUFlbGdUZUVUOHo2NWZsaUotV2RlalRxNE1DY1l4a2JzSXU2WjNaR3NXeTZqYXFMSEVRdU9VekRWWTZKWlB6ZWJwSjk1RkVRbDAydk9ranZ2eXEwaHQ0MHF1TXY2TzE5ZklNaXloZl9SMk01dF9ZZUZTYmhXZ3hiNUotUklReG8xMVhaMS1WRUM5V2VsRFQtTk93bmctLWVJNzdjVzVfTXFOXzNfcXJ0bGZLU1ZoQ2cyVFF4bVgta0JtYXVKVVdtUkc3enlEMGgzUXNOc2pxdlEzRDFYSU13SGRma9IBswJBVV95cUxOT1Vmd3RoS1lSaVh4NEwxMzU0THJpakhrZ242UGZDQTltb3R0OGFpLVhWM1FmZ21TX2ZEQ2g1SUlCLW9wb1Fab3hPa29hcmZBMVlhdko5UVA2cVhIWWtYSXNCb1pOTXpNcjZiTjdWejhjb1ZIQ3RCU0lHT2xCbm5rcktCN1RodzVWVm03azFzZzBtaV8wYTFtd3lQQXlwaFVxVGpwbUZoci01X2g4TExOLUl6dTNsSmhwdlh3TnRHOWtLWDF6QlRXTHRINUlScFNiZ2MxV2JxMTRLZ0ktQ0lfUFVrYks3T0lFRC1DTV9rTzJJMXM3Si1nVlRSYUV1NGx3VTRZWGh1YjNGWXpERTQycWZaMWNCbi14RlVibjFMV3d2M2RTWmxBLWZRSk45d1ZZS2xN?oc=5",
-        "image": "",
-        "publishedAt": "2026-04-09T07:00:00.000Z"
-      },
-      {
-        "title": "Mariella Zanetti se echa flores: “He sido una de las mujeres más ‘ricas’ del Perú y a mucha honra” - Trome.com",
-        "summary": "Mariella Zanetti se echa flores: “He sido una de las mujeres más ‘ricas’ del Perú y a mucha honra” &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUmhmeGFSbGFSNlJUVzZhLXYxNEpyWlFkaFFrQ0RwQkNDUnFnZDlpMTFhN1NLOXd2X2tRWmpoNDcxendGMUwtOUVUeHBlSDVscUc0V2YxNG4zMHZxVWZhUUdKVmctNkhWR1FYY0hWTXZMRFJwdHhjQ1ZjLXVlNXJ3eTJZQ1lkYzRpUURNaERLWGxUMWpPRWpkYWVoLVh1cXoxaGpTRjVBYmtIVjNHQzJ1TFZsTGJhZmlsMzYxTmtKSEpSUG1EZmhJdk1mb01LWDBQYVJ2cjJpdVdOb2lLYVRXTzU3TDZMMlMwN3ozNjZ3SdIBgwJBVV95cUxOQkM1NUpGdGZUejdZWjdUc1BIa0g4S0huWm14dFA1SnJwS3BkQjZ5VXh6YnhhWkFCQlFNcTJFcC15UTk0bkxWZXp4aklyRkZhNG92a2F6M00xeVlySDVuLS1LeHo1am95a2FIMDZ6YXVCdklGVjJlS2ItZjRNSnNkbDBCakZGUmM0S1FqNTlIdVJ6WmRwNDVJZU0zZUtEUnVqREdPUG9ZWEFwMnFqNGlsWTJZVVYycm8zanhIaDVsV0s2QU5QX3gwT1huYUNwUDUzTm85NFo2bjZUMUoxbVU0RURDUEpfZFFCcVU5YnEzMkQ4YkZnaDByQ0VoOE1ET0xvTlo0?oc=5",
-        "image": "",
-        "publishedAt": "2026-03-22T07:00:00.000Z"
       }
     ],
     "cultura": [
@@ -549,7 +549,7 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQYXF1LXQtc1VqT1hYLU1JWFJwTVRUZ09RbjhPdHoyRTBxMVptUFMxMC1vNTlYelBDUFdwaldxX091ckNfeFJueUJkdVBDOGZ1VENfX3NwaXhjTnNiLVJabkdpQ0VOUWtBcGdsUldYTXpxazNEWmp2TWhmMFkxVExXM2xiRHg5RDBQdFlNQk1hZmtwWWNrY09GZkFlMExpQ0Q2cGdkcVJENDBPQXhBWHJ3Vzc2RW1pZmVBLUJSa2xLRUY3cFAxVkxsVHZrLWIwamdESEJ4Mm5GS3Bnbk4yQUhKTzNQSVRaYUp0WnBEb1lnemF4ZExEY1FuOTdBQUpWQ3Bl0gGbAkFVX3lxTE5hOHV3dU1TbmlvMUl6cWJpVmdGRXVPWmVJMnR5VUtTNjNfSnkxSC1pTTktaVVid2c5TUo0NEQ0aS1GTFpwOUxvRUswcmtVQUZwY0dEaEtBMmlpYkhsaHZYWUtleVlTenVyWGVQSTVJQ3F2NVZPVUw4emxQRU9wSUY1cTQxTkZtVDlScnpwcXJhTTVlejZSak4ySVY2MHQ0MkhnMHR3N21wNTA2Q2owd2hqcWlRWVYtQVU1QVl1VnJRaXpOS2NMVE95b1pFZmdFX0NZRk9RSE9obUN4UHhrYXUyR3pEYXBncnpJbEwxYWhqSmRkVUlOUmlSOUFkOGkwWG9CWDFGM3hXUUdpQ2xOalFmdld6OWF5LWpRNFk?oc=5",
         "image": "",
-        "publishedAt": "2026-08-27T07:00:00.000Z"
+        "publishedAt": "2026-09-01T01:09:00.000Z"
       },
       {
         "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - Agencia Andina",
