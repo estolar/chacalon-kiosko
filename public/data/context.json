@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T10:14:04.418Z",
+  "generatedAt": "2026-09-07T15:50:55.237Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,20 +24,12 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Radiografía educativa de las Elecciones Regionales y Municipales 2026: Conoce el nivel de estudios y profesiones más frecuentes de los candidatos",
-        "summary": "Más de la mitad de los candidatos a distintos cargos en las elecciones municipales y regionales 2026 no tiene estudios superiores concluidos, según sus hojas de vida. La oferta electoral refleja la brecha en el acceso a la educación superior en el país.",
+        "title": "Diputados plantean cambios al plan de la Comisión de Energía y Minas que abría las puertas a la Confemin y al control de privados",
+        "summary": "",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/elecciones-municipales-2026-elecciones-regionales-2026-keiko-fujimori-fuerza-popular-rafael-lopez-aliaga-carlos-bruce-franco-vidal-onpe-jne-votaciones-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/LMHWTWX775AK5G44CFXVY5RAOY.jpeg?auth=bf21dc5594102cc50f97bdbf198a55ccc8c43a04680ab930f91f1baa5b45b7e7&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-09-07T07:09:59.000Z"
-      },
-      {
-        "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
-        "summary": "Fuerza Popular | Desde que empezó a participar en elecciones subnacionales, el fujimorismo redujo su oferta electoral en más de la mitad.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/en-16-anos-fuerza-popular-solo-ha-ganado-3-gobiernos-regionales-y-no-ha-colocado-un-solo-alcalde-en-lima-metropolitana-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/3ZQHU5EOGNH33LU7J6EN3J4QSE.jpeg?auth=05b2ba86279d4f5e8c5af8ea35780dce6caca06e15b2546119eb9e3be8b10463&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-09-07T07:09:20.000Z"
+        "url": "https://elcomercio.pe/politica/diputados-plantean-cambios-al-plan-de-la-comision-de-energia-y-minas-que-abria-las-puertas-a-la-confemin-y-al-control-de-privados-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/AKI43KN3FRDC3MLLMAIM4MEUUM.jpg?auth=5dea5b8eb627ce24b1f0a5c9f657bef3d65b272cdaaa4d2c6cf3aa54fc4f9999&smart=true&width=1200&height=647",
+        "publishedAt": "2026-09-07T15:36:56.000Z"
       },
       {
         "title": "Óscar Arriola: los entretelones detrás de su salida de la Comandancia General de la Policía",
@@ -45,23 +37,39 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/oscar-arriola-los-entretelones-detras-de-su-salida-de-la-comandancia-de-la-pnp-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/WMTM5EM43VH3NN23FMGGNP3OSA.jpg?auth=2311edb9e8273cc6787d776a42f3ef64d242a8b6b2b88ee4f018d860e0079ce5&smart=true&width=1200&height=647",
-        "publishedAt": "2026-09-07T05:01:00.000Z"
+        "publishedAt": "2026-09-07T15:36:35.000Z"
       },
       {
-        "title": "Óscar Arriola renuncia a jefe de la PNP: senadores y ministros se pronuncian frente anuncio",
-        "summary": "El general de la Policía Nacional del Perú (PNP) presentó su dimisión tras semanas de cuestionamientos por la gestión de la seguridad ciudadana.",
+        "title": "PerúCheck: Pedido de facultades bajo la lupa, una revisión de 12 afirmaciones contrastadas con data oficial",
+        "summary": "Ante el debate por el pedido de facultades legislativas del Ejecutivo al Congreso, PerúCheck verifica una serie de afirmaciones clave para la ciudadanía: extorsiones y homicidios, la dimensión de la población extranjera en el país y la situación de las micro y pequeñas empresas.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/actualidad/oscar-arriola-renuncia-a-jefe-de-la-pnp-senadores-y-ministros-se-pronuncian-frente-anuncio-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/XAZMNEEQ4FDWFFQIOLFCJAF2QU.jpeg?auth=9cde945348cc81787f7d9f0d245e6378c5b60f6305b9286765512ddf448a0dd7&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-07T02:37:27.000Z"
+        "url": "https://elcomercio.pe/politica/perucheck-pedido-de-facultades-bajo-la-lupa-una-revision-de-12-afirmaciones-contrastadas-con-data-oficial-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/ZWXNUCXLUJD33LJTLS5UDMZTBE.jpg?auth=d383ecbd4ca03417e1742e8760135b1e68f90602e80e28d32b57c3860c78b7f0&smart=true&width=835&height=458",
+        "publishedAt": "2026-09-07T15:26:51.000Z"
       },
       {
-        "title": "Óscar Arriola renuncia al cargo de comandante general de la Policía Nacional",
-        "summary": "La salida del comandante general fue anunciada esta noche durante una declaración pública en Palacio de Gobierno.",
+        "title": "Alejandro Muñante: “No se debe centrar la política de gobierno solamente en la delegación de facultades”",
+        "summary": "Alejandro Muñante (Renovación Popular), primer vicepresidente del Senado, dijo que actualmente la administración de Keiko Fujimori “no está atada” para combatir la inseguridad y realizar medidas preventivas de cara al Fenómeno de El Niño. Agregó que no depende solamente de que el Congreso bicameral le otorgue facultade",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/oscar-arriola-renuncia-al-cargo-de-comandante-general-de-la-policia-nacional-del-peru-pnp-keiko-fujimori-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/DUIBK23ML5ETNF5XLH4MZPRCNM.jpg?auth=5c31dcd99e89677218a503688a82e12a3cff801bb8920d59c256601815508df2&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-07T01:09:52.000Z"
+        "url": "https://elcomercio.pe/politica/congreso/entrevista-alejandro-munante-no-se-debe-centrar-la-politica-de-gobierno-solamente-en-la-delegacion-de-facultades-entrevista-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/6LQM3IP54VEHFOAV36WGL44BGQ.jpg?auth=86318b35be084608c45882b9f3745f3b0bcf9d2eb5b096b6c03f1164099720c9&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-09-07T15:17:00.000Z"
+      },
+      {
+        "title": "Radiografía educativa de las Elecciones Regionales y Municipales 2026: Conoce el nivel de estudios y profesiones más frecuentes de los candidatos",
+        "summary": "Más de la mitad de los candidatos a distintos cargos en las elecciones municipales y regionales 2026 no tiene estudios superiores concluidos, según sus hojas de vida. La oferta electoral refleja la brecha en el acceso a la educación superior en el país.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/ecdata/elecciones-municipales-2026-elecciones-regionales-2026-keiko-fujimori-fuerza-popular-rafael-lopez-aliaga-carlos-bruce-franco-vidal-onpe-jne-votaciones-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/LMHWTWX775AK5G44CFXVY5RAOY.jpeg?auth=bf21dc5594102cc50f97bdbf198a55ccc8c43a04680ab930f91f1baa5b45b7e7&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-09-07T15:11:09.000Z"
+      },
+      {
+        "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
+        "summary": "Fuerza Popular | Desde que empezó a participar en elecciones subnacionales, el fujimorismo redujo su oferta electoral en más de la mitad.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/ecdata/en-16-anos-fuerza-popular-solo-ha-ganado-3-gobiernos-regionales-y-no-ha-colocado-un-solo-alcalde-en-lima-metropolitana-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/3ZQHU5EOGNH33LU7J6EN3J4QSE.jpeg?auth=05b2ba86279d4f5e8c5af8ea35780dce6caca06e15b2546119eb9e3be8b10463&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-09-07T15:10:46.000Z"
       },
       {
         "title": "El nuevo Congreso bicameral alcanzó un nuevo récord de mujeres, pero el Senado aún está lejos de la paridad",
@@ -69,57 +77,65 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/ecdata/congreso-keiko-fujimori-senado-diputados-bicameralidad-palacio-de-gobierno-mujeres-martha-chavez-fuerza-popular-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/5CNBAEYKWVE53IHCVZAYKUV5CA.png?auth=8e7a13e206d920b70ddfca603c0c9325c76a88346ce797f823ffcb326f891177&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-09-07T00:45:01.000Z"
-      },
-      {
-        "title": "Luis Galarreta: “Necesitamos esas facultades para hacer lo que hemos planteado como plan de gobierno”",
-        "summary": "El jefe del Gabinete resaltó que el requerimiento presentado al Congreso no abarca solo la seguridad ciudadana y el FEN, pues hay urgencia en los 66 puntos del documento.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/luis-galarreta-necesitamos-esas-facultades-para-hacer-lo-que-hemos-planteado-como-plan-de-gobierno-entrevista-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/52JK2KRNB5GMJGT67MSRNAPBIM.jpg?auth=b457fe70ae7ffaa8fe73bfec9a2e5faf3e270f9bfab1fb11392e1ea4a33f2eae&smart=true&width=1600&height=1164",
-        "publishedAt": "2026-09-07T00:13:09.000Z"
+        "publishedAt": "2026-09-07T15:09:40.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Gobierno de Fujimori apunta a las mypes para aumentar empleos formales: ¿qué podría cambiar?",
-        "summary": "En su reciente política general, se consideró el impulso de “esquemas de incentivos y otros económicos”, aunque expertos observaron que ya existen algunos. ¿Cómo lograr que se “mueva la aguja”?",
+        "title": "Sector electrodomésticos en Perú: quién gana y quién pierde debido al clima",
+        "summary": "El FEN reordena el sector electro: refrigeración y ventilación se disparan hasta 50% y 55%, mientras otras categoría se estancan. La CCL proyecta un cierre de año con hasta 15% de crecimiento y ya mira un 2027 \"alentador\".",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/gobierno-de-keiko-fujimori-apunta-a-las-mypes-para-aumentar-empleos-formales-esta-es-la-estrategia-que-aplicaran-como-parte-de-su-politica-general-noticia/",
-        "image": "https://gestion.pe/resizer/v2/K26MY7XI3VDV5DX77ZY6P3FSM4.png?auth=aef0317097330f729e1da77625ff4144ec4e8aad157fc6cc9f653f35cc3b1372&smart=true&width=1038&height=685",
-        "publishedAt": "2026-09-07T10:02:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/el-verano-aun-no-llega-pero-el-nino-ya-dejo-ganadores-y-perdedores-en-el-electro-noticia/",
+        "image": "https://gestion.pe/resizer/v2/IXW7ZADJYJCQTGTFKKO7QQVQZQ.jpg?auth=95513e2b0032556bf4b4fb35a9b232a2b8c54bc49d8e61ade794612fd2457e0a&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-07T15:46:10.000Z"
       },
       {
-        "title": "Demanda interna y recuperación gradual de agro y pesca marcarían pauta en 2027",
-        "summary": "Gestión realizará el 27 de octubre una nueva edición de su evento “Perspectivas Económicas”, esta vez con el tema “Las decisiones empiezan hoy”.",
+        "title": "Sentua, antes Perfumerías Unidas, reabre en Jockey Plaza y alista la reapertura de Plaza Lima Sur",
+        "summary": "La marca de belleza inició una nueva etapa tras dejar atrás la identidad de Perfumerías Unidas y ampliar su propuesta hacia nuevas categorías y experiencias en tienda.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/demanda-interna-y-recuperacion-gradual-de-agro-y-pesca-marcarian-pauta-en-2027-noticia/",
-        "image": "https://gestion.pe/resizer/v2/3P3Q2CIT2BAAZELYMWYH3JRTIU.png?auth=76e0dede478366908dcc70aa9e0b24496281b558f2f4f7a4917d0c75020774ac&smart=true&width=969&height=644",
-        "publishedAt": "2026-09-07T10:00:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/sentua-antes-perfumerias-unidas-renueva-sus-tiendas-reabre-en-jockey-plaza-y-alista-plaza-lima-sur-noticia/",
+        "image": "https://gestion.pe/resizer/v2/NB3G2GQV25HVTOPZD54S3SLMRY.jpg?auth=32306fec7470dd840a7d7a90db6b7d7f98c75d17a9655a43ace8cbbd824d4360&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-07T15:34:41.000Z"
       },
       {
-        "title": "Minem alista 3 instrumentos para dar giro al sistema eléctrico: ¿qué pasos dará?",
-        "summary": "El Minem informó que trabaja en el Plan de Transición 2027-2036, el Plan Energético Integrado Nacional y el Plan Provincial de Uso Eficiente de la Energía Eléctrica.",
+        "title": "Comisiones por ventas: ¿las empresas deben informar cómo se fijan estos pagos?",
+        "summary": "El Tribunal de Fiscalización Laboral de la Sunafil se pronunció sobre multa impuesta a una empresa. Sepa los detalles.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/sistema-electrico-gobierno-de-peru-alista-3-instrumentos-para-dar-giro-que-pasos-dara-noticia/",
-        "image": "https://gestion.pe/resizer/v2/2YITUNMDQNEV3AKXGQLMOJ7IQU.jpg?auth=0961010b90d6ab0c7a3ba0794a27981b6dfaf52f7b8e540e6d06110dc7ec383a&smart=true&width=925&height=580",
-        "publishedAt": "2026-09-07T09:50:00.000Z"
+        "url": "https://gestion.pe/economia/management-empleo/comisiones-por-ventas-las-empresas-deben-informar-como-se-fijan-estos-pagos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/2NCFDYJWY5C4ZM6KJ5PMB44IGQ.jpg?auth=0b9d6df21f6f91de9d4db761bf03a9bf6ccc1e0f31e1087bebbe3a67abf6f62c&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-07T15:22:42.000Z"
       },
       {
-        "title": "Precios al alza: productos y servicios que “movieron” el bolsillo de las familias en agosto",
-        "summary": "Pese a que la inflación anual en Lima Metropolitana llegó a su nivel más alto en casi tres años, en agosto el alza fue menor que en meses previos.",
+        "title": "Tipo de cambio baja hoy en Perú: ¿Cuánto está el dólar este lunes 7 de septiembre?",
+        "summary": "El lunes 7 de septiembre, el dólar en Perú comenzó el día con un descenso, ante la cautela de los mercados ante los próximos datos de inflación de Estados Unidos, que serán determinantes para las expectativas sobre las tasas de la Reserva Federal.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/precios-al-alza-los-productos-y-servicios-que-movieron-el-bolsillo-de-las-familias-peruanas-en-agosto-noticia/",
-        "image": "https://gestion.pe/resizer/v2/HZ4X22JMJRCITBHI3KEQMNJYGA.jpg?auth=d51d5ede6fe0603562498b5ed7d076f98838845f0c6d44894e3a52963f202cc0&smart=true&width=1400&height=800",
-        "publishedAt": "2026-09-07T05:29:16.000Z"
+        "url": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-lunes-7-de-septiembre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
+        "image": "https://gestion.pe/resizer/v2/XTLFSLTGQFEDXMKES5F3I6KTHY.jpg?auth=fe01f417e2f60ba5dadca3f3c63979ce7bf846861ab6639094ab68a68c86245b&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-07T15:06:44.000Z"
       },
       {
-        "title": "Puerto de Chancay busca carga y la Amazonía tiene el potencial: ¿qué frena el “viaje”?",
-        "summary": "El Puerto de Chancay busca aumentar su volumen de carga y la Amazonía aparece como un potencial proveedor. ¿Qué necesita primero para aprovechar esta oportunidad?",
+        "title": "Terpel sale de los grifos y apuesta por lubricantes: la inversión que ejecutará en Perú",
+        "summary": "Terpel entregó a Primax su última estación de servicio en el Perú y cierra su etapa de grifos. Ahora apuesta por lubricantes, nuevos fluidos y US$ 15 millones en su planta del Callao a diez años.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/puerto-de-chancay-en-peru-busca-carga-y-la-amazonia-tiene-el-potencial-que-frena-el-viaje-noticia/",
-        "image": "https://gestion.pe/resizer/v2/MOJGWBHQCJE4NIXNW4IR3RW4T4.png?auth=2ccc16c80286fec24763de215a4fd443db7bd9356ced56561e8b5b7e36695b5c&smart=true&width=1395&height=926",
-        "publishedAt": "2026-09-07T04:55:46.000Z"
+        "url": "https://gestion.pe/economia/empresas/terpel-entrega-su-ultima-estacion-de-servicio-a-primax-que-negocio-hara-ahora-en-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/563VFPJHORGBRA32WYNHPIDLRM.jpeg?auth=567bec5b4a4a3dd8ea5b88dbefeb59692e1dcaebd7c7f69df385ca0c0b800994&smart=true&width=2000&height=1334",
+        "publishedAt": "2026-09-07T15:06:01.000Z"
+      },
+      {
+        "title": "Fabricante Agrovet Market alista adquisición clave para ingresar a alimentos para mascotas",
+        "summary": "Agrovet Market crecerá entre 25% y 28% este año, empujado por el negocio de mascotas. Ahora planea levantar una planta en Lurín, montar un centro de I+D y entrar a una nueva categoría.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/agrovet-market-atrevia-acelera-mayor-produccion-en-lurin-y-prepara-su-expansion-en-mascotas-noticia/",
+        "image": "https://gestion.pe/resizer/v2/HHAPI5HZFFF7ZORGD3CZLOQJCY.jpg?auth=68dac435fdb6dba0a93208edbab0468cc59030fcf9d357d9b983063bde4290ee&smart=true&width=790&height=527",
+        "publishedAt": "2026-09-07T15:05:49.000Z"
+      },
+      {
+        "title": "Sistema eléctrico en Perú: ya no podría sostener esta “condición” en próximos años",
+        "summary": "En medio de la crisis energética, el Comité de Operación Económica del Sistema Interconectado Nacional (COES) advierte que el sistema eléctrico no está preparado para mantener costos ante precios altos de los combustibles y efectos del Fenómeno de El Niño.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/sistema-electrico-en-peru-ya-no-podria-sostener-esta-condicion-en-proximos-anos-que-pasara-en-medio-de-altos-costos-y-el-nino-noticia/",
+        "image": "https://gestion.pe/resizer/v2/QTHHZFK53BETPGSL5NYYHS7CHI.jpg?auth=fa9ba7d2d05c9ca41aea2b6f70f2b6e0c9b1ad3b32d3a0fe443ecba0d3273638&smart=true&width=827&height=515",
+        "publishedAt": "2026-09-07T14:55:25.000Z"
       },
       {
         "title": "El Niño agravaría inseguridad alimentaria, ¿qué tan vulnerable es el “bolsillo” en el Perú?",
@@ -127,23 +143,7 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/el-nino-en-peru-agravaria-la-inseguridad-alimentaria-que-tan-vulnerable-es-el-bolsillo-de-los-hogares-peruanos-para-enfrentar-esta-situacion-noticia/",
         "image": "https://gestion.pe/resizer/v2/JOCUBYWTDNCDRN2BRTGHVSGOFI.jpg?auth=7f3eb91846740dd42b395ff48a243e3f4030803899e7d95b1a96432a3abab0f7&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-07T04:53:52.000Z"
-      },
-      {
-        "title": "Empresas se preparan ante El Niño, pero ya temen por estas tres afectaciones",
-        "summary": "Una encuesta del BCRP muestra cómo las empresas se preparan ante los posibles efectos del Fenómeno de El Niño.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas-de-peru-se-preparan-ante-el-nino-pero-advierten-sobre-tres-afectaciones-principalmente-para-sus-negocios-lo-que-dice-la-data-del-bcrp-noticia/",
-        "image": "https://gestion.pe/resizer/v2/U4EWHYHXH5BFDG4H4LYWBYPA54.jpeg?auth=e655819ab848243c0c8927de6cb9300579b9fca1185754dbd3a1d4c7dad7a9a8&smart=true&width=1600&height=1066",
-        "publishedAt": "2026-09-07T04:51:07.000Z"
-      },
-      {
-        "title": "Desempleo juvenil en Perú alcanzó máximo nivel en casi una década: el panorama que preocupa",
-        "summary": "Los jóvenes sin experiencia tienen más dificultades para acceder a un puesto formal, mientras que la baja productividad y los costos de contratación reducen los incentivos de las empresas para incorporarlos.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/management-empleo/desempleo-juvenil-en-peru-alcanzo-maximo-nivel-en-una-decada-e-impacta-en-productividad-el-panorama-que-preocupa-noticia/",
-        "image": "https://gestion.pe/resizer/v2/XVMKOO6L4JCYRDU5VP54P34XWE.png?auth=1a804f6d73f97dae9527b90ecd8147c59a6940b044cc0693e2755c290694fb8e&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-09-07T04:50:40.000Z"
+        "publishedAt": "2026-09-07T14:54:46.000Z"
       }
     ],
     "sociedad": [
@@ -180,14 +180,6 @@
         "publishedAt": "2026-08-11T07:00:00.000Z"
       },
       {
-        "title": "Estas son las comisiones de la Cámara de Diputados que tendrán mayor poder de decisión en el nuevo periodo legislativo - Infobae",
-        "summary": "Estas son las comisiones de la Cámara de Diputados que tendrán mayor poder de decisión en el nuevo periodo legislativo &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeXZsRHloYmRHU3ppR3pKTWg0U0FtSFM1MC1GWjJqeHVVb1M3QzlQelJUWFlGR1gtOWZYQ05iS1VDTlF0aUx6OHphRW1fVmtETVR3Tnc3YXFhQndfc1hRZW1mNnlLNXdDdTlfSlNOUlVPeE5pOXA5ekRsODVnemNSVTB3dzhGTmgwVGFMYVN1Zy1NTnhRVTUxejBjc1lIZ2ZWQjZ0d0cwSHJCUWRMM2xtcHpqWkppOGJXLTZqYzV6RzI0OXc3T1dEZEdiM0VXcjZkZllCcVRYWDMyRlVPS0xkWGdKR2NxWXZPUzVBUzJDSDbSAYsCQVVfeXFMTXgxSkI3ZG1kTXVidU1CMkVvRFNURFFvTmNjaE14UHk1YmFjbklkLThvWGVBWnVnTUtyTXRnM3dRcklHY0JRWE9Kd1FTSDV2QVNDRDlCYW9TOThfZVItcUprZElqazRpd2tDdG4tamVGUGNtYzFhbFEzX1dCanNOY2VMZnEtQmFPYkpvRDJWSDM3U0tZa3VSanlqZkRGOTVIN05tQlhoR2psMlNyNFJUVV9aNnE1bjlidksxNnh6SGlFUGZVcllNUFZPTUpSRVUxVU9UcE9DYlJxWUt3OXEwaDlIWTJPVS1vRlB6SDNBZmZZZHZIcWUtSDZYVGszTGYyMWJSUE8xTUU5RlM0?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-05T07:00:00.000Z"
-      },
-      {
         "title": "Exitosa Noticias. . 🔴🔵 #ExitosaPerú🇵🇪🇵🇪 | Seguridad ciudadana y salud encabezan las principales demandas de los cusqueños al próximo Gobierno. A pocos días del inicio de la g",
         "summary": "Exitosa Noticias. . 🔴🔵 #ExitosaPerú🇵🇪🇵🇪 | Seguridad ciudadana y salud encabezan las principales demandas de los cusqueños al próximo Gobierno. A pocos días del inicio de la gestión de Keiko Fujimori, ciudadanos piden que ambas áreas sean priorizad &nbsp;&nbsp; facebook.com",
         "source": "facebook.com",
@@ -204,12 +196,20 @@
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
-        "title": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS - ahora.com.pe",
-        "summary": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS &nbsp;&nbsp; ahora.com.pe",
-        "source": "ahora.com.pe",
+        "title": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS - Diario Ahora",
+        "summary": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS &nbsp;&nbsp; Diario Ahora",
+        "source": "Diario Ahora",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUm9heXNQZzZPY0tMTmxyWEJrSVFZMlFtb2JVOFpfZXpubndad19NYTVyQVpyLVk0Yi1GZ0xCNmtRY0lWbV9VMTE5QUtRZG1zM2FJMzQweTU1a1lsVzl3OURfYldrUVM1aEJXWGI1OTR4OTFkRDQzcEtpaG1rcE42Zl9jT1g3RVdmQkZETk1ZOFBpd0o1MmF2RHVOczJsQ2Q1VHJGMjJrQ2tCVE42OXNz?oc=5",
         "image": "",
         "publishedAt": "2026-07-15T15:44:23.000Z"
+      },
+      {
+        "title": "La Libertad: Piden al nuevo Ejecutivo más empleo y seguridad - Diario Correo",
+        "summary": "La Libertad: Piden al nuevo Ejecutivo más empleo y seguridad &nbsp;&nbsp; Diario Correo",
+        "source": "Diario Correo",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVUdWWFZ0azN6ZVg2TUdyclVlRjQyTnk1bFV5aElpNV9OX3AzZGJvX0VRSnhicEUtbGZBYndqMzB2UllBaHlhZ0k4RzlTSU5DOERUN0ZxZkhlZmFhcU9RcDg4b1o1RzZGV0wwYTBLTDJXN3VpT2dpVjRLR3BmVUpUREpKWWNydC1JLWFDOFBNakp6MHF1R2ZtSXA4VTlTMWtkRlk2c1pKZ3hXZmNVSm9OcmxRQy1CUG90MVJWbjBfdmdWNHdl0gHYAUFVX3lxTE5UbVZCUUpheWt2YVBtMldYSGNqUlVIcEhLVkVvZG5CdXBhNmpYZUNJOFlsVDN2SThkdUNjNGlXNXROVkNlOUdHbHF1Uks5bWlsb3lrX2FOZFRYY05ROWd1YTVxQTNJSGpjNTI0MkJvNmtadFlYN1kwN1AtVk8xQXItd05qdWtRaE5QSXR1S1FIdC1Dc0xQTFlZckpFWFplYXl3UEh0bXc4eExUd2I0cXIxazdoRHFnZVF4UlZrVUdQYkczSkp1S25DNmhzNmp1aHV6T1o4QmtSUg?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-07T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -228,14 +228,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOczV0aHBxeXJTcnQ2eUR5UWh5LUVNaU9UUUd1eGFETGpiUTF4cXBCXzZGVWFSM2hWR0c4a2tTMTNhZVVvWTJOWTNyQTB0VFdFWE50WmtxQXpIaFhHd1VrdERmeGl1eFlEZm94ZWNwMGVLNWJ5TXNreHFwWU8tWEZONVctOVRQc2VGeVJkNGdHcFJXSFZBLXIwalotRVFuWmJSYjBVSDJLVkp2emw1ZzlCNEpadzVoSExUM0RYSXJWZlgxNXp5a255LUN4QXJ5V25ISUpuUS1ORElpaTNxb1B1dFp5UTdRZ9IBgAJBVV95cUxQbzBRUy1EZnc5ZnhzandnWFd5T0oyODQ4akMteWVWcnJqaFNYZHpTTG5fZUxFU0tFUTR6c04zNEIzRThldVllMGFjVlFybzdFeHZsam1KR1Y5TkZIV2lxcGFsLVpVa1loWk9qdy14N3p0Ql9oRnhBSUU4MExjYzVTR2FhYTVJQWV4aGJlQl84NExEVUV0SThfUTZpb1FCQ0duUUJ3QXZWd1QxcDNzRERBR0tpMnhfTE5VQzV5dWhPbFJMTWpiZ2EtbENla0dKb1Z5U1FydmZUeUdLYnVVRG1sNTl3TEZtN0MtM0VmcHJUOW1sSlFLdGlKSlJfT0JuOFY0?oc=5",
         "image": "",
         "publishedAt": "2026-07-21T07:00:00.000Z"
-      },
-      {
-        "title": "Joven emprendedor lidera la primera convención sneaker del Perú y busca expandirla por Latinoamérica - Business Empresarial",
-        "summary": "Joven emprendedor lidera la primera convención sneaker del Perú y busca expandirla por Latinoamérica &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORW1HTmxZWG5YdXc5QVZMVTJ4ZE9rVUoxODBXSnRIRnJtVjc0NzlnV2xQeFFrRkVzWkdRMTVyU3YxQU1kQ0UzejMxcGI3NzdqdGZMZWQtZlp1eEdwWHhGYnJRMFRIeHcyMFE4OGI4bFdCekl6NlF1U2NoXzNiNEo3LXk4N0hodWJnTldoUEtqY3BUU3Q4S01GZTNMdDFySmMzeDY4emVXSjdQSGtXNmd0NGxQQi1pT0ZWWnlGTHk3cWtxd2lBR2xvTlRUWEJrQVVFaU83NnF0SQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-16T07:00:00.000Z"
       },
       {
         "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - Business Empresarial",
@@ -276,6 +268,14 @@
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
         "image": "",
         "publishedAt": "2026-06-10T07:00:00.000Z"
+      },
+      {
+        "title": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú - Business Empresarial",
+        "summary": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BXc0NCUE53Q1dicXN4ZXFJY3RHNmhlQnh1UG81VHItc29JbE5KdDViOTB1OW5Ja3V4dTdWRWZGLW1zRlVHUVJPNFMyS2h6YzR0THpaeC1EbmdfTlJNQzB4RkJ2VU9wZWN5YjZuelBIUG1DZlVxeURaVTdIdjZTRGdtUmRKaEEzY2dKd2pKS0h2RjUtN1JualhXY3lPbVdIdDlaRFdnRWNUd2p2b1RtTjJQcUx6d21ZNkdkT0dSWU9hV3Nya09UckFMNmFIUQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-05-27T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -304,6 +304,14 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
+        "title": "24 semilleros de investigación de Cundinamarca mejoran sus capacidades con acompañamiento internacional de CONCYTEC - 24 semilleros de investigación de Cundinamarca mejoran sus cap",
+        "summary": "24 semilleros de investigación de Cundinamarca mejoran sus capacidades con acompañamiento internacional de CONCYTEC - 24 semilleros de investigación de Cundinamarca mejoran sus capacidades con acompañamiento internacional de CONCYTEC &nbsp;&nbsp; Gobernación de Cundinamarca",
+        "source": "Gobernación de Cundinamarca",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaG94YzZZUlRrbWhTOG1UTGlYSU0xNG5yUTYzN1dMQU5xbElHX2p5dm9FcHhNSk1ueFE5ZkFhaU52S1pBM0V2ZUM4clBrVDVmTVBqNEtYMVE2YTRmVDdCZlUxUjBEV1lobUphV0dCZFRjUU5GT3l0RnN1cWhQUVI3QlBIelNtS3V4LUJBb2tkQjN2cFZlS1FpYUUyYTZIaTFkS1Ewem5hYzJrbjRTMlUxQk9Fak1zeVlqbXprZWZjZWgwNWczcGdZQ3RWb2hhSTQ4Q3dWVDY3bVZjWDNCdl9Hektnc0tkRV80WGdvcg?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-01T20:32:44.000Z"
+      },
+      {
         "title": "La paradoja peruana: Crecer sin innovar - Gan@Más",
         "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; Gan@Más",
         "source": "Gan@Más",
@@ -328,35 +336,27 @@
         "publishedAt": "2026-05-05T07:00:00.000Z"
       },
       {
-        "title": "Perú retrocede en innovación: más allá del fintech, ¿dónde están las oportunidades? - Gestión",
-        "summary": "Perú retrocede en innovación: más allá del fintech, ¿dónde están las oportunidades? &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
+        "title": "Perú retrocede en innovación: más allá del fintech, ¿dónde están las oportunidades? - gestion.pe",
+        "summary": "Perú retrocede en innovación: más allá del fintech, ¿dónde están las oportunidades? &nbsp;&nbsp; gestion.pe",
+        "source": "gestion.pe",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUTg0TnlVV3lUYTdjLVp2aVdLR3lmU0l0VnBuTUlYRUxtbE43SHplMGgyc3MwUTl5RnBGeE1pR0tkak1tVVVXakhuV0xPaHh5TmVZR283NkNuZUpTY1FxanJELTJLckdKSVlJOTF3QTBhNnBibnlldjQyQkU3c2JYeDBKcXEwaTJxQklVa2J0Y1Q1T0JRcEVrTlZGV1ZTMWtZNHlEbmJtSTVNUHg1eGRCZjhB?oc=5",
         "image": "",
         "publishedAt": "2026-05-01T07:00:00.000Z"
-      },
-      {
-        "title": "Innovación, el gran reto de las empresas para crecer y desarrollarse - Agencia Andina",
-        "summary": "Innovación, el gran reto de las empresas para crecer y desarrollarse &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTktdVEyR0NCbmxuYjhtdHJ2VElUc1VVcXRNOTJwNGM0a3ZHWmUxSTJHbGdwWkdtRm0zWWlic2FON3NYeGtHNjRYek9zbU1KblpMQVo1bk5qTHZkVUNHbGowUlhXYlJhNngwNHFaN1JGaUdRTlJNNjdjMmhLbkEyNDFodmhJb255ai1Ndm9xVnZWTHNoVnBvaTRQcjB4dEpJX0ZPeG14U0t0bEM1?oc=5",
-        "image": "",
-        "publishedAt": "2026-04-27T07:00:00.000Z"
       }
     ],
     "ia": [
       {
-        "title": "Entiendo.ai, startup peruana de IA educativa, viaja a EE. UU. - El Ecosistema Startup",
-        "summary": "Entiendo.ai, startup peruana de IA educativa, viaja a EE. UU. &nbsp;&nbsp; El Ecosistema Startup",
-        "source": "El Ecosistema Startup",
+        "title": "Entiendo.ai, startup peruana de IA educativa, viaja a EE. UU. - ecosistemastartup.com",
+        "summary": "Entiendo.ai, startup peruana de IA educativa, viaja a EE. UU. &nbsp;&nbsp; ecosistemastartup.com",
+        "source": "ecosistemastartup.com",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNm5yVGhFTzF6T0xYdl9oY1RUWXI2UDVmb01kYndMU3B4eWhoMHNsSF9xS0pPQ2RBaDZIMDZXeGlTd0FiRnNINVhGa2VsOF9uN0RWVmUyNW5aUDdDdkplWXdBUjNsY0h2UDBSNkJuMUdycGpjbDdYTHdpSkFMRHV2VzFUS2lEQzJrSWJva1llVUtQdw?oc=5",
         "image": "",
         "publishedAt": "2026-09-07T06:51:31.000Z"
       },
       {
-        "title": "Entiendo.ai: startup peruana de IA educativa salta a EE.UU. - El Ecosistema Startup",
-        "summary": "Entiendo.ai: startup peruana de IA educativa salta a EE.UU. &nbsp;&nbsp; El Ecosistema Startup",
-        "source": "El Ecosistema Startup",
+        "title": "Entiendo.ai: startup peruana de IA educativa salta a EE.UU. - ecosistemastartup.com",
+        "summary": "Entiendo.ai: startup peruana de IA educativa salta a EE.UU. &nbsp;&nbsp; ecosistemastartup.com",
+        "source": "ecosistemastartup.com",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWE5pSGlrZy14ZEU4RXk3SnFRdkE0RVdlSTVLbktSRTRBa1pmc0lZSklIbUdhNk1uZWg5Ujk4Rld5NldJS1FacVo5bWZMbC1aM29RTkFmQzJnbllXX2VBcDZmUWk1aTcwdllobmdid3lRYTlQMGFUU1g1cTZvRUpZTlZaZE03TDNsM1o2V2F4UDFpZw?oc=5",
         "image": "",
         "publishedAt": "2026-09-06T22:51:27.000Z"
@@ -370,17 +370,17 @@
         "publishedAt": "2026-09-06T21:15:39.000Z"
       },
       {
-        "title": "Entiendo.ai, edtech peruana con IA, entra a Venture Ready - El Ecosistema Startup",
-        "summary": "Entiendo.ai, edtech peruana con IA, entra a Venture Ready &nbsp;&nbsp; El Ecosistema Startup",
-        "source": "El Ecosistema Startup",
+        "title": "Entiendo.ai, edtech peruana con IA, entra a Venture Ready - ecosistemastartup.com",
+        "summary": "Entiendo.ai, edtech peruana con IA, entra a Venture Ready &nbsp;&nbsp; ecosistemastartup.com",
+        "source": "ecosistemastartup.com",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdXBKUldZSVlVTzNveWJINHp3djBvWGk5WmZKSHdvb3BXUDJhV01odklKeDBxT00wZmFCdVJZNzVrc1lZdzZUMFNEMXJyT2NZV25DbGN3YWF1WnBBYnVjUTcyS09pVEFxMXdVTWhpNDBEdnNlbFVHWXg5TWphRDhJNFBSVzd1V01XMERXMktZbw?oc=5",
         "image": "",
         "publishedAt": "2026-09-06T17:21:43.000Z"
       },
       {
-        "title": "MTPE crea comisión para analizar el impacto de la IA en el empleo - El Ecosistema Startup",
-        "summary": "MTPE crea comisión para analizar el impacto de la IA en el empleo &nbsp;&nbsp; El Ecosistema Startup",
-        "source": "El Ecosistema Startup",
+        "title": "MTPE crea comisión para analizar el impacto de la IA en el empleo - ecosistemastartup.com",
+        "summary": "MTPE crea comisión para analizar el impacto de la IA en el empleo &nbsp;&nbsp; ecosistemastartup.com",
+        "source": "ecosistemastartup.com",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeVEyREdDcjVjQVlURnMxTVhEeTl0ZnIzVWo3YmNXU3ZHOEE5blVvanZJVDRVME10SmZYdDhmdlVnZ1NlSFZvUHV5enFZZThjamZWbE16VjZkZ0tELVEwQTNrRmFKd3JfS0NOc3ZJdUN0R3NVYkU1Nm5qNUs5d0w1SDAtZThXWUVvaGdpSFg1QW9NYzJjbDB1RUc5dU4?oc=5",
         "image": "",
         "publishedAt": "2026-09-06T06:33:56.000Z"
@@ -412,9 +412,9 @@
     ],
     "tendencias": [
       {
-        "title": "La Kachame video viral Twitter: Alexlumix1 tendencia en Telegram por filtración - tunota.com",
-        "summary": "La Kachame video viral Twitter: Alexlumix1 tendencia en Telegram por filtración &nbsp;&nbsp; tunota.com",
-        "source": "tunota.com",
+        "title": "La Kachame video viral Twitter: Alexlumix1 tendencia en Telegram por filtración - TuNota",
+        "summary": "La Kachame video viral Twitter: Alexlumix1 tendencia en Telegram por filtración &nbsp;&nbsp; TuNota",
+        "source": "TuNota",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWFVJZUZRdFl2VTJFZU9pcWEzOHZPVnhwTzNqN1MtbW5VSHFkcnk0OWd5RTM1bmdWUzV5ekxaak84Rl8zcjZIS2dPem9OWnRvajBJM2dvVUhna3diUVZuNGJRUTlFTzJYSjZUcUYzQkl1WWJJcFpaR0tYc2JqRjlZcUFnQllXQm96Nmpoenl3eE5EOF91M3ROUjFJZmdOVlpzbXhpa3p5d1ZoWVBiN2hUZHVxT1huRDFWVThDdlFVT2VESG9fQVE?oc=5",
         "image": "",
         "publishedAt": "2026-09-06T15:47:28.000Z"
@@ -436,9 +436,9 @@
         "publishedAt": "2026-08-30T04:30:15.000Z"
       },
       {
-        "title": "Qué significa “farmear aura” y cómo llegó a Perú - ahora.com.pe",
-        "summary": "Qué significa “farmear aura” y cómo llegó a Perú &nbsp;&nbsp; ahora.com.pe",
-        "source": "ahora.com.pe",
+        "title": "Qué significa “farmear aura” y cómo llegó a Perú - Diario Ahora",
+        "summary": "Qué significa “farmear aura” y cómo llegó a Perú &nbsp;&nbsp; Diario Ahora",
+        "source": "Diario Ahora",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QdFppR05rVjhGQzJMWnpycENKejBfQ2hLMG43cGRXalNvdXRVX2wzcGxzcFlaWmV0X1JxX2JobzZockdvanVVV1daMUl4SkVTaVFVZUkyelRTQWg4cWJyR0VrU1pIZTdYTllqVUhwelg?oc=5",
         "image": "",
         "publishedAt": "2026-08-22T06:20:10.000Z"
@@ -460,20 +460,20 @@
         "publishedAt": "2026-08-15T07:00:00.000Z"
       },
       {
+        "title": "Dr. Guali, la botarga peruana que desató comparaciones con el Dr. Simi en redes sociales - Canal 44",
+        "summary": "Dr. Guali, la botarga peruana que desató comparaciones con el Dr. Simi en redes sociales &nbsp;&nbsp; Canal 44",
+        "source": "Canal 44",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTFsQ2ZkX0d0V2FnTXBncWYyVGlGejdENURmN0llZ2Q4Z3F2a0liVEYzcnI5UHUtYkxSZlV1WHNHV25CUlEwdThPXzRHODZWWHNVV0F4RVFnRDBCdGNIZVR5d2luZTBuOE9ia21TRGcxVjhOZnlnOVBWX2hUaGlOWURnZ1ZpM0xoQ0I5dno2TThhc0lUdXNCMzdBdGU4dmUweDlYQWZJUUh3dw?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-04T18:37:14.000Z"
+      },
+      {
         "title": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” - Infobae",
         "summary": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY1JKYUdUNlpDMThFMDBMcUtpSm9WX3hDME5FdlhTVkIySnFidkNRV3RNa2Z0LVB0ZzhIUlNPdnFSM3dGQl9SRXl2XzdRVVZNS3JoYkVoZzE5WDhnWDVpdlRCNVVWbTNYTjZHVEF5cERtNEZnT0RyRmEzUUlwT0JVcEhnRXEzWExJN2lxdjEtcHZCUm1vcVpWQ1VUQ21POUhFb2Fnb1FiaHFmZHg5YnctUWJfQk53Y0M1U0ZKSWhVVlRoYXFycEZDeFk1SdIB5gFBVV95cUxOX2lXTFZfYS02czhMamE1UE01SmozQVIzLXdxbTVwRFlJQlJhaGI2XzdnVlprZkVQb0J1MjllZ0pJbk9vS21OcWJTYUQ0OU1FLW1XNU04cXRRZUtvNFF6dGV5X0VyR2hFSEd1TU1yMl9EMkdVTFZxWlB2ZzZ1cHpMcHZLSVptbmpaTFpkQVkzOGV3MHdCN0FkUm1qWTJ5aWxVVkVNTmRFSkI0czZhZkM3SGtaYmtDSy0tVVJCNHE0QngySUFLN05tY2xESFVDRTh1M0dWeUgydHVyb1p1dkdhMUN3VkhUUQ?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
-      },
-      {
-        "title": "Minsa advierte sobre desafío en redes que expone a adolescentes a graves riesgos de salud - Infobae",
-        "summary": "Minsa advierte sobre desafío en redes que expone a adolescentes a graves riesgos de salud &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ19nT2YyMlR5RFhzZVRjTXpPcjZXYjhHZ25aV1BkeTFuWDVKTHZxUFRyQklUb0JYaGFIMUJEbEdVbTg3Y01OV255QmN3OHlEbWNaS185UXVqUHhydnF1YTlrZTNSQmtmVGNKc2xyb28zTmt4czlsd2Z1OC0wQTZYWmpjT0pUNU0yN21CWnpYamV6eU43TkdQUE1FdjUxUGVRQ0tzbGpDbEk2Y0xrS3Y1bl9hY2UxSnVuMTF2ZV82MTZ2dGVkQ0tPVG1R0gHkAUFVX3lxTE5xaE1KVl9TLXVjQW16VUhTbmotZWRBcUJueDBnQWZLZFhPaC1hSjZNSGVXSnFEQlotekUweWloX0xEc2txcEt5N2RGOUFBYXBFaXBZYTdZaWpkaktoNUd4cDFsV2R3bGdOOGNDVV9qajFLMy1ZTUh3TXU4dlZmVmprRnlvQzhLMlM4RnpTT2FMSzhKdS1PaXdvZE0tQnlIUmIyM3l4akJrYjIwcnMwY25yMXl2TFIwdjg1YXpBNmRnNDBrdU9oZTN5LVU4MGp6dHVVR09fTnh5cmN1eGNsaXBDNUlZXw?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-07T07:00:00.000Z"
       }
     ],
     "farandula": [
@@ -510,12 +510,12 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "Christian Domínguez es condecorado en el Congreso junto a Cachay y Paul Michael: recibió diploma por su aporte a la cultura y entretenimiento - Infobae",
-        "summary": "Christian Domínguez es condecorado en el Congreso junto a Cachay y Paul Michael: recibió diploma por su aporte a la cultura y entretenimiento &nbsp;&nbsp; Infobae",
+        "title": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina - Infobae",
+        "summary": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQN2IwQ21SMVZrT2VSbVN4QVdqd0prczd1SE1IcmN5djZ1NXp2cE9UTkNrd2o0X2Rwd1ZObW9qWUJzdFRiUGZ6R0tVakQ4V3g4QVVsNHp6VkdFTXJiTy1ubDlDSElzT3lMRVI5WWJHMGFXUzdiOTlWSlFzcl8tcm9PbGVJbERueHUxNnBJNlVfU0dUb21iTGtsM2dkZlphS3JTSGNROUh4M3JteW92ak5iWXNhOExJMGhjanh0al9GNi1RZG1MejNmODZKNG1EWWFMLXFRQkc0TkFLalRKN2RPVUl6ak0zY1RxZVdqdWdZWU01ZlZlRWtlakpxMUxTWktaMzY3clhhRUFwcW04QWfSAagCQVVfeXFMTldmWnBhODVBZ0lfd2tHSTB1N0JEX0JBQ2VuMjZjdHFsZ2dqTldwQ3FSMXFwb0YyZ2hlbUw2N2dDdGJBVUhUbFRwOWF0cEpsUnowaXppQmFjVGQ2RWtnd01SeFJpQks2bF92aG1RV2ZhOEpIN1l4X2Q2amZ5TERVdlV6Sm9LVktmcUw2TDkxdURkeUFOc3VGdVBWcEZDN2FIeHNPaDlyZGFoR1ZCVlRNdXc2YUd6WGQ4VGlBdG1IdkVJS3VNR1A2eGtNMVZYQzZIUEpCdXpPR0lIWGtqcGVOc3VwcnlMelhtdkxnUDJ1c19lY3RYVUR5NjA1Q3pYX1Q2SkNtQjd6cG1ablhFMjdabVkxcWU1WXZWQXcwZGEyQmhhRzRLUFB6bFQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOajFsLUtIcVlCbVlEeDJrZERUeklvOU1Hak5IRjdkWWRuTjhuR24zTnRkNDFONDRHelY2RG9QU2FobEYwdUQxRDRYX3N0QTFqenR3aU43NUJPRWlVUnExalVDUlVwZ0d0WFRud2dYNENFRHd6d0JPWTQ3WlNCM3pjNEJ0R0R5dGlwZVJ0Yk90MDNzWlZrZXYwbGd1ekN2NzkxdFB1dThxYjBLSDVBNF96d3VNYS1ZNHNwc21WMWhwSFdCamJtd3FwczY4V0lIcFZaLVHSAewBQVVfeXFMT29fdXdnLWEyMlBwSDlqZEVOT3ViRkhla192bHU0bnh1MzNoVGFMZkttSmlFOURhVmNUeVFqLXZoMXVUVHg2M3JZZXo2SjMxY2dCUGJrUWNMX2l6Zk9GVU9HVjZrUnhDMEpqRmp1bU1vM3lfbTZJZ0VJQnR6QnJZLWJPV081YnNhMXFqOEh0ZTVSMHM3RzkwNDlRSE5XMU4wMHJ0T0VzZU5ZNXdudENQNjQtM2FXM3BIS3RmWUY5SzMyUU5pQ1lEc1FldW1RWlM2cEt1NEtQRFdjNm8zcE8tdi1UeWVpY1NadHNnWTg?oc=5",
         "image": "",
-        "publishedAt": "2026-07-27T07:00:00.000Z"
+        "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
         "title": "¡Se acabó! Sheyla Rojas confirma su ruptura con Sir Winston tras larga permanencia en Perú: “Terminamos” - Trome.com",
