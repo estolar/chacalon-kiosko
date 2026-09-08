@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T05:56:29.320Z",
+  "generatedAt": "2026-09-08T11:13:26.267Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,52 +24,20 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Diputados: Comisión de Medio Ambiente aprueba opinión favorable a pedido de facultades del Ejecutivo, ¿Cómo fue la votación?",
-        "summary": "Además de la Comisión de Medio Ambiente y Sostenibilidad, la consulta fue remitida a las comisiones de Defensa, Energía y Minas, Economía, Justicia, Desarrollo Agrario, Infraestructura, Vivienda y Transporte, Producción, Trabajo, Ciencia, Defensa del Consumidor, Modernización de la Gestión del Estado y Contraloría.",
+        "title": "El nuevo Congreso bicameral alcanzó un nuevo récord de mujeres, pero el Senado aún está lejos de la paridad",
+        "summary": "En 70 años, las mujeres pasaron de representar apenas el 4% del Congreso a ocupar el 37% de los escaños. Pese al avance, la nueva bicameralidad evidencia una brecha pendiente: solo el 27% del Senado estará integrado por mujeres en el gobierno de Keiko Fujimori",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/diputados-comision-de-medio-ambiente-aprueba-opinion-favorable-a-pedido-de-facultades-del-ejecutivo-como-fue-la-votacion-y-que-viene-voto-dirimente-obras-fuerza-popular-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/SYRL4SVQNZDKHLSA3657RO3RFI.jpeg?auth=0138b293867201a02e536d0a4c0f15d64119d7aeef34bc00d1bbd4a52888e01e&smart=true&width=1026&height=555",
-        "publishedAt": "2026-09-08T05:01:00.000Z"
+        "url": "https://elcomercio.pe/ecdata/congreso-keiko-fujimori-senado-diputados-bicameralidad-palacio-de-gobierno-mujeres-martha-chavez-fuerza-popular-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/5CNBAEYKWVE53IHCVZAYKUV5CA.png?auth=8e7a13e206d920b70ddfca603c0c9325c76a88346ce797f823ffcb326f891177&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-09-08T11:00:01.000Z"
       },
       {
-        "title": "Martha Chávez sobre pedido de facultades: “En algunos temas el gobierno sí está atado de manos” | ENTREVISTA",
-        "summary": "La senadora Martha Chávez (Fuerza Popular) afirmó que, si la cámara de diputados aprueba solo las partes referidas a la seguridad ciudadana y Fenómeno de El Niño del pedido de facultades, el fujimorismo buscará en el Senado restablecer el texto original. “Por supuesto, porque esa es la lógica del diseño de la bicameral",
+        "title": "Radiografía educativa de las Elecciones Regionales y Municipales 2026: Conoce el nivel de estudios y profesiones más frecuentes de los candidatos",
+        "summary": "Más de la mitad de los candidatos a distintos cargos en las elecciones municipales y regionales 2026 no tiene estudios superiores concluidos, según sus hojas de vida. La oferta electoral refleja la brecha en el acceso a la educación superior en el país.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/entrevista-martha-chavez-sobre-pedido-de-facultades-en-algunos-temas-el-gobierno-si-esta-atado-de-manos-fuerza-popular-keiko-fujimori-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/XPNW42RB4RFYLCEFIQF2WJOJUQ.jpg?auth=9533c12f02f21e1561353455107154fb9ecad9c3051243df3a4d8b275fe88a4e&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-09-08T05:01:00.000Z"
-      },
-      {
-        "title": "Alejandro Muñante: “No se debe centrar la política de gobierno solamente en la delegación de facultades”",
-        "summary": "Alejandro Muñante (Renovación Popular), primer vicepresidente del Senado, dijo que actualmente la administración de Keiko Fujimori “no está atada” para combatir la inseguridad y realizar medidas preventivas de cara al Fenómeno de El Niño. Agregó que no depende solamente de que el Congreso bicameral le otorgue facultade",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/entrevista-alejandro-munante-no-se-debe-centrar-la-politica-de-gobierno-solamente-en-la-delegacion-de-facultades-entrevista-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/6LQM3IP54VEHFOAV36WGL44BGQ.jpg?auth=86318b35be084608c45882b9f3745f3b0bcf9d2eb5b096b6c03f1164099720c9&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-09-08T03:05:00.000Z"
-      },
-      {
-        "title": "Partidos piden al JNE fijar postura sobre participación de Rafael López Aliaga en debate de la Alcaldía de Lima",
-        "summary": "Rafael López Aliaga y su participación en el debate por la Alcaldía de Lima generan controversia entre los partidos. Catorce agrupaciones pidieron al JNE un pronunciamiento sobre su participación y la posibilidad de que un alcalde elegido en 2022 vuelva a recibir una credencial. Renovación Popular se opuso al pedido.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/entretelones-rafael-lopez-aliaga-partidos-piden-al-jne-fijar-postura-sobre-participacion-de-rafael-lopez-aliaga-en-debate-de-la-alcaldia-de-lima-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/6C3XZVN7SZEGHGRBEM6FSOXPSQ.jpg?auth=f5d165f91e7511f95cf5ca4c8d7384df4f77bb270c6e84e2de9db3b31c695d6f&smart=true&width=1200&height=647",
-        "publishedAt": "2026-09-08T02:21:35.000Z"
-      },
-      {
-        "title": "Presidente del Senado sostuvo reunión con embajador de Israel para hablar de inseguridad ciudadana y Fenómeno El Niño",
-        "summary": "El presidente del Senado, Miguel Torres (Fuerza Popular), sostuvo este lunes 7 de setiembre una reunión de trabajo con el embajador de Israel en el Perú, Gali Dagan, desarrollada en el Palacio Legislativo.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/presidente-del-senado-sostuvo-reunion-con-el-embajador-de-israel-para-hablar-de-inseguridad-ciudadana-y-fenomeno-el-nino-miguel-torres-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/VVR3MZ5D25G5PNP2VIKUHFI6QU.jpeg?auth=e0f74fd69d582a887564d8208b3a49366fa34e37c761382762b458a2ca3e6995&smart=true&width=2560&height=1706",
-        "publishedAt": "2026-09-08T01:59:43.000Z"
-      },
-      {
-        "title": "Presidente del TC sobre leyes aprobadas por el Congreso anterior: “No se puede actuar de oficio ni las sentencias pueden tener una retroactividad”",
-        "summary": "El presidente del Tribunal Constitucional (TC), Pedro Hernández, afirmó que el pleno no puede actuar de oficio ni las sentencias pueden tener una retroactividad, esto al ser consultado sobre las leyes con impacto fiscal aprobadas por el Congreso anterior 2021-2026.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/justicia/presidente-del-tribunal-constitucional-sobre-leyes-aprobadas-por-el-congreso-anterior-no-se-puede-actuar-de-oficio-ni-las-sentencias-pueden-tener-una-retroactividad-pedro-hernandez-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/H2A5TESU2VFBHG77YZIWI4BPDQ.jpg?auth=8bb4386b3e61469ff7192ec9757e0995c6597a39b064b8652e039284fb5434b8&smart=true&width=760&height=507",
-        "publishedAt": "2026-09-08T01:51:41.000Z"
+        "url": "https://elcomercio.pe/ecdata/elecciones-municipales-2026-elecciones-regionales-2026-keiko-fujimori-fuerza-popular-rafael-lopez-aliaga-carlos-bruce-franco-vidal-onpe-jne-votaciones-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/LMHWTWX775AK5G44CFXVY5RAOY.jpeg?auth=bf21dc5594102cc50f97bdbf198a55ccc8c43a04680ab930f91f1baa5b45b7e7&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-09-08T11:00:01.000Z"
       },
       {
         "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
@@ -77,25 +45,57 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/ecdata/en-16-anos-fuerza-popular-solo-ha-ganado-3-gobiernos-regionales-y-no-ha-colocado-un-solo-alcalde-en-lima-metropolitana-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/3ZQHU5EOGNH33LU7J6EN3J4QSE.jpeg?auth=05b2ba86279d4f5e8c5af8ea35780dce6caca06e15b2546119eb9e3be8b10463&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-09-07T23:51:00.000Z"
+        "publishedAt": "2026-09-08T11:00:01.000Z"
+      },
+      {
+        "title": "La vocería presidencial",
+        "summary": "Keiko Fujimori debe saber muy bien, a menos que estemos equivocados, que las metas y objetivos de su gobierno, planteados a cinco años, como ninguno de sus predecesores del presente siglo lo ha hecho, no solo necesitan de una buena gestión, medible y verificable, sino de una buena comunicación, hacia dentro y hacia fue",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/opinion/columnistas/la-voceria-presidencial-por-juan-paredes-castro-keiko-fujimori-luis-galarreta-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/YJ2XZAJTDZBVZPTSKEG75YXSAI.jpg?auth=7de18abcc0c4177f070e042f91c05818f63e824f3e6171b293fa0b4760a5046e&smart=true&width=1200&height=802",
+        "publishedAt": "2026-09-08T10:30:00.000Z"
+      },
+      {
+        "title": "¿Qué hacemos con los partidos políticos?",
+        "summary": "Si una idea logró un alto consenso en nuestro país, donde ponerse de acuerdo en algo es tan complicado, es que no deberíamos repetir elecciones tan desordenadas como las de este abril pasado, con 37 listas en competencia al Parlamento. De ellas, seis lograron pasar la valla electoral y alcanzar representación en el Par",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/opinion/columnistas/que-hacemos-con-los-partidos-politicos-por-martin-tanaka-elecciones-2026-congreso-de-la-republica-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/CHGU4OSWOFBKJEHJ2ZXAJX4IOY.jpg?auth=dc9fdc8e84a80e489bece85fde17dfaead5531727e6d398baf05bf1dbf08f2c5&smart=true&width=1188&height=633",
+        "publishedAt": "2026-09-08T10:30:00.000Z"
+      },
+      {
+        "title": "El arte de la ubicuidad",
+        "summary": "Aceptar un cargo público, y más aún una responsabilidad ministerial, exige mucho más que conocimiento, experiencia o capacidad de gestión. Exige aprender el difícil arte de la ubicuidad: saber cuándo estar, cuándo hablar, cuándo escuchar y, sobre todo, cuándo guardar silencio.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/opinion/columnistas/el-arte-de-la-ubicuidad-por-maria-isabel-leon-autoridades-cargo-y-servicio-publico-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/GNO4NFU2KVB77EV7Y3K2W4WLCM.jpg?auth=8e8b2c7735200957c0a5375ff39a2de5da264534bfe6a51447b780df7d4efd9c&smart=true&width=1100&height=557",
+        "publishedAt": "2026-09-08T10:30:00.000Z"
+      },
+      {
+        "title": "Diputados: Comisión de Medio Ambiente aprueba opinión favorable a pedido de facultades del Ejecutivo, ¿Cómo fue la votación?",
+        "summary": "Además de la Comisión de Medio Ambiente y Sostenibilidad, la consulta fue remitida a las comisiones de Defensa, Energía y Minas, Economía, Justicia, Desarrollo Agrario, Infraestructura, Vivienda y Transporte, Producción, Trabajo, Ciencia, Defensa del Consumidor, Modernización de la Gestión del Estado y Contraloría.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/diputados-comision-de-medio-ambiente-aprueba-opinion-favorable-a-pedido-de-facultades-del-ejecutivo-como-fue-la-votacion-y-que-viene-voto-dirimente-obras-fuerza-popular-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/SYRL4SVQNZDKHLSA3657RO3RFI.jpeg?auth=0138b293867201a02e536d0a4c0f15d64119d7aeef34bc00d1bbd4a52888e01e&smart=true&width=1026&height=555",
+        "publishedAt": "2026-09-08T05:01:00.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Gobierno destina S/ 25.5 millones para trabajos en puntos críticos ante fenómeno El Niño",
-        "summary": "El Gobierno autorizó una transferencia de S/ 25,5 millones al Ministerio de Vivienda, Construcción y Saneamiento (MVCS) para ejecutar 55 intervenciones de limpieza y descolmatación en cauces de ríos y quebradas considerados críticos.",
+        "title": "Flying Eye Hospital en Arequipa: Orbis, Omega y el acceso a una atención oftalmológica de calidad",
+        "summary": "Este centro de salud, a través de una invitación del Minsa con participación del Hospital Regional Honorio Delgado Espinoza, llegó al Perú para desarrollar una misión de 15 días. ¿Qué impacto tiene?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/gobierno-de-keiko-fujimori-destina-s-255-millones-para-trabajos-en-puntos-criticos-ante-fenomeno-el-nino-noticia/",
-        "image": "https://gestion.pe/resizer/v2/HDVHA77D4RF3JOPJHNMYFN3XZQ.jpg?auth=0577f6d2afecfd4cafb24327000fec297160aa1cffa0a5e7edb4f66d8cba5e42&smart=true&width=3648&height=2432",
-        "publishedAt": "2026-09-08T04:16:00.000Z"
+        "url": "https://gestion.pe/economia/flying-eye-hospital-en-arequipa-orbis-omega-y-el-acceso-a-una-atencion-oftalmologica-de-calidad-noticia/",
+        "image": "https://gestion.pe/resizer/v2/PK4SQT4TYJHN7ESXV42T6XW6WU.jpeg?auth=da94bcdf7a605e4dab53de0ba0c4beb1850695ad5e855fed0a464c8f63acff64&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-08T10:52:00.000Z"
       },
       {
-        "title": "Sector electrodomésticos en Perú: quién gana y quién pierde debido al clima",
-        "summary": "El FEN reordena el sector electro: refrigeración y ventilación se disparan hasta 50% y 55%, mientras otras categoría se estancan. La CCL proyecta un cierre de año con hasta 15% de crecimiento y ya mira un 2027 \"alentador\".",
+        "title": "Sismos: Sunafil fiscaliza medidas de prevención en empresas, ¿qué precauciones deben tomar?",
+        "summary": "Las empresas están obligadas a implementar medidas de prevención y respuesta ante emergencias. De no hacerlo, podrían ser multadas por la Sunafil.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/el-verano-aun-no-llega-pero-el-nino-ya-dejo-ganadores-y-perdedores-en-el-electro-noticia/",
-        "image": "https://gestion.pe/resizer/v2/IXW7ZADJYJCQTGTFKKO7QQVQZQ.jpg?auth=95513e2b0032556bf4b4fb35a9b232a2b8c54bc49d8e61ade794612fd2457e0a&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-08T03:08:55.000Z"
+        "url": "https://gestion.pe/economia/management-empleo/sismos-sunafil-fiscaliza-medidas-de-prevencion-en-empresas-que-precauciones-deben-tomar-noticia/",
+        "image": "https://gestion.pe/resizer/v2/724MHKQSKNBYZNXX2CEJJLJXNY.jpg?auth=3a16a9cc04bf911dcbc0f1298397012b7f36f2fc020a43347b620bcf1e53975a&smart=true&width=860&height=615",
+        "publishedAt": "2026-09-08T10:48:00.000Z"
       },
       {
         "title": "Terpel sale de los grifos y apuesta por lubricantes: la inversión que ejecutará en Perú",
@@ -103,7 +103,7 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/terpel-entrega-su-ultima-estacion-de-servicio-a-primax-que-negocio-hara-ahora-en-peru-noticia/",
         "image": "https://gestion.pe/resizer/v2/563VFPJHORGBRA32WYNHPIDLRM.jpeg?auth=567bec5b4a4a3dd8ea5b88dbefeb59692e1dcaebd7c7f69df385ca0c0b800994&smart=true&width=2000&height=1334",
-        "publishedAt": "2026-09-08T03:08:32.000Z"
+        "publishedAt": "2026-09-08T10:45:00.000Z"
       },
       {
         "title": "Fabricante Agrovet Market alista adquisición clave para ingresar a alimentos para mascotas",
@@ -111,39 +111,39 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/agrovet-market-atrevia-acelera-mayor-produccion-en-lurin-y-prepara-su-expansion-en-mascotas-noticia/",
         "image": "https://gestion.pe/resizer/v2/HHAPI5HZFFF7ZORGD3CZLOQJCY.jpg?auth=68dac435fdb6dba0a93208edbab0468cc59030fcf9d357d9b983063bde4290ee&smart=true&width=790&height=527",
-        "publishedAt": "2026-09-08T03:08:04.000Z"
+        "publishedAt": "2026-09-08T10:30:00.000Z"
       },
       {
-        "title": "Petroperú pide una nueva prórroga para producir combustibles menos contaminantes: qué falta",
-        "summary": "Empresa reconoce que no logró implementar los equipos necesarios en la nueva refinería de Talara para cumplir la exigencia ambiental de reducir el contenido de azufre en sus derivados.",
+        "title": "Ni banca ni consumo: el negocio que disparó su publicidad más de 50%, ¿seguirá en 2027?",
+        "summary": "El mercado publicitario peruano crecería entre 8% y 10% en 2026, impulsado en el primer semestre por apuestas deportivas, banca, eventos públicos y suplementos nutricionales. Para 2027, Havas Group proyecta un avance de entre 10% y 12%, mientras las marcas combinan publicidad exterior, televisión y formatos digitales.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/petroperu-pide-una-nueva-prorroga-del-plazo-para-producir-combustibles-menos-contaminantes-noticia/",
-        "image": "https://gestion.pe/resizer/v2/JKB5URGMQJCHZAJQR44MDSOK2Y.jpg?auth=dec9f1751da4211e290ae6af05553ebb64e9c793fc8079f504e5d55c305772a1&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-08T00:48:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/canales-digitales-de-tv-ganan-espacio-en-los-presupuestos-publicitarios-noticia/",
+        "image": "https://gestion.pe/resizer/v2/63CG46TVFZFWPJL5P5P6XAJTR4.jpg?auth=996f8fa2ec245276454e82a6a7f17c1e612f85fb7c38f0dadeb0c068679ec8ed&smart=true&width=800&height=602",
+        "publishedAt": "2026-09-08T10:30:00.000Z"
       },
       {
-        "title": "Mypes no ven motivos para formalizarse: ¿hay un “impuesto” invisible que las desmotiva?",
-        "summary": "Un reciente estudio, elaborado por Ipsos bajo encargo de ComexPerú, puso en cifras lo que en el sector de las mypes se reclama hace tiempo: no existen incentivos reales para formalizarse y mucho menos crecer.",
+        "title": "Mercados e indicadores – Hoy martes 8 de setiembre",
+        "summary": "Para tomar las decisiones más acertadas de inversión, manténgase diariamente bien informado sobre el desempeño de las acciones de la plaza bursátil, de la variación de las principales variables del mercado financiero, así como de la evolución de los precios de los commodities. La cotización en el mercado de Londres el ",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/mypes-no-ven-motivos-para-formalizarse-hay-un-impuesto-invisible-que-las-desmotiva-noticia/",
-        "image": "https://gestion.pe/resizer/v2/BQXYRWUX4NGAHE4K45OF7JI2TA.png?auth=4835350066c5f85525a1e41771f169ffd4117499a1c5f2d0d4701426e248a1a3&smart=true&width=1672&height=941",
-        "publishedAt": "2026-09-08T00:41:00.000Z"
+        "url": "https://gestion.pe/economia/mercados/mercados-e-indicadores-martes-8-de-setiembre-2026-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CKBJCXWQXVCTXHZN5ZAGTM66RE.jpg?auth=c935a9816683dbd514d89311dedaf60293df727aefbd90da56a9830e4813f2eb&smart=true&width=1280&height=720",
+        "publishedAt": "2026-09-08T10:30:00.000Z"
       },
       {
-        "title": "Comisiones por ventas: ¿las empresas deben informar cómo se fijan estos pagos?",
-        "summary": "El Tribunal de Fiscalización Laboral de la Sunafil se pronunció sobre multa impuesta a una empresa. Sepa los detalles.",
+        "title": "McKinsey: Perú puede ser el líder regional en el nuevo tablero geopolítico mundial, ¿cómo?",
+        "summary": "Ziad Haider, director global de Geopolítica en McKinsey & Company, contó a Gestión cómo Perú puede encabezar la política de integración económica en América Latina. Aquí los detalles.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/management-empleo/comisiones-por-ventas-las-empresas-deben-informar-como-se-fijan-estos-pagos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/2NCFDYJWY5C4ZM6KJ5PMB44IGQ.jpg?auth=0b9d6df21f6f91de9d4db761bf03a9bf6ccc1e0f31e1087bebbe3a67abf6f62c&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-07T22:22:00.000Z"
+        "url": "https://gestion.pe/economia/mckinsey-peru-puede-ser-el-lider-regional-en-el-nuevo-tablero-geopolitico-mundial-como-noticia/",
+        "image": "https://gestion.pe/resizer/v2/NYCYFM7AUZAF3JAS342JIVLLCA.png?auth=af783e144790c763841e96efbff681f60fe5f22f0119d5d8de3a4bdec1d96e1d&smart=true&width=1672&height=941",
+        "publishedAt": "2026-09-08T10:27:00.000Z"
       },
       {
-        "title": "Ingresos tributarios superaron los S/ 18,100 millones en agosto: crecieron más de 17%",
-        "summary": "La recaudación tributaria alcanzó los S/ 18,179 millones en agosto de 2026, un crecimiento real de 17.3%, informó la Sunat.",
+        "title": "Usuarios de plataformas digitales se sextuplican desde 2020: esto aportan a economía de Perú",
+        "summary": "El número de usuarios se multiplicó hasta registrar 5.3 millones activos en las plataformas de movilidad y 2.1 millones en las de reparto. ¿Qué panorama tiene esta actividad en la actualidad?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/recaudacion-tributaria-crecio-173-en-agosto-de-2026-noticia/",
-        "image": "https://gestion.pe/resizer/v2/VBGUAIYDSVDEHEXB4R37GKZINQ.jpeg?auth=299f0767ca4cee503f6de2191e826f406a9c4ae0927eaad6ba54e9105a23b65c&smart=true&width=500&height=333",
-        "publishedAt": "2026-09-07T22:09:22.000Z"
+        "url": "https://gestion.pe/economia/usuarios-de-plataformas-digitales-se-sextuplican-desde-2020-esto-aportan-a-economia-de-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/TTOGXQDIHZGVJOVWTNWLJ7AAWU.jpg?auth=fb6dd193cd47f46f1fed8c9902ea80b67fc730d86896dfb6c1bef0eea5bbd59f&smart=true&width=1600&height=1066",
+        "publishedAt": "2026-09-08T10:25:00.000Z"
       }
     ],
     "sociedad": [
@@ -280,9 +280,9 @@
     ],
     "ideas": [
       {
-        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - forbes.pe",
-        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; forbes.pe",
-        "source": "forbes.pe",
+        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - Forbes Perú",
+        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; Forbes Perú",
+        "source": "Forbes Perú",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnR2OFJqcnVKWEVnZF9Fc1FFQ1AxY3lYbTFYQnh2WkJZMEljS2I4UHozWHN5eTNXVXkwSV9WS0U2WDdCenNoMGVLUzRpMEZXcnIzRVpJSWloS295VGJzNVZtT3h6akN0b3EyVDdYVUwtc05SR0Z6WWE0MjZKUnd3TDFnUWx3aEJwbHRYUmgxNHJseERsVE8tdTg0WnJrT1hMMEFER0h6WVp1ekd1V2JWLTNPUQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-25T12:02:15.000Z"
@@ -312,20 +312,20 @@
         "publishedAt": "2026-06-25T07:00:00.000Z"
       },
       {
+        "title": "Estudiantes ayacuchanos transformaron el cuy en gomitas: la apuesta que busca ofrecer una alternativa rica en hierro - Infobae",
+        "summary": "Estudiantes ayacuchanos transformaron el cuy en gomitas: la apuesta que busca ofrecer una alternativa rica en hierro &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbEhKWkVPQl9UdVJLZU84ck9vZG5KUTljSXlEU185RTdhSG45aWRkR1FqWWMzcEYxdUpyNWVlWGhoVVpXaWx6Ri1RazAwWVNzcGZKNGlmSW1tUjA1ekpHVXRKelY2bEpFUG5PVWptaDRQd3RCNHF1czlMQlNZMVIxYnVxb0VMVDlIbGlRYXlnSlZKd2J6eUZLNDRwVnM1dk9zYWdPRmk3M2I0b05rUTJSeUl1X3YxSmtGX2lyS2JzczVudGdGWEl1ckd0NWNWM1Y2bHp1LUVFN3BEc3hiRDJYM2QwemZsRC12d19BddIBhwJBVV95cUxNOWY3N1p1a1Y2dTNlMFpSM1ZOa3hhN3ZPd09jZnYzOHB5SGg1NjdGOW9Oc0l2aUpuM2RiSkxRT3NaQUZNS1V1WnhDNnUzdDBfX3BUMDRaZUpBUW9FVG4xRW1kSUh3b3BXWGZDbXNCaHd2UUNyUzJ2SkpndjE3ekJtYXBnZXMzSEpUc0VHY0xFZDFxQkdsdVZOLUdWTGJmWXVHZDR5dk9pZGhlZXNuZDZTdXFhbEpGejM1RnVSZjl2V3lnWVJZX0JfbGo1ZzFhRndXWi0xM2xkWFdMS09qQTc3MlNyTVI2WGgzTmxzbEl3MnMzdkU1STRDcUZQUnRDYzhOdEF4d0N5WQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-10T07:00:00.000Z"
+      },
+      {
         "title": "Innovadores peruanos podrán participar en competencia internacional de invenciones - Agencia Andina",
         "summary": "Innovadores peruanos podrán participar en competencia internacional de invenciones &nbsp;&nbsp; Agencia Andina",
         "source": "Agencia Andina",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
         "image": "",
         "publishedAt": "2026-05-29T07:00:00.000Z"
-      },
-      {
-        "title": "Perú Investiga 2026: regiones exponen más de 100 proyectos - Revista Caretas",
-        "summary": "Perú Investiga 2026: regiones exponen más de 100 proyectos &nbsp;&nbsp; Revista Caretas",
-        "source": "Revista Caretas",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNYW1ZWG0xX3VISEdCOC1zZnFmOUxpZk50eF9oSzd0dXFSa2hfYjRVb090b2V2X0MtU0RTa09HU1lBaHg4S0J3XzRKRGY1QlNmaXVtTnk4Rk9CX0c0eHJXUzhsc1MyWjFrZ1pjUGZnaWFMWUNQeHlRNnV2em1TYkZPMlBuQURmcXVTalI3VDJKY2hZaGRXbXZIeXd3UlhTM1pQa2VUa2JtV0I0YXhpeTRnd1lHQ1RSQVEyWHViNkhIY3dCODN0ZVlTUS1zcXZSNXVIY0lGM213RUxHYVJMQzVQalFIY3BtS2FGWjlBckVZMUw5WjFHNHZiOVZwWmQ0NVBmdXdSOTRrT01aMDg3NlVJekkyMU5OY3JGTi02dFdyTFJPVjZwbUh3SzZ3NmQyVF9CTDVZaDlQTkk?oc=5",
-        "image": "",
-        "publishedAt": "2026-05-28T07:00:00.000Z"
       },
       {
         "title": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación - Tu Diario Huánuco",
@@ -346,9 +346,9 @@
     ],
     "ia": [
       {
-        "title": "IA en el Perú: Desde este 10 de setiembre cambian las reglas para su uso - atv.pe",
-        "summary": "IA en el Perú: Desde este 10 de setiembre cambian las reglas para su uso &nbsp;&nbsp; atv.pe",
-        "source": "atv.pe",
+        "title": "IA en el Perú: Desde este 10 de setiembre cambian las reglas para su uso - ATV.pe",
+        "summary": "IA en el Perú: Desde este 10 de setiembre cambian las reglas para su uso &nbsp;&nbsp; ATV.pe",
+        "source": "ATV.pe",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFk0c3ZIQ2NHUURGUkp2T0FvYzJlT0RGR2ozWmI3ZXhFV3llZHJFeGZfS2xOWnNoTE92LUQ5Q0FRSVVNaGQ3WUc5UEg0ZGJodTBvRllmd2ZJanBqMzRrQ3E5MDR4ekVtVXJYdC16ekZ0WDY5N0JSSUhyTXlBbWVrbk9tT00xN1I5VmZ5VFBWN2czUWlw?oc=5",
         "image": "",
         "publishedAt": "2026-09-08T03:38:10.000Z"
@@ -362,20 +362,20 @@
         "publishedAt": "2026-09-07T06:51:31.000Z"
       },
       {
-        "title": "Entiendo.ai: startup peruana de IA educativa salta a EE.UU. - El Ecosistema Startup",
-        "summary": "Entiendo.ai: startup peruana de IA educativa salta a EE.UU. &nbsp;&nbsp; El Ecosistema Startup",
-        "source": "El Ecosistema Startup",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWE5pSGlrZy14ZEU4RXk3SnFRdkE0RVdlSTVLbktSRTRBa1pmc0lZSklIbUdhNk1uZWg5Ujk4Rld5NldJS1FacVo5bWZMbC1aM29RTkFmQzJnbllXX2VBcDZmUWk1aTcwdllobmdid3lRYTlQMGFUU1g1cTZvRUpZTlZaZE03TDNsM1o2V2F4UDFpZw?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-06T22:51:27.000Z"
-      },
-      {
         "title": "Emprendedores peruanos crean plataforma con IA ‘Entiendo.ai’ para personalizar el aprendizaje: ¿cómo funciona? - Infobae",
         "summary": "Emprendedores peruanos crean plataforma con IA ‘Entiendo.ai’ para personalizar el aprendizaje: ¿cómo funciona? &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcVBlVjVSYXJFZERqODhUUDZEbUhFNjBiQy1Da2g2RW4xME5WY0RhWVl5aTQ3Y0ZZd3BRR2FiSVN0YWhyLTkwR05WalJmN0ktRmVIdHNOSTFvYWdRZExLT2N4Wk5RZXBJaldRTTR0MXY2cFR3YzlwSGNRa0lJRUNtTXJ1aXpPSHBxeXdJSXVJcWk3ZW5IbVl5Z0F4ZEtqU0dPM0FaRDVkZXFVWWdfN0dWSF8zX3kxSDhOMkhiNmc4bnZCMnNOS0MxbmpwbjlqeE1VRVRBRFBMclh2ZnUwT2fSAfgBQVVfeXFMTzBJQ1J4NnJaRU9pMFhRMmJQOU50amlhNUpZV01LY0lzTXBIcF9ZXy0zWERMUzNrdUpYaUpQZkZGNUdMNWlNQUt5OEJMMWNhVHlQTnNiNm50RFB3eXlZcEEwNzg2ZnF6VGVXa1JQdkozUFRESmtTMGp2RlZ4RG5wTERmNkJicUtMRkdNbTNBaV9wM0tsemx1ZGFKLThkNDUyUGJTcmo4LUtkemVWLVJ4cUJPRk1aSnhfQzNmSXVacUJ3ZVVEZEg1MXoweUlBZnRGUVlxZnJlMnFxR3pZbHRQU2tocm5nY2tBUTFpTXB5Z2M0MG1VYmNYYWU?oc=5",
         "image": "",
         "publishedAt": "2026-09-06T21:30:00.000Z"
+      },
+      {
+        "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - Diario Ahora",
+        "summary": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú &nbsp;&nbsp; Diario Ahora",
+        "source": "Diario Ahora",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUwwRm5ROVRhYTJuX0RCWEVaNW4yU1lQU0k0anlPcFRITnJEZTItWXJnVDF5MkYxODhCSV9sSWRJelduRjFLRnNYTDZGVG15WVdDQTJkRUpBVFd4V2FZazA2Q3ZvNGgxV2M3Z2FlcEl5cHJESEZoRWwyM0VPQ2MwWlpBc3BSakN3N25NTi1UNU1rWEhwejBONjQ1dTdUS3Y5Y1RUc0Y4dkpOZzFvTFJsWnZJREZGMmpwb2tPeFpyRnpha1Q5MWRlQw?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-06T16:15:21.000Z"
       },
       {
         "title": "MTPE crea comisión para analizar el impacto de la IA en el empleo - El Ecosistema Startup",
@@ -417,7 +417,15 @@
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQW9fVk51R2xSS1c2X0I5TjFfc2VoT3hDeVJJVEFIbUJSTmItZ0lQUGdocWJvWVA4bjUtWGlfMGtMVExUMnA4TVBBODg1YVJ5VVBYeWc1X1lvYl9MdzFQVGZjVzg1RzQxNjRlb3hNN25CaVd3Y29XWlRPSWJSVmlHQWFtZnV2OURIaFByNGZJT193YklScUl6cEU2X2o2SklLcVdZLU15VklTSnBKQVJaYWVZcGloeXJHM25HUS1aUGNVSEtPaElZenMwcEVvSXB3eE42cFFESzItX2hXckZSNi10YTN2X3BtWjlObWwyc9IB9AFBVV95cUxQUXZkLW0ya0dvbTdNOC0waTg4UGJrVXpmTFB2TXhDc0d2aE5QOEFYU1hIR3VyY0U0WkNPYnVqM3ZJSFlOWndYdzZCdXVUZHE5eXRyQi1TdWw1UHVNZjYxY3pMY3R5TkF6ZFRqTUstYjVZYzdLN1NxZ3VVdTlsc1lBYTZDVnVRYU5QcGJMdDU5OV96ODZMY1hhNG1IdVhtWkVBMkpkQ0xLSTVsU0YzdVZzdFI0YnllR0dyWW5UVFBIQllGRy05b0hOcEZXV0pjeDNPenpNNkp5M3JTYmpoZGxxUzNvR2tYVVpXSktGQXNtcDVHclhD?oc=5",
         "image": "",
-        "publishedAt": "2026-09-08T01:54:00.000Z"
+        "publishedAt": "2026-09-08T04:54:00.000Z"
+      },
+      {
+        "title": "Cómo replicar paso a paso el trend viral que convierte una foto actual en un retrato de los años 80 - El Comercio Perú",
+        "summary": "Cómo replicar paso a paso el trend viral que convierte una foto actual en un retrato de los años 80 &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZTlFMnQ1b1pJM1dEbTJaWnpNVGZ0T1g4SWpXZ25rWHBsN1hTdmRVTUVfdG9mQXhQOFZZU3F6X3BkQzRXMnFaejgzcmgzdDZZOFk1VEhBZzJsTmQxS3k3aDRBeHRLRnZBTzR0WFU0cjhNal9QUHVoNHY3czFrNGlxN1NpckM1bGVpSFJfVVdNTlp6YnJsRUxURVh2UXZValZzcEJqSkxxSGI4MjdUN3lFNFg0QzlFUmVWc0lCN3A2VzgyN0d6UXZwSG5Bc0xPejhQYkgycDZlblczUlhzekRGTmVEVDFxU2fSAfsBQVVfeXFMT1BhMjJ1RDBTRjF4WnRMdGxmYm90ZUVBWlVLMVRtVDFvc2tkOTdrbUM0UG54OWNMbHJJTmZ2ZHBHZmVmek1EMkVNeFhaZnJtOEZQdlNVME16WW5KbnJvOFBoUzhOU0tzX0Z3WFN1UG5POEFzZ1ppdGEwcE9ZQ21mYWk5RjA5anNPR0RuSk5sZzFHdmNUdlV1V2VGS2Z3UHpSb21TTDZNRU9KRy03cDd1bGFfbWxQWmRsZTQxX2d5LXJVTzAzRmt2N0xQME9sdkdKNVBhbXVMdGRwMUpTZlZfZXVSdEpvVG1LQ1BtMExkdGtLOHZQeWhGV2dVU0E?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-07T23:27:13.000Z"
       },
       {
         "title": "La Kachame video viral Twitter: Alexlumix1 tendencia en Telegram por filtración - TuNota",
@@ -466,25 +474,9 @@
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY1JKYUdUNlpDMThFMDBMcUtpSm9WX3hDME5FdlhTVkIySnFidkNRV3RNa2Z0LVB0ZzhIUlNPdnFSM3dGQl9SRXl2XzdRVVZNS3JoYkVoZzE5WDhnWDVpdlRCNVVWbTNYTjZHVEF5cERtNEZnT0RyRmEzUUlwT0JVcEhnRXEzWExJN2lxdjEtcHZCUm1vcVpWQ1VUQ21POUhFb2Fnb1FiaHFmZHg5YnctUWJfQk53Y0M1U0ZKSWhVVlRoYXFycEZDeFk1SdIB5gFBVV95cUxOX2lXTFZfYS02czhMamE1UE01SmozQVIzLXdxbTVwRFlJQlJhaGI2XzdnVlprZkVQb0J1MjllZ0pJbk9vS21OcWJTYUQ0OU1FLW1XNU04cXRRZUtvNFF6dGV5X0VyR2hFSEd1TU1yMl9EMkdVTFZxWlB2ZzZ1cHpMcHZLSVptbmpaTFpkQVkzOGV3MHdCN0FkUm1qWTJ5aWxVVkVNTmRFSkI0czZhZkM3SGtaYmtDSy0tVVJCNHE0QngySUFLN05tY2xESFVDRTh1M0dWeUgydHVyb1p1dkdhMUN3VkhUUQ?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
-      },
-      {
-        "title": "Reto viral “Pásame la botella”: especialistas alertan por aumento de adolescentes intoxicados al mezclar alcohol con medicamentos - Infobae",
-        "summary": "Reto viral “Pásame la botella”: especialistas alertan por aumento de adolescentes intoxicados al mezclar alcohol con medicamentos &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYkxYWU1GV09vM243VlB3NWZhbWt5RzF1bE9PdXRhR3BkM2cyb25NTjVMMG1XbnM3aU1rMXBIb3FFV3cwRjRrYkduVm9Gd0hyRFlKWElDSk8ybEtXVUJkRHlXc2FuWkhodTg1Z1ZGbmpUZVZxcTN4M1J6ZlpxZHJFNUtTN2tRQWE3MVR5SkhwLWVCelVKU3FNZVowYjh3YVJYWDFHWm1PbUlJOVNBOTVQT19hQ2tGbXNYWTllU3ZoLVNlNE9aUGwzZzl3LTJHaDN6TWpaNkJsOXBTRVIwMmtfVjUyaGo4X1E1bFBvb3ZkMUZ5QmozSGtYcUx5VdIBlgJBVV95cUxPUElwalRLcFI3MTN6a3dqaV9pWHA2NjFYWVFHZU00NTNTblYzYXo3aDdXaEF1NzM3bmx0MkFCbnFGdmtFd2syOVRwNE1HRVV4dnhsOUtva2E5ZUVvbW1CVDBneGc5a3hZUU9oVjFfVE0xOExvbG5TM0FoeW81Wll1UWtxRTNqdkJiTWoxbm42aG9PWVNjTmlvbmgzaUdmVDA1bkFmUm1RRVVua2VxY0tldUlQTGEzZ3k2Sk10N0JKWUxTTkF6OGQtVlV6RzhmcGlJdlA1OF9JaEFIcFI1U3NoZDZtUnpmbEpBWVZCTUE1bVNDQUxZcm9QVDB2OEhpekVtcGItWjNDekpHY0xKSk1GQXpMRGhYdw?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-08T07:00:00.000Z"
       }
     ],
     "farandula": [
-      {
-        "title": "Jaime ‘Choca’ Mandros celebra que Feria Fusión sea Marca Perú: “Que el público pueda disfrutar de nuestra rica comida” - Trome.com",
-        "summary": "Jaime ‘Choca’ Mandros celebra que Feria Fusión sea Marca Perú: “Que el público pueda disfrutar de nuestra rica comida” &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSTVYYlBqX2t4N1ZWUmtaMHg2N0F6c1lscms1Q0pjWWZsc1hHVUZlbGU0VnNWVVJjN3kxU1EzakFUd0poUWpQSmVYOXgwUWxiT3M3VjFCQXJtaFBaVV9tOXcyVUZLRUJPNmpZRjBOUDdGUDNTWnVLTkhyUDhtVkd4TVlpRGJRTUN3VURKYVVPNnpkWkZ0Mkk4dmwtMkRSRXdVRVlFbllfOGJwZjZjVjJhcG9YNTZhakY5Y01DMWFuRDJTdzNiVGJiV0tyeVpRY3B1cXBNWUZvUkt5QzUyYjNNTFNHSjBGUdIB-gFBVV95cUxOVmpYdExMQzREcHh1bS1kMFY2azJHekdad0U0ZWMyX2QwN2Y3Y0ZKSWhzbFZKYjNlWW1HNXJmZzRVZWdXTjVIZmVqeGRfS0U5azFzT3VsdXZ3QXhUUkhjZFJBWmI0Y0kxWlUzdllGV2VtckR0VFpYRmZ4SGcwbkdGZEtXTnJuelhXbFExS0VBZF9jbXlpc0JCZDFrWGdsTFh5SXJUcllVZXV4V1Q0WFRpVVhjRlJ6YkxHNk1vaG9oMGNTdkJoU2VNS25kRVl6VTRfRVZzYW9XdG1VYVpxLTdJWDZVZVdMcWZUbmw2aHZiNlNiUEl3Y0lCLU5R?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-04T13:44:02.000Z"
-      },
       {
         "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
         "summary": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula &nbsp;&nbsp; Infobae",
@@ -508,6 +500,14 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHpkRUdJMnV3X2tiUURubVRPZW9NY0Z3UlJIS1NIaG1jVkpPWEYwcVlsSXJBdVliMERjdnlBRkR0LUw2WllJam56RXBUb2tVbFlxZDJOV2xEYTJsczg1elZlclFvREdzUWptcmw3VURlYlhST09TdVpWTmo2Znp3dGJWeDhHN2xILU1aOHBXVkZ5MFhFNnM4SzliOE92VTNOWnMtTk1YaWVUMmdHcGN3a2MxRnJaQXlWdmo2aE5iR1UzbU1QWnVibkZJamZabm9KV01SQ1FfM3TSAewBQVVfeXFMTlJtdHBFeG9XM2lzMnFvRnpMWk5XZGFRblJNdlBTeVNRcGpGR1hOS2RydWh3dTlFQ3BDNkZEMmlXTi1nUW1zUFN6djIxRU5BUDV2V3hkZDREMlRVTmZtRy1IT3dEQXdCMmRLYmg2ZndiNHI5dV9RWmM0bDZmdjBITkpBNzBqWEx6cTJWQTBUV1VBcm9mS3U0YzluUlEwb0ZLT2picG0xNlI1YnVEY2xGYVoxMC1CMlV1NHhzRmtTTVVZaERiTUVZZGR4SjJ6YVpDeGJMY3Aybzg4WUZFV1kyVm1OdEUyUktiVE95OHM?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
+      },
+      {
+        "title": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina - Infobae",
+        "summary": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOajFsLUtIcVlCbVlEeDJrZERUeklvOU1Hak5IRjdkWWRuTjhuR24zTnRkNDFONDRHelY2RG9QU2FobEYwdUQxRDRYX3N0QTFqenR3aU43NUJPRWlVUnExalVDUlVwZ0d0WFRud2dYNENFRHd6d0JPWTQ3WlNCM3pjNEJ0R0R5dGlwZVJ0Yk90MDNzWlZrZXYwbGd1ekN2NzkxdFB1dThxYjBLSDVBNF96d3VNYS1ZNHNwc21WMWhwSFdCamJtd3FwczY4V0lIcFZaLVHSAewBQVVfeXFMT29fdXdnLWEyMlBwSDlqZEVOT3ViRkhla192bHU0bnh1MzNoVGFMZkttSmlFOURhVmNUeVFqLXZoMXVUVHg2M3JZZXo2SjMxY2dCUGJrUWNMX2l6Zk9GVU9HVjZrUnhDMEpqRmp1bU1vM3lfbTZJZ0VJQnR6QnJZLWJPV081YnNhMXFqOEh0ZTVSMHM3RzkwNDlRSE5XMU4wMHJ0T0VzZU5ZNXdudENQNjQtM2FXM3BIS3RmWUY5SzMyUU5pQ1lEc1FldW1RWlM2cEt1NEtQRFdjNm8zcE8tdi1UeWVpY1NadHNnWTg?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
         "title": "¡Se acabó! Sheyla Rojas confirma su ruptura con Sir Winston tras larga permanencia en Perú: “Terminamos” - Trome.com",
@@ -576,9 +576,9 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
-        "title": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO - Ticketmaster Peru Blog",
-        "summary": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO &nbsp;&nbsp; Ticketmaster Peru Blog",
-        "source": "Ticketmaster Peru Blog",
+        "title": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO - blog.ticketmaster.pe",
+        "summary": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO &nbsp;&nbsp; blog.ticketmaster.pe",
+        "source": "blog.ticketmaster.pe",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVJKaExOenRRZmxzRzVVZWxoanFOaE1fTFdEZmpiRUV0X3FYcFAtTjVwMGo1R1hoUUo2dUhQVVNIZEl5eDhMSlBSdE1jWWZ3YUJXZncxM3J1d2tCUVJvUnNULS1lMEoxZlZkZ0tBbFpFZGxwYm5TSUYyd1RUZmt2VU1JN2thUl94dHduXzdKRWJGOUxQLUp1cWs4U0NMcEhDLVJrVWdVODJDSjJlYjNZODFmY0I0b3NuS2Jn?oc=5",
         "image": "",
         "publishedAt": "2026-08-08T07:00:00.000Z"
@@ -600,9 +600,9 @@
         "publishedAt": "2026-08-05T17:35:26.000Z"
       },
       {
-        "title": "Alcalde Renzo Reggiardo: “Lima se consolida como capital de los grandes eventos internacionales del mundo” - willax.pe",
-        "summary": "Alcalde Renzo Reggiardo: “Lima se consolida como capital de los grandes eventos internacionales del mundo” &nbsp;&nbsp; willax.pe",
-        "source": "willax.pe",
+        "title": "Alcalde Renzo Reggiardo: “Lima se consolida como capital de los grandes eventos internacionales del mundo” - Willax",
+        "summary": "Alcalde Renzo Reggiardo: “Lima se consolida como capital de los grandes eventos internacionales del mundo” &nbsp;&nbsp; Willax",
+        "source": "Willax",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR3hwa3FscUt6SXJuc294R2I4czZUM0xIaEtrN3dIWnFzdnFhczhDSTlVSzJEa0t6Z2txT2taanQtTEV2anpjWV9xZVpSakdDc1BzY01ISEFpbkppMnZRRnNuWEZ1dEY5MDJMLTRsbnV4d2ZXTDExa3E3alRWaUxEcDRlaFpYUWdGS3Y2T1c4NFlHdlBhQmh5SjN3dVZ1WThqdHpfcjVyYkZ5dW5ZTGUza2R3cEFxb0tod01ZMFBJc1FFZl9PaUlJX19n?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
