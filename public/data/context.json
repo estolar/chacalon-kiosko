@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T22:48:43.564Z",
+  "generatedAt": "2026-09-08T01:10:41.288Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,20 +24,12 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Radiografía educativa de las Elecciones Regionales y Municipales 2026: Conoce el nivel de estudios y profesiones más frecuentes de los candidatos",
-        "summary": "Más de la mitad de los candidatos a distintos cargos en las elecciones municipales y regionales 2026 no tiene estudios superiores concluidos, según sus hojas de vida. La oferta electoral refleja la brecha en el acceso a la educación superior en el país.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/elecciones-municipales-2026-elecciones-regionales-2026-keiko-fujimori-fuerza-popular-rafael-lopez-aliaga-carlos-bruce-franco-vidal-onpe-jne-votaciones-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/LMHWTWX775AK5G44CFXVY5RAOY.jpeg?auth=bf21dc5594102cc50f97bdbf198a55ccc8c43a04680ab930f91f1baa5b45b7e7&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-09-07T21:51:58.000Z"
-      },
-      {
         "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
         "summary": "Fuerza Popular | Desde que empezó a participar en elecciones subnacionales, el fujimorismo redujo su oferta electoral en más de la mitad.",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/ecdata/en-16-anos-fuerza-popular-solo-ha-ganado-3-gobiernos-regionales-y-no-ha-colocado-un-solo-alcalde-en-lima-metropolitana-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/3ZQHU5EOGNH33LU7J6EN3J4QSE.jpeg?auth=05b2ba86279d4f5e8c5af8ea35780dce6caca06e15b2546119eb9e3be8b10463&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-09-07T21:51:37.000Z"
+        "publishedAt": "2026-09-07T23:51:00.000Z"
       },
       {
         "title": "El nuevo Congreso bicameral alcanzó un nuevo récord de mujeres, pero el Senado aún está lejos de la paridad",
@@ -45,7 +37,31 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/ecdata/congreso-keiko-fujimori-senado-diputados-bicameralidad-palacio-de-gobierno-mujeres-martha-chavez-fuerza-popular-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/5CNBAEYKWVE53IHCVZAYKUV5CA.png?auth=8e7a13e206d920b70ddfca603c0c9325c76a88346ce797f823ffcb326f891177&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-09-07T21:50:34.000Z"
+        "publishedAt": "2026-09-07T23:50:00.000Z"
+      },
+      {
+        "title": "Gastón Acurio Velarde, el legado político del exsenador y líder histórico de Acción Popular",
+        "summary": "Gastón Acurio Velarde, exsenador y padre del reconocido chef peruano Gastón Acurio, falleció este lunes 7 de setiembre a los 95 años, según confirmó su hijo a través de sus redes sociales.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/actualidad/perfil-gaston-acurio-velarde-fallecio-el-padre-del-chef-gaston-acurio-el-legado-politico-del-exsenador-y-lider-historico-de-accion-popular-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/XNDVYXKGMJB2LM2BUEB2T2YPQ4.jpg?auth=dbb836833495a0313888530fd5e142fe0380429c791639e92870c65cd709a7f1&smart=true&width=3024&height=4032",
+        "publishedAt": "2026-09-07T23:36:58.000Z"
+      },
+      {
+        "title": "Radiografía educativa de las Elecciones Regionales y Municipales 2026: Conoce el nivel de estudios y profesiones más frecuentes de los candidatos",
+        "summary": "Más de la mitad de los candidatos a distintos cargos en las elecciones municipales y regionales 2026 no tiene estudios superiores concluidos, según sus hojas de vida. La oferta electoral refleja la brecha en el acceso a la educación superior en el país.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/ecdata/elecciones-municipales-2026-elecciones-regionales-2026-keiko-fujimori-fuerza-popular-rafael-lopez-aliaga-carlos-bruce-franco-vidal-onpe-jne-votaciones-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/LMHWTWX775AK5G44CFXVY5RAOY.jpeg?auth=bf21dc5594102cc50f97bdbf198a55ccc8c43a04680ab930f91f1baa5b45b7e7&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-09-07T23:30:00.000Z"
+      },
+      {
+        "title": "La feria de las facultades, una crónica de Fernando Vivas sobre el juego bicameral",
+        "summary": "La feria de las facultades, una crónica de Fernando Vivas sobre el juego bicameral | El Ejecutivo apuesta a que Diputados apruebe algunos pedidos para que, al subir al Senado, con mejor correlación para el gobierno, se restituya lo que rechazó la cámara baja.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/la-feria-de-las-facultades-una-cronica-de-fernando-vivas-sobre-el-juego-bicameral-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/HV2A2D74YVBTVJQPNFKX577RSY.jpg?auth=44978fe88ac6a037f00c35f7d581099a602861126638dcbe8a6f9b141f028ddf&smart=true&width=1200&height=647",
+        "publishedAt": "2026-09-07T23:24:00.000Z"
       },
       {
         "title": "Diputados plantean cambios al plan de la Comisión de Energía y Minas que abría las puertas a la Confemin y al control de privados",
@@ -62,32 +78,32 @@
         "url": "https://elcomercio.pe/politica/oscar-arriola-los-entretelones-detras-de-su-salida-de-la-comandancia-de-la-pnp-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/WMTM5EM43VH3NN23FMGGNP3OSA.jpg?auth=2311edb9e8273cc6787d776a42f3ef64d242a8b6b2b88ee4f018d860e0079ce5&smart=true&width=1200&height=647",
         "publishedAt": "2026-09-07T20:23:33.000Z"
-      },
-      {
-        "title": "Candidato de Fuerza Popular a la alcaldía de Lima, Samuel Daza, presenta propuestas sobre seguridad ciudadana",
-        "summary": "Samuel Daza presentó su plan de gobierno denominado “El Ojo de Dios” para su candidatura a la alcaldía de Lima. Durante la conferencia explicó su propuesta de seguridad, que incluye la implementación de 1.000 equipos tácticos.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/elecciones-2026-samuel-daza-candidato-de-fuerza-popular-a-la-alcaldia-de-lima-presenta-propuestas-sobre-seguridad-ciudadana-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/LOQL75TXEVBGNGDKYHGBYUJ2WE.jpg?auth=1a9bab5a0a9a9c207ae5cd5f5f533da3b4dde22117ad649c9017431cebaf6fe6&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-07T20:14:27.000Z"
-      },
-      {
-        "title": "ERM 2026: debates electorales del JNE comienzan este martes con candidatos de Junín",
-        "summary": "El calendario de los Debates ERM 2026 entra en marcha este martes 8 de setiembre. El Jurado Nacional de Elecciones (JNE) ha programado una serie de encuentros entre los candidatos que participarán en las próximas Elecciones Regionales y Municipales 2026, con el objetivo de promover una participación ciudadana informada",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/elecciones/erm-2026-debates-electorales-del-jne-comienzan-este-martes-con-candidatos-de-junin-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/S3PVYIVYKFESRGYRXYHWGTHZIE.jpg?auth=dae0e74c3fc4552e892e844accf119c5b23c5f149aa5122411b5a7d167896d2b&smart=true&width=3888&height=2592",
-        "publishedAt": "2026-09-07T19:04:43.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Petroperú pide una nueva prórroga para producir combustibles menos contaminantes: qué falta",
+        "summary": "Empresa reconoce que no logró implementar los equipos necesarios en la nueva refinería de Talara para cumplir la exigencia ambiental de reducir el contenido de azufre en sus derivados.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/petroperu-pide-una-nueva-prorroga-del-plazo-para-producir-combustibles-menos-contaminantes-noticia/",
+        "image": "https://gestion.pe/resizer/v2/JKB5URGMQJCHZAJQR44MDSOK2Y.jpg?auth=dec9f1751da4211e290ae6af05553ebb64e9c793fc8079f504e5d55c305772a1&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-08T00:48:00.000Z"
+      },
       {
         "title": "Mypes no ven motivos para formalizarse: ¿hay un “impuesto” invisible que las desmotiva?",
         "summary": "Un reciente estudio, elaborado por Ipsos bajo encargo de ComexPerú, puso en cifras lo que en el sector de las mypes se reclama hace tiempo: no existen incentivos reales para formalizarse y mucho menos crecer.",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/mypes-no-ven-motivos-para-formalizarse-hay-un-impuesto-invisible-que-las-desmotiva-noticia/",
         "image": "https://gestion.pe/resizer/v2/BQXYRWUX4NGAHE4K45OF7JI2TA.png?auth=4835350066c5f85525a1e41771f169ffd4117499a1c5f2d0d4701426e248a1a3&smart=true&width=1672&height=941",
-        "publishedAt": "2026-09-07T22:41:08.000Z"
+        "publishedAt": "2026-09-08T00:41:00.000Z"
+      },
+      {
+        "title": "Gobierno destina S/ 25.5 millones para trabajos en puntos críticos ante fenómeno El Niño",
+        "summary": "El Gobierno autorizó una transferencia de S/ 25,5 millones al Ministerio de Vivienda, Construcción y Saneamiento (MVCS) para ejecutar 55 intervenciones de limpieza y descolmatación en cauces de ríos y quebradas considerados críticos.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/gobierno-de-keiko-fujimori-destina-s-255-millones-para-trabajos-en-puntos-criticos-ante-fenomeno-el-nino-noticia/",
+        "image": "https://gestion.pe/resizer/v2/HDVHA77D4RF3JOPJHNMYFN3XZQ.jpg?auth=0577f6d2afecfd4cafb24327000fec297160aa1cffa0a5e7edb4f66d8cba5e42&smart=true&width=3648&height=2432",
+        "publishedAt": "2026-09-08T00:15:51.000Z"
       },
       {
         "title": "Comisiones por ventas: ¿las empresas deben informar cómo se fijan estos pagos?",
@@ -128,22 +144,6 @@
         "url": "https://gestion.pe/economia/empresas/agrovet-market-atrevia-acelera-mayor-produccion-en-lurin-y-prepara-su-expansion-en-mascotas-noticia/",
         "image": "https://gestion.pe/resizer/v2/HHAPI5HZFFF7ZORGD3CZLOQJCY.jpg?auth=68dac435fdb6dba0a93208edbab0468cc59030fcf9d357d9b983063bde4290ee&smart=true&width=790&height=527",
         "publishedAt": "2026-09-07T22:04:54.000Z"
-      },
-      {
-        "title": "Pymes “temen” a la Sunat: fiscalizaciones golpean futuro de sus negocios, según estudio",
-        "summary": "El 69% de las pymes identifica a la Sunat como la entidad cuyas fiscalizaciones generan mayor impacto negativo en su operación, según estudio de ComexPerú e Ipsos.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/pymes-temen-a-la-sunat-fiscalizaciones-golpean-futuro-de-sus-negocios-segun-estudio-noticia/",
-        "image": "https://gestion.pe/resizer/v2/LNXJJ4NV2BEIDKDHVLAEZLU3S4.jpg?auth=a2b302cc2126eed17b0dd7339fe3741c5132d0cd5d08d054d458888f42fb43b4&smart=true&width=1400&height=800",
-        "publishedAt": "2026-09-07T21:53:32.000Z"
-      },
-      {
-        "title": "Gobierno publica acuerdo de libre comercio entre Perú y Hong Kong, ¿qué se acordó?",
-        "summary": "Perú y Hong Kong consolidan su relación comercial con la publicación de los detalles de su acuerdo de libre comercio",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/gobierno-publica-acuerdo-de-libre-comercio-entre-peru-y-hong-kong-que-se-acordo-noticia/",
-        "image": "https://gestion.pe/resizer/v2/ETFPWC6AHVCGREDZZD5FAD5AJA.jpeg?auth=9a5159e003386fad6e2d81b487ecd543d4943806809407583ed336bca997c98c&smart=true&width=760&height=428",
-        "publishedAt": "2026-09-07T21:46:51.000Z"
       }
     ],
     "sociedad": [
@@ -214,9 +214,9 @@
     ],
     "negocios": [
       {
-        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - businessempresarial.com.pe",
-        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; businessempresarial.com.pe",
-        "source": "businessempresarial.com.pe",
+        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - Business Empresarial",
+        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbEpWQWwzZjk1OHUyMXNjdl9taXN3YWtlVkc3WUd6ak1GNTNKTjMwWHhEd0Y4TTF6WU90LTMwTjZSNDVFN29ReWFGQkVvTmtya3pNMG9kSEdjYzRvdnZsTG16M3E1bzZhV09OVVBwWUNCU2ZJVHpfdnlvV1VmVXVLU2FmR3FYeVlIRnl1MVRvWmJlSWU4eVZ4Rkxxd2tZUHBKcWp6Q3BRUkZRMVRkbDRiVWNOdTFNSU5yNjByS2FobmlLdGRrOVJHdU9YOW9VYjZBLTYySHM1cDNhR1pDR0JZ?oc=5",
         "image": "",
         "publishedAt": "2026-07-24T07:00:00.000Z"
@@ -230,17 +230,17 @@
         "publishedAt": "2026-07-21T07:00:00.000Z"
       },
       {
-        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - businessempresarial.com.pe",
-        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; businessempresarial.com.pe",
-        "source": "businessempresarial.com.pe",
+        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - Business Empresarial",
+        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOclpab3k5dms5U3JOSXdvUU1pSnFnUnYzWDY3QUtyeU9ob2NhZnI5U092N3QxY19kVUtUX1JPR0tzUElTTXVlMGdUbV9tclI0Y0JQcU11QWhJQkkxalNIR3R3VmdGSHdMY0NJUVE1V09Tel9OX3R5eUVKV3owZnJ2VjJ0VVRlNFowbWZyVUl4SDAwc2lYUzZKcTZtTDhEUlV0LTJMY2hnSGJkQ0c5U1AwRkVGVm5qQXk3XzI0ZEZ3ZTE4RjBtbTcwTG15MVdKX1F3Y3VGby1IdVNrd0pB?oc=5",
         "image": "",
         "publishedAt": "2026-07-04T07:00:00.000Z"
       },
       {
-        "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - businessempresarial.com.pe",
-        "summary": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores &nbsp;&nbsp; businessempresarial.com.pe",
-        "source": "businessempresarial.com.pe",
+        "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - Business Empresarial",
+        "summary": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVFwSXZrS2lPelhLNUlzRXRMZmM1WDhBVkptN0QyQ2dqSTQteTJaQVpnb2pUQldrSEJ2QjNpQWJZMC1lNmxtSjRQWUQ1N2JxcEhIcGY3M0xUdWdfV0YwYXBONWItcTlMVzlsekVJMW85VVRRN3Bmc2NjR0hlTlVVYmowYkprdDVwSTZ4T25tWnc0RDkzVUhRVUV4U1ZtQW9idWtuX0RqelF1TkpCbWxyQVQtUXJrMlRsLTg5SlFEQ0k5RS02Wkgw?oc=5",
         "image": "",
         "publishedAt": "2026-06-26T07:00:00.000Z"
@@ -262,20 +262,20 @@
         "publishedAt": "2026-06-17T17:04:18.000Z"
       },
       {
-        "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
-        "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-17T07:00:00.000Z"
-      },
-      {
         "title": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión - Infobae",
         "summary": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
         "image": "",
         "publishedAt": "2026-06-10T07:00:00.000Z"
+      },
+      {
+        "title": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú - Business Empresarial",
+        "summary": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BXc0NCUE53Q1dicXN4ZXFJY3RHNmhlQnh1UG81VHItc29JbE5KdDViOTB1OW5Ja3V4dTdWRWZGLW1zRlVHUVJPNFMyS2h6YzR0THpaeC1EbmdfTlJNQzB4RkJ2VU9wZWN5YjZuelBIUG1DZlVxeURaVTdIdjZTRGdtUmRKaEEzY2dKd2pKS0h2RjUtN1JualhXY3lPbVdIdDlaRFdnRWNUd2p2b1RtTjJQcUx6d21ZNkdkT0dSWU9hV3Nya09UckFMNmFIUQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-05-27T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -305,8 +305,8 @@
       },
       {
         "title": "24 semilleros de investigación de Cundinamarca mejoran sus capacidades con acompañamiento internacional de CONCYTEC - 24 semilleros de investigación de Cundinamarca mejoran sus cap",
-        "summary": "24 semilleros de investigación de Cundinamarca mejoran sus capacidades con acompañamiento internacional de CONCYTEC - 24 semilleros de investigación de Cundinamarca mejoran sus capacidades con acompañamiento internacional de CONCYTEC &nbsp;&nbsp; Gobernación de Cundinamarca",
-        "source": "Gobernación de Cundinamarca",
+        "summary": "24 semilleros de investigación de Cundinamarca mejoran sus capacidades con acompañamiento internacional de CONCYTEC - 24 semilleros de investigación de Cundinamarca mejoran sus capacidades con acompañamiento internacional de CONCYTEC &nbsp;&nbsp; cundinamarca.gov.co",
+        "source": "cundinamarca.gov.co",
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaG94YzZZUlRrbWhTOG1UTGlYSU0xNG5yUTYzN1dMQU5xbElHX2p5dm9FcHhNSk1ueFE5ZkFhaU52S1pBM0V2ZUM4clBrVDVmTVBqNEtYMVE2YTRmVDdCZlUxUjBEV1lobUphV0dCZFRjUU5GT3l0RnN1cWhQUVI3QlBIelNtS3V4LUJBb2tkQjN2cFZlS1FpYUUyYTZIaTFkS1Ewem5hYzJrbjRTMlUxQk9Fak1zeVlqbXprZWZjZWgwNWczcGdZQ3RWb2hhSTQ4Q3dWVDY3bVZjWDNCdl9Hektnc0tkRV80WGdvcg?oc=5",
         "image": "",
         "publishedAt": "2026-07-01T20:32:44.000Z"
@@ -394,20 +394,20 @@
         "publishedAt": "2026-09-05T21:53:00.000Z"
       },
       {
-        "title": "Conoce el talento peruano que innova con... - Panamericana TV",
-        "summary": "Conoce el talento peruano que innova con... &nbsp;&nbsp; Panamericana TV",
-        "source": "Panamericana TV",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZS12Y0l2d0hneGhfZE9yd1ZKNTRkMTlhZWQ2M0xrcnctQWktazg3d25GM25TaTNOLW9sbkNBNkVjdXpZZEs5ZWoxQ0JsRzNoZVRuSUJ6VUNUdi1veEJ6elpKOWZrYTBKS2xobnpDcXc2WENBSEpFVkVFR2hTMkpzY3l2dHdVR3NxTXAzZWdiNWJYNmFrVEM5cnNUY9IBoAFBVV95cUxPaWlqREVSa2cycmdGSHRYWWF4cTE2ZzB2QkEwSnlfRWFnQlhoVVliYzVtaWtaSm9NVWxIWnRJRUlBbzUxQ3BlNTh3d2ljc0QxRW04UjMtLWh4TUI3cmxsSWFwTG04RlpJM0lSMVpaNmhidlU1SG1CN3hUOWlZLW1SY1ZWaVVXNEFNanFiU1R5SmJHbDBodnhsVkNMLXR0MVpZ?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-05T17:31:08.000Z"
-      },
-      {
         "title": "Conoce el talento peruano que innova con inteligencia artificial - Revista Caretas",
         "summary": "Conoce el talento peruano que innova con inteligencia artificial &nbsp;&nbsp; Revista Caretas",
         "source": "Revista Caretas",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONlFmcDhwYmxRR1ZRenY4SlZSckQzY3RnOHlOUXBxVG1nb2dFY19xN0RQbVF2SldOVHluS2toOWlSa3BEMXFLS3lYVGpjZ3A0NHZTYm5JNU1rVXU3NHd5R0ZCTG5mOXJsTHpfb0ZRNnRXVkUxQS1ldHowcHh2QUlzS0RSaEtibko5ZXI4a3hQZVFlbzkwM1NpWg?oc=5",
         "image": "",
         "publishedAt": "2026-09-05T17:21:04.000Z"
+      },
+      {
+        "title": "Global AI Diffusion 2026: este es el puesto de Perú en ránking mundial sobre adopción de la IA - elcomercio.pe",
+        "summary": "Global AI Diffusion 2026: este es el puesto de Perú en ránking mundial sobre adopción de la IA &nbsp;&nbsp; elcomercio.pe",
+        "source": "elcomercio.pe",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQakt0Qk9tU1RJb1pZdkpmWkRTdXJTQV9NN3g0WXgxZjVzSW5ZUnlaWEtieTFwdDlaTU5HZWxNNFNKeURpMThTMDlzS2FEcHVyNHdELUQxbWk3SnVabzVvRXVQYVE2V3NsUmtHei02Ymo3UVJpanI4aFZrLWlzYTRkbURMRXI2U3pxTUlMMlhLc2xuTV9Udkl0bElkSmFHZ1I4QmtZRXJrLVZhUzVDeUo5X3R3OFh5UUt6cXVjWDlkWll4SmVXVDlnU1V6Y1NuVWM4bzRGTW4wbFJHUFlsWXdXd3MyQjVXNUUtUW5hdnZSSHpuQk45VElDTjZHd0pkWURqQmZNc290d0RqM2wxRkpXTFlYZm5uSFR3ZC1LLXlxTHZFd9IBtgJBVV95cUxQMXVORXFvQTRUWWJ0M1BsYVlXaUh6TkdaTEViN1BWSllUUnl1UFJhU0hWa05UUUlhNkYzaXlDdkNSbUc5WjRBYUs1cFhfODJHSDFFUzE2RndNTE96Qk13Nk9wRjJFd0RPM0dJVlk1MXdSV0szZDJLQVo0ZG1LLXZ0TE1GVnNsbWMxOTFtazZSdjMyRGoxT3V4anpPY245VEJuUFI0QnRXakpBMkdyVndVMW54RmJkQmEyZ0tHNWZqZVVwRy1RMTVMTVk5TEZMMGVrNnd3aUZiaDN3elR2U3lhaGdIS3FzZGc3VjZ6Zm50WTNuTDNBRXNTZUxHWlZ3bTJxbnZlbVE0WVVaczNvMDdrb2xBYy1KTXQ1T0tOR3JJX1dSRjJTUFJVMmEyVXF3ZGFMTGJzR1B3?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-05T17:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -415,9 +415,9 @@
         "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: así puedes transformar tu foto con IA usando ChatGPT - La República",
         "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: así puedes transformar tu foto con IA usando ChatGPT &nbsp;&nbsp; La República",
         "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUXZkLW0ya0dvbTdNOC0waTg4UGJrVXpmTFB2TXhDc0d2aE5QOEFYU1hIR3VyY0U0WkNPYnVqM3ZJSFlOWndYdzZCdXVUZHE5eXRyQi1TdWw1UHVNZjYxY3pMY3R5TkF6ZFRqTUstYjVZYzdLN1NxZ3VVdTlsc1lBYTZDVnVRYU5QcGJMdDU5OV96ODZMY1hhNG1IdVhtWkVBMkpkQ0xLSTVsU0YzdVZzdFI0YnllR0dyWW5UVFBIQllGRy05b0hOcEZXV0pjeDNPenpNNkp5M3JTYmpoZGxxUzNvR2tYVVpXSktGQXNtcDVHclhD0gH0AUFVX3lxTFBRdmQtbTJrR29tN004LTBpODhQYmtVemZMUHZNeENzR3ZoTlA4QVhTWEhHdXJjRTRaQ09idWozdklIWU5ad1h3NkJ1dVRkcTl5dHJCLVN1bDVQdU1mNjFjekxjdHlOQXpkVGpNSy1iNVljN0s3U3FndVV1OWxzWUFhNkNWdVFhTlBwYkx0NTk5X3o4NkxjWGE0bUh1WG1aRUEySmRDTEtJNWxTRjN1VnN0UjRieWVHR3JZblRUUEhCWUZHLTlvSE5wRldXSmN4M096ek02SnkzclNiamhkbHFTM29Ha1hVWldKS0ZBc21wNUdyWEM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQW9fVk51R2xSS1c2X0I5TjFfc2VoT3hDeVJJVEFIbUJSTmItZ0lQUGdocWJvWVA4bjUtWGlfMGtMVExUMnA4TVBBODg1YVJ5VVBYeWc1X1lvYl9MdzFQVGZjVzg1RzQxNjRlb3hNN25CaVd3Y29XWlRPSWJSVmlHQWFtZnV2OURIaFByNGZJT193YklScUl6cEU2X2o2SklLcVdZLU15VklTSnBKQVJaYWVZcGloeXJHM25HUS1aUGNVSEtPaElZenMwcEVvSXB3eE42cFFESzItX2hXckZSNi10YTN2X3BtWjlObWwyc9IB9AFBVV95cUxQUXZkLW0ya0dvbTdNOC0waTg4UGJrVXpmTFB2TXhDc0d2aE5QOEFYU1hIR3VyY0U0WkNPYnVqM3ZJSFlOWndYdzZCdXVUZHE5eXRyQi1TdWw1UHVNZjYxY3pMY3R5TkF6ZFRqTUstYjVZYzdLN1NxZ3VVdTlsc1lBYTZDVnVRYU5QcGJMdDU5OV96ODZMY1hhNG1IdVhtWkVBMkpkQ0xLSTVsU0YzdVZzdFI0YnllR0dyWW5UVFBIQllGRy05b0hOcEZXV0pjeDNPenpNNkp5M3JTYmpoZGxxUzNvR2tYVVpXSktGQXNtcDVHclhD?oc=5",
         "image": "",
-        "publishedAt": "2026-09-07T16:57:29.000Z"
+        "publishedAt": "2026-09-07T22:54:00.000Z"
       },
       {
         "title": "La Kachame video viral Twitter: Alexlumix1 tendencia en Telegram por filtración - TuNota",
@@ -468,12 +468,12 @@
         "publishedAt": "2026-08-15T07:00:00.000Z"
       },
       {
-        "title": "Dr. Guali, la botarga peruana que desató comparaciones con el Dr. Simi en redes sociales - Canal 44",
-        "summary": "Dr. Guali, la botarga peruana que desató comparaciones con el Dr. Simi en redes sociales &nbsp;&nbsp; Canal 44",
-        "source": "Canal 44",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTFsQ2ZkX0d0V2FnTXBncWYyVGlGejdENURmN0llZ2Q4Z3F2a0liVEYzcnI5UHUtYkxSZlV1WHNHV25CUlEwdThPXzRHODZWWHNVV0F4RVFnRDBCdGNIZVR5d2luZTBuOE9ia21TRGcxVjhOZnlnOVBWX2hUaGlOWURnZ1ZpM0xoQ0I5dno2TThhc0lUdXNCMzdBdGU4dmUweDlYQWZJUUh3dw?oc=5",
+        "title": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” - Infobae",
+        "summary": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY1JKYUdUNlpDMThFMDBMcUtpSm9WX3hDME5FdlhTVkIySnFidkNRV3RNa2Z0LVB0ZzhIUlNPdnFSM3dGQl9SRXl2XzdRVVZNS3JoYkVoZzE5WDhnWDVpdlRCNVVWbTNYTjZHVEF5cERtNEZnT0RyRmEzUUlwT0JVcEhnRXEzWExJN2lxdjEtcHZCUm1vcVpWQ1VUQ21POUhFb2Fnb1FiaHFmZHg5YnctUWJfQk53Y0M1U0ZKSWhVVlRoYXFycEZDeFk1SdIB5gFBVV95cUxOX2lXTFZfYS02czhMamE1UE01SmozQVIzLXdxbTVwRFlJQlJhaGI2XzdnVlprZkVQb0J1MjllZ0pJbk9vS21OcWJTYUQ0OU1FLW1XNU04cXRRZUtvNFF6dGV5X0VyR2hFSEd1TU1yMl9EMkdVTFZxWlB2ZzZ1cHpMcHZLSVptbmpaTFpkQVkzOGV3MHdCN0FkUm1qWTJ5aWxVVkVNTmRFSkI0czZhZkM3SGtaYmtDSy0tVVJCNHE0QngySUFLN05tY2xESFVDRTh1M0dWeUgydHVyb1p1dkdhMUN3VkhUUQ?oc=5",
         "image": "",
-        "publishedAt": "2026-08-04T18:37:14.000Z"
+        "publishedAt": "2026-07-30T07:00:00.000Z"
       }
     ],
     "farandula": [
@@ -510,14 +510,6 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina - Infobae",
-        "summary": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOajFsLUtIcVlCbVlEeDJrZERUeklvOU1Hak5IRjdkWWRuTjhuR24zTnRkNDFONDRHelY2RG9QU2FobEYwdUQxRDRYX3N0QTFqenR3aU43NUJPRWlVUnExalVDUlVwZ0d0WFRud2dYNENFRHd6d0JPWTQ3WlNCM3pjNEJ0R0R5dGlwZVJ0Yk90MDNzWlZrZXYwbGd1ekN2NzkxdFB1dThxYjBLSDVBNF96d3VNYS1ZNHNwc21WMWhwSFdCamJtd3FwczY4V0lIcFZaLVHSAewBQVVfeXFMT29fdXdnLWEyMlBwSDlqZEVOT3ViRkhla192bHU0bnh1MzNoVGFMZkttSmlFOURhVmNUeVFqLXZoMXVUVHg2M3JZZXo2SjMxY2dCUGJrUWNMX2l6Zk9GVU9HVjZrUnhDMEpqRmp1bU1vM3lfbTZJZ0VJQnR6QnJZLWJPV081YnNhMXFqOEh0ZTVSMHM3RzkwNDlRSE5XMU4wMHJ0T0VzZU5ZNXdudENQNjQtM2FXM3BIS3RmWUY5SzMyUU5pQ1lEc1FldW1RWlM2cEt1NEtQRFdjNm8zcE8tdi1UeWVpY1NadHNnWTg?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-26T07:00:00.000Z"
-      },
-      {
         "title": "¡Se acabó! Sheyla Rojas confirma su ruptura con Sir Winston tras larga permanencia en Perú: “Terminamos” - Trome.com",
         "summary": "¡Se acabó! Sheyla Rojas confirma su ruptura con Sir Winston tras larga permanencia en Perú: “Terminamos” &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
@@ -540,6 +532,14 @@
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOERDMDlhVkRZY3pybFhrVE5xT19RbVRHcFpzNFFzbkY1bFVQYkdWaFg4djBNTEtuTGZSQ1NZdV9Lc2NKNm1PTzN5amk3Mk1HZHdHSWtrcWlsa21hbFpsSnpTa2ZGWEhsbTVhd2RjQXRzLWFjampfNFJfMUNTVlVmT1ZDZVJZcDdPS3NSSUliX2s2SVpGNUQtSFVUUXBDTEJYMlM2eTczTEVHQldVVS1nY2ZYQmJPeWY0LVRYbm1yV096b3U1eFpaQzhPZjJxWVFtelRwWnZSN3dSeFpMY1VSbFVjenJ2VDRzb3JvbHl2VTFOZ9IBhgJBVV95cUxOMjMzZ1BDa21SQ0lraS1malU3Rzl5NEtkMldjUlBzbVBzeV9TV1R1N3ZOTFlOcjNKYnZqR3E2Nl8tUzRNZ3kxXzdCcXEzNXh4b3FTRzRsZjJWNmNYdk9SckJua185UkxRaFNHRmgtblpaOW1NcU5rUkhTVk1OX3EzN2YwNV94RWh5WUQ3dXV0ZklNclFyTDJuQzNkLVRiX0NSRlBSZ2hYMHpxTC1ZU2dJZEs1ZTFlS3lsV3ZpOXFlVmxjQlUxcVFFYnZ6RUZoUklJYXh0cVlJTlpwdHNVMnFxc29KOUJYbk84d2lodmFnRko1WXB6ejUwTFh1Z3FZdXJpcjBTNUJR?oc=5",
         "image": "",
         "publishedAt": "2026-06-26T07:00:00.000Z"
+      },
+      {
+        "title": "Chola Chabuca brilló el fin de semana siendo líder del entretenimiento - wapa.pe",
+        "summary": "Chola Chabuca brilló el fin de semana siendo líder del entretenimiento &nbsp;&nbsp; wapa.pe",
+        "source": "wapa.pe",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbkpZaXlsRVo3WXQxTmpWemROSEtVLW1VeVdaWEQzSDFqSU9JMWRFaVNoaFlpYlU1dlh2bkJjVEthQkFsZzJSdnJQM1FxcVJnbGM3QjcwR2RYbnFfVTY0eU9DZDdVd1RTTHNGQXFZUmpmSjF0cWMydVBHSTR1SGJIZVZoc3FJQUZKWktUT1BLdWRvVEExVzRTSVNEdjNQZWxzTEcxMmtUS2VyNUpVQ2J1WVlEYnpOWUd3S1g1bFZONNIBxAFBVV95cUxQbXdlaVZwLUI5TmtnZkZ2bFp0VGtGdk1vZ0VJdkUtZ1RRRUNtZ09sR3lnd1FIRkV2MGpDN1VBYWJmeTNIdWNUdE1lNTZCTURJZkFKUGhqd1RnaHpsQktjMGZFNldlaXlzWmRYN2kxcGlvd00yeUEyc2RZZlJFXzFGbk8zYjNfTWdlWVJJVS1henhSOTJuNmZOclp2VURmQmxKLWFSZHRGVENLa1NUSmVCR2dNVXg4V2JHNHNMazQwV0pOLUVZ?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-13T07:00:00.000Z"
       }
     ],
     "cultura": [
@@ -576,9 +576,9 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
-        "title": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO - Ticketmaster Peru Blog",
-        "summary": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO &nbsp;&nbsp; Ticketmaster Peru Blog",
-        "source": "Ticketmaster Peru Blog",
+        "title": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO - blog.ticketmaster.pe",
+        "summary": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO &nbsp;&nbsp; blog.ticketmaster.pe",
+        "source": "blog.ticketmaster.pe",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVJKaExOenRRZmxzRzVVZWxoanFOaE1fTFdEZmpiRUV0X3FYcFAtTjVwMGo1R1hoUUo2dUhQVVNIZEl5eDhMSlBSdE1jWWZ3YUJXZncxM3J1d2tCUVJvUnNULS1lMEoxZlZkZ0tBbFpFZGxwYm5TSUYyd1RUZmt2VU1JN2thUl94dHduXzdKRWJGOUxQLUp1cWs4U0NMcEhDLVJrVWdVODJDSjJlYjNZODFmY0I0b3NuS2Jn?oc=5",
         "image": "",
         "publishedAt": "2026-08-08T07:00:00.000Z"
