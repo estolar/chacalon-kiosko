@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T21:49:44.683Z",
+  "generatedAt": "2026-09-09T00:11:50.836Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,28 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Tres comisiones de la Cámara de Diputados se pronuncian en contra de otorgarle facultades al Poder Ejecutivo: así votaron las bancadas",
+        "title": "Cuatro comisiones de la Cámara de Diputados se pronuncian en contra de otorgarle facultades al Poder Ejecutivo: así votaron las bancadas",
         "summary": "El informe de la comisión que concluye que “no es viable” delegar en el Poder Ejecutivo la facultad de legislar por el plazo de ciento veinte (120) días en diversas materias fue aprobado con 11 votos a favor y 7 en contra.",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/diputados-comision-de-energia-y-minas-presidida-por-yenifer-paredes-de-juntos-por-el-peru-emite-informe-contra-pedido-de-facultades-del-keiko-fujimori-apuestaplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/IUUNJZEX6JEJNAMNAVOVFPFEE4.jpeg?auth=01537cddff35ecf40fa5ab0eca722840897fc8e6c89267f0de7f8cc520a812fb&smart=true&width=1007&height=552",
-        "publishedAt": "2026-09-08T21:31:30.000Z"
+        "image": "https://elcomercio.pe/resizer/v2/CSFUWAFKGBEYXM6H7AOYO6NQI4.jpg?auth=a9ec57630f3e2827718079bd80415a0e2ed84959b71e1bf6ea7953466cd3b16f&smart=true&width=888&height=450",
+        "publishedAt": "2026-09-08T23:22:16.000Z"
+      },
+      {
+        "title": "Alejandro Muñante: “No se debe centrar la política de gobierno solamente en la delegación de facultades”",
+        "summary": "Alejandro Muñante (Renovación Popular), primer vicepresidente del Senado, dijo que actualmente la administración de Keiko Fujimori “no está atada” para combatir la inseguridad y realizar medidas preventivas de cara al Fenómeno de El Niño. Agregó que no depende solamente de que el Congreso bicameral le otorgue facultade",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/entrevista-alejandro-munante-no-se-debe-centrar-la-politica-de-gobierno-solamente-en-la-delegacion-de-facultades-entrevista-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/6LQM3IP54VEHFOAV36WGL44BGQ.jpg?auth=86318b35be084608c45882b9f3745f3b0bcf9d2eb5b096b6c03f1164099720c9&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-09-08T23:16:09.000Z"
+      },
+      {
+        "title": "Martha Chávez sobre pedido de facultades: “En algunos temas el gobierno sí está atado de manos” | ENTREVISTA",
+        "summary": "La senadora Martha Chávez (Fuerza Popular) afirmó que, si la cámara de diputados aprueba solo las partes referidas a la seguridad ciudadana y Fenómeno de El Niño del pedido de facultades, el fujimorismo buscará en el Senado restablecer el texto original. “Por supuesto, porque esa es la lógica del diseño de la bicameral",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/entrevista-martha-chavez-sobre-pedido-de-facultades-en-algunos-temas-el-gobierno-si-esta-atado-de-manos-fuerza-popular-keiko-fujimori-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/XPNW42RB4RFYLCEFIQF2WJOJUQ.jpg?auth=9533c12f02f21e1561353455107154fb9ecad9c3051243df3a4d8b275fe88a4e&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-09-08T23:16:00.000Z"
       },
       {
         "title": "PCM y Embajada de EE.UU. suscriben memorando de entendimiento para impulsar desarrollo de la Inteligencia Artificial",
@@ -62,56 +78,32 @@
         "url": "https://elcomercio.pe/politica/diputados-comision-de-medio-ambiente-aprueba-opinion-favorable-a-pedido-de-facultades-del-ejecutivo-como-fue-la-votacion-y-que-viene-voto-dirimente-obras-fuerza-popular-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/SYRL4SVQNZDKHLSA3657RO3RFI.jpeg?auth=0138b293867201a02e536d0a4c0f15d64119d7aeef34bc00d1bbd4a52888e01e&smart=true&width=1026&height=555",
         "publishedAt": "2026-09-08T20:52:00.000Z"
-      },
-      {
-        "title": "Martha Chávez sobre pedido de facultades: “En algunos temas el gobierno sí está atado de manos” | ENTREVISTA",
-        "summary": "La senadora Martha Chávez (Fuerza Popular) afirmó que, si la cámara de diputados aprueba solo las partes referidas a la seguridad ciudadana y Fenómeno de El Niño del pedido de facultades, el fujimorismo buscará en el Senado restablecer el texto original. “Por supuesto, porque esa es la lógica del diseño de la bicameral",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/entrevista-martha-chavez-sobre-pedido-de-facultades-en-algunos-temas-el-gobierno-si-esta-atado-de-manos-fuerza-popular-keiko-fujimori-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/XPNW42RB4RFYLCEFIQF2WJOJUQ.jpg?auth=9533c12f02f21e1561353455107154fb9ecad9c3051243df3a4d8b275fe88a4e&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-09-08T20:52:00.000Z"
-      },
-      {
-        "title": "Radiografía educativa de las Elecciones Regionales y Municipales 2026: Conoce el nivel de estudios y profesiones más frecuentes de los candidatos",
-        "summary": "Más de la mitad de los candidatos a distintos cargos en las elecciones municipales y regionales 2026 no tiene estudios superiores concluidos, según sus hojas de vida. La oferta electoral refleja la brecha en el acceso a la educación superior en el país.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/elecciones-municipales-2026-elecciones-regionales-2026-keiko-fujimori-fuerza-popular-rafael-lopez-aliaga-carlos-bruce-franco-vidal-onpe-jne-votaciones-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/LMHWTWX775AK5G44CFXVY5RAOY.jpeg?auth=bf21dc5594102cc50f97bdbf198a55ccc8c43a04680ab930f91f1baa5b45b7e7&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-09-08T20:23:00.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Yango toma la vía más segura para seguir creciendo en Perú y la región",
-        "summary": "Más y mejores servicios con la mayor seguridad posible. Esta es la ruta que Yango ha tomado en Latinoamérica, donde ya opera en cinco países (Perú, Colombia, Bolivia, Venezuela y Guatemala). ¿Llegará a nuevos destinos? Aleksei Skuratov, director regional de operaciones de Yango, comentó a Gestión que la empresa sí tien",
+        "title": "Minera Poderosa y su plan para la planta de beneficio Santa María I: ¿de qué se trata?",
+        "summary": "La compañía presentó ante el Senace su cuarto ITS para la ampliación de las operaciones mineras y la planta de beneficio Santa María I. El proyecto contempla nuevas instalaciones auxiliares, entre ellas un almacén, un taller de mantenimiento, una planta de agua potable y una bocamina para el transporte de mineral.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/yango-ride-amplia-presencia-en-peru-y-la-region-con-mejores-servicios-y-mas-seguridad-noticia/",
-        "image": "https://gestion.pe/resizer/v2/KNDBWGK25BAIVNRP4XNVNT7ELA.jpg?auth=580960507044e4293072887f2082669b0969d384f363b19a5c1c3e5259f178d7&smart=true&width=724&height=475",
-        "publishedAt": "2026-09-08T21:32:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/compania-minera-poderosa-ampliara-planta-santa-maria-i-a-1000-tmd-noticia/",
+        "image": "https://gestion.pe/resizer/v2/TMUASF4XKJGR5LNZ265JBIXXXY.jpg?auth=8d4594ad955b698afc44552bf5ed86180acbc65f0ce313d907d952ae05596527&smart=true&width=950&height=530",
+        "publishedAt": "2026-09-08T23:44:16.000Z"
       },
       {
-        "title": "Robo de US$ 320 millones golpea la confianza en las criptomonedas",
-        "summary": "El hack de US$ 320 millones a la plataforma de criptomonedas Liquid Network asesta un duro golpe en momentos en que la industria intenta convencer a bancos y grandes inversores de que los activos digitales están listos para integrarse a la infraestructura financiera tradicional.",
+        "title": "Se instaló Comisión Sectorial que analizará el impacto de la IA en el marco laboral peruano",
+        "summary": "El ministro de Trabajo y Promoción del Empleo, Juan Sheput, instaló la Comisión Sectorial encargada de analizar el impacto sobre las nuevas tecnologías tales como la inteligencia artificial, la automatización y robotización en las relaciones laborales y el empleo en el sector privado.",
         "source": "Gestión",
-        "url": "https://gestion.pe/mundo/internacional/robo-de-us320-millones-golpea-la-confianza-en-las-criptomonedas-noticia/",
-        "image": "https://gestion.pe/resizer/v2/DYCAJ52RNBD7BNNBLZAGZDRY6Q.jpg?auth=700089de0400284286398890da17ebcdae3aa2b61429ff1359232a1f6c36190f&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-08T21:11:38.000Z"
+        "url": "https://gestion.pe/economia/management-empleo/se-instalo-comision-sectorial-que-analizara-el-impacto-de-la-ia-en-el-marco-laboral-peruano-noticia/",
+        "image": "https://gestion.pe/resizer/v2/S2A3BD7XGRH4BODQCBEPBAO4LI.jpg?auth=42334ffafc45dcad247f5a4c9a279da2d1a2f73c3b338521059e5dc8e15cabfe&smart=true&width=1600&height=1066",
+        "publishedAt": "2026-09-08T23:37:27.000Z"
       },
       {
-        "title": "McKinsey: Perú puede ser el líder regional en el nuevo tablero geopolítico mundial, ¿cómo?",
-        "summary": "Ziad Haider, director global de Geopolítica en McKinsey & Company, contó a Gestión cómo Perú puede encabezar la política de integración económica en América Latina. Aquí los detalles.",
+        "title": "Petroperú: banca internacional garantiza primera línea de financiamiento por US$ 475 millones",
+        "summary": "ProInversión informó que se ha concretado el arribo del primer desembolso de US$ 475 millones de la banca internacional para Petroperú, que forma parte de un financiamiento de hasta US$ 2,000 millones para la empresa.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/mckinsey-peru-puede-ser-el-lider-regional-en-el-nuevo-tablero-geopolitico-mundial-como-noticia/",
-        "image": "https://gestion.pe/resizer/v2/NYCYFM7AUZAF3JAS342JIVLLCA.png?auth=af783e144790c763841e96efbff681f60fe5f22f0119d5d8de3a4bdec1d96e1d&smart=true&width=1672&height=941",
-        "publishedAt": "2026-09-08T20:00:00.000Z"
-      },
-      {
-        "title": "¿Dónde se “esconde” la evasión tributaria? MEF apunta a las empresas medianas",
-        "summary": "El MEF señaló que la evasión tributaria estaría concentrada en empresas medianas y planteó reforzar la fiscalización para elevar la recaudación de impuestos en Perú.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/mef-indica-donde-se-esconde-la-evasion-tributaria-apunta-a-las-empresas-medianas-noticia/",
-        "image": "https://gestion.pe/resizer/v2/VBGUAIYDSVDEHEXB4R37GKZINQ.jpeg?auth=299f0767ca4cee503f6de2191e826f406a9c4ae0927eaad6ba54e9105a23b65c&smart=true&width=500&height=333",
-        "publishedAt": "2026-09-08T19:48:52.000Z"
+        "url": "https://gestion.pe/economia/petroperu-banca-internacional-garantiza-primera-linea-de-financiamiento-por-us-475-millones-noticia/",
+        "image": "https://gestion.pe/resizer/v2/3O2IKVC5ZZD3ZFC6ASV5IUFRIE.jpeg?auth=c351511f9a7fca4e9a17a7fed2eb10be8fd8ddccb4be3881a263891efaabeade&smart=true&width=1600&height=1066",
+        "publishedAt": "2026-09-08T23:35:04.000Z"
       },
       {
         "title": "Sismos: Sunafil fiscaliza medidas de prevención en empresas, ¿qué precauciones deben tomar?",
@@ -119,7 +111,7 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/management-empleo/sismos-sunafil-fiscaliza-medidas-de-prevencion-en-empresas-que-precauciones-deben-tomar-noticia/",
         "image": "https://gestion.pe/resizer/v2/724MHKQSKNBYZNXX2CEJJLJXNY.jpg?auth=3a16a9cc04bf911dcbc0f1298397012b7f36f2fc020a43347b620bcf1e53975a&smart=true&width=860&height=615",
-        "publishedAt": "2026-09-08T19:29:52.000Z"
+        "publishedAt": "2026-09-08T23:31:00.000Z"
       },
       {
         "title": "El Niño: Gobierno envía 25 puentes modulares a Piura, Moquegua y otras zonas de riesgo",
@@ -127,23 +119,31 @@
         "source": "Gestión",
         "url": "https://gestion.pe/peru/fenomeno-el-nino-gobierno-envia-25-puentes-modulares-a-piura-moquegua-y-otras-zonas-de-riesgo-noticia/",
         "image": "https://gestion.pe/resizer/v2/LEQFSKJ3EVC6NNXXMCNNU2IMEA.jpg?auth=8d41e6443631640e3bfe762ab58c53b3f50a2ccee649ea7322dce20977bcaace&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-08T19:13:01.000Z"
+        "publishedAt": "2026-09-08T23:18:00.000Z"
       },
       {
-        "title": "MEF: “Post El Niño la economía va a rebotar y estimamos una tasa de crecimiento de 4%”",
-        "summary": "El MEF proyecta un crecimiento de 3,4% para Perú pese a El Niño y estima que la economía podría rebotar hasta 4% tras el fenómeno climático.",
+        "title": "McKinsey: Perú puede ser el líder regional en el nuevo tablero geopolítico mundial, ¿cómo?",
+        "summary": "Ziad Haider, director global de Geopolítica en McKinsey & Company, contó a Gestión cómo Perú puede encabezar la política de integración económica en América Latina. Aquí los detalles.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/mef-post-el-nino-la-economia-va-a-rebotar-y-estimamos-una-tasa-de-crecimiento-de-4-noticia/",
-        "image": "https://gestion.pe/resizer/v2/4QGL4H34VBET3ORFLKCE5OFRIQ.png?auth=84e92d298b00f82d515187243559fe00573e8aaec4ef8c2ff2a8e35ab571425b&smart=true&width=777&height=516",
-        "publishedAt": "2026-09-08T18:59:37.000Z"
+        "url": "https://gestion.pe/economia/mckinsey-peru-puede-ser-el-lider-regional-en-el-nuevo-tablero-geopolitico-mundial-como-noticia/",
+        "image": "https://gestion.pe/resizer/v2/NYCYFM7AUZAF3JAS342JIVLLCA.png?auth=af783e144790c763841e96efbff681f60fe5f22f0119d5d8de3a4bdec1d96e1d&smart=true&width=1672&height=941",
+        "publishedAt": "2026-09-08T23:09:00.000Z"
       },
       {
-        "title": "Desempleo juvenil en Perú alcanzó máximo nivel en casi una década: el panorama que preocupa",
-        "summary": "Los jóvenes sin experiencia tienen más dificultades para acceder a un puesto formal, mientras que la baja productividad y los costos de contratación reducen los incentivos de las empresas para incorporarlos.",
+        "title": "Comisión del Congreso acuerda citar a ministros de Transportes y Vivienda por su gestión",
+        "summary": "La Comisión de Infraestructura, Vivienda y Transportes acordó citar a los ministros de Transportes y Comunicaciones, Rafael Rey Rey, y de Vivienda, Construcción y Saneamiento, Mauricio Arnillas González, para que informen sobre la gestión que vienen realizando al frente de sus respectivos sectores.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/management-empleo/desempleo-juvenil-en-peru-alcanzo-maximo-nivel-en-una-decada-e-impacta-en-productividad-el-panorama-que-preocupa-noticia/",
-        "image": "https://gestion.pe/resizer/v2/XVMKOO6L4JCYRDU5VP54P34XWE.png?auth=1a804f6d73f97dae9527b90ecd8147c59a6940b044cc0693e2755c290694fb8e&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-09-08T18:59:28.000Z"
+        "url": "https://gestion.pe/economia/comision-del-congreso-cita-a-ministros-de-transportes-y-vivienda-por-gestion-de-sus-sectores-noticia/",
+        "image": "https://gestion.pe/resizer/v2/65PKMQCYJVEI5AC6YKWSLY3UBY.jpg?auth=77e4cd1e442fc9f88af356569e25fa9026c1585b74d347863d5b6c475ce2bf75&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-08T22:39:37.000Z"
+      },
+      {
+        "title": "Perú retrocede en prueba PISA: así le fue en lectura, matemática y ciencias",
+        "summary": "El Perú presenta peores resultados en comprensión lectora, Matemáticas y Ciencia que hace tres años.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/prueba-pisa-2025-peru-retrocede-en-lectura-matematica-y-ciencias-que-peruanos-estan-mas-relegados-noticia/",
+        "image": "https://gestion.pe/resizer/v2/BNRIFE5M45EUFAQG4GOWLTU5EU.jpeg?auth=d48e4bd7e8bf30ca196738356999a17c932240cc9ea635eb1d8c0f41d1e6b4e3&smart=true&width=1600&height=1065",
+        "publishedAt": "2026-09-08T22:32:42.000Z"
       }
     ],
     "sociedad": [
@@ -172,12 +172,12 @@
         "publishedAt": "2026-09-03T15:45:47.000Z"
       },
       {
-        "title": "Exitosa Noticias. . 🔴🔵 #ExitosaPerú🇵🇪🇵🇪 | Seguridad ciudadana y salud encabezan las principales demandas de los cusqueños al próximo Gobierno. A pocos días del inicio de la g",
-        "summary": "Exitosa Noticias. . 🔴🔵 #ExitosaPerú🇵🇪🇵🇪 | Seguridad ciudadana y salud encabezan las principales demandas de los cusqueños al próximo Gobierno. A pocos días del inicio de la gestión de Keiko Fujimori, ciudadanos piden que ambas áreas sean priorizad &nbsp;&nbsp; facebook.com",
-        "source": "facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYWZSaXJSemg1czhMSlRLbUw0MllJLWZDRzVxTWUtdGxtSzBpSHFDbjhJVlVHdnhtYmROcTZnQmhRc3BMS3ZVbm9NU3Q0emt0ZTFqN0E3dW9DZDJrcFRsSmNIQ2x3NlROelo4WFFXMERzdEkxb0lnV0stb1U2UVh3SFludVV2NERuMGV5bEVGN1h0anpWUEZZSjdoSFZubmk3eFV1NElCb3YxaWhIRHcxY1JKNkpNUWE2ZDIzNkcwQVV2R1laREpaVHZvTkxDLXFxd3h3a2J4WFVlVmRQUUVoblZQVUhwdw?oc=5",
+        "title": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos - Agencia Andina",
+        "summary": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORDg3MFVjQnE2eHFPRWpXV3RHcFUwQ3NzalN5MTBFNFhNV1ZYNVpkRFBRSlh1QmhCUzhCdXRWWE5xRnNHYWhIMzRwMnQ3Vl9CMWZBalFwTzd4eFI1cW9LYmkwS2toT3RpeC1pZC1paFlhOVlxdXdJUUJYQ3dzT1pGU3NLSVhIaUMzdXZ3QThaTGFMbF9SRFYyOWQtZy0yUE1NWFZtX0hNTUM0ZFZlSDZtck53Nmpqc2tYSkpZN0ZBTl9NbVBBMlAw?oc=5",
         "image": "",
-        "publishedAt": "2026-07-26T07:00:00.000Z"
+        "publishedAt": "2026-08-11T07:00:00.000Z"
       },
       {
         "title": "Keiko Fujimori, mensaje a la Nación: fecha, lugar y ejes que marcarán su primer discurso como presidenta 2026-2031 - Infobae",
@@ -188,28 +188,28 @@
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
-        "title": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS - Diario Ahora",
-        "summary": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS &nbsp;&nbsp; Diario Ahora",
-        "source": "Diario Ahora",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUm9heXNQZzZPY0tMTmxyWEJrSVFZMlFtb2JVOFpfZXpubndad19NYTVyQVpyLVk0Yi1GZ0xCNmtRY0lWbV9VMTE5QUtRZG1zM2FJMzQweTU1a1lsVzl3OURfYldrUVM1aEJXWGI1OTR4OTFkRDQzcEtpaG1rcE42Zl9jT1g3RVdmQkZETk1ZOFBpd0o1MmF2RHVOczJsQ2Q1VHJGMjJrQ2tCVE42OXNz?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-15T15:44:23.000Z"
-      },
-      {
-        "title": "La Libertad: Piden al nuevo Ejecutivo más empleo y seguridad - Diario Correo",
-        "summary": "La Libertad: Piden al nuevo Ejecutivo más empleo y seguridad &nbsp;&nbsp; Diario Correo",
-        "source": "Diario Correo",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVUdWWFZ0azN6ZVg2TUdyclVlRjQyTnk1bFV5aElpNV9OX3AzZGJvX0VRSnhicEUtbGZBYndqMzB2UllBaHlhZ0k4RzlTSU5DOERUN0ZxZkhlZmFhcU9RcDg4b1o1RzZGV0wwYTBLTDJXN3VpT2dpVjRLR3BmVUpUREpKWWNydC1JLWFDOFBNakp6MHF1R2ZtSXA4VTlTMWtkRlk2c1pKZ3hXZmNVSm9OcmxRQy1CUG90MVJWbjBfdmdWNHdl0gHYAUFVX3lxTE5UbVZCUUpheWt2YVBtMldYSGNqUlVIcEhLVkVvZG5CdXBhNmpYZUNJOFlsVDN2SThkdUNjNGlXNXROVkNlOUdHbHF1Uks5bWlsb3lrX2FOZFRYY05ROWd1YTVxQTNJSGpjNTI0MkJvNmtadFlYN1kwN1AtVk8xQXItd05qdWtRaE5QSXR1S1FIdC1Dc0xQTFlZckpFWFplYXl3UEh0bXc4eExUd2I0cXIxazdoRHFnZVF4UlZrVUdQYkczSkp1S25DNmhzNmp1aHV6T1o4QmtSUg?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-07T07:00:00.000Z"
-      },
-      {
         "title": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad - EL PAÍS",
         "summary": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad &nbsp;&nbsp; EL PAÍS",
         "source": "EL PAÍS",
         "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdTZGRmVCRWs3MmpCV1RDRzhzeVJPanVZWlNrOG1BWGNOOWxCZFpPY3FJWWZNcFJudkk4YnROSHNxM2pOaHR2QVczaVhmLXN2NE5KLThVcE9KMDI0Vlg5SnFjQUtrcHB5dnNYa2RjdHlTb2g3OWs5RXZ1RmVBZ1FKREFka2MzVTVTTGJiOGxqQmNIODlucGpxLVpHNk1SVWdBeER4Nm85QUw2UjM4bG1aX0UzZEFBRkFNSVlRY0NFWmlzQ0IxNVZoQndieTRvaDRpWlRvc21JdmtaeEtTN3RYUWN0cVZSNVVudVVRejlta0Z3bGRHVkhv?oc=5",
         "image": "",
         "publishedAt": "2026-06-07T07:00:00.000Z"
+      },
+      {
+        "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - EL PAÍS",
+        "summary": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución &nbsp;&nbsp; EL PAÍS",
+        "source": "EL PAÍS",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeW5LcjdJa3V6MXlwdU1CVG4wR19lcXM5Ynoydmd3QVYxMWJ5amNPQVdYRnV3d05VZXFfMUc1M05RUTNBRWloaWFCX3U1LTloTHRLQ2NuaXVSWFllTHZ1aWFjVXNXR3M0LTRpVHBaUU9XSjZ4TXVTZ1hKMGhPVHFrem1MZU54RG52SWp5OXVTQlpHMlhYemVacWI5ZUVwTUJVT3d2MkJRdEpIekRCQmtIZDQxaFN0d0dZRE5zZ1NwS1JMd0NWaWlxeGttVFdaMlN2VlEwWFc5S0pfdTVNQ2JMZW9vempBTTJ2TW9CSDBEQU8?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-07T07:00:00.000Z"
+      },
+      {
+        "title": "Así está el país en seguridad, economía y salud, según los datos 👉🏽 https://bbc.in/3RGDvDY - facebook.com",
+        "summary": "Así está el país en seguridad, economía y salud, según los datos 👉🏽 https://bbc.in/3RGDvDY &nbsp;&nbsp; facebook.com",
+        "source": "facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRXdfdE5JZEEzaktKWS1MYVBVdVRqSW92cWRXQlU1RTR3SjI5YXRvd2QzRUdFRXBZTG1uMlNMZTkzMzVkWXZ0QXVFZG96TGVmZ01vS3lwUDRMRklyZzB6RHBpYVA4cC1fRWg3V053bEp6RFgxbnUzZWg1R1NEdC1JaDJmQUVidGhGUl9icXFNM0w5VTJITDdhUGNzMkNqNXNqZ1hjTnhFcEEzdjQ5Xzl3ZWVzYmpWYVM1SXN1UDhHRUFuRktyXzZZQ1U4ZDRpQlBES0dXZS1hLUlpRU5yVDE4Y3FpWno?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-06T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -304,9 +304,9 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "La paradoja peruana: Crecer sin innovar - revistaganamas.com.pe",
-        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; revistaganamas.com.pe",
-        "source": "revistaganamas.com.pe",
+        "title": "La paradoja peruana: Crecer sin innovar - Gan@Más",
+        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; Gan@Más",
+        "source": "Gan@Más",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6aWxfR3diYXRQbUZqekNmcGgxQVkxUVl6TVlwaWR2QVhhYzlkcnY3bXBVUnVHcUhXZkZObW50MzFmX2VOaUg3MW52UGNlQkE1bFh2LXY2alNyWWdrNThsZ2F0UGY5bUN4VmdMMDBtdWdaX0dIb0ZmMA?oc=5",
         "image": "",
         "publishedAt": "2026-06-25T07:00:00.000Z"
@@ -362,9 +362,9 @@
         "publishedAt": "2026-09-08T18:10:01.000Z"
       },
       {
-        "title": "UTP Tech Summit: Google, Microsoft, TCS y Kyndryl debatieron sobre el futuro de la IA - RPP Noticias",
-        "summary": "UTP Tech Summit: Google, Microsoft, TCS y Kyndryl debatieron sobre el futuro de la IA &nbsp;&nbsp; RPP Noticias",
-        "source": "RPP Noticias",
+        "title": "UTP Tech Summit: Google, Microsoft, TCS y Kyndryl debatieron sobre el futuro de la IA - rpp.pe",
+        "summary": "UTP Tech Summit: Google, Microsoft, TCS y Kyndryl debatieron sobre el futuro de la IA &nbsp;&nbsp; rpp.pe",
+        "source": "rpp.pe",
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVjAxcFFJRUF2dl81X1VJbWVjdUJwMkYzbkNWM2h3QTFjemd4VWRCRWZDRi1sVDFYcGxHc0h2RDVReDg0Q2l0Z1hsTC1SZm9BMVVSbFBxYmpJLS1hbVktMzhmNmp0OUF5WkZ1ZE5XVUxDOUVJZGJZNVFGUzdSU29ZQkxPeDhhd3J2b05YWE1SQjFSVzFBMVRfSUFROHFleUtZNF9PcUFWMWdIeW1MMldaRTJ0RnR4Sjh1ZVl3SkF4d2hXTHhiRFptaTVsRTlwYUUtb0pDcTRzMVo3dE9mT2owalB3cTd5bXpWdnc?oc=5",
         "image": "",
         "publishedAt": "2026-09-08T16:33:03.000Z"
@@ -411,14 +411,6 @@
       }
     ],
     "tendencias": [
-      {
-        "title": "Cómo replicar paso a paso el trend viral que convierte una foto actual en un retrato de los años 80 - El Comercio Perú",
-        "summary": "Cómo replicar paso a paso el trend viral que convierte una foto actual en un retrato de los años 80 &nbsp;&nbsp; El Comercio Perú",
-        "source": "El Comercio Perú",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZTlFMnQ1b1pJM1dEbTJaWnpNVGZ0T1g4SWpXZ25rWHBsN1hTdmRVTUVfdG9mQXhQOFZZU3F6X3BkQzRXMnFaejgzcmgzdDZZOFk1VEhBZzJsTmQxS3k3aDRBeHRLRnZBTzR0WFU0cjhNal9QUHVoNHY3czFrNGlxN1NpckM1bGVpSFJfVVdNTlp6YnJsRUxURVh2UXZValZzcEJqSkxxSGI4MjdUN3lFNFg0QzlFUmVWc0lCN3A2VzgyN0d6UXZwSG5Bc0xPejhQYkgycDZlblczUlhzekRGTmVEVDFxU2fSAfsBQVVfeXFMT1BhMjJ1RDBTRjF4WnRMdGxmYm90ZUVBWlVLMVRtVDFvc2tkOTdrbUM0UG54OWNMbHJJTmZ2ZHBHZmVmek1EMkVNeFhaZnJtOEZQdlNVME16WW5KbnJvOFBoUzhOU0tzX0Z3WFN1UG5POEFzZ1ppdGEwcE9ZQ21mYWk5RjA5anNPR0RuSk5sZzFHdmNUdlV1V2VGS2Z3UHpSb21TTDZNRU9KRy03cDd1bGFfbWxQWmRsZTQxX2d5LXJVTzAzRmt2N0xQME9sdkdKNVBhbXVMdGRwMUpTZlZfZXVSdEpvVG1LQ1BtMExkdGtLOHZQeWhGV2dVU0E?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-08T19:03:00.000Z"
-      },
       {
         "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: así puedes transformar tu foto con IA usando ChatGPT - La República",
         "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: así puedes transformar tu foto con IA usando ChatGPT &nbsp;&nbsp; La República",
@@ -474,6 +466,14 @@
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYkxYWU1GV09vM243VlB3NWZhbWt5RzF1bE9PdXRhR3BkM2cyb25NTjVMMG1XbnM3aU1rMXBIb3FFV3cwRjRrYkduVm9Gd0hyRFlKWElDSk8ybEtXVUJkRHlXc2FuWkhodTg1Z1ZGbmpUZVZxcTN4M1J6ZlpxZHJFNUtTN2tRQWE3MVR5SkhwLWVCelVKU3FNZVowYjh3YVJYWDFHWm1PbUlJOVNBOTVQT19hQ2tGbXNYWTllU3ZoLVNlNE9aUGwzZzl3LTJHaDN6TWpaNkJsOXBTRVIwMmtfVjUyaGo4X1E1bFBvb3ZkMUZ5QmozSGtYcUx5VdIBlgJBVV95cUxPUElwalRLcFI3MTN6a3dqaV9pWHA2NjFYWVFHZU00NTNTblYzYXo3aDdXaEF1NzM3bmx0MkFCbnFGdmtFd2syOVRwNE1HRVV4dnhsOUtva2E5ZUVvbW1CVDBneGc5a3hZUU9oVjFfVE0xOExvbG5TM0FoeW81Wll1UWtxRTNqdkJiTWoxbm42aG9PWVNjTmlvbmgzaUdmVDA1bkFmUm1RRVVua2VxY0tldUlQTGEzZ3k2Sk10N0JKWUxTTkF6OGQtVlV6RzhmcGlJdlA1OF9JaEFIcFI1U3NoZDZtUnpmbEpBWVZCTUE1bVNDQUxZcm9QVDB2OEhpekVtcGItWjNDekpHY0xKSk1GQXpMRGhYdw?oc=5",
         "image": "",
         "publishedAt": "2026-07-08T07:00:00.000Z"
+      },
+      {
+        "title": "Minsa advierte sobre desafío en redes que expone a adolescentes a graves riesgos de salud - Infobae",
+        "summary": "Minsa advierte sobre desafío en redes que expone a adolescentes a graves riesgos de salud &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ19nT2YyMlR5RFhzZVRjTXpPcjZXYjhHZ25aV1BkeTFuWDVKTHZxUFRyQklUb0JYaGFIMUJEbEdVbTg3Y01OV255QmN3OHlEbWNaS185UXVqUHhydnF1YTlrZTNSQmtmVGNKc2xyb28zTmt4czlsd2Z1OC0wQTZYWmpjT0pUNU0yN21CWnpYamV6eU43TkdQUE1FdjUxUGVRQ0tzbGpDbEk2Y0xrS3Y1bl9hY2UxSnVuMTF2ZV82MTZ2dGVkQ0tPVG1R0gHkAUFVX3lxTE5xaE1KVl9TLXVjQW16VUhTbmotZWRBcUJueDBnQWZLZFhPaC1hSjZNSGVXSnFEQlotekUweWloX0xEc2txcEt5N2RGOUFBYXBFaXBZYTdZaWpkaktoNUd4cDFsV2R3bGdOOGNDVV9qajFLMy1ZTUh3TXU4dlZmVmprRnlvQzhLMlM4RnpTT2FMSzhKdS1PaXdvZE0tQnlIUmIyM3l4akJrYjIwcnMwY25yMXl2TFIwdjg1YXpBNmRnNDBrdU9oZTN5LVU4MGp6dHVVR09fTnh5cmN1eGNsaXBDNUlZXw?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-07T07:00:00.000Z"
       }
     ],
     "farandula": [
