@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T14:24:25.046Z",
+  "generatedAt": "2026-09-10T18:24:55.884Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,28 +24,52 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "PerúCheck revisó situación en 193 países y desmiente afirmación de Cecilia Chacón sobre prensa en los parlamentos del mundo",
+        "title": "Keiko Fujimori confirma unión del Perú al Escudo de las Américas y Marco Rubio expresa apoyo en lucha contra criminalidad transnacional: así fue la conferencia de prensa",
+        "summary": "La presidenta Keiko Fujimori se reúne esta mañana con el secretario de Estado norteamericano, Marco Rubio. Tras la cita, que se desarrollará en Palacio de Gobierno, se espera un pronunciamiento conjunto.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/marco-rubio-en-vivo-keiko-fujimori-se-reune-con-secretario-de-estado-de-eeuu-acuerdos-pronunciamiento-conferencia-donald-trump-estados-unidos-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/G6E3VLWU2FFETKGHILBF3WUFIM.jpeg?auth=350d6f6cf7e9dc9175f1ec228accd8fba619022c430eadd520d11d138c9c557f&smart=true&width=1280&height=853",
+        "publishedAt": "2026-09-10T18:21:02.000Z"
+      },
+      {
+        "title": "El nuevo Congreso bicameral alcanzó un nuevo récord de mujeres, pero el Senado aún está lejos de la paridad",
+        "summary": "En 70 años, las mujeres pasaron de representar apenas el 4% del Congreso a ocupar el 37% de los escaños. Pese al avance, la nueva bicameralidad evidencia una brecha pendiente: solo el 27% del Senado estará integrado por mujeres en el gobierno de Keiko Fujimori",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/ecdata/congreso-keiko-fujimori-senado-diputados-bicameralidad-palacio-de-gobierno-mujeres-martha-chavez-fuerza-popular-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/5CNBAEYKWVE53IHCVZAYKUV5CA.png?auth=8e7a13e206d920b70ddfca603c0c9325c76a88346ce797f823ffcb326f891177&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-09-10T18:01:57.000Z"
+      },
+      {
+        "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
+        "summary": "Fuerza Popular | Desde que empezó a participar en elecciones subnacionales, el fujimorismo redujo su oferta electoral en más de la mitad.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/ecdata/en-16-anos-fuerza-popular-solo-ha-ganado-3-gobiernos-regionales-y-no-ha-colocado-un-solo-alcalde-en-lima-metropolitana-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/3ZQHU5EOGNH33LU7J6EN3J4QSE.jpeg?auth=05b2ba86279d4f5e8c5af8ea35780dce6caca06e15b2546119eb9e3be8b10463&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-09-10T18:01:38.000Z"
+      },
+      {
+        "title": "Marco Rubio en Lima: secretario de Estado de EE.UU. se reunió con presidenta Keiko Fujimori en Palacio de Gobierno",
+        "summary": "Marco Rubio en Lima EN VIVO: actividades, reuniones y últimas noticias sobre su visita al Perú",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/actualidad/marco-rubio-en-lima-en-vivo-actividades-agenda-reuniones-y-ultimas-noticias-sobre-su-visita-al-peru-lbposting-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/TC3TTKTDVFEZZIXWH2JNIFQ4GA.jpg?auth=75f4b61d02408b7070afa570bbf567d2fa713b9603331f94a271399ad386f15e&smart=true&width=1200&height=778",
+        "publishedAt": "2026-09-10T17:44:57.000Z"
+      },
+      {
+        "title": "Marco Rubio y el Escudo de las Américas: ¿En que consiste esta iniciativa y cuál es la importancia para el Perú?",
+        "summary": "El grupo se constituyó el 7 de marzo del 2026, en Doral, Florida, donde fueron convocados los primeros países aliados. El Perú se adhirió recientemente.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/marco-rubio-y-el-escudo-de-las-americas-que-es-y-cual-es-la-importancia-para-el-peru-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/4NZZUTGLFBFS3G3XILQKG4O3S4.jpg?auth=7ce3ba63eb146ba4c3f9e9b8ec859f347b26a35c0a99215ffdb225f8dcd66300&smart=true&width=1200&height=647",
+        "publishedAt": "2026-09-10T17:43:27.000Z"
+      },
+      {
+        "title": "Keiko Fujimori tras reunión con Marco Rubio: “Ser parte del Escudo de las América nos permitirá actuar con más firmeza”",
         "summary": "",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/actualidad/perucheck-reviso-193-paises-y-desmiente-afirmacion-de-cecilia-chacon-sobre-prensa-en-los-parlamentos-del-mundo-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/5ORZRGCNLFEFDADL33R3SW3QRI.jpg?auth=dc8a9dc8770dd5471ea90aa7133e91c207ce8bb31c9351d57abc23091552d004&smart=true&width=837&height=453",
-        "publishedAt": "2026-09-10T14:20:39.000Z"
-      },
-      {
-        "title": "Enemigo al acecho",
-        "summary": "Hace una semana, sostuve que los principales escollos del Ejecutivo no se encontrarán, necesariamente, en la acera del frente (que la oposición debería ocupar), sino en campo propio. Los hechos recientes han aportado sustento a esta afirmación.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/opinion/columnistas/enemigo-al-acecho-por-jose-carlos-requena-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/2A2QWM7CQNG2HKQBRYM3OES3GE.png?auth=ebfe0b3a8e1dda576ca8a79125da6729b3d8e98fbf30749076e9373fe96ecc6e&smart=true&width=1200&height=649",
-        "publishedAt": "2026-09-10T14:00:43.000Z"
-      },
-      {
-        "title": "Luis Galarreta ante el Congreso: Los cuestionamientos de la oposición al pedido de facultades y la respuesta del Gobierno",
-        "summary": "Los diputados de oposición al gobierno de Keiko Fujimori cuestionaron el pasado miércoles la amplitud de las materias incluidas en la solicitud de facultades legislativas presentada por el Ejecutivo. Las objeciones fueron expuestas durante una sesión de la Comisión de Constitución a la que acudió el primer ministro Lui",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/los-cuestionamientos-de-la-oposicion-al-pedido-de-facultades-y-la-respuesta-del-gobierno-tlcnota-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/GYJIHNLLWFHN7K3TO4LA2HXTEI.jpg?auth=10a8f6746c8b0cd77664c6e32599a8f1ae605a10297e5660d713bc01e96dd95a&smart=true&width=1280&height=854",
-        "publishedAt": "2026-09-10T13:47:13.000Z"
+        "url": "https://elcomercio.pe/politica/actualidad/keiko-fujimori-tras-reunion-con-marco-rubio-ser-parte-del-escudo-de-las-america-nos-permitira-actuar-con-mas-firmeza-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/X42WSUZF2VEQTCVXTCD5H2OQIU.jpeg?auth=881c60d5e0cc4c236c48b620d8d69608bd3ad02acc5f1cd4432a43e11d2dbc9e&smart=true&width=1280&height=853",
+        "publishedAt": "2026-09-10T17:20:47.000Z"
       },
       {
         "title": "Luis Dyer, ministro de Salud: “La oposición nos pide resultados, pero hay que acelerar las facultades para que eso se concrete” | ENTREVISTA",
@@ -53,97 +77,73 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/luis-dyer-ministro-de-salud-la-oposicion-nos-pide-resultados-pero-decimos-que-hay-que-acelerar-las-facultades-para-que-esos-resultados-se-concreten-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/3ENLZZOGORDYNPOQDYCA3F4VQA.jpg?auth=f2899b6caf2d831f60dc5fe819c9f834d0985de1407a3347ad412a819e537ac3&smart=true&width=6720&height=4480",
-        "publishedAt": "2026-09-10T13:44:03.000Z"
-      },
-      {
-        "title": "Marco Rubio en Lima, EN VIVO: últimas noticias tras arribo del secretario de Estado de EE.UU. al Perú",
-        "summary": "Marco Rubio en Lima EN VIVO: actividades, reuniones y últimas noticias sobre su visita al Perú",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/actualidad/marco-rubio-en-lima-en-vivo-actividades-agenda-reuniones-y-ultimas-noticias-sobre-su-visita-al-peru-lbposting-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/T6HODZVXOVAZHGSEFHBRSXS5VE.jpg?auth=57b2da6c5548f9aed1167f380e7eaf85786194d3f0759454491c1593cc524d0b&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-10T13:38:19.000Z"
-      },
-      {
-        "title": "Keiko Fujimori se reúne esta mañana con Marco Rubio, secretario de Estado de EE.UU.",
-        "summary": "La presidenta Keiko Fujimori se reúne esta mañana con el secretario de Estado norteamericano, Marco Rubio. Tras la cita, que se desarrollará en Palacio de Gobierno, se espera un pronunciamiento conjunto.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/marco-rubio-en-vivo-keiko-fujimori-se-reune-con-secretario-de-estado-de-eeuu-acuerdos-pronunciamiento-conferencia-donald-trump-estados-unidos-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/TPRMCDOCS5A3DFOKRWWUZBVIZQ.jpg?auth=4d4120bfdca3b0bff85d8f74706b45c579d2f84333046305fbe112a4d924a353&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-09-10T13:37:47.000Z"
-      },
-      {
-        "title": "Diputado Marlon Aguirre, de JP, retira su firma de moción de interpelación contra el ministro César Astudillo",
-        "summary": "El diputado Marlon Aguirre, de Juntos por el Perú, retiró su firma de la moción que planteaba interpelar al ministro del Interior, César Astudillo, y que había sido promovida por su bancada en el Congreso.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/diputado-marlon-aguirre-de-juntos-por-el-peru-retira-su-firma-de-mocion-de-interpelacion-contra-el-ministro-cesar-astudillo-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/QGCD4LK3QBA3VOANZ3TLSF4SOM.jpg?auth=cad6273728492016517785866caf7416163bfb287b084f1c15227fe6c3c4dee9&smart=true&width=778&height=489",
-        "publishedAt": "2026-09-10T13:21:06.000Z"
+        "publishedAt": "2026-09-10T16:35:44.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Acceso al agua en Perú: ¿por qué la brecha no se cierra aunque aumente la inversión?",
-        "summary": "La brecha de agua potable y saneamiento en Perú revela el alto costo de llevar infraestructura a ciudades ya consolidadas y la necesidad de anticiparse al crecimiento urbano.",
+        "title": "Rubio: “Es importante enseñar los beneficios al pueblo en seguridad, comercial y económicos”",
+        "summary": "“Nos aseguraremos de que los países que cooperen con nosotros podrán responderle a su pueblo como consecuencia de esta asociación”, sostuvo el secretario de Estado de EE.UU.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/acceso-al-agua-en-peru-por-que-la-brecha-no-se-cierra-aunque-aumente-la-inversion-en-saneamiento-noticia/",
-        "image": "https://gestion.pe/resizer/v2/3IQKPJR7R5D7DEEQSJFKABLWKM.png?auth=d1abddfd25fbe02982cf0cadad57819bd8476d5f3108a2a456e47e0ad92efbed&smart=true&width=1672&height=941",
-        "publishedAt": "2026-09-10T13:56:45.000Z"
+        "url": "https://gestion.pe/economia/marco-rubio-es-importante-ensenar-los-beneficios-en-seguridad-comercial-y-economicos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/P7C3OIBIPNGCDHTITXEUPXPI6A.jpg?auth=17fd4b8fd29dd1d807dfb15845077f10ad55dfdbc508dfc99f26a19198afd1d0&smart=true&width=1040&height=705",
+        "publishedAt": "2026-09-10T18:17:46.000Z"
       },
       {
-        "title": "Petróleo supera pico de US$ 100 otra vez: Perú demanda más combustible, pero produce menos",
-        "summary": "Además, las inversiones del sector hidrocarburos cayeron en 27% a mayo ¿cómo le fue al gasto en exploración?",
+        "title": "Gobierno adjudica proyecto para reconstruir 13 colegios en Lima para 29 mil estudiantes",
+        "summary": "Centros educativos se ubican en los distritos de Villa El Salvador y San Juan de Miraflores",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/demanda-de-combustibles-en-peru-rompe-record-pero-produccion-petrolera-no-levanta-como-reactivar-el-sector-noticia/",
-        "image": "https://gestion.pe/resizer/v2/RXB2F4QPS5EMRPFHY3Z2CQPZ64.jpg?auth=1ee8d89feb8f7a116ffac0cd557d3a66e4425c0b9bd5721cc41377e9186d589d&smart=true&width=1200&height=900",
-        "publishedAt": "2026-09-10T13:05:55.000Z"
+        "url": "https://gestion.pe/economia/gobierno-adjudica-proyecto-para-reconstruir-13-colegios-en-lima-para-29-mil-estudiantes-noticia/",
+        "image": "https://gestion.pe/resizer/v2/YT2PUHH2JRATLCAFPQKFOD527A.jpg?auth=5ec9f8e09c545f50be5e424e95a7c081caa5ead9b2fcc7d7e00ec62006be7039&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-10T18:05:12.000Z"
       },
       {
-        "title": "Lista de feriados 2026: Las fechas festivas y no laborales",
-        "summary": "En estas fechas, los trabajadores tienen el derecho a un día de descanso remunerado.",
+        "title": "Osinergmin acude a La Pampilla ante reporte de derrame de petróleo",
+        "summary": "Osinergmin fiscalizó a La Pampilla ante nuevo derrame de petróleo en instalaciones de Repsol.",
         "source": "Gestión",
-        "url": "https://gestion.pe/peru/feriados-2026-lista-de-fechas-festivas-y-no-laborales-para-este-ano-noticia/",
-        "image": "https://gestion.pe/resizer/v2/KLW4CCYMEBHU7BAB27ZDJOLGXM.jpeg?auth=8b8afbcfe09ad46ff0ec2870095f7bb227dc93a39c374338339010fb9a2ba768&smart=true&width=1200&height=675",
-        "publishedAt": "2026-09-10T12:32:00.000Z"
+        "url": "https://gestion.pe/peru/osinergmin-acude-a-la-pampilla-ante-reporte-de-nuevo-derrame-de-petroleo-noticia/",
+        "image": "https://gestion.pe/resizer/v2/AKPA7VI6NNCBHDPGGFHFOS2FDU.jpg?auth=2e7498f9f5c82149ab90ecd5a9507a54376e980394023a2449167798e2dffd25&smart=true&width=1214&height=697",
+        "publishedAt": "2026-09-10T18:01:55.000Z"
       },
       {
-        "title": "Contratación de perfiles entry level crecerá en el último trimestre: lo que valoran las empresas",
-        "summary": "El mercado laboral peruano viene mostrando una mayor apertura por los perfiles entry level, es decir, personas que recién ingresan al mundo laboral o cuentan con poca experiencia profesional. La tendencia está llevando a algunas empresas a valorar más el potencial de los candidatos, sus habilidades blandas y su capacid",
+        "title": "Desempleo juvenil en Perú alcanza su mayor nivel en casi una década, ¿qué está pasando?",
+        "summary": "Los jóvenes sin experiencia tienen más dificultades para acceder a un puesto formal, mientras que la baja productividad y los costos de contratación reducen los incentivos de las empresas para incorporarlos.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/management-empleo/contratacion-de-perfiles-entry-level-crecera-en-el-ultimo-trimestre-lo-que-valoran-las-empresas-noticia/",
-        "image": "https://gestion.pe/resizer/v2/CEFCV6E7WZDNHKQWUD67PFO2DQ.jpg?auth=a64fb0d634e370a47c34d32cef66472111913f6c57fa22f0a6026d307a8bf20e&smart=true&width=2000&height=1125",
-        "publishedAt": "2026-09-10T12:05:14.000Z"
+        "url": "https://gestion.pe/economia/management-empleo/desempleo-juvenil-en-peru-alcanzo-maximo-nivel-en-una-decada-e-impacta-en-productividad-el-panorama-que-preocupa-noticia/",
+        "image": "https://gestion.pe/resizer/v2/XVMKOO6L4JCYRDU5VP54P34XWE.png?auth=1a804f6d73f97dae9527b90ecd8147c59a6940b044cc0693e2755c290694fb8e&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-09-10T17:51:49.000Z"
       },
       {
-        "title": "Gobierno de Perú plantea una Política Nacional Minera ante oportunidad por minerales críticos",
+        "title": "Gobierno de Perú plantea una Política Nacional Minera para impulsar minerales críticos",
         "summary": "El Ministerio de Energía y Minas (Minem) indica que avanzan en la formulación de una Política Nacional Minera para aprovechar el panorama favorable para la minería.",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/gobierno-de-keiko-fujimori-plantea-una-politica-nacional-minera-ante-oportunidad-por-minerales-criticos-lo-que-dijo-el-minem-noticia/",
         "image": "https://gestion.pe/resizer/v2/GQQNBF3GNZBSNEFQ5TYRRADVMI.png?auth=453497f40ec5bb5cb66a71116f7f7cfaa5f4b1bdea0c523771ca8fa654338fa8&smart=true&width=1672&height=941",
-        "publishedAt": "2026-09-10T11:02:00.000Z"
+        "publishedAt": "2026-09-10T17:49:33.000Z"
       },
       {
-        "title": "Proyecto para llevar gas al sur: los siguientes pasos de Cálidda si se concreta adenda",
-        "summary": "El Minem señaló que la modificación contractual para que la empresa asuma el proyecto de masificación de gas natural en el sur se daría en octubre. Así, Cálidda aguarda la respuesta del Gobierno, pero ya prepara los hitos para 7 regiones y responde a observaciones del Osinergmin.",
+        "title": "Línea 2 del Metro de Lima: obra tardaría 15 años totales en acabar, advierte Ositrán",
+        "summary": "Verónica Zambrano, presidenta de Ositrán, mostró su preocupación porque la obra de la Línea 2 del Metro de Lima avanza sin un cronograma actualizado.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/calidda-sus-siguientes-pasos-en-proyecto-7-regiones-para-llevar-gas-natural-al-sur-si-se-concreta-adenda-a-su-contrato-noticia/",
-        "image": "https://gestion.pe/resizer/v2/WUKWGVYAHZDKZP4HWSDBIYQJEQ.jpg?auth=5176a421492cdc948ae87b9ab4bf21dce62adca0e776fde202eb0dd4f2fd50a0&smart=true&width=1200&height=795",
-        "publishedAt": "2026-09-10T11:00:01.000Z"
+        "url": "https://gestion.pe/economia/linea-2-del-metro-de-lima-obra-podria-tomar-hasta-15-anos-en-acabar-advierte-ositran-noticia/",
+        "image": "https://gestion.pe/resizer/v2/PJFKUJ5WCRFLXJI3FYKMOSNM2Y.jpeg?auth=b701e723153003b7700772219c6442690ffedf0992ae4de2ef94110b4b2717b2&smart=true&width=1000&height=563",
+        "publishedAt": "2026-09-10T17:49:14.000Z"
       },
       {
-        "title": "Nestlé Professional: ¿cuál es el negocio que crece más de 25% y gana terreno en minas?",
-        "summary": "",
+        "title": "Minem: Los 7 proyectos mineros próximos a dar “paso clave” en este año, ¿cuáles son?",
+        "summary": "A la espera de desarrollo de nuevos proyectos, el Ministerio de Energía y Minas espera cerrar este 2026 en una inversión cercana a los US$ 7,000 millones.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/nestle-professional-bebidas-lideran-el-crecimiento-del-negocio-b2b-en-peru-noticia/",
-        "image": "https://gestion.pe/resizer/v2/OIXEB3NCXVDTNICTO7IWABOB2A.JPG?auth=3f36a4dad5538c57ea1ad6475bcd5253c407c4438e618dcc7f7a963584791e37&smart=true&width=573&height=328",
-        "publishedAt": "2026-09-10T10:45:00.000Z"
+        "url": "https://gestion.pe/economia/minem-senala-que-7-proyectos-mineros-estan-proximos-a-dar-paso-clave-en-este-ano-cuales-noticia/",
+        "image": "https://gestion.pe/resizer/v2/53MZSFQ45BD3VAMYVJITBYLZKE.jpg?auth=baee35b134132e01246e5f745eb62fedd38e6d7d51d1afc11beeb2579c2d8b94&smart=true&width=1800&height=1350",
+        "publishedAt": "2026-09-10T17:31:55.000Z"
       },
       {
-        "title": "Optimismo empresarial se extiende a resultados esperados para el 2027, ¿qué los entusiasma?",
-        "summary": "Optimismo empresarial se extiende a resultados esperados para el 2027. Estas perspectivas están relativamente en línea con el crecimiento que Apoyo Consultoría espera para la demanda interna.",
+        "title": "Propuesta de licencia laboral por atención médica enciende las alarmas de sector empresarial",
+        "summary": "Iniciativa parlamentaria plantea ampliar la licencia laboral para acompañamiento a familiares con enfermedad grave o accidentados",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/optimismo-empresarial-en-peru-se-extiende-a-resultados-esperados-para-el-2027-que-los-entusiasma-noticia/",
-        "image": "https://gestion.pe/resizer/v2/6W3XSGJGK5CUNBAKJDACOCK4IY.jpg?auth=96a7d45a866f42d2f0176498f3c7b86ab1f0dcea4484b96a07919ed9b287bff8&smart=true&width=1200&height=718",
-        "publishedAt": "2026-09-10T10:38:00.000Z"
+        "url": "https://gestion.pe/economia/propuesta-de-licencia-laboral-por-atencion-medica-enciende-las-alarmas-de-sector-empresarial-noticia/",
+        "image": "https://gestion.pe/resizer/v2/JY3EZHZQ7RGAXGYLNUCDQ3PGTE.jpg?auth=6bc255e8c83c9eadff5707fe20e09772ea5105f09ba19986c7531764226fb2a1&smart=true&width=1200&height=826",
+        "publishedAt": "2026-09-10T17:27:14.000Z"
       }
     ],
     "sociedad": [
@@ -188,17 +188,17 @@
         "publishedAt": "2026-07-15T15:44:23.000Z"
       },
       {
-        "title": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad - elpais.com",
-        "summary": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad &nbsp;&nbsp; elpais.com",
-        "source": "elpais.com",
+        "title": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad - EL PAÍS",
+        "summary": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad &nbsp;&nbsp; EL PAÍS",
+        "source": "EL PAÍS",
         "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdTZGRmVCRWs3MmpCV1RDRzhzeVJPanVZWlNrOG1BWGNOOWxCZFpPY3FJWWZNcFJudkk4YnROSHNxM2pOaHR2QVczaVhmLXN2NE5KLThVcE9KMDI0Vlg5SnFjQUtrcHB5dnNYa2RjdHlTb2g3OWs5RXZ1RmVBZ1FKREFka2MzVTVTTGJiOGxqQmNIODlucGpxLVpHNk1SVWdBeER4Nm85QUw2UjM4bG1aX0UzZEFBRkFNSVlRY0NFWmlzQ0IxNVZoQndieTRvaDRpWlRvc21JdmtaeEtTN3RYUWN0cVZSNVVudVVRejlta0Z3bGRHVkhv?oc=5",
         "image": "",
         "publishedAt": "2026-06-07T07:00:00.000Z"
       },
       {
-        "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - elpais.com",
-        "summary": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución &nbsp;&nbsp; elpais.com",
-        "source": "elpais.com",
+        "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - EL PAÍS",
+        "summary": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución &nbsp;&nbsp; EL PAÍS",
+        "source": "EL PAÍS",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeW5LcjdJa3V6MXlwdU1CVG4wR19lcXM5Ynoydmd3QVYxMWJ5amNPQVdYRnV3d05VZXFfMUc1M05RUTNBRWloaWFCX3U1LTloTHRLQ2NuaXVSWFllTHZ1aWFjVXNXR3M0LTRpVHBaUU9XSjZ4TXVTZ1hKMGhPVHFrem1MZU54RG52SWp5OXVTQlpHMlhYemVacWI5ZUVwTUJVT3d2MkJRdEpIekRCQmtIZDQxaFN0d0dZRE5zZ1NwS1JMd0NWaWlxeGttVFdaMlN2VlEwWFc5S0pfdTVNQ2JMZW9vempBTTJ2TW9CSDBEQU8?oc=5",
         "image": "",
         "publishedAt": "2026-06-07T07:00:00.000Z"
@@ -254,14 +254,6 @@
         "publishedAt": "2026-06-18T07:00:00.000Z"
       },
       {
-        "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - revistaganamas.com.pe",
-        "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; revistaganamas.com.pe",
-        "source": "revistaganamas.com.pe",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXMxcGUzS0xxcEpXcWxtZkl3cDhPTDk2bEZENlRIcmduaVZVRlhvY0FqOUNCdVF5Y0QxaTVyNDI5ZDJGbXdqWUJ3ZEd3QVBXaDQtQmd2X3V6aW1SR21lY05QSFdzeUhGZUtDZkUwS25BU3VIX04wbXpMRjBETElBSFlTbi1vVDBvaENJTFV1SjlCVzVnSzk5Z1htYmR2clVNZFB3STJ0ajAzUnM?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-17T17:04:18.000Z"
-      },
-      {
         "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - infobae.com",
         "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; infobae.com",
         "source": "infobae.com",
@@ -276,13 +268,21 @@
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
         "image": "",
         "publishedAt": "2026-06-10T07:00:00.000Z"
+      },
+      {
+        "title": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú - Business Empresarial",
+        "summary": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BXc0NCUE53Q1dicXN4ZXFJY3RHNmhlQnh1UG81VHItc29JbE5KdDViOTB1OW5Ja3V4dTdWRWZGLW1zRlVHUVJPNFMyS2h6YzR0THpaeC1EbmdfTlJNQzB4RkJ2VU9wZWN5YjZuelBIUG1DZlVxeURaVTdIdjZTRGdtUmRKaEEzY2dKd2pKS0h2RjUtN1JualhXY3lPbVdIdDlaRFdnRWNUd2p2b1RtTjJQcUx6d21ZNkdkT0dSWU9hV3Nya09UckFMNmFIUQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-05-27T07:00:00.000Z"
       }
     ],
     "ideas": [
       {
-        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - forbes.pe",
-        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; forbes.pe",
-        "source": "forbes.pe",
+        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - Forbes Perú",
+        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; Forbes Perú",
+        "source": "Forbes Perú",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnR2OFJqcnVKWEVnZF9Fc1FFQ1AxY3lYbTFYQnh2WkJZMEljS2I4UHozWHN5eTNXVXkwSV9WS0U2WDdCenNoMGVLUzRpMEZXcnIzRVpJSWloS295VGJzNVZtT3h6akN0b3EyVDdYVUwtc05SR0Z6WWE0MjZKUnd3TDFnUWx3aEJwbHRYUmgxNHJseERsVE8tdTg0WnJrT1hMMEFER0h6WVp1ekd1V2JWLTNPUQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-25T12:02:15.000Z"
@@ -346,6 +346,14 @@
     ],
     "ia": [
       {
+        "title": "ICPNA y Miami Dade College formalizan alianza para impulsar nuevas oportunidades de capacitación en tecnología e IA - lacamara.pe",
+        "summary": "ICPNA y Miami Dade College formalizan alianza para impulsar nuevas oportunidades de capacitación en tecnología e IA &nbsp;&nbsp; lacamara.pe",
+        "source": "lacamara.pe",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNR21hSVdibXN6STU3cm1fSWNJamhORzBnYnB6cElPMFlwWE4tY0JnOWhTZXdNZm8wYWw2c2lGNzdvVlJ4OFFHbUJMOE1MRC10RWhsSV9MREhWRkx5SW9IM2hwcDhtZGpNZ05tVFRUc0JwalhwUnI0bWh0UU5oUnpsQ0xsNG1NTF9iQTJNSWhMdzgySGVmQllQblpEdms1TjJNSkZNejZfUzFFVHp4ajVSbExvUUtwYjRYODNhUDBpellGOVRMd0NHdThSaHdTLUlMUk1zblBrQ3MydkFoYUViSzVPdDg?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-10T17:05:19.000Z"
+      },
+      {
         "title": "Perú y Estados Unidos preparan alianza para incorporar inteligencia artificial al Estado - Eloriente.com",
         "summary": "Perú y Estados Unidos preparan alianza para incorporar inteligencia artificial al Estado &nbsp;&nbsp; Eloriente.com",
         "source": "Eloriente.com",
@@ -362,8 +370,16 @@
         "publishedAt": "2026-09-10T11:34:25.000Z"
       },
       {
-        "title": "Alex Kaiser señala que la IA debe emplearse con cuidado para no dañar el desarrollo humano - notiperú",
-        "summary": "Alex Kaiser señala que la IA debe emplearse con cuidado para no dañar el desarrollo humano &nbsp;&nbsp; notiperú",
+        "title": "El acuerdo tecnológico más ambicioso en Perú: el megaproyecto con EE. UU. para transformar el Estado con IA - El Universo",
+        "summary": "El acuerdo tecnológico más ambicioso en Perú: el megaproyecto con EE. UU. para transformar el Estado con IA &nbsp;&nbsp; El Universo",
+        "source": "El Universo",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb1laN1dIQ3pHNnVxMXhERTlOVEN6MjZjMkNaWUU3MVZXYk54WHFtZnBuUDB6dzJBdFdySEdESWVGaGJ5aWExMjYtdjVIN0tfaTRVUDdnYlZDQnJ3akt6cWgwY1dIMGQ5Z2VYRlkxbHkxYTdFbjVDamdXNVg0QklGNmduZHFLOEx4ckxwdDFWUEM1RC1EX2luT0JBTVhoQnJMQ1BaRVJkVEppY09nNVlOM09nbTQ0U21aV0p1cTVTWDlYVXhwRVVLOGZ3cFZWal9ZVzQxejhFV0g2Zk91cXlEQW9TTWJBelp4V2hsWG9Oc3lwQQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-10T11:15:00.000Z"
+      },
+      {
+        "title": "Perú.- Alex Kaiser señala que la IA debe emplearse con cuidado para no dañar el desarrollo humano - notiperú",
+        "summary": "Perú.- Alex Kaiser señala que la IA debe emplearse con cuidado para no dañar el desarrollo humano &nbsp;&nbsp; notiperú",
         "source": "notiperú",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYlAxeEVHUE85UEtHYWpsOUh6SGZEUnU3cDh2c0dORlppVE9jb3hwOV9JUE50TmJ4dV9FaVI2V2tLYkNEWVhQR2syMGgwZXJNOXRWYzFWNzFPeFltb2hWZ1dKQzU5b2phbEhuUEVhU0tvVWpUSVQ2ZzFJZWIxZ3RpRm5IYTd3emY5MG5iUVQ1SnU3UFRjRXphWjhKWWdIb21wdkxXaUQ3TzZ5M2dEaS1ZOEdjSUVONXZMdUpJS3Frb3FRSzhNbXVUblFoa1lXV1MyVDVsaUU5WWw?oc=5",
         "image": "",
@@ -392,22 +408,6 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVHB2d1J3cHpjczFGaXIwbFhfVmd2RUtxNU5OV0lzWm52ZjllRVlLcmplZUVXSk56eTVMSTNUY25hTElBSkFsRXZFYXlRT1l5N1NucTBLc1hnd3NDMUozTWtiZTlraXkzWXl6eFQ0X1dHZWpCTnRUZjMtUTczWnVuc3NjV2NiQzI1Z01VZHc2RF9xNWRkenQxM3d3ZEhhUVdIOWVqb0gwWlprbzU3WGhpZzB3V3YxZHBPNmJaNkN5VmZUdFhXbmfSAeABQVVfeXFMTkJ3UzFoczdBLUU3RVJxTjR0Tk8yaEdpQXNCOXJOZjlURjZBd1lyZFhjenhrT1dQN0dqNWVJUUVqV0NwYTF0VDVZeHVxVGFaR1pLX0lOeEM0dTBSOWcxQmtoRXVjTE84dzhzc19DNE42WWtzSEg3b1ludUNGeFYyS1EyUER2MnMyZzVSNWd4aklEbjhxb1RVUVZRdDJncUh0VGFySzNfcjFVVVIydTdvSGc4LXpfN2tYRlliYkU5X3NjOGk5V1IxWksyWVpPUFBocmtSaC1zNTAzZmlWa3ExeFE?oc=5",
         "image": "",
         "publishedAt": "2026-09-09T16:37:00.000Z"
-      },
-      {
-        "title": "El acuerdo tecnológico más ambicioso en Perú: el megaproyecto con EE. UU. para transformar el Estado con IA - El Universo",
-        "summary": "El acuerdo tecnológico más ambicioso en Perú: el megaproyecto con EE. UU. para transformar el Estado con IA &nbsp;&nbsp; El Universo",
-        "source": "El Universo",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb1laN1dIQ3pHNnVxMXhERTlOVEN6MjZjMkNaWUU3MVZXYk54WHFtZnBuUDB6dzJBdFdySEdESWVGaGJ5aWExMjYtdjVIN0tfaTRVUDdnYlZDQnJ3akt6cWgwY1dIMGQ5Z2VYRlkxbHkxYTdFbjVDamdXNVg0QklGNmduZHFLOEx4ckxwdDFWUEM1RC1EX2luT0JBTVhoQnJMQ1BaRVJkVEppY09nNVlOM09nbTQ0U21aV0p1cTVTWDlYVXhwRVVLOGZ3cFZWal9ZVzQxejhFV0g2Zk91cXlEQW9TTWJBelp4V2hsWG9Oc3lwQQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-09T14:00:00.000Z"
-      },
-      {
-        "title": "🔴🔵El Congreso y representantes de la gigante tecnológica establecieron una ruta de trabajo orientada a la protección de datos, la regulación de la IA y el resguardo de niños y ad",
-        "summary": "🔴🔵El Congreso y representantes de la gigante tecnológica establecieron una ruta de trabajo orientada a la protección de datos, la regulación de la IA y el resguardo de niños y adolescentes en plataformas digitales. 🌐Más información en: https://www.exitosan &nbsp;&nbsp; facebook.com",
-        "source": "facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYXI5YVo2cGxoMHZZM0kzM2NkVWlCNEFDWEthQXVpa2pPWE1QQXhIMFFvM0Z2Umd0Z1NuMS0xQXdQc0hzaEppZElTQ1IwbnVBVF8xM3h3Q0NqTTAtT09TWmg1UkxSNDdQTWtzOTduRXRNa0ViSkQzcTZTQTJLZlF2d3ppVTlxNnF0aHZhY3B0YzhKRXJ4VDVIMGlZTlhxTTZKQ0dLV21fcVJZUjIzcHV4MzMybm5YMWxQTlUwTllUdnZzWWxQNVpBMnFaX2J6M2pOdjVIbEZ0SWl3NVcxanplWWg0c2E?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-09T02:51:42.000Z"
       }
     ],
     "tendencias": [
@@ -417,7 +417,7 @@
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQW9fVk51R2xSS1c2X0I5TjFfc2VoT3hDeVJJVEFIbUJSTmItZ0lQUGdocWJvWVA4bjUtWGlfMGtMVExUMnA4TVBBODg1YVJ5VVBYeWc1X1lvYl9MdzFQVGZjVzg1RzQxNjRlb3hNN25CaVd3Y29XWlRPSWJSVmlHQWFtZnV2OURIaFByNGZJT193YklScUl6cEU2X2o2SklLcVdZLU15VklTSnBKQVJaYWVZcGloeXJHM25HUS1aUGNVSEtPaElZenMwcEVvSXB3eE42cFFESzItX2hXckZSNi10YTN2X3BtWjlObWwyc9IB9AFBVV95cUxQUXZkLW0ya0dvbTdNOC0waTg4UGJrVXpmTFB2TXhDc0d2aE5QOEFYU1hIR3VyY0U0WkNPYnVqM3ZJSFlOWndYdzZCdXVUZHE5eXRyQi1TdWw1UHVNZjYxY3pMY3R5TkF6ZFRqTUstYjVZYzdLN1NxZ3VVdTlsc1lBYTZDVnVRYU5QcGJMdDU5OV96ODZMY1hhNG1IdVhtWkVBMkpkQ0xLSTVsU0YzdVZzdFI0YnllR0dyWW5UVFBIQllGRy05b0hOcEZXV0pjeDNPenpNNkp5M3JTYmpoZGxxUzNvR2tYVVpXSktGQXNtcDVHclhD?oc=5",
         "image": "",
-        "publishedAt": "2026-09-10T02:03:00.000Z"
+        "publishedAt": "2026-09-10T10:19:00.000Z"
       },
       {
         "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - elcomercio.pe",
@@ -434,6 +434,14 @@
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcEppUW9Kb2JaZktiR3BucVVJOXRNSk9mamZvcEs5SkNIdjNidHFsS3ZmWVRUazEya05oSzdCS1hjbWNVdVR2VW85cGZWczhGQTVzS3hvSWR2SDZTYVRrbEgtOVMxWWxSRTNCU2c3cGVpUTA1WFp5ZVItMkxuV1NCeGttWmp6QlczQWswMHhISV9YZ0QtVDk4amVkT0EwSmdtMnFsZDZkTWFwV3J3bGN0dzd0YXhtTGtET2JtWHBqVnBJYndmTVpQOG9hUF9zaF9sUVRlS3FEYmVLLTQwMVE?oc=5",
         "image": "",
         "publishedAt": "2026-08-30T04:30:15.000Z"
+      },
+      {
+        "title": "Qué significa ‘farmear aura’ si tienes más de 30 debes conocer qué es y por qué lo usa la Generación Z - infobae.com",
+        "summary": "Qué significa ‘farmear aura’ si tienes más de 30 debes conocer qué es y por qué lo usa la Generación Z &nbsp;&nbsp; infobae.com",
+        "source": "infobae.com",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOGVnY0xEajd1WjFMWGdqWi1DZmdwRVRtb1R2aHBBLTNORlBJZ0VRb1d5UEdnZGxSdXh6UWZkcThTZTZHb1dwRGtIS3BVT3RFcXRnRkJKOXI4b3NaVGVvN1ZFeS1PWnhoRENyd3V3LXVxWV9jblBfdmpKZElJaHhoY3NkNzlLUlVKd01FenVLaXBZZVFNbUV4czhSTWd3X1MzaTUxLUxjQ1AtZlB6ZTRHQ2dwR1ZQN3RaMk9HVHJjQ2lVc2V2YV9hUkE0ZDlILWl6MjJ4N05Kb0l1Z9IB9AFBVV95cUxNNXRmX2Y0Y2hFbXJjUEFDaHIwRnVwZkw3OUZfcnRod0t6cUE2TW1NRU9Sc3M0ZXhPTDZkVDBfUDMwTjhkazZITTE1dGJaRmVYQ1NuSXN3NzdfcTA0TW55ZVBNWXZzQUIwTHE4VjJQQ1FlR0Z3ZDVxbjFMeFlYR2dLUm1ZaDJyc1BSRlRPMVYwZC1MTXliRlBndHg1anp6cnBQemFzZFNkYk1Wc3NkY0VsOTViN2pSZGEwYjJfWDdLNE1nRzRheHA4eXhCbml5b1VuYk5vMlZrZzk5MUw5alZ0RE9VR2JRZFFER2ZaY0Y4dzlfSXVo?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-18T07:00:00.000Z"
       },
       {
         "title": "Qué es farmear aura: de qué trata la nueva tendencia de TikTok entre jóvenes y cómo se gana una batalla - infobae.com",
@@ -466,14 +474,6 @@
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ19nT2YyMlR5RFhzZVRjTXpPcjZXYjhHZ25aV1BkeTFuWDVKTHZxUFRyQklUb0JYaGFIMUJEbEdVbTg3Y01OV255QmN3OHlEbWNaS185UXVqUHhydnF1YTlrZTNSQmtmVGNKc2xyb28zTmt4czlsd2Z1OC0wQTZYWmpjT0pUNU0yN21CWnpYamV6eU43TkdQUE1FdjUxUGVRQ0tzbGpDbEk2Y0xrS3Y1bl9hY2UxSnVuMTF2ZV82MTZ2dGVkQ0tPVG1R0gHkAUFVX3lxTE5xaE1KVl9TLXVjQW16VUhTbmotZWRBcUJueDBnQWZLZFhPaC1hSjZNSGVXSnFEQlotekUweWloX0xEc2txcEt5N2RGOUFBYXBFaXBZYTdZaWpkaktoNUd4cDFsV2R3bGdOOGNDVV9qajFLMy1ZTUh3TXU4dlZmVmprRnlvQzhLMlM4RnpTT2FMSzhKdS1PaXdvZE0tQnlIUmIyM3l4akJrYjIwcnMwY25yMXl2TFIwdjg1YXpBNmRnNDBrdU9oZTN5LVU4MGp6dHVVR09fTnh5cmN1eGNsaXBDNUlZXw?oc=5",
         "image": "",
         "publishedAt": "2026-07-07T07:00:00.000Z"
-      },
-      {
-        "title": "Qué es el “Door Kick Challenge”, el reto viral que alarma en Perú tras ataques a viviendas grabados por adolescentes para redes sociales - infobae.com",
-        "summary": "Qué es el “Door Kick Challenge”, el reto viral que alarma en Perú tras ataques a viviendas grabados por adolescentes para redes sociales &nbsp;&nbsp; infobae.com",
-        "source": "infobae.com",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQNlhRa3hZRWhpSGh3SVFmWkEzTUM3WXlIeXJCdlYycXE0U0NCSnZFbnM0M2RweVpoalhnTXROWkpLYlExbjA4RGF4dEVXZHk2d0t1Z0lYZHdrcUU4eERIZ1htcTdlUW5ETmNycXVUUFM0d3F0RTRHeVlzZ1hwU2liXzJoTFJ2NVlMV183X1VkS09CcGJrckQ1SFl2TFg1NjBTT082VFVwanVfVmtkZ1RVZVo5WE84TEpzeEF0MUVLallqSzd4c21zeF8yQzN2M1ZUT0xpYllKZ09BUEFKZmw5akhWc2NBaUZ4bFlBQ0hPLXJXRF95N3cwdWlpZGwyNXpFd04zVNIBnwJBVV95cUxPSmowXzdWYTdRbnhzb2lob0R4M0tqYWxJeTRSdUQ5N002RUpGOEJOdU9fSmw2WGlqNWhfaEVZcXhnUEtkS3VpZFdXZDJHbi1oSnJNd1FDWkJxcTN6Q1RtNGZoSkViTTVaOUtnQVZURmlCRVFUcHYtekZJQXc4OEdseTcxOFBrYmVzN2VJdElRalhuaFJSWkQyZHhHZG5Ldlg2ZldsemNHS2xSVHdTRzB1aHpnZF9iZXI3MDlGeXVyVjAydFN0OGdTc2pGX2VjVEVmRG1JbjNxaGFWZkd6VFd2NmVENmJjV2RMU3FwbUMzQjZQMEs1MWtJYUFocnl0T2RqQXNyNnRMYUZMY200cnB0S0FvSWo3dlRZOEl0enB6cw?oc=5",
-        "image": "",
-        "publishedAt": "2026-05-21T07:00:00.000Z"
       }
     ],
     "farandula": [
