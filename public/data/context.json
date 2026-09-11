@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T09:38:09.224Z",
+  "generatedAt": "2026-09-11T14:23:59.417Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,12 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Aliados en la Mesa Directiva, pero divididos en el pleno: así fue la votación para interpelar al ministro del Interior en la Cámara de Diputados",
-        "summary": "La Cámara de Diputados del Congreso aprobó el último jueves la moción de interpelación al ministro del Interior, César Astudillo, impulsada por la bancada de Juntos por el Perú. Sin embargo, la decisión no contó con el respaldo unánime de todas las bancadas de oposición al gobierno de Keiko Fujimori. El Partido del Bue",
+        "title": "Rafael López Aliaga: ¿Es legal o no entregar las credenciales de alcalde a primeros regidores tras eventual victoria?",
+        "summary": "",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/aliados-en-la-mesa-directiva-pero-divididos-en-el-pleno-asi-fue-la-votacion-para-interpelar-al-ministro-del-interior-en-la-camara-de-diputados-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/YDW4QWN3IFAB7G6X3SJ62YZLJ4.jfif?auth=eeaf3690fab254961985700b631b02e49e79b198315e352a464c206dabd89310&smart=true&width=1600&height=1066",
-        "publishedAt": "2026-09-11T05:02:00.000Z"
+        "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-es-legal-o-no-entregarle-las-credenciales-de-alcalde-a-primeros-regidores-tras-eventual-victoria-jne-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/ERNM3THLPBH7JIAV2QTXB5QPEA.jpg?auth=19405ce08c2992f8df879d7898eaaeed66d42a0259f420045a1764ed91a04ce9&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-11T14:02:15.000Z"
       },
       {
         "title": "Suman seis las comisiones de la Cámara Diputados que se oponen a otorgarle las facultades al Ejecutivo: ¿Qué viene ahora?",
@@ -37,7 +37,31 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/suman-seis-las-comisiones-de-la-camara-diputados-que-se-oponen-a-otorgarle-las-facultades-al-ejecutivo-que-viene-ahora-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/EJO3B6QXORHELA6UN6BGXYWO2A.jpg?auth=e0306fecc731b359362ecb1e47b6fc8999888c0ffd93cfc1e767bc63b14f420b&smart=true&width=1200&height=647",
-        "publishedAt": "2026-09-11T05:01:00.000Z"
+        "publishedAt": "2026-09-11T13:56:54.000Z"
+      },
+      {
+        "title": "Perú se incorpora a coalición liderada por EE.UU. contra el crimen organizado trasnacional: el detrás de cámaras del encuentro entre Fujimori y Rubio",
+        "summary": "Perú se incorpora al “Escudo de las Américas”, la coalición liderada por EE.UU. para combatir al crimen organizado transnacional. Keiko Fujimori y Marco Rubio destacaron una nueva etapa en la relación bilateral, marcada por mayor cooperación en seguridad, inteligencia y lucha contra las organizaciones criminales.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/peru-se-incorpora-al-escudo-de-las-americas-de-eeuu-contra-el-crimen-organizado-transnacional-marco-rubio-donald-trump-keiko-fujimori-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/5RLGZS7BHFFMHMUQNTDFY2PAEY.jpg?auth=894b1b179fd014ff8cb42f096a7b9455e3097103acdb18e3f8488344d697f752&smart=true&width=1200&height=647",
+        "publishedAt": "2026-09-11T13:51:32.000Z"
+      },
+      {
+        "title": "Aliados en la Mesa Directiva, pero divididos en el pleno: así fue la votación para interpelar al ministro del Interior en la Cámara de Diputados",
+        "summary": "La Cámara de Diputados del Congreso aprobó el último jueves la moción de interpelación al ministro del Interior, César Astudillo, impulsada por la bancada de Juntos por el Perú. Sin embargo, la decisión no contó con el respaldo unánime de todas las bancadas de oposición al gobierno de Keiko Fujimori. El Partido del Bue",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/aliados-en-la-mesa-directiva-pero-divididos-en-el-pleno-asi-fue-la-votacion-para-interpelar-al-ministro-del-interior-en-la-camara-de-diputados-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/YDW4QWN3IFAB7G6X3SJ62YZLJ4.jfif?auth=eeaf3690fab254961985700b631b02e49e79b198315e352a464c206dabd89310&smart=true&width=1600&height=1066",
+        "publishedAt": "2026-09-11T11:39:58.000Z"
+      },
+      {
+        "title": "Un escudo para el Perú",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/opinion/columnistas/un-escudo-para-el-peru-por-diana-seminario-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/VTNMQLMJPJHJ3MQ4YQ42OTCFV4.png?auth=6185d78106a1bf9592b609c0de7e6727fd6aff53e400d4262c7ceecc2cc0a010&smart=true&width=1200&height=649",
+        "publishedAt": "2026-09-11T11:00:01.000Z"
       },
       {
         "title": "Gobierno solicitará autorización al Congreso para viaje de Keiko Fujimori a Asamblea General de las Naciones Unidas",
@@ -54,96 +78,72 @@
         "url": "https://elcomercio.pe/politica/internacional/marco-rubio-tras-su-visita-a-peru-juntos-estados-unidos-y-peru-impulsaran-la-paz-la-seguridad-y-la-prosperidad-para-nuestras-naciones-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/2RCYUDEM4ZAWRPOB3XMKWKELEQ.jpg?auth=5dd5671f00098e3e715ec01cdef1638a73c532916f79a43c3c831d285475c385&smart=true&width=6960&height=4640",
         "publishedAt": "2026-09-11T00:54:16.000Z"
-      },
-      {
-        "title": "Perú se incorpora a coalición liderada por EE.UU. contra el crimen organizado trasnacional: el detrás de cámaras del encuentro entre Fujimori y Rubio",
-        "summary": "Perú se incorpora al “Escudo de las Américas”, la coalición liderada por EE.UU. para combatir al crimen organizado transnacional. Keiko Fujimori y Marco Rubio destacaron una nueva etapa en la relación bilateral, marcada por mayor cooperación en seguridad, inteligencia y lucha contra las organizaciones criminales.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/peru-se-incorpora-al-escudo-de-las-americas-de-eeuu-contra-el-crimen-organizado-transnacional-marco-rubio-donald-trump-keiko-fujimori-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/5RLGZS7BHFFMHMUQNTDFY2PAEY.jpg?auth=894b1b179fd014ff8cb42f096a7b9455e3097103acdb18e3f8488344d697f752&smart=true&width=1200&height=647",
-        "publishedAt": "2026-09-11T00:51:27.000Z"
-      },
-      {
-        "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
-        "summary": "Fuerza Popular | Desde que empezó a participar en elecciones subnacionales, el fujimorismo redujo su oferta electoral en más de la mitad.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/en-16-anos-fuerza-popular-solo-ha-ganado-3-gobiernos-regionales-y-no-ha-colocado-un-solo-alcalde-en-lima-metropolitana-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/3ZQHU5EOGNH33LU7J6EN3J4QSE.jpeg?auth=05b2ba86279d4f5e8c5af8ea35780dce6caca06e15b2546119eb9e3be8b10463&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-09-11T00:09:00.000Z"
-      },
-      {
-        "title": "Pleno de la Cámara de Diputados interpelará a ministro del Interior, César Astudillo, el 17 de setiembre",
-        "summary": "El pleno de la Cámara de Diputados del Congreso de la República aprobó, este jueves 10 de setiembre, interpelar al ministro del Interior, César Astudillo, el próximo 17 de este mes, a las 10:00 a.m.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/congreso-camara-de-diputados-mociones-de-interpelacion-ministros-defensa-interior-rafael-belaunde-cesar-astudillo-pataz-seguridad-ciudadana-pnp-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/HCURLEGN6ZH7DLTYSWLYECKMFU.jpg?auth=ccc1d2f94e4338251592d05a354ca18a475605c14792976ab617ff55e3257362&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-10T22:28:16.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Proyecto para llevar gas al sur: los siguientes pasos de Cálidda si se concreta adenda",
-        "summary": "El Minem señaló que la modificación contractual para que la empresa asuma el proyecto de masificación de gas natural en el sur se daría en octubre. Así, Cálidda aguarda la respuesta del Gobierno, pero ya prepara los hitos para 7 regiones y responde a observaciones del Osinergmin.",
+        "title": "Grupo Romero lanza oferta para comprar acciones de minoritarios de Orygen Perú: ¿cuánto pagará?",
+        "summary": "Niagara Energy, empresa utilizada por el Grupo Romero para la transacción, inició formalmente la OPA dirigida a los accionistas minoritarios de la generadora eléctrica. De completarse la compra del 7.07% del capital restante, la operación alcanzará los US$ 161.5 millones.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/calidda-sus-siguientes-pasos-en-proyecto-7-regiones-para-llevar-gas-natural-al-sur-si-se-concreta-adenda-a-su-contrato-noticia/",
-        "image": "https://gestion.pe/resizer/v2/WUKWGVYAHZDKZP4HWSDBIYQJEQ.jpg?auth=5176a421492cdc948ae87b9ab4bf21dce62adca0e776fde202eb0dd4f2fd50a0&smart=true&width=1200&height=795",
-        "publishedAt": "2026-09-11T03:25:52.000Z"
+        "url": "https://gestion.pe/economia/empresas/grupo-romero-lanza-oferta-por-acciones-de-orygen-peru-a-us-07298-cuanto-desembolsara-en-total-noticia/",
+        "image": "https://gestion.pe/resizer/v2/O6FAJOENRBDF3H5VBGLRMFV2F4.jpg?auth=78186f5509ef357015609b2e1d76c89f6d59720834925469cd4cc55aa40d01f0&smart=true&width=1200&height=733",
+        "publishedAt": "2026-09-11T14:13:35.000Z"
       },
       {
-        "title": "Petroperú: aprueban modificación de su estructura organizacional: ¿qué ajustes se dieron?",
-        "summary": "También se aprobó la versión revisada y actualizada de la memoria anual de Petroperú correspondiente al ejercicio económico 2025.",
+        "title": "¿Fraudes en publicidad?: Indecopi habilita plataforma online para reportar estafas",
+        "summary": "Indecopi habilita plataforma online para evitar estafas en compras a partir del reporte de cada una de las prácticas engañosas que puedan padecer los consumidores.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/petroperu-aprueban-modificacion-de-su-estructura-organizacional-que-ajustes-se-dieron-noticia/",
-        "image": "https://gestion.pe/resizer/v2/O77VLGUSMNAGBP7IY2F54WNMSQ.jpg?auth=b1e102f17c21615ad28e537e400c1f1b1106a4f4e44a6087af974a265072a551&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-11T02:22:47.000Z"
+        "url": "https://gestion.pe/peru/fraudes-en-publicidad-indecopi-habilita-plataforma-online-para-reportar-estafas-en-compras-noticia/",
+        "image": "https://gestion.pe/resizer/v2/XY4IQ64PBNGIBAXTV5HWA7E7NY.jpg?auth=d453ad7833a760065a34fc56d61447af9779ca8ab5a412180c96d02b21cd7b4a&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-11T14:04:08.000Z"
       },
       {
-        "title": "Puerto de Chancay: lo que dice Cosco Shipping ante cuestionamientos de Estados Unidos",
-        "summary": "Cosco Shipping consideró que más allá de las preocupaciones de Estados Unidos por la inversión de China en el Puerto de Chancay, sería mejor que apuesten por el futuro puerto de Corío.",
+        "title": "Perú retrocedió a niveles de hace 10 años en PISA, ¿cómo afectará a los jóvenes?",
+        "summary": "Los últimos resultados del Programa para la Evaluación Internacional de Estudiantes (“PISA”, por sus siglas en inglés) vuelven a poner sobre la mesa una preocupación que trasciende las aulas: las capacidades con las que los adolescentes llegarán, en los próximos años, al mercado laboral.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/puerto-de-chancay-que-dice-cosco-shipping-ports-ante-los-cuestionamientos-de-estados-unidos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/MLZ2O2X24ZDMXO5HJJTOFWRPBQ.jpeg?auth=8ee853712113b04e35797d13a9ced88ac25eb7edfd2d898ee8558f29be8f3ecc&smart=true&width=6000&height=4000",
-        "publishedAt": "2026-09-11T00:30:58.000Z"
+        "url": "https://gestion.pe/economia/management-empleo/pisa-2025-peru-retrocedio-a-niveles-de-hace-10-anos-como-afectara-al-empleo-de-los-jovenes-noticia/",
+        "image": "https://gestion.pe/resizer/v2/TKSZRQA2QZHSPPSL655W5CCTJI.jpg?auth=2a9ea78e90b633ef7a30635f6c50641e7709c9ae6c5ea31155e282bdc43a3169&smart=true&width=1408&height=768",
+        "publishedAt": "2026-09-11T13:48:10.000Z"
       },
       {
-        "title": "Créditos hipotecarios: ¿subirán tasas de interés por alza del petróleo a US$ 100?",
-        "summary": "Las consecuencias del petróleo al alza por la guerra en Irán pueden extenderse a ámbitos que parecieran distantes del problema, como los créditos hipotecarios en Perú.",
+        "title": "Petroperú: este es el paquete de activos que se ofrecerá a las empresas hacia octubre",
+        "summary": "En entrevista con Gestión, Luis Del Carpio, presidente ejecutivo de la agencia, detalló cuáles será la ruta de los bloques patrimoniales de Petroperú que se “constituirán”, es decir, se lanzarán a concurso para que empresas puedan hacerse con ellos.",
         "source": "Gestión",
-        "url": "https://gestion.pe/tu-dinero/creditos-hipotecarios-costaran-mas-por-alza-del-petroleo-a-us-100-que-encarece-deuda-peruana-tasas-de-interes-de-hipotecas-noticia/",
-        "image": "https://gestion.pe/resizer/v2/QHNY6QQIDBC2HEV3KBACIZWKLI.jpg?auth=b913cd65f4d1876d64985d4b5822ea683fa642e199c3b943e14184da8faed0d6&smart=true&width=3888&height=2592",
-        "publishedAt": "2026-09-11T00:30:52.000Z"
+        "url": "https://gestion.pe/economia/petroperu-refinerias-el-oleoducto-y-mas-se-ofreceran-a-empresas-hacia-octubre-noticia/",
+        "image": "https://gestion.pe/resizer/v2/Q5FW3TOLDBA25CJJTVSBXN337I.png?auth=2ab1b62a367393235378dada2307d06a852742284f118a1af0932346de679cab&smart=true&width=1672&height=941",
+        "publishedAt": "2026-09-11T13:33:00.000Z"
       },
       {
-        "title": "Wayra Solar inicia energización y apunta a operar comercialmente a fines de 2026",
-        "summary": "Wayra Solar de Orygen inició su proceso de energización en Ica y avanza hacia su operación comercial. Conoce los detalles del proyecto renovable.",
+        "title": "Petroperú dejará de comprar crudo por encima del precio internacional: así será el paso clave",
+        "summary": "En entrevista con Gestión, Luis Del Carpio, presidente ejecutivo de ProInversión, reveló que la petrolera, bajo la figura de “emergencia”, adquiría crudo de petróleo hasta US$ 30 por encima del precio de referencia internacional, ya inflado por la guerra en Medio Oriente.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/wayra-solar-orygen-inicia-energizacion-y-apunta-a-operar-en-2026-noticia/",
-        "image": "https://gestion.pe/resizer/v2/CVWL4RKQ2VERLATDCUBSRBPKVI.jpeg?auth=5441164157ef18016cf8e80378501f4c978a0cd779938a6861ec20b78c79250c&smart=true&width=1600&height=899",
-        "publishedAt": "2026-09-10T23:46:06.000Z"
+        "url": "https://gestion.pe/economia/petroperu-ya-tiene-dinero-para-reflotar-y-dejara-de-comprar-crudo-por-encima-del-precio-internacional-noticia/",
+        "image": "https://gestion.pe/resizer/v2/6DQ4COCKU5D3JOSPRLAA7FZFBI.png?auth=ce33ecf0322d68343a95c130f7e8e2b6617e82377a50057ee40cb046291accc9&smart=true&width=1672&height=941",
+        "publishedAt": "2026-09-11T13:29:00.000Z"
       },
       {
-        "title": "BCRP fija tasa de referencia en 4.25% en setiembre, ¿cómo evoluciona la inflación?",
-        "summary": "Durante el 2025, el instituto emisor efectuó tres recortes a la tasa clave, en enero, mayo y septiembre, de 25 puntos básicos en cada caso. El presente año, no ha realizado ningún movimiento.",
+        "title": "Yape, Plin y otras billeteras: ¿cuánto dinero puede recibir sin tener “problemas” con Sunat?",
+        "summary": "¿Existe un monto máximo que puede recibir por Yape, Plin u otras billeteras sin problemas con Sunat? Conozca cuándo debe justificar el origen del dinero.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/bcrp-fija-tasa-de-referencia-en-425-en-setiembre-como-evoluciona-la-inflacion-noticia/",
-        "image": "https://gestion.pe/resizer/v2/OD3JFI7U6NEQ3MR4M2QANKLSPQ.jpg?auth=82d34035ffbeb3b369aa8bc56cb0fdc24f4c0ce71cc9efa16fcc6fc7c1536291&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-10T23:18:44.000Z"
+        "url": "https://gestion.pe/economia/yape-plin-y-otras-billeteras-digitales-cuanto-dinero-puedo-recibir-sin-tener-problemas-con-la-sunat-noticia/",
+        "image": "https://gestion.pe/resizer/v2/WBXT22EWFVAMRL2OPRE37MMM6Y.jpeg?auth=83be01e2cbecc787523374cc13d3dbe0540473c4d24d3c1ab4f06778ce31ecf2&smart=true&width=2304&height=1566",
+        "publishedAt": "2026-09-11T13:24:00.000Z"
       },
       {
-        "title": "Produce emitió 19 medidas de ordenamiento pesquero para enfrentar El Niño",
-        "summary": "Titular del sector señala que se busca reactivar la pesca de 280,000 toneladas de recursos a través de la pesca artesanal",
+        "title": "SBS autoriza funcionamiento a BiPay como billetera digital",
+        "summary": "La Superintendencia de Banca, Seguros y AFP (SBS) autorizó, mediante aprobada mediante la Resolución SBS N°02248-2026, el funcionamiento de BiPay, con lo cual podrá brindar servicios de emisión de dinero electrónico, transferencias, pagos, recargas y otras operaciones asociadas al uso de billeteras digitales a personas",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/produce-emitio-19-medidas-de-ordenamiento-pesquero-para-enfrentar-el-nino-noticia/",
-        "image": "https://gestion.pe/resizer/v2/BMYSGVKCXFECPPULXQ6DKAKFMQ.jpg?auth=d304fb85f787af891beb37d3823d55adb6f63fca8ecb039d8d64f005b36d7c96&smart=true&width=1800&height=1200",
-        "publishedAt": "2026-09-10T23:07:34.000Z"
+        "url": "https://gestion.pe/economia/empresas/sbs-autoriza-funcionamiento-a-bipay-como-empresa-emisora-de-dinero-electronico-billetera-digital-noticia/",
+        "image": "https://gestion.pe/resizer/v2/C452XJEKJZFUPOSHZLXJG7SPQI.jpg?auth=d0e0d477b0e3ae55b04303d74796b4534e628711cf2c645798b1bba188a9095b&smart=true&width=1214&height=697",
+        "publishedAt": "2026-09-11T12:50:07.000Z"
       },
       {
-        "title": "Perú e Italia buscan abrir 2 nuevas rutas de conexión aérea: los avances",
-        "summary": "",
+        "title": "Minera Poderosa en Pataz: de 120 a 1,940 toneladas diarias y un modelo que reparte las obras",
+        "summary": "Poderosa llegó a un Pataz sin carretera ni electricidad y empezó en 1982 procesando 120 toneladas de mineral al día. Hoy trata 1,940 y comparte con el municipio y la población la decisión sobre las obras del distrito.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/peru-e-italia-buscan-abrir-2-nuevas-rutas-de-conexion-aerea-los-avances-en-los-vuelos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/YNXYFRWWAVFT5I5QEKGVD7HLKM.png?auth=9fdbfa1726cdc021596cfc9ca1025a80a12131c9e262736a955ff43471a4c52c&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-09-10T23:04:14.000Z"
+        "url": "https://gestion.pe/economia/empresas/poderosa-la-infraestructura-que-tuvo-que-construir-para-operar-en-pataz-noticia/",
+        "image": "https://gestion.pe/resizer/v2/D3IIHWD4ZJBBRAFGPHUDJTGS4M.jpg?auth=000230f25de2da795c51acb2dd2efc08e51e938574e14f3115cf31fddd05ee6c&smart=true&width=696&height=435",
+        "publishedAt": "2026-09-11T11:18:00.000Z"
       }
     ],
     "sociedad": [
@@ -153,7 +153,7 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUmZxNUhCSW45Q09yX085TzBMa2EtN1dscTNidUVmdXI0LVFrQmRXQmM1UGZLQUxTMXpjTVlmQ1IxWDZHd2RGR19YRFA0dkhnQlBKcmFXZHBsTlJsZEpFNUkxbTVMbVBhUDFTdDZBTk9sTUh6X29YWm05M0ljVmFFMWF1aWVDUFJndm5Rbkc2ajhOZ2Q0QjQtVC12RWpzTlpvcEdIYWY5SUswWmlfM0trWXQwNElFbElVVjdkQ0xVa19PbE82c3I5QmhYT0lidk1mMFhGRF9OMDZ2NWsxdHd1Z0pB0gH8AUFVX3lxTE5KNjZlalQ0dnhZMGF5RDZNTlgxWnNBRHF5TTJSbmpVUkVNbGl4YjNtSEVIYjZfNklpNklJOHBkRjdZSWRMVHdheWppLUxINGN1eGJFX0hTaXBxdzlxRFlzR0NrUkdJMTNhMl9MT2RnRkpkLU9QeXd3S2VzSTQ0VXFNcnB2eWxSYVBqZUsxOHUzRjJ6OEV5Q2lCc2pNd2lRdmtETTlKYkVSLVBwc2t1X3JaeTlZMVJqYkhCOERsTmJLMGF6UDF0X0VaUDYzOXVGLUpwX2t1VWV1TVZ5ckc5ajB5Qm9LUHliSGx6bnlHbEptclppRUx6N3BxQU9wbg?oc=5",
         "image": "",
-        "publishedAt": "2026-09-09T23:47:10.000Z"
+        "publishedAt": "2026-09-10T00:10:00.000Z"
       },
       {
         "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - El Peruano",
@@ -161,7 +161,15 @@
         "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
         "image": "",
-        "publishedAt": "2026-09-03T16:27:00.000Z"
+        "publishedAt": "2026-09-03T07:00:00.000Z"
+      },
+      {
+        "title": "Estas son las comisiones de la Cámara de Diputados que tendrán mayor poder de decisión en el nuevo periodo legislativo - Infobae",
+        "summary": "Estas son las comisiones de la Cámara de Diputados que tendrán mayor poder de decisión en el nuevo periodo legislativo &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeXZsRHloYmRHU3ppR3pKTWg0U0FtSFM1MC1GWjJqeHVVb1M3QzlQelJUWFlGR1gtOWZYQ05iS1VDTlF0aUx6OHphRW1fVmtETVR3Tnc3YXFhQndfc1hRZW1mNnlLNXdDdTlfSlNOUlVPeE5pOXA5ekRsODVnemNSVTB3dzhGTmgwVGFMYVN1Zy1NTnhRVTUxejBjc1lIZ2ZWQjZ0d0cwSHJCUWRMM2xtcHpqWkppOGJXLTZqYzV6RzI0OXc3T1dEZEdiM0VXcjZkZllCcVRYWDMyRlVPS0xkWGdKR2NxWXZPUzVBUzJDSDbSAYsCQVVfeXFMTXgxSkI3ZG1kTXVidU1CMkVvRFNURFFvTmNjaE14UHk1YmFjbklkLThvWGVBWnVnTUtyTXRnM3dRcklHY0JRWE9Kd1FTSDV2QVNDRDlCYW9TOThfZVItcUprZElqazRpd2tDdG4tamVGUGNtYzFhbFEzX1dCanNOY2VMZnEtQmFPYkpvRDJWSDM3U0tZa3VSanlqZkRGOTVIN05tQlhoR2psMlNyNFJUVV9aNnE1bjlidksxNnh6SGlFUGZVcllNUFZPTUpSRVUxVU9UcE9DYlJxWUt3OXEwaDlIWTJPVS1vRlB6SDNBZmZZZHZIcWUtSDZYVGszTGYyMWJSUE8xTUU5RlM0?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
         "title": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú - Al Poniente",
@@ -180,17 +188,17 @@
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
-        "title": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad - EL PAÍS",
-        "summary": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad &nbsp;&nbsp; EL PAÍS",
-        "source": "EL PAÍS",
+        "title": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad - elpais.com",
+        "summary": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad &nbsp;&nbsp; elpais.com",
+        "source": "elpais.com",
         "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdTZGRmVCRWs3MmpCV1RDRzhzeVJPanVZWlNrOG1BWGNOOWxCZFpPY3FJWWZNcFJudkk4YnROSHNxM2pOaHR2QVczaVhmLXN2NE5KLThVcE9KMDI0Vlg5SnFjQUtrcHB5dnNYa2RjdHlTb2g3OWs5RXZ1RmVBZ1FKREFka2MzVTVTTGJiOGxqQmNIODlucGpxLVpHNk1SVWdBeER4Nm85QUw2UjM4bG1aX0UzZEFBRkFNSVlRY0NFWmlzQ0IxNVZoQndieTRvaDRpWlRvc21JdmtaeEtTN3RYUWN0cVZSNVVudVVRejlta0Z3bGRHVkhv?oc=5",
         "image": "",
         "publishedAt": "2026-06-07T07:00:00.000Z"
       },
       {
-        "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - EL PAÍS",
-        "summary": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución &nbsp;&nbsp; EL PAÍS",
-        "source": "EL PAÍS",
+        "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - elpais.com",
+        "summary": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución &nbsp;&nbsp; elpais.com",
+        "source": "elpais.com",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeW5LcjdJa3V6MXlwdU1CVG4wR19lcXM5Ynoydmd3QVYxMWJ5amNPQVdYRnV3d05VZXFfMUc1M05RUTNBRWloaWFCX3U1LTloTHRLQ2NuaXVSWFllTHZ1aWFjVXNXR3M0LTRpVHBaUU9XSjZ4TXVTZ1hKMGhPVHFrem1MZU54RG52SWp5OXVTQlpHMlhYemVacWI5ZUVwTUJVT3d2MkJRdEpIekRCQmtIZDQxaFN0d0dZRE5zZ1NwS1JMd0NWaWlxeGttVFdaMlN2VlEwWFc5S0pfdTVNQ2JMZW9vempBTTJ2TW9CSDBEQU8?oc=5",
         "image": "",
         "publishedAt": "2026-06-07T07:00:00.000Z"
@@ -202,14 +210,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRXdfdE5JZEEzaktKWS1MYVBVdVRqSW92cWRXQlU1RTR3SjI5YXRvd2QzRUdFRXBZTG1uMlNMZTkzMzVkWXZ0QXVFZG96TGVmZ01vS3lwUDRMRklyZzB6RHBpYVA4cC1fRWg3V053bEp6RFgxbnUzZWg1R1NEdC1JaDJmQUVidGhGUl9icXFNM0w5VTJITDdhUGNzMkNqNXNqZ1hjTnhFcEEzdjQ5Xzl3ZWVzYmpWYVM1SXN1UDhHRUFuRktyXzZZQ1U4ZDRpQlBES0dXZS1hLUlpRU5yVDE4Y3FpWno?oc=5",
         "image": "",
         "publishedAt": "2026-06-06T07:00:00.000Z"
-      },
-      {
-        "title": "Así está el país en seguridad, economía y salud, según los datos 👉🏽 https://bbc.in/3Q602JK - facebook.com",
-        "summary": "Así está el país en seguridad, economía y salud, según los datos 👉🏽 https://bbc.in/3Q602JK &nbsp;&nbsp; facebook.com",
-        "source": "facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNVhDaDhPcjlQMHIyVW9aU0o2ci1XOUlSeXU3ZVh6UEluUi05c25RTEpfdzRVOEd5WmVFaWJTRHp4VkpqVGtZUkN2My1VM3JUSDkxSHdQWXZPbW9LTG1VNW1GcHpJU0QtR0NtaXh0VnFxSUlWaUp0bTNDNzB0QUUzeGtYaThQS0gyVzBOQ29kS0k5cFNCUGtfand3cnVGNXF4NTgzZWZHa1ZNdFdGS0hZazNMbkEwTk1saUdMTWY4d2dKMjFKZUhOUklkWm5vdGRhOUlPWDRhRDJ6Sm9pWGltU3c0blk?oc=5",
-        "image": "",
-        "publishedAt": "2026-05-28T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -288,9 +288,9 @@
         "publishedAt": "2026-08-25T12:02:15.000Z"
       },
       {
-        "title": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC - cosas.pe",
-        "summary": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC &nbsp;&nbsp; cosas.pe",
-        "source": "cosas.pe",
+        "title": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC - Revista COSAS Perú",
+        "summary": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC &nbsp;&nbsp; Revista COSAS Perú",
+        "source": "Revista COSAS Perú",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNV0VkdVhtZ2g2YXZjR1hyZHZFMmMySExGRENzOFFLNU5MeF9uT0h3MHdSb0VyRGg3ZVNpeVQ2MnhUczRoMHptZlVmVDd3ODk3QVpvb192d2RQOF9nYjZscEF2TkRDNUMyXzE1SnFSTV96NVAtekI5MS1HQWJGYjV5ZmtFTGpEV3d2eU45OWk4ZXY0ZXJQd28tY3NQSnAyMVpURVk5WGNtZEstRE0zc2V0Y1BsdTM4aG9vOG1lTWFxUTFPem4tUWVWcERTejdMcktVX1EzM3hiLTZSZEtvR2VOalh30gHnAUFVX3lxTFAtN1VPcm1jMWhMWVp4UG9CRmNCZTkxODFteEZ2UmNvUTJXdnRkNXpxX0JyaE1UR3hhQ0pLZGxEcGtUd2xHTzRTTlBRMnVHMnQteHpnODJ6VGdwY2I2aXprS05XMm1lSWRoVWJyVkdfRVViM0JiN0hQQUJ2Um8zaTNpVlM1bDkwbnNPTHJ6dFlQbGltdW85M3V1d0RjMFhFbDBON2tBcE5qeF9MWUplZzQ5VXhmTm9YOUFsbkpUeFlmQXBtdUVNcHhXUXhhRjV0dmJSNXAzX1pTVlhLeVc3bzNiZFBhY3lVbw?oc=5",
         "image": "",
         "publishedAt": "2026-08-20T07:00:00.000Z"
@@ -304,10 +304,10 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
-        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - Instituto de Ingenieros de Minas del Perú - IIMP",
-        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; Instituto de Ingenieros de Minas del Perú - IIMP",
-        "source": "Instituto de Ingenieros de Minas del Perú - IIMP",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRE5fZ3JJNF84QkRUbkg3dVFHbWlZbER1STBIYXZMdlU4VnUtYlo5MnROakM2RE1JNC1CbGswOVUyZG1iUWxDeTAtRzY0aEJLY1d3bFdRMlJ1elE5Qmp1UGx0S2I4LWdlSF9SQi1ZSVFveEJwRE1iakhBVTMtUEthOXZyVU1TdlM1dFNNR3ljb3hrR0pBNWpJWTlHUWFzbU1jNWtXVndDclN0Ul9RNGZwSHh6aVpxWWRtNWRnUk1xMHhIVU10NWx3RTQ3QXVyc3BIYm4zTDJXbl8?oc=5",
+        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - Revista Minería & Energía",
+        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; Revista Minería & Energía",
+        "source": "Revista Minería & Energía",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNGRFXzc5Skp6cnFkd0Zfbmt3NVpwcC04eXJaekp6Z094a096R013M29yQ3hTUlFzRFF6eTE5SUZ0VHhLQjVEdTFIRlIyUERGM09nTzVZZHNXdmFVR3RITDF3X2RTeUdNb3FnT2otTUlBeGh0TUtKQWFzcURMY1JCMEhSdzM3cnpuUnBrUkh2TEpJOWZOMGY3bkkzTmE3RlY2YjJ3S0dZdVRqdFRBcDN3RFl4blQxeGVuTnM5WHVDRjdmUG1JZExSam9hLU8?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
@@ -354,17 +354,9 @@
         "publishedAt": "2026-09-10T20:55:35.000Z"
       },
       {
-        "title": "Expomina Perú 2026 | MCh en terreno: IA en minería: ¿reemplazará trabajadores o transformará sus roles? - mch.cl",
-        "summary": "Expomina Perú 2026 | MCh en terreno: IA en minería: ¿reemplazará trabajadores o transformará sus roles? &nbsp;&nbsp; mch.cl",
-        "source": "mch.cl",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWW5aYXotMWtxQWJ1OHpJV2d6ZVVhUHFidGNCREFnTXRrQTYySzRWTFRseVNQNzJhTVZLTER6OWkxRUdtTkVVcmZENkE1VldWNTJuMDRuZm0wbHVOVWE0VTA2YXJlSWtGYklfaEh0Q3I0SGYwa3NkSU9wdkJtYmszWWJ5bHF0UUZmTnJKUDI0bXBzd2lNV1I5eHROTlhBSzJNQWNaQ1FaaTRSVkpGUERDS0RSUjl1U3Y1?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-10T20:52:18.000Z"
-      },
-      {
-        "title": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial - telesurtv.net",
-        "summary": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial &nbsp;&nbsp; telesurtv.net",
-        "source": "telesurtv.net",
+        "title": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial - teleSUR",
+        "summary": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial &nbsp;&nbsp; teleSUR",
+        "source": "teleSUR",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzFCZlBlb0hJQ2QxVS1ZUzdTTTBMWGdETGRkSVR3ZHByRjBvVU9SdkU3RmhQRzZPN2sybE5jbmFvdkQxVEdEVVQ0amFOOFh6NkhOY1Q3S0l0X0J5aXNWWi13NTdmWElJXzZ3eVJKN2ZCSzNxRWxwM1o5aDM1OHVJcG5EUlpVQm1fM2hpWQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-10T11:34:25.000Z"
@@ -408,6 +400,14 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVHB2d1J3cHpjczFGaXIwbFhfVmd2RUtxNU5OV0lzWm52ZjllRVlLcmplZUVXSk56eTVMSTNUY25hTElBSkFsRXZFYXlRT1l5N1NucTBLc1hnd3NDMUozTWtiZTlraXkzWXl6eFQ0X1dHZWpCTnRUZjMtUTczWnVuc3NjV2NiQzI1Z01VZHc2RF9xNWRkenQxM3d3ZEhhUVdIOWVqb0gwWlprbzU3WGhpZzB3V3YxZHBPNmJaNkN5VmZUdFhXbmfSAeABQVVfeXFMTkJ3UzFoczdBLUU3RVJxTjR0Tk8yaEdpQXNCOXJOZjlURjZBd1lyZFhjenhrT1dQN0dqNWVJUUVqV0NwYTF0VDVZeHVxVGFaR1pLX0lOeEM0dTBSOWcxQmtoRXVjTE84dzhzc19DNE42WWtzSEg3b1ludUNGeFYyS1EyUER2MnMyZzVSNWd4aklEbjhxb1RVUVZRdDJncUh0VGFySzNfcjFVVVIydTdvSGc4LXpfN2tYRlliYkU5X3NjOGk5V1IxWksyWVpPUFBocmtSaC1zNTAzZmlWa3ExeFE?oc=5",
         "image": "",
         "publishedAt": "2026-09-09T16:37:00.000Z"
+      },
+      {
+        "title": "🔴🔵El Congreso y representantes de la gigante tecnológica establecieron una ruta de trabajo orientada a la protección de datos, la regulación de la IA y el resguardo de niños y ad",
+        "summary": "🔴🔵El Congreso y representantes de la gigante tecnológica establecieron una ruta de trabajo orientada a la protección de datos, la regulación de la IA y el resguardo de niños y adolescentes en plataformas digitales. 🌐Más información en: https://www.exitosan &nbsp;&nbsp; facebook.com",
+        "source": "facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYXI5YVo2cGxoMHZZM0kzM2NkVWlCNEFDWEthQXVpa2pPWE1QQXhIMFFvM0Z2Umd0Z1NuMS0xQXdQc0hzaEppZElTQ1IwbnVBVF8xM3h3Q0NqTTAtT09TWmg1UkxSNDdQTWtzOTduRXRNa0ViSkQzcTZTQTJLZlF2d3ppVTlxNnF0aHZhY3B0YzhKRXJ4VDVIMGlZTlhxTTZKQ0dLV21fcVJZUjIzcHV4MzMybm5YMWxQTlUwTllUdnZzWWxQNVpBMnFaX2J6M2pOdjVIbEZ0SWl3NVcxanplWWg0c2E?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-09T02:51:42.000Z"
       }
     ],
     "tendencias": [
@@ -455,7 +455,7 @@
         "title": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” - Infobae",
         "summary": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY1JKYUdUNlpDMThFMDBMcUtpSm9WX3hDME5FdlhTVkIySnFidkNRV3RNa2Z0LVB0ZzhIUlNPdnFSM3dGQl9SRXl2XzdRVVZNS3JoYkVoZzE5WDhnWDVpdlRCNVVWbTNYTjZHVEF5cERtNEZnT0RyRmEzUUlwT0JVcEhnRXEzWExJN2lxdjEtcHZCUm1vcVpWQ1VUQ21POUhFb2Fnb1FiaHFmZHg5YnctUWJfQk53Y0M1U0ZKSWhVVlRoYXFycEZDeFk1SdIB5gFBVV95cUxOX2lXTFZfYS02czhMamE1UE01SmozQVIzLXdxbTVwRFlJQlJhaGI2XzdnVlprZkVQb0J1MjllZ0pJbk9vS21OcWJTYUQ0OU1FLW1XNU04cXRRZUtvNFF6dGV5X0VyR2hFSEd1TU1yMl9EMkdVTFZxWlB2ZzZ1cHpMcHZLSVptbmpaTFpkQVkzOGV3MHdCN0FkUm1qWTJ5aWxVVkVNTmRFSkI0czZhZkM3SGtaYmtDSy0tVVJCNHE0QngySUFLN05tY2xESFVDRTh1M0dWeUgydHVyb1p1dkdhMUN3VkhUUQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY1JKYUdUNlpDMThFMDBMcUtpSm9WX3hDME5FdlhTVkIySnFidkNRV3RNa2Z0LVB0ZzhIUlNPdnFSM3dGQl9SRXl2XzdRVVZNS3JoYkVoZzE5WDhnWDVpdlRCNVVWbTNYTjZHVEF5cERtNEZnT0RyRmEzUUlwT0JVcEhnRXEzWExJN2lxdjEtcHZCUm1vcVpWQ1VUQ21POUhFb2Fnb1FiaHFmZHg5YnctUWJfQk53Y0M1U0ZKSWhVVlRoYXFycEZDeFk1SQ?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
@@ -549,7 +549,7 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNnBsekZxUkhLV3VkTVl6S1dxLUlJaXZPZjF1TE9GMFJnTUJRQWtGLVlPQTlFNVZabVdSeGRscGFTbmRJRThMdW5zRXhRaXA2dU5tNk5nTVl0ZmFadjJPeW9yTzJtY3FwUUFYVFBUTlkySzNXdm56dTZQa1p6V0ZtRS0xeHdWSmotTjM4TFpXOEZsODRRTnI3UHFxVWdqNlJuRVRRV3NyU0dnZ0trX3NtbHRzaHAyYk5RTmlHTkctR1A2cXNuQlJnUzFTUG1BcE0tSGdtc3JZUXJYdnQ2VS1jR3kzajBkOEUwZGx0elB2dTN5Q0pjaG1tV3NoR3HSAZcCQVVfeXFMTWMydDVBdFhCMXdLbXVsZXBsZWZYeklCZnNsbjVFUTFJVGtzUjRIWTFfQ2VRTGMweG0zZDdKMkR0blVLS0JTMkxOZk0wcmxWNzVsYTdpT3lFNEVhTDRzOTZ4MFd3LVotS0tMc2QyNTZfS1dFTEJnRFBmQlhmRUVFRjNUMVNuYnpyWDVoakVIb21NMXZ6aHFLSHpiM2FTTTdweS1UalhYY2w1WVFXLWtCaUxOdlZPemVfTnRldWx1VV9KSHpSaENIUDQxQWRzeE1Cc0pyTi1WbTVQUER3STZsRm5SNUFzZ3E5N3U4N3lFclZ1UExrQkU2R2dTZnh6M1pUdzNjQzVTVmlWaElwQ1c0WWlLR1NFTmNR?oc=5",
         "image": "",
-        "publishedAt": "2026-09-10T23:48:04.000Z"
+        "publishedAt": "2026-09-11T04:13:00.000Z"
       },
       {
         "title": "Agenda cultural en Lima del 3 al 10 de setiembre: Ricky Martin, La Tarumba, ‘La Profesora’ y la apertura del nuevo Paradox Park - Infobae",
