@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T21:36:16.140Z",
+  "generatedAt": "2026-09-11T00:08:14.919Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -22,6 +22,22 @@
         "url": "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
         "image": "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
         "publishedAt": "2026-09-01T00:00:00.000Z"
+      },
+      {
+        "title": "Pleno de la Cámara de Diputados interpelará a ministro del Interior, César Astudillo, el 17 de setiembre",
+        "summary": "El pleno de la Cámara de Diputados del Congreso de la República aprobó, este jueves 10 de setiembre, interpelar al ministro del Interior, César Astudillo, el próximo 17 de este mes, a las 10:00 a.m.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/congreso-camara-de-diputados-mociones-de-interpelacion-ministros-defensa-interior-rafael-belaunde-cesar-astudillo-pataz-seguridad-ciudadana-pnp-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/HCURLEGN6ZH7DLTYSWLYECKMFU.jpg?auth=ccc1d2f94e4338251592d05a354ca18a475605c14792976ab617ff55e3257362&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-10T22:28:16.000Z"
+      },
+      {
+        "title": "El nuevo Congreso bicameral alcanzó un nuevo récord de mujeres, pero el Senado aún está lejos de la paridad",
+        "summary": "En 70 años, las mujeres pasaron de representar apenas el 4% del Congreso a ocupar el 37% de los escaños. Pese al avance, la nueva bicameralidad evidencia una brecha pendiente: solo el 27% del Senado estará integrado por mujeres en el gobierno de Keiko Fujimori",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/ecdata/congreso-keiko-fujimori-senado-diputados-bicameralidad-palacio-de-gobierno-mujeres-martha-chavez-fuerza-popular-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/5CNBAEYKWVE53IHCVZAYKUV5CA.png?auth=8e7a13e206d920b70ddfca603c0c9325c76a88346ce797f823ffcb326f891177&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-09-10T22:02:00.000Z"
       },
       {
         "title": "Marco Rubio y el Escudo de las Américas: ¿En que consiste esta iniciativa y cuál es la importancia para el Perú?",
@@ -48,14 +64,6 @@
         "publishedAt": "2026-09-10T21:09:06.000Z"
       },
       {
-        "title": "Ministro del Interior será interpelado por el pleno de la Cámara de Diputados el 17 de setiembre",
-        "summary": "El pleno de la Cámara de Diputados del Congreso de la República aprobó, este jueves 10 de setiembre, interpelar al ministro del Interior, César Astudillo, el próximo 17 de este mes, a las 10:00 a.m.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/congreso-camara-de-diputados-mociones-de-interpelacion-ministros-defensa-interior-rafael-belaunde-cesar-astudillo-pataz-seguridad-ciudadana-pnp-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/HCURLEGN6ZH7DLTYSWLYECKMFU.jpg?auth=ccc1d2f94e4338251592d05a354ca18a475605c14792976ab617ff55e3257362&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-10T21:07:58.000Z"
-      },
-      {
         "title": "Marco Rubio en Lima: secretario de Estado de EE.UU. se reunió con presidenta Keiko Fujimori en Palacio de Gobierno",
         "summary": "Marco Rubio en Lima EN VIVO: actividades, reuniones y últimas noticias sobre su visita al Perú",
         "source": "El Comercio Perú",
@@ -70,80 +78,72 @@
         "url": "https://elcomercio.pe/politica/congreso/exministros-y-excolaboradores-de-pedro-castillo-reaparecen-como-asesores-del-congreso-tlcnota-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/OUPESGYE7NFNJIMW3GUZGJOH34.jpg?auth=060c1f33845459eb30d0ba843020a09d48539bce9184a75aa1cb634eda569f20&smart=true&width=1200&height=647",
         "publishedAt": "2026-09-10T20:00:52.000Z"
-      },
-      {
-        "title": "Marco Rubio tras reunión con Keiko Fujimori: “Estamos empezando una nueva era, una era dorada en las relaciones”",
-        "summary": "El secretario de Estado de los Estados Unidos, Marco Rubio, saludó el anuncio de la presidenta Keiko Fujimori de que el Perú se incorporará al Escudo de las Américas y dijo que ambos países están iniciando una nueva “era dorada” en sus relaciones bilaterales.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/actualidad/marco-rubio-tras-reunion-con-keiko-fujimori-estamos-empezando-una-nueva-era-una-era-dorada-en-las-relaciones-escudo-de-las-americas-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/23Z2TAET3JGTBDJO264W3X45KA.jpg?auth=7e074e6d8e78778c02d83a772b88443d491da499db72d71ff792304913ac7bed&smart=true&width=1920&height=1280",
-        "publishedAt": "2026-09-10T19:00:10.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Yanacocha y otras minas de oro de Cajamarca se agotan: Regulus ve al cobre como opción",
-        "summary": "Las minas de oro de Cajamarca están cerca del final de su vida útil y el cobre asoma como relevo. John Black, CEO de Regulus, contó nueve proyectos en la zona y explicó por qué AntaKori busca operador.",
+        "title": "Puerto de Chancay: lo que dice Cosco Shipping ante cuestionamientos de Estados Unidos",
+        "summary": "Cosco Shipping consideró que más allá de las preocupaciones de Estados Unidos por la inversión de China en el Puerto de Chancay, sería mejor que apuesten por el futuro puerto de Corío.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/nueve-proyectos-de-cobre-bajo-las-minas-de-oro-de-cajamarca-el-plan-de-regulus-resources-noticia/",
-        "image": "https://gestion.pe/resizer/v2/SKA7O554VFHFXKDXWOBOXTJV4E.jpg?auth=4632fadbd42c85e64aeecdcb8f8854c9156d43161a2c1833c959fa1d025c6716&smart=true&width=738&height=414",
-        "publishedAt": "2026-09-10T21:30:36.000Z"
+        "url": "https://gestion.pe/economia/puerto-de-chancay-que-dice-cosco-shipping-ports-ante-los-cuestionamientos-de-estados-unidos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/MLZ2O2X24ZDMXO5HJJTOFWRPBQ.jpeg?auth=8ee853712113b04e35797d13a9ced88ac25eb7edfd2d898ee8558f29be8f3ecc&smart=true&width=6000&height=4000",
+        "publishedAt": "2026-09-10T23:55:37.000Z"
       },
       {
-        "title": "Keiko Fujimori destaca inversión de US$59 millones de PepsiCo y pide más empresas que apuesten por Perú",
-        "summary": "Keiko Fujimori destacó la inversión de US$59 millones de PepsiCo en su nuevo centro logístico del Callao y pidió más empresas que apuesten por Perú.",
+        "title": "Wayra Solar inicia energización y apunta a operar comercialmente a fines de 2026",
+        "summary": "Wayra Solar de Orygen inició su proceso de energización en Ica y avanza hacia su operación comercial. Conoce los detalles del proyecto renovable.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/keiko-fujimori-destaca-inversion-de-us59-millones-de-pepsico-noticia/",
-        "image": "https://gestion.pe/resizer/v2/HRYYJ2HS2JGMHGHPS6BFBOELKI.jpeg?auth=394cd7ab6e2b94d669a31554a6598e0d4c3c0b6e3c40948bf3252ff74ea915f1&smart=true&width=1600&height=1200",
-        "publishedAt": "2026-09-10T21:29:33.000Z"
+        "url": "https://gestion.pe/economia/empresas/wayra-solar-orygen-inicia-energizacion-y-apunta-a-operar-en-2026-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CVWL4RKQ2VERLATDCUBSRBPKVI.jpeg?auth=5441164157ef18016cf8e80378501f4c978a0cd779938a6861ec20b78c79250c&smart=true&width=1600&height=899",
+        "publishedAt": "2026-09-10T23:46:06.000Z"
       },
       {
-        "title": "Marco Rubio: “Es importante enseñar los beneficios a los ciudadanos en seguridad y económicos”",
-        "summary": "“Nos aseguraremos de que los países que cooperen con nosotros podrán responderle a su pueblo como consecuencia de esta asociación”, sostuvo el secretario de Estado de EE.UU.",
+        "title": "BCRP fija tasa de referencia en 4.25% en setiembre, ¿cómo evoluciona la inflación?",
+        "summary": "Durante el 2025, el instituto emisor efectuó tres recortes a la tasa clave, en enero, mayo y septiembre, de 25 puntos básicos en cada caso. El presente año, no ha realizado ningún movimiento.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/marco-rubio-es-importante-ensenar-los-beneficios-en-seguridad-comercial-y-economicos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/P7C3OIBIPNGCDHTITXEUPXPI6A.jpg?auth=17fd4b8fd29dd1d807dfb15845077f10ad55dfdbc508dfc99f26a19198afd1d0&smart=true&width=1040&height=705",
-        "publishedAt": "2026-09-10T21:27:12.000Z"
+        "url": "https://gestion.pe/economia/bcrp-fija-tasa-de-referencia-en-425-en-setiembre-como-evoluciona-la-inflacion-noticia/",
+        "image": "https://gestion.pe/resizer/v2/OD3JFI7U6NEQ3MR4M2QANKLSPQ.jpg?auth=82d34035ffbeb3b369aa8bc56cb0fdc24f4c0ce71cc9efa16fcc6fc7c1536291&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-10T23:18:44.000Z"
       },
       {
-        "title": "Línea 2 del Metro de Lima: culminar obra tardaría 15 años en total, advierte Ositrán",
-        "summary": "Verónica Zambrano, presidenta de Ositrán, mostró su preocupación porque la obra de la Línea 2 del Metro de Lima avanza sin un cronograma actualizado.",
+        "title": "Produce emitió 19 medidas de ordenamiento pesquero para enfrentar El Niño",
+        "summary": "Titular del sector señala que se busca reactivar la pesca de 280,000 toneladas de recursos a través de la pesca artesanal",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/linea-2-del-metro-de-lima-obra-podria-tomar-hasta-15-anos-en-acabar-advierte-ositran-noticia/",
-        "image": "https://gestion.pe/resizer/v2/PJFKUJ5WCRFLXJI3FYKMOSNM2Y.jpeg?auth=b701e723153003b7700772219c6442690ffedf0992ae4de2ef94110b4b2717b2&smart=true&width=1000&height=563",
-        "publishedAt": "2026-09-10T21:09:21.000Z"
+        "url": "https://gestion.pe/economia/produce-emitio-19-medidas-de-ordenamiento-pesquero-para-enfrentar-el-nino-noticia/",
+        "image": "https://gestion.pe/resizer/v2/BMYSGVKCXFECPPULXQ6DKAKFMQ.jpg?auth=d304fb85f787af891beb37d3823d55adb6f63fca8ecb039d8d64f005b36d7c96&smart=true&width=1800&height=1200",
+        "publishedAt": "2026-09-10T23:07:34.000Z"
       },
       {
-        "title": "PepsiCo invierte US$59 millones en mega centro logístico para fortalecer su operación en Perú",
-        "summary": "PepsiCo inauguró un nuevo mega centro logístico en el Callao para ampliar su capacidad y fortalecer sus procesos de almacenamiento y distribución.",
+        "title": "Perú e Italia buscan abrir 2 nuevas rutas de conexión aérea: los avances",
+        "summary": "",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/pepsico-invierte-us59-millones-en-mega-centro-logistico-en-peru-noticia/",
-        "image": "https://gestion.pe/resizer/v2/JNPCAHMIZZAGLBVLBYOWPGXDIM.jpg?auth=1b62acb1e9c842c78252a155cd9536c8a2ce55887758ea266c9d0c99f00f9363&smart=true&width=4596&height=3064",
-        "publishedAt": "2026-09-10T20:06:15.000Z"
+        "url": "https://gestion.pe/economia/peru-e-italia-buscan-abrir-2-nuevas-rutas-de-conexion-aerea-los-avances-en-los-vuelos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/YNXYFRWWAVFT5I5QEKGVD7HLKM.png?auth=9fdbfa1726cdc021596cfc9ca1025a80a12131c9e262736a955ff43471a4c52c&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-09-10T23:04:14.000Z"
       },
       {
-        "title": "Sheput anuncia que el aumento de la RMV a S/ 1,300 será en dos tramos, el primero este año",
-        "summary": "Además, el titular del MTPE cree que este año también se otorgaría el bono para las MYPES",
+        "title": "El Niño: Perú podría crecer 6% tras el fenómeno y no sería solo un “rebote”, según BCP",
+        "summary": "Una vez que acabe el fenómeno El Niño, el Perú podría llegar al 6% de crecimiento y se trataría solo de un “rebote”, indica el BCP.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/sheput-anuncia-que-el-aumento-de-la-rmv-a-s1300-sera-en-dos-tramos-el-primero-este-ano-noticia/",
-        "image": "https://gestion.pe/resizer/v2/HWWW5TNF3JHEXLQEOJ6GILR7G4.jpeg?auth=904c209ce00508b933a9188357e3242c3fda97f28bbd92f3942dc65fe65d94ad&smart=true&width=2560&height=1706",
-        "publishedAt": "2026-09-10T19:39:32.000Z"
+        "url": "https://gestion.pe/economia/el-nino-peru-podria-crecer-6-tras-el-fenomeno-climatico-y-no-seria-solo-un-rebote-segun-bcp-noticia/",
+        "image": "https://gestion.pe/resizer/v2/MOCYV2DJORBPBGA4C7OZI44BXM.jpg?auth=1708acb97409293b7dd23d12ee25584a9c4f66467ee7559faa1f8031a2ca15d1&smart=true&width=1600&height=1066",
+        "publishedAt": "2026-09-10T22:41:58.000Z"
       },
       {
-        "title": "Tipo de cambio sube hoy en Perú: ¿En cuánto cerró el dólar este jueves 10 de septiembre?",
-        "summary": "El jueves 29 de setiembre, el dólar en Perú comenzó el día con un incremento, mientras los inversionistas evalúan el escenario de tasas de interés en Estados Unidos y el impacto de las tensiones geopolíticas.",
+        "title": "Ciberataques pueden costar hasta US$ 4 millones: Shadow IA, la amenaza desapercibida",
+        "summary": "Ciberataques en tiempos de inteligencia artificial pueden costar hasta US$4 millones a empresas. Conoce los riesgos de la Shadow IA y las brechas de ciberseguridad que enfrentan las compañías peruanas, según Vigilantium y Adex.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-viernes-10-de-septiembre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
-        "image": "https://gestion.pe/resizer/v2/NQHVI63MQRDHJID4CBCQ7YODJY.jpg?auth=116d3e58b3385eb44cbd1e6b39af6af24f8ea2405833e2250a31d12bd1ad98e3&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-10T19:30:53.000Z"
+        "url": "https://gestion.pe/economia/ciberataques-pueden-costar-hasta-us-4-millones-shadow-ia-la-amenaza-desapercibida-en-empresas-noticia/",
+        "image": "https://gestion.pe/resizer/v2/PTL3QVRC7REFNFPAZMQAFQVY3A.jpg?auth=4b73fa158b58d067a253a0aedeeb061d88811c90466f6cb16abeef28b3e246b6&smart=true&width=4024&height=2688",
+        "publishedAt": "2026-09-10T22:39:49.000Z"
       },
       {
-        "title": "Cotización del dólar: ¿seguirá la tendencia a la baja en las próximas semanas?",
-        "summary": "La expectativa del mercado está en la decisión que tome la Reserva Federal de Estados Unidos en su próxima reunión del 16 de septiembre, ¿por qué influye en la cotización del dólar en Perú?",
+        "title": "¿Fraudes en publicidad?: Indecopi habilita plataforma online para reportar estafas",
+        "summary": "Indecopi habilita plataforma online para evitar estafas en compras a partir del reporte de cada una de las prácticas engañosas que puedan padecer los consumidores.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/mercados/cotizacion-del-dolar-seguira-la-tendencia-a-la-baja-en-las-proximas-semanas-noticia/",
-        "image": "https://gestion.pe/resizer/v2/D6E2UAES3ZDI7HYHRBEPWHQ2JU.jpg?auth=1e2478dd71c554d86b6ebfbcf7c6c6186ac36650d324d844c16b2e3727cc23e0&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-10T19:15:36.000Z"
+        "url": "https://gestion.pe/peru/fraudes-en-publicidad-indecopi-habilita-plataforma-online-para-reportar-estafas-en-compras-noticia/",
+        "image": "https://gestion.pe/resizer/v2/XY4IQ64PBNGIBAXTV5HWA7E7NY.jpg?auth=d453ad7833a760065a34fc56d61447af9779ca8ab5a412180c96d02b21cd7b4a&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-10T22:38:00.000Z"
       }
     ],
     "sociedad": [
@@ -180,6 +180,14 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
+        "title": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú - Al Poniente",
+        "summary": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú &nbsp;&nbsp; Al Poniente",
+        "source": "Al Poniente",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2lTSUtNanNoaFpqZkxDRDh0X0hNdFpUcGVvdllPamNXb2t0MXhIQUZNUUZxTm1Bel9CSUVHT1c4b3RTdlRKSlhGRFJUTjY4aEM2UTQ0bDlVSF80Zk9VekliWXAzVzJjcDdmRnhUWW5VSzRxdGt2ZnEzSDBPXzBhbzFpZ2NobUVPLWM3T3QxTGxjSE0?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-29T07:00:00.000Z"
+      },
+      {
         "title": "Keiko Fujimori, mensaje a la Nación: fecha, lugar y ejes que marcarán su primer discurso como presidenta 2026-2031 - Infobae",
         "summary": "Keiko Fujimori, mensaje a la Nación: fecha, lugar y ejes que marcarán su primer discurso como presidenta 2026-2031 &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -200,14 +208,6 @@
         "summary": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad &nbsp;&nbsp; EL PAÍS",
         "source": "EL PAÍS",
         "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdTZGRmVCRWs3MmpCV1RDRzhzeVJPanVZWlNrOG1BWGNOOWxCZFpPY3FJWWZNcFJudkk4YnROSHNxM2pOaHR2QVczaVhmLXN2NE5KLThVcE9KMDI0Vlg5SnFjQUtrcHB5dnNYa2RjdHlTb2g3OWs5RXZ1RmVBZ1FKREFka2MzVTVTTGJiOGxqQmNIODlucGpxLVpHNk1SVWdBeER4Nm85QUw2UjM4bG1aX0UzZEFBRkFNSVlRY0NFWmlzQ0IxNVZoQndieTRvaDRpWlRvc21JdmtaeEtTN3RYUWN0cVZSNVVudVVRejlta0Z3bGRHVkhv?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-07T07:00:00.000Z"
-      },
-      {
-        "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - EL PAÍS",
-        "summary": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución &nbsp;&nbsp; EL PAÍS",
-        "source": "EL PAÍS",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeW5LcjdJa3V6MXlwdU1CVG4wR19lcXM5Ynoydmd3QVYxMWJ5amNPQVdYRnV3d05VZXFfMUc1M05RUTNBRWloaWFCX3U1LTloTHRLQ2NuaXVSWFllTHZ1aWFjVXNXR3M0LTRpVHBaUU9XSjZ4TXVTZ1hKMGhPVHFrem1MZU54RG52SWp5OXVTQlpHMlhYemVacWI5ZUVwTUJVT3d2MkJRdEpIekRCQmtIZDQxaFN0d0dZRE5zZ1NwS1JMd0NWaWlxeGttVFdaMlN2VlEwWFc5S0pfdTVNQ2JMZW9vempBTTJ2TW9CSDBEQU8?oc=5",
         "image": "",
         "publishedAt": "2026-06-07T07:00:00.000Z"
       }
@@ -254,6 +254,14 @@
         "publishedAt": "2026-06-18T07:00:00.000Z"
       },
       {
+        "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - Gan@Más",
+        "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; Gan@Más",
+        "source": "Gan@Más",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXMxcGUzS0xxcEpXcWxtZkl3cDhPTDk2bEZENlRIcmduaVZVRlhvY0FqOUNCdVF5Y0QxaTVyNDI5ZDJGbXdqWUJ3ZEd3QVBXaDQtQmd2X3V6aW1SR21lY05QSFdzeUhGZUtDZkUwS25BU3VIX04wbXpMRjBETElBSFlTbi1vVDBvaENJTFV1SjlCVzVnSzk5Z1htYmR2clVNZFB3STJ0ajAzUnM?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-17T17:04:18.000Z"
+      },
+      {
         "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
         "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -268,14 +276,6 @@
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
         "image": "",
         "publishedAt": "2026-06-10T07:00:00.000Z"
-      },
-      {
-        "title": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú - Business Empresarial",
-        "summary": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BXc0NCUE53Q1dicXN4ZXFJY3RHNmhlQnh1UG81VHItc29JbE5KdDViOTB1OW5Ja3V4dTdWRWZGLW1zRlVHUVJPNFMyS2h6YzR0THpaeC1EbmdfTlJNQzB4RkJ2VU9wZWN5YjZuelBIUG1DZlVxeURaVTdIdjZTRGdtUmRKaEEzY2dKd2pKS0h2RjUtN1JualhXY3lPbVdIdDlaRFdnRWNUd2p2b1RtTjJQcUx6d21ZNkdkT0dSWU9hV3Nya09UckFMNmFIUQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-05-27T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -320,9 +320,9 @@
         "publishedAt": "2026-07-08T10:21:37.000Z"
       },
       {
-        "title": "La paradoja peruana: Crecer sin innovar - Revista Gana Más",
-        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; Revista Gana Más",
-        "source": "Revista Gana Más",
+        "title": "La paradoja peruana: Crecer sin innovar - Gan@Más",
+        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; Gan@Más",
+        "source": "Gan@Más",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6aWxfR3diYXRQbUZqekNmcGgxQVkxUVl6TVlwaWR2QVhhYzlkcnY3bXBVUnVHcUhXZkZObW50MzFmX2VOaUg3MW52UGNlQkE1bFh2LXY2alNyWWdrNThsZ2F0UGY5bUN4VmdMMDBtdWdaX0dIb0ZmMA?oc=5",
         "image": "",
         "publishedAt": "2026-06-25T07:00:00.000Z"
@@ -336,9 +336,9 @@
         "publishedAt": "2026-06-10T07:00:00.000Z"
       },
       {
-        "title": "Innovadores peruanos podrán participar en competencia internacional de invenciones - andina.pe",
-        "summary": "Innovadores peruanos podrán participar en competencia internacional de invenciones &nbsp;&nbsp; andina.pe",
-        "source": "andina.pe",
+        "title": "Innovadores peruanos podrán participar en competencia internacional de invenciones - Agencia Andina",
+        "summary": "Innovadores peruanos podrán participar en competencia internacional de invenciones &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
         "image": "",
         "publishedAt": "2026-05-29T07:00:00.000Z"
@@ -346,20 +346,20 @@
     ],
     "ia": [
       {
+        "title": "La IA creada por un peruano que busca acabar con las reuniones interminables y convertir acuerdos en tareas - TVPerú",
+        "summary": "La IA creada por un peruano que busca acabar con las reuniones interminables y convertir acuerdos en tareas &nbsp;&nbsp; TVPerú",
+        "source": "TVPerú",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVEhzOFlyU2NmNGIzYVY5ejlBNGZpelJDT0RhWE9Bc1NEV0RFMFBYRUNEUWFkbzd6OWtWczk0eGFuSDNLZ1R2WTFQcDRVRERQQ241M3Q3UkxoWXZiY0dwVjBvSlExQ1dCX3FnNE1nLVFYQXNsTWNyNnBEd3k2YlZxQ1NBME11V3VHQjFuRkFRN2NaT2hfWFdvbGVpTmdzUGROQ1JnU2U0SEhxblpaOE1fRmYwaWVxQ3J3WjYyV2tTMFBQVGp2OHBsQmxxcnBmenF4c1diYWo0WjJJcy1mbnM4VHh1Y2htVWVp?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-10T20:55:45.000Z"
+      },
+      {
         "title": "ICPNA y Miami Dade College formalizan alianza para impulsar nuevas oportunidades de capacitación en tecnología e inteligencia artificial - diarioelnoticiero.com",
         "summary": "ICPNA y Miami Dade College formalizan alianza para impulsar nuevas oportunidades de capacitación en tecnología e inteligencia artificial &nbsp;&nbsp; diarioelnoticiero.com",
         "source": "diarioelnoticiero.com",
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORmpMZ1FhengyVHRvbkhjSE1YU1lHZzh3VTRmQVdoTWNpWk92bDVIUmJZTW9VWVk2RF9kbHJ4alkzWWRINUVFcHJaR055TzNXTXdVRXFtdklpQVVSeDJDcFpaUXFUWUM1Rmd6R3RnczVSOVZwOXJ3YTJFdktJbnJRSUhMQnF1cHludmpUY3NBZktEYlVyVU9FVmI3eDlBZ25BbDhqamdKT3pYMVh4R0lYMUpycHY3aldlRVhoTkdBWlViaG51ZWxHMlpQT0o3NEFtTXM5OFJ6U0M3SGpldEp5akY1Vm5hQ2gxWHBRQ0ctelc3QlBzSkhVMG1zYw?oc=5",
         "image": "",
         "publishedAt": "2026-09-10T20:09:56.000Z"
-      },
-      {
-        "title": "Perú y Estados Unidos preparan alianza para incorporar inteligencia artificial al Estado - Eloriente.com",
-        "summary": "Perú y Estados Unidos preparan alianza para incorporar inteligencia artificial al Estado &nbsp;&nbsp; Eloriente.com",
-        "source": "Eloriente.com",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORTl2NkoxbHVvZGtBLWkyQTRzY25KWll1MnM0d3FKZEc3U2o1SUlPQmVJb092bVlLa2tUWnNKTEt5b21lU0lFN1RGUEppc013dVF2VC1yTEpoQzJiQWlaNXJEaTJWOTZYT3ZfOWp4U1pVb1d1ZGc1d0d4UHMyQlZMSW40Yk5hT3JVUmlGaGVLQ3dmQWlkUTUwb3R4QXRFQm9IYWFEMEcxR3llbnQ4TEhfRw?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-10T12:03:08.000Z"
       },
       {
         "title": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial - teleSUR",
@@ -378,9 +378,9 @@
         "publishedAt": "2026-09-10T11:15:00.000Z"
       },
       {
-        "title": "Perú.- Alex Kaiser señala que la IA debe emplearse con cuidado para no dañar el desarrollo humano - notiperú",
-        "summary": "Perú.- Alex Kaiser señala que la IA debe emplearse con cuidado para no dañar el desarrollo humano &nbsp;&nbsp; notiperú",
-        "source": "notiperú",
+        "title": "Perú.- Alex Kaiser señala que la IA debe emplearse con cuidado para no dañar el desarrollo humano - notiperu.com.pe",
+        "summary": "Perú.- Alex Kaiser señala que la IA debe emplearse con cuidado para no dañar el desarrollo humano &nbsp;&nbsp; notiperu.com.pe",
+        "source": "notiperu.com.pe",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYlAxeEVHUE85UEtHYWpsOUh6SGZEUnU3cDh2c0dORlppVE9jb3hwOV9JUE50TmJ4dV9FaVI2V2tLYkNEWVhQR2syMGgwZXJNOXRWYzFWNzFPeFltb2hWZ1dKQzU5b2phbEhuUEVhU0tvVWpUSVQ2ZzFJZWIxZ3RpRm5IYTd3emY5MG5iUVQ1SnU3UFRjRXphWjhKWWdIb21wdkxXaUQ3TzZ5M2dEaS1ZOEdjSUVONXZMdUpJS3Frb3FRSzhNbXVUblFoa1lXV1MyVDVsaUU5WWw?oc=5",
         "image": "",
         "publishedAt": "2026-09-10T11:08:12.000Z"
@@ -420,9 +420,9 @@
         "publishedAt": "2026-09-10T10:19:00.000Z"
       },
       {
-        "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - El Comercio Perú",
-        "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; El Comercio Perú",
-        "source": "El Comercio Perú",
+        "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - elcomercio.pe",
+        "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; elcomercio.pe",
+        "source": "elcomercio.pe",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZTlFMnQ1b1pJM1dEbTJaWnpNVGZ0T1g4SWpXZ25rWHBsN1hTdmRVTUVfdG9mQXhQOFZZU3F6X3BkQzRXMnFaejgzcmgzdDZZOFk1VEhBZzJsTmQxS3k3aDRBeHRLRnZBTzR0WFU0cjhNal9QUHVoNHY3czFrNGlxN1NpckM1bGVpSFJfVVdNTlp6YnJsRUxURVh2UXZValZzcEJqSkxxSGI4MjdUN3lFNFg0QzlFUmVWc0lCN3A2VzgyN0d6UXZwSG5Bc0xPejhQYkgycDZlblczUlhzekRGTmVEVDFxU2c?oc=5",
         "image": "",
         "publishedAt": "2026-09-09T19:48:09.000Z"
@@ -460,20 +460,20 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "Reto viral “Pásame la botella”: especialistas alertan por aumento de adolescentes intoxicados al mezclar alcohol con medicamentos - Infobae",
-        "summary": "Reto viral “Pásame la botella”: especialistas alertan por aumento de adolescentes intoxicados al mezclar alcohol con medicamentos &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYkxYWU1GV09vM243VlB3NWZhbWt5RzF1bE9PdXRhR3BkM2cyb25NTjVMMG1XbnM3aU1rMXBIb3FFV3cwRjRrYkduVm9Gd0hyRFlKWElDSk8ybEtXVUJkRHlXc2FuWkhodTg1Z1ZGbmpUZVZxcTN4M1J6ZlpxZHJFNUtTN2tRQWE3MVR5SkhwLWVCelVKU3FNZVowYjh3YVJYWDFHWm1PbUlJOVNBOTVQT19hQ2tGbXNYWTllU3ZoLVNlNE9aUGwzZzl3LTJHaDN6TWpaNkJsOXBTRVIwMmtfVjUyaGo4X1E1bFBvb3ZkMUZ5QmozSGtYcUx5VdIBlgJBVV95cUxPUElwalRLcFI3MTN6a3dqaV9pWHA2NjFYWVFHZU00NTNTblYzYXo3aDdXaEF1NzM3bmx0MkFCbnFGdmtFd2syOVRwNE1HRVV4dnhsOUtva2E5ZUVvbW1CVDBneGc5a3hZUU9oVjFfVE0xOExvbG5TM0FoeW81Wll1UWtxRTNqdkJiTWoxbm42aG9PWVNjTmlvbmgzaUdmVDA1bkFmUm1RRVVua2VxY0tldUlQTGEzZ3k2Sk10N0JKWUxTTkF6OGQtVlV6RzhmcGlJdlA1OF9JaEFIcFI1U3NoZDZtUnpmbEpBWVZCTUE1bVNDQUxZcm9QVDB2OEhpekVtcGItWjNDekpHY0xKSk1GQXpMRGhYdw?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-08T07:00:00.000Z"
-      },
-      {
         "title": "Minsa advierte sobre desafío en redes que expone a adolescentes a graves riesgos de salud - Infobae",
         "summary": "Minsa advierte sobre desafío en redes que expone a adolescentes a graves riesgos de salud &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ19nT2YyMlR5RFhzZVRjTXpPcjZXYjhHZ25aV1BkeTFuWDVKTHZxUFRyQklUb0JYaGFIMUJEbEdVbTg3Y01OV255QmN3OHlEbWNaS185UXVqUHhydnF1YTlrZTNSQmtmVGNKc2xyb28zTmt4czlsd2Z1OC0wQTZYWmpjT0pUNU0yN21CWnpYamV6eU43TkdQUE1FdjUxUGVRQ0tzbGpDbEk2Y0xrS3Y1bl9hY2UxSnVuMTF2ZV82MTZ2dGVkQ0tPVG1R0gHkAUFVX3lxTE5xaE1KVl9TLXVjQW16VUhTbmotZWRBcUJueDBnQWZLZFhPaC1hSjZNSGVXSnFEQlotekUweWloX0xEc2txcEt5N2RGOUFBYXBFaXBZYTdZaWpkaktoNUd4cDFsV2R3bGdOOGNDVV9qajFLMy1ZTUh3TXU4dlZmVmprRnlvQzhLMlM4RnpTT2FMSzhKdS1PaXdvZE0tQnlIUmIyM3l4akJrYjIwcnMwY25yMXl2TFIwdjg1YXpBNmRnNDBrdU9oZTN5LVU4MGp6dHVVR09fTnh5cmN1eGNsaXBDNUlZXw?oc=5",
         "image": "",
         "publishedAt": "2026-07-07T07:00:00.000Z"
+      },
+      {
+        "title": "Qué es el “Door Kick Challenge”, el reto viral que alarma en Perú tras ataques a viviendas grabados por adolescentes para redes sociales - Infobae",
+        "summary": "Qué es el “Door Kick Challenge”, el reto viral que alarma en Perú tras ataques a viviendas grabados por adolescentes para redes sociales &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQNlhRa3hZRWhpSGh3SVFmWkEzTUM3WXlIeXJCdlYycXE0U0NCSnZFbnM0M2RweVpoalhnTXROWkpLYlExbjA4RGF4dEVXZHk2d0t1Z0lYZHdrcUU4eERIZ1htcTdlUW5ETmNycXVUUFM0d3F0RTRHeVlzZ1hwU2liXzJoTFJ2NVlMV183X1VkS09CcGJrckQ1SFl2TFg1NjBTT082VFVwanVfVmtkZ1RVZVo5WE84TEpzeEF0MUVLallqSzd4c21zeF8yQzN2M1ZUT0xpYllKZ09BUEFKZmw5akhWc2NBaUZ4bFlBQ0hPLXJXRF95N3cwdWlpZGwyNXpFd04zVNIBnwJBVV95cUxPSmowXzdWYTdRbnhzb2lob0R4M0tqYWxJeTRSdUQ5N002RUpGOEJOdU9fSmw2WGlqNWhfaEVZcXhnUEtkS3VpZFdXZDJHbi1oSnJNd1FDWkJxcTN6Q1RtNGZoSkViTTVaOUtnQVZURmlCRVFUcHYtekZJQXc4OEdseTcxOFBrYmVzN2VJdElRalhuaFJSWkQyZHhHZG5Ldlg2ZldsemNHS2xSVHdTRzB1aHpnZF9iZXI3MDlGeXVyVjAydFN0OGdTc2pGX2VjVEVmRG1JbjNxaGFWZkd6VFd2NmVENmJjV2RMU3FwbUMzQjZQMEs1MWtJYUFocnl0T2RqQXNyNnRMYUZMY200cnB0S0FvSWo3dlRZOEl0enB6cw?oc=5",
+        "image": "",
+        "publishedAt": "2026-05-21T07:00:00.000Z"
       }
     ],
     "farandula": [
@@ -560,9 +560,9 @@
         "publishedAt": "2026-08-31T07:00:00.000Z"
       },
       {
-        "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - andina.pe",
-        "summary": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento &nbsp;&nbsp; andina.pe",
-        "source": "andina.pe",
+        "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - Agencia Andina",
+        "summary": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOTNTd1VMWGJFRlFGZG1LOXpLSllZVE5JUG1xU19TaFdKbnJzam85dVlJN0VVVWQ1ZzJLanExY0xmbXV2cXY4a0Y4M1JXcExuUm1Nc0Q0S2N2WkhtZzNwWlJJdmoxS0gwdTFYYjVQT0VkVTJHcEtrZFFES1R3X3JWTWNMaWtvQkM0S1lyRXNNblBJaUh3c3hNX3JYaFhiUXFkemVJa1F4Y1NJNjRmX2tPekJ1Snc2aWVDRFE?oc=5",
         "image": "",
         "publishedAt": "2026-08-22T07:00:00.000Z"
@@ -592,17 +592,17 @@
         "publishedAt": "2026-08-08T07:00:00.000Z"
       },
       {
-        "title": "Lima será sede de eventos globales y apunta a consolidar su proyección mundial - andina.pe",
-        "summary": "Lima será sede de eventos globales y apunta a consolidar su proyección mundial &nbsp;&nbsp; andina.pe",
-        "source": "andina.pe",
+        "title": "Lima será sede de eventos globales y apunta a consolidar su proyección mundial - Agencia Andina",
+        "summary": "Lima será sede de eventos globales y apunta a consolidar su proyección mundial &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeXB6VFBlM1RPTWI4dlVYbG9uMHFmSm8teUlmek51TVhua2dpZTFJWTg4bUdkOXp0TkFnWnJfeTRWYUVXN01tblcxOWhLc1RyX3l0THI0dUdSdVJEb1dfLTVOY3o1YXlNXzk0SFhLTFRFejdrVGlOdmpiWmREcXB3cTVIMVBHd3FJLUJrNGcwUENqbUpyelNqbjhIZDhVNGlZYUthVHFfMHg4WERlSVlXZ0l0RHZTcnVMc1RiYjAtOA?oc=5",
         "image": "",
         "publishedAt": "2026-08-06T07:00:00.000Z"
       },
       {
-        "title": "Alcalde Renzo Reggiardo: “Lima se consolida como capital de los grandes eventos internacionales del mundo” - Willax",
-        "summary": "Alcalde Renzo Reggiardo: “Lima se consolida como capital de los grandes eventos internacionales del mundo” &nbsp;&nbsp; Willax",
-        "source": "Willax",
+        "title": "Alcalde Renzo Reggiardo: “Lima se consolida como capital de los grandes eventos internacionales del mundo” - willax.pe",
+        "summary": "Alcalde Renzo Reggiardo: “Lima se consolida como capital de los grandes eventos internacionales del mundo” &nbsp;&nbsp; willax.pe",
+        "source": "willax.pe",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR3hwa3FscUt6SXJuc294R2I4czZUM0xIaEtrN3dIWnFzdnFhczhDSTlVSzJEa0t6Z2txT2taanQtTEV2anpjWV9xZVpSakdDc1BzY01ISEFpbkppMnZRRnNuWEZ1dEY5MDJMLTRsbnV4d2ZXTDExa3E3alRWaUxEcDRlaFpYUWdGS3Y2T1c4NFlHdlBhQmh5SjN3dVZ1WThqdHpfcjVyYkZ5dW5ZTGUza2R3cEFxb0tod01ZMFBJc1FFZl9PaUlJX19n?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
