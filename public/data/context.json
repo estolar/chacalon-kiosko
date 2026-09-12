@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T13:35:28.404Z",
+  "generatedAt": "2026-09-12T17:07:10.610Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,20 +24,36 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Bruce ratifica decisión de condicionar presencia en debate a pronunciamiento del JNE sobre credenciales: ¿Qué dicen otros candidatos?",
-        "summary": "Bruce sostuvo que el organismo electoral debe establecer su posición para evitar que los ciudadanos sean inducidos a error al momento de emitir su voto. Una postura similar expresaron Daniel Urresti (Podemos Perú), Mónica Yaya (Apra) y Edgardo de Pomar (PPC).",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/carlos-bruce-ratifica-decision-de-condicionar-presencia-en-debate-electoral-a-pronunciamiento-del-jne-sobre-credenciales-que-dicen-otros-candidatos-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/BEPLD6AEMBEBTHWO42TMLR73LE.jpg?auth=8ad4733a10cef685e22761b1e23f4ad2a67b37542c4dc974c16bdb06fdc15a4b&smart=true&width=1200&height=761",
-        "publishedAt": "2026-09-12T11:00:00.000Z"
-      },
-      {
         "title": "Presidenta Fujimori pide al Congreso dar celeridad a las facultades: “Es muy fácil quedarnos atrapados en las diferencias”",
         "summary": "",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/presidenta-fujimori-pide-al-congreso-dar-celeridad-a-las-facultades-es-muy-facil-quedarnos-atrapados-en-las-diferencias-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/XFLOHAB4CRAOBLIVAGHU2JJDJE.jpg?auth=a97146f0c17d6ffc9eccac76ae4cce2b4d01d8644179e78ab902ff0e54aadd75&smart=true&width=1200&height=819",
-        "publishedAt": "2026-09-12T11:00:00.000Z"
+        "publishedAt": "2026-09-12T16:04:27.000Z"
+      },
+      {
+        "title": "Bruce ratifica decisión de condicionar presencia en debate a pronunciamiento del JNE sobre credenciales: ¿Qué dicen otros candidatos?",
+        "summary": "Bruce sostuvo que el organismo electoral debe establecer su posición para evitar que los ciudadanos sean inducidos a error al momento de emitir su voto. Una postura similar expresaron Daniel Urresti (Podemos Perú), Mónica Yaya (Apra) y Edgardo de Pomar (PPC).",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/carlos-bruce-ratifica-decision-de-condicionar-presencia-en-debate-electoral-a-pronunciamiento-del-jne-sobre-credenciales-que-dicen-otros-candidatos-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/BEPLD6AEMBEBTHWO42TMLR73LE.jpg?auth=8ad4733a10cef685e22761b1e23f4ad2a67b37542c4dc974c16bdb06fdc15a4b&smart=true&width=1200&height=761",
+        "publishedAt": "2026-09-12T16:04:08.000Z"
+      },
+      {
+        "title": "Rafael Belaunde citado por Comisión de Constitución de Cámara de Diputados para exponer sobre pedido de facultades",
+        "summary": "La Comisión de Constitución de la Cámara de Diputados fijó la presentación del ministro de Defensa, Rafael Belaunde, para el lunes 14 de setiembre. El integrante del gabinete ministerial sustentará los alcances del pedido de facultades legislativas enviado por el gobierno de Keiko Fujimori.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/rafael-belaunde-citado-por-comision-de-constitucion-de-camara-de-diputados-para-exponer-sobre-pedido-de-facultades-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/ENJKXUUSUJEO7PJAXE4GJTADHQ.jpg?auth=56c83cfeec95c5b766e0d2b557efe588880cc382af05ce258a6db3a206fbe081&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-12T15:49:57.000Z"
+      },
+      {
+        "title": "Canciller Carlos Espá: “Estoy seguro que van a otorgar las facultades legislativas”",
+        "summary": "El canciller Carlos Espá dijo que está seguro que el Congreso aprobará finalmente el pedido de facultades legislativas que hizo el Gobierno. En declaraciones a la prensa, agregó que tiene esperanza de que va a prevalecer el espíritu patriota en los debates que se vienen sobre estas medidas.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/canciller-carlos-espa-estoy-seguro-que-van-a-otorgar-las-facultades-legislativas-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/MMHAPRIJLBFJNGPTPEDWMGLAFQ.jpg?auth=0f603ca33ebaf4b9aaf0950777ffa0ffdacb6ef74c47439997e5895816229ac9&smart=true&width=969&height=568",
+        "publishedAt": "2026-09-12T13:59:16.000Z"
       },
       {
         "title": "Josué Gutiérrez: Las investigaciones fiscales que rodean al Defensor del Pueblo",
@@ -62,40 +78,16 @@
         "url": "https://elcomercio.pe/politica/congreso/bancadas-piden-a-luis-galarreta-nuevo-pedido-de-facultades-legislativas-congreso-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/7BTMSGZQFBGHVIPK4WMHHCI5GA.jpg?auth=8af32041cbdf74ecfce511703cdb5530f8121ff2004e0929aa11cbdce7499f98&smart=true&width=1200&height=800",
         "publishedAt": "2026-09-12T03:06:42.000Z"
-      },
-      {
-        "title": "ERM 2026: ONPE amplía hasta el 18 de setiembre el plazo para presentar información financiera de campaña",
-        "summary": "La ONPE amplió hasta el viernes 18 de setiembre el plazo para que organizaciones políticas y candidatos de las ERM 2026 presenten su primera información financiera de campaña.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/elecciones/elecciones-regionales-y-municipales-2026-onpe-amplia-hasta-el-18-de-setiembre-el-plazo-para-presentar-informacion-financiera-de-campana-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/D5SSYI53YZBJ3DTYXTNYFLZQO4.jpg?auth=9a25ffc0e896c23259a0c140afa3da5cae6a6d65d599fb347072eab1b47dba91&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-12T01:45:31.000Z"
-      },
-      {
-        "title": "Flavio Figallo sobre viaje de Keiko Fujimori: “No tenemos mayores inconvenientes en que este se realice”",
-        "summary": "El senador Flavio Figallo afirmó que el Partido del Buen Gobierno no tiene inconvenientes con el viaje de la presidenta Keiko Fujimori al extranjero para participar en la Asamblea General de la ONU.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/flavio-figallo-sobre-viaje-de-keiko-fujimori-no-tenemos-mayores-inconvenientes-en-que-este-se-realice-partido-del-buen-gobierno-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/HNL2V3J7ZBGTTIB6VGCJFBSJZY.jpg?auth=d6f83d4e45ab22b41b1ac6ff6dbd171d9e6c144a407ef7a9a211e32fc7e0b1f2&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-11T22:41:30.000Z"
       }
     ],
     "economia": [
       {
-        "title": "El nuevo recorrido de compra: cómo la IA está cambiando la forma en que los peruanos eligen marcas",
-        "summary": "La marca que un consumidor tiene en mente al comenzar una compra ya no necesariamente es la que termina eligiendo. La búsqueda previa a la decisión se ha vuelto más extensa y suma nuevos actores, desde redes sociales y recomendaciones hasta herramientas de inteligencia artificial. En Perú, este cambio ocurre además en ",
+        "title": "Tres errores contables que pueden hacer que tu negocio pierda el rumbo",
+        "summary": "Para los emprendedores, algunas señales pueden pasar desapercibidas hasta que llega el momento de pagar impuestos, planillas o préstamos y el dinero ya no alcanza.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/el-nuevo-recorrido-de-compra-como-la-ia-esta-cambiando-la-forma-en-que-los-peruanos-eligen-marcas-segun-boston-consulting-group-bcg-noticia/",
-        "image": "https://gestion.pe/resizer/v2/SKGDITFEIRBYXMTN2MFHV3IBFA.jpg?auth=f75b76948f423c13a247d6d189561c61071e32e8b4d0a7ab4b5d3f76035ec9d9&smart=true&width=1500&height=1001",
-        "publishedAt": "2026-09-12T13:30:00.000Z"
-      },
-      {
-        "title": "Perú tendría el diésel más caro en la región: qué nos coloca “en la cima” de la lista",
-        "summary": "A nivel mundial, el precio de ese derivado en nuestro país resulta más costoso que en otros 119 países",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/diesel-peru-tiene-el-combustible-mas-caro-en-la-region-los-factores-que-nos-colocan-en-la-cima-de-la-lista-noticia/",
-        "image": "https://gestion.pe/resizer/v2/V623STUVCNG4NDGHCENZJIYABU.jpg?auth=4f860cc369b41356aaf05577a4d87571642a55056cd2093423544d2808e6a0b2&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-12T13:02:29.000Z"
+        "url": "https://gestion.pe/economia/empresas/tres-errores-contables-que-pueden-hacer-que-tu-negocio-pierda-el-rumbo-noticia/",
+        "image": "https://gestion.pe/resizer/v2/WZNNM6JI7JA4TIQLMO7EGEQLKQ.jpg?auth=6b53f246d88d3fc043ef3560ee73d1cf55488b23d2fdfa3603fab47a733ad059&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-12T16:21:18.000Z"
       },
       {
         "title": "Europa pierde oferta agro por el clima y se abre oportunidad para Perú: ¿estamos preparados?",
@@ -103,7 +95,39 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/agroexportacion-de-peru-europa-pierde-oferta-agro-por-el-clima-y-se-abre-oportunidad-para-nuestro-pais-preparado-noticia/",
         "image": "https://gestion.pe/resizer/v2/4J5QDN6JFZBOJEXA77RPGGZNN4.png?auth=8244a8889521f839598d7649c403a9f631e26dc3b1613e96566c06035393c3a5&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-09-12T13:01:40.000Z"
+        "publishedAt": "2026-09-12T16:01:00.000Z"
+      },
+      {
+        "title": "De Bad Bunny a Coldplay: la propuesta de Candlelight que “ilumina” el camino de Fever para ingresar a Perú",
+        "summary": "Miles de velas iluminan teatros e iglesias mientras un cuarteto de cuerdas pasa de Vivaldi a Coldplay o Bad Bunny. Lo que para el público es una noche de desconexión inmersiva, para la plataforma global Fever constituye la validación de un modelo en aceleración comercial. Creado hace aproximadamente siete años y con pr",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/modelo-de-concierto-inmersivo-candlelight-escala-en-peru-e-ilumina-el-camino-de-ticketera-fever-para-ingresar-al-pais-noticia/",
+        "image": "https://gestion.pe/resizer/v2/L4SFV7K2XVDARMDMM6G6GXF4SE.jpg?auth=3de3870a8b47342f154240d32a7a817a4fa86150a891e6a57d684d5260633cb2&smart=true&width=6000&height=4000",
+        "publishedAt": "2026-09-12T15:54:23.000Z"
+      },
+      {
+        "title": "Yape, Plin y otras billeteras: ¿cuánto dinero puede recibir sin tener “problemas” con Sunat?",
+        "summary": "¿Existe un monto máximo que puede recibir por Yape, Plin u otras billeteras sin problemas con Sunat? Conozca cuándo debe justificar el origen del dinero.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/yape-plin-y-otras-billeteras-digitales-cuanto-dinero-puedo-recibir-sin-tener-problemas-con-la-sunat-noticia/",
+        "image": "https://gestion.pe/resizer/v2/WBXT22EWFVAMRL2OPRE37MMM6Y.jpeg?auth=83be01e2cbecc787523374cc13d3dbe0540473c4d24d3c1ab4f06778ce31ecf2&smart=true&width=2304&height=1566",
+        "publishedAt": "2026-09-12T15:42:46.000Z"
+      },
+      {
+        "title": "Perú tendría el diésel más caro en la región: qué nos coloca “en la cima” de la lista",
+        "summary": "A nivel mundial, el precio de ese derivado en nuestro país resulta más costoso que en otros 119 países",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/diesel-peru-tiene-el-combustible-mas-caro-en-la-region-los-factores-que-nos-colocan-en-la-cima-de-la-lista-noticia/",
+        "image": "https://gestion.pe/resizer/v2/V623STUVCNG4NDGHCENZJIYABU.jpg?auth=4f860cc369b41356aaf05577a4d87571642a55056cd2093423544d2808e6a0b2&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-12T15:10:00.000Z"
+      },
+      {
+        "title": "Mercados e indicadores – viernes 11 de setiembre",
+        "summary": "Para tomar las decisiones más acertadas de inversión, manténgase diariamente bien informado sobre el desempeño de las acciones de la plaza bursátil, de la variación de las principales variables del mercado financiero, así como de la evolución de los precios de los commodities. La cotización en el mercado de Londres el ",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/mercados/mercados-e-indicadores-hoy-viernes-11-de-setiembre-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CKBJCXWQXVCTXHZN5ZAGTM66RE.jpg?auth=c935a9816683dbd514d89311dedaf60293df727aefbd90da56a9830e4813f2eb&smart=true&width=1280&height=720",
+        "publishedAt": "2026-09-12T15:02:00.000Z"
       },
       {
         "title": "Optimismo para contratar en Perú alcanza su máximo histórico, ¿en qué se sostiene?",
@@ -111,39 +135,15 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empleo-en-peru-optimismo-para-contratar-en-peru-es-historico-en-agosto-el-mejor-en-8-anos-noticia/",
         "image": "https://gestion.pe/resizer/v2/ROGLHFZGY5EFJJZCQNXTEQJA6E.jpg?auth=52b54e667163f7cd1d48e54ce162a7a85032f9559101902e1b27ad0980c20acf&smart=true&width=1800&height=1212",
-        "publishedAt": "2026-09-12T13:01:24.000Z"
+        "publishedAt": "2026-09-12T15:01:00.000Z"
       },
       {
-        "title": "Centro de Lima: ¿qué falta para que la recuperación se convierta en nuevas inversiones?",
-        "summary": "La recuperación del Centro Histórico de Lima ya empieza a cambiar el tipo de negocios que encuentran espacio en la zona. Pero el movimiento todavía no alcanza para hablar de una transformación a gran escala: mientras restaurantes y pastelerías comienzan a instalarse, los proyectos de mayor inversión siguen dependiendo ",
+        "title": "LPA obtiene aprobación de Indecopi para vender Parque Logístico Lima Sur a Fibra Prime por US$ 145 millones",
+        "summary": "Logistic Properties of the Americas (LPA) recibió la aprobación del Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual (Indecopi) para la venta del Parque Logístico Lima Sur, ubicado en Lurín, a Fibra Prime por US$ 145 millones. La autorización era el último requisito regulat",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/centro-historico-de-lima-que-falta-para-que-la-recuperacion-se-convierta-en-nuevas-inversiones-noticia/",
-        "image": "https://gestion.pe/resizer/v2/ZI6KOKSU3ZA5NGKEBCZC4236M4.jpg?auth=a9bab39a9567b9e4bcf40af7a6ffb7abe9067cee08ae4d993a8faba94709a9f1&smart=true&width=1200&height=796",
-        "publishedAt": "2026-09-12T12:38:00.000Z"
-      },
-      {
-        "title": "Faraón, segundo jugador del arroz, acelera su salto a aceites, harinas y pastas: ¿desde cuándo?",
-        "summary": "La segunda marca individual de arroz más grande del país apunta a ampliar su presencia geográfica, impulsar formatos pequeños y diversificar su portafolio hacia nuevas categorías de alimentos. CEO de la compañía revela a Gestión los planes de inversión.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/productos-faraon-ventas-crecen-8-y-prepara-nueva-planta-en-la-selva-para-2027-noticia/",
-        "image": "https://gestion.pe/resizer/v2/ZIUA4I6A2REATCIDQNRYCUFQH4.jpg?auth=9c4ccd4c7567b1286615c4f23ba0fa10ab693647776081dc65dd91bfde03acf1&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-09-12T12:28:00.000Z"
-      },
-      {
-        "title": "Sector electrodomésticos en Perú: quién gana y quién pierde debido al clima",
-        "summary": "El FEN reordena el sector electro: refrigeración y ventilación se disparan hasta 50% y 55%, mientras otras categoría se estancan. La CCL proyecta un cierre de año con hasta 15% de crecimiento y ya mira un 2027 \"alentador\".",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/el-verano-aun-no-llega-pero-el-nino-ya-dejo-ganadores-y-perdedores-en-el-electro-noticia/",
-        "image": "https://gestion.pe/resizer/v2/IXW7ZADJYJCQTGTFKKO7QQVQZQ.jpg?auth=95513e2b0032556bf4b4fb35a9b232a2b8c54bc49d8e61ade794612fd2457e0a&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-12T11:00:00.000Z"
-      },
-      {
-        "title": "Silver Mountain al 99.9% de arrancar en Reliquias: ¿cuándo empezará a producir?",
-        "summary": "La minera Silver Mountain Resources está a un paso de convertirse en productor en Huancavelica. La compañía asegura que el reinicio de su mina subterránea polimetálica Reliquias está “al 99.9%”, con solo los últimos trabajos de comisionamiento pendientes, y estima que muy pronto podría comenzar operaciones. Y mientras ",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/minera-silver-mountain-al-999-de-arrancar-en-reliquias-en-huancavelica-cuando-empezara-a-producir-noticia/",
-        "image": "https://gestion.pe/resizer/v2/PSIAYSAAZRCNRBUAFD6XJ2L2GA.jpg?auth=1a641ab43ffdcf2077c91593f7b53ccd0ba6e8eb991747fb01dc4d4a2ae5cf34&smart=true&width=600&height=400",
-        "publishedAt": "2026-09-12T10:45:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/lpa-obtiene-aprobacion-de-indecopi-para-vender-parque-logistico-lima-sur-a-fibra-prime-por-us-145-millones-noticia/",
+        "image": "https://gestion.pe/resizer/v2/OHNAHU6U5FHZVHAJA4AVL7F45Q.jpeg?auth=bc40c4e59295e36473daa63cb8fdc98f0521a25d80b1585049d7ade39f07d658&smart=true&width=999&height=666",
+        "publishedAt": "2026-09-12T14:48:09.000Z"
       }
     ],
     "sociedad": [
@@ -180,6 +180,14 @@
         "publishedAt": "2026-09-03T07:00:00.000Z"
       },
       {
+        "title": "Estas son las comisiones de la Cámara de Diputados que tendrán mayor poder de decisión en el nuevo periodo legislativo - Infobae",
+        "summary": "Estas son las comisiones de la Cámara de Diputados que tendrán mayor poder de decisión en el nuevo periodo legislativo &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeXZsRHloYmRHU3ppR3pKTWg0U0FtSFM1MC1GWjJqeHVVb1M3QzlQelJUWFlGR1gtOWZYQ05iS1VDTlF0aUx6OHphRW1fVmtETVR3Tnc3YXFhQndfc1hRZW1mNnlLNXdDdTlfSlNOUlVPeE5pOXA5ekRsODVnemNSVTB3dzhGTmgwVGFMYVN1Zy1NTnhRVTUxejBjc1lIZ2ZWQjZ0d0cwSHJCUWRMM2xtcHpqWkppOGJXLTZqYzV6RzI0OXc3T1dEZEdiM0VXcjZkZllCcVRYWDMyRlVPS0xkWGdKR2NxWXZPUzVBUzJDSDbSAYsCQVVfeXFMTXgxSkI3ZG1kTXVidU1CMkVvRFNURFFvTmNjaE14UHk1YmFjbklkLThvWGVBWnVnTUtyTXRnM3dRcklHY0JRWE9Kd1FTSDV2QVNDRDlCYW9TOThfZVItcUprZElqazRpd2tDdG4tamVGUGNtYzFhbFEzX1dCanNOY2VMZnEtQmFPYkpvRDJWSDM3U0tZa3VSanlqZkRGOTVIN05tQlhoR2psMlNyNFJUVV9aNnE1bjlidksxNnh6SGlFUGZVcllNUFZPTUpSRVUxVU9UcE9DYlJxWUt3OXEwaDlIWTJPVS1vRlB6SDNBZmZZZHZIcWUtSDZYVGszTGYyMWJSUE8xTUU5RlM0?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-05T07:00:00.000Z"
+      },
+      {
         "title": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú - Al Poniente",
         "summary": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú &nbsp;&nbsp; Al Poniente",
         "source": "Al Poniente",
@@ -196,27 +204,19 @@
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
-        "title": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad - elpais.com",
-        "summary": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad &nbsp;&nbsp; elpais.com",
-        "source": "elpais.com",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdTZGRmVCRWs3MmpCV1RDRzhzeVJPanVZWlNrOG1BWGNOOWxCZFpPY3FJWWZNcFJudkk4YnROSHNxM2pOaHR2QVczaVhmLXN2NE5KLThVcE9KMDI0Vlg5SnFjQUtrcHB5dnNYa2RjdHlTb2g3OWs5RXZ1RmVBZ1FKREFka2MzVTVTTGJiOGxqQmNIODlucGpxLVpHNk1SVWdBeER4Nm85QUw2UjM4bG1aX0UzZEFBRkFNSVlRY0NFWmlzQ0IxNVZoQndieTRvaDRpWlRvc21JdmtaeEtTN3RYUWN0cVZSNVVudVVRejlta0Z3bGRHVkhv?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-07T07:00:00.000Z"
-      },
-      {
-        "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - elpais.com",
-        "summary": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución &nbsp;&nbsp; elpais.com",
-        "source": "elpais.com",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeW5LcjdJa3V6MXlwdU1CVG4wR19lcXM5Ynoydmd3QVYxMWJ5amNPQVdYRnV3d05VZXFfMUc1M05RUTNBRWloaWFCX3U1LTloTHRLQ2NuaXVSWFllTHZ1aWFjVXNXR3M0LTRpVHBaUU9XSjZ4TXVTZ1hKMGhPVHFrem1MZU54RG52SWp5OXVTQlpHMlhYemVacWI5ZUVwTUJVT3d2MkJRdEpIekRCQmtIZDQxaFN0d0dZRE5zZ1NwS1JMd0NWaWlxeGttVFdaMlN2VlEwWFc5S0pfdTVNQ2JMZW9vempBTTJ2TW9CSDBEQU8?oc=5",
+        "title": "La Libertad: Piden al nuevo Ejecutivo más empleo y seguridad - Diario Correo",
+        "summary": "La Libertad: Piden al nuevo Ejecutivo más empleo y seguridad &nbsp;&nbsp; Diario Correo",
+        "source": "Diario Correo",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVUdWWFZ0azN6ZVg2TUdyclVlRjQyTnk1bFV5aElpNV9OX3AzZGJvX0VRSnhicEUtbGZBYndqMzB2UllBaHlhZ0k4RzlTSU5DOERUN0ZxZkhlZmFhcU9RcDg4b1o1RzZGV0wwYTBLTDJXN3VpT2dpVjRLR3BmVUpUREpKWWNydC1JLWFDOFBNakp6MHF1R2ZtSXA4VTlTMWtkRlk2c1pKZ3hXZmNVSm9OcmxRQy1CUG90MVJWbjBfdmdWNHdl0gHYAUFVX3lxTE5UbVZCUUpheWt2YVBtMldYSGNqUlVIcEhLVkVvZG5CdXBhNmpYZUNJOFlsVDN2SThkdUNjNGlXNXROVkNlOUdHbHF1Uks5bWlsb3lrX2FOZFRYY05ROWd1YTVxQTNJSGpjNTI0MkJvNmtadFlYN1kwN1AtVk8xQXItd05qdWtRaE5QSXR1S1FIdC1Dc0xQTFlZckpFWFplYXl3UEh0bXc4eExUd2I0cXIxazdoRHFnZVF4UlZrVUdQYkczSkp1S25DNmhzNmp1aHV6T1o4QmtSUg?oc=5",
         "image": "",
         "publishedAt": "2026-06-07T07:00:00.000Z"
       }
     ],
     "negocios": [
       {
-        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - Business Empresarial",
-        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
+        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - businessempresarial.com.pe",
+        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; businessempresarial.com.pe",
+        "source": "businessempresarial.com.pe",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbEpWQWwzZjk1OHUyMXNjdl9taXN3YWtlVkc3WUd6ak1GNTNKTjMwWHhEd0Y4TTF6WU90LTMwTjZSNDVFN29ReWFGQkVvTmtya3pNMG9kSEdjYzRvdnZsTG16M3E1bzZhV09OVVBwWUNCU2ZJVHpfdnlvV1VmVXVLU2FmR3FYeVlIRnl1MVRvWmJlSWU4eVZ4Rkxxd2tZUHBKcWp6Q3BRUkZRMVRkbDRiVWNOdTFNSU5yNjByS2FobmlLdGRrOVJHdU9YOW9VYjZBLTYySHM1cDNhR1pDR0JZ?oc=5",
         "image": "",
         "publishedAt": "2026-07-24T07:00:00.000Z"
@@ -230,25 +230,25 @@
         "publishedAt": "2026-07-21T07:00:00.000Z"
       },
       {
-        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - Business Empresarial",
-        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
+        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - businessempresarial.com.pe",
+        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; businessempresarial.com.pe",
+        "source": "businessempresarial.com.pe",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOclpab3k5dms5U3JOSXdvUU1pSnFnUnYzWDY3QUtyeU9ob2NhZnI5U092N3QxY19kVUtUX1JPR0tzUElTTXVlMGdUbV9tclI0Y0JQcU11QWhJQkkxalNIR3R3VmdGSHdMY0NJUVE1V09Tel9OX3R5eUVKV3owZnJ2VjJ0VVRlNFowbWZyVUl4SDAwc2lYUzZKcTZtTDhEUlV0LTJMY2hnSGJkQ0c5U1AwRkVGVm5qQXk3XzI0ZEZ3ZTE4RjBtbTcwTG15MVdKX1F3Y3VGby1IdVNrd0pB?oc=5",
         "image": "",
         "publishedAt": "2026-07-04T07:00:00.000Z"
       },
       {
-        "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - Business Empresarial",
-        "summary": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
+        "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - businessempresarial.com.pe",
+        "summary": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores &nbsp;&nbsp; businessempresarial.com.pe",
+        "source": "businessempresarial.com.pe",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVFwSXZrS2lPelhLNUlzRXRMZmM1WDhBVkptN0QyQ2dqSTQteTJaQVpnb2pUQldrSEJ2QjNpQWJZMC1lNmxtSjRQWUQ1N2JxcEhIcGY3M0xUdWdfV0YwYXBONWItcTlMVzlsekVJMW85VVRRN3Bmc2NjR0hlTlVVYmowYkprdDVwSTZ4T25tWnc0RDkzVUhRVUV4U1ZtQW9idWtuX0RqelF1TkpCbWxyQVQtUXJrMlRsLTg5SlFEQ0k5RS02Wkgw?oc=5",
         "image": "",
         "publishedAt": "2026-06-26T07:00:00.000Z"
       },
       {
-        "title": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups - Business Empresarial",
-        "summary": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
+        "title": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups - businessempresarial.com.pe",
+        "summary": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups &nbsp;&nbsp; businessempresarial.com.pe",
+        "source": "businessempresarial.com.pe",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmtHemFxbzkzZVNVajZWNmstMk9YSDJHejFFbjVDaE5sYWNsT0JRZkxJUjBoa1hmMU5hdTNqclFvbDcxWl9nZUcxRlp4cHdPWGk4SE1oVWlTbW5iNzdwUXNWYWh4WUQzSEY4TmVSbnozMDVmS3BPd1ZUYllacXNOQVpUMFhqR215X1FOSk04Q1p5ZVJseXdrYm5DdkM0SDZpVHc0ZVR1MUNhX1dSRnRPa0dzdkxqS29xdTc5aGw3U2RxRzR0cmNsVGRkS2ota2s0aWFUZjJMc1FvRnlVaUF3Z3Nn?oc=5",
         "image": "",
         "publishedAt": "2026-06-25T07:00:00.000Z"
@@ -279,14 +279,6 @@
       }
     ],
     "ideas": [
-      {
-        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - Forbes Perú",
-        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; Forbes Perú",
-        "source": "Forbes Perú",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnR2OFJqcnVKWEVnZF9Fc1FFQ1AxY3lYbTFYQnh2WkJZMEljS2I4UHozWHN5eTNXVXkwSV9WS0U2WDdCenNoMGVLUzRpMEZXcnIzRVpJSWloS295VGJzNVZtT3h6akN0b3EyVDdYVUwtc05SR0Z6WWE0MjZKUnd3TDFnUWx3aEJwbHRYUmgxNHJseERsVE8tdTg0WnJrT1hMMEFER0h6WVp1ekd1V2JWLTNPUQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-25T12:02:15.000Z"
-      },
       {
         "title": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC - Revista COSAS Perú",
         "summary": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC &nbsp;&nbsp; Revista COSAS Perú",
@@ -342,6 +334,14 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
         "image": "",
         "publishedAt": "2026-05-29T07:00:00.000Z"
+      },
+      {
+        "title": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación - Tu Diario Huánuco",
+        "summary": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación &nbsp;&nbsp; Tu Diario Huánuco",
+        "source": "Tu Diario Huánuco",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaGpsT3FrekhQWTg2UDZlY1JyaUJzQWI4UDEyRjZGUDY4ZXRtQjBUUHlmdmtrSW8wN29HalpYQWswZFA1OHg0SVAyRldYdFR3bUk1V0xwRHRWc1ExQnNXN0VzejE0eHFacXpMd1RnQ2hjR0ktQU1CeGZrZm1HMUUyci0tdW1xWnpyeWl3NHRua0pSRXE2azVCNEk4aTg4VDN4czhsZXV1T1F3THByYkJyajF5blp0cjlKanJ6blRGNEsxS3dOMnFYMFAyZXRqbEJyRDhVX2x5WWxadw?oc=5",
+        "image": "",
+        "publishedAt": "2026-05-05T07:00:00.000Z"
       }
     ],
     "ia": [
@@ -412,9 +412,9 @@
     ],
     "tendencias": [
       {
-        "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar - La República",
-        "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar &nbsp;&nbsp; La República",
-        "source": "La República",
+        "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar - larepublica.pe",
+        "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar &nbsp;&nbsp; larepublica.pe",
+        "source": "larepublica.pe",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQW9fVk51R2xSS1c2X0I5TjFfc2VoT3hDeVJJVEFIbUJSTmItZ0lQUGdocWJvWVA4bjUtWGlfMGtMVExUMnA4TVBBODg1YVJ5VVBYeWc1X1lvYl9MdzFQVGZjVzg1RzQxNjRlb3hNN25CaVd3Y29XWlRPSWJSVmlHQWFtZnV2OURIaFByNGZJT193YklScUl6cEU2X2o2SklLcVdZLU15VklTSnBKQVJaYWVZcGloeXJHM25HUS1aUGNVSEtPaElZenMwcEVvSXB3eE42cFFESzItX2hXckZSNi10YTN2X3BtWjlObWwyc9IB9AFBVV95cUxQUXZkLW0ya0dvbTdNOC0waTg4UGJrVXpmTFB2TXhDc0d2aE5QOEFYU1hIR3VyY0U0WkNPYnVqM3ZJSFlOWndYdzZCdXVUZHE5eXRyQi1TdWw1UHVNZjYxY3pMY3R5TkF6ZFRqTUstYjVZYzdLN1NxZ3VVdTlsc1lBYTZDVnVRYU5QcGJMdDU5OV96ODZMY1hhNG1IdVhtWkVBMkpkQ0xLSTVsU0YzdVZzdFI0YnllR0dyWW5UVFBIQllGRy05b0hOcEZXV0pjeDNPenpNNkp5M3JTYmpoZGxxUzNvR2tYVVpXSktGQXNtcDVHclhD?oc=5",
         "image": "",
         "publishedAt": "2026-09-10T10:19:00.000Z"
@@ -463,7 +463,7 @@
         "title": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” - Infobae",
         "summary": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY1JKYUdUNlpDMThFMDBMcUtpSm9WX3hDME5FdlhTVkIySnFidkNRV3RNa2Z0LVB0ZzhIUlNPdnFSM3dGQl9SRXl2XzdRVVZNS3JoYkVoZzE5WDhnWDVpdlRCNVVWbTNYTjZHVEF5cERtNEZnT0RyRmEzUUlwT0JVcEhnRXEzWExJN2lxdjEtcHZCUm1vcVpWQ1VUQ21POUhFb2Fnb1FiaHFmZHg5YnctUWJfQk53Y0M1U0ZKSWhVVlRoYXFycEZDeFk1SQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY1JKYUdUNlpDMThFMDBMcUtpSm9WX3hDME5FdlhTVkIySnFidkNRV3RNa2Z0LVB0ZzhIUlNPdnFSM3dGQl9SRXl2XzdRVVZNS3JoYkVoZzE5WDhnWDVpdlRCNVVWbTNYTjZHVEF5cERtNEZnT0RyRmEzUUlwT0JVcEhnRXEzWExJN2lxdjEtcHZCUm1vcVpWQ1VUQ21POUhFb2Fnb1FiaHFmZHg5YnctUWJfQk53Y0M1U0ZKSWhVVlRoYXFycEZDeFk1SdIB5gFBVV95cUxOX2lXTFZfYS02czhMamE1UE01SmozQVIzLXdxbTVwRFlJQlJhaGI2XzdnVlprZkVQb0J1MjllZ0pJbk9vS21OcWJTYUQ0OU1FLW1XNU04cXRRZUtvNFF6dGV5X0VyR2hFSEd1TU1yMl9EMkdVTFZxWlB2ZzZ1cHpMcHZLSVptbmpaTFpkQVkzOGV3MHdCN0FkUm1qWTJ5aWxVVkVNTmRFSkI0czZhZkM3SGtaYmtDSy0tVVJCNHE0QngySUFLN05tY2xESFVDRTh1M0dWeUgydHVyb1p1dkdhMUN3VkhUUQ?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
