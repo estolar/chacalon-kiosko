@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T09:17:14.294Z",
+  "generatedAt": "2026-09-12T13:35:28.404Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -22,6 +22,38 @@
         "url": "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
         "image": "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
         "publishedAt": "2026-09-01T00:00:00.000Z"
+      },
+      {
+        "title": "Bruce ratifica decisión de condicionar presencia en debate a pronunciamiento del JNE sobre credenciales: ¿Qué dicen otros candidatos?",
+        "summary": "Bruce sostuvo que el organismo electoral debe establecer su posición para evitar que los ciudadanos sean inducidos a error al momento de emitir su voto. Una postura similar expresaron Daniel Urresti (Podemos Perú), Mónica Yaya (Apra) y Edgardo de Pomar (PPC).",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/carlos-bruce-ratifica-decision-de-condicionar-presencia-en-debate-electoral-a-pronunciamiento-del-jne-sobre-credenciales-que-dicen-otros-candidatos-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/BEPLD6AEMBEBTHWO42TMLR73LE.jpg?auth=8ad4733a10cef685e22761b1e23f4ad2a67b37542c4dc974c16bdb06fdc15a4b&smart=true&width=1200&height=761",
+        "publishedAt": "2026-09-12T11:00:00.000Z"
+      },
+      {
+        "title": "Presidenta Fujimori pide al Congreso dar celeridad a las facultades: “Es muy fácil quedarnos atrapados en las diferencias”",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/presidenta-fujimori-pide-al-congreso-dar-celeridad-a-las-facultades-es-muy-facil-quedarnos-atrapados-en-las-diferencias-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/XFLOHAB4CRAOBLIVAGHU2JJDJE.jpg?auth=a97146f0c17d6ffc9eccac76ae4cce2b4d01d8644179e78ab902ff0e54aadd75&smart=true&width=1200&height=819",
+        "publishedAt": "2026-09-12T11:00:00.000Z"
+      },
+      {
+        "title": "Josué Gutiérrez: Las investigaciones fiscales que rodean al Defensor del Pueblo",
+        "summary": "Josué Gutiérrez: Las investigaciones fiscales que rodean al Defensor del Pueblo | Durante su gestión, el Ministerio Público ha iniciado investigaciones en contra de diversos funcionarios que habrían sido beneficiados con contratos. Josué Gutiérrez, por su parte, también es objeto de una pesquisa por, presuntamente, hab",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/josue-gutierrez-las-investigaciones-fiscales-que-rodean-al-defensor-del-pueblo-documentos-y-detalles-de-las-pesquisas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/IRKAAOTKZJFMLCZHNZYH7B7ZNQ.png?auth=1f33a9d0052e740c78baab61208b406eb162e8ef5c221573b04e8ebb0102c0d7&smart=true&width=1200&height=647",
+        "publishedAt": "2026-09-12T10:25:54.000Z"
+      },
+      {
+        "title": "De Rubio, un pelo, una crónica de Fernando Vivas sobre el secretario de Estado de EE.UU. y su visita al Perú",
+        "summary": "De Rubio, un pelo, una crónica de Fernando Vivas sobre el secretario de Estado de EE.UU. y su visita al Perú | Marco Rubio, el secretario de Estado de EE.UU., nos hizo una corta visita para ver los alcances de su alianza estratégica con Perú, flamante miembro del Escudo de las Américas.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/de-marco-rubio-un-pelo-una-cronica-de-fernando-vivas-sobre-el-secretario-de-estado-de-eeuu-y-su-visita-al-peru-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/K5BQIBHBCVG2NFLKEEI6FTWNKI.jpg?auth=b8428a171c146dd4630fa53f5ab05e7833e6d160a09849124e8b8b2fe33fe216&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-09-12T10:24:12.000Z"
       },
       {
         "title": "Juntos por el Perú, Obras y Ahora Nación solicitan nuevo pedido de facultades legislativas",
@@ -46,104 +78,72 @@
         "url": "https://elcomercio.pe/politica/congreso/flavio-figallo-sobre-viaje-de-keiko-fujimori-no-tenemos-mayores-inconvenientes-en-que-este-se-realice-partido-del-buen-gobierno-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/HNL2V3J7ZBGTTIB6VGCJFBSJZY.jpg?auth=d6f83d4e45ab22b41b1ac6ff6dbd171d9e6c144a407ef7a9a211e32fc7e0b1f2&smart=true&width=1200&height=800",
         "publishedAt": "2026-09-11T22:41:30.000Z"
-      },
-      {
-        "title": "Rafael López Aliaga: ¿Es legal o no entregar las credenciales de alcalde a primeros regidores tras eventual victoria?",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-es-legal-o-no-entregarle-las-credenciales-de-alcalde-a-primeros-regidores-tras-eventual-victoria-jne-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/ERNM3THLPBH7JIAV2QTXB5QPEA.jpg?auth=19405ce08c2992f8df879d7898eaaeed66d42a0259f420045a1764ed91a04ce9&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-11T21:43:00.000Z"
-      },
-      {
-        "title": "Suman seis las comisiones de la Cámara Diputados que se oponen a otorgarle las facultades al Ejecutivo: ¿Qué viene ahora?",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/suman-seis-las-comisiones-de-la-camara-diputados-que-se-oponen-a-otorgarle-las-facultades-al-ejecutivo-que-viene-ahora-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/EJO3B6QXORHELA6UN6BGXYWO2A.jpg?auth=e0306fecc731b359362ecb1e47b6fc8999888c0ffd93cfc1e767bc63b14f420b&smart=true&width=1200&height=647",
-        "publishedAt": "2026-09-11T21:43:00.000Z"
-      },
-      {
-        "title": "Aliados en la Mesa Directiva, pero divididos en el pleno: así fue la votación para interpelar al ministro del Interior en la Cámara de Diputados",
-        "summary": "La Cámara de Diputados del Congreso aprobó el último jueves la moción de interpelación al ministro del Interior, César Astudillo, impulsada por la bancada de Juntos por el Perú. Sin embargo, la decisión no contó con el respaldo unánime de todas las bancadas de oposición al gobierno de Keiko Fujimori. El Partido del Bue",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/aliados-en-la-mesa-directiva-pero-divididos-en-el-pleno-asi-fue-la-votacion-para-interpelar-al-ministro-del-interior-en-la-camara-de-diputados-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/YDW4QWN3IFAB7G6X3SJ62YZLJ4.jfif?auth=eeaf3690fab254961985700b631b02e49e79b198315e352a464c206dabd89310&smart=true&width=1600&height=1066",
-        "publishedAt": "2026-09-11T21:42:00.000Z"
-      },
-      {
-        "title": "Keiko Fujimori solicita formalmente permiso al Congreso para su primer viaje internacional como presidenta",
-        "summary": "El Poder Ejecutivo envió al Congreso el proyecto de resolución legislativa para que se autorice la salida del país de la presidenta Keiko Fujimori con destino a Nueva York, Estados Unidos. La solicitud oficial contempla un periodo de permanencia en el exterior entre el 21 y el 25 de septiembre del 2026.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-solicita-formalmente-permiso-al-congreso-para-su-primer-viaje-internacional-como-presidenta-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/XFLOHAB4CRAOBLIVAGHU2JJDJE.jpg?auth=a97146f0c17d6ffc9eccac76ae4cce2b4d01d8644179e78ab902ff0e54aadd75&smart=true&width=1200&height=819",
-        "publishedAt": "2026-09-11T21:20:05.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Minera Poderosa en Pataz: de 120 a 1,940 toneladas diarias y un modelo que reparte las obras",
-        "summary": "Poderosa llegó a un Pataz sin carretera ni electricidad y empezó en 1982 procesando 120 toneladas de mineral al día. Hoy trata 1,940 y comparte con el municipio y la población la decisión sobre las obras del distrito.",
+        "title": "El nuevo recorrido de compra: cómo la IA está cambiando la forma en que los peruanos eligen marcas",
+        "summary": "La marca que un consumidor tiene en mente al comenzar una compra ya no necesariamente es la que termina eligiendo. La búsqueda previa a la decisión se ha vuelto más extensa y suma nuevos actores, desde redes sociales y recomendaciones hasta herramientas de inteligencia artificial. En Perú, este cambio ocurre además en ",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/poderosa-la-infraestructura-que-tuvo-que-construir-para-operar-en-pataz-noticia/",
-        "image": "https://gestion.pe/resizer/v2/D3IIHWD4ZJBBRAFGPHUDJTGS4M.jpg?auth=000230f25de2da795c51acb2dd2efc08e51e938574e14f3115cf31fddd05ee6c&smart=true&width=696&height=435",
-        "publishedAt": "2026-09-12T03:21:40.000Z"
+        "url": "https://gestion.pe/economia/empresas/el-nuevo-recorrido-de-compra-como-la-ia-esta-cambiando-la-forma-en-que-los-peruanos-eligen-marcas-segun-boston-consulting-group-bcg-noticia/",
+        "image": "https://gestion.pe/resizer/v2/SKGDITFEIRBYXMTN2MFHV3IBFA.jpg?auth=f75b76948f423c13a247d6d189561c61071e32e8b4d0a7ab4b5d3f76035ec9d9&smart=true&width=1500&height=1001",
+        "publishedAt": "2026-09-12T13:30:00.000Z"
       },
       {
-        "title": "De Bad Bunny a Coldplay: la propuesta de Candlelight que “ilumina” el camino de Fever para ingresar a Perú",
-        "summary": "Miles de velas iluminan teatros e iglesias mientras un cuarteto de cuerdas pasa de Vivaldi a Coldplay o Bad Bunny. Lo que para el público es una noche de desconexión inmersiva, para la plataforma global Fever constituye la validación de un modelo en aceleración comercial. Creado hace aproximadamente siete años y con pr",
+        "title": "Perú tendría el diésel más caro en la región: qué nos coloca “en la cima” de la lista",
+        "summary": "A nivel mundial, el precio de ese derivado en nuestro país resulta más costoso que en otros 119 países",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/modelo-de-concierto-inmersivo-candlelight-escala-en-peru-e-ilumina-el-camino-de-ticketera-fever-para-ingresar-al-pais-noticia/",
-        "image": "https://gestion.pe/resizer/v2/L4SFV7K2XVDARMDMM6G6GXF4SE.jpg?auth=3de3870a8b47342f154240d32a7a817a4fa86150a891e6a57d684d5260633cb2&smart=true&width=6000&height=4000",
-        "publishedAt": "2026-09-12T02:04:26.000Z"
+        "url": "https://gestion.pe/economia/diesel-peru-tiene-el-combustible-mas-caro-en-la-region-los-factores-que-nos-colocan-en-la-cima-de-la-lista-noticia/",
+        "image": "https://gestion.pe/resizer/v2/V623STUVCNG4NDGHCENZJIYABU.jpg?auth=4f860cc369b41356aaf05577a4d87571642a55056cd2093423544d2808e6a0b2&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-12T13:02:29.000Z"
       },
       {
-        "title": "Perú retrocedió a niveles de hace 10 años en PISA, ¿cómo afectará a los jóvenes?",
-        "summary": "Los últimos resultados del Programa para la Evaluación Internacional de Estudiantes (“PISA”, por sus siglas en inglés) vuelven a poner sobre la mesa una preocupación que trasciende las aulas: las capacidades con las que los adolescentes llegarán, en los próximos años, al mercado laboral.",
+        "title": "Europa pierde oferta agro por el clima y se abre oportunidad para Perú: ¿estamos preparados?",
+        "summary": "Arándanos, uvas, espárragos y cebollas podrían ganar espacio en Europa ante los cambios climáticos. ¿Cómo puede aprovechar Perú?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/management-empleo/pisa-2025-peru-retrocedio-a-niveles-de-hace-10-anos-como-afectara-al-empleo-de-los-jovenes-noticia/",
-        "image": "https://gestion.pe/resizer/v2/TKSZRQA2QZHSPPSL655W5CCTJI.jpg?auth=2a9ea78e90b633ef7a30635f6c50641e7709c9ae6c5ea31155e282bdc43a3169&smart=true&width=1408&height=768",
-        "publishedAt": "2026-09-12T01:28:43.000Z"
+        "url": "https://gestion.pe/economia/agroexportacion-de-peru-europa-pierde-oferta-agro-por-el-clima-y-se-abre-oportunidad-para-nuestro-pais-preparado-noticia/",
+        "image": "https://gestion.pe/resizer/v2/4J5QDN6JFZBOJEXA77RPGGZNN4.png?auth=8244a8889521f839598d7649c403a9f631e26dc3b1613e96566c06035393c3a5&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-09-12T13:01:40.000Z"
       },
       {
-        "title": "Locales comerciales en edificios corporativos: ¿dónde instalar un restaurante o café en Miraflores?",
-        "summary": "Miraflores cuenta con 142 locales comerciales distribuidos en 61 edificios corporativos de clase A y B. El mercado registra una vacancia de 10.4% y más de 1,300 m² fueron absorbidos en el último año, principalmente en el corredor Larco. Restaurantes y cafeterías concentran la mayor demanda.",
+        "title": "Optimismo para contratar en Perú alcanza su máximo histórico, ¿en qué se sostiene?",
+        "summary": "El empleo peruano registra su mayor expectativa de confianza en 8 años (64.9%). Estos son los sectores ganadores, los riesgos y la proyección del BCRP.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/miraflores-concentra-26200-m-en-placas-comerciales-y-restaurantes-lideran-la-demanda-noticia/",
-        "image": "https://gestion.pe/resizer/v2/6LN45LUI3ZEZVHHVQEBAQWYESA.jpg?auth=eeb5d6586dc5d78b3d2c9a1248dfb0fdbfc67d6ff8fed68c9523134b12eb0023&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-12T01:24:29.000Z"
+        "url": "https://gestion.pe/economia/empleo-en-peru-optimismo-para-contratar-en-peru-es-historico-en-agosto-el-mejor-en-8-anos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/ROGLHFZGY5EFJJZCQNXTEQJA6E.jpg?auth=52b54e667163f7cd1d48e54ce162a7a85032f9559101902e1b27ad0980c20acf&smart=true&width=1800&height=1212",
+        "publishedAt": "2026-09-12T13:01:24.000Z"
       },
       {
-        "title": "Sueldos en Perú 2026: ¿Cuánto ganan los profesionales de TI y Administración y Finanzas?",
-        "summary": "La Guía Salarial de Buk revela que las medianas salariales en el sector privado formal van desde S/ 1,780 para un codificador de datos hasta S/ 15,210 para un gerente de TI. En Administración y Finanzas, los ingresos oscilan entre S/ 2,000 y S/ 13,500, según el cargo.",
+        "title": "Centro de Lima: ¿qué falta para que la recuperación se convierta en nuevas inversiones?",
+        "summary": "La recuperación del Centro Histórico de Lima ya empieza a cambiar el tipo de negocios que encuentran espacio en la zona. Pero el movimiento todavía no alcanza para hablar de una transformación a gran escala: mientras restaurantes y pastelerías comienzan a instalarse, los proyectos de mayor inversión siguen dependiendo ",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/cuanto-ganan-los-profesionales-de-ti-y-finanzas-en-peru-estos-son-los-sueldos-segun-buk-noticia/",
-        "image": "https://gestion.pe/resizer/v2/746LESJO3RBURNXDRU3WQODB4Q.jpg?auth=14d9fb6bad0b28cdeb90d4380f5b87ed095057b3b4a7a4abc9f6f953a9583918&smart=true&width=612&height=344",
-        "publishedAt": "2026-09-12T01:19:08.000Z"
+        "url": "https://gestion.pe/economia/empresas/centro-historico-de-lima-que-falta-para-que-la-recuperacion-se-convierta-en-nuevas-inversiones-noticia/",
+        "image": "https://gestion.pe/resizer/v2/ZI6KOKSU3ZA5NGKEBCZC4236M4.jpg?auth=a9bab39a9567b9e4bcf40af7a6ffb7abe9067cee08ae4d993a8faba94709a9f1&smart=true&width=1200&height=796",
+        "publishedAt": "2026-09-12T12:38:00.000Z"
       },
       {
-        "title": "Adium amplía su negocio y entra al mercado de medicamentos de venta libre: ¿desde cuándo?",
-        "summary": "La farmacéutica cerró el primer semestre con un crecimiento superior al 20%, impulsado por sus lanzamientos en obesidad y otras áreas terapéuticas. Para los próximos años, apunta a fortalecer su portafolio en salud mental y terapias de alto costo, mientras prepara su ingreso al negocio de productos de venta libre (OTC)",
+        "title": "Faraón, segundo jugador del arroz, acelera su salto a aceites, harinas y pastas: ¿desde cuándo?",
+        "summary": "La segunda marca individual de arroz más grande del país apunta a ampliar su presencia geográfica, impulsar formatos pequeños y diversificar su portafolio hacia nuevas categorías de alimentos. CEO de la compañía revela a Gestión los planes de inversión.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/adium-dara-un-nuevo-paso-en-peru-apunta-al-mercado-otc-en-2027-noticia/",
-        "image": "https://gestion.pe/resizer/v2/5LVDGBEADRFJ5KY3VC6JNJLSXA.jpg?auth=ac8ad690555f09c2dc8d4f3fcd4efc6de9bcd72c7c1690c84c802925fc1a3939&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-12T01:16:22.000Z"
+        "url": "https://gestion.pe/economia/empresas/productos-faraon-ventas-crecen-8-y-prepara-nueva-planta-en-la-selva-para-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/ZIUA4I6A2REATCIDQNRYCUFQH4.jpg?auth=9c4ccd4c7567b1286615c4f23ba0fa10ab693647776081dc65dd91bfde03acf1&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-09-12T12:28:00.000Z"
       },
       {
-        "title": "Grupo Romero ofrece comprar acciones de los minoritarios de Orygen Perú: ¿a qué precio?",
-        "summary": "Niagara Energy, empresa utilizada por el Grupo Romero para la transacción, inició formalmente la OPA dirigida a los accionistas minoritarios de la generadora eléctrica. De completarse la compra del 7.07% del capital restante, la operación alcanzará los US$ 161.5 millones.",
+        "title": "Sector electrodomésticos en Perú: quién gana y quién pierde debido al clima",
+        "summary": "El FEN reordena el sector electro: refrigeración y ventilación se disparan hasta 50% y 55%, mientras otras categoría se estancan. La CCL proyecta un cierre de año con hasta 15% de crecimiento y ya mira un 2027 \"alentador\".",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/grupo-romero-lanza-oferta-por-acciones-de-orygen-peru-a-us-07298-cuanto-desembolsara-en-total-noticia/",
-        "image": "https://gestion.pe/resizer/v2/J7DQXEXFFBHPFEQGMRJQOZYPE4.gif?auth=ea000067b22f8b00a59ae4c8f0136fadb02744ea1145f5bf08760b64e93f75f7&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-12T01:09:34.000Z"
+        "url": "https://gestion.pe/economia/empresas/el-verano-aun-no-llega-pero-el-nino-ya-dejo-ganadores-y-perdedores-en-el-electro-noticia/",
+        "image": "https://gestion.pe/resizer/v2/IXW7ZADJYJCQTGTFKKO7QQVQZQ.jpg?auth=95513e2b0032556bf4b4fb35a9b232a2b8c54bc49d8e61ade794612fd2457e0a&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-12T11:00:00.000Z"
       },
       {
-        "title": "Seis regiones andinas concentran el 37% de la producción de cobre en Perú",
-        "summary": "",
+        "title": "Silver Mountain al 99.9% de arrancar en Reliquias: ¿cuándo empezará a producir?",
+        "summary": "La minera Silver Mountain Resources está a un paso de convertirse en productor en Huancavelica. La compañía asegura que el reinicio de su mina subterránea polimetálica Reliquias está “al 99.9%”, con solo los últimos trabajos de comisionamiento pendientes, y estima que muy pronto podría comenzar operaciones. Y mientras ",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/cusco-aayacucho-ica-huancavelica-6-regiones-andinas-de-peru-concentran-el-37-de-la-produccion-de-cobre-en-el-pais-noticia/",
-        "image": "https://gestion.pe/resizer/v2/5PGY5KTDH5DD3OTNB2UXFNUMCM.jpg?auth=7584657f55cb7e2afff5ba8ccaeb9a0d10762d3a6f4cfb2b72c756bb8c6704ef&smart=true&width=1200&height=729",
-        "publishedAt": "2026-09-12T00:34:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/minera-silver-mountain-al-999-de-arrancar-en-reliquias-en-huancavelica-cuando-empezara-a-producir-noticia/",
+        "image": "https://gestion.pe/resizer/v2/PSIAYSAAZRCNRBUAFD6XJ2L2GA.jpg?auth=1a641ab43ffdcf2077c91593f7b53ccd0ba6e8eb991747fb01dc4d4a2ae5cf34&smart=true&width=600&height=400",
+        "publishedAt": "2026-09-12T10:45:00.000Z"
       }
     ],
     "sociedad": [
@@ -153,7 +153,7 @@
         "source": "Diario Ahora",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONkhrLUtJWXRUa2Zla3ZOVW1nOThaMzJvZzZOcV9Qb2tyUkVjR2pnU1FONjlPX191SzZhWC1YX21YcHUtYWxmMmVXanQxUEU3aDVBV3ppRi1YLTM1ZFJManI4QmtmQ0V2VXp0MnlkanIwWHdpLUNYeHdKcXBaQkptSA?oc=5",
         "image": "",
-        "publishedAt": "2026-09-12T05:46:51.000Z"
+        "publishedAt": "2026-09-12T05:17:43.000Z"
       },
       {
         "title": "La crisis de seguridad no da tregua en Sinaloa: gobernadora interina responsabiliza a gobiernos anteriores - Infobae",
@@ -180,9 +180,9 @@
         "publishedAt": "2026-09-03T07:00:00.000Z"
       },
       {
-        "title": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú - alponiente.com",
-        "summary": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú &nbsp;&nbsp; alponiente.com",
-        "source": "alponiente.com",
+        "title": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú - Al Poniente",
+        "summary": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú &nbsp;&nbsp; Al Poniente",
+        "source": "Al Poniente",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2lTSUtNanNoaFpqZkxDRDh0X0hNdFpUcGVvdllPamNXb2t0MXhIQUZNUUZxTm1Bel9CSUVHT1c4b3RTdlRKSlhGRFJUTjY4aEM2UTQ0bDlVSF80Zk9VekliWXAzVzJjcDdmRnhUWW5VSzRxdGt2ZnEzSDBPXzBhbzFpZ2NobUVPLWM3T3QxTGxjSE0?oc=5",
         "image": "",
         "publishedAt": "2026-07-29T07:00:00.000Z"
@@ -196,17 +196,17 @@
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
-        "title": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad - EL PAÍS",
-        "summary": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad &nbsp;&nbsp; EL PAÍS",
-        "source": "EL PAÍS",
+        "title": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad - elpais.com",
+        "summary": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad &nbsp;&nbsp; elpais.com",
+        "source": "elpais.com",
         "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdTZGRmVCRWs3MmpCV1RDRzhzeVJPanVZWlNrOG1BWGNOOWxCZFpPY3FJWWZNcFJudkk4YnROSHNxM2pOaHR2QVczaVhmLXN2NE5KLThVcE9KMDI0Vlg5SnFjQUtrcHB5dnNYa2RjdHlTb2g3OWs5RXZ1RmVBZ1FKREFka2MzVTVTTGJiOGxqQmNIODlucGpxLVpHNk1SVWdBeER4Nm85QUw2UjM4bG1aX0UzZEFBRkFNSVlRY0NFWmlzQ0IxNVZoQndieTRvaDRpWlRvc21JdmtaeEtTN3RYUWN0cVZSNVVudVVRejlta0Z3bGRHVkhv?oc=5",
         "image": "",
         "publishedAt": "2026-06-07T07:00:00.000Z"
       },
       {
-        "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - EL PAÍS",
-        "summary": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución &nbsp;&nbsp; EL PAÍS",
-        "source": "EL PAÍS",
+        "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - elpais.com",
+        "summary": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución &nbsp;&nbsp; elpais.com",
+        "source": "elpais.com",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeW5LcjdJa3V6MXlwdU1CVG4wR19lcXM5Ynoydmd3QVYxMWJ5amNPQVdYRnV3d05VZXFfMUc1M05RUTNBRWloaWFCX3U1LTloTHRLQ2NuaXVSWFllTHZ1aWFjVXNXR3M0LTRpVHBaUU9XSjZ4TXVTZ1hKMGhPVHFrem1MZU54RG52SWp5OXVTQlpHMlhYemVacWI5ZUVwTUJVT3d2MkJRdEpIekRCQmtIZDQxaFN0d0dZRE5zZ1NwS1JMd0NWaWlxeGttVFdaMlN2VlEwWFc5S0pfdTVNQ2JMZW9vempBTTJ2TW9CSDBEQU8?oc=5",
         "image": "",
         "publishedAt": "2026-06-07T07:00:00.000Z"
@@ -280,6 +280,14 @@
     ],
     "ideas": [
       {
+        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - Forbes Perú",
+        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; Forbes Perú",
+        "source": "Forbes Perú",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnR2OFJqcnVKWEVnZF9Fc1FFQ1AxY3lYbTFYQnh2WkJZMEljS2I4UHozWHN5eTNXVXkwSV9WS0U2WDdCenNoMGVLUzRpMEZXcnIzRVpJSWloS295VGJzNVZtT3h6akN0b3EyVDdYVUwtc05SR0Z6WWE0MjZKUnd3TDFnUWx3aEJwbHRYUmgxNHJseERsVE8tdTg0WnJrT1hMMEFER0h6WVp1ekd1V2JWLTNPUQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-25T12:02:15.000Z"
+      },
+      {
         "title": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC - Revista COSAS Perú",
         "summary": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC &nbsp;&nbsp; Revista COSAS Perú",
         "source": "Revista COSAS Perú",
@@ -334,14 +342,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
         "image": "",
         "publishedAt": "2026-05-29T07:00:00.000Z"
-      },
-      {
-        "title": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación - Tu Diario Huánuco",
-        "summary": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación &nbsp;&nbsp; Tu Diario Huánuco",
-        "source": "Tu Diario Huánuco",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaGpsT3FrekhQWTg2UDZlY1JyaUJzQWI4UDEyRjZGUDY4ZXRtQjBUUHlmdmtrSW8wN29HalpYQWswZFA1OHg0SVAyRldYdFR3bUk1V0xwRHRWc1ExQnNXN0VzejE0eHFacXpMd1RnQ2hjR0ktQU1CeGZrZm1HMUUyci0tdW1xWnpyeWl3NHRua0pSRXE2azVCNEk4aTg4VDN4czhsZXV1T1F3THByYkJyajF5blp0cjlKanJ6blRGNEsxS3dOMnFYMFAyZXRqbEJyRDhVX2x5WWxadw?oc=5",
-        "image": "",
-        "publishedAt": "2026-05-05T07:00:00.000Z"
       }
     ],
     "ia": [
@@ -420,9 +420,9 @@
         "publishedAt": "2026-09-10T10:19:00.000Z"
       },
       {
-        "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - elcomercio.pe",
-        "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; elcomercio.pe",
-        "source": "elcomercio.pe",
+        "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - El Comercio Perú",
+        "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZTlFMnQ1b1pJM1dEbTJaWnpNVGZ0T1g4SWpXZ25rWHBsN1hTdmRVTUVfdG9mQXhQOFZZU3F6X3BkQzRXMnFaejgzcmgzdDZZOFk1VEhBZzJsTmQxS3k3aDRBeHRLRnZBTzR0WFU0cjhNal9QUHVoNHY3czFrNGlxN1NpckM1bGVpSFJfVVdNTlp6YnJsRUxURVh2UXZValZzcEJqSkxxSGI4MjdUN3lFNFg0QzlFUmVWc0lCN3A2VzgyN0d6UXZwSG5Bc0xPejhQYkgycDZlblczUlhzekRGTmVEVDFxU2c?oc=5",
         "image": "",
         "publishedAt": "2026-09-09T19:48:09.000Z"
