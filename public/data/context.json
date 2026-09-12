@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T00:15:59.623Z",
+  "generatedAt": "2026-09-12T04:37:10.634Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,6 +24,22 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
+        "title": "Juntos por el Perú, Obras y Ahora Nación solicitan nuevo pedido de facultades legislativas",
+        "summary": "Los voceros de tres bancadas solicitaron al Ejecutivo presentar una nueva propuesta de delegación de facultades legislativas, limitada a seguridad ciudadana y gestión de desastres.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/bancadas-piden-a-luis-galarreta-nuevo-pedido-de-facultades-legislativas-congreso-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/7BTMSGZQFBGHVIPK4WMHHCI5GA.jpg?auth=8af32041cbdf74ecfce511703cdb5530f8121ff2004e0929aa11cbdce7499f98&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-12T03:06:42.000Z"
+      },
+      {
+        "title": "ERM 2026: ONPE amplía hasta el 18 de setiembre el plazo para presentar información financiera de campaña",
+        "summary": "La ONPE amplió hasta el viernes 18 de setiembre el plazo para que organizaciones políticas y candidatos de las ERM 2026 presenten su primera información financiera de campaña.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/elecciones/elecciones-regionales-y-municipales-2026-onpe-amplia-hasta-el-18-de-setiembre-el-plazo-para-presentar-informacion-financiera-de-campana-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/D5SSYI53YZBJ3DTYXTNYFLZQO4.jpg?auth=9a25ffc0e896c23259a0c140afa3da5cae6a6d65d599fb347072eab1b47dba91&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-12T01:45:31.000Z"
+      },
+      {
         "title": "Flavio Figallo sobre viaje de Keiko Fujimori: “No tenemos mayores inconvenientes en que este se realice”",
         "summary": "El senador Flavio Figallo afirmó que el Partido del Buen Gobierno no tiene inconvenientes con el viaje de la presidenta Keiko Fujimori al extranjero para participar en la Asamblea General de la ONU.",
         "source": "El Comercio Perú",
@@ -32,19 +48,19 @@
         "publishedAt": "2026-09-11T22:41:30.000Z"
       },
       {
-        "title": "Suman seis las comisiones de la Cámara Diputados que se oponen a otorgarle las facultades al Ejecutivo: ¿Qué viene ahora?",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/suman-seis-las-comisiones-de-la-camara-diputados-que-se-oponen-a-otorgarle-las-facultades-al-ejecutivo-que-viene-ahora-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/EJO3B6QXORHELA6UN6BGXYWO2A.jpg?auth=e0306fecc731b359362ecb1e47b6fc8999888c0ffd93cfc1e767bc63b14f420b&smart=true&width=1200&height=647",
-        "publishedAt": "2026-09-11T21:43:00.000Z"
-      },
-      {
         "title": "Rafael López Aliaga: ¿Es legal o no entregar las credenciales de alcalde a primeros regidores tras eventual victoria?",
         "summary": "",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-es-legal-o-no-entregarle-las-credenciales-de-alcalde-a-primeros-regidores-tras-eventual-victoria-jne-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/ERNM3THLPBH7JIAV2QTXB5QPEA.jpg?auth=19405ce08c2992f8df879d7898eaaeed66d42a0259f420045a1764ed91a04ce9&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-11T21:43:00.000Z"
+      },
+      {
+        "title": "Suman seis las comisiones de la Cámara Diputados que se oponen a otorgarle las facultades al Ejecutivo: ¿Qué viene ahora?",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/suman-seis-las-comisiones-de-la-camara-diputados-que-se-oponen-a-otorgarle-las-facultades-al-ejecutivo-que-viene-ahora-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/EJO3B6QXORHELA6UN6BGXYWO2A.jpg?auth=e0306fecc731b359362ecb1e47b6fc8999888c0ffd93cfc1e767bc63b14f420b&smart=true&width=1200&height=647",
         "publishedAt": "2026-09-11T21:43:00.000Z"
       },
       {
@@ -62,80 +78,64 @@
         "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-solicita-formalmente-permiso-al-congreso-para-su-primer-viaje-internacional-como-presidenta-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/XFLOHAB4CRAOBLIVAGHU2JJDJE.jpg?auth=a97146f0c17d6ffc9eccac76ae4cce2b4d01d8644179e78ab902ff0e54aadd75&smart=true&width=1200&height=819",
         "publishedAt": "2026-09-11T21:20:05.000Z"
-      },
-      {
-        "title": "Jacques Rodrich pedirá opinión a Comisión de Constitución del Senado sobre cuánto pueden modificar lo que aprueben los diputados",
-        "summary": "El senador Jacques Rodrich (Fuerza Popular) anunció en el programa “Tenemos que hablar” de El Comercio que pedirá opinión consultiva a la Comisión de Constitución del Senado para precisar el alcance real de las modificaciones que pueden hacer a las facultades legislativas. La medida busca esclarecer con precisión los l",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/jacques-rodrich-pedira-opinion-a-comision-de-constitucion-del-senado-sobre-cuanto-pueden-modificar-lo-que-aprueben-los-diputados-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/UCRHCX4AERA5TJQGZ4UCQHAXRU.jpg?auth=a34e06d6f8b1c7e19c1d8e2f3c30ec34a737979278465dd451e9b21e1ebe7393&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-11T20:42:58.000Z"
-      },
-      {
-        "title": "Perú se incorpora a coalición liderada por EE.UU. contra el crimen organizado trasnacional: el detrás de cámaras del encuentro entre Fujimori y Rubio",
-        "summary": "Perú se incorpora al “Escudo de las Américas”, la coalición liderada por EE.UU. para combatir al crimen organizado transnacional. Keiko Fujimori y Marco Rubio destacaron una nueva etapa en la relación bilateral, marcada por mayor cooperación en seguridad, inteligencia y lucha contra las organizaciones criminales.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/peru-se-incorpora-al-escudo-de-las-americas-de-eeuu-contra-el-crimen-organizado-transnacional-marco-rubio-donald-trump-keiko-fujimori-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/5RLGZS7BHFFMHMUQNTDFY2PAEY.jpg?auth=894b1b179fd014ff8cb42f096a7b9455e3097103acdb18e3f8488344d697f752&smart=true&width=1200&height=647",
-        "publishedAt": "2026-09-11T19:43:46.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Más allá del PISA: 336,000 jóvenes entre 14 y 17 años en Perú no estudian, ¿qué riesgos hay?",
-        "summary": "Data a este segundo trimestre presentó que casi el 15% de este grupo poblacional no está estudiando. Estos se dividen entre quienes únicamente laboran y quienes no estudian ni trabajan (Ninis). Los detalles aquí.",
+        "title": "Minera Poderosa en Pataz: de 120 a 1,940 toneladas diarias y un modelo que reparte las obras",
+        "summary": "Poderosa llegó a un Pataz sin carretera ni electricidad y empezó en 1982 procesando 120 toneladas de mineral al día. Hoy trata 1,940 y comparte con el municipio y la población la decisión sobre las obras del distrito.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/mas-alla-del-pisa-336000-jovenes-entre-14-y-17-anos-en-peru-no-estudian-que-riesgos-hay-noticia/",
-        "image": "https://gestion.pe/resizer/v2/VNOAIUVYERFZHK2AJPWEIBKN7U.jpeg?auth=12955cb1f98d3ebe0aca76aad4e5c49e4ddaed7b80530fceba67e4fc2bb45332&smart=true&width=910&height=591",
-        "publishedAt": "2026-09-12T00:11:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/poderosa-la-infraestructura-que-tuvo-que-construir-para-operar-en-pataz-noticia/",
+        "image": "https://gestion.pe/resizer/v2/D3IIHWD4ZJBBRAFGPHUDJTGS4M.jpg?auth=000230f25de2da795c51acb2dd2efc08e51e938574e14f3115cf31fddd05ee6c&smart=true&width=696&height=435",
+        "publishedAt": "2026-09-12T03:21:40.000Z"
       },
       {
-        "title": "Petroperú: este es el paquete de activos que se ofrecerá a las empresas hacia octubre",
-        "summary": "En entrevista con Gestión, Luis Del Carpio, presidente ejecutivo de la agencia, detalló cuáles será la ruta de los bloques patrimoniales de Petroperú que se “constituirán”, es decir, se lanzarán a concurso para que empresas puedan hacerse con ellos.",
+        "title": "De Bad Bunny a Coldplay: la propuesta de Candlelight que “ilumina” el camino de Fever para ingresar a Perú",
+        "summary": "Miles de velas iluminan teatros e iglesias mientras un cuarteto de cuerdas pasa de Vivaldi a Coldplay o Bad Bunny. Lo que para el público es una noche de desconexión inmersiva, para la plataforma global Fever constituye la validación de un modelo en aceleración comercial. Creado hace aproximadamente siete años y con pr",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/petroperu-refinerias-el-oleoducto-y-mas-se-ofreceran-a-empresas-hacia-octubre-noticia/",
-        "image": "https://gestion.pe/resizer/v2/Q5FW3TOLDBA25CJJTVSBXN337I.png?auth=2ab1b62a367393235378dada2307d06a852742284f118a1af0932346de679cab&smart=true&width=1672&height=941",
-        "publishedAt": "2026-09-12T00:07:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/modelo-de-concierto-inmersivo-candlelight-escala-en-peru-e-ilumina-el-camino-de-ticketera-fever-para-ingresar-al-pais-noticia/",
+        "image": "https://gestion.pe/resizer/v2/L4SFV7K2XVDARMDMM6G6GXF4SE.jpg?auth=3de3870a8b47342f154240d32a7a817a4fa86150a891e6a57d684d5260633cb2&smart=true&width=6000&height=4000",
+        "publishedAt": "2026-09-12T02:04:26.000Z"
       },
       {
-        "title": "Dólar en Perú: ¿por qué el miércoles se sabrá si cerrará el año al alza o a la baja?",
-        "summary": "El dólar ganó tracción en los últimos dias en medio de la convulsión de los mercados por el mayor riesgo de inflación conforme el petróleo se dispara. Se viene día D.",
+        "title": "Perú retrocedió a niveles de hace 10 años en PISA, ¿cómo afectará a los jóvenes?",
+        "summary": "Los últimos resultados del Programa para la Evaluación Internacional de Estudiantes (“PISA”, por sus siglas en inglés) vuelven a poner sobre la mesa una preocupación que trasciende las aulas: las capacidades con las que los adolescentes llegarán, en los próximos años, al mercado laboral.",
         "source": "Gestión",
-        "url": "https://gestion.pe/tu-dinero/dolar-en-peru-por-que-el-miercoles-se-sabra-si-cerrara-el-ano-al-alza-o-a-la-baja-noticia/",
-        "image": "https://gestion.pe/resizer/v2/OD3JFI7U6NEQ3MR4M2QANKLSPQ.jpg?auth=82d34035ffbeb3b369aa8bc56cb0fdc24f4c0ce71cc9efa16fcc6fc7c1536291&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-11T23:28:52.000Z"
+        "url": "https://gestion.pe/economia/management-empleo/pisa-2025-peru-retrocedio-a-niveles-de-hace-10-anos-como-afectara-al-empleo-de-los-jovenes-noticia/",
+        "image": "https://gestion.pe/resizer/v2/TKSZRQA2QZHSPPSL655W5CCTJI.jpg?auth=2a9ea78e90b633ef7a30635f6c50641e7709c9ae6c5ea31155e282bdc43a3169&smart=true&width=1408&height=768",
+        "publishedAt": "2026-09-12T01:28:43.000Z"
       },
       {
-        "title": "Yape, Plin y otras billeteras: ¿cuánto dinero puede recibir sin tener “problemas” con Sunat?",
-        "summary": "¿Existe un monto máximo que puede recibir por Yape, Plin u otras billeteras sin problemas con Sunat? Conozca cuándo debe justificar el origen del dinero.",
+        "title": "Locales comerciales en edificios corporativos: ¿dónde instalar un restaurante o café en Miraflores?",
+        "summary": "Miraflores cuenta con 142 locales comerciales distribuidos en 61 edificios corporativos de clase A y B. El mercado registra una vacancia de 10.4% y más de 1,300 m² fueron absorbidos en el último año, principalmente en el corredor Larco. Restaurantes y cafeterías concentran la mayor demanda.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/yape-plin-y-otras-billeteras-digitales-cuanto-dinero-puedo-recibir-sin-tener-problemas-con-la-sunat-noticia/",
-        "image": "https://gestion.pe/resizer/v2/WBXT22EWFVAMRL2OPRE37MMM6Y.jpeg?auth=83be01e2cbecc787523374cc13d3dbe0540473c4d24d3c1ab4f06778ce31ecf2&smart=true&width=2304&height=1566",
-        "publishedAt": "2026-09-11T22:59:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/miraflores-concentra-26200-m-en-placas-comerciales-y-restaurantes-lideran-la-demanda-noticia/",
+        "image": "https://gestion.pe/resizer/v2/6LN45LUI3ZEZVHHVQEBAQWYESA.jpg?auth=eeb5d6586dc5d78b3d2c9a1248dfb0fdbfc67d6ff8fed68c9523134b12eb0023&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-12T01:24:29.000Z"
       },
       {
-        "title": "Velarde advierte que el golpe de El Niño a la economía podría ser mayor que el calculado",
-        "summary": "Julio Velarde advirtió que El Niño podría generar un impacto mayor al previsto sobre la actividad económica y el PBI del Perú.",
+        "title": "Sueldos en Perú 2026: ¿Cuánto ganan los profesionales de TI y Administración y Finanzas?",
+        "summary": "La Guía Salarial de Buk revela que las medianas salariales en el sector privado formal van desde S/ 1,780 para un codificador de datos hasta S/ 15,210 para un gerente de TI. En Administración y Finanzas, los ingresos oscilan entre S/ 2,000 y S/ 13,500, según el cargo.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/julio-velarde-director-del-bcrp-advierte-que-el-golpe-de-el-nino-a-la-economia-podria-ser-mayor-que-el-calculado-noticia/",
-        "image": "https://gestion.pe/resizer/v2/SZL6WDMNFVEFHKEMKSSXS6BPHE.png?auth=050588b9648bad06c7327f87c8baa62065962f5813329d0b4faf66a6b34d9061&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-09-11T21:48:18.000Z"
+        "url": "https://gestion.pe/economia/empresas/cuanto-ganan-los-profesionales-de-ti-y-finanzas-en-peru-estos-son-los-sueldos-segun-buk-noticia/",
+        "image": "https://gestion.pe/resizer/v2/746LESJO3RBURNXDRU3WQODB4Q.jpg?auth=14d9fb6bad0b28cdeb90d4380f5b87ed095057b3b4a7a4abc9f6f953a9583918&smart=true&width=612&height=344",
+        "publishedAt": "2026-09-12T01:19:08.000Z"
       },
       {
-        "title": "Julio Velarde califica a la India como un “gigante que comienza a aparecer” para Perú",
-        "summary": "",
+        "title": "Adium amplía su negocio y entra al mercado de medicamentos de venta libre: ¿desde cuándo?",
+        "summary": "La farmacéutica cerró el primer semestre con un crecimiento superior al 20%, impulsado por sus lanzamientos en obesidad y otras áreas terapéuticas. Para los próximos años, apunta a fortalecer su portafolio en salud mental y terapias de alto costo, mientras prepara su ingreso al negocio de productos de venta libre (OTC)",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/julio-velarde-presidente-del-bcrp-califica-a-la-india-como-un-gigante-que-comienza-a-aparecer-para-peru-noticia/",
-        "image": "https://gestion.pe/resizer/v2/5NRB7YUY6ZG2TIALKL4FSOLQCU.jpg?auth=372b470f8fa74860beb155c4abe02b7d875a5230bbfce1c1361c18dd713c29bf&smart=true&width=6720&height=4480",
-        "publishedAt": "2026-09-11T21:47:07.000Z"
+        "url": "https://gestion.pe/economia/empresas/adium-dara-un-nuevo-paso-en-peru-apunta-al-mercado-otc-en-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/5LVDGBEADRFJ5KY3VC6JNJLSXA.jpg?auth=ac8ad690555f09c2dc8d4f3fcd4efc6de9bcd72c7c1690c84c802925fc1a3939&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-12T01:16:22.000Z"
       },
       {
-        "title": "Gobierno de Fujimori revisará normas que habrían afectado las cuentas de EsSalud",
-        "summary": "El Gobierno revisará normas que habrían afectado las finanzas de EsSalud por haber sido aprobadas sin estudios o cálculos actuariales suficientes.",
+        "title": "Grupo Romero ofrece comprar acciones de los minoritarios de Orygen Perú: ¿a qué precio?",
+        "summary": "Niagara Energy, empresa utilizada por el Grupo Romero para la transacción, inició formalmente la OPA dirigida a los accionistas minoritarios de la generadora eléctrica. De completarse la compra del 7.07% del capital restante, la operación alcanzará los US$ 161.5 millones.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/gobierno-de-keiko-fujimori-revisara-normas-que-habrian-afectado-las-cuentas-de-essalud-anuncia-ministro-juan-sheput-noticia/",
-        "image": "https://gestion.pe/resizer/v2/B4HER27BOND3LF5Q556ELUHYOM.jpg?auth=082247253bf034b302fb20bee3ac7f1b6201160b61bc4c6c4f1a7046aa45e284&smart=true&width=1620&height=1080",
-        "publishedAt": "2026-09-11T20:35:48.000Z"
+        "url": "https://gestion.pe/economia/empresas/grupo-romero-lanza-oferta-por-acciones-de-orygen-peru-a-us-07298-cuanto-desembolsara-en-total-noticia/",
+        "image": "https://gestion.pe/resizer/v2/J7DQXEXFFBHPFEQGMRJQOZYPE4.gif?auth=ea000067b22f8b00a59ae4c8f0136fadb02744ea1145f5bf08760b64e93f75f7&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-12T01:09:34.000Z"
       },
       {
         "title": "Seis regiones andinas concentran el 37% de la producción de cobre en Perú",
@@ -143,7 +143,7 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/cusco-aayacucho-ica-huancavelica-6-regiones-andinas-de-peru-concentran-el-37-de-la-produccion-de-cobre-en-el-pais-noticia/",
         "image": "https://gestion.pe/resizer/v2/5PGY5KTDH5DD3OTNB2UXFNUMCM.jpg?auth=7584657f55cb7e2afff5ba8ccaeb9a0d10762d3a6f4cfb2b72c756bb8c6704ef&smart=true&width=1200&height=729",
-        "publishedAt": "2026-09-11T20:34:43.000Z"
+        "publishedAt": "2026-09-12T00:34:00.000Z"
       }
     ],
     "sociedad": [
@@ -188,28 +188,28 @@
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
-        "title": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS - Diario Ahora",
-        "summary": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS &nbsp;&nbsp; Diario Ahora",
-        "source": "Diario Ahora",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUm9heXNQZzZPY0tMTmxyWEJrSVFZMlFtb2JVOFpfZXpubndad19NYTVyQVpyLVk0Yi1GZ0xCNmtRY0lWbV9VMTE5QUtRZG1zM2FJMzQweTU1a1lsVzl3OURfYldrUVM1aEJXWGI1OTR4OTFkRDQzcEtpaG1rcE42Zl9jT1g3RVdmQkZETk1ZOFBpd0o1MmF2RHVOczJsQ2Q1VHJGMjJrQ2tCVE42OXNz?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-15T15:44:23.000Z"
-      },
-      {
-        "title": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad - elpais.com",
-        "summary": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad &nbsp;&nbsp; elpais.com",
-        "source": "elpais.com",
+        "title": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad - EL PAÍS",
+        "summary": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad &nbsp;&nbsp; EL PAÍS",
+        "source": "EL PAÍS",
         "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdTZGRmVCRWs3MmpCV1RDRzhzeVJPanVZWlNrOG1BWGNOOWxCZFpPY3FJWWZNcFJudkk4YnROSHNxM2pOaHR2QVczaVhmLXN2NE5KLThVcE9KMDI0Vlg5SnFjQUtrcHB5dnNYa2RjdHlTb2g3OWs5RXZ1RmVBZ1FKREFka2MzVTVTTGJiOGxqQmNIODlucGpxLVpHNk1SVWdBeER4Nm85QUw2UjM4bG1aX0UzZEFBRkFNSVlRY0NFWmlzQ0IxNVZoQndieTRvaDRpWlRvc21JdmtaeEtTN3RYUWN0cVZSNVVudVVRejlta0Z3bGRHVkhv?oc=5",
         "image": "",
         "publishedAt": "2026-06-07T07:00:00.000Z"
       },
       {
-        "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - elpais.com",
-        "summary": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución &nbsp;&nbsp; elpais.com",
-        "source": "elpais.com",
+        "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - EL PAÍS",
+        "summary": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución &nbsp;&nbsp; EL PAÍS",
+        "source": "EL PAÍS",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeW5LcjdJa3V6MXlwdU1CVG4wR19lcXM5Ynoydmd3QVYxMWJ5amNPQVdYRnV3d05VZXFfMUc1M05RUTNBRWloaWFCX3U1LTloTHRLQ2NuaXVSWFllTHZ1aWFjVXNXR3M0LTRpVHBaUU9XSjZ4TXVTZ1hKMGhPVHFrem1MZU54RG52SWp5OXVTQlpHMlhYemVacWI5ZUVwTUJVT3d2MkJRdEpIekRCQmtIZDQxaFN0d0dZRE5zZ1NwS1JMd0NWaWlxeGttVFdaMlN2VlEwWFc5S0pfdTVNQ2JMZW9vempBTTJ2TW9CSDBEQU8?oc=5",
         "image": "",
         "publishedAt": "2026-06-07T07:00:00.000Z"
+      },
+      {
+        "title": "Así está el país en seguridad, economía y salud, según los datos 👉🏽 https://bbc.in/3RGDvDY - facebook.com",
+        "summary": "Así está el país en seguridad, economía y salud, según los datos 👉🏽 https://bbc.in/3RGDvDY &nbsp;&nbsp; facebook.com",
+        "source": "facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRXdfdE5JZEEzaktKWS1MYVBVdVRqSW92cWRXQlU1RTR3SjI5YXRvd2QzRUdFRXBZTG1uMlNMZTkzMzVkWXZ0QXVFZG96TGVmZ01vS3lwUDRMRklyZzB6RHBpYVA4cC1fRWg3V053bEp6RFgxbnUzZWg1R1NEdC1JaDJmQUVidGhGUl9icXFNM0w5VTJITDdhUGNzMkNqNXNqZ1hjTnhFcEEzdjQ5Xzl3ZWVzYmpWYVM1SXN1UDhHRUFuRktyXzZZQ1U4ZDRpQlBES0dXZS1hLUlpRU5yVDE4Y3FpWno?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-06T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -280,14 +280,6 @@
     ],
     "ideas": [
       {
-        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - Forbes Perú",
-        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; Forbes Perú",
-        "source": "Forbes Perú",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnR2OFJqcnVKWEVnZF9Fc1FFQ1AxY3lYbTFYQnh2WkJZMEljS2I4UHozWHN5eTNXVXkwSV9WS0U2WDdCenNoMGVLUzRpMEZXcnIzRVpJSWloS295VGJzNVZtT3h6akN0b3EyVDdYVUwtc05SR0Z6WWE0MjZKUnd3TDFnUWx3aEJwbHRYUmgxNHJseERsVE8tdTg0WnJrT1hMMEFER0h6WVp1ekd1V2JWLTNPUQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-25T12:02:15.000Z"
-      },
-      {
         "title": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC - Revista COSAS Perú",
         "summary": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC &nbsp;&nbsp; Revista COSAS Perú",
         "source": "Revista COSAS Perú",
@@ -312,9 +304,9 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética - El Periódico de la Energía",
-        "summary": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética &nbsp;&nbsp; El Periódico de la Energía",
-        "source": "El Periódico de la Energía",
+        "title": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética - elperiodicodelaenergia.com",
+        "summary": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética &nbsp;&nbsp; elperiodicodelaenergia.com",
+        "source": "elperiodicodelaenergia.com",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2VQSGwtN0JkSnVaSTJURmJuX2VwcmExRWNzXzhsMmhKamg5WEVwU2plZHBHYzdUMjFZQW9xejJoaG04SDV1YWhkZlNneFZTQUNnN3VQVDltd295ai12R09RRlRJaTVEek5tT2F0c21NY1pQWVRxM1NYWVVaZHdiR050dmp0S1Yzc1JfdEsyR3dOUG95QUJzWFBwVWR1OVhMRWR2WGVmS2NrV0p5UGFpb3pYWTgwMW9Qd1lUOUc2aG1RdUk?oc=5",
         "image": "",
         "publishedAt": "2026-07-08T10:21:37.000Z"
@@ -342,6 +334,14 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
         "image": "",
         "publishedAt": "2026-05-29T07:00:00.000Z"
+      },
+      {
+        "title": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación - Tu Diario Huánuco",
+        "summary": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación &nbsp;&nbsp; Tu Diario Huánuco",
+        "source": "Tu Diario Huánuco",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaGpsT3FrekhQWTg2UDZlY1JyaUJzQWI4UDEyRjZGUDY4ZXRtQjBUUHlmdmtrSW8wN29HalpYQWswZFA1OHg0SVAyRldYdFR3bUk1V0xwRHRWc1ExQnNXN0VzejE0eHFacXpMd1RnQ2hjR0ktQU1CeGZrZm1HMUUyci0tdW1xWnpyeWl3NHRua0pSRXE2azVCNEk4aTg4VDN4czhsZXV1T1F3THByYkJyajF5blp0cjlKanJ6blRGNEsxS3dOMnFYMFAyZXRqbEJyRDhVX2x5WWxadw?oc=5",
+        "image": "",
+        "publishedAt": "2026-05-05T07:00:00.000Z"
       }
     ],
     "ia": [
@@ -378,14 +378,6 @@
         "publishedAt": "2026-09-10T11:34:25.000Z"
       },
       {
-        "title": "Perú.- Alex Kaiser señala que la IA debe emplearse con cuidado para no dañar el desarrollo humano - notiperú",
-        "summary": "Perú.- Alex Kaiser señala que la IA debe emplearse con cuidado para no dañar el desarrollo humano &nbsp;&nbsp; notiperú",
-        "source": "notiperú",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYlAxeEVHUE85UEtHYWpsOUh6SGZEUnU3cDh2c0dORlppVE9jb3hwOV9JUE50TmJ4dV9FaVI2V2tLYkNEWVhQR2syMGgwZXJNOXRWYzFWNzFPeFltb2hWZ1dKQzU5b2phbEhuUEVhU0tvVWpUSVQ2ZzFJZWIxZ3RpRm5IYTd3emY5MG5iUVQ1SnU3UFRjRXphWjhKWWdIb21wdkxXaUQ3TzZ5M2dEaS1ZOEdjSUVONXZMdUpJS3Frb3FRSzhNbXVUblFoa1lXV1MyVDVsaUU5WWw?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-10T11:08:12.000Z"
-      },
-      {
         "title": "Perú acuerda importar y adoptar tecnología de EE.UU. - latribuna.com.py",
         "summary": "Perú acuerda importar y adoptar tecnología de EE.UU. &nbsp;&nbsp; latribuna.com.py",
         "source": "latribuna.com.py",
@@ -408,6 +400,14 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVHB2d1J3cHpjczFGaXIwbFhfVmd2RUtxNU5OV0lzWm52ZjllRVlLcmplZUVXSk56eTVMSTNUY25hTElBSkFsRXZFYXlRT1l5N1NucTBLc1hnd3NDMUozTWtiZTlraXkzWXl6eFQ0X1dHZWpCTnRUZjMtUTczWnVuc3NjV2NiQzI1Z01VZHc2RF9xNWRkenQxM3d3ZEhhUVdIOWVqb0gwWlprbzU3WGhpZzB3V3YxZHBPNmJaNkN5VmZUdFhXbmfSAeABQVVfeXFMTkJ3UzFoczdBLUU3RVJxTjR0Tk8yaEdpQXNCOXJOZjlURjZBd1lyZFhjenhrT1dQN0dqNWVJUUVqV0NwYTF0VDVZeHVxVGFaR1pLX0lOeEM0dTBSOWcxQmtoRXVjTE84dzhzc19DNE42WWtzSEg3b1ludUNGeFYyS1EyUER2MnMyZzVSNWd4aklEbjhxb1RVUVZRdDJncUh0VGFySzNfcjFVVVIydTdvSGc4LXpfN2tYRlliYkU5X3NjOGk5V1IxWksyWVpPUFBocmtSaC1zNTAzZmlWa3ExeFE?oc=5",
         "image": "",
         "publishedAt": "2026-09-09T16:37:00.000Z"
+      },
+      {
+        "title": "El acuerdo tecnológico más ambicioso en Perú: el megaproyecto con EE. UU. para transformar el Estado con IA - eluniverso.com",
+        "summary": "El acuerdo tecnológico más ambicioso en Perú: el megaproyecto con EE. UU. para transformar el Estado con IA &nbsp;&nbsp; eluniverso.com",
+        "source": "eluniverso.com",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb1laN1dIQ3pHNnVxMXhERTlOVEN6MjZjMkNaWUU3MVZXYk54WHFtZnBuUDB6dzJBdFdySEdESWVGaGJ5aWExMjYtdjVIN0tfaTRVUDdnYlZDQnJ3akt6cWgwY1dIMGQ5Z2VYRlkxbHkxYTdFbjVDamdXNVg0QklGNmduZHFLOEx4ckxwdDFWUEM1RC1EX2luT0JBTVhoQnJMQ1BaRVJkVEppY09nNVlOM09nbTQ0U21aV0p1cTVTWDlYVXhwRVVLOGZ3cFZWal9ZVzQxejhFV0g2Zk91cXlEQW9TTWJBelp4V2hsWG9Oc3lwQQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-09T14:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -579,7 +579,7 @@
         "title": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones - Infobae",
         "summary": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTTZDSUpUY3djZ1R3U0lOUzRLVVV6OGFpNGZvRm83N0dTV2VlclhHT3U5YlVzX1NLMUFzdUx4cHZrX2FhdGhDeGtYOWZwZ1VyUnZiZEIxRUw5NmhZUG93WHZJNUFHUzRTMHBtVTRQUE91OFprb1NlMXhsbkF5ZHZINWxweFVsVzRJZlpUcFI2Mks5andzSTgwNVhUZXJsaVl5bUhrMXFLX0JMWDgtNEtWbW92YXVBS19kQ1dYS1hqSEt4YVpnaFNqeFVHQzhqbVBIZnFnUEcyOXdqUnFZNllOZG5aVjlsbUtlV21JZ21aTjRkNlNyOEYwZnVhbnhSdDNadVRZbUNvYjPSAaMCQVVfeXFMT0lVVzhVeG9mNGZBb2diQW9Bd1ItVlppWDFzMmt4eDAyY1ZYMjVQUWpzN2hzMGpfR3RqRGhVS3NGZm04ZlBnaGxsUXozY1o1ZlFkWjl3aElHZjAyaWo0SDR1VU5SM09KSm1HWkRTeDlSa1Z5bGVpZS0yN0s2cVYxRFBvUjRwZHV1eHFnbUx0RlRaLUdSU0JPWmdSY0V2SXE0QUpFbGlCa3JtOE0tOHNCMWlsV19wTi1ienIyLTdubnJCUXQ0T2xkSTluVENhVENBeEcwZVM4NlZjS2IwS3NhbTRNQ3d0cFlLd3JWakw2Wl9YbTBkcGowYkVYU2NKbVl4eXdVa2FNZ3FlVVNpejg4T1FQaUxmZlR2Rk9idk9RLVV4cmtB?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTTZDSUpUY3djZ1R3U0lOUzRLVVV6OGFpNGZvRm83N0dTV2VlclhHT3U5YlVzX1NLMUFzdUx4cHZrX2FhdGhDeGtYOWZwZ1VyUnZiZEIxRUw5NmhZUG93WHZJNUFHUzRTMHBtVTRQUE91OFprb1NlMXhsbkF5ZHZINWxweFVsVzRJZlpUcFI2Mks5andzSTgwNVhUZXJsaVl5bUhrMXFLX0JMWDgtNEtWbW92YXVBS19kQ1dYS1hqSEt4YVpnaFNqeFVHQzhqbVBIZnFnUEcyOXdqUnFZNllOZG5aVjlsbUtlV21JZ21aTjRkNlNyOEYwZnVhbnhSdDNadVRZbUNvYjM?oc=5",
         "image": "",
         "publishedAt": "2026-08-21T07:00:00.000Z"
       },
