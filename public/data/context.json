@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T21:41:44.501Z",
+  "generatedAt": "2026-09-12T00:15:59.623Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -22,6 +22,38 @@
         "url": "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
         "image": "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
         "publishedAt": "2026-09-01T00:00:00.000Z"
+      },
+      {
+        "title": "Flavio Figallo sobre viaje de Keiko Fujimori: “No tenemos mayores inconvenientes en que este se realice”",
+        "summary": "El senador Flavio Figallo afirmó que el Partido del Buen Gobierno no tiene inconvenientes con el viaje de la presidenta Keiko Fujimori al extranjero para participar en la Asamblea General de la ONU.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/flavio-figallo-sobre-viaje-de-keiko-fujimori-no-tenemos-mayores-inconvenientes-en-que-este-se-realice-partido-del-buen-gobierno-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/HNL2V3J7ZBGTTIB6VGCJFBSJZY.jpg?auth=d6f83d4e45ab22b41b1ac6ff6dbd171d9e6c144a407ef7a9a211e32fc7e0b1f2&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-11T22:41:30.000Z"
+      },
+      {
+        "title": "Suman seis las comisiones de la Cámara Diputados que se oponen a otorgarle las facultades al Ejecutivo: ¿Qué viene ahora?",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/suman-seis-las-comisiones-de-la-camara-diputados-que-se-oponen-a-otorgarle-las-facultades-al-ejecutivo-que-viene-ahora-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/EJO3B6QXORHELA6UN6BGXYWO2A.jpg?auth=e0306fecc731b359362ecb1e47b6fc8999888c0ffd93cfc1e767bc63b14f420b&smart=true&width=1200&height=647",
+        "publishedAt": "2026-09-11T21:43:00.000Z"
+      },
+      {
+        "title": "Rafael López Aliaga: ¿Es legal o no entregar las credenciales de alcalde a primeros regidores tras eventual victoria?",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-es-legal-o-no-entregarle-las-credenciales-de-alcalde-a-primeros-regidores-tras-eventual-victoria-jne-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/ERNM3THLPBH7JIAV2QTXB5QPEA.jpg?auth=19405ce08c2992f8df879d7898eaaeed66d42a0259f420045a1764ed91a04ce9&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-11T21:43:00.000Z"
+      },
+      {
+        "title": "Aliados en la Mesa Directiva, pero divididos en el pleno: así fue la votación para interpelar al ministro del Interior en la Cámara de Diputados",
+        "summary": "La Cámara de Diputados del Congreso aprobó el último jueves la moción de interpelación al ministro del Interior, César Astudillo, impulsada por la bancada de Juntos por el Perú. Sin embargo, la decisión no contó con el respaldo unánime de todas las bancadas de oposición al gobierno de Keiko Fujimori. El Partido del Bue",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/aliados-en-la-mesa-directiva-pero-divididos-en-el-pleno-asi-fue-la-votacion-para-interpelar-al-ministro-del-interior-en-la-camara-de-diputados-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/YDW4QWN3IFAB7G6X3SJ62YZLJ4.jfif?auth=eeaf3690fab254961985700b631b02e49e79b198315e352a464c206dabd89310&smart=true&width=1600&height=1066",
+        "publishedAt": "2026-09-11T21:42:00.000Z"
       },
       {
         "title": "Keiko Fujimori solicita formalmente permiso al Congreso para su primer viaje internacional como presidenta",
@@ -46,41 +78,57 @@
         "url": "https://elcomercio.pe/politica/peru-se-incorpora-al-escudo-de-las-americas-de-eeuu-contra-el-crimen-organizado-transnacional-marco-rubio-donald-trump-keiko-fujimori-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/5RLGZS7BHFFMHMUQNTDFY2PAEY.jpg?auth=894b1b179fd014ff8cb42f096a7b9455e3097103acdb18e3f8488344d697f752&smart=true&width=1200&height=647",
         "publishedAt": "2026-09-11T19:43:46.000Z"
-      },
-      {
-        "title": "Rafael López Aliaga: ¿Es legal o no entregar las credenciales de alcalde a primeros regidores tras eventual victoria?",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-es-legal-o-no-entregarle-las-credenciales-de-alcalde-a-primeros-regidores-tras-eventual-victoria-jne-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/ERNM3THLPBH7JIAV2QTXB5QPEA.jpg?auth=19405ce08c2992f8df879d7898eaaeed66d42a0259f420045a1764ed91a04ce9&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-11T19:43:17.000Z"
-      },
-      {
-        "title": "Suman seis las comisiones de la Cámara Diputados que se oponen a otorgarle las facultades al Ejecutivo: ¿Qué viene ahora?",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/suman-seis-las-comisiones-de-la-camara-diputados-que-se-oponen-a-otorgarle-las-facultades-al-ejecutivo-que-viene-ahora-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/EJO3B6QXORHELA6UN6BGXYWO2A.jpg?auth=e0306fecc731b359362ecb1e47b6fc8999888c0ffd93cfc1e767bc63b14f420b&smart=true&width=1200&height=647",
-        "publishedAt": "2026-09-11T19:42:56.000Z"
-      },
-      {
-        "title": "Aliados en la Mesa Directiva, pero divididos en el pleno: así fue la votación para interpelar al ministro del Interior en la Cámara de Diputados",
-        "summary": "La Cámara de Diputados del Congreso aprobó el último jueves la moción de interpelación al ministro del Interior, César Astudillo, impulsada por la bancada de Juntos por el Perú. Sin embargo, la decisión no contó con el respaldo unánime de todas las bancadas de oposición al gobierno de Keiko Fujimori. El Partido del Bue",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/aliados-en-la-mesa-directiva-pero-divididos-en-el-pleno-asi-fue-la-votacion-para-interpelar-al-ministro-del-interior-en-la-camara-de-diputados-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/YDW4QWN3IFAB7G6X3SJ62YZLJ4.jfif?auth=eeaf3690fab254961985700b631b02e49e79b198315e352a464c206dabd89310&smart=true&width=1600&height=1066",
-        "publishedAt": "2026-09-11T19:42:34.000Z"
-      },
-      {
-        "title": "Ministro del Interior sobre interpelación: “Por supuesto que iremos cuando corresponda la próxima semana”",
-        "summary": "El ministro del Interior, César Astudillo, se pronunció sobre la moción de interpelación aprobada en su contra y confirmó que acudirá al Congreso de la República para responder las preguntas planteadas por los parlamentarios. Según dijo, considera que este procedimiento forma parte de las funciones de control político ",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/ministro-del-interior-sobre-interpelacion-por-supuesto-que-iremos-cuando-corresponda-la-proxima-semana-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/S6VR7B77HVHRHNFJGRWLIMRYKE.jpg?auth=175c97783b9e7b8fb96c1bdce73ec0832e7ecef130bb7e5970014b07b7774295&smart=true&width=1200&height=822",
-        "publishedAt": "2026-09-11T19:02:41.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Más allá del PISA: 336,000 jóvenes entre 14 y 17 años en Perú no estudian, ¿qué riesgos hay?",
+        "summary": "Data a este segundo trimestre presentó que casi el 15% de este grupo poblacional no está estudiando. Estos se dividen entre quienes únicamente laboran y quienes no estudian ni trabajan (Ninis). Los detalles aquí.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/mas-alla-del-pisa-336000-jovenes-entre-14-y-17-anos-en-peru-no-estudian-que-riesgos-hay-noticia/",
+        "image": "https://gestion.pe/resizer/v2/VNOAIUVYERFZHK2AJPWEIBKN7U.jpeg?auth=12955cb1f98d3ebe0aca76aad4e5c49e4ddaed7b80530fceba67e4fc2bb45332&smart=true&width=910&height=591",
+        "publishedAt": "2026-09-12T00:11:00.000Z"
+      },
+      {
+        "title": "Petroperú: este es el paquete de activos que se ofrecerá a las empresas hacia octubre",
+        "summary": "En entrevista con Gestión, Luis Del Carpio, presidente ejecutivo de la agencia, detalló cuáles será la ruta de los bloques patrimoniales de Petroperú que se “constituirán”, es decir, se lanzarán a concurso para que empresas puedan hacerse con ellos.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/petroperu-refinerias-el-oleoducto-y-mas-se-ofreceran-a-empresas-hacia-octubre-noticia/",
+        "image": "https://gestion.pe/resizer/v2/Q5FW3TOLDBA25CJJTVSBXN337I.png?auth=2ab1b62a367393235378dada2307d06a852742284f118a1af0932346de679cab&smart=true&width=1672&height=941",
+        "publishedAt": "2026-09-12T00:07:00.000Z"
+      },
+      {
+        "title": "Dólar en Perú: ¿por qué el miércoles se sabrá si cerrará el año al alza o a la baja?",
+        "summary": "El dólar ganó tracción en los últimos dias en medio de la convulsión de los mercados por el mayor riesgo de inflación conforme el petróleo se dispara. Se viene día D.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/tu-dinero/dolar-en-peru-por-que-el-miercoles-se-sabra-si-cerrara-el-ano-al-alza-o-a-la-baja-noticia/",
+        "image": "https://gestion.pe/resizer/v2/OD3JFI7U6NEQ3MR4M2QANKLSPQ.jpg?auth=82d34035ffbeb3b369aa8bc56cb0fdc24f4c0ce71cc9efa16fcc6fc7c1536291&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-11T23:28:52.000Z"
+      },
+      {
+        "title": "Yape, Plin y otras billeteras: ¿cuánto dinero puede recibir sin tener “problemas” con Sunat?",
+        "summary": "¿Existe un monto máximo que puede recibir por Yape, Plin u otras billeteras sin problemas con Sunat? Conozca cuándo debe justificar el origen del dinero.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/yape-plin-y-otras-billeteras-digitales-cuanto-dinero-puedo-recibir-sin-tener-problemas-con-la-sunat-noticia/",
+        "image": "https://gestion.pe/resizer/v2/WBXT22EWFVAMRL2OPRE37MMM6Y.jpeg?auth=83be01e2cbecc787523374cc13d3dbe0540473c4d24d3c1ab4f06778ce31ecf2&smart=true&width=2304&height=1566",
+        "publishedAt": "2026-09-11T22:59:00.000Z"
+      },
+      {
+        "title": "Velarde advierte que el golpe de El Niño a la economía podría ser mayor que el calculado",
+        "summary": "Julio Velarde advirtió que El Niño podría generar un impacto mayor al previsto sobre la actividad económica y el PBI del Perú.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/julio-velarde-director-del-bcrp-advierte-que-el-golpe-de-el-nino-a-la-economia-podria-ser-mayor-que-el-calculado-noticia/",
+        "image": "https://gestion.pe/resizer/v2/SZL6WDMNFVEFHKEMKSSXS6BPHE.png?auth=050588b9648bad06c7327f87c8baa62065962f5813329d0b4faf66a6b34d9061&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-09-11T21:48:18.000Z"
+      },
+      {
+        "title": "Julio Velarde califica a la India como un “gigante que comienza a aparecer” para Perú",
+        "summary": "",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/julio-velarde-presidente-del-bcrp-califica-a-la-india-como-un-gigante-que-comienza-a-aparecer-para-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/5NRB7YUY6ZG2TIALKL4FSOLQCU.jpg?auth=372b470f8fa74860beb155c4abe02b7d875a5230bbfce1c1361c18dd713c29bf&smart=true&width=6720&height=4480",
+        "publishedAt": "2026-09-11T21:47:07.000Z"
+      },
       {
         "title": "Gobierno de Fujimori revisará normas que habrían afectado las cuentas de EsSalud",
         "summary": "El Gobierno revisará normas que habrían afectado las finanzas de EsSalud por haber sido aprobadas sin estudios o cálculos actuariales suficientes.",
@@ -96,54 +144,6 @@
         "url": "https://gestion.pe/economia/cusco-aayacucho-ica-huancavelica-6-regiones-andinas-de-peru-concentran-el-37-de-la-produccion-de-cobre-en-el-pais-noticia/",
         "image": "https://gestion.pe/resizer/v2/5PGY5KTDH5DD3OTNB2UXFNUMCM.jpg?auth=7584657f55cb7e2afff5ba8ccaeb9a0d10762d3a6f4cfb2b72c756bb8c6704ef&smart=true&width=1200&height=729",
         "publishedAt": "2026-09-11T20:34:43.000Z"
-      },
-      {
-        "title": "Petroperú dejará de comprar crudo por encima del precio internacional: así será el paso clave",
-        "summary": "En entrevista con Gestión, Luis Del Carpio, presidente ejecutivo de ProInversión, reveló que la petrolera, bajo la figura de “emergencia”, adquiría crudo de petróleo hasta US$ 30 por encima del precio de referencia internacional, ya inflado por la guerra en Medio Oriente.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/petroperu-ya-tiene-dinero-para-reflotar-y-dejara-de-comprar-crudo-por-encima-del-precio-internacional-noticia/",
-        "image": "https://gestion.pe/resizer/v2/6DQ4COCKU5D3JOSPRLAA7FZFBI.png?auth=ce33ecf0322d68343a95c130f7e8e2b6617e82377a50057ee40cb046291accc9&smart=true&width=1672&height=941",
-        "publishedAt": "2026-09-11T20:30:00.000Z"
-      },
-      {
-        "title": "Petroperú: este es el paquete de activos que se ofrecerá a las empresas hacia octubre",
-        "summary": "En entrevista con Gestión, Luis Del Carpio, presidente ejecutivo de la agencia, detalló cuáles será la ruta de los bloques patrimoniales de Petroperú que se “constituirán”, es decir, se lanzarán a concurso para que empresas puedan hacerse con ellos.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/petroperu-refinerias-el-oleoducto-y-mas-se-ofreceran-a-empresas-hacia-octubre-noticia/",
-        "image": "https://gestion.pe/resizer/v2/Q5FW3TOLDBA25CJJTVSBXN337I.png?auth=2ab1b62a367393235378dada2307d06a852742284f118a1af0932346de679cab&smart=true&width=1672&height=941",
-        "publishedAt": "2026-09-11T20:30:00.000Z"
-      },
-      {
-        "title": "¿Una o dos alzas de tasas? Inflación de EE.UU. es clave en próxima decisión de la Fed",
-        "summary": "Los operadores elevaron sus expectativas de un aumento de la tasa de interés de la Reserva Federal tras conocerse datos de inflación subyacente de Estados Unidos superiores a lo esperado. El mercado asigna ahora una probabilidad de 90% a un incremento la próxima semana y descuenta por completo dos aumentos de tasas ant",
-        "source": "Gestión",
-        "url": "https://gestion.pe/mundo/internacional/inflacion-de-eeuu-eleva-apuestas-por-dos-alzas-de-tasas-de-la-fed-este-ano-noticia/",
-        "image": "https://gestion.pe/resizer/v2/IPXP4PSB7ZDJ7NMXDV5JRHBKBY.jpg?auth=95c490365372ac04b1363ed7366bb4af3217e25e37107f2490b4f3cb9b0aa790&smart=true&width=1200&height=750",
-        "publishedAt": "2026-09-11T20:27:54.000Z"
-      },
-      {
-        "title": "SBS autoriza funcionamiento a BiPay como billetera digital",
-        "summary": "La Superintendencia de Banca, Seguros y AFP (SBS) autorizó, mediante aprobada mediante la Resolución SBS N°02248-2026, el funcionamiento de BiPay, con lo cual podrá brindar servicios de emisión de dinero electrónico, transferencias, pagos, recargas y otras operaciones asociadas al uso de billeteras digitales a personas",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/sbs-autoriza-funcionamiento-a-bipay-como-empresa-emisora-de-dinero-electronico-billetera-digital-noticia/",
-        "image": "https://gestion.pe/resizer/v2/C452XJEKJZFUPOSHZLXJG7SPQI.jpg?auth=d0e0d477b0e3ae55b04303d74796b4534e628711cf2c645798b1bba188a9095b&smart=true&width=1214&height=697",
-        "publishedAt": "2026-09-11T20:11:06.000Z"
-      },
-      {
-        "title": "Créditos hipotecarios: ¿subirán tasas de interés por alza del petróleo a US$ 100?",
-        "summary": "Las consecuencias del petróleo al alza por la guerra en Irán pueden extenderse a ámbitos que parecieran distantes del problema, como los créditos hipotecarios en Perú.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/tu-dinero/creditos-hipotecarios-costaran-mas-por-alza-del-petroleo-a-us-100-que-encarece-deuda-peruana-tasas-de-interes-de-hipotecas-noticia/",
-        "image": "https://gestion.pe/resizer/v2/QHNY6QQIDBC2HEV3KBACIZWKLI.jpg?auth=b913cd65f4d1876d64985d4b5822ea683fa642e199c3b943e14184da8faed0d6&smart=true&width=3888&height=2592",
-        "publishedAt": "2026-09-11T20:10:31.000Z"
-      },
-      {
-        "title": "Yape, Plin y otras billeteras: ¿cuánto dinero puede recibir sin tener “problemas” con Sunat?",
-        "summary": "¿Existe un monto máximo que puede recibir por Yape, Plin u otras billeteras sin problemas con Sunat? Conozca cuándo debe justificar el origen del dinero.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/yape-plin-y-otras-billeteras-digitales-cuanto-dinero-puedo-recibir-sin-tener-problemas-con-la-sunat-noticia/",
-        "image": "https://gestion.pe/resizer/v2/WBXT22EWFVAMRL2OPRE37MMM6Y.jpeg?auth=83be01e2cbecc787523374cc13d3dbe0540473c4d24d3c1ab4f06778ce31ecf2&smart=true&width=2304&height=1566",
-        "publishedAt": "2026-09-11T19:59:45.000Z"
       }
     ],
     "sociedad": [
@@ -196,17 +196,17 @@
         "publishedAt": "2026-07-15T15:44:23.000Z"
       },
       {
-        "title": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad - EL PAÍS",
-        "summary": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad &nbsp;&nbsp; EL PAÍS",
-        "source": "EL PAÍS",
+        "title": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad - elpais.com",
+        "summary": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad &nbsp;&nbsp; elpais.com",
+        "source": "elpais.com",
         "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdTZGRmVCRWs3MmpCV1RDRzhzeVJPanVZWlNrOG1BWGNOOWxCZFpPY3FJWWZNcFJudkk4YnROSHNxM2pOaHR2QVczaVhmLXN2NE5KLThVcE9KMDI0Vlg5SnFjQUtrcHB5dnNYa2RjdHlTb2g3OWs5RXZ1RmVBZ1FKREFka2MzVTVTTGJiOGxqQmNIODlucGpxLVpHNk1SVWdBeER4Nm85QUw2UjM4bG1aX0UzZEFBRkFNSVlRY0NFWmlzQ0IxNVZoQndieTRvaDRpWlRvc21JdmtaeEtTN3RYUWN0cVZSNVVudVVRejlta0Z3bGRHVkhv?oc=5",
         "image": "",
         "publishedAt": "2026-06-07T07:00:00.000Z"
       },
       {
-        "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - EL PAÍS",
-        "summary": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución &nbsp;&nbsp; EL PAÍS",
-        "source": "EL PAÍS",
+        "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - elpais.com",
+        "summary": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución &nbsp;&nbsp; elpais.com",
+        "source": "elpais.com",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeW5LcjdJa3V6MXlwdU1CVG4wR19lcXM5Ynoydmd3QVYxMWJ5amNPQVdYRnV3d05VZXFfMUc1M05RUTNBRWloaWFCX3U1LTloTHRLQ2NuaXVSWFllTHZ1aWFjVXNXR3M0LTRpVHBaUU9XSjZ4TXVTZ1hKMGhPVHFrem1MZU54RG52SWp5OXVTQlpHMlhYemVacWI5ZUVwTUJVT3d2MkJRdEpIekRCQmtIZDQxaFN0d0dZRE5zZ1NwS1JMd0NWaWlxeGttVFdaMlN2VlEwWFc5S0pfdTVNQ2JMZW9vempBTTJ2TW9CSDBEQU8?oc=5",
         "image": "",
         "publishedAt": "2026-06-07T07:00:00.000Z"
@@ -312,6 +312,14 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
+        "title": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética - El Periódico de la Energía",
+        "summary": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética &nbsp;&nbsp; El Periódico de la Energía",
+        "source": "El Periódico de la Energía",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2VQSGwtN0JkSnVaSTJURmJuX2VwcmExRWNzXzhsMmhKamg5WEVwU2plZHBHYzdUMjFZQW9xejJoaG04SDV1YWhkZlNneFZTQUNnN3VQVDltd295ai12R09RRlRJaTVEek5tT2F0c21NY1pQWVRxM1NYWVVaZHdiR050dmp0S1Yzc1JfdEsyR3dOUG95QUJzWFBwVWR1OVhMRWR2WGVmS2NrV0p5UGFpb3pYWTgwMW9Qd1lUOUc2aG1RdUk?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-08T10:21:37.000Z"
+      },
+      {
         "title": "La paradoja peruana: Crecer sin innovar - Revista Gana Más",
         "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; Revista Gana Más",
         "source": "Revista Gana Más",
@@ -334,14 +342,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
         "image": "",
         "publishedAt": "2026-05-29T07:00:00.000Z"
-      },
-      {
-        "title": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación - Tu Diario Huánuco",
-        "summary": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación &nbsp;&nbsp; Tu Diario Huánuco",
-        "source": "Tu Diario Huánuco",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaGpsT3FrekhQWTg2UDZlY1JyaUJzQWI4UDEyRjZGUDY4ZXRtQjBUUHlmdmtrSW8wN29HalpYQWswZFA1OHg0SVAyRldYdFR3bUk1V0xwRHRWc1ExQnNXN0VzejE0eHFacXpMd1RnQ2hjR0ktQU1CeGZrZm1HMUUyci0tdW1xWnpyeWl3NHRua0pSRXE2azVCNEk4aTg4VDN4czhsZXV1T1F3THByYkJyajF5blp0cjlKanJ6blRGNEsxS3dOMnFYMFAyZXRqbEJyRDhVX2x5WWxadw?oc=5",
-        "image": "",
-        "publishedAt": "2026-05-05T07:00:00.000Z"
       }
     ],
     "ia": [
@@ -354,20 +354,20 @@
         "publishedAt": "2026-09-11T18:18:28.000Z"
       },
       {
-        "title": "El acuerdo tecnológico más ambicioso en Perú: el megaproyecto con EE. UU. para transformar el Estado con IA - El Universo",
-        "summary": "El acuerdo tecnológico más ambicioso en Perú: el megaproyecto con EE. UU. para transformar el Estado con IA &nbsp;&nbsp; El Universo",
-        "source": "El Universo",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb1laN1dIQ3pHNnVxMXhERTlOVEN6MjZjMkNaWUU3MVZXYk54WHFtZnBuUDB6dzJBdFdySEdESWVGaGJ5aWExMjYtdjVIN0tfaTRVUDdnYlZDQnJ3akt6cWgwY1dIMGQ5Z2VYRlkxbHkxYTdFbjVDamdXNVg0QklGNmduZHFLOEx4ckxwdDFWUEM1RC1EX2luT0JBTVhoQnJMQ1BaRVJkVEppY09nNVlOM09nbTQ0U21aV0p1cTVTWDlYVXhwRVVLOGZ3cFZWal9ZVzQxejhFV0g2Zk91cXlEQW9TTWJBelp4V2hsWG9Oc3lwQQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-11T16:27:00.000Z"
-      },
-      {
         "title": "ICPNA y Miami Dade College formalizan alianza para impulsar nuevas oportunidades de capacitación en tecnología e inteligencia artificial - diarioelnoticiero.com",
         "summary": "ICPNA y Miami Dade College formalizan alianza para impulsar nuevas oportunidades de capacitación en tecnología e inteligencia artificial &nbsp;&nbsp; diarioelnoticiero.com",
         "source": "diarioelnoticiero.com",
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORmpMZ1FhengyVHRvbkhjSE1YU1lHZzh3VTRmQVdoTWNpWk92bDVIUmJZTW9VWVk2RF9kbHJ4alkzWWRINUVFcHJaR055TzNXTXdVRXFtdklpQVVSeDJDcFpaUXFUWUM1Rmd6R3RnczVSOVZwOXJ3YTJFdktJbnJRSUhMQnF1cHludmpUY3NBZktEYlVyVU9FVmI3eDlBZ25BbDhqamdKT3pYMVh4R0lYMUpycHY3aldlRVhoTkdBWlViaG51ZWxHMlpQT0o3NEFtTXM5OFJ6U0M3SGpldEp5akY1Vm5hQ2gxWHBRQ0ctelc3QlBzSkhVMG1zYw?oc=5",
         "image": "",
         "publishedAt": "2026-09-10T20:55:35.000Z"
+      },
+      {
+        "title": "Minería, logística y agroindustria concentran las mayores barreras para adoptar inteligencia artificial en Perú - Infobae",
+        "summary": "Minería, logística y agroindustria concentran las mayores barreras para adoptar inteligencia artificial en Perú &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTlZRNVdVcHE2LTBjOE9sbkhDMmlGMm5Zd3BzbGFQWDQwTG01XzQwZjloNEw4UjVySHdBSHdtQnBTNFRLX2JaRmFpMXJlWk96OHNwZkFuUG1XR3p6VzBFZDJQT3NUM2hxRlg1eE1CZmctck9laHcxUkExMVU2MDhNOS1ObHlOSG9uNnY4X3dBTkluQ2c4cDZMWG5UT0NiYW5yRm5FN2Q2V2Q3azljX1dQRTVycnJnR0piR3dRWlBnbzVWVzViSllrRW5GWmF1UVBSUnk1bVFrbEphNnR4SEJmenM0MGZKZ9IBgAJBVV95cUxOZmw3c3luSS1IeU1rVUlhMWdBM1BfYi1UUVk2Z1RjR1V2dERLLVZPbFVkRTJ3VEo3VjZWaW1Vd0pUOVRvMHVGVnh0MlVHbW5tcXp6cF9QUGNOaHJyWGFWbTVoVmdwcEw3OU5hRzhpSnVDaDVKcmVzUW04TDBZTWtoUllEUEd1MzdZdkhKWS1JSmswYllRcXdsSm9xakN5UXNwejJha3hZLTh4N29pcmlBMEFjbURraVowdTJ4a3hNbzc1MWF1NXlTUld2OFpaaWl3RnlLbTVSMUhUMzFsa3hoSDR6XzdxR0V1ZUZ5cDBMa240cTRaN2RMOEl0REFFaF9I?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-10T19:42:00.000Z"
       },
       {
         "title": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial - teleSUR",
