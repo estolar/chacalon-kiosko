@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T20:46:34.535Z",
+  "generatedAt": "2026-09-13T23:07:16.785Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -22,6 +22,38 @@
         "url": "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
         "image": "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
         "publishedAt": "2026-09-01T00:00:00.000Z"
+      },
+      {
+        "title": "Diputados: nueve integrantes de la Comisión de Energía y Minas presentan informe en minoría a favor de otorgar facultades al Ejecutivo",
+        "summary": "El documento - al que tuvo acceso El Comercio- declara viable el proyecto del Gobierno en las materias referidas a minería, hidrocarburos, industria petroquímica y electricidad.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/diputados-nueve-integrantes-de-la-comision-de-energia-y-minas-presentan-informe-en-minoria-a-favor-de-otorgar-facultades-al-ejecutivo-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/LNPAELQEGZAHNMNZLOKBQEO3LI.jpg?auth=5082319eefe97f8ea98a6adb8333dce4550b7c4a13a98740a4b659d8574e4899&smart=true&width=1200&height=647",
+        "publishedAt": "2026-09-13T22:19:00.000Z"
+      },
+      {
+        "title": "Informe de Comisión de Economía rechaza dar facultades al Ejecutivo: ¿qué puntos cuestionaron?",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/informe-de-comision-de-economia-rechaza-dar-facultades-que-puntos-cuestionaron-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/T2FYQPFT2NHZLNPGB6CJ7VPKTY.jpg?auth=5aae571c94446a92b0d2c0d1343c97a3f2b50b7220b51b5e8db72f8d42acb607&smart=true&width=1154&height=647",
+        "publishedAt": "2026-09-13T22:03:26.000Z"
+      },
+      {
+        "title": "Bruce ratifica decisión de condicionar presencia en debate a pronunciamiento del JNE sobre credenciales: ¿Qué dicen otros candidatos?",
+        "summary": "Bruce sostuvo que el organismo electoral debe establecer su posición para evitar que los ciudadanos sean inducidos a error al momento de emitir su voto. Una postura similar expresaron Daniel Urresti (Podemos Perú), Mónica Yaya (Apra) y Edgardo de Pomar (PPC).",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/carlos-bruce-ratifica-decision-de-condicionar-presencia-en-debate-electoral-a-pronunciamiento-del-jne-sobre-credenciales-que-dicen-otros-candidatos-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/BEPLD6AEMBEBTHWO42TMLR73LE.jpg?auth=8ad4733a10cef685e22761b1e23f4ad2a67b37542c4dc974c16bdb06fdc15a4b&smart=true&width=1200&height=761",
+        "publishedAt": "2026-09-13T21:57:45.000Z"
+      },
+      {
+        "title": "Keiko Fujimori: “Este Gobierno no está cómodamente sentado en la capital, estamos viajando y trabajando”",
+        "summary": "La presidenta de la República, Keiko Fujimori, afirmó que su Gobierno busca mantener una presencia activa en las regiones y no concentrar su gestión en Lima. Durante una visita al distrito de Paccaritambo, en la provincia cusqueña de Paruro, sostuvo que los recursos públicos deben traducirse en resultados concretos par",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-este-gobierno-no-esta-comodamente-sentado-en-la-capital-estamos-viajando-y-trabajando-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/DLWL2HIO7JGLVBEZXLWGMLSWIU.jpg?auth=6e6dd7f6a5b78580f9054f4129ce1394145601be769e2e4ea0e8cb74ca5b1366&smart=true&width=700&height=393",
+        "publishedAt": "2026-09-13T21:18:54.000Z"
       },
       {
         "title": "Rafael López Aliaga: ¿Es legal o no entregar las credenciales de alcalde a primeros regidores tras eventual victoria?",
@@ -46,41 +78,33 @@
         "url": "https://elcomercio.pe/politica/de-la-era-de-pedro-castillo-al-nuevo-gobierno-al-menos-ocho-funcionarios-regresan-a-la-actual-gestion-de-keiko-fujimori-pcm-luis-galarreta-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/FJHVUOLSIFEBPAHWOKBAK7MFIQ.png?auth=2c0000878fe26354a95944bd25e8aaa089d54cce5db3d2f54a1830fb8fd44c34&smart=true&width=800&height=450",
         "publishedAt": "2026-09-13T19:05:29.000Z"
-      },
-      {
-        "title": "Bruce ratifica decisión de condicionar presencia en debate a pronunciamiento del JNE sobre credenciales: ¿Qué dicen otros candidatos?",
-        "summary": "Bruce sostuvo que el organismo electoral debe establecer su posición para evitar que los ciudadanos sean inducidos a error al momento de emitir su voto. Una postura similar expresaron Daniel Urresti (Podemos Perú), Mónica Yaya (Apra) y Edgardo de Pomar (PPC).",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/carlos-bruce-ratifica-decision-de-condicionar-presencia-en-debate-electoral-a-pronunciamiento-del-jne-sobre-credenciales-que-dicen-otros-candidatos-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/BEPLD6AEMBEBTHWO42TMLR73LE.jpg?auth=8ad4733a10cef685e22761b1e23f4ad2a67b37542c4dc974c16bdb06fdc15a4b&smart=true&width=1200&height=761",
-        "publishedAt": "2026-09-13T19:03:13.000Z"
-      },
-      {
-        "title": "De Rubio, un pelo, una crónica de Fernando Vivas sobre el secretario de Estado de EE.UU. y su visita al Perú",
-        "summary": "De Rubio, un pelo, una crónica de Fernando Vivas sobre el secretario de Estado de EE.UU. y su visita al Perú | Marco Rubio, el secretario de Estado de EE.UU., nos hizo una corta visita para ver los alcances de su alianza estratégica con Perú, flamante miembro del Escudo de las Américas.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/de-marco-rubio-un-pelo-una-cronica-de-fernando-vivas-sobre-el-secretario-de-estado-de-eeuu-y-su-visita-al-peru-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/K5BQIBHBCVG2NFLKEEI6FTWNKI.jpg?auth=b8428a171c146dd4630fa53f5ab05e7833e6d160a09849124e8b8b2fe33fe216&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-09-13T19:02:37.000Z"
-      },
-      {
-        "title": "Josué Gutiérrez: Las investigaciones fiscales que rodean al Defensor del Pueblo",
-        "summary": "Josué Gutiérrez: Las investigaciones fiscales que rodean al Defensor del Pueblo | Durante su gestión, el Ministerio Público ha iniciado investigaciones en contra de diversos funcionarios que habrían sido beneficiados con contratos. Josué Gutiérrez, por su parte, también es objeto de una pesquisa por, presuntamente, hab",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/josue-gutierrez-las-investigaciones-fiscales-que-rodean-al-defensor-del-pueblo-documentos-y-detalles-de-las-pesquisas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/IRKAAOTKZJFMLCZHNZYH7B7ZNQ.png?auth=1f33a9d0052e740c78baab61208b406eb162e8ef5c221573b04e8ebb0102c0d7&smart=true&width=1200&height=647",
-        "publishedAt": "2026-09-13T19:02:18.000Z"
-      },
-      {
-        "title": "Diputados: nueve integrantes de la Comisión de Energía y Minas presentan informe en minoría a favor de otorgar facultades al Ejecutivo",
-        "summary": "El documento - al que tuvo acceso El Comercio- declara viable el proyecto del Gobierno en las materias referidas a minería, hidrocarburos, industria petroquímica y electricidad.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/diputados-nueve-integrantes-de-la-comision-de-energia-y-minas-presentan-informe-en-minoria-a-favor-de-otorgar-facultades-al-ejecutivo-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/LNPAELQEGZAHNMNZLOKBQEO3LI.jpg?auth=5082319eefe97f8ea98a6adb8333dce4550b7c4a13a98740a4b659d8574e4899&smart=true&width=1200&height=647",
-        "publishedAt": "2026-09-13T18:52:47.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "¿Se puede exigir pagos a todas las empresas de un grupo solo por haberles prestado servicios?",
+        "summary": "La Corte Suprema establece que pertenecer a un mismo grupo económico no basta para que una empresa responda por las deudas laborales de otra. Especialistas explican qué deberá probar el trabajador.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/management-empleo/trabajadores-pueden-exigir-pagos-de-una-deuda-laboral-a-todas-las-empresas-de-un-grupo-solo-por-haberles-prestado-servicios-noticia/",
+        "image": "https://gestion.pe/resizer/v2/Q7B4WGTMXFBPJMWHMXHTLF2LEM.jpg?auth=0912d972fd28fb539710a8127647bdedd0a3c6008e96129c9ef22aa0fe19c0fd&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-13T22:18:00.000Z"
+      },
+      {
+        "title": "Tres errores contables que pueden hacer que tu negocio pierda el rumbo",
+        "summary": "Para los emprendedores, algunas señales pueden pasar desapercibidas hasta que llega el momento de pagar impuestos, planillas o préstamos y el dinero ya no alcanza.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/tres-errores-contables-que-pueden-hacer-que-tu-negocio-pierda-el-rumbo-noticia/",
+        "image": "https://gestion.pe/resizer/v2/WZNNM6JI7JA4TIQLMO7EGEQLKQ.jpg?auth=6b53f246d88d3fc043ef3560ee73d1cf55488b23d2fdfa3603fab47a733ad059&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-13T22:18:00.000Z"
+      },
+      {
+        "title": "Senace busca certificar US$ 20,000 millones en inversiones este año: así van hasta ahora",
+        "summary": "El Servicio Nacional de Certificación Ambiental para las Inversiones Sostenibles (Senace), reiteró hoy que proyecta certificar al concluir este año, unos US$ 20,000 millones en inversiones sostenibles necesarias para la ejecución de proyectos estratégicos y aportar al desarrollo con respeto al ambiente y al bienestar c",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/senace-busca-certificar-us-20000-millones-en-inversiones-este-ano-asi-van-hasta-ahora-noticia/",
+        "image": "https://gestion.pe/resizer/v2/POBFE5P2QBEEBKUOSNTVB5Y2AM.jpg?auth=32878b288a19374d32d95a0ff94a28828977aff9b63371f9b25bd1361a2476b9&smart=true&width=1200&height=677",
+        "publishedAt": "2026-09-13T22:07:41.000Z"
+      },
       {
         "title": "Pesimismo regresa a minería e hidrocarburos: expectativa para invertir en terreno negativo",
         "summary": "Las expectativas de inversión a tres meses de las empresas de minería e hidrocarburos cayeron a terreno pesimista, su peor nivel en año y medio.",
@@ -114,39 +138,23 @@
         "publishedAt": "2026-09-13T16:08:36.000Z"
       },
       {
-        "title": "¿Se puede exigir pagos a todas las empresas de un grupo solo por haberles prestado servicios?",
-        "summary": "La Corte Suprema establece que pertenecer a un mismo grupo económico no basta para que una empresa responda por las deudas laborales de otra. Especialistas explican qué deberá probar el trabajador.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/management-empleo/trabajadores-pueden-exigir-pagos-de-una-deuda-laboral-a-todas-las-empresas-de-un-grupo-solo-por-haberles-prestado-servicios-noticia/",
-        "image": "https://gestion.pe/resizer/v2/Q7B4WGTMXFBPJMWHMXHTLF2LEM.jpg?auth=0912d972fd28fb539710a8127647bdedd0a3c6008e96129c9ef22aa0fe19c0fd&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-13T15:19:49.000Z"
-      },
-      {
         "title": "BCRP: importaciones siguen creciendo a doble dígito, ¿qué adelantan para inversión privada?",
         "summary": "Por segundo año consecutivo, la inversión privada crecería a doble dígito en 2026, de acuerdo al Banco Central de Reserva del Perú (BCRP). Y si hay razones para apostar por ello, están en los indicadores de las importaciones clave para esta clase de inversión.",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/bcrp-importaciones-siguen-creciendo-a-doble-digito-que-adelantan-para-inversion-privada-noticia/",
         "image": "https://gestion.pe/resizer/v2/BTPZPQHNHRAAPBX75P2VHCNWWE.jpg?auth=88fd57286548bab0eb03058509652c66bce0b4aad32880f705af79266018e07b&smart=true&width=1800&height=1200",
         "publishedAt": "2026-09-13T15:15:00.000Z"
-      },
-      {
-        "title": "MEF actualiza normas de información financiera: ¿qué cambia para empresas e inversionistas?",
-        "summary": "El MEF informó que se aprobó el Set Completo de las Normas Internacionales de Información Financiera (NIIF) versión 2026, que incluye el Marco Conceptual para la Información Financiera.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/mef-actualiza-normas-de-informacion-financiera-que-cambia-para-empresas-e-inversionistas-noticia/",
-        "image": "https://gestion.pe/resizer/v2/P53YLQE4DRG5ZBLZSP7RSEPKZM.jpeg?auth=4a5479f721740f7fb48f7d57109d577891b03eec1697cb4a53fb8ab501973183&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-09-13T14:39:59.000Z"
-      },
-      {
-        "title": "Tres errores contables que pueden hacer que tu negocio pierda el rumbo",
-        "summary": "Para los emprendedores, algunas señales pueden pasar desapercibidas hasta que llega el momento de pagar impuestos, planillas o préstamos y el dinero ya no alcanza.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/tres-errores-contables-que-pueden-hacer-que-tu-negocio-pierda-el-rumbo-noticia/",
-        "image": "https://gestion.pe/resizer/v2/WZNNM6JI7JA4TIQLMO7EGEQLKQ.jpg?auth=6b53f246d88d3fc043ef3560ee73d1cf55488b23d2fdfa3603fab47a733ad059&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-13T13:18:43.000Z"
       }
     ],
     "sociedad": [
+      {
+        "title": "Oscar Reto: \"La anemia infantil es un problema de seguridad nacional\" - Diario Ahora",
+        "summary": "Oscar Reto: \"La anemia infantil es un problema de seguridad nacional\" &nbsp;&nbsp; Diario Ahora",
+        "source": "Diario Ahora",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONkhrLUtJWXRUa2Zla3ZOVW1nOThaMzJvZzZOcV9Qb2tyUkVjR2pnU1FONjlPX191SzZhWC1YX21YcHUtYWxmMmVXanQxUEU3aDVBV3ppRi1YLTM1ZFJManI4QmtmQ0V2VXp0MnlkanIwWHdpLUNYeHdKcXBaQkptSA?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-13T07:51:33.000Z"
+      },
       {
         "title": "El sueño de la casa propia formal: entregan más de 8.100 títulos de propiedad en Arequipa, Ica, Ayacucho y más regiones - La República",
         "summary": "El sueño de la casa propia formal: entregan más de 8.100 títulos de propiedad en Arequipa, Ica, Ayacucho y más regiones &nbsp;&nbsp; La República",
@@ -154,14 +162,6 @@
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQjFwRTVET05xTER6ZnZseE9pOUF4cFBBV19hM3RrZ1liRUc1aHFybFMyTExlbEhudk5rUlA1TnM4X1ZhZEEwaVhGX09fWjRrX3c5TVdLanJGQVI0MUhfVUphSXhYRkFuNVZLYmY0UkpzbXQ0NFhaRGFHSzBPd3JMUFlPaWhaT1Z6d01MSFhucDNHSU1fb3JTYlFNN29IQjRfTURSSlZsNThIbjRXajhBVFFJQm5SNDZXTE1MT0xtWHdoR0tFdFQ3YndyYm52U09taW5wZ19zdFRmRHBCOVN3ZkQ4cFcxSDlyTUNXX051aXZSd0xIWjhadEZQVmJZUdIB_gFBVV95cUxPQjFwRTVET05xTER6ZnZseE9pOUF4cFBBV19hM3RrZ1liRUc1aHFybFMyTExlbEhudk5rUlA1TnM4X1ZhZEEwaVhGX09fWjRrX3c5TVdLanJGQVI0MUhfVUphSXhYRkFuNVZLYmY0UkpzbXQ0NFhaRGFHSzBPd3JMUFlPaWhaT1Z6d01MSFhucDNHSU1fb3JTYlFNN29IQjRfTURSSlZsNThIbjRXajhBVFFJQm5SNDZXTE1MT0xtWHdoR0tFdFQ3YndyYm52U09taW5wZ19zdFRmRHBCOVN3ZkQ4cFcxSDlyTUNXX051aXZSd0xIWjhadEZQVmJZUQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-12T20:26:13.000Z"
-      },
-      {
-        "title": "Oscar Reto: \"La anemia infantil es un problema de seguridad nacional\" - Diario Ahora",
-        "summary": "Oscar Reto: \"La anemia infantil es un problema de seguridad nacional\" &nbsp;&nbsp; Diario Ahora",
-        "source": "Diario Ahora",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONkhrLUtJWXRUa2Zla3ZOVW1nOThaMzJvZzZOcV9Qb2tyUkVjR2pnU1FONjlPX191SzZhWC1YX21YcHUtYWxmMmVXanQxUEU3aDVBV3ppRi1YLTM1ZFJManI4QmtmQ0V2VXp0MnlkanIwWHdpLUNYeHdKcXBaQkptSA?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-12T05:17:43.000Z"
       },
       {
         "title": "La crisis de seguridad no da tregua en Sinaloa: gobernadora interina responsabiliza a gobiernos anteriores - Infobae",
@@ -196,20 +196,20 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
-        "title": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú - Al Poniente",
-        "summary": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú &nbsp;&nbsp; Al Poniente",
-        "source": "Al Poniente",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2lTSUtNanNoaFpqZkxDRDh0X0hNdFpUcGVvdllPamNXb2t0MXhIQUZNUUZxTm1Bel9CSUVHT1c4b3RTdlRKSlhGRFJUTjY4aEM2UTQ0bDlVSF80Zk9VekliWXAzVzJjcDdmRnhUWW5VSzRxdGt2ZnEzSDBPXzBhbzFpZ2NobUVPLWM3T3QxTGxjSE0?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-29T07:00:00.000Z"
-      },
-      {
         "title": "Keiko Fujimori, mensaje a la Nación: fecha, lugar y ejes que marcarán su primer discurso como presidenta 2026-2031 - Infobae",
         "summary": "Keiko Fujimori, mensaje a la Nación: fecha, lugar y ejes que marcarán su primer discurso como presidenta 2026-2031 &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUnB3bzVxUmd0OUYtcDl1b01PcVNtVzVac18zZGpEdWxSZTVWUGxiUGY2VHZYSHE1c0VQcG11Zlg3eHZLZkctY1JFSGE2UVRTNE1jcWxiTE9rTXdabGdJUTdsQTlhN2ZKYWxXczRBUGhUYjE0LXlfZElpWTltR2FRVnBCMnZROTU1a3ZxWXZhNlFIaTZVWjlBTWJoT21Tbmd3NmhHLVJGSnlOdjBtUHZ3VGJnelJKeTJaX0hpdWJJeklIR3B1N1dfZ01iZWlFV0xrT1d2bG1mc0JWVG9rRVVkalFxZmNsRkXSAYICQVVfeXFMTVVCcVFOaGV1T3c1U1Q5cFppVFBQZ0hma1ctVDVYbzdFUlBsZ0dETG9tWk1GSWFzRk5zUEtlY3h6SDB3OGhyTUpWVG9qdEdMOVVhUUZTbEFBYS1TZmFBQWpDN2lHN0VMQWdWMnV1NHU4WGNDVlB1eGZrMXNITmxqdmx2M0tYN2lzODdGZDVJVWVUbVhZeXhYNlktV1hkTmJHS0d4NjVEcEhKOTMxUkx0STA3WDYyMWJZc0YwU09lQVlESHkweTBxSmtmZ3BvZzBIS1dlRHJtVG9tQU1sU1kwYVg0cW1pcExDSzgyUS1kMmZvbTVPNXAyX3plMWM5TXNZWE5n?oc=5",
         "image": "",
         "publishedAt": "2026-07-26T07:00:00.000Z"
+      },
+      {
+        "title": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS - Diario Ahora",
+        "summary": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS &nbsp;&nbsp; Diario Ahora",
+        "source": "Diario Ahora",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUm9heXNQZzZPY0tMTmxyWEJrSVFZMlFtb2JVOFpfZXpubndad19NYTVyQVpyLVk0Yi1GZ0xCNmtRY0lWbV9VMTE5QUtRZG1zM2FJMzQweTU1a1lsVzl3OURfYldrUVM1aEJXWGI1OTR4OTFkRDQzcEtpaG1rcE42Zl9jT1g3RVdmQkZETk1ZOFBpd0o1MmF2RHVOczJsQ2Q1VHJGMjJrQ2tCVE42OXNz?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-15T15:44:23.000Z"
       }
     ],
     "negocios": [
@@ -246,6 +246,14 @@
         "publishedAt": "2026-07-04T07:00:00.000Z"
       },
       {
+        "title": "Cinco consejos para emprendedores que quieren hacer crecer su negocio sin poner en riesgo su patrimonio - Business Empresarial",
+        "summary": "Cinco consejos para emprendedores que quieren hacer crecer su negocio sin poner en riesgo su patrimonio &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONjJuRlg3UTRITXRKYUJwSDU1RzU0cURfLXl1WFQyd2pPVTdnTnJfMU1JMW5Pb3hMc3lOaXlIT0xHdkVqN3VwR1JQYzZJd3lzaUpUVFAzSEpjOWlNNV9tbEE2MUctWnFHTnFsOFo5dVNpVWtsTEt5dkxhRmtLV1ZhQmUtM0g0RVoxdDNDWjl3Vk1zV1M2SHZkY29aNkJZWkFhV2M4cl9wMXpWZzRzQVJMdWtSc2ZJY250ekRxekc0cUw3dGFXYm81SkxjREYxLXFtTS13TkphejBrQ1VQY2Nfc05QMUxnVDFfZ0M2RmRieS04djY1amZxdU0wSjY4QWhOZUE?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-26T07:00:00.000Z"
+      },
+      {
         "title": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups - Business Empresarial",
         "summary": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups &nbsp;&nbsp; Business Empresarial",
         "source": "Business Empresarial",
@@ -268,14 +276,6 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXMxcGUzS0xxcEpXcWxtZkl3cDhPTDk2bEZENlRIcmduaVZVRlhvY0FqOUNCdVF5Y0QxaTVyNDI5ZDJGbXdqWUJ3ZEd3QVBXaDQtQmd2X3V6aW1SR21lY05QSFdzeUhGZUtDZkUwS25BU3VIX04wbXpMRjBETElBSFlTbi1vVDBvaENJTFV1SjlCVzVnSzk5Z1htYmR2clVNZFB3STJ0ajAzUnM?oc=5",
         "image": "",
         "publishedAt": "2026-06-17T17:04:18.000Z"
-      },
-      {
-        "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
-        "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-17T07:00:00.000Z"
       }
     ],
     "ideas": [
