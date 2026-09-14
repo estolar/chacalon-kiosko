@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T01:01:40.097Z",
+  "generatedAt": "2026-09-14T06:14:34.160Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -22,6 +22,30 @@
         "url": "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
         "image": "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
         "publishedAt": "2026-09-01T00:00:00.000Z"
+      },
+      {
+        "title": "Ministro Marco Vinelli sobre solicitud de facultades: “Los 66 [pedidos para legislar] van a permitir agilizar y ejecutar la política de la presidenta”",
+        "summary": "El ministro de Desarrollo Agrario y Riego, Marco Vinelli, afirmó que los 66 pedidos de facultades para legislar en diversas materias van a permitir agilizar y ejecutar la política de la presidenta Keiko Fujimori en los próximos cinco años.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/ministro-marco-vinelli-sobre-solicitud-de-facultades-los-66-pedidos-para-legislar-van-a-permitir-agilizar-y-ejecutar-la-politica-de-la-presidenta-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/3VMA37CVHVDNFH3A3T4P6EURMA.jfif?auth=37f85060320bd5d15b67505f81ff712d2139263d56b51f629f6df0168df498fc&smart=true&width=1336&height=890",
+        "publishedAt": "2026-09-14T04:20:28.000Z"
+      },
+      {
+        "title": "Cuestionan información consignada en el CV del asesor principal de la diputada Karina Santana, del Buen Gobierno",
+        "summary": "Un asesor de la diputada Karina Santana (Partido del Buen Gobierno) habría consignado información inexacta en su currículo vitae, como grados académicos y distintivos de la Marina de Guerra del Perú, según denunció “Panorama”.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/karina-santana-cuestionan-informacion-consignada-en-el-curriculo-vitae-del-asesor-principal-de-la-diputada-del-buen-gobierno-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/BJFRAVJKCVAZ3AB4WMW2PP5HLU.jfif?auth=92a7041bc697fe9a64b19c9d1f494d63cf7bdb8aa6f951ae0fcb0f6e888fdcbd&smart=true&width=1440&height=959",
+        "publishedAt": "2026-09-14T03:07:37.000Z"
+      },
+      {
+        "title": "Revelan que informes de viaje del defensor del Pueblo reproducen textos de otras publicaciones sin citarlas",
+        "summary": "Los informes de viaje al exterior realizados por el defensor del Pueblo, Josué Gutiérrez, reproducen textos ininterrumpidos de otras publicaciones sin citarlas, según reveló “Cuarto Poder”.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/actualidad/josue-gutierrez-revelan-que-informes-de-viaje-del-defensor-del-pueblo-reproducen-textos-de-otras-publicaciones-sin-citarlas-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/C7U6NERSVZG4XJJ5U36QQD2ZCY.jpg?auth=23037922409ec6503faa39ddaf536ab59ca74d0bb2214c1eafd2500bcde56114&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-14T03:06:34.000Z"
       },
       {
         "title": "Diputados: nueve integrantes de la Comisión de Energía y Minas presentan informe en minoría a favor de otorgar facultades al Ejecutivo",
@@ -54,30 +78,6 @@
         "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-este-gobierno-no-esta-comodamente-sentado-en-la-capital-estamos-viajando-y-trabajando-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/DLWL2HIO7JGLVBEZXLWGMLSWIU.jpg?auth=6e6dd7f6a5b78580f9054f4129ce1394145601be769e2e4ea0e8cb74ca5b1366&smart=true&width=700&height=393",
         "publishedAt": "2026-09-13T21:18:54.000Z"
-      },
-      {
-        "title": "Rafael López Aliaga: ¿Es legal o no entregar las credenciales de alcalde a primeros regidores tras eventual victoria?",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-es-legal-o-no-entregarle-las-credenciales-de-alcalde-a-primeros-regidores-tras-eventual-victoria-jne-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/ERNM3THLPBH7JIAV2QTXB5QPEA.jpg?auth=19405ce08c2992f8df879d7898eaaeed66d42a0259f420045a1764ed91a04ce9&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-13T19:06:31.000Z"
-      },
-      {
-        "title": "Informe de la Comisión de Ética concluye iniciar investigación formal contra diputado Christian Aranda: ¿cuáles son los argumentos?",
-        "summary": "El contenido del informe será sometido al debate este lunes 14 de setiembre ante el seno del grupo de trabajo, que dirige Henry Albañil.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/informe-de-la-comision-de-etica-concluye-iniciar-investigacion-formal-contra-diputado-christian-aranda-cuales-son-los-argumentos-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/2XBGQHS2XNFJVMMT6U7ALVLTKE.jpg?auth=9a0d7ab698c1d9c74f7b9e96e11003767aa3988853c5a310867657ff090893b7&smart=true&width=1200&height=647",
-        "publishedAt": "2026-09-13T19:06:15.000Z"
-      },
-      {
-        "title": "De la era Castillo al nuevo gobierno: al menos ocho funcionarios regresan a la actual gestión en el Ejecutivo",
-        "summary": "De la era Castillo al nuevo gobierno: al menos ocho funcionarios regresan a la actual gestión en el Ejecutivo | Al menos ocho funcionarios que fueron designados durante el gobierno del golpista expresidente Pedro Castillo han vuelto a ocupar altos cargos en el Estado durante la actual gestión de Keiko Fujimori. Las des",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/de-la-era-de-pedro-castillo-al-nuevo-gobierno-al-menos-ocho-funcionarios-regresan-a-la-actual-gestion-de-keiko-fujimori-pcm-luis-galarreta-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/FJHVUOLSIFEBPAHWOKBAK7MFIQ.png?auth=2c0000878fe26354a95944bd25e8aaa089d54cce5db3d2f54a1830fb8fd44c34&smart=true&width=800&height=450",
-        "publishedAt": "2026-09-13T19:05:29.000Z"
       }
     ],
     "economia": [
@@ -87,15 +87,7 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/mas-alla-del-pisa-336000-jovenes-entre-14-y-17-anos-en-peru-no-estudian-que-riesgos-hay-noticia/",
         "image": "https://gestion.pe/resizer/v2/VNOAIUVYERFZHK2AJPWEIBKN7U.jpeg?auth=12955cb1f98d3ebe0aca76aad4e5c49e4ddaed7b80530fceba67e4fc2bb45332&smart=true&width=910&height=591",
-        "publishedAt": "2026-09-14T00:37:37.000Z"
-      },
-      {
-        "title": "¿Se puede exigir pagos a todas las empresas de un grupo solo por haberles prestado servicios?",
-        "summary": "La Corte Suprema establece que pertenecer a un mismo grupo económico no basta para que una empresa responda por las deudas laborales de otra. Especialistas explican qué deberá probar el trabajador.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/management-empleo/trabajadores-pueden-exigir-pagos-de-una-deuda-laboral-a-todas-las-empresas-de-un-grupo-solo-por-haberles-prestado-servicios-noticia/",
-        "image": "https://gestion.pe/resizer/v2/Q7B4WGTMXFBPJMWHMXHTLF2LEM.jpg?auth=0912d972fd28fb539710a8127647bdedd0a3c6008e96129c9ef22aa0fe19c0fd&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-13T22:18:00.000Z"
+        "publishedAt": "2026-09-14T01:58:00.000Z"
       },
       {
         "title": "Tres errores contables que pueden hacer que tu negocio pierda el rumbo",
@@ -103,6 +95,14 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/tres-errores-contables-que-pueden-hacer-que-tu-negocio-pierda-el-rumbo-noticia/",
         "image": "https://gestion.pe/resizer/v2/WZNNM6JI7JA4TIQLMO7EGEQLKQ.jpg?auth=6b53f246d88d3fc043ef3560ee73d1cf55488b23d2fdfa3603fab47a733ad059&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-13T22:18:00.000Z"
+      },
+      {
+        "title": "¿Se puede exigir pagos a todas las empresas de un grupo solo por haberles prestado servicios?",
+        "summary": "La Corte Suprema establece que pertenecer a un mismo grupo económico no basta para que una empresa responda por las deudas laborales de otra. Especialistas explican qué deberá probar el trabajador.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/management-empleo/trabajadores-pueden-exigir-pagos-de-una-deuda-laboral-a-todas-las-empresas-de-un-grupo-solo-por-haberles-prestado-servicios-noticia/",
+        "image": "https://gestion.pe/resizer/v2/Q7B4WGTMXFBPJMWHMXHTLF2LEM.jpg?auth=0912d972fd28fb539710a8127647bdedd0a3c6008e96129c9ef22aa0fe19c0fd&smart=true&width=1200&height=800",
         "publishedAt": "2026-09-13T22:18:00.000Z"
       },
       {
@@ -156,9 +156,9 @@
         "publishedAt": "2026-09-13T07:51:33.000Z"
       },
       {
-        "title": "El sueño de la casa propia formal: entregan más de 8.100 títulos de propiedad en Arequipa, Ica, Ayacucho y más regiones - larepublica.pe",
-        "summary": "El sueño de la casa propia formal: entregan más de 8.100 títulos de propiedad en Arequipa, Ica, Ayacucho y más regiones &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "El sueño de la casa propia formal: entregan más de 8.100 títulos de propiedad en Arequipa, Ica, Ayacucho y más regiones - La República",
+        "summary": "El sueño de la casa propia formal: entregan más de 8.100 títulos de propiedad en Arequipa, Ica, Ayacucho y más regiones &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQjFwRTVET05xTER6ZnZseE9pOUF4cFBBV19hM3RrZ1liRUc1aHFybFMyTExlbEhudk5rUlA1TnM4X1ZhZEEwaVhGX09fWjRrX3c5TVdLanJGQVI0MUhfVUphSXhYRkFuNVZLYmY0UkpzbXQ0NFhaRGFHSzBPd3JMUFlPaWhaT1Z6d01MSFhucDNHSU1fb3JTYlFNN29IQjRfTURSSlZsNThIbjRXajhBVFFJQm5SNDZXTE1MT0xtWHdoR0tFdFQ3YndyYm52U09taW5wZ19zdFRmRHBCOVN3ZkQ4cFcxSDlyTUNXX051aXZSd0xIWjhadEZQVmJZUdIB_gFBVV95cUxPQjFwRTVET05xTER6ZnZseE9pOUF4cFBBV19hM3RrZ1liRUc1aHFybFMyTExlbEhudk5rUlA1TnM4X1ZhZEEwaVhGX09fWjRrX3c5TVdLanJGQVI0MUhfVUphSXhYRkFuNVZLYmY0UkpzbXQ0NFhaRGFHSzBPd3JMUFlPaWhaT1Z6d01MSFhucDNHSU1fb3JTYlFNN29IQjRfTURSSlZsNThIbjRXajhBVFFJQm5SNDZXTE1MT0xtWHdoR0tFdFQ3YndyYm52U09taW5wZ19zdFRmRHBCOVN3ZkQ4cFcxSDlyTUNXX051aXZSd0xIWjhadEZQVmJZUQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-12T20:26:13.000Z"
@@ -172,28 +172,28 @@
         "publishedAt": "2026-09-10T00:10:00.000Z"
       },
       {
-        "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - elperuano.pe",
-        "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; elperuano.pe",
-        "source": "elperuano.pe",
+        "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
+        "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOF96RmlFdGF0MmZNd1M0VXdlM2tlQVU0MHBidWRKZ1ZaYmRYZjQteldIeDRYR0c4aFNENU1ackUzVzZ5Sm5OSU9JVXlhQU9ON0ZoYmt6UWRfX2xNcFd3bmNDbkpyUktwaVl4UUZwdlZIRmZDaldXd3dXRk02ZFZvb2VJNk9WLTZTVXJhQklYcWxGMkFWbmZHUG11OURpRE8xWWdpU3lOOHUxaFotNUJscW9qVUdfdFRkWUhubndPYnRYUUN5RncxVW1qVFMzck41SWJYeWV5eWVLZw?oc=5",
         "image": "",
         "publishedAt": "2026-09-07T22:31:00.000Z"
       },
       {
-        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - elperuano.pe",
-        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; elperuano.pe",
-        "source": "elperuano.pe",
+        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - El Peruano",
+        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-03T07:00:00.000Z"
       },
       {
-        "title": "Estas son las comisiones de la Cámara de Diputados que tendrán mayor poder de decisión en el nuevo periodo legislativo - Infobae",
-        "summary": "Estas son las comisiones de la Cámara de Diputados que tendrán mayor poder de decisión en el nuevo periodo legislativo &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeXZsRHloYmRHU3ppR3pKTWg0U0FtSFM1MC1GWjJqeHVVb1M3QzlQelJUWFlGR1gtOWZYQ05iS1VDTlF0aUx6OHphRW1fVmtETVR3Tnc3YXFhQndfc1hRZW1mNnlLNXdDdTlfSlNOUlVPeE5pOXA5ekRsODVnemNSVTB3dzhGTmgwVGFMYVN1Zy1NTnhRVTUxejBjc1lIZ2ZWQjZ0d0cwSHJCUWRMM2xtcHpqWkppOGJXLTZqYzV6RzI0OXc3T1dEZEdiM0VXcjZkZllCcVRYWDMyRlVPS0xkWGdKR2NxWXZPUzVBUzJDSDbSAYsCQVVfeXFMTXgxSkI3ZG1kTXVidU1CMkVvRFNURFFvTmNjaE14UHk1YmFjbklkLThvWGVBWnVnTUtyTXRnM3dRcklHY0JRWE9Kd1FTSDV2QVNDRDlCYW9TOThfZVItcUprZElqazRpd2tDdG4tamVGUGNtYzFhbFEzX1dCanNOY2VMZnEtQmFPYkpvRDJWSDM3U0tZa3VSanlqZkRGOTVIN05tQlhoR2psMlNyNFJUVV9aNnE1bjlidksxNnh6SGlFUGZVcllNUFZPTUpSRVUxVU9UcE9DYlJxWUt3OXEwaDlIWTJPVS1vRlB6SDNBZmZZZHZIcWUtSDZYVGszTGYyMWJSUE8xTUU5RlM0?oc=5",
+        "title": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú - Al Poniente",
+        "summary": "Obras por Impuestos: una apuesta para reducir la anemia en el Perú &nbsp;&nbsp; Al Poniente",
+        "source": "Al Poniente",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2lTSUtNanNoaFpqZkxDRDh0X0hNdFpUcGVvdllPamNXb2t0MXhIQUZNUUZxTm1Bel9CSUVHT1c4b3RTdlRKSlhGRFJUTjY4aEM2UTQ0bDlVSF80Zk9VekliWXAzVzJjcDdmRnhUWW5VSzRxdGt2ZnEzSDBPXzBhbzFpZ2NobUVPLWM3T3QxTGxjSE0?oc=5",
         "image": "",
-        "publishedAt": "2026-08-05T07:00:00.000Z"
+        "publishedAt": "2026-07-29T07:00:00.000Z"
       },
       {
         "title": "Keiko Fujimori, mensaje a la Nación: fecha, lugar y ejes que marcarán su primer discurso como presidenta 2026-2031 - Infobae",
@@ -270,9 +270,9 @@
         "publishedAt": "2026-06-18T07:00:00.000Z"
       },
       {
-        "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - revistaganamas.com.pe",
-        "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; revistaganamas.com.pe",
-        "source": "revistaganamas.com.pe",
+        "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - Revista Gana Más",
+        "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; Revista Gana Más",
+        "source": "Revista Gana Más",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXMxcGUzS0xxcEpXcWxtZkl3cDhPTDk2bEZENlRIcmduaVZVRlhvY0FqOUNCdVF5Y0QxaTVyNDI5ZDJGbXdqWUJ3ZEd3QVBXaDQtQmd2X3V6aW1SR21lY05QSFdzeUhGZUtDZkUwS25BU3VIX04wbXpMRjBETElBSFlTbi1vVDBvaENJTFV1SjlCVzVnSzk5Z1htYmR2clVNZFB3STJ0ajAzUnM?oc=5",
         "image": "",
         "publishedAt": "2026-06-17T17:04:18.000Z"
@@ -280,9 +280,9 @@
     ],
     "ideas": [
       {
-        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - forbes.pe",
-        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; forbes.pe",
-        "source": "forbes.pe",
+        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - Forbes Perú",
+        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; Forbes Perú",
+        "source": "Forbes Perú",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnR2OFJqcnVKWEVnZF9Fc1FFQ1AxY3lYbTFYQnh2WkJZMEljS2I4UHozWHN5eTNXVXkwSV9WS0U2WDdCenNoMGVLUzRpMEZXcnIzRVpJSWloS295VGJzNVZtT3h6akN0b3EyVDdYVUwtc05SR0Z6WWE0MjZKUnd3TDFnUWx3aEJwbHRYUmgxNHJseERsVE8tdTg0WnJrT1hMMEFER0h6WVp1ekd1V2JWLTNPUQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-25T12:02:15.000Z"
@@ -304,9 +304,9 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
-        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - Revista Minería & Energía",
-        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; Revista Minería & Energía",
-        "source": "Revista Minería & Energía",
+        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - mineriaenergia.com",
+        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; mineriaenergia.com",
+        "source": "mineriaenergia.com",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNGRFXzc5Skp6cnFkd0Zfbmt3NVpwcC04eXJaekp6Z094a096R013M29yQ3hTUlFzRFF6eTE5SUZ0VHhLQjVEdTFIRlIyUERGM09nTzVZZHNXdmFVR3RITDF3X2RTeUdNb3FnT2otTUlBeGh0TUtKQWFzcURMY1JCMEhSdzM3cnpuUnBrUkh2TEpJOWZOMGY3bkkzTmE3RlY2YjJ3S0dZdVRqdFRBcDN3RFl4blQxeGVuTnM5WHVDRjdmUG1JZExSam9hLU8?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
@@ -320,9 +320,9 @@
         "publishedAt": "2026-07-08T10:21:37.000Z"
       },
       {
-        "title": "La paradoja peruana: Crecer sin innovar - revistaganamas.com.pe",
-        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; revistaganamas.com.pe",
-        "source": "revistaganamas.com.pe",
+        "title": "La paradoja peruana: Crecer sin innovar - Revista Gana Más",
+        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; Revista Gana Más",
+        "source": "Revista Gana Más",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6aWxfR3diYXRQbUZqekNmcGgxQVkxUVl6TVlwaWR2QVhhYzlkcnY3bXBVUnVHcUhXZkZObW50MzFmX2VOaUg3MW52UGNlQkE1bFh2LXY2alNyWWdrNThsZ2F0UGY5bUN4VmdMMDBtdWdaX0dIb0ZmMA?oc=5",
         "image": "",
         "publishedAt": "2026-06-25T07:00:00.000Z"
@@ -386,12 +386,20 @@
         "publishedAt": "2026-09-09T16:37:00.000Z"
       },
       {
-        "title": "El acuerdo tecnológico más ambicioso en Perú: el megaproyecto con EE. UU. para transformar el Estado con IA - El Universo",
-        "summary": "El acuerdo tecnológico más ambicioso en Perú: el megaproyecto con EE. UU. para transformar el Estado con IA &nbsp;&nbsp; El Universo",
-        "source": "El Universo",
+        "title": "El acuerdo tecnológico más ambicioso en Perú: el megaproyecto con EE. UU. para transformar el Estado con IA - eluniverso.com",
+        "summary": "El acuerdo tecnológico más ambicioso en Perú: el megaproyecto con EE. UU. para transformar el Estado con IA &nbsp;&nbsp; eluniverso.com",
+        "source": "eluniverso.com",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb1laN1dIQ3pHNnVxMXhERTlOVEN6MjZjMkNaWUU3MVZXYk54WHFtZnBuUDB6dzJBdFdySEdESWVGaGJ5aWExMjYtdjVIN0tfaTRVUDdnYlZDQnJ3akt6cWgwY1dIMGQ5Z2VYRlkxbHkxYTdFbjVDamdXNVg0QklGNmduZHFLOEx4ckxwdDFWUEM1RC1EX2luT0JBTVhoQnJMQ1BaRVJkVEppY09nNVlOM09nbTQ0U21aV0p1cTVTWDlYVXhwRVVLOGZ3cFZWal9ZVzQxejhFV0g2Zk91cXlEQW9TTWJBelp4V2hsWG9Oc3lwQQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-09T14:00:00.000Z"
+      },
+      {
+        "title": "Las empresas en Perú adoptan la inteligencia artificial con pilotos aislados y sin gobernanza - Infobae",
+        "summary": "Las empresas en Perú adoptan la inteligencia artificial con pilotos aislados y sin gobernanza &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUDdUMFdvaGVDNjVpVWg5aHNpdVQtN0JrSWVGWUJIMVdHbi1XVHgtN0Jzb2NFTF9YRENOVmRTNHpTbmRFalhYZkpJcVcxMFNBa2dHSDFMR0lZV1loS3VnRkdMMWlLTWRPT01Qa3NlQzZ2Yi1CZ19NZG9UNXVoTkhfeVJqaWpPTUMzd1ctTUtWVEluQXl2YTVLZXUzSkJmRmJ1U0o4bWotNUlNV29aVjJkbjBTZHBvUFg4YVM3Ri1QVW1NczJINnJ0bWJnR3NLelXSAeoBQVVfeXFMTU1HRDlkODd6Y21ZUGVlNk5aV1RTb0thTHc5b1R5RlB2dm94bWJLUFZhb2puSVZNMG1JUl9xanRlUnJTS0hIdUdUbnRzRGYyWDN5Z1VlWUZ5RzFjV0tWbGpoWFBKVFNid3FJUFNfaF93XzNLVkRNWDdPQnNVV2dDYzB3SklwR3VSWmVhZEk1X2pialNFUkdaNHVlemJrdmdxNzBSaFhuTVhzV1ljcTdReWhVYlJtMkxldG5nRDhWcVc3ZXRzOVZvNFpOQVVWVXRmcDVUcmZfeXBMVUpsdUtWWmJTaXpUU1NMWmd3?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-09T02:52:00.000Z"
       },
       {
         "title": "🔴🔵El Congreso y representantes de la gigante tecnológica establecieron una ruta de trabajo orientada a la protección de datos, la regulación de la IA y el resguardo de niños y ad",
@@ -400,29 +408,21 @@
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYXI5YVo2cGxoMHZZM0kzM2NkVWlCNEFDWEthQXVpa2pPWE1QQXhIMFFvM0Z2Umd0Z1NuMS0xQXdQc0hzaEppZElTQ1IwbnVBVF8xM3h3Q0NqTTAtT09TWmg1UkxSNDdQTWtzOTduRXRNa0ViSkQzcTZTQTJLZlF2d3ppVTlxNnF0aHZhY3B0YzhKRXJ4VDVIMGlZTlhxTTZKQ0dLV21fcVJZUjIzcHV4MzMybm5YMWxQTlUwTllUdnZzWWxQNVpBMnFaX2J6M2pOdjVIbEZ0SWl3NVcxanplWWg0c2E?oc=5",
         "image": "",
         "publishedAt": "2026-09-09T02:51:42.000Z"
-      },
-      {
-        "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - Diario Ahora",
-        "summary": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú &nbsp;&nbsp; Diario Ahora",
-        "source": "Diario Ahora",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUwwRm5ROVRhYTJuX0RCWEVaNW4yU1lQU0k0anlPcFRITnJEZTItWXJnVDF5MkYxODhCSV9sSWRJelduRjFLRnNYTDZGVG15WVdDQTJkRUpBVFd4V2FZazA2Q3ZvNGgxV2M3Z2FlcEl5cHJESEZoRWwyM0VPQ2MwWlpBc3BSakN3N25NTi1UNU1rWEhwejBONjQ1dTdUS3Y5Y1RUc0Y4dkpOZzFvTFJsWnZJREZGMmpwb2tPeFpyRnpha1Q5MWRlQw?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-08T17:57:42.000Z"
       }
     ],
     "tendencias": [
       {
-        "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - elcomercio.pe",
-        "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; elcomercio.pe",
-        "source": "elcomercio.pe",
+        "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - El Comercio Perú",
+        "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZTlFMnQ1b1pJM1dEbTJaWnpNVGZ0T1g4SWpXZ25rWHBsN1hTdmRVTUVfdG9mQXhQOFZZU3F6X3BkQzRXMnFaejgzcmgzdDZZOFk1VEhBZzJsTmQxS3k3aDRBeHRLRnZBTzR0WFU0cjhNal9QUHVoNHY3czFrNGlxN1NpckM1bGVpSFJfVVdNTlp6YnJsRUxURVh2UXZValZzcEJqSkxxSGI4MjdUN3lFNFg0QzlFUmVWc0lCN3A2VzgyN0d6UXZwSG5Bc0xPejhQYkgycDZlblczUlhzekRGTmVEVDFxU2c?oc=5",
         "image": "",
         "publishedAt": "2026-09-12T23:13:00.000Z"
       },
       {
-        "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar - larepublica.pe",
-        "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar - La República",
+        "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQW9fVk51R2xSS1c2X0I5TjFfc2VoT3hDeVJJVEFIbUJSTmItZ0lQUGdocWJvWVA4bjUtWGlfMGtMVExUMnA4TVBBODg1YVJ5VVBYeWc1X1lvYl9MdzFQVGZjVzg1RzQxNjRlb3hNN25CaVd3Y29XWlRPSWJSVmlHQWFtZnV2OURIaFByNGZJT193YklScUl6cEU2X2o2SklLcVdZLU15VklTSnBKQVJaYWVZcGloeXJHM25HUS1aUGNVSEtPaElZenMwcEVvSXB3eE42cFFESzItX2hXckZSNi10YTN2X3BtWjlObWwyc9IB9AFBVV95cUxQUXZkLW0ya0dvbTdNOC0waTg4UGJrVXpmTFB2TXhDc0d2aE5QOEFYU1hIR3VyY0U0WkNPYnVqM3ZJSFlOWndYdzZCdXVUZHE5eXRyQi1TdWw1UHVNZjYxY3pMY3R5TkF6ZFRqTUstYjVZYzdLN1NxZ3VVdTlsc1lBYTZDVnVRYU5QcGJMdDU5OV96ODZMY1hhNG1IdVhtWkVBMkpkQ0xLSTVsU0YzdVZzdFI0YnllR0dyWW5UVFBIQllGRy05b0hOcEZXV0pjeDNPenpNNkp5M3JTYmpoZGxxUzNvR2tYVVpXSktGQXNtcDVHclhD?oc=5",
         "image": "",
         "publishedAt": "2026-09-10T10:19:00.000Z"
@@ -444,9 +444,9 @@
         "publishedAt": "2026-08-18T07:00:00.000Z"
       },
       {
-        "title": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO - imagendeveracruz.mx",
-        "summary": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO &nbsp;&nbsp; imagendeveracruz.mx",
-        "source": "imagendeveracruz.mx",
+        "title": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO - Imagen de Veracruz",
+        "summary": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO &nbsp;&nbsp; Imagen de Veracruz",
+        "source": "Imagen de Veracruz",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLU5fOVFyR1JhZkhPcGs5RGtLX3lGbWtXcVpRLWJtRGxHdElNamtiQURtenhhQVFoQXczdUpva2VUWFotUVJxWFM3ZUFLaENGb1Z6TnJOVVhhUmczbzZiQWltU3pFeC1CVzM1S3ZLbktIMlJSVVBaVklnRUVjNVlFX25pQWJFSzVSS1BGTWpRM2VQalFLSFpGcE1fRTdjZy1KWWU3R29RSF9xX1pNM3pTZjdMemZKakhudHhIUkxNX1VOZklVbWEzc0NpdHN0UUdmMlNpYWNNMnRLU0FmUWxz0gHkAUFVX3lxTE1HTmV6Z3lLcW5pQTNpSGJxT2gwWFptR005THgwbzRyeVhneWVFRm9TV0plWlFoLWlCc2U2QnRZb0VkLVZDa292d0o2RnBaSkhGZDN5VDFtV19Kb0VQQTdTcHZKcExrN1pWVjFWbXVVOVFrekJHNUc5WHhXXzN2d1h3amgtQUw1aThialdock5tME83YWhpUGc2Z1hmbUFFelhlY01tV0VzdmRUU3lnWS11UVJtbGdPYXp3SzBjVFd0ek1rMXlESDNOeXVTcE5SdTZGa1ktWnBsbzk2d21wbGJ5TXpyUA?oc=5",
         "image": "",
         "publishedAt": "2026-08-18T07:00:00.000Z"
@@ -468,23 +468,15 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "Minsa advierte sobre desafío en redes que expone a adolescentes a graves riesgos de salud - Infobae",
-        "summary": "Minsa advierte sobre desafío en redes que expone a adolescentes a graves riesgos de salud &nbsp;&nbsp; Infobae",
+        "title": "Reto viral “Pásame la botella”: especialistas alertan por aumento de adolescentes intoxicados al mezclar alcohol con medicamentos - Infobae",
+        "summary": "Reto viral “Pásame la botella”: especialistas alertan por aumento de adolescentes intoxicados al mezclar alcohol con medicamentos &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ19nT2YyMlR5RFhzZVRjTXpPcjZXYjhHZ25aV1BkeTFuWDVKTHZxUFRyQklUb0JYaGFIMUJEbEdVbTg3Y01OV255QmN3OHlEbWNaS185UXVqUHhydnF1YTlrZTNSQmtmVGNKc2xyb28zTmt4czlsd2Z1OC0wQTZYWmpjT0pUNU0yN21CWnpYamV6eU43TkdQUE1FdjUxUGVRQ0tzbGpDbEk2Y0xrS3Y1bl9hY2UxSnVuMTF2ZV82MTZ2dGVkQ0tPVG1R0gHkAUFVX3lxTE5xaE1KVl9TLXVjQW16VUhTbmotZWRBcUJueDBnQWZLZFhPaC1hSjZNSGVXSnFEQlotekUweWloX0xEc2txcEt5N2RGOUFBYXBFaXBZYTdZaWpkaktoNUd4cDFsV2R3bGdOOGNDVV9qajFLMy1ZTUh3TXU4dlZmVmprRnlvQzhLMlM4RnpTT2FMSzhKdS1PaXdvZE0tQnlIUmIyM3l4akJrYjIwcnMwY25yMXl2TFIwdjg1YXpBNmRnNDBrdU9oZTN5LVU4MGp6dHVVR09fTnh5cmN1eGNsaXBDNUlZXw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYkxYWU1GV09vM243VlB3NWZhbWt5RzF1bE9PdXRhR3BkM2cyb25NTjVMMG1XbnM3aU1rMXBIb3FFV3cwRjRrYkduVm9Gd0hyRFlKWElDSk8ybEtXVUJkRHlXc2FuWkhodTg1Z1ZGbmpUZVZxcTN4M1J6ZlpxZHJFNUtTN2tRQWE3MVR5SkhwLWVCelVKU3FNZVowYjh3YVJYWDFHWm1PbUlJOVNBOTVQT19hQ2tGbXNYWTllU3ZoLVNlNE9aUGwzZzl3LTJHaDN6TWpaNkJsOXBTRVIwMmtfVjUyaGo4X1E1bFBvb3ZkMUZ5QmozSGtYcUx5VdIBlgJBVV95cUxPUElwalRLcFI3MTN6a3dqaV9pWHA2NjFYWVFHZU00NTNTblYzYXo3aDdXaEF1NzM3bmx0MkFCbnFGdmtFd2syOVRwNE1HRVV4dnhsOUtva2E5ZUVvbW1CVDBneGc5a3hZUU9oVjFfVE0xOExvbG5TM0FoeW81Wll1UWtxRTNqdkJiTWoxbm42aG9PWVNjTmlvbmgzaUdmVDA1bkFmUm1RRVVua2VxY0tldUlQTGEzZ3k2Sk10N0JKWUxTTkF6OGQtVlV6RzhmcGlJdlA1OF9JaEFIcFI1U3NoZDZtUnpmbEpBWVZCTUE1bVNDQUxZcm9QVDB2OEhpekVtcGItWjNDekpHY0xKSk1GQXpMRGhYdw?oc=5",
         "image": "",
-        "publishedAt": "2026-07-07T07:00:00.000Z"
+        "publishedAt": "2026-07-08T07:00:00.000Z"
       }
     ],
     "farandula": [
-      {
-        "title": "Teletón 2026 supera la meta prevista y recauda S/9.8 millones a favor de los niños peruanos - larepublica.pe",
-        "summary": "Teletón 2026 supera la meta prevista y recauda S/9.8 millones a favor de los niños peruanos &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNT1J0RkxYS01hUUxUQjJSenZBZDg2MWF2ZmthZUo4STRka01zVGhEZ0lxVlBNMGhLM1ZlZERYRVBkRklTTEQ4RzdFajhrYTMtZGpGZ3NfcUlseGl4WWd1U3NaUFkwS1dINE9Jd0tJR2lLYXQtSU9HaHlWcE1rTVNrREFyazY5aUQxZ2NWUDE5TlphaGlrdTZqV0xDVjdlUFM4MkFTYzVHaU1aU0p4VVJEZm5UVDBQTGppVlo4M2dPclFhNWtBWmxSMlA0UHBGT3dFZWdRS1RBeFhESnRHMGl2d2NCQ3rSAeQBQVVfeXFMTU9SdEZMWEtNYVFMVEIyUnp2QWQ4NjFhdmZrYWVKOEk0ZGtNc1RoRGdJcVZQTTBoSzNWZWREWEVQZEZJU0xEOEc3RWo4a2EzLWRqRmdzX3FJbHhpeFlndVNzWlBZMEtXSDRPSXdLSUdpS2F0LUlPR2h5VnBNa01Ta0RBcms2OWlEMWdjVlAxOU5aYWhpa3U2aldMQ1Y3ZVBTODJBU2M1R2lNWlNKeFVSRGZuVFQwUExqaVZaODNnT3JRYTVrQVpsUjJQNFBwRk93RWVnUUtUQXhYREp0RzBpdndjQkN6?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-13T12:36:55.000Z"
-      },
       {
         "title": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” - Infobae",
         "summary": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” &nbsp;&nbsp; Infobae",
@@ -510,6 +502,14 @@
         "publishedAt": "2026-08-23T07:00:00.000Z"
       },
       {
+        "title": "¿Quién fue Víctor Angobaldo, el recordado personaje de la farándula y expareja de Shirley Cherres que falleció en un accidente de tránsito? - Infobae",
+        "summary": "¿Quién fue Víctor Angobaldo, el recordado personaje de la farándula y expareja de Shirley Cherres que falleció en un accidente de tránsito? &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOR1NDdF9mS0J6YWhSQTJhRFpYVzFQbHMxMWNtVzJ5eGVfcmRwRS1vWTNiV0tpSGJEaXdPNE4tYkMzM0tobF9yMkV4dTR6NDJ4dXZ4bFR1al80cVVrOUVqbUF3UDBKNHVPVTVhak5VTUhJalJvZUE5aFRQTldJU3JDdm9HLTZDNVBxUE0xZDA4VWVqa3hXWnBhLTkwUlBsTmVuS0p6WHpmQ0tVNkhBWWhGQ1RXcTZPZGs2S2Qwc0hJVlpJWlFTcFI0ZGZ6OXZhLXJzZFRMZ1J3MFMtZS1ueEZLYWNlQWIxQ3RzN3pvVFM1Qi1TTXZsSmRsZXFhbVRNd0JOZkFjWXlsSnbSAaMCQVVfeXFMTXliQkJBdndLUUhLNE92NFA4NlVOQzFCMDhqM2RKNzJWWHM3YV83bnhKTGdHTFFFcHpQckhiOUlPTnpSejNodzRyTElBaFVzNlV5V09wdElvbHdORU84TlRjY2I0dS1SQlFpekZuVlhDcDQyR3hRMW8wZUxNV1dWclhJUDYwTVVlMXFOVHpFWl8zVHAyTloyVUJ5bkVMWW1ZTG9WX0p3X28tQm9Cd0ZZVkQzS05NZ25fSmk1Z1NFbUd3Uy1MSWM3cDBvbnRmTzI5S0VFLWZSdFREQTdMV1BPREQwU2doTVVhTmNWaUgyeHpUbmJvNVprUElyV0tKVk5HR3VMQkNVVTcxUmJJNkh2MUg4TkZFUU9ZcXZZM2FVLWFTOWlv?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-06T07:00:00.000Z"
+      },
+      {
         "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
         "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
         "source": "Diario Correo",
@@ -518,9 +518,9 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
-        "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - trome.com",
-        "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; trome.com",
-        "source": "trome.com",
+        "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - Trome.com",
+        "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHpkRUdJMnV3X2tiUURubVRPZW9NY0Z3UlJIS1NIaG1jVkpPWEYwcVlsSXJBdVliMERjdnlBRkR0LUw2WllJam56RXBUb2tVbFlxZDJOV2xEYTJsczg1elZlclFvREdzUWptcmw3VURlYlhST09TdVpWTmo2Znp3dGJWeDhHN2xILU1aOHBXVkZ5MFhFNnM4SzliOE92VTNOWnMtTk1YaWVUMmdHcGN3a2MxRnJaQXlWdmo2aE5iR1UzbU1QWnVibkZJamZabm9KV01SQ1FfM3TSAewBQVVfeXFMTlJtdHBFeG9XM2lzMnFvRnpMWk5XZGFRblJNdlBTeVNRcGpGR1hOS2RydWh3dTlFQ3BDNkZEMmlXTi1nUW1zUFN6djIxRU5BUDV2V3hkZDREMlRVTmZtRy1IT3dEQXdCMmRLYmg2ZndiNHI5dV9RWmM0bDZmdjBITkpBNzBqWEx6cTJWQTBUV1VBcm9mS3U0YzluUlEwb0ZLT2picG0xNlI1YnVEY2xGYVoxMC1CMlV1NHhzRmtTTVVZaERiTUVZZGR4SjJ6YVpDeGJMY3Aybzg4WUZFV1kyVm1OdEUyUktiVE95OHM?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
