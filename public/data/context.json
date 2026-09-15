@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T18:10:05.755Z",
+  "generatedAt": "2026-09-15T21:17:35.531Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -29,7 +29,7 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/entrevista-lourdes-alcorta-lo-que-esta-contaminando-el-ambiente-es-que-en-esta-solicitud-de-facultades-se-han-excedido-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/BCG4JWPZPVDYXJQ4DIRSKPCEW4.jpg?auth=3b0c40b6d386a76d2e7383d2119340ca2b8a7939acf8cccfc4f8513e023824f4&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-09-15T17:58:31.000Z"
+        "publishedAt": "2026-09-15T21:07:51.000Z"
       },
       {
         "title": "Aumentan a 7 las comisiones que se oponen al pedido de facultades del Ejecutivo ¿cuáles son y cómo avanza en la Cámara de Diputados?",
@@ -37,7 +37,15 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/aumenta-el-numero-de-comisiones-que-se-oponen-al-pedido-de-facultades-del-ejecutivo-cuales-son-y-como-avanza-en-la-camara-de-diputados-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/XDXYUKKHV5DGTHN4725V7EMOLU.jpg?auth=ee0e67965729c588fc877a8d1c5d18936085b0a8eaaff65ca892554371b3c3cf&smart=true&width=580&height=330",
-        "publishedAt": "2026-09-15T17:57:37.000Z"
+        "publishedAt": "2026-09-15T21:07:44.000Z"
+      },
+      {
+        "title": "Jaime Delgado: “Mientras no descarten esa interpretación errónea, los diputados no les va a dar ninguna facultad”",
+        "summary": "El senador Jaime Delgado (Ahora Nación) afirmó que desde el gobierno de Keiko Fujimori “quieren escudarse en que no pueden resolver los problemas del país si es que no les dan facultades”. “¿Para eso han ganado la elección? Y quieren poner a la oposición como que estamos obstaculizando y eso, no es así”, complementó.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/entrevista-jaime-delgado-mientras-no-descarten-esa-interpretacion-erronea-los-diputados-como-un-mecanismo-de-defensa-no-les-va-a-dar-ninguna-facultad-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/ZMFMIB5H4ZAOBMS24ZD5JKASCI.jpg?auth=b80334aed4774895db259f2c38bdc20327d415f0d8ca85dea36e22c47ee261fc&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-09-15T21:07:33.000Z"
       },
       {
         "title": "Debate para la Alcaldía de Lima: temas, fechas, duplas y la situación de Rafael López Aliaga",
@@ -45,81 +53,41 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/elecciones/debate-para-la-alcaldia-de-lima-temas-fechas-duplas-y-la-situacion-de-rafael-lopez-aliaga-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/KLVGVLMRSZFDLLNPU7LCF3ZEEY.jpg?auth=0a4ae513a9865d02854e8dcb72c2cd0725a20906c4cb781a971cd39e40f3279e&smart=true&width=1200&height=647",
-        "publishedAt": "2026-09-15T17:57:17.000Z"
+        "publishedAt": "2026-09-15T21:07:21.000Z"
       },
       {
-        "title": "Pleno del Senado debate este miércoles viaje de Keiko Fujimori a Asamblea General de las Naciones Unidas",
-        "summary": "El Pleno del Senado debatirá este miércoles 16 de septiembre el pedido de autorización para el viaje de la presidenta Keiko Fujimori a Estados Unidos, el informe que recomienda ratificar a Julio Velarde como presidente del Banco Central de Reserva (BCR) y la presentación del ministro de Relaciones Exteriores, Carlos Es",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/senado-debatira-este-miercoles-viaje-de-keiko-fujimori-a-asamblea-general-de-las-naciones-unidas-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/K7VAUTJTWRHC3CILLOGRJ2TYWQ.jpg?auth=a40264f99af3acbf3a4e87c4da2ce5d0885ab2c60b2a9acc9c2ee02c129674ac&smart=true&width=1200&height=854",
-        "publishedAt": "2026-09-15T17:53:02.000Z"
-      },
-      {
-        "title": "El nuevo Congreso bicameral alcanzó un nuevo récord de mujeres, pero el Senado aún está lejos de la paridad",
-        "summary": "En 70 años, las mujeres pasaron de representar apenas el 4% del Congreso a ocupar el 37% de los escaños. Pese al avance, la nueva bicameralidad evidencia una brecha pendiente: solo el 27% del Senado estará integrado por mujeres en el gobierno de Keiko Fujimori",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/congreso-keiko-fujimori-senado-diputados-bicameralidad-palacio-de-gobierno-mujeres-martha-chavez-fuerza-popular-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/5CNBAEYKWVE53IHCVZAYKUV5CA.png?auth=8e7a13e206d920b70ddfca603c0c9325c76a88346ce797f823ffcb326f891177&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-09-15T17:44:00.000Z"
-      },
-      {
-        "title": "Comisión de Ética aprueba investigación contra diputado Christian Aranda: ¿cuáles son los argumentos del informe?",
-        "summary": "El contenido del informe será sometido al debate este lunes 14 de setiembre ante el seno del grupo de trabajo, que dirige Henry Albañil.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/informe-de-la-comision-de-etica-concluye-iniciar-investigacion-formal-contra-diputado-christian-aranda-cuales-son-los-argumentos-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/2XBGQHS2XNFJVMMT6U7ALVLTKE.jpg?auth=9a0d7ab698c1d9c74f7b9e96e11003767aa3988853c5a310867657ff090893b7&smart=true&width=1200&height=647",
-        "publishedAt": "2026-09-15T17:24:34.000Z"
-      },
-      {
-        "title": "Carlos Bruce: “Yo creo que es una obligación participar” en el debate del JNE",
+        "title": "Rafael López Aliaga confirma que participará en debate del JNE: “Mandé una carta y parece que me hicieron caso”",
         "summary": "",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/elecciones/carlos-bruce-yo-creo-que-es-una-obligacion-participar-en-el-debate-del-jne-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/BEPLD6AEMBEBTHWO42TMLR73LE.jpg?auth=8ad4733a10cef685e22761b1e23f4ad2a67b37542c4dc974c16bdb06fdc15a4b&smart=true&width=1200&height=761",
-        "publishedAt": "2026-09-15T16:13:32.000Z"
+        "url": "https://elcomercio.pe/politica/elecciones/rafael-lopez-aliaga-confirma-que-participara-en-debate-del-jne-mande-una-carta-y-parece-que-me-hicieron-caso-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/YAQ4BUSEAZBZNNUXJW4CI4SFC4.jpg?auth=5bcb7249eba7f51c329d73a340fc88f8d69c8d9a787e6f36d0578e84605c6191&smart=true&width=1534&height=1139",
+        "publishedAt": "2026-09-15T21:05:51.000Z"
+      },
+      {
+        "title": "José Jerí: Ministerio Público pide levantar secreto de las comunicaciones en caso de empresarios chinos",
+        "summary": "El Ministerio Público (MP) solicitó al Poder Judicial (PJ) el levantamiento del secreto de las comunicaciones del empresario chino Zhihua Yang y otras tres personas en el marco de la investigación seguida contra el exmandatario José Jerí.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/jose-jeri-ministerio-publico-pide-levantar-secreto-de-las-comunicaciones-en-caso-de-empresarios-chinos-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/DCGVYYXQVFDHRKL7EHTRUZQP74.jpg?auth=de5ec16f2029a148b898d341d2a2d913acb4a65ffa5891aa46fe7fb8ab66b9fe&smart=true&width=1200&height=647",
+        "publishedAt": "2026-09-15T21:04:59.000Z"
+      },
+      {
+        "title": "Guillermo Bermejo: Defensoría del Pueblo pide informes al PJ alegando demoras en recurso de sentenciado por afiliación al terrorismo",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/actualidad/guillermo-bermejo-defensoria-del-pueblo-pide-informes-al-poder-judicial-alegando-demoras-en-el-recurso-presentado-por-el-sentenciado-por-afiliacion-a-sl-los-detalles-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/PJOH2HQAYRBBTA7DQDUV3N7C3Q.png?auth=370e7cc7213e87c4778949363cf3b3b548e50f729cb5b24bcf6b36a751a0b63b&smart=true&width=1200&height=647",
+        "publishedAt": "2026-09-15T20:35:00.000Z"
       }
     ],
     "economia": [
-      {
-        "title": "Mercados e indicadores – Hoy martes 15 de setiembre",
-        "summary": "Para tomar las decisiones más acertadas de inversión, manténgase diariamente bien informado sobre el desempeño de las acciones de la plaza bursátil, de la variación de las principales variables del mercado financiero, así como de la evolución de los precios de los commodities. La cotización en el mercado de Londres el ",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/mercados/mercados-e-indicadores-hoy-martes-15-de-setiembre-noticia/",
-        "image": "https://gestion.pe/resizer/v2/CKBJCXWQXVCTXHZN5ZAGTM66RE.jpg?auth=c935a9816683dbd514d89311dedaf60293df727aefbd90da56a9830e4813f2eb&smart=true&width=1280&height=720",
-        "publishedAt": "2026-09-15T17:30:25.000Z"
-      },
-      {
-        "title": "Informar en una era donde la competencia es el “ruido”: liderazgo e IA en el foco de los medios",
-        "summary": "“Que el medio sea un espacio para la reflexión. En lugar de poner 1,000 historias para que haya clickbait, quizá es mejor hacer menos historias, pero más valiosas”, se mencionó en el LATAM Media Leaders Summit 2026.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/informar-en-un-era-donde-la-competencia-es-el-ruido-liderazgo-e-ia-en-el-la-ruta-de-los-medios-de-comunicacion-noticia/",
-        "image": "https://gestion.pe/resizer/v2/7YRGGINZEVCUTM2T7I7JN2VDLE.jpg?auth=6bb936e975da710eacf3a59ad7f7c917f220f22b4e12bf08061e15594c7f8ec2&smart=true&width=1200&height=799",
-        "publishedAt": "2026-09-15T17:22:39.000Z"
-      },
-      {
-        "title": "Empleo creció a menor ritmo entre junio y agosto en Lima Metropolitana",
-        "summary": "La población con empleo aumentó 6.1% en los últimos tres meses, pero el ritmo de crecimiento se moderó, informó el INEI.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empleo-crecio-a-menor-ritmo-entre-junio-y-agosto-en-lima-metropolitana-noticia/",
-        "image": "https://gestion.pe/resizer/v2/ECDYISFDXJEQDORF4KEWFJABLY.jpg?auth=455b7d6b950f56ebc9804c9fdf396e103217e70a9c65aeefacf31299c30e6628&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-15T17:20:57.000Z"
-      },
       {
         "title": "Congreso debe designar a 3 directores del BCRP: estos son los 12 candidatos en carrera",
         "summary": "",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/congreso-del-peru-debe-designar-a-3-directores-del-bcrp-estos-son-los-12-candidatos-en-carrera-propuestos-por-las-bancadas-noticia/",
         "image": "https://gestion.pe/resizer/v2/OD3JFI7U6NEQ3MR4M2QANKLSPQ.jpg?auth=82d34035ffbeb3b369aa8bc56cb0fdc24f4c0ce71cc9efa16fcc6fc7c1536291&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-15T16:19:28.000Z"
-      },
-      {
-        "title": "El Niño: Ositrán plantea que concesiones viales realicen obras más allá de sus contratos",
-        "summary": "Ente supervisor alerta que persisten condiciones de peligro sobre 88 puentes en rutas concesionadas, que hasta ahora no son resueltas por el MTC.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/el-nino-ositran-plantea-que-concesiones-viales-en-peru-realicen-obras-mas-alla-de-sus-contratos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/BK67RKLPONAN7DA7IBRZUFUH2Y.jpg?auth=2e39844edde5105d9de8459d892928c2aeddbee2e0309033cde3539b9162d947&smart=true&width=1199&height=799",
-        "publishedAt": "2026-09-15T16:13:00.000Z"
+        "publishedAt": "2026-09-15T21:15:00.000Z"
       },
       {
         "title": "Machu Picchu y la reforma que al fin “destrabaría” miles de entradas: ¿una nueva era?",
@@ -127,15 +95,7 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/machu-picchu-y-la-reforma-que-al-fin-destrabaria-miles-de-entradas-una-nueva-era-para-el-turismo-de-peru-noticia/",
         "image": "https://gestion.pe/resizer/v2/KU5DX5JRVRFINL7RKK553MY35M.jpg?auth=b5db00aefbc9d1ad937dc2e53366a265f959bd8e1bf1a06253ffd0de18ee29d6&smart=true&width=1200&height=844",
-        "publishedAt": "2026-09-15T16:12:00.000Z"
-      },
-      {
-        "title": "Indecopi sanciona a Integra Tec con millonaria multa por compra de Telefónica del Perú",
-        "summary": "La compra de Telefónica del Perú por Integra Tec International Inc. abrió un caso relevante para el régimen de control de concentraciones empresariales. El Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual Indecopi determinó que la operación debía ser notificada previamente ",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/indecopi-sanciona-a-integra-tec-con-millonaria-multa-por-compra-de-telefonica-del-peru-noticia/",
-        "image": "https://gestion.pe/resizer/v2/47VGJ5R5DRBX5DMW3W7HISD3UI.png?auth=6c25ab69b4fd9d318f5afe9bf17d6bb3ada35cb2ea82b22a94846c70b293eff4&smart=true&width=1672&height=941",
-        "publishedAt": "2026-09-15T16:07:24.000Z"
+        "publishedAt": "2026-09-15T21:10:00.000Z"
       },
       {
         "title": "El Niño aumenta riesgo sobre los dos principales cultivos de Perú: temores crecen en el agro",
@@ -143,10 +103,58 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/el-nino-aumenta-riesgo-sobre-los-dos-principales-cultivos-de-peru-temores-crecen-en-el-agro-noticia/",
         "image": "https://gestion.pe/resizer/v2/W45VULHJ2FD37MR4C4E2KHYMLU.jpg?auth=6180665d6634922d51a996a04541a8f1584d2dbbfb1219708d2f9199ebb8ea5a&smart=true&width=960&height=720",
-        "publishedAt": "2026-09-15T16:05:00.000Z"
+        "publishedAt": "2026-09-15T21:08:22.000Z"
+      },
+      {
+        "title": "Perú “jala” PISA, pero escenario sería peor: 336,000 jóvenes no estudian y abren estos riesgos",
+        "summary": "Data a este segundo trimestre presentó que casi el 15% de este grupo poblacional no está estudiando. Estos se dividen entre quienes únicamente laboran y quienes no estudian ni trabajan (Ninis). Los detalles aquí.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/mas-alla-del-pisa-336000-jovenes-entre-14-y-17-anos-en-peru-no-estudian-que-riesgos-hay-noticia/",
+        "image": "https://gestion.pe/resizer/v2/VNOAIUVYERFZHK2AJPWEIBKN7U.jpeg?auth=12955cb1f98d3ebe0aca76aad4e5c49e4ddaed7b80530fceba67e4fc2bb45332&smart=true&width=910&height=591",
+        "publishedAt": "2026-09-15T20:27:00.000Z"
+      },
+      {
+        "title": "Tipo de cambio hoy en Perú: ¿En cuánto cerró el dólar este martes 15 de septiembre?",
+        "summary": "El martes 15 de septiembre, el dólar en Perú comenzó el día con un descenso, en medio de tensiones geopolíticas en Medio Oriente, que han elevado el precio del petróleo y reforzado la demanda por activos considerados refugio.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-martes-15-de-septiembre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
+        "image": "https://gestion.pe/resizer/v2/TPKXXSFAFZH5DPQBPQLY4ZONYU.jpg?auth=0f27fec532d747af31a545831359cd0000d7662dc5b3b47683187fad0daf8ecd&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-15T20:24:41.000Z"
+      },
+      {
+        "title": "Petroperú afirma que refuerza acciones para mantener abastecimiento de combustibles en Loreto",
+        "summary": "Petroperú afirmó que viene desplegando acciones logísticas para mantener el abastecimiento de gasolina 84 y gasolina regular, en Loreto, pese a las restricciones de navegabilidad ocasionadas por la acentuada vaciante de los ríos amazónicos.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/petroperu-afirma-que-refuerza-acciones-para-mantener-abastecimiento-de-combustibles-en-loreto-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CFGVC4XCX5BMBPPGANUBXVURUM.jpeg?auth=222f4973be0b5341461827a21130dd34a31c4e947f7fe2ad9c0c0d3a1432839b&smart=true&width=1600&height=1005",
+        "publishedAt": "2026-09-15T20:22:35.000Z"
+      },
+      {
+        "title": "¿Cómo buscas en el navegador? La mirada de Google sobre el cambio en los usuarios",
+        "summary": "Representantes de Hiberus Media Labs (España) hablaron de la adaptación de la inteligencia artificial de los medios de comunicación, tomando como referencia experiencias de Xalok Assistant.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/google-la-evolucion-de-las-busquedas-y-la-ia-en-las-redacciones-de-los-medios-de-comunicacion-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CVQOVFAW4JFOLPHFU6RT7DDRR4.jpg?auth=ea50f2979b4aa5dee4c3488eb8bd65aa962e4961bcd333907c21da7aa7e5f4e6&smart=true&width=1300&height=800",
+        "publishedAt": "2026-09-15T20:21:31.000Z"
+      },
+      {
+        "title": "Economía peruana repuntó en julio, pero estos sectores siguen en rojo",
+        "summary": "De enero a julio, la economía peruana alcanzó un crecimiento de 3.13%, informó el INEI.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/pbi-repunto-en-julio-pero-estos-sectores-siguen-en-rojo-noticia/",
+        "image": "https://gestion.pe/resizer/v2/JWHKZMN42VHBRASPIOAGTG2FGQ.jpg?auth=c968c21596e799877be52d0a7c5354977434cf29c0fab04df1734aff66db8df7&smart=true&width=1800&height=1212",
+        "publishedAt": "2026-09-15T20:08:21.000Z"
       }
     ],
     "sociedad": [
+      {
+        "title": "Lista de candidatos a la Alcaldía de Carabayllo 2026: conoce quiénes postulan - Infobae",
+        "summary": "Lista de candidatos a la Alcaldía de Carabayllo 2026: conoce quiénes postulan &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVVIyZzVpaHJHalVGZXNkRzA2MjhQWGYzZ2ZjVjJ4N2l3MnJTUjRCYmJ3WGpjWTVJNVVJaVgySkFwMUhqSFVzMVBtbTN1bFlKNVdqalVIbWRaM0VYTmo3dmFDazhjQ3pWVFZaZEp3LURQTjdiRHo2UXdkY3FYenM2SEhDM2c1OUdpY1B2RTBqU0EyQWFGTmRwUDJaWmp0b1FYdFRZQkJYOTc3THFLLVBNRzQyTzE0aHBT0gHTAUFVX3lxTE41VmtDRWlGRERzMlI4aEp2ZmV1UGNBQjhkQXpmQWhhX04xQWY5bmotRUFWcUNxRlFadFpCQkk4ajJIaTVfMEh5UmppQzZ3VFRjR3Z1M0ZMeU5BMTRNU1RwcDg1ZlltNV9FOGE2VHhfWlkxd3NtM2U1N2ZVamhoUW92d0JGT3FFeU5Mc1lpWWVLQjFsZ2R2cWJKdFVYSVhHZ21OVnZGMjlIVHpyNThIMHFmTDBPQ01qcS1xaG1TdjVXNktsRmVwakd5MkZnRFlIazlhQ2M?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-15T18:39:22.000Z"
+      },
       {
         "title": "Una propuesta de agenda legislativa con impacto positivo en el empleo, por Fernando Cuadros Luque - La República",
         "summary": "Una propuesta de agenda legislativa con impacto positivo en el empleo, por Fernando Cuadros Luque &nbsp;&nbsp; La República",
@@ -156,9 +164,9 @@
         "publishedAt": "2026-09-14T21:45:20.000Z"
       },
       {
-        "title": "Tres candidatos plantean agua, salud y vías para Ocuviri 2027-2030 - pachamamaradio.org",
-        "summary": "Tres candidatos plantean agua, salud y vías para Ocuviri 2027-2030 &nbsp;&nbsp; pachamamaradio.org",
-        "source": "pachamamaradio.org",
+        "title": "Tres candidatos plantean agua, salud y vías para Ocuviri 2027-2030 - Pachamama Radio",
+        "summary": "Tres candidatos plantean agua, salud y vías para Ocuviri 2027-2030 &nbsp;&nbsp; Pachamama Radio",
+        "source": "Pachamama Radio",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjVicmRJUHdsWkJST0NDVllhUTRPQVpxelM3dGx5aWV6clN1Nm5fQlprdFVQUnM4WkdGc1NxSGJ4cHBaRmhVUDMwemhpblNpV18tSzlRdWE0MzNMaDNjWDRzdVJRM1I2S0FOMmtqTGRmeTl3RUh3cktfRlZ1S2tPUzNwOXEwcHlsMU1Rd1htZTQ0MFZZX09kUQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-14T12:17:20.000Z"
@@ -188,28 +196,20 @@
         "publishedAt": "2026-09-11T22:52:53.000Z"
       },
       {
-        "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
-        "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
+        "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - elperuano.pe",
+        "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; elperuano.pe",
+        "source": "elperuano.pe",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOF96RmlFdGF0MmZNd1M0VXdlM2tlQVU0MHBidWRKZ1ZaYmRYZjQteldIeDRYR0c4aFNENU1ackUzVzZ5Sm5OSU9JVXlhQU9ON0ZoYmt6UWRfX2xNcFd3bmNDbkpyUktwaVl4UUZwdlZIRmZDaldXd3dXRk02ZFZvb2VJNk9WLTZTVXJhQklYcWxGMkFWbmZHUG11OURpRE8xWWdpU3lOOHUxaFotNUJscW9qVUdfdFRkWUhubndPYnRYUUN5RncxVW1qVFMzck41SWJYeWV5eWVLZw?oc=5",
         "image": "",
         "publishedAt": "2026-09-07T22:31:00.000Z"
       },
       {
-        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - El Peruano",
-        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
+        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - elperuano.pe",
+        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; elperuano.pe",
+        "source": "elperuano.pe",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-03T07:00:00.000Z"
-      },
-      {
-        "title": "Estas son las comisiones de la Cámara de Diputados que tendrán mayor poder de decisión en el nuevo periodo legislativo - Infobae",
-        "summary": "Estas son las comisiones de la Cámara de Diputados que tendrán mayor poder de decisión en el nuevo periodo legislativo &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeXZsRHloYmRHU3ppR3pKTWg0U0FtSFM1MC1GWjJqeHVVb1M3QzlQelJUWFlGR1gtOWZYQ05iS1VDTlF0aUx6OHphRW1fVmtETVR3Tnc3YXFhQndfc1hRZW1mNnlLNXdDdTlfSlNOUlVPeE5pOXA5ekRsODVnemNSVTB3dzhGTmgwVGFMYVN1Zy1NTnhRVTUxejBjc1lIZ2ZWQjZ0d0cwSHJCUWRMM2xtcHpqWkppOGJXLTZqYzV6RzI0OXc3T1dEZEdiM0VXcjZkZllCcVRYWDMyRlVPS0xkWGdKR2NxWXZPUzVBUzJDSDbSAYsCQVVfeXFMTXgxSkI3ZG1kTXVidU1CMkVvRFNURFFvTmNjaE14UHk1YmFjbklkLThvWGVBWnVnTUtyTXRnM3dRcklHY0JRWE9Kd1FTSDV2QVNDRDlCYW9TOThfZVItcUprZElqazRpd2tDdG4tamVGUGNtYzFhbFEzX1dCanNOY2VMZnEtQmFPYkpvRDJWSDM3U0tZa3VSanlqZkRGOTVIN05tQlhoR2psMlNyNFJUVV9aNnE1bjlidksxNnh6SGlFUGZVcllNUFZPTUpSRVUxVU9UcE9DYlJxWUt3OXEwaDlIWTJPVS1vRlB6SDNBZmZZZHZIcWUtSDZYVGszTGYyMWJSUE8xTUU5RlM0?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-05T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -304,9 +304,9 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética - El Periódico de la Energía",
-        "summary": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética &nbsp;&nbsp; El Periódico de la Energía",
-        "source": "El Periódico de la Energía",
+        "title": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética - elperiodicodelaenergia.com",
+        "summary": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética &nbsp;&nbsp; elperiodicodelaenergia.com",
+        "source": "elperiodicodelaenergia.com",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2VQSGwtN0JkSnVaSTJURmJuX2VwcmExRWNzXzhsMmhKamg5WEVwU2plZHBHYzdUMjFZQW9xejJoaG04SDV1YWhkZlNneFZTQUNnN3VQVDltd295ai12R09RRlRJaTVEek5tT2F0c21NY1pQWVRxM1NYWVVaZHdiR050dmp0S1Yzc1JfdEsyR3dOUG95QUJzWFBwVWR1OVhMRWR2WGVmS2NrV0p5UGFpb3pYWTgwMW9Qd1lUOUc2aG1RdUk?oc=5",
         "image": "",
         "publishedAt": "2026-07-08T10:21:37.000Z"
@@ -346,9 +346,25 @@
     ],
     "ia": [
       {
-        "title": "¿Tu trabajo está en riesgo por la IA? Estos son los empleos más expuestos hasta 2035 - DSN Noticias",
-        "summary": "¿Tu trabajo está en riesgo por la IA? Estos son los empleos más expuestos hasta 2035 &nbsp;&nbsp; DSN Noticias",
-        "source": "DSN Noticias",
+        "title": "La IA se abre paso en la industria peruana: minería, agro y energía marcan la revolución tecnológica - Infobae",
+        "summary": "La IA se abre paso en la industria peruana: minería, agro y energía marcan la revolución tecnológica &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ2dtYzZpemhtYWluczhYNlV6bVAyZ2dGWWVudmt3aXp4cW1zZXNWZHRsQkl0ejlEU1lfeWVTTjFtVDhIdnpHTU9oLUVHclluTnFzdnZOcU9iTUpnRDNaUFZhYWVSTk5XR0wtTVItY1lfQk5TNWtjMlZCaUljRXVFZ3BjR0tVRzJPZFhWMDdPX1FET3pQaWxQOEd4VC16WGJoUnlmZEhRTHpRZm9TZFpESk1sWWltd0VUakxhZHFSVDQtRm9HSjNtUVhCZlF4V3pBQ2dwXzJB0gHwAUFVX3lxTFBpdUMzRlJMWWhETWdGc3RGa2FmQ3F0NXNPZWNjNk1NUTBjLXFlWWV3R0kxRVJPeHJuT1EyUlNDLUJTRlVGSVVvTTkxbjlEVkxHbWtNWW1MclZWZDNuUkJYUjBITlZyZ1hQNjlBd1p3TnZZaTItQkpsYVphMVNaUkRMdnQtY0F6aWFSWmFraFkycUVtNUkyVXpIVGNGNWo5MDlWazBuYVUxcjc3QUQySG5qdWE3MGpOOGZFZmtNcjluZHBKb2hPMWJ1WXpFTG53VHpXUGxCUmw3QldxMDdVdzhocU1XVFdBSi1iellWWFhJZg?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-15T18:58:58.000Z"
+      },
+      {
+        "title": "Perú: regulación de IA debe impulsar innovación sin frenar el desarrollo del ecosistema digital - elperuano.pe",
+        "summary": "Perú: regulación de IA debe impulsar innovación sin frenar el desarrollo del ecosistema digital &nbsp;&nbsp; elperuano.pe",
+        "source": "elperuano.pe",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdElnWGdmUlNGbHJFd1NxLWJuVy1KX2xJSXZ1djBBMWhTVlUwS3pXZ283M1pMcHZRU1IxYlM1ODA4Ung3RG5HQl90QUhMUzZEWmwyWl9nYkZpbmxIOHE5X0JFZG16Q2VPYzBCVElMNUlCMWV4TW9LWTZTNHl2UEx6SjlDLU5XT3hBb2tPNXh6S2p6VXVnaDNSSkd3S3pvc1NWODJaMWFXR0Z2SjkzeFVJLUc4SFNwUV9JcEw0SEN1aWhpX3dUOWVzWENWTnVUTWM?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-15T16:38:00.000Z"
+      },
+      {
+        "title": "¿Tu trabajo está en riesgo por la IA? Estos son los empleos más expuestos hasta 2035 - dsn.pe",
+        "summary": "¿Tu trabajo está en riesgo por la IA? Estos son los empleos más expuestos hasta 2035 &nbsp;&nbsp; dsn.pe",
+        "source": "dsn.pe",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdENSYzJXWlRKQjd5V3RQajUxQ0VuUmR3MXJNYXpzRE5MN0VTanVrUGF5dk1ZcWtQWTlGR2h2OHQ3bzhkdWZrQkExbldoODJFaWdVd3JrYU12emh6UlFiYWlxd3lQRVVDeUVyRzVJRWVxV3FEdWhWZEktaXFLM25LQlFmMUhJSmxHdXZHS0ZVN2VRQm5rSUdDOWx3ZWhSa2c?oc=5",
         "image": "",
         "publishedAt": "2026-09-15T14:28:08.000Z"
@@ -378,9 +394,9 @@
         "publishedAt": "2026-09-14T15:16:37.000Z"
       },
       {
-        "title": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial - telesurtv.net",
-        "summary": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial &nbsp;&nbsp; telesurtv.net",
-        "source": "telesurtv.net",
+        "title": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial - teleSUR",
+        "summary": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial &nbsp;&nbsp; teleSUR",
+        "source": "teleSUR",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzFCZlBlb0hJQ2QxVS1ZUzdTTTBMWGdETGRkSVR3ZHByRjBvVU9SdkU3RmhQRzZPN2sybE5jbmFvdkQxVEdEVVQ0amFOOFh6NkhOY1Q3S0l0X0J5aXNWWi13NTdmWElJXzZ3eVJKN2ZCSzNxRWxwM1o5aDM1OHVJcG5EUlpVQm1fM2hpWQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-10T11:34:25.000Z"
@@ -392,22 +408,6 @@
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVER3X1pEb1VQeDJTVGZDcWRxUVFEOTlMczlGNXFveTFzWHdRbG52YWhndGlDTTdHRk9CMXBwbEZ3Y0xVR0o1WFdkbkhTQ1VyZXA4SDg1ZGdOdUxFc2hLZHgyQ1V6NGc3clExellickw3LTMyMGJNNU44VW9GQUtzZGJlX1dMZFB4UlZtcGZyeWxSVjB6MGwtbFhBQXV0VEhwdkNmaUdMdXNDaldzU0NvS05IUVltaXNEWVJqZVVCOHZwenhrbm9MUE5BNEdmRTRDREotUG1ST3M5UUZCUDJR0gH6AUFVX3lxTE04d3N2Q1NoZ282eVlEbjZtandqRTdqUWRSWnBocW1pS2tKVXpRNGwtYS1nUlkySmU0T2UzYVFkYjRFOU5JUWhobXZkQUhJVVVaMnhkdmk2RVpVSW85eU44MGdiUEh1UkVHcW9iYVhoenVKZDdXRXp4eUQ3Q3BnUHFZVUJpWVNWMC1ydGttWk9TN0RRNkY4TG1zZ1lvb0Zva0ViYTk0S1BRX1BQQ2J3OEZPRGl5SkViNVcwSko0MFo2T1pOcDh4Njd4YUR2RXp5WnJqNU5hbjd0Zmg5SUVIYUt5OV95TWhraURRZzNMLUtZY0xmWk5BZE15WGc?oc=5",
         "image": "",
         "publishedAt": "2026-09-10T01:27:00.000Z"
-      },
-      {
-        "title": "Perú firmó memorando para importar y adoptar IA de EE.UU. - Forbes Perú",
-        "summary": "Perú firmó memorando para importar y adoptar IA de EE.UU. &nbsp;&nbsp; Forbes Perú",
-        "source": "Forbes Perú",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTk92YlRIcWlORU9jdjdWZ2diQl8xYWlQSUc2QUZJRHNHdTFkbEticzZtMlJvc1l3bkF5YnNmdUl0OE04RDI0N25VQWdkR0UzTVNOcDdlM1lSbVF2UkU0bzRPdWFYT0FObjE2aERDa0tPR0dBYXFWbnBJaDJzSmZfRnNldy1KY0NBamFKT3VEd0k3X3YyV1poTHJ0TU82MEt4Zmc?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-09T20:12:03.000Z"
-      },
-      {
-        "title": "Gobierno reconoce que la IA sí amenaza el empleo de peruanos y analizará cómo evitarlo - Infobae",
-        "summary": "Gobierno reconoce que la IA sí amenaza el empleo de peruanos y analizará cómo evitarlo &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVHB2d1J3cHpjczFGaXIwbFhfVmd2RUtxNU5OV0lzWm52ZjllRVlLcmplZUVXSk56eTVMSTNUY25hTElBSkFsRXZFYXlRT1l5N1NucTBLc1hnd3NDMUozTWtiZTlraXkzWXl6eFQ0X1dHZWpCTnRUZjMtUTczWnVuc3NjV2NiQzI1Z01VZHc2RF9xNWRkenQxM3d3ZEhhUVdIOWVqb0gwWlprbzU3WGhpZzB3V3YxZHBPNmJaNkN5VmZUdFhXbmfSAeABQVVfeXFMTkJ3UzFoczdBLUU3RVJxTjR0Tk8yaEdpQXNCOXJOZjlURjZBd1lyZFhjenhrT1dQN0dqNWVJUUVqV0NwYTF0VDVZeHVxVGFaR1pLX0lOeEM0dTBSOWcxQmtoRXVjTE84dzhzc19DNE42WWtzSEg3b1ludUNGeFYyS1EyUER2MnMyZzVSNWd4aklEbjhxb1RVUVZRdDJncUh0VGFySzNfcjFVVVIydTdvSGc4LXpfN2tYRlliYkU5X3NjOGk5V1IxWksyWVpPUFBocmtSaC1zNTAzZmlWa3ExeFE?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-09T16:37:00.000Z"
       }
     ],
     "tendencias": [
@@ -428,26 +428,26 @@
         "publishedAt": "2026-08-30T04:30:15.000Z"
       },
       {
-        "title": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO - imagendeveracruz.mx",
-        "summary": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO &nbsp;&nbsp; imagendeveracruz.mx",
-        "source": "imagendeveracruz.mx",
+        "title": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO - Imagen de Veracruz",
+        "summary": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO &nbsp;&nbsp; Imagen de Veracruz",
+        "source": "Imagen de Veracruz",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLU5fOVFyR1JhZkhPcGs5RGtLX3lGbWtXcVpRLWJtRGxHdElNamtiQURtenhhQVFoQXczdUpva2VUWFotUVJxWFM3ZUFLaENGb1Z6TnJOVVhhUmczbzZiQWltU3pFeC1CVzM1S3ZLbktIMlJSVVBaVklnRUVjNVlFX25pQWJFSzVSS1BGTWpRM2VQalFLSFpGcE1fRTdjZy1KWWU3R29RSF9xX1pNM3pTZjdMemZKakhudHhIUkxNX1VOZklVbWEzc0NpdHN0UUdmMlNpYWNNMnRLU0FmUWxz0gHkAUFVX3lxTE1HTmV6Z3lLcW5pQTNpSGJxT2gwWFptR005THgwbzRyeVhneWVFRm9TV0plWlFoLWlCc2U2QnRZb0VkLVZDa292d0o2RnBaSkhGZDN5VDFtV19Kb0VQQTdTcHZKcExrN1pWVjFWbXVVOVFrekJHNUc5WHhXXzN2d1h3amgtQUw1aThialdock5tME83YWhpUGc2Z1hmbUFFelhlY01tV0VzdmRUU3lnWS11UVJtbGdPYXp3SzBjVFd0ek1rMXlESDNOeXVTcE5SdTZGa1ktWnBsbzk2d21wbGJ5TXpyUA?oc=5",
         "image": "",
         "publishedAt": "2026-08-18T07:00:00.000Z"
-      },
-      {
-        "title": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña - TV Azteca",
-        "summary": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña &nbsp;&nbsp; TV Azteca",
-        "source": "TV Azteca",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUtQOXdxcVJBQ3VUS2QwTjRrWFYxMmRqSFk4dDVBZXNoTWZrNGwyTUtpUXdHTVl2UWlGNEx1YWRycWdjdWFZbDFJWFU1TGo4bGRVZWt3bkNvSnpXaWVSaGFhbkpYWkFFcFJacEJVT2R2U0hDR1huVjBua2U4aWhzdVoySUxIZ3FId0pfREhoajB4M1pPaXhfaTl1U3ZESEJZZXFn0gGwAUFVX3lxTE5vUUtIUGJEWFlSTlpGNktFT1lSOWJLSWJ3cEg5ZWEyR1VCVTJnal9hSDNWVVBkeDJmR1FYaWlNSHFjQkVPQjlDMUJtQVNXVFlUWi12ZmM4NWo1MFVfWE9RRDd5dlJzWXg4UFkxV2d0eGxMakZrMThuM2JhTGs4dVZ6Y2JPQ21pRGNtaV81TmlZY2pRT1p2WWlmSm9HcXEwUEpuV1pnODd0NWRGNW5xR2Nn?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-15T07:00:00.000Z"
       },
       {
         "title": "Qué es farmear aura: de qué trata la nueva tendencia de TikTok entre jóvenes y cómo se gana una batalla - Infobae",
         "summary": "Qué es farmear aura: de qué trata la nueva tendencia de TikTok entre jóvenes y cómo se gana una batalla &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVmN3WHprRm1HX1MtdXhjWk5ZajM2dVZLSjJmY1VVUnN5QUxaUmxBeW81amF5RVY0dXV6clgtUERMZG40bmpBd2txODRnOElyeTEwMlZVZ0ZtcEVlelpKaHdCbl9ZUWhFUVVkbUxWd0k5X2FBd2tJNGM4bFBoakU0RDdOS1NxSmJFbDRGOHZ0UEJ2aXVfM3pmUUROMUloQl9uTFZDa3ZtaUJ5bHIwcW5hMTgwMlNoWk13UGhfZkNwbjZkMndyOHQzQjBsMnF6N2tOeTdlVE1zSXdkWTJDNXVlNTZhTdIB_gFBVV95cUxQNU45c1NZNkFDWjhUYzJxYUxYRGp2Uk9NaF9CbkVfSmRiZW90RGRWRW9BR2FFX1FkRVNySWJhdzVneTNFXzBDSEt5Y3RpeThBYlFfQldWaHZ0ZFRtSlZfaEtNUkpSLU5mOHh6Y2lxbTU2ekhmdC1zNmZMcVQwLVVkam5vV1lzRktaVFdmclp1NlR6RHNpMlYtNzltT29YWXFXR1VUS0w0Q0c4RGlGVEM0NVVlckVqOHR4c0U1UjlMcjRPVW43MjJhYV9hcWRTYmpVTEI4aGpsalFHbFY2LTNKX3ZRNFdLTVg0ZGtoaDdENE54S09xeTVVTElrZTF6UQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-15T07:00:00.000Z"
+      },
+      {
+        "title": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña - TV Azteca",
+        "summary": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña &nbsp;&nbsp; TV Azteca",
+        "source": "TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUtQOXdxcVJBQ3VUS2QwTjRrWFYxMmRqSFk4dDVBZXNoTWZrNGwyTUtpUXdHTVl2UWlGNEx1YWRycWdjdWFZbDFJWFU1TGo4bGRVZWt3bkNvSnpXaWVSaGFhbkpYWkFFcFJacEJVT2R2U0hDR1huVjBua2U4aWhzdVoySUxIZ3FId0pfREhoajB4M1pPaXhfaTl1U3ZESEJZZXFn0gGwAUFVX3lxTE5vUUtIUGJEWFlSTlpGNktFT1lSOWJLSWJ3cEg5ZWEyR1VCVTJnal9hSDNWVVBkeDJmR1FYaWlNSHFjQkVPQjlDMUJtQVNXVFlUWi12ZmM4NWo1MFVfWE9RRDd5dlJzWXg4UFkxV2d0eGxMakZrMThuM2JhTGs4dVZ6Y2JPQ21pRGNtaV81TmlZY2pRT1p2WWlmSm9HcXEwUEpuV1pnODd0NWRGNW5xR2Nn?oc=5",
         "image": "",
         "publishedAt": "2026-08-15T07:00:00.000Z"
       },
@@ -510,9 +510,9 @@
         "publishedAt": "2026-08-06T07:00:00.000Z"
       },
       {
-        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
-        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
-        "source": "Diario Correo",
+        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - diariocorreo.pe",
+        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; diariocorreo.pe",
+        "source": "diariocorreo.pe",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
