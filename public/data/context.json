@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T01:26:13.256Z",
+  "generatedAt": "2026-09-15T07:41:22.992Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -22,6 +22,22 @@
         "url": "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
         "image": "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
         "publishedAt": "2026-09-01T00:00:00.000Z"
+      },
+      {
+        "title": "Aumentan a 7 las comisiones que se oponen al pedido de facultades del Ejecutivo ¿cuáles son y cómo avanza en la Cámara de Diputados?",
+        "summary": "La Comisión de Defensa del Consumidor se sumó a los grupos que rechazan las facultades, mientras que la Comisión de Economía postergó la votación de su informe, en medio de cuestionamientos de Fuerza Popular y Renovación Popular.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/aumenta-el-numero-de-comisiones-que-se-oponen-al-pedido-de-facultades-del-ejecutivo-cuales-son-y-como-avanza-en-la-camara-de-diputados-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/XDXYUKKHV5DGTHN4725V7EMOLU.jpg?auth=ee0e67965729c588fc877a8d1c5d18936085b0a8eaaff65ca892554371b3c3cf&smart=true&width=580&height=330",
+        "publishedAt": "2026-09-15T05:01:00.000Z"
+      },
+      {
+        "title": "Debate para la Alcaldía de Lima: temas, fechas, duplas y la situación de Rafael López Aliaga",
+        "summary": "El Jurado Nacional de Elecciones (JNE) realizó la tarde del último lunes el sorteo del orden y participación de los partidos en cada una de las dos fechas del debate para la Alcaldía de Lima, el lunes 21 y martes 22 de setiembre.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/elecciones/debate-para-la-alcaldia-de-lima-temas-fechas-duplas-y-la-situacion-de-rafael-lopez-aliaga-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/KLVGVLMRSZFDLLNPU7LCF3ZEEY.jpg?auth=0a4ae513a9865d02854e8dcb72c2cd0725a20906c4cb781a971cd39e40f3279e&smart=true&width=1200&height=647",
+        "publishedAt": "2026-09-15T05:01:00.000Z"
       },
       {
         "title": "El nuevo Congreso bicameral alcanzó un nuevo récord de mujeres, pero el Senado aún está lejos de la paridad",
@@ -62,64 +78,64 @@
         "url": "https://elcomercio.pe/politica/entrevista-presidente-del-tc-pedro-hernandez-chavez-presidente-del-tc-habla-sobre-cerron-reinfo-congreso-y-las-decisiones-del-tribunal-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/MUMXDJJGTZGRZKPCUK7Z4CRHPU.JPG?auth=32f7d9c56c1dee6975d8a6db666757659fa829786bbe40c1f2644ea3071a36e3&smart=true&width=3456&height=5184",
         "publishedAt": "2026-09-14T23:44:00.000Z"
-      },
-      {
-        "title": "Guillermo Bermejo: Defensoría del Pueblo pide informes al PJ alegando demoras en recurso de sentenciado por afiliación al terrorismo",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/actualidad/guillermo-bermejo-defensoria-del-pueblo-pide-informes-al-poder-judicial-alegando-demoras-en-el-recurso-presentado-por-el-sentenciado-por-afiliacion-a-sl-los-detalles-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/PJOH2HQAYRBBTA7DQDUV3N7C3Q.png?auth=370e7cc7213e87c4778949363cf3b3b548e50f729cb5b24bcf6b36a751a0b63b&smart=true&width=1200&height=647",
-        "publishedAt": "2026-09-14T23:01:00.000Z"
-      },
-      {
-        "title": "TC admite a trámite demanda del Colegio de Abogados de Loreto contra la ampliación del Reinfo",
-        "summary": "El Tribunal Constitucional admitió a trámite una demanda presentada por el Colegio de Abogados de Loreto contra la Ley 32537 y el Decreto Legislativo 1695.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/tribunal-constitucional-admite-a-tramite-demanda-del-colegio-de-abogados-de-loreto-contra-la-ampliacion-del-reinfo-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/MHMY3JWAHBECLIYZMD2OIL6KEA.jpg?auth=30750a12ef8e33891746052c4310f82e909a0bf1034d254a2e68aec9980990fd&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-14T22:37:51.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Cuba sobre presupuesto público 2027: “Es peligroso” hacerlo pensando que irá “muy bien”",
-        "summary": "El ministro de Economía indicó que la tasa de crecimiento promedio de 4%, previsto para los siguientes tres años, rompe con la “parsimonia” de la última década.",
+        "title": "Dueño de Vizzano y Arezzo en Perú abrirá dos tiendas y busca el 50% del calzado brasileño",
+        "summary": "El invierno cálido \"dejó poco botines\" a Lazzos & Co., pero la importadora movió su verano dos meses antes por esta categoría. Ahora alista dos tiendas nuevas y va por más del 50% del calzado brasileño que entra al país.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/ministro-de-mef-elmer-cuba-sobre-presupuesto-publico-2027-es-peligroso-hacerlo-pensando-que-ira-muy-bien-noticia/",
-        "image": "https://gestion.pe/resizer/v2/4WU4Y5PEIJBMDBXPFTCFEAQBYM.jpg?auth=29a6d6ca77923712ccebd9199f60dcfc9eef3294afaf2b4fc3d44cc86e14224f&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-15T01:21:29.000Z"
+        "url": "https://gestion.pe/economia/empresas/lazzos-co-abrira-dos-tiendas-y-va-por-mas-del-50-de-la-importacion-de-calzado-brasileno-noticia/",
+        "image": "https://gestion.pe/resizer/v2/LJYPUEIUCREZFLIMYKI5KGTZDE.jpg?auth=0b0b3aa75b7355f4e7a00d7609b2078833b2dfb41b36d9b41331133917d52d08&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-15T04:45:00.000Z"
       },
       {
-        "title": "Feriados en Perú: Ministro Cuba ya planteó que su traslado a los lunes rija desde el 2027",
-        "summary": "El país se posiciona como uno de los países con la mayor cantidad de feriados acumulando 16 a lo largo del año. En el pasado quinquenio gubernamental, se aprobaron hasta cuatro adicionales.",
+        "title": "Restaurantes piden al MEF y Sunat reglas claras para proteger empleo y formalidad de mypes",
+        "summary": "ARMAP solicita una Mesa de Trabajo Nacional y plantea medidas para dar estabilidad a los pequeños negocios gastronómicos. La asociación destaca el papel de la Ley Nano Guerra en la recuperación del sector.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/feriados-en-peru-ministro-cuba-planteo-que-su-traslado-a-los-lunes-rija-desde-el-2027-noticia/",
-        "image": "https://gestion.pe/resizer/v2/OOLMIAO4VNBIXFGYNQST6H2XHY.png?auth=9d1af80c8b983fa7cd7f34b63aacb4f505b46c7d7ab39a8a7b4b2b49d1a35d05&smart=true&width=1300&height=800",
-        "publishedAt": "2026-09-15T01:16:35.000Z"
+        "url": "https://gestion.pe/economia/empresas/restaurantes-piden-al-mef-y-sunat-reglas-claras-para-proteger-empleo-y-formalidad-de-mypes-noticia/",
+        "image": "https://gestion.pe/resizer/v2/JC4DGEGIJJBDLJC3JHIGV7VUX4.jpg?auth=c086d4d3f11a228a187707d9e1f8f32683196e741097677ebde039d3f3c819c7&smart=true&width=1200&height=801",
+        "publishedAt": "2026-09-15T04:34:00.000Z"
       },
       {
-        "title": "Habrá más control a créditos bancarios que se otorguen con IA, ¿qué ganarán clientes?",
-        "summary": "Este 10 de septiembre venció el primer plazo de adecuación para que las empresas y organizaciones privadas que desarrollen e implementen sistemas de IA en el sector economía y finanzas cumplan determinadas obligaciones.",
+        "title": "Computadoras en Perú: así cambiará el negocio de laptops y desktops en lo que resta del 2026",
+        "summary": "Mercado peruano de computadoras: laptops y desktops enfrentarán cambios en precios, demanda y participación de marcas durante el segundo semestre de 2026.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/habra-mas-control-a-creditos-bancarios-que-se-otorguen-con-ia-que-ganaran-clientes-noticia/",
-        "image": "https://gestion.pe/resizer/v2/UV3CNPUZM5EZXE5TSED76DHPOE.jpg?auth=ea13a1aa718cd6b7f98136ba0c267fa665a6f72317b6fcbd4ef2d3b073314d2e&smart=true&width=1200&height=626",
-        "publishedAt": "2026-09-15T01:10:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/lenovo-hp-y-apple-se-disputan-el-mercado-de-laptops-en-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/EFVZFAQL7FAVTDTXWEEQH627XE.jpg?auth=233a3fd367fde1ce47e527ea814fb14e6a0985496eb2dd89c44c846dae2dd7d2&smart=true&width=6912&height=3888",
+        "publishedAt": "2026-09-15T04:30:00.000Z"
       },
       {
-        "title": "Perú aún puede aprovechar “vientos a favor”, pero necesita dar este paso clave",
-        "summary": "En conversación con Hugo Santa María, de Apoyo Consultoría, refirió: “La penetración de las economías criminales en general, y la minería ilegal en particular, son el principal riesgo para el país, un riesgo estructural cuando piensas en el futuro”.",
+        "title": "Litio en Puno: Falchani eleva su inversión a US$ 834 millones y ya tiene fecha de arranque",
+        "summary": "Macusani Yellowcake elevó a US$ 834 millones la inversión de la primera etapa de Falchani, su proyecto de litio en Puno, y proyecta arrancar la construcción en el segundo semestre del 2028.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/peru-ha-visto-debilitada-su-capacidad-de-aprovechar-vientos-a-favor-como-recuperarse-y-enfrentar-a-su-vez-el-nino-esto-dice-hugo-santa-maria-de-apoyo-consultoria-noticia/",
-        "image": "https://gestion.pe/resizer/v2/DIEXZIRT75FMTIR6KNIWE7BPMU.jpg?auth=6d00f2620c6c1dbdced72e7aa2c5d0aab350a0cc93aa74ceec401495b7752778&smart=true&width=1202&height=801",
-        "publishedAt": "2026-09-15T01:00:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/macusani-yellowcake-rehace-numeros-de-falchani-y-apunta-a-desarrollar-su-mina-de-litio-en-el-2028-noticia/",
+        "image": "https://gestion.pe/resizer/v2/NYQSBTE7SRC3ZJPUBH4TBUMZO4.jpg?auth=f191a21f57832121d97c763223a0faac0db5a89a12493167eb3991c0ce5efc8e&smart=true&width=1200&height=900",
+        "publishedAt": "2026-09-15T04:15:00.000Z"
       },
       {
-        "title": "Indecopi duplica medidas contra importaciones con dumping y subsidios",
-        "summary": "Indecopi impuso o renovó nueve derechos antidumping y compensatorios entre 2025 y agosto de 2026, más del doble que en 2023-2024.",
+        "title": "Europa pierde oferta agro por el clima y se abre oportunidad para Perú: ¿estamos preparados?",
+        "summary": "Arándanos, uvas, espárragos y cebollas podrían ganar espacio en Europa ante los cambios climáticos. ¿Cómo puede aprovechar Perú?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/indecopi-duplica-medidas-antidumping-en-peru-noticia/",
-        "image": "https://gestion.pe/resizer/v2/AFCAKHGONFDRTFDSBIJHA7AI34.jpg?auth=3f0f85bf2bc33b5ab90f67f5e5e7ef7b82cca7d402f08e332e82a04aaa6de7b8&smart=true&width=1800&height=1200",
-        "publishedAt": "2026-09-15T00:00:46.000Z"
+        "url": "https://gestion.pe/economia/agroexportacion-de-peru-europa-pierde-oferta-agro-por-el-clima-y-se-abre-oportunidad-para-nuestro-pais-preparado-noticia/",
+        "image": "https://gestion.pe/resizer/v2/4J5QDN6JFZBOJEXA77RPGGZNN4.png?auth=8244a8889521f839598d7649c403a9f631e26dc3b1613e96566c06035393c3a5&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-09-15T04:01:00.000Z"
+      },
+      {
+        "title": "El nuevo recorrido de compra: cómo la IA está cambiando la forma en que los peruanos eligen marcas",
+        "summary": "La marca que un consumidor tiene en mente al comenzar una compra ya no necesariamente es la que termina eligiendo. La búsqueda previa a la decisión se ha vuelto más extensa y suma nuevos actores, desde redes sociales y recomendaciones hasta herramientas de inteligencia artificial. En Perú, este cambio ocurre además en ",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/el-nuevo-recorrido-de-compra-como-la-ia-esta-cambiando-la-forma-en-que-los-peruanos-eligen-marcas-segun-boston-consulting-group-bcg-noticia/",
+        "image": "https://gestion.pe/resizer/v2/SKGDITFEIRBYXMTN2MFHV3IBFA.jpg?auth=f75b76948f423c13a247d6d189561c61071e32e8b4d0a7ab4b5d3f76035ec9d9&smart=true&width=1500&height=1001",
+        "publishedAt": "2026-09-15T04:00:00.000Z"
+      },
+      {
+        "title": "Gobierno aprobará subsidio de hasta S/100 mensuales para mototaxistas de la selva",
+        "summary": "El Gobierno aprobará un subsidio dirigido a transportistas de pasajeros de la selva. Los mototaxistas podrán recibir hasta S/100 mensuales para comprar combustible, según anunció el ministro de Economía y Finanzas, Elmer Cuba.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/gobierno-aprobara-subsidio-de-hasta-s100-mensuales-para-mototaxistas-de-la-selva-noticia/",
+        "image": "https://gestion.pe/resizer/v2/MQLOTI7I6REFRC3BGNWTG7EH6Y.webp?auth=7e39028f6c444a533b60cf53bfafb1b1a28a8ff4fe0b3cedb68d2e0db22b8ab7&smart=true&width=1800&height=1200",
+        "publishedAt": "2026-09-15T03:45:42.000Z"
       },
       {
         "title": "Congreso debe designar a 3 directores del BCRP: estos son los 12 candidatos en carrera",
@@ -127,26 +143,18 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/congreso-del-peru-debe-designar-a-3-directores-del-bcrp-estos-son-los-12-candidatos-en-carrera-propuestos-por-las-bancadas-noticia/",
         "image": "https://gestion.pe/resizer/v2/OD3JFI7U6NEQ3MR4M2QANKLSPQ.jpg?auth=82d34035ffbeb3b369aa8bc56cb0fdc24f4c0ce71cc9efa16fcc6fc7c1536291&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-14T23:39:30.000Z"
-      },
-      {
-        "title": "Economía deja en stand by voto para facultades: tope de tasas marcó el debate",
-        "summary": "Comisión de Economía de la Cámara de Diputados del Congreso de la República no se puso de acuerdo sobre recomendar o no las facultades. Se verá nuevamente este miércoles 16 de septiembre.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/pedido-de-facultades-legislativas-del-gobierno-de-keiko-fujimori-posponen-votacion-en-comision-de-economia-tope-de-tasas-estuvo-en-el-centro-del-debate-noticia/",
-        "image": "https://gestion.pe/resizer/v2/KLJQ6QLJ2FGPLOZZ44QX6YSXAY.jpg?auth=26125ecc3488ddc081dcc943cbb5423f86f935a8fb52d727e529a4472736294a&smart=true&width=1800&height=1200",
-        "publishedAt": "2026-09-14T23:09:46.000Z"
-      },
-      {
-        "title": "Del prototipo al negocio: ¿qué necesitan las innovaciones sociales para ser rentables?",
-        "summary": "Innovar es apenas el primer paso que se necesita para construir un proyecto. El verdadero desafío aparece cuando se debe demostrar su funcionalidad, validar que responda a una necesidad real, identificar a los posibles clientes y conseguir los recursos para llevar un proyecto innovador a gran escala.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/en-que-invertir-del-prototipo-al-negocio-que-necesitan-las-innovaciones-sociales-para-ser-rentables-noticia/",
-        "image": "https://gestion.pe/resizer/v2/E6MUTN4WPFGKVAAR44F2BLEFMI.jpg?auth=91bbfaf2801be634e3207da8d157b7c1a08ddcd36f4834ae526deb6e369091e3&smart=true&width=1454&height=720",
-        "publishedAt": "2026-09-14T22:47:19.000Z"
+        "publishedAt": "2026-09-15T03:42:36.000Z"
       }
     ],
     "sociedad": [
+      {
+        "title": "Una propuesta de agenda legislativa con impacto positivo en el empleo, por Fernando Cuadros Luque - La República",
+        "summary": "Una propuesta de agenda legislativa con impacto positivo en el empleo, por Fernando Cuadros Luque &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYzhYSHBycjVqNGR1UlJCdkJmRThsdUM5YWwzMldQUzczSEpCRHlFc0UyMEdxUkxqY25CY1RNbFBacVFnejc5SmQ0UExfcVV2V0xBdHVXOUlLTXUyVmpZcG9KbWxNd2xnSktuRERUeklJNHM3aElvdUYzWjc2dE55WXd2djZ5TXNDZVFyU3JNSlN1XzFBclRyYWVqTEpxLWw3Q284Q214NUNtTnJRZHhQVGtpM2tCUDdDMXVuYWtnZ2Z1VzQ4VWJhT054Nm1QeXdnc2JpQlNMVkxLc215bk1ZYThuTk1jd9IB5gFBVV95cUxPYzhYSHBycjVqNGR1UlJCdkJmRThsdUM5YWwzMldQUzczSEpCRHlFc0UyMEdxUkxqY25CY1RNbFBacVFnejc5SmQ0UExfcVV2V0xBdHVXOUlLTXUyVmpZcG9KbWxNd2xnSktuRERUeklJNHM3aElvdUYzWjc2dE55WXd2djZ5TXNDZVFyU3JNSlN1XzFBclRyYWVqTEpxLWw3Q284Q214NUNtTnJRZHhQVGtpM2tCUDdDMXVuYWtnZ2Z1VzQ4VWJhT054Nm1QeXdnc2JpQlNMVkxLc215bk1ZYThuTk1jdw?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-14T21:45:20.000Z"
+      },
       {
         "title": "Tres candidatos plantean agua, salud y vías para Ocuviri 2027-2030 - Pachamama Radio",
         "summary": "Tres candidatos plantean agua, salud y vías para Ocuviri 2027-2030 &nbsp;&nbsp; Pachamama Radio",
@@ -156,9 +164,9 @@
         "publishedAt": "2026-09-14T12:17:20.000Z"
       },
       {
-        "title": "Oscar Reto: \"La anemia infantil es un problema de seguridad nacional\" - ahora.com.pe",
-        "summary": "Oscar Reto: \"La anemia infantil es un problema de seguridad nacional\" &nbsp;&nbsp; ahora.com.pe",
-        "source": "ahora.com.pe",
+        "title": "Oscar Reto: \"La anemia infantil es un problema de seguridad nacional\" - Diario Ahora",
+        "summary": "Oscar Reto: \"La anemia infantil es un problema de seguridad nacional\" &nbsp;&nbsp; Diario Ahora",
+        "source": "Diario Ahora",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONkhrLUtJWXRUa2Zla3ZOVW1nOThaMzJvZzZOcV9Qb2tyUkVjR2pnU1FONjlPX191SzZhWC1YX21YcHUtYWxmMmVXanQxUEU3aDVBV3ppRi1YLTM1ZFJManI4QmtmQ0V2VXp0MnlkanIwWHdpLUNYeHdKcXBaQkptSA?oc=5",
         "image": "",
         "publishedAt": "2026-09-13T07:51:33.000Z"
@@ -170,6 +178,14 @@
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQjFwRTVET05xTER6ZnZseE9pOUF4cFBBV19hM3RrZ1liRUc1aHFybFMyTExlbEhudk5rUlA1TnM4X1ZhZEEwaVhGX09fWjRrX3c5TVdLanJGQVI0MUhfVUphSXhYRkFuNVZLYmY0UkpzbXQ0NFhaRGFHSzBPd3JMUFlPaWhaT1Z6d01MSFhucDNHSU1fb3JTYlFNN29IQjRfTURSSlZsNThIbjRXajhBVFFJQm5SNDZXTE1MT0xtWHdoR0tFdFQ3YndyYm52U09taW5wZ19zdFRmRHBCOVN3ZkQ4cFcxSDlyTUNXX051aXZSd0xIWjhadEZQVmJZUdIB_gFBVV95cUxPQjFwRTVET05xTER6ZnZseE9pOUF4cFBBV19hM3RrZ1liRUc1aHFybFMyTExlbEhudk5rUlA1TnM4X1ZhZEEwaVhGX09fWjRrX3c5TVdLanJGQVI0MUhfVUphSXhYRkFuNVZLYmY0UkpzbXQ0NFhaRGFHSzBPd3JMUFlPaWhaT1Z6d01MSFhucDNHSU1fb3JTYlFNN29IQjRfTURSSlZsNThIbjRXajhBVFFJQm5SNDZXTE1MT0xtWHdoR0tFdFQ3YndyYm52U09taW5wZ19zdFRmRHBCOVN3ZkQ4cFcxSDlyTUNXX051aXZSd0xIWjhadEZQVmJZUQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-12T20:26:13.000Z"
+      },
+      {
+        "title": "Voz Universitaria abre un diálogo inédito entre jóvenes y el Congreso de la República en la PUCP - PuntoEdu PUCP",
+        "summary": "Voz Universitaria abre un diálogo inédito entre jóvenes y el Congreso de la República en la PUCP &nbsp;&nbsp; PuntoEdu PUCP",
+        "source": "PuntoEdu PUCP",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXdMd3dYSHNqOVFWMzd5SURHRlVaUHVFQTFYaC1TWEItOG4wRll1Nm94eF9sbEpPcGtkTmJESnowMFB2SzNBZEpXX29LSEFPbHh6ZkdUM25oYWFRdDN3dkt1VUJhOGh4ejZqZHkwdFBTdHJyUmRuUDMtUjNKSVpTSThIRlo5QWluWEJtVi02Qi1IYXBxd1E2VUpLUnJTcjQ2MElRZV9KbkU4dDZqZFhyYS1RNWw4SVVtYW5DWlVkYUJGYjJHOGc?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-11T22:52:53.000Z"
       },
       {
         "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
@@ -188,28 +204,12 @@
         "publishedAt": "2026-09-03T07:00:00.000Z"
       },
       {
-        "title": "Historiador peruano Daniel Parodi: El principal desafío de Keiko Fujimori será “la propia inercia del fujimorismo” - Universidad de Chile",
-        "summary": "Historiador peruano Daniel Parodi: El principal desafío de Keiko Fujimori será “la propia inercia del fujimorismo” &nbsp;&nbsp; Universidad de Chile",
-        "source": "Universidad de Chile",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRWhQck1hWnZrTktic3Y5Tkx1RmZLRWZkTHR2VE1uWGppelJYeENMcDgzc1Ewc1cxOXBNU3k2SjROM092RUx1bURadnNoNGZKNFlRQ1FOY2U1R2hlMUVaTnZzTDJucnhtTVZYLUxmcnN6UXBJVmhzTy1JUWZVNnZIaTlPLU1MSlpfQ1l2SWM4LUhSSTBSN1VHWU5rc2l6ZjR5X1VTQmxHV2dSMGJYSjY5M004aUJVaS1mRjVtc3NfUnhDVTlUNGVNQldDb0FxdDdraGhxSzl4dmpzb2t3aktfMw?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-29T07:00:00.000Z"
-      },
-      {
-        "title": "Keiko Fujimori, mensaje a la Nación: fecha, lugar y ejes que marcarán su primer discurso como presidenta 2026-2031 - Infobae",
-        "summary": "Keiko Fujimori, mensaje a la Nación: fecha, lugar y ejes que marcarán su primer discurso como presidenta 2026-2031 &nbsp;&nbsp; Infobae",
+        "title": "Estas son las comisiones de la Cámara de Diputados que tendrán mayor poder de decisión en el nuevo periodo legislativo - Infobae",
+        "summary": "Estas son las comisiones de la Cámara de Diputados que tendrán mayor poder de decisión en el nuevo periodo legislativo &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUnB3bzVxUmd0OUYtcDl1b01PcVNtVzVac18zZGpEdWxSZTVWUGxiUGY2VHZYSHE1c0VQcG11Zlg3eHZLZkctY1JFSGE2UVRTNE1jcWxiTE9rTXdabGdJUTdsQTlhN2ZKYWxXczRBUGhUYjE0LXlfZElpWTltR2FRVnBCMnZROTU1a3ZxWXZhNlFIaTZVWjlBTWJoT21Tbmd3NmhHLVJGSnlOdjBtUHZ3VGJnelJKeTJaX0hpdWJJeklIR3B1N1dfZ01iZWlFV0xrT1d2bG1mc0JWVG9rRVVkalFxZmNsRkXSAYICQVVfeXFMTVVCcVFOaGV1T3c1U1Q5cFppVFBQZ0hma1ctVDVYbzdFUlBsZ0dETG9tWk1GSWFzRk5zUEtlY3h6SDB3OGhyTUpWVG9qdEdMOVVhUUZTbEFBYS1TZmFBQWpDN2lHN0VMQWdWMnV1NHU4WGNDVlB1eGZrMXNITmxqdmx2M0tYN2lzODdGZDVJVWVUbVhZeXhYNlktV1hkTmJHS0d4NjVEcEhKOTMxUkx0STA3WDYyMWJZc0YwU09lQVlESHkweTBxSmtmZ3BvZzBIS1dlRHJtVG9tQU1sU1kwYVg0cW1pcExDSzgyUS1kMmZvbTVPNXAyX3plMWM5TXNZWE5n?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeXZsRHloYmRHU3ppR3pKTWg0U0FtSFM1MC1GWjJqeHVVb1M3QzlQelJUWFlGR1gtOWZYQ05iS1VDTlF0aUx6OHphRW1fVmtETVR3Tnc3YXFhQndfc1hRZW1mNnlLNXdDdTlfSlNOUlVPeE5pOXA5ekRsODVnemNSVTB3dzhGTmgwVGFMYVN1Zy1NTnhRVTUxejBjc1lIZ2ZWQjZ0d0cwSHJCUWRMM2xtcHpqWkppOGJXLTZqYzV6RzI0OXc3T1dEZEdiM0VXcjZkZllCcVRYWDMyRlVPS0xkWGdKR2NxWXZPUzVBUzJDSDbSAYsCQVVfeXFMTXgxSkI3ZG1kTXVidU1CMkVvRFNURFFvTmNjaE14UHk1YmFjbklkLThvWGVBWnVnTUtyTXRnM3dRcklHY0JRWE9Kd1FTSDV2QVNDRDlCYW9TOThfZVItcUprZElqazRpd2tDdG4tamVGUGNtYzFhbFEzX1dCanNOY2VMZnEtQmFPYkpvRDJWSDM3U0tZa3VSanlqZkRGOTVIN05tQlhoR2psMlNyNFJUVV9aNnE1bjlidksxNnh6SGlFUGZVcllNUFZPTUpSRVUxVU9UcE9DYlJxWUt3OXEwaDlIWTJPVS1vRlB6SDNBZmZZZHZIcWUtSDZYVGszTGYyMWJSUE8xTUU5RlM0?oc=5",
         "image": "",
-        "publishedAt": "2026-07-26T07:00:00.000Z"
-      },
-      {
-        "title": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS - ahora.com.pe",
-        "summary": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS &nbsp;&nbsp; ahora.com.pe",
-        "source": "ahora.com.pe",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUm9heXNQZzZPY0tMTmxyWEJrSVFZMlFtb2JVOFpfZXpubndad19NYTVyQVpyLVk0Yi1GZ0xCNmtRY0lWbV9VMTE5QUtRZG1zM2FJMzQweTU1a1lsVzl3OURfYldrUVM1aEJXWGI1OTR4OTFkRDQzcEtpaG1rcE42Zl9jT1g3RVdmQkZETk1ZOFBpd0o1MmF2RHVOczJsQ2Q1VHJGMjJrQ2tCVE42OXNz?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-15T15:44:23.000Z"
+        "publishedAt": "2026-08-05T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -246,10 +246,10 @@
         "publishedAt": "2026-07-04T07:00:00.000Z"
       },
       {
-        "title": "Cinco consejos para emprendedores que quieren hacer crecer su negocio sin poner en riesgo su patrimonio - Business Empresarial",
-        "summary": "Cinco consejos para emprendedores que quieren hacer crecer su negocio sin poner en riesgo su patrimonio &nbsp;&nbsp; Business Empresarial",
+        "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - Business Empresarial",
+        "summary": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores &nbsp;&nbsp; Business Empresarial",
         "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONjJuRlg3UTRITXRKYUJwSDU1RzU0cURfLXl1WFQyd2pPVTdnTnJfMU1JMW5Pb3hMc3lOaXlIT0xHdkVqN3VwR1JQYzZJd3lzaUpUVFAzSEpjOWlNNV9tbEE2MUctWnFHTnFsOFo5dVNpVWtsTEt5dkxhRmtLV1ZhQmUtM0g0RVoxdDNDWjl3Vk1zV1M2SHZkY29aNkJZWkFhV2M4cl9wMXpWZzRzQVJMdWtSc2ZJY250ekRxekc0cUw3dGFXYm81SkxjREYxLXFtTS13TkphejBrQ1VQY2Nfc05QMUxnVDFfZ0M2RmRieS04djY1amZxdU0wSjY4QWhOZUE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVFwSXZrS2lPelhLNUlzRXRMZmM1WDhBVkptN0QyQ2dqSTQteTJaQVpnb2pUQldrSEJ2QjNpQWJZMC1lNmxtSjRQWUQ1N2JxcEhIcGY3M0xUdWdfV0YwYXBONWItcTlMVzlsekVJMW85VVRRN3Bmc2NjR0hlTlVVYmowYkprdDVwSTZ4T25tWnc0RDkzVUhRVUV4U1ZtQW9idWtuX0RqelF1TkpCbWxyQVQtUXJrMlRsLTg5SlFEQ0k5RS02Wkgw?oc=5",
         "image": "",
         "publishedAt": "2026-06-26T07:00:00.000Z"
       },
@@ -270,12 +270,12 @@
         "publishedAt": "2026-06-18T07:00:00.000Z"
       },
       {
-        "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - Revista Gana Más",
-        "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; Revista Gana Más",
-        "source": "Revista Gana Más",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXMxcGUzS0xxcEpXcWxtZkl3cDhPTDk2bEZENlRIcmduaVZVRlhvY0FqOUNCdVF5Y0QxaTVyNDI5ZDJGbXdqWUJ3ZEd3QVBXaDQtQmd2X3V6aW1SR21lY05QSFdzeUhGZUtDZkUwS25BU3VIX04wbXpMRjBETElBSFlTbi1vVDBvaENJTFV1SjlCVzVnSzk5Z1htYmR2clVNZFB3STJ0ajAzUnM?oc=5",
+        "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
+        "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
         "image": "",
-        "publishedAt": "2026-06-17T17:04:18.000Z"
+        "publishedAt": "2026-06-17T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -328,9 +328,9 @@
         "publishedAt": "2026-06-10T07:00:00.000Z"
       },
       {
-        "title": "Innovadores peruanos podrán participar en competencia internacional de invenciones - andina.pe",
-        "summary": "Innovadores peruanos podrán participar en competencia internacional de invenciones &nbsp;&nbsp; andina.pe",
-        "source": "andina.pe",
+        "title": "Innovadores peruanos podrán participar en competencia internacional de invenciones - Agencia Andina",
+        "summary": "Innovadores peruanos podrán participar en competencia internacional de invenciones &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
         "image": "",
         "publishedAt": "2026-05-29T07:00:00.000Z"
@@ -345,6 +345,22 @@
       }
     ],
     "ia": [
+      {
+        "title": "Crece la alerta global por los riesgos de la inteligencia artificial: \"La IA puede acabar con la humanidad\" - Willax",
+        "summary": "Crece la alerta global por los riesgos de la inteligencia artificial: \"La IA puede acabar con la humanidad\" &nbsp;&nbsp; Willax",
+        "source": "Willax",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSDFoTTNwdzlwZ2Y5NnZuYk1Dd2FXNng0dG9VWEIyMzRYZllEdEJWZ2hOMHpPWEVJcnhwRHRSbDdrSkt6eDloT3NzN1NTel9fb3kzUHhEbFZZMk9LZFBwVXR0XzVOendEZEdtYVRVNzZuQUNZYkhXX2xWQVBCZXQzQ2lkV2JGaDBRYUNqMmdR?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-15T01:51:58.000Z"
+      },
+      {
+        "title": "Empresas que usan correctamente la IA tienen 15 veces más probabilidades de reportar un buen retorno de inversión - Infobae",
+        "summary": "Empresas que usan correctamente la IA tienen 15 veces más probabilidades de reportar un buen retorno de inversión &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSm8yNnI1bVpfdURnV0pQbzZCdUszZ0hpUUpZTEN1RzRUQXBDNWJrLWJtYUwxVG5YcnZMekV6Vmdaa1dtRVJleGZmT1E5X0E2LXlUZE1DdHJzeVBZOU4wTnl4VkVtTmRYT2hwUWsxQWt0RkpvaE9NZ2FaT3ZCNGh1SDVTVWFjUW9xeC03RG92WEJsRXhURTQ5Wjd3cHNHVjhldEg3Y0FCa2YzemZFZlluTXM3b3cteWt6U0VMQVlTV3lPbXNmN3dxT082aEVBN002UXpHanVKNVVRY3dIYktuVFNsaU5LZUlEMEHSAYQCQVVfeXFMTVZjbEVCTDUwNkFlRS1RLXR2TzNlX3g5WXlPMWItVXNYajc1V2dST3ViRjZMZUNTMUstS0ZoeW5vOFQzY3d1dW01X29XWVF3N1QxcUc2Y3VXaFBOVS1uRGllMTJuMDYzaV8zdHBraVBnN0xNTlNPMUxNYnhaNFVHSmxTenQ1S1piMUN1VGhGREpQMWFEQlpfZkI4Ym94a1F5a0RILTNOclM3b3djN185elI3STJBd3RYZTM3OXhkX1ZTYlVON1dzenlWaW1pdXdVZXBYR2N3WVczeVpTMVprTEF2OUtCTUp4eklhY0RNeGpjT1FCM3V6VFRPdzRUbnJuS21oMi0?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-15T01:47:03.000Z"
+      },
       {
         "title": "¡Alarma total!: El peligro invisible de la IA desata la guerra total entre EE. UU. y China, mientras el Perú enfrenta el abismo del desempleo tecnológico - larazon.pe",
         "summary": "¡Alarma total!: El peligro invisible de la IA desata la guerra total entre EE. UU. y China, mientras el Perú enfrenta el abismo del desempleo tecnológico &nbsp;&nbsp; larazon.pe",
@@ -392,22 +408,6 @@
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb1laN1dIQ3pHNnVxMXhERTlOVEN6MjZjMkNaWUU3MVZXYk54WHFtZnBuUDB6dzJBdFdySEdESWVGaGJ5aWExMjYtdjVIN0tfaTRVUDdnYlZDQnJ3akt6cWgwY1dIMGQ5Z2VYRlkxbHkxYTdFbjVDamdXNVg0QklGNmduZHFLOEx4ckxwdDFWUEM1RC1EX2luT0JBTVhoQnJMQ1BaRVJkVEppY09nNVlOM09nbTQ0U21aV0p1cTVTWDlYVXhwRVVLOGZ3cFZWal9ZVzQxejhFV0g2Zk91cXlEQW9TTWJBelp4V2hsWG9Oc3lwQQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-09T14:00:00.000Z"
-      },
-      {
-        "title": "Las empresas en Perú adoptan la inteligencia artificial con pilotos aislados y sin gobernanza - Infobae",
-        "summary": "Las empresas en Perú adoptan la inteligencia artificial con pilotos aislados y sin gobernanza &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUDdUMFdvaGVDNjVpVWg5aHNpdVQtN0JrSWVGWUJIMVdHbi1XVHgtN0Jzb2NFTF9YRENOVmRTNHpTbmRFalhYZkpJcVcxMFNBa2dHSDFMR0lZV1loS3VnRkdMMWlLTWRPT01Qa3NlQzZ2Yi1CZ19NZG9UNXVoTkhfeVJqaWpPTUMzd1ctTUtWVEluQXl2YTVLZXUzSkJmRmJ1U0o4bWotNUlNV29aVjJkbjBTZHBvUFg4YVM3Ri1QVW1NczJINnJ0bWJnR3NLelXSAeoBQVVfeXFMTU1HRDlkODd6Y21ZUGVlNk5aV1RTb0thTHc5b1R5RlB2dm94bWJLUFZhb2puSVZNMG1JUl9xanRlUnJTS0hIdUdUbnRzRGYyWDN5Z1VlWUZ5RzFjV0tWbGpoWFBKVFNid3FJUFNfaF93XzNLVkRNWDdPQnNVV2dDYzB3SklwR3VSWmVhZEk1X2pialNFUkdaNHVlemJrdmdxNzBSaFhuTVhzV1ljcTdReWhVYlJtMkxldG5nRDhWcVc3ZXRzOVZvNFpOQVVWVXRmcDVUcmZfeXBMVUpsdUtWWmJTaXpUU1NMWmd3?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-09T02:52:00.000Z"
-      },
-      {
-        "title": "🔴🔵El Congreso y representantes de la gigante tecnológica establecieron una ruta de trabajo orientada a la protección de datos, la regulación de la IA y el resguardo de niños y ad",
-        "summary": "🔴🔵El Congreso y representantes de la gigante tecnológica establecieron una ruta de trabajo orientada a la protección de datos, la regulación de la IA y el resguardo de niños y adolescentes en plataformas digitales. 🌐Más información en: https://www.exitosan &nbsp;&nbsp; facebook.com",
-        "source": "facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYXI5YVo2cGxoMHZZM0kzM2NkVWlCNEFDWEthQXVpa2pPWE1QQXhIMFFvM0Z2Umd0Z1NuMS0xQXdQc0hzaEppZElTQ1IwbnVBVF8xM3h3Q0NqTTAtT09TWmg1UkxSNDdQTWtzOTduRXRNa0ViSkQzcTZTQTJLZlF2d3ppVTlxNnF0aHZhY3B0YzhKRXJ4VDVIMGlZTlhxTTZKQ0dLV21fcVJZUjIzcHV4MzMybm5YMWxQTlUwTllUdnZzWWxQNVpBMnFaX2J6M2pOdjVIbEZ0SWl3NVcxanplWWg0c2E?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-09T02:51:42.000Z"
       }
     ],
     "tendencias": [
@@ -434,14 +434,6 @@
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcEppUW9Kb2JaZktiR3BucVVJOXRNSk9mamZvcEs5SkNIdjNidHFsS3ZmWVRUazEya05oSzdCS1hjbWNVdVR2VW85cGZWczhGQTVzS3hvSWR2SDZTYVRrbEgtOVMxWWxSRTNCU2c3cGVpUTA1WFp5ZVItMkxuV1NCeGttWmp6QlczQWswMHhISV9YZ0QtVDk4amVkT0EwSmdtMnFsZDZkTWFwV3J3bGN0dzd0YXhtTGtET2JtWHBqVnBJYndmTVpQOG9hUF9zaF9sUVRlS3FEYmVLLTQwMVE?oc=5",
         "image": "",
         "publishedAt": "2026-08-30T04:30:15.000Z"
-      },
-      {
-        "title": "Qué significa ‘farmear aura’ si tienes más de 30 debes conocer qué es y por qué lo usa la Generación Z - Infobae",
-        "summary": "Qué significa ‘farmear aura’ si tienes más de 30 debes conocer qué es y por qué lo usa la Generación Z &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOGVnY0xEajd1WjFMWGdqWi1DZmdwRVRtb1R2aHBBLTNORlBJZ0VRb1d5UEdnZGxSdXh6UWZkcThTZTZHb1dwRGtIS3BVT3RFcXRnRkJKOXI4b3NaVGVvN1ZFeS1PWnhoRENyd3V3LXVxWV9jblBfdmpKZElJaHhoY3NkNzlLUlVKd01FenVLaXBZZVFNbUV4czhSTWd3X1MzaTUxLUxjQ1AtZlB6ZTRHQ2dwR1ZQN3RaMk9HVHJjQ2lVc2V2YV9hUkE0ZDlILWl6MjJ4N05Kb0l1Z9IB9AFBVV95cUxNNXRmX2Y0Y2hFbXJjUEFDaHIwRnVwZkw3OUZfcnRod0t6cUE2TW1NRU9Sc3M0ZXhPTDZkVDBfUDMwTjhkazZITTE1dGJaRmVYQ1NuSXN3NzdfcTA0TW55ZVBNWXZzQUIwTHE4VjJQQ1FlR0Z3ZDVxbjFMeFlYR2dLUm1ZaDJyc1BSRlRPMVYwZC1MTXliRlBndHg1anp6cnBQemFzZFNkYk1Wc3NkY0VsOTViN2pSZGEwYjJfWDdLNE1nRzRheHA4eXhCbml5b1VuYk5vMlZrZzk5MUw5alZ0RE9VR2JRZFFER2ZaY0Y4dzlfSXVo?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-18T07:00:00.000Z"
       },
       {
         "title": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO - Imagen de Veracruz",
@@ -474,6 +466,14 @@
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY1JKYUdUNlpDMThFMDBMcUtpSm9WX3hDME5FdlhTVkIySnFidkNRV3RNa2Z0LVB0ZzhIUlNPdnFSM3dGQl9SRXl2XzdRVVZNS3JoYkVoZzE5WDhnWDVpdlRCNVVWbTNYTjZHVEF5cERtNEZnT0RyRmEzUUlwT0JVcEhnRXEzWExJN2lxdjEtcHZCUm1vcVpWQ1VUQ21POUhFb2Fnb1FiaHFmZHg5YnctUWJfQk53Y0M1U0ZKSWhVVlRoYXFycEZDeFk1SdIB5gFBVV95cUxOX2lXTFZfYS02czhMamE1UE01SmozQVIzLXdxbTVwRFlJQlJhaGI2XzdnVlprZkVQb0J1MjllZ0pJbk9vS21OcWJTYUQ0OU1FLW1XNU04cXRRZUtvNFF6dGV5X0VyR2hFSEd1TU1yMl9EMkdVTFZxWlB2ZzZ1cHpMcHZLSVptbmpaTFpkQVkzOGV3MHdCN0FkUm1qWTJ5aWxVVkVNTmRFSkI0czZhZkM3SGtaYmtDSy0tVVJCNHE0QngySUFLN05tY2xESFVDRTh1M0dWeUgydHVyb1p1dkdhMUN3VkhUUQ?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
+      },
+      {
+        "title": "Reto viral “Pásame la botella”: especialistas alertan por aumento de adolescentes intoxicados al mezclar alcohol con medicamentos - Infobae",
+        "summary": "Reto viral “Pásame la botella”: especialistas alertan por aumento de adolescentes intoxicados al mezclar alcohol con medicamentos &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYkxYWU1GV09vM243VlB3NWZhbWt5RzF1bE9PdXRhR3BkM2cyb25NTjVMMG1XbnM3aU1rMXBIb3FFV3cwRjRrYkduVm9Gd0hyRFlKWElDSk8ybEtXVUJkRHlXc2FuWkhodTg1Z1ZGbmpUZVZxcTN4M1J6ZlpxZHJFNUtTN2tRQWE3MVR5SkhwLWVCelVKU3FNZVowYjh3YVJYWDFHWm1PbUlJOVNBOTVQT19hQ2tGbXNYWTllU3ZoLVNlNE9aUGwzZzl3LTJHaDN6TWpaNkJsOXBTRVIwMmtfVjUyaGo4X1E1bFBvb3ZkMUZ5QmozSGtYcUx5VdIBlgJBVV95cUxPUElwalRLcFI3MTN6a3dqaV9pWHA2NjFYWVFHZU00NTNTblYzYXo3aDdXaEF1NzM3bmx0MkFCbnFGdmtFd2syOVRwNE1HRVV4dnhsOUtva2E5ZUVvbW1CVDBneGc5a3hZUU9oVjFfVE0xOExvbG5TM0FoeW81Wll1UWtxRTNqdkJiTWoxbm42aG9PWVNjTmlvbmgzaUdmVDA1bkFmUm1RRVVua2VxY0tldUlQTGEzZ3k2Sk10N0JKWUxTTkF6OGQtVlV6RzhmcGlJdlA1OF9JaEFIcFI1U3NoZDZtUnpmbEpBWVZCTUE1bVNDQUxZcm9QVDB2OEhpekVtcGItWjNDekpHY0xKSk1GQXpMRGhYdw?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-08T07:00:00.000Z"
       }
     ],
     "farandula": [
@@ -568,9 +568,9 @@
         "publishedAt": "2026-08-27T07:00:00.000Z"
       },
       {
-        "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - andina.pe",
-        "summary": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento &nbsp;&nbsp; andina.pe",
-        "source": "andina.pe",
+        "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - Agencia Andina",
+        "summary": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOTNTd1VMWGJFRlFGZG1LOXpLSllZVE5JUG1xU19TaFdKbnJzam85dVlJN0VVVWQ1ZzJLanExY0xmbXV2cXY4a0Y4M1JXcExuUm1Nc0Q0S2N2WkhtZzNwWlJJdmoxS0gwdTFYYjVQT0VkVTJHcEtrZFFES1R3X3JWTWNMaWtvQkM0S1lyRXNNblBJaUh3c3hNX3JYaFhiUXFkemVJa1F4Y1NJNjRmX2tPekJ1Snc2aWVDRFE?oc=5",
         "image": "",
         "publishedAt": "2026-08-22T07:00:00.000Z"
