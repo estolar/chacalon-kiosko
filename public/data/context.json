@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T21:17:35.531Z",
+  "generatedAt": "2026-09-16T00:16:20.156Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -82,52 +82,60 @@
     ],
     "economia": [
       {
-        "title": "Congreso debe designar a 3 directores del BCRP: estos son los 12 candidatos en carrera",
-        "summary": "",
+        "title": "Adolfo Domínguez prima la rentabilidad sobre la ventas en su estrategia de crecimiento",
+        "summary": "La marca española de moda Adolfo Domínguez está decidida a seguir primando su estrategia de elevar la rentabilidad del negocio como vía de crecimiento, por encima del incremento de las ventas, según su presidenta ejecutiva, Adriana Domínguez.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/congreso-del-peru-debe-designar-a-3-directores-del-bcrp-estos-son-los-12-candidatos-en-carrera-propuestos-por-las-bancadas-noticia/",
-        "image": "https://gestion.pe/resizer/v2/OD3JFI7U6NEQ3MR4M2QANKLSPQ.jpg?auth=82d34035ffbeb3b369aa8bc56cb0fdc24f4c0ce71cc9efa16fcc6fc7c1536291&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-15T21:15:00.000Z"
+        "url": "https://gestion.pe/tendencias/moda/adolfo-dominguez-prima-la-rentabilidad-sobre-la-ventas-en-su-estrategia-de-crecimiento-noticia/",
+        "image": "https://gestion.pe/resizer/v2/YIURVGA7J5HGRKIL6G7IAHWLLI.png?auth=5fda945eef2e9470884ea9a0f3d93d36c29a38cf6d7d485bc90d763a24301a9e&smart=true&width=817&height=537",
+        "publishedAt": "2026-09-15T23:26:38.000Z"
       },
       {
-        "title": "Machu Picchu y la reforma que al fin “destrabaría” miles de entradas: ¿una nueva era?",
-        "summary": "Machu Picchu cambia su sistema de venta de entradas: se eliminan las reservas y el pago deberá concretarse en 15 minutos. ¿Es lo mejor para el turismo de Perú?",
+        "title": "Ley MAPE: Gobierno de Fujimori planteará el proyecto al Congreso en octubre, anuncia el Minem",
+        "summary": "El ministro Shinno también indicó que evalúan nuevas condiciones alrededor de las concesiones mineras, como las exigencias de presentar planes de trabajo y cartas fianzas.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/machu-picchu-y-la-reforma-que-al-fin-destrabaria-miles-de-entradas-una-nueva-era-para-el-turismo-de-peru-noticia/",
-        "image": "https://gestion.pe/resizer/v2/KU5DX5JRVRFINL7RKK553MY35M.jpg?auth=b5db00aefbc9d1ad937dc2e53366a265f959bd8e1bf1a06253ffd0de18ee29d6&smart=true&width=1200&height=844",
-        "publishedAt": "2026-09-15T21:10:00.000Z"
+        "url": "https://gestion.pe/economia/ley-mape-en-octubre-proximo-el-ejecutivo-planteara-el-proyecto-al-congreso-anuncia-shinno-noticia/",
+        "image": "https://gestion.pe/resizer/v2/Z7CHJEKZ3RGLLD7N4IH6YPIIZ4.jpg?auth=13d34f7655c8f2aee70cab8bdc4cf461736ce66b52b55a859f25e9e22db67b19&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-15T23:14:49.000Z"
       },
       {
-        "title": "El Niño aumenta riesgo sobre los dos principales cultivos de Perú: temores crecen en el agro",
-        "summary": "En tanto, productores piden apoyo financiero para enfrentar la crisis, pero temen que, a través del pedido de facultades legislativas, Gobierno privatice fondo a cargo del Midagri",
+        "title": "Empleo en Lima Metropolitana pierde ritmo tras tres meses: la dinámica por sector",
+        "summary": "La población con empleo aumentó 6.1% en el trimestre móvil a agosto, pero el ritmo de crecimiento se moderó, informó el INEI.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/el-nino-aumenta-riesgo-sobre-los-dos-principales-cultivos-de-peru-temores-crecen-en-el-agro-noticia/",
-        "image": "https://gestion.pe/resizer/v2/W45VULHJ2FD37MR4C4E2KHYMLU.jpg?auth=6180665d6634922d51a996a04541a8f1584d2dbbfb1219708d2f9199ebb8ea5a&smart=true&width=960&height=720",
-        "publishedAt": "2026-09-15T21:08:22.000Z"
+        "url": "https://gestion.pe/economia/empleo-crecio-a-menor-ritmo-entre-junio-y-agosto-en-lima-metropolitana-noticia/",
+        "image": "https://gestion.pe/resizer/v2/ECDYISFDXJEQDORF4KEWFJABLY.jpg?auth=455b7d6b950f56ebc9804c9fdf396e103217e70a9c65aeefacf31299c30e6628&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-15T22:53:42.000Z"
       },
       {
-        "title": "Perú “jala” PISA, pero escenario sería peor: 336,000 jóvenes no estudian y abren estos riesgos",
-        "summary": "Data a este segundo trimestre presentó que casi el 15% de este grupo poblacional no está estudiando. Estos se dividen entre quienes únicamente laboran y quienes no estudian ni trabajan (Ninis). Los detalles aquí.",
+        "title": "Gigante chino LiuGong quiere convertir al Perú en su hub para Hispanoamérica, ¿Cómo lo hará?",
+        "summary": "La china LiuGong abrió subsidiaria propia en Perú tras 15 años operando a través de su distribuidor y proyecta cerrar el 2026 con 200 equipos vendidos.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/mas-alla-del-pisa-336000-jovenes-entre-14-y-17-anos-en-peru-no-estudian-que-riesgos-hay-noticia/",
-        "image": "https://gestion.pe/resizer/v2/VNOAIUVYERFZHK2AJPWEIBKN7U.jpeg?auth=12955cb1f98d3ebe0aca76aad4e5c49e4ddaed7b80530fceba67e4fc2bb45332&smart=true&width=910&height=591",
-        "publishedAt": "2026-09-15T20:27:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/gigante-chino-elige-al-peru-como-su-hub-regional-antes-de-entrar-a-chile-y-colombia-noticia/",
+        "image": "https://gestion.pe/resizer/v2/VFDFB7UZMNGADDOKYR6GPP4CE4.jpg?auth=75ff8b435be76525177a7b2a1c0c270e05cb129de089fc335838f99c413d11de&smart=true&width=1200&height=787",
+        "publishedAt": "2026-09-15T22:43:00.000Z"
       },
       {
-        "title": "Tipo de cambio hoy en Perú: ¿En cuánto cerró el dólar este martes 15 de septiembre?",
-        "summary": "El martes 15 de septiembre, el dólar en Perú comenzó el día con un descenso, en medio de tensiones geopolíticas en Medio Oriente, que han elevado el precio del petróleo y reforzado la demanda por activos considerados refugio.",
+        "title": "Dueño de Vizzano y Arezzo en Perú abrirá dos tiendas y busca el 50% del calzado brasileño",
+        "summary": "El invierno cálido \"dejó poco botines\" a Lazzos & Co., pero la importadora movió su verano dos meses antes por esta categoría. Ahora alista dos tiendas nuevas y va por más del 50% del calzado brasileño que entra al país.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-martes-15-de-septiembre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
-        "image": "https://gestion.pe/resizer/v2/TPKXXSFAFZH5DPQBPQLY4ZONYU.jpg?auth=0f27fec532d747af31a545831359cd0000d7662dc5b3b47683187fad0daf8ecd&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-15T20:24:41.000Z"
+        "url": "https://gestion.pe/economia/empresas/lazzos-co-abrira-dos-tiendas-y-va-por-mas-del-50-de-la-importacion-de-calzado-brasileno-noticia/",
+        "image": "https://gestion.pe/resizer/v2/LJYPUEIUCREZFLIMYKI5KGTZDE.jpg?auth=0b0b3aa75b7355f4e7a00d7609b2078833b2dfb41b36d9b41331133917d52d08&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-15T22:39:25.000Z"
       },
       {
-        "title": "Petroperú afirma que refuerza acciones para mantener abastecimiento de combustibles en Loreto",
-        "summary": "Petroperú afirmó que viene desplegando acciones logísticas para mantener el abastecimiento de gasolina 84 y gasolina regular, en Loreto, pese a las restricciones de navegabilidad ocasionadas por la acentuada vaciante de los ríos amazónicos.",
+        "title": "Litio en Puno: Falchani eleva su inversión a US$ 834 millones y ya tiene fecha de arranque",
+        "summary": "Macusani Yellowcake elevó a US$ 834 millones la inversión de la primera etapa de Falchani, su proyecto de litio en Puno, y proyecta arrancar la construcción en el segundo semestre del 2028.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/petroperu-afirma-que-refuerza-acciones-para-mantener-abastecimiento-de-combustibles-en-loreto-noticia/",
-        "image": "https://gestion.pe/resizer/v2/CFGVC4XCX5BMBPPGANUBXVURUM.jpeg?auth=222f4973be0b5341461827a21130dd34a31c4e947f7fe2ad9c0c0d3a1432839b&smart=true&width=1600&height=1005",
-        "publishedAt": "2026-09-15T20:22:35.000Z"
+        "url": "https://gestion.pe/economia/empresas/macusani-yellowcake-rehace-numeros-de-falchani-y-apunta-a-desarrollar-su-mina-de-litio-en-el-2028-noticia/",
+        "image": "https://gestion.pe/resizer/v2/NYQSBTE7SRC3ZJPUBH4TBUMZO4.jpg?auth=f191a21f57832121d97c763223a0faac0db5a89a12493167eb3991c0ce5efc8e&smart=true&width=1200&height=900",
+        "publishedAt": "2026-09-15T22:39:07.000Z"
+      },
+      {
+        "title": "Maca en China: el siguiente paso de Amazon Andes en el gigante asiático",
+        "summary": "Amazon Andes acelera su expansión internacional con nuevos planes en China, Estados Unidos, Corea y Europa, además de ampliar su portafolio en Perú.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/amazon-andes-acelera-expansion-en-china-y-apunta-ahora-al-canal-fisico-noticia/",
+        "image": "https://gestion.pe/resizer/v2/JENGEKRTBVAA3CBR2XPZQ5JEKU.png?auth=6ff4ba0c3d9e438a33377bb9f1cb6a541ce4b66fa4c41d104b91f8559a9ab8fa&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-09-15T22:30:00.000Z"
       },
       {
         "title": "¿Cómo buscas en el navegador? La mirada de Google sobre el cambio en los usuarios",
@@ -135,15 +143,7 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/google-la-evolucion-de-las-busquedas-y-la-ia-en-las-redacciones-de-los-medios-de-comunicacion-noticia/",
         "image": "https://gestion.pe/resizer/v2/CVQOVFAW4JFOLPHFU6RT7DDRR4.jpg?auth=ea50f2979b4aa5dee4c3488eb8bd65aa962e4961bcd333907c21da7aa7e5f4e6&smart=true&width=1300&height=800",
-        "publishedAt": "2026-09-15T20:21:31.000Z"
-      },
-      {
-        "title": "Economía peruana repuntó en julio, pero estos sectores siguen en rojo",
-        "summary": "De enero a julio, la economía peruana alcanzó un crecimiento de 3.13%, informó el INEI.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/pbi-repunto-en-julio-pero-estos-sectores-siguen-en-rojo-noticia/",
-        "image": "https://gestion.pe/resizer/v2/JWHKZMN42VHBRASPIOAGTG2FGQ.jpg?auth=c968c21596e799877be52d0a7c5354977434cf29c0fab04df1734aff66db8df7&smart=true&width=1800&height=1212",
-        "publishedAt": "2026-09-15T20:08:21.000Z"
+        "publishedAt": "2026-09-15T22:21:00.000Z"
       }
     ],
     "sociedad": [
@@ -151,9 +151,9 @@
         "title": "Lista de candidatos a la Alcaldía de Carabayllo 2026: conoce quiénes postulan - Infobae",
         "summary": "Lista de candidatos a la Alcaldía de Carabayllo 2026: conoce quiénes postulan &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVVIyZzVpaHJHalVGZXNkRzA2MjhQWGYzZ2ZjVjJ4N2l3MnJTUjRCYmJ3WGpjWTVJNVVJaVgySkFwMUhqSFVzMVBtbTN1bFlKNVdqalVIbWRaM0VYTmo3dmFDazhjQ3pWVFZaZEp3LURQTjdiRHo2UXdkY3FYenM2SEhDM2c1OUdpY1B2RTBqU0EyQWFGTmRwUDJaWmp0b1FYdFRZQkJYOTc3THFLLVBNRzQyTzE0aHBT0gHTAUFVX3lxTE41VmtDRWlGRERzMlI4aEp2ZmV1UGNBQjhkQXpmQWhhX04xQWY5bmotRUFWcUNxRlFadFpCQkk4ajJIaTVfMEh5UmppQzZ3VFRjR3Z1M0ZMeU5BMTRNU1RwcDg1ZlltNV9FOGE2VHhfWlkxd3NtM2U1N2ZVamhoUW92d0JGT3FFeU5Mc1lpWWVLQjFsZ2R2cWJKdFVYSVhHZ21OVnZGMjlIVHpyNThIMHFmTDBPQ01qcS1xaG1TdjVXNktsRmVwakd5MkZnRFlIazlhQ2M?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONVZrQ0VpRkREczJSOGhKdmZldVBjQUI4ZEF6ZkFoYV9OMUFmOW5qLUVBVnFDcUZRWnRaQkJJOGoySGk1XzBIeVJqaUM2d1RUY0d2dTNGTHlOQTE0TVNUcHA4NWZZbTVfRThhNlR4X1pZMXdzbTNlNTdmVWpoaFFvdndCRk9xRXlOTHNZaVllS0IxbGdkdnFiSnRVWElYR2dtTlZ2RjI5SFR6cjU4SDBxZkwwT0NNanEtcWhtU3Y1VzZLbEZlcGpHeTJGZ0RZSGs5YUNj0gHTAUFVX3lxTE41VmtDRWlGRERzMlI4aEp2ZmV1UGNBQjhkQXpmQWhhX04xQWY5bmotRUFWcUNxRlFadFpCQkk4ajJIaTVfMEh5UmppQzZ3VFRjR3Z1M0ZMeU5BMTRNU1RwcDg1ZlltNV9FOGE2VHhfWlkxd3NtM2U1N2ZVamhoUW92d0JGT3FFeU5Mc1lpWWVLQjFsZ2R2cWJKdFVYSVhHZ21OVnZGMjlIVHpyNThIMHFmTDBPQ01qcS1xaG1TdjVXNktsRmVwakd5MkZnRFlIazlhQ2M?oc=5",
         "image": "",
-        "publishedAt": "2026-09-15T18:39:22.000Z"
+        "publishedAt": "2026-09-15T18:39:24.000Z"
       },
       {
         "title": "Una propuesta de agenda legislativa con impacto positivo en el empleo, por Fernando Cuadros Luque - La República",
@@ -188,28 +188,28 @@
         "publishedAt": "2026-09-12T20:26:13.000Z"
       },
       {
-        "title": "Voz Universitaria abre un diálogo inédito entre jóvenes y el Congreso de la República en la PUCP - PuntoEdu PUCP",
-        "summary": "Voz Universitaria abre un diálogo inédito entre jóvenes y el Congreso de la República en la PUCP &nbsp;&nbsp; PuntoEdu PUCP",
-        "source": "PuntoEdu PUCP",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXdMd3dYSHNqOVFWMzd5SURHRlVaUHVFQTFYaC1TWEItOG4wRll1Nm94eF9sbEpPcGtkTmJESnowMFB2SzNBZEpXX29LSEFPbHh6ZkdUM25oYWFRdDN3dkt1VUJhOGh4ejZqZHkwdFBTdHJyUmRuUDMtUjNKSVpTSThIRlo5QWluWEJtVi02Qi1IYXBxd1E2VUpLUnJTcjQ2MElRZV9KbkU4dDZqZFhyYS1RNWw4SVVtYW5DWlVkYUJGYjJHOGc?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-11T22:52:53.000Z"
-      },
-      {
-        "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - elperuano.pe",
-        "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; elperuano.pe",
-        "source": "elperuano.pe",
+        "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
+        "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOF96RmlFdGF0MmZNd1M0VXdlM2tlQVU0MHBidWRKZ1ZaYmRYZjQteldIeDRYR0c4aFNENU1ackUzVzZ5Sm5OSU9JVXlhQU9ON0ZoYmt6UWRfX2xNcFd3bmNDbkpyUktwaVl4UUZwdlZIRmZDaldXd3dXRk02ZFZvb2VJNk9WLTZTVXJhQklYcWxGMkFWbmZHUG11OURpRE8xWWdpU3lOOHUxaFotNUJscW9qVUdfdFRkWUhubndPYnRYUUN5RncxVW1qVFMzck41SWJYeWV5eWVLZw?oc=5",
         "image": "",
         "publishedAt": "2026-09-07T22:31:00.000Z"
       },
       {
-        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - elperuano.pe",
-        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; elperuano.pe",
-        "source": "elperuano.pe",
+        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - El Peruano",
+        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-03T07:00:00.000Z"
+      },
+      {
+        "title": "Estas son las comisiones de la Cámara de Diputados que tendrán mayor poder de decisión en el nuevo periodo legislativo - Infobae",
+        "summary": "Estas son las comisiones de la Cámara de Diputados que tendrán mayor poder de decisión en el nuevo periodo legislativo &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeXZsRHloYmRHU3ppR3pKTWg0U0FtSFM1MC1GWjJqeHVVb1M3QzlQelJUWFlGR1gtOWZYQ05iS1VDTlF0aUx6OHphRW1fVmtETVR3Tnc3YXFhQndfc1hRZW1mNnlLNXdDdTlfSlNOUlVPeE5pOXA5ekRsODVnemNSVTB3dzhGTmgwVGFMYVN1Zy1NTnhRVTUxejBjc1lIZ2ZWQjZ0d0cwSHJCUWRMM2xtcHpqWkppOGJXLTZqYzV6RzI0OXc3T1dEZEdiM0VXcjZkZllCcVRYWDMyRlVPS0xkWGdKR2NxWXZPUzVBUzJDSDbSAYsCQVVfeXFMTXgxSkI3ZG1kTXVidU1CMkVvRFNURFFvTmNjaE14UHk1YmFjbklkLThvWGVBWnVnTUtyTXRnM3dRcklHY0JRWE9Kd1FTSDV2QVNDRDlCYW9TOThfZVItcUprZElqazRpd2tDdG4tamVGUGNtYzFhbFEzX1dCanNOY2VMZnEtQmFPYkpvRDJWSDM3U0tZa3VSanlqZkRGOTVIN05tQlhoR2psMlNyNFJUVV9aNnE1bjlidksxNnh6SGlFUGZVcllNUFZPTUpSRVUxVU9UcE9DYlJxWUt3OXEwaDlIWTJPVS1vRlB6SDNBZmZZZHZIcWUtSDZYVGszTGYyMWJSUE8xTUU5RlM0?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-05T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -222,9 +222,9 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - Business Empresarial",
-        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
+        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - businessempresarial.com.pe",
+        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; businessempresarial.com.pe",
+        "source": "businessempresarial.com.pe",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbEpWQWwzZjk1OHUyMXNjdl9taXN3YWtlVkc3WUd6ak1GNTNKTjMwWHhEd0Y4TTF6WU90LTMwTjZSNDVFN29ReWFGQkVvTmtya3pNMG9kSEdjYzRvdnZsTG16M3E1bzZhV09OVVBwWUNCU2ZJVHpfdnlvV1VmVXVLU2FmR3FYeVlIRnl1MVRvWmJlSWU4eVZ4Rkxxd2tZUHBKcWp6Q3BRUkZRMVRkbDRiVWNOdTFNSU5yNjByS2FobmlLdGRrOVJHdU9YOW9VYjZBLTYySHM1cDNhR1pDR0JZ?oc=5",
         "image": "",
         "publishedAt": "2026-07-24T07:00:00.000Z"
@@ -238,51 +238,51 @@
         "publishedAt": "2026-07-21T07:00:00.000Z"
       },
       {
-        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - Business Empresarial",
-        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
+        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - businessempresarial.com.pe",
+        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; businessempresarial.com.pe",
+        "source": "businessempresarial.com.pe",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOclpab3k5dms5U3JOSXdvUU1pSnFnUnYzWDY3QUtyeU9ob2NhZnI5U092N3QxY19kVUtUX1JPR0tzUElTTXVlMGdUbV9tclI0Y0JQcU11QWhJQkkxalNIR3R3VmdGSHdMY0NJUVE1V09Tel9OX3R5eUVKV3owZnJ2VjJ0VVRlNFowbWZyVUl4SDAwc2lYUzZKcTZtTDhEUlV0LTJMY2hnSGJkQ0c5U1AwRkVGVm5qQXk3XzI0ZEZ3ZTE4RjBtbTcwTG15MVdKX1F3Y3VGby1IdVNrd0pB?oc=5",
         "image": "",
         "publishedAt": "2026-07-04T07:00:00.000Z"
       },
       {
-        "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - Business Empresarial",
-        "summary": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
+        "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - businessempresarial.com.pe",
+        "summary": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores &nbsp;&nbsp; businessempresarial.com.pe",
+        "source": "businessempresarial.com.pe",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVFwSXZrS2lPelhLNUlzRXRMZmM1WDhBVkptN0QyQ2dqSTQteTJaQVpnb2pUQldrSEJ2QjNpQWJZMC1lNmxtSjRQWUQ1N2JxcEhIcGY3M0xUdWdfV0YwYXBONWItcTlMVzlsekVJMW85VVRRN3Bmc2NjR0hlTlVVYmowYkprdDVwSTZ4T25tWnc0RDkzVUhRVUV4U1ZtQW9idWtuX0RqelF1TkpCbWxyQVQtUXJrMlRsLTg5SlFEQ0k5RS02Wkgw?oc=5",
         "image": "",
         "publishedAt": "2026-06-26T07:00:00.000Z"
       },
       {
-        "title": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups - Business Empresarial",
-        "summary": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
+        "title": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups - businessempresarial.com.pe",
+        "summary": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups &nbsp;&nbsp; businessempresarial.com.pe",
+        "source": "businessempresarial.com.pe",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmtHemFxbzkzZVNVajZWNmstMk9YSDJHejFFbjVDaE5sYWNsT0JRZkxJUjBoa1hmMU5hdTNqclFvbDcxWl9nZUcxRlp4cHdPWGk4SE1oVWlTbW5iNzdwUXNWYWh4WUQzSEY4TmVSbnozMDVmS3BPd1ZUYllacXNOQVpUMFhqR215X1FOSk04Q1p5ZVJseXdrYm5DdkM0SDZpVHc0ZVR1MUNhX1dSRnRPa0dzdkxqS29xdTc5aGw3U2RxRzR0cmNsVGRkS2ota2s0aWFUZjJMc1FvRnlVaUF3Z3Nn?oc=5",
         "image": "",
         "publishedAt": "2026-06-25T07:00:00.000Z"
       },
       {
-        "title": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 - Infobae",
-        "summary": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFBQRGNLOWxaMy1mT2RjU0RCNGw4TVNrRmlfX25qei10R09YTWltOXdNX1Fya1g0NEk5S2hhUnQzZmstM3o4bFNJS3QwbkFvUGs3dmx6TktrMDZZSEkzTkJVZ0ZEdmFaa0NUZk9pT1prS1gzNjVDeVMyUzdjWXlNQTNtSThQcnRyRjJ6YlZEWkw1WUF0aTZsQXRTWnJtRnYyX1Z0NDBCYm1PWGlOekJpeGlBS29qLUkzbTBFa1FKMmJnNDNrNDAxeWZn0gHkAUFVX3lxTFB5cjR0aTlsOEl3ZkZEeV9XR05Vb0RHblRDVTRpMFdTZTllMWdRaEpoSlZpSm5JOUZCbzBXc2pic0NMdG9OOGcwQk5fNWF2Wk9FYVp5RnU1WVg4ckU4eTJfT3FEOTN6cURTMjU2d1U5NUJmZ0ZseC1YdllmbEpuZTlnbThqeF9vSlVTb0cxSkZtZFBpTmcwakkzemxzcGJucU9JbFFic2hqNU9jSGVHWkdUTVNuNFFIb0x3S2pTNFBzRXptSF91N0EtSElUMi1kVldUYl9ocmVQLVNSZDY0V25QNV9iRA?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-18T07:00:00.000Z"
-      },
-      {
-        "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - Revista Gana Más",
-        "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; Revista Gana Más",
-        "source": "Revista Gana Más",
+        "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - revistaganamas.com.pe",
+        "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; revistaganamas.com.pe",
+        "source": "revistaganamas.com.pe",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXMxcGUzS0xxcEpXcWxtZkl3cDhPTDk2bEZENlRIcmduaVZVRlhvY0FqOUNCdVF5Y0QxaTVyNDI5ZDJGbXdqWUJ3ZEd3QVBXaDQtQmd2X3V6aW1SR21lY05QSFdzeUhGZUtDZkUwS25BU3VIX04wbXpMRjBETElBSFlTbi1vVDBvaENJTFV1SjlCVzVnSzk5Z1htYmR2clVNZFB3STJ0ajAzUnM?oc=5",
         "image": "",
         "publishedAt": "2026-06-17T17:04:18.000Z"
+      },
+      {
+        "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
+        "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-17T07:00:00.000Z"
       }
     ],
     "ideas": [
       {
-        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - Forbes Perú",
-        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; Forbes Perú",
-        "source": "Forbes Perú",
+        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - forbes.pe",
+        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; forbes.pe",
+        "source": "forbes.pe",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnR2OFJqcnVKWEVnZF9Fc1FFQ1AxY3lYbTFYQnh2WkJZMEljS2I4UHozWHN5eTNXVXkwSV9WS0U2WDdCenNoMGVLUzRpMEZXcnIzRVpJSWloS295VGJzNVZtT3h6akN0b3EyVDdYVUwtc05SR0Z6WWE0MjZKUnd3TDFnUWx3aEJwbHRYUmgxNHJseERsVE8tdTg0WnJrT1hMMEFER0h6WVp1ekd1V2JWLTNPUQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-25T12:02:15.000Z"
@@ -304,17 +304,17 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética - elperiodicodelaenergia.com",
-        "summary": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética &nbsp;&nbsp; elperiodicodelaenergia.com",
-        "source": "elperiodicodelaenergia.com",
+        "title": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética - El Periódico de la Energía",
+        "summary": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética &nbsp;&nbsp; El Periódico de la Energía",
+        "source": "El Periódico de la Energía",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2VQSGwtN0JkSnVaSTJURmJuX2VwcmExRWNzXzhsMmhKamg5WEVwU2plZHBHYzdUMjFZQW9xejJoaG04SDV1YWhkZlNneFZTQUNnN3VQVDltd295ai12R09RRlRJaTVEek5tT2F0c21NY1pQWVRxM1NYWVVaZHdiR050dmp0S1Yzc1JfdEsyR3dOUG95QUJzWFBwVWR1OVhMRWR2WGVmS2NrV0p5UGFpb3pYWTgwMW9Qd1lUOUc2aG1RdUk?oc=5",
         "image": "",
         "publishedAt": "2026-07-08T10:21:37.000Z"
       },
       {
-        "title": "La paradoja peruana: Crecer sin innovar - Revista Gana Más",
-        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; Revista Gana Más",
-        "source": "Revista Gana Más",
+        "title": "La paradoja peruana: Crecer sin innovar - revistaganamas.com.pe",
+        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; revistaganamas.com.pe",
+        "source": "revistaganamas.com.pe",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6aWxfR3diYXRQbUZqekNmcGgxQVkxUVl6TVlwaWR2QVhhYzlkcnY3bXBVUnVHcUhXZkZObW50MzFmX2VOaUg3MW52UGNlQkE1bFh2LXY2alNyWWdrNThsZ2F0UGY5bUN4VmdMMDBtdWdaX0dIb0ZmMA?oc=5",
         "image": "",
         "publishedAt": "2026-06-25T07:00:00.000Z"
@@ -351,23 +351,31 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ2dtYzZpemhtYWluczhYNlV6bVAyZ2dGWWVudmt3aXp4cW1zZXNWZHRsQkl0ejlEU1lfeWVTTjFtVDhIdnpHTU9oLUVHclluTnFzdnZOcU9iTUpnRDNaUFZhYWVSTk5XR0wtTVItY1lfQk5TNWtjMlZCaUljRXVFZ3BjR0tVRzJPZFhWMDdPX1FET3pQaWxQOEd4VC16WGJoUnlmZEhRTHpRZm9TZFpESk1sWWltd0VUakxhZHFSVDQtRm9HSjNtUVhCZlF4V3pBQ2dwXzJB0gHwAUFVX3lxTFBpdUMzRlJMWWhETWdGc3RGa2FmQ3F0NXNPZWNjNk1NUTBjLXFlWWV3R0kxRVJPeHJuT1EyUlNDLUJTRlVGSVVvTTkxbjlEVkxHbWtNWW1MclZWZDNuUkJYUjBITlZyZ1hQNjlBd1p3TnZZaTItQkpsYVphMVNaUkRMdnQtY0F6aWFSWmFraFkycUVtNUkyVXpIVGNGNWo5MDlWazBuYVUxcjc3QUQySG5qdWE3MGpOOGZFZmtNcjluZHBKb2hPMWJ1WXpFTG53VHpXUGxCUmw3QldxMDdVdzhocU1XVFdBSi1iellWWFhJZg?oc=5",
         "image": "",
-        "publishedAt": "2026-09-15T18:58:58.000Z"
+        "publishedAt": "2026-09-15T19:40:00.000Z"
       },
       {
-        "title": "Perú: regulación de IA debe impulsar innovación sin frenar el desarrollo del ecosistema digital - elperuano.pe",
-        "summary": "Perú: regulación de IA debe impulsar innovación sin frenar el desarrollo del ecosistema digital &nbsp;&nbsp; elperuano.pe",
-        "source": "elperuano.pe",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdElnWGdmUlNGbHJFd1NxLWJuVy1KX2xJSXZ1djBBMWhTVlUwS3pXZ283M1pMcHZRU1IxYlM1ODA4Ung3RG5HQl90QUhMUzZEWmwyWl9nYkZpbmxIOHE5X0JFZG16Q2VPYzBCVElMNUlCMWV4TW9LWTZTNHl2UEx6SjlDLU5XT3hBb2tPNXh6S2p6VXVnaDNSSkd3S3pvc1NWODJaMWFXR0Z2SjkzeFVJLUc4SFNwUV9JcEw0SEN1aWhpX3dUOWVzWENWTnVUTWM?oc=5",
+        "title": "Perú: regulación de IA debe impulsar innovación sin frenar el desarrollo del ecosistema digital - El Peruano",
+        "summary": "Perú: regulación de IA debe impulsar innovación sin frenar el desarrollo del ecosistema digital &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSFFOMjNjdXBPNVRObW8yd3JJZW8zMHhfNlZacGhaWEdRbWc2YjJOM2lpWUVYQTNrSnQxR1JpVFFmVzhBWkhXbDhYbnFsMEZ4dnpQa3hxRVAwT0VyMmRwTzd3bks1SDN3bWlCOU9NZUN3T0JrS3AxSGNxNUprZjRtSXNQUGRkOURNTklIdHg0UzZRTDhNV0RuUEFUemJUOUJPMkpfbzhDMk83UmJUSGg0amM4SUpxb0dtX3B3N280WFRoOUN0aWkyOVh3?oc=5",
         "image": "",
         "publishedAt": "2026-09-15T16:38:00.000Z"
       },
       {
-        "title": "¿Tu trabajo está en riesgo por la IA? Estos son los empleos más expuestos hasta 2035 - dsn.pe",
-        "summary": "¿Tu trabajo está en riesgo por la IA? Estos son los empleos más expuestos hasta 2035 &nbsp;&nbsp; dsn.pe",
-        "source": "dsn.pe",
+        "title": "¿Tu trabajo está en riesgo por la IA? Estos son los empleos más expuestos hasta 2035 - DSN Noticias",
+        "summary": "¿Tu trabajo está en riesgo por la IA? Estos son los empleos más expuestos hasta 2035 &nbsp;&nbsp; DSN Noticias",
+        "source": "DSN Noticias",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdENSYzJXWlRKQjd5V3RQajUxQ0VuUmR3MXJNYXpzRE5MN0VTanVrUGF5dk1ZcWtQWTlGR2h2OHQ3bzhkdWZrQkExbldoODJFaWdVd3JrYU12emh6UlFiYWlxd3lQRVVDeUVyRzVJRWVxV3FEdWhWZEktaXFLM25LQlFmMUhJSmxHdXZHS0ZVN2VRQm5rSUdDOWx3ZWhSa2c?oc=5",
         "image": "",
         "publishedAt": "2026-09-15T14:28:08.000Z"
+      },
+      {
+        "title": "Empresas que usan correctamente la IA tienen 15 veces más probabilidades de reportar un buen retorno de inversión - Infobae",
+        "summary": "Empresas que usan correctamente la IA tienen 15 veces más probabilidades de reportar un buen retorno de inversión &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSm8yNnI1bVpfdURnV0pQbzZCdUszZ0hpUUpZTEN1RzRUQXBDNWJrLWJtYUwxVG5YcnZMekV6Vmdaa1dtRVJleGZmT1E5X0E2LXlUZE1DdHJzeVBZOU4wTnl4VkVtTmRYT2hwUWsxQWt0RkpvaE9NZ2FaT3ZCNGh1SDVTVWFjUW9xeC03RG92WEJsRXhURTQ5Wjd3cHNHVjhldEg3Y0FCa2YzemZFZlluTXM3b3cteWt6U0VMQVlTV3lPbXNmN3dxT082aEVBN002UXpHanVKNVVRY3dIYktuVFNsaU5LZUlEMEHSAYQCQVVfeXFMTVZjbEVCTDUwNkFlRS1RLXR2TzNlX3g5WXlPMWItVXNYajc1V2dST3ViRjZMZUNTMUstS0ZoeW5vOFQzY3d1dW01X29XWVF3N1QxcUc2Y3VXaFBOVS1uRGllMTJuMDYzaV8zdHBraVBnN0xNTlNPMUxNYnhaNFVHSmxTenQ1S1piMUN1VGhGREpQMWFEQlpfZkI4Ym94a1F5a0RILTNOclM3b3djN185elI3STJBd3RYZTM3OXhkX1ZTYlVON1dzenlWaW1pdXdVZXBYR2N3WVczeVpTMVprTEF2OUtCTUp4eklhY0RNeGpjT1FCM3V6VFRPdzRUbnJuS21oMi0?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-15T02:19:00.000Z"
       },
       {
         "title": "Crece la alerta global por los riesgos de la inteligencia artificial: \"La IA puede acabar con la humanidad\" - Willax",
@@ -378,14 +386,6 @@
         "publishedAt": "2026-09-15T01:51:58.000Z"
       },
       {
-        "title": "Empresas que usan correctamente la IA tienen 15 veces más probabilidades de reportar un buen retorno de inversión - Infobae",
-        "summary": "Empresas que usan correctamente la IA tienen 15 veces más probabilidades de reportar un buen retorno de inversión &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSm8yNnI1bVpfdURnV0pQbzZCdUszZ0hpUUpZTEN1RzRUQXBDNWJrLWJtYUwxVG5YcnZMekV6Vmdaa1dtRVJleGZmT1E5X0E2LXlUZE1DdHJzeVBZOU4wTnl4VkVtTmRYT2hwUWsxQWt0RkpvaE9NZ2FaT3ZCNGh1SDVTVWFjUW9xeC03RG92WEJsRXhURTQ5Wjd3cHNHVjhldEg3Y0FCa2YzemZFZlluTXM3b3cteWt6U0VMQVlTV3lPbXNmN3dxT082aEVBN002UXpHanVKNVVRY3dIYktuVFNsaU5LZUlEMEHSAYQCQVVfeXFMTVZjbEVCTDUwNkFlRS1RLXR2TzNlX3g5WXlPMWItVXNYajc1V2dST3ViRjZMZUNTMUstS0ZoeW5vOFQzY3d1dW01X29XWVF3N1QxcUc2Y3VXaFBOVS1uRGllMTJuMDYzaV8zdHBraVBnN0xNTlNPMUxNYnhaNFVHSmxTenQ1S1piMUN1VGhGREpQMWFEQlpfZkI4Ym94a1F5a0RILTNOclM3b3djN185elI3STJBd3RYZTM3OXhkX1ZTYlVON1dzenlWaW1pdXdVZXBYR2N3WVczeVpTMVprTEF2OUtCTUp4eklhY0RNeGpjT1FCM3V6VFRPdzRUbnJuS21oMi0?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-15T01:47:03.000Z"
-      },
-      {
         "title": "¡Alarma total!: El peligro invisible de la IA desata la guerra total entre EE. UU. y China, mientras el Perú enfrenta el abismo del desempleo tecnológico - larazon.pe",
         "summary": "¡Alarma total!: El peligro invisible de la IA desata la guerra total entre EE. UU. y China, mientras el Perú enfrenta el abismo del desempleo tecnológico &nbsp;&nbsp; larazon.pe",
         "source": "larazon.pe",
@@ -394,20 +394,20 @@
         "publishedAt": "2026-09-14T15:16:37.000Z"
       },
       {
-        "title": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial - teleSUR",
-        "summary": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial &nbsp;&nbsp; teleSUR",
-        "source": "teleSUR",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzFCZlBlb0hJQ2QxVS1ZUzdTTTBMWGdETGRkSVR3ZHByRjBvVU9SdkU3RmhQRzZPN2sybE5jbmFvdkQxVEdEVVQ0amFOOFh6NkhOY1Q3S0l0X0J5aXNWWi13NTdmWElJXzZ3eVJKN2ZCSzNxRWxwM1o5aDM1OHVJcG5EUlpVQm1fM2hpWQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-10T11:34:25.000Z"
-      },
-      {
         "title": "7 de cada 10 trabajadores en Perú ya usan IA, pero las empresas aún no terminan de prepararlos para su uso - Infobae",
         "summary": "7 de cada 10 trabajadores en Perú ya usan IA, pero las empresas aún no terminan de prepararlos para su uso &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVER3X1pEb1VQeDJTVGZDcWRxUVFEOTlMczlGNXFveTFzWHdRbG52YWhndGlDTTdHRk9CMXBwbEZ3Y0xVR0o1WFdkbkhTQ1VyZXA4SDg1ZGdOdUxFc2hLZHgyQ1V6NGc3clExellickw3LTMyMGJNNU44VW9GQUtzZGJlX1dMZFB4UlZtcGZyeWxSVjB6MGwtbFhBQXV0VEhwdkNmaUdMdXNDaldzU0NvS05IUVltaXNEWVJqZVVCOHZwenhrbm9MUE5BNEdmRTRDREotUG1ST3M5UUZCUDJR0gH6AUFVX3lxTE04d3N2Q1NoZ282eVlEbjZtandqRTdqUWRSWnBocW1pS2tKVXpRNGwtYS1nUlkySmU0T2UzYVFkYjRFOU5JUWhobXZkQUhJVVVaMnhkdmk2RVpVSW85eU44MGdiUEh1UkVHcW9iYVhoenVKZDdXRXp4eUQ3Q3BnUHFZVUJpWVNWMC1ydGttWk9TN0RRNkY4TG1zZ1lvb0Zva0ViYTk0S1BRX1BQQ2J3OEZPRGl5SkViNVcwSko0MFo2T1pOcDh4Njd4YUR2RXp5WnJqNU5hbjd0Zmg5SUVIYUt5OV95TWhraURRZzNMLUtZY0xmWk5BZE15WGc?oc=5",
         "image": "",
         "publishedAt": "2026-09-10T01:27:00.000Z"
+      },
+      {
+        "title": "Perú firmó memorando para importar y adoptar IA de EE.UU. - forbes.pe",
+        "summary": "Perú firmó memorando para importar y adoptar IA de EE.UU. &nbsp;&nbsp; forbes.pe",
+        "source": "forbes.pe",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTk92YlRIcWlORU9jdjdWZ2diQl8xYWlQSUc2QUZJRHNHdTFkbEticzZtMlJvc1l3bkF5YnNmdUl0OE04RDI0N25VQWdkR0UzTVNOcDdlM1lSbVF2UkU0bzRPdWFYT0FObjE2aERDa0tPR0dBYXFWbnBJaDJzSmZfRnNldy1KY0NBamFKT3VEd0k3X3YyV1poTHJ0TU82MEt4Zmc?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-09T20:12:03.000Z"
       }
     ],
     "tendencias": [
@@ -510,9 +510,9 @@
         "publishedAt": "2026-08-06T07:00:00.000Z"
       },
       {
-        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - diariocorreo.pe",
-        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; diariocorreo.pe",
-        "source": "diariocorreo.pe",
+        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
+        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
+        "source": "Diario Correo",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
@@ -584,9 +584,9 @@
         "publishedAt": "2026-08-21T07:00:00.000Z"
       },
       {
-        "title": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto - Blog Joinnus",
-        "summary": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto &nbsp;&nbsp; Blog Joinnus",
-        "source": "Blog Joinnus",
+        "title": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto - blog.joinnus.com",
+        "summary": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto &nbsp;&nbsp; blog.joinnus.com",
+        "source": "blog.joinnus.com",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQempKSjE1ZEJaSUlkTkxKb2ZEb01WelVBMUZpdUMxM1FSR3VlUlZZalFqUnZJMnhWcFc5UUdoZVFMOG1TbWpzc1BqTFUwbTl6MEhWR2NpSW95RmhRQ2tFSFM2NXZsQjFNUXVsY2k5dS1HRUlzU2pJMEN2SGMtSXlBOFhCbVBSVExUWGxFWVV1dTJCbFdtY0Npdmk4UUlFUkxXQi1QRlFCdC1VWG9jR2hxS2xfbGRGb0tGMGl3MzFrNkdvYjVp?oc=5",
         "image": "",
         "publishedAt": "2026-08-19T07:00:00.000Z"
