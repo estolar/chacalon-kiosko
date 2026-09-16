@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T04:51:33.002Z",
+  "generatedAt": "2026-09-16T09:54:39.459Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -22,6 +22,14 @@
         "url": "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
         "image": "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
         "publishedAt": "2026-09-01T00:00:00.000Z"
+      },
+      {
+        "title": "La campaña por la Alcaldía de Lima en la recta final: Candidatos se alistan para el debate, pero JNE aún no fija postura sobre López Aliaga",
+        "summary": "El postulante a primer regidor de la lista de Renovación Popular, Rafael López Aliaga, aseguró que ha enviado una carta al JNE solicitando participar en el encuentra.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/la-campana-por-la-alcaldia-de-lima-entra-a-la-recta-final-candidatos-se-alistan-para-el-debate-pero-el-jne-aun-no-fija-postura-sobre-lopez-aliaga-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/37JFI7ZH3VDAHGWNIHPHURP4GY.jpg?auth=64ee8aa895e68962d920b640688025e8a2cd42ff701f56ddaa8a1d67114ecc35&smart=true&width=1200&height=647",
+        "publishedAt": "2026-09-16T05:01:00.000Z"
       },
       {
         "title": "Diputados: Comisión de Desarrollo Agrario aprueba informe que delega facultades legislativas al Ejecutivo",
@@ -70,17 +78,25 @@
         "url": "https://elcomercio.pe/politica/elecciones/debate-para-la-alcaldia-de-lima-temas-fechas-duplas-y-la-situacion-de-rafael-lopez-aliaga-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/KLVGVLMRSZFDLLNPU7LCF3ZEEY.jpg?auth=0a4ae513a9865d02854e8dcb72c2cd0725a20906c4cb781a971cd39e40f3279e&smart=true&width=1200&height=647",
         "publishedAt": "2026-09-15T21:07:21.000Z"
-      },
-      {
-        "title": "Rafael López Aliaga confirma que participará en debate del JNE: “Mandé una carta y parece que me hicieron caso”",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/elecciones/rafael-lopez-aliaga-confirma-que-participara-en-debate-del-jne-mande-una-carta-y-parece-que-me-hicieron-caso-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/YAQ4BUSEAZBZNNUXJW4CI4SFC4.jpg?auth=5bcb7249eba7f51c329d73a340fc88f8d69c8d9a787e6f36d0578e84605c6191&smart=true&width=1534&height=1139",
-        "publishedAt": "2026-09-15T21:05:51.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Indecopi sanciona a Integra Tec con millonaria multa por compra de Telefónica del Perú",
+        "summary": "La compra de Telefónica del Perú por Integra Tec International Inc. abrió un caso relevante para el régimen de control de concentraciones empresariales. El Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual Indecopi determinó que la operación debía ser notificada previamente ",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/indecopi-sanciona-a-integra-tec-con-millonaria-multa-por-compra-de-telefonica-del-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/47VGJ5R5DRBX5DMW3W7HISD3UI.png?auth=6c25ab69b4fd9d318f5afe9bf17d6bb3ada35cb2ea82b22a94846c70b293eff4&smart=true&width=1672&height=941",
+        "publishedAt": "2026-09-16T09:08:00.000Z"
+      },
+      {
+        "title": "Adolfo Domínguez prima la rentabilidad sobre la ventas en su estrategia de crecimiento",
+        "summary": "La marca española de moda Adolfo Domínguez está decidida a seguir primando su estrategia de elevar la rentabilidad del negocio como vía de crecimiento, por encima del incremento de las ventas, según su presidenta ejecutiva, Adriana Domínguez.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/tendencias/moda/adolfo-dominguez-prima-la-rentabilidad-sobre-la-ventas-en-su-estrategia-de-crecimiento-noticia/",
+        "image": "https://gestion.pe/resizer/v2/YIURVGA7J5HGRKIL6G7IAHWLLI.png?auth=5fda945eef2e9470884ea9a0f3d93d36c29a38cf6d7d485bc90d763a24301a9e&smart=true&width=817&height=537",
+        "publishedAt": "2026-09-16T06:20:00.000Z"
+      },
       {
         "title": "Universitario: Poder Judicial deja sin efecto medida cautelar que reactivaba su proceso concursal",
         "summary": "El proceso concursal de Universitario de Deportes vuelve al escenario previo a la medida cautelar de agosto, luego de que el Poder Judicial dejara sin efecto la resolución que había levantado provisionalmente la suspensión del procedimiento y abierto el camino para una Junta de Acreedores.",
@@ -96,14 +112,6 @@
         "url": "https://gestion.pe/economia/empresas/minera-southern-peru-tia-maria-supera-47-de-avance-y-apunta-a-producir-cobre-en-2027-noticia/",
         "image": "https://gestion.pe/resizer/v2/DMZV2M2HDZDODFCMPGESDUHQMU.jpg?auth=c0487e2c893ca20b6fb1e85c6f8fe2b5b48cdab82b7f79e4da3c54cdd8dedddf&smart=true&width=1200&height=675",
         "publishedAt": "2026-09-16T04:16:00.000Z"
-      },
-      {
-        "title": "Indecopi sanciona a Integra Tec con millonaria multa por compra de Telefónica del Perú",
-        "summary": "La compra de Telefónica del Perú por Integra Tec International Inc. abrió un caso relevante para el régimen de control de concentraciones empresariales. El Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual Indecopi determinó que la operación debía ser notificada previamente ",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/indecopi-sanciona-a-integra-tec-con-millonaria-multa-por-compra-de-telefonica-del-peru-noticia/",
-        "image": "https://gestion.pe/resizer/v2/47VGJ5R5DRBX5DMW3W7HISD3UI.png?auth=6c25ab69b4fd9d318f5afe9bf17d6bb3ada35cb2ea82b22a94846c70b293eff4&smart=true&width=1672&height=941",
-        "publishedAt": "2026-09-16T04:08:28.000Z"
       },
       {
         "title": "Petroperú dejará de operar el Lote Z-69: Perupetro busca nuevo inversionista",
@@ -136,14 +144,6 @@
         "url": "https://gestion.pe/economia/empresas/tesoro-minerals-busca-captar-mayor-capital-para-acelerar-exploracion-de-oro-y-cobre-en-el-sur-del-peru-noticia/",
         "image": "https://gestion.pe/resizer/v2/DU62DLCZ3ZGLRPX34YEAK7SDYM.jpg?auth=99c4ca7ea0fa65941e437170180e05bd16dcee1bec3fcc87bbcd8041f5f574ee&smart=true&width=764&height=401",
         "publishedAt": "2026-09-16T03:30:00.000Z"
-      },
-      {
-        "title": "Congreso debe designar a 3 directores del BCRP: estos son los 12 candidatos en carrera",
-        "summary": "",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/congreso-del-peru-debe-designar-a-3-directores-del-bcrp-estos-son-los-12-candidatos-en-carrera-propuestos-por-las-bancadas-noticia/",
-        "image": "https://gestion.pe/resizer/v2/OD3JFI7U6NEQ3MR4M2QANKLSPQ.jpg?auth=82d34035ffbeb3b369aa8bc56cb0fdc24f4c0ce71cc9efa16fcc6fc7c1536291&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-16T03:16:03.000Z"
       }
     ],
     "sociedad": [
@@ -164,9 +164,9 @@
         "publishedAt": "2026-09-14T21:45:20.000Z"
       },
       {
-        "title": "Tres candidatos plantean agua, salud y vías para Ocuviri 2027-2030 - pachamamaradio.org",
-        "summary": "Tres candidatos plantean agua, salud y vías para Ocuviri 2027-2030 &nbsp;&nbsp; pachamamaradio.org",
-        "source": "pachamamaradio.org",
+        "title": "Tres candidatos plantean agua, salud y vías para Ocuviri 2027-2030 - Pachamama Radio",
+        "summary": "Tres candidatos plantean agua, salud y vías para Ocuviri 2027-2030 &nbsp;&nbsp; Pachamama Radio",
+        "source": "Pachamama Radio",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjVicmRJUHdsWkJST0NDVllhUTRPQVpxelM3dGx5aWV6clN1Nm5fQlprdFVQUnM4WkdGc1NxSGJ4cHBaRmhVUDMwemhpblNpV18tSzlRdWE0MzNMaDNjWDRzdVJRM1I2S0FOMmtqTGRmeTl3RUh3cktfRlZ1S2tPUzNwOXEwcHlsMU1Rd1htZTQ0MFZZX09kUQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-14T12:17:20.000Z"
@@ -254,14 +254,6 @@
         "publishedAt": "2026-06-26T07:00:00.000Z"
       },
       {
-        "title": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups - Business Empresarial",
-        "summary": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmtHemFxbzkzZVNVajZWNmstMk9YSDJHejFFbjVDaE5sYWNsT0JRZkxJUjBoa1hmMU5hdTNqclFvbDcxWl9nZUcxRlp4cHdPWGk4SE1oVWlTbW5iNzdwUXNWYWh4WUQzSEY4TmVSbnozMDVmS3BPd1ZUYllacXNOQVpUMFhqR215X1FOSk04Q1p5ZVJseXdrYm5DdkM0SDZpVHc0ZVR1MUNhX1dSRnRPa0dzdkxqS29xdTc5aGw3U2RxRzR0cmNsVGRkS2ota2s0aWFUZjJMc1FvRnlVaUF3Z3Nn?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-25T07:00:00.000Z"
-      },
-      {
         "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - Revista Gana Más",
         "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; Revista Gana Más",
         "source": "Revista Gana Más",
@@ -276,6 +268,14 @@
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
         "image": "",
         "publishedAt": "2026-06-17T07:00:00.000Z"
+      },
+      {
+        "title": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión - Infobae",
+        "summary": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-10T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -412,6 +412,14 @@
     ],
     "tendencias": [
       {
+        "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - El Comercio Perú",
+        "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZTlFMnQ1b1pJM1dEbTJaWnpNVGZ0T1g4SWpXZ25rWHBsN1hTdmRVTUVfdG9mQXhQOFZZU3F6X3BkQzRXMnFaejgzcmgzdDZZOFk1VEhBZzJsTmQxS3k3aDRBeHRLRnZBTzR0WFU0cjhNal9QUHVoNHY3czFrNGlxN1NpckM1bGVpSFJfVVdNTlp6YnJsRUxURVh2UXZValZzcEJqSkxxSGI4MjdUN3lFNFg0QzlFUmVWc0lCN3A2VzgyN0d6UXZwSG5Bc0xPejhQYkgycDZlblczUlhzekRGTmVEVDFxU2fSAfsBQVVfeXFMT1BhMjJ1RDBTRjF4WnRMdGxmYm90ZUVBWlVLMVRtVDFvc2tkOTdrbUM0UG54OWNMbHJJTmZ2ZHBHZmVmek1EMkVNeFhaZnJtOEZQdlNVME16WW5KbnJvOFBoUzhOU0tzX0Z3WFN1UG5POEFzZ1ppdGEwcE9ZQ21mYWk5RjA5anNPR0RuSk5sZzFHdmNUdlV1V2VGS2Z3UHpSb21TTDZNRU9KRy03cDd1bGFfbWxQWmRsZTQxX2d5LXJVTzAzRmt2N0xQME9sdkdKNVBhbXVMdGRwMUpTZlZfZXVSdEpvVG1LQ1BtMExkdGtLOHZQeWhGV2dVU0E?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-12T23:13:00.000Z"
+      },
+      {
         "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar - La República",
         "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar &nbsp;&nbsp; La República",
         "source": "La República",
@@ -428,17 +436,17 @@
         "publishedAt": "2026-08-30T04:30:15.000Z"
       },
       {
-        "title": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO - Imagen de Veracruz",
-        "summary": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO &nbsp;&nbsp; Imagen de Veracruz",
-        "source": "Imagen de Veracruz",
+        "title": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO - imagendeveracruz.mx",
+        "summary": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO &nbsp;&nbsp; imagendeveracruz.mx",
+        "source": "imagendeveracruz.mx",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLU5fOVFyR1JhZkhPcGs5RGtLX3lGbWtXcVpRLWJtRGxHdElNamtiQURtenhhQVFoQXczdUpva2VUWFotUVJxWFM3ZUFLaENGb1Z6TnJOVVhhUmczbzZiQWltU3pFeC1CVzM1S3ZLbktIMlJSVVBaVklnRUVjNVlFX25pQWJFSzVSS1BGTWpRM2VQalFLSFpGcE1fRTdjZy1KWWU3R29RSF9xX1pNM3pTZjdMemZKakhudHhIUkxNX1VOZklVbWEzc0NpdHN0UUdmMlNpYWNNMnRLU0FmUWxz0gHkAUFVX3lxTE1HTmV6Z3lLcW5pQTNpSGJxT2gwWFptR005THgwbzRyeVhneWVFRm9TV0plWlFoLWlCc2U2QnRZb0VkLVZDa292d0o2RnBaSkhGZDN5VDFtV19Kb0VQQTdTcHZKcExrN1pWVjFWbXVVOVFrekJHNUc5WHhXXzN2d1h3amgtQUw1aThialdock5tME83YWhpUGc2Z1hmbUFFelhlY01tV0VzdmRUU3lnWS11UVJtbGdPYXp3SzBjVFd0ek1rMXlESDNOeXVTcE5SdTZGa1ktWnBsbzk2d21wbGJ5TXpyUA?oc=5",
         "image": "",
         "publishedAt": "2026-08-18T07:00:00.000Z"
       },
       {
-        "title": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña - TV Azteca",
-        "summary": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña &nbsp;&nbsp; TV Azteca",
-        "source": "TV Azteca",
+        "title": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña - tvazteca.com",
+        "summary": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña &nbsp;&nbsp; tvazteca.com",
+        "source": "tvazteca.com",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUtQOXdxcVJBQ3VUS2QwTjRrWFYxMmRqSFk4dDVBZXNoTWZrNGwyTUtpUXdHTVl2UWlGNEx1YWRycWdjdWFZbDFJWFU1TGo4bGRVZWt3bkNvSnpXaWVSaGFhbkpYWkFFcFJacEJVT2R2U0hDR1huVjBua2U4aWhzdVoySUxIZ3FId0pfREhoajB4M1pPaXhfaTl1U3ZESEJZZXFn0gGwAUFVX3lxTE5vUUtIUGJEWFlSTlpGNktFT1lSOWJLSWJ3cEg5ZWEyR1VCVTJnal9hSDNWVVBkeDJmR1FYaWlNSHFjQkVPQjlDMUJtQVNXVFlUWi12ZmM4NWo1MFVfWE9RRDd5dlJzWXg4UFkxV2d0eGxMakZrMThuM2JhTGs4dVZ6Y2JPQ21pRGNtaV81TmlZY2pRT1p2WWlmSm9HcXEwUEpuV1pnODd0NWRGNW5xR2Nn?oc=5",
         "image": "",
         "publishedAt": "2026-08-15T07:00:00.000Z"
@@ -466,14 +474,6 @@
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWnN0T0I3UGZOMENvODVOSko2akk1ZmUxVS1EZnNwN0dnUDM2MTNSckxyTC1la1podjhOVEl0SWd6aWFDc3ZnZ19PYWk5VzNkZ0FiT1BZdGR1VFo2aUhpSWQycFcyMXB0TGlyTGpsNG9QQWEtQkxIWXQ4Umd3LW5PQkxmWWJIZTFRdVVSMmhUTGRjMzRPYmxweE9LT2dybnhxNGNBVUR1cWVOeUlvUzlBeXNtZXZaTEN1bWh1V0dQNVRSREZvWWFVVHBaZ0x0WnhMNS1MZUdGMTN4X2pzUkZHaGZlcjItUE5NaWc?oc=5",
         "image": "",
         "publishedAt": "2026-06-27T07:00:00.000Z"
-      },
-      {
-        "title": "Qué es el “Door Kick Challenge”, el reto viral que alarma en Perú tras ataques a viviendas grabados por adolescentes para redes sociales - Infobae",
-        "summary": "Qué es el “Door Kick Challenge”, el reto viral que alarma en Perú tras ataques a viviendas grabados por adolescentes para redes sociales &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQNlhRa3hZRWhpSGh3SVFmWkEzTUM3WXlIeXJCdlYycXE0U0NCSnZFbnM0M2RweVpoalhnTXROWkpLYlExbjA4RGF4dEVXZHk2d0t1Z0lYZHdrcUU4eERIZ1htcTdlUW5ETmNycXVUUFM0d3F0RTRHeVlzZ1hwU2liXzJoTFJ2NVlMV183X1VkS09CcGJrckQ1SFl2TFg1NjBTT082VFVwanVfVmtkZ1RVZVo5WE84TEpzeEF0MUVLallqSzd4c21zeF8yQzN2M1ZUT0xpYllKZ09BUEFKZmw5akhWc2NBaUZ4bFlBQ0hPLXJXRF95N3cwdWlpZGwyNXpFd04zVNIBnwJBVV95cUxPSmowXzdWYTdRbnhzb2lob0R4M0tqYWxJeTRSdUQ5N002RUpGOEJOdU9fSmw2WGlqNWhfaEVZcXhnUEtkS3VpZFdXZDJHbi1oSnJNd1FDWkJxcTN6Q1RtNGZoSkViTTVaOUtnQVZURmlCRVFUcHYtekZJQXc4OEdseTcxOFBrYmVzN2VJdElRalhuaFJSWkQyZHhHZG5Ldlg2ZldsemNHS2xSVHdTRzB1aHpnZF9iZXI3MDlGeXVyVjAydFN0OGdTc2pGX2VjVEVmRG1JbjNxaGFWZkd6VFd2NmVENmJjV2RMU3FwbUMzQjZQMEs1MWtJYUFocnl0T2RqQXNyNnRMYUZMY200cnB0S0FvSWo3dlRZOEl0enB6cw?oc=5",
-        "image": "",
-        "publishedAt": "2026-05-21T07:00:00.000Z"
       }
     ],
     "farandula": [
@@ -534,9 +534,9 @@
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
-        "title": "Domínguez recibe reconocimiento del Congreso junto a Paul Michael, ‘Cachay’ y más artistas: “Contribuyen al desarrollo del país” - Trome.com",
-        "summary": "Domínguez recibe reconocimiento del Congreso junto a Paul Michael, ‘Cachay’ y más artistas: “Contribuyen al desarrollo del país” &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
+        "title": "Domínguez recibe reconocimiento del Congreso junto a Paul Michael, ‘Cachay’ y más artistas: “Contribuyen al desarrollo del país” - trome.com",
+        "summary": "Domínguez recibe reconocimiento del Congreso junto a Paul Michael, ‘Cachay’ y más artistas: “Contribuyen al desarrollo del país” &nbsp;&nbsp; trome.com",
+        "source": "trome.com",
         "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxONHE2VHgwbHpNX1RiaWdQUGVFTkc5NDJEcXZQUDFuRHhCcUpCdzR0Y2NHbDNvRURMQlMzSlk5cHRSb3BjclRaMkNEMEF4R0lqLTVxRGQ2SDRBV2x5cklZcTdjTkp2RExYb2VVZWZHb2piLUFBM3lNS0Rqc2R3Mndrdmlvalp2alhMd1ZZYlNrU240YUs4a003el9jSS1sSFNLNzMxNmxaeGV1bWRGQUJpcmVRMkl3MERDbUVfa0VTbTZkVmR1MjdwVnhHQXMxUS1lTDNKNjBCU0V4UksxN1hFUFdWYUdZN2drV0lyNTR2cy1kMXdNZndXV09KeHN0M2NxNG1SQVhjUVRMaWxZemxXTVN30gGmAkFVX3lxTE1BR29NZk9mczFZd284MzBxZWY3S1lvLTRGYzNxU1R6MDVDZEwwdkktb0t0ZkRtMG03SlVKYjNlVmMyMUVTNG8waFc4NnBDUWRwcUI1cl92SmZQQXVnckFaRGdDSEVyLVN0ekl4Y2ppMm9BeUxWVUthQjRhUzhiNkRDMUNuclA1Xzg4MU80V3AzeEFHWVdDUnRjWEpwTEtmQ0k4OUdyX0lHMTV6TGJ5UUNiSW8tZkVqcmRZMmpLOEpfZl8wNnhGdmg0T01ZVVgyVGRKeUhqVXJmWm56NndqNTJ5d09PczhNekQ3cFJWQTBkWUJJUVEyekdlRUJTSk5HdUZaakUxR2VXaFE1YXg4NXVnTjFFZFdxanl6UXUxUFByUjlXSVVNQQ?oc=5",
         "image": "",
         "publishedAt": "2026-07-24T07:00:00.000Z"
