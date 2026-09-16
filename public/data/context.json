@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T00:16:20.156Z",
+  "generatedAt": "2026-09-16T04:51:33.002Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -22,6 +22,22 @@
         "url": "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
         "image": "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
         "publishedAt": "2026-09-01T00:00:00.000Z"
+      },
+      {
+        "title": "Diputados: Comisión de Desarrollo Agrario aprueba informe que delega facultades legislativas al Ejecutivo",
+        "summary": "La Comisión de Desarrollo Agrario de la Cámara de Diputados aprobó por mayoría el informe que delega facultades legislativas al Poder Ejecutivo en materias directamente vinculadas al sector de los pequeños agricultores y la agricultura familiar en el territorio nacional.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/diputados-comision-de-desarrollo-agrario-aprueba-informe-que-delega-facultades-legislativas-al-poder-ejecutivo-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/VO743DSZYRAPBCJNBUQSJPPGTY.jpeg?auth=1079954d825002ef90fb30adfde1c5cbdd1d93c8b0a5a3dd713b5e87afda6e1d&smart=true&width=2560&height=1706",
+        "publishedAt": "2026-09-16T03:52:52.000Z"
+      },
+      {
+        "title": "Keiko Fujimori se reúne con José María Aznar para hablar sobre cooperación y vínculos entre Perú y España",
+        "summary": "La mandataria Keiko Fujimori recibió la tarde de este martes 15 de setiembre en Palacio de Gobierno al expresidente del Gobierno de España José María Aznar, con quien abordó diversos aspectos vinculados a la relación bilateral y promoción de inversiones entre Perú y España.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-jose-maria-aznar-para-hablar-sobre-cooperacion-y-vinculos-entre-peru-y-espana-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/KHD7B5LEPJBLPPSGBSKVAT73AQ.jpg?auth=3ea316defc87ec1a0b6e8cdffef292e05d9e8eabf6ecfa4d53b16be320f26886&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-09-16T00:25:20.000Z"
       },
       {
         "title": "Lourdes Alcorta: “Lo que está contaminando el ambiente es que, en esta solicitud de facultades, se han excedido” | ENTREVISTA",
@@ -62,32 +78,40 @@
         "url": "https://elcomercio.pe/politica/elecciones/rafael-lopez-aliaga-confirma-que-participara-en-debate-del-jne-mande-una-carta-y-parece-que-me-hicieron-caso-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/YAQ4BUSEAZBZNNUXJW4CI4SFC4.jpg?auth=5bcb7249eba7f51c329d73a340fc88f8d69c8d9a787e6f36d0578e84605c6191&smart=true&width=1534&height=1139",
         "publishedAt": "2026-09-15T21:05:51.000Z"
-      },
-      {
-        "title": "José Jerí: Ministerio Público pide levantar secreto de las comunicaciones en caso de empresarios chinos",
-        "summary": "El Ministerio Público (MP) solicitó al Poder Judicial (PJ) el levantamiento del secreto de las comunicaciones del empresario chino Zhihua Yang y otras tres personas en el marco de la investigación seguida contra el exmandatario José Jerí.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/jose-jeri-ministerio-publico-pide-levantar-secreto-de-las-comunicaciones-en-caso-de-empresarios-chinos-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/DCGVYYXQVFDHRKL7EHTRUZQP74.jpg?auth=de5ec16f2029a148b898d341d2a2d913acb4a65ffa5891aa46fe7fb8ab66b9fe&smart=true&width=1200&height=647",
-        "publishedAt": "2026-09-15T21:04:59.000Z"
-      },
-      {
-        "title": "Guillermo Bermejo: Defensoría del Pueblo pide informes al PJ alegando demoras en recurso de sentenciado por afiliación al terrorismo",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/actualidad/guillermo-bermejo-defensoria-del-pueblo-pide-informes-al-poder-judicial-alegando-demoras-en-el-recurso-presentado-por-el-sentenciado-por-afiliacion-a-sl-los-detalles-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/PJOH2HQAYRBBTA7DQDUV3N7C3Q.png?auth=370e7cc7213e87c4778949363cf3b3b548e50f729cb5b24bcf6b36a751a0b63b&smart=true&width=1200&height=647",
-        "publishedAt": "2026-09-15T20:35:00.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Adolfo Domínguez prima la rentabilidad sobre la ventas en su estrategia de crecimiento",
-        "summary": "La marca española de moda Adolfo Domínguez está decidida a seguir primando su estrategia de elevar la rentabilidad del negocio como vía de crecimiento, por encima del incremento de las ventas, según su presidenta ejecutiva, Adriana Domínguez.",
+        "title": "Universitario: Poder Judicial deja sin efecto medida cautelar que reactivaba su proceso concursal",
+        "summary": "El proceso concursal de Universitario de Deportes vuelve al escenario previo a la medida cautelar de agosto, luego de que el Poder Judicial dejara sin efecto la resolución que había levantado provisionalmente la suspensión del procedimiento y abierto el camino para una Junta de Acreedores.",
         "source": "Gestión",
-        "url": "https://gestion.pe/tendencias/moda/adolfo-dominguez-prima-la-rentabilidad-sobre-la-ventas-en-su-estrategia-de-crecimiento-noticia/",
-        "image": "https://gestion.pe/resizer/v2/YIURVGA7J5HGRKIL6G7IAHWLLI.png?auth=5fda945eef2e9470884ea9a0f3d93d36c29a38cf6d7d485bc90d763a24301a9e&smart=true&width=817&height=537",
-        "publishedAt": "2026-09-15T23:26:38.000Z"
+        "url": "https://gestion.pe/economia/empresas/universitario-poder-judicial-deja-sin-efecto-medida-cautelar-que-reactivaba-su-proceso-concursal-gremco-indecopi-noticia/",
+        "image": "https://gestion.pe/resizer/v2/MVYYP46AGFDSLISGCUUV4H2NHM.png?auth=d6bfc19bf3b114515c1ae752fb5a61263b5d2e4ef033ab8037b3cdf9de1f6117&smart=true&width=3750&height=2125",
+        "publishedAt": "2026-09-16T04:30:00.000Z"
+      },
+      {
+        "title": "Southern Perú: Tía María supera 47% de avance y apunta a producir cobre en 2027",
+        "summary": "La minera Southern Perú (Grupo México) reportó que el proyecto de cobre Tía María, ubicado en la provincia de Islay, Arequipa, registra un avance superior al 47%. Óscar Rodríguez, director de Ingeniería de Planta y Desarrollo de Nuevos Procesos de la compañía, señaló que la empresa ya ha ejecutado más de US$ 700 millon",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/minera-southern-peru-tia-maria-supera-47-de-avance-y-apunta-a-producir-cobre-en-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/DMZV2M2HDZDODFCMPGESDUHQMU.jpg?auth=c0487e2c893ca20b6fb1e85c6f8fe2b5b48cdab82b7f79e4da3c54cdd8dedddf&smart=true&width=1200&height=675",
+        "publishedAt": "2026-09-16T04:16:00.000Z"
+      },
+      {
+        "title": "Indecopi sanciona a Integra Tec con millonaria multa por compra de Telefónica del Perú",
+        "summary": "La compra de Telefónica del Perú por Integra Tec International Inc. abrió un caso relevante para el régimen de control de concentraciones empresariales. El Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual Indecopi determinó que la operación debía ser notificada previamente ",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/indecopi-sanciona-a-integra-tec-con-millonaria-multa-por-compra-de-telefonica-del-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/47VGJ5R5DRBX5DMW3W7HISD3UI.png?auth=6c25ab69b4fd9d318f5afe9bf17d6bb3ada35cb2ea82b22a94846c70b293eff4&smart=true&width=1672&height=941",
+        "publishedAt": "2026-09-16T04:08:28.000Z"
+      },
+      {
+        "title": "Petroperú dejará de operar el Lote Z-69: Perupetro busca nuevo inversionista",
+        "summary": "Petroperú dejará de operar el Lote Z-69. Perupetro inició la convocatoria para seleccionar un nuevo operador por 30 años.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/petroperu-dejara-de-operar-el-lote-z-69-perupetro-busca-nuevo-inversionista-para-los-proximos-30-anos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/K7ZVXNYVBVDPVLWKD7V66EKTJQ.jpg?auth=8b1cf36b9d4a36b22fdbacaf9b2fe01676c4fc5fa9f1610ae6468d2ba5026c24&smart=true&width=1800&height=1200",
+        "publishedAt": "2026-09-16T04:06:00.000Z"
       },
       {
         "title": "Ley MAPE: Gobierno de Fujimori planteará el proyecto al Congreso en octubre, anuncia el Minem",
@@ -95,55 +119,31 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/ley-mape-en-octubre-proximo-el-ejecutivo-planteara-el-proyecto-al-congreso-anuncia-shinno-noticia/",
         "image": "https://gestion.pe/resizer/v2/Z7CHJEKZ3RGLLD7N4IH6YPIIZ4.jpg?auth=13d34f7655c8f2aee70cab8bdc4cf461736ce66b52b55a859f25e9e22db67b19&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-15T23:14:49.000Z"
+        "publishedAt": "2026-09-16T03:46:00.000Z"
       },
       {
-        "title": "Empleo en Lima Metropolitana pierde ritmo tras tres meses: la dinámica por sector",
-        "summary": "La población con empleo aumentó 6.1% en el trimestre móvil a agosto, pero el ritmo de crecimiento se moderó, informó el INEI.",
+        "title": "El Niño: Ositrán plantea que concesiones viales realicen obras más allá de sus contratos",
+        "summary": "Ente supervisor alerta que persisten condiciones de peligro sobre 88 puentes en rutas concesionadas, que hasta ahora no son resueltas por el MTC.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empleo-crecio-a-menor-ritmo-entre-junio-y-agosto-en-lima-metropolitana-noticia/",
-        "image": "https://gestion.pe/resizer/v2/ECDYISFDXJEQDORF4KEWFJABLY.jpg?auth=455b7d6b950f56ebc9804c9fdf396e103217e70a9c65aeefacf31299c30e6628&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-15T22:53:42.000Z"
+        "url": "https://gestion.pe/economia/el-nino-ositran-plantea-que-concesiones-viales-en-peru-realicen-obras-mas-alla-de-sus-contratos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/BK67RKLPONAN7DA7IBRZUFUH2Y.jpg?auth=2e39844edde5105d9de8459d892928c2aeddbee2e0309033cde3539b9162d947&smart=true&width=1199&height=799",
+        "publishedAt": "2026-09-16T03:45:00.000Z"
       },
       {
-        "title": "Gigante chino LiuGong quiere convertir al Perú en su hub para Hispanoamérica, ¿Cómo lo hará?",
-        "summary": "La china LiuGong abrió subsidiaria propia en Perú tras 15 años operando a través de su distribuidor y proyecta cerrar el 2026 con 200 equipos vendidos.",
+        "title": "Minera canadiense va por oro en Huancavelica y Cusco: ¿cuánto invertirá en explorar?",
+        "summary": "La minera junior canadiense Tesoro Minerals Corp. amplió por segunda vez su colocación privada sin intermediarios, elevando el objetivo de recaudación hasta 1 millón de dólares canadienses (US$ 719,000). La operación, anunciada originalmente el 3 de septiembre con un máximo de C$ 600,000 (US$ 431,000), fue escalada pri",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/gigante-chino-elige-al-peru-como-su-hub-regional-antes-de-entrar-a-chile-y-colombia-noticia/",
-        "image": "https://gestion.pe/resizer/v2/VFDFB7UZMNGADDOKYR6GPP4CE4.jpg?auth=75ff8b435be76525177a7b2a1c0c270e05cb129de089fc335838f99c413d11de&smart=true&width=1200&height=787",
-        "publishedAt": "2026-09-15T22:43:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/tesoro-minerals-busca-captar-mayor-capital-para-acelerar-exploracion-de-oro-y-cobre-en-el-sur-del-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/DU62DLCZ3ZGLRPX34YEAK7SDYM.jpg?auth=99c4ca7ea0fa65941e437170180e05bd16dcee1bec3fcc87bbcd8041f5f574ee&smart=true&width=764&height=401",
+        "publishedAt": "2026-09-16T03:30:00.000Z"
       },
       {
-        "title": "Dueño de Vizzano y Arezzo en Perú abrirá dos tiendas y busca el 50% del calzado brasileño",
-        "summary": "El invierno cálido \"dejó poco botines\" a Lazzos & Co., pero la importadora movió su verano dos meses antes por esta categoría. Ahora alista dos tiendas nuevas y va por más del 50% del calzado brasileño que entra al país.",
+        "title": "Congreso debe designar a 3 directores del BCRP: estos son los 12 candidatos en carrera",
+        "summary": "",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/lazzos-co-abrira-dos-tiendas-y-va-por-mas-del-50-de-la-importacion-de-calzado-brasileno-noticia/",
-        "image": "https://gestion.pe/resizer/v2/LJYPUEIUCREZFLIMYKI5KGTZDE.jpg?auth=0b0b3aa75b7355f4e7a00d7609b2078833b2dfb41b36d9b41331133917d52d08&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-15T22:39:25.000Z"
-      },
-      {
-        "title": "Litio en Puno: Falchani eleva su inversión a US$ 834 millones y ya tiene fecha de arranque",
-        "summary": "Macusani Yellowcake elevó a US$ 834 millones la inversión de la primera etapa de Falchani, su proyecto de litio en Puno, y proyecta arrancar la construcción en el segundo semestre del 2028.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/macusani-yellowcake-rehace-numeros-de-falchani-y-apunta-a-desarrollar-su-mina-de-litio-en-el-2028-noticia/",
-        "image": "https://gestion.pe/resizer/v2/NYQSBTE7SRC3ZJPUBH4TBUMZO4.jpg?auth=f191a21f57832121d97c763223a0faac0db5a89a12493167eb3991c0ce5efc8e&smart=true&width=1200&height=900",
-        "publishedAt": "2026-09-15T22:39:07.000Z"
-      },
-      {
-        "title": "Maca en China: el siguiente paso de Amazon Andes en el gigante asiático",
-        "summary": "Amazon Andes acelera su expansión internacional con nuevos planes en China, Estados Unidos, Corea y Europa, además de ampliar su portafolio en Perú.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/amazon-andes-acelera-expansion-en-china-y-apunta-ahora-al-canal-fisico-noticia/",
-        "image": "https://gestion.pe/resizer/v2/JENGEKRTBVAA3CBR2XPZQ5JEKU.png?auth=6ff4ba0c3d9e438a33377bb9f1cb6a541ce4b66fa4c41d104b91f8559a9ab8fa&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-09-15T22:30:00.000Z"
-      },
-      {
-        "title": "¿Cómo buscas en el navegador? La mirada de Google sobre el cambio en los usuarios",
-        "summary": "Representantes de Hiberus Media Labs (España) hablaron de la adaptación de la inteligencia artificial de los medios de comunicación, tomando como referencia experiencias de Xalok Assistant.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/google-la-evolucion-de-las-busquedas-y-la-ia-en-las-redacciones-de-los-medios-de-comunicacion-noticia/",
-        "image": "https://gestion.pe/resizer/v2/CVQOVFAW4JFOLPHFU6RT7DDRR4.jpg?auth=ea50f2979b4aa5dee4c3488eb8bd65aa962e4961bcd333907c21da7aa7e5f4e6&smart=true&width=1300&height=800",
-        "publishedAt": "2026-09-15T22:21:00.000Z"
+        "url": "https://gestion.pe/economia/congreso-del-peru-debe-designar-a-3-directores-del-bcrp-estos-son-los-12-candidatos-en-carrera-propuestos-por-las-bancadas-noticia/",
+        "image": "https://gestion.pe/resizer/v2/OD3JFI7U6NEQ3MR4M2QANKLSPQ.jpg?auth=82d34035ffbeb3b369aa8bc56cb0fdc24f4c0ce71cc9efa16fcc6fc7c1536291&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-16T03:16:03.000Z"
       }
     ],
     "sociedad": [
@@ -164,9 +164,9 @@
         "publishedAt": "2026-09-14T21:45:20.000Z"
       },
       {
-        "title": "Tres candidatos plantean agua, salud y vías para Ocuviri 2027-2030 - Pachamama Radio",
-        "summary": "Tres candidatos plantean agua, salud y vías para Ocuviri 2027-2030 &nbsp;&nbsp; Pachamama Radio",
-        "source": "Pachamama Radio",
+        "title": "Tres candidatos plantean agua, salud y vías para Ocuviri 2027-2030 - pachamamaradio.org",
+        "summary": "Tres candidatos plantean agua, salud y vías para Ocuviri 2027-2030 &nbsp;&nbsp; pachamamaradio.org",
+        "source": "pachamamaradio.org",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjVicmRJUHdsWkJST0NDVllhUTRPQVpxelM3dGx5aWV6clN1Nm5fQlprdFVQUnM4WkdGc1NxSGJ4cHBaRmhVUDMwemhpblNpV18tSzlRdWE0MzNMaDNjWDRzdVJRM1I2S0FOMmtqTGRmeTl3RUh3cktfRlZ1S2tPUzNwOXEwcHlsMU1Rd1htZTQ0MFZZX09kUQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-14T12:17:20.000Z"
@@ -204,12 +204,12 @@
         "publishedAt": "2026-09-03T07:00:00.000Z"
       },
       {
-        "title": "Estas son las comisiones de la Cámara de Diputados que tendrán mayor poder de decisión en el nuevo periodo legislativo - Infobae",
-        "summary": "Estas son las comisiones de la Cámara de Diputados que tendrán mayor poder de decisión en el nuevo periodo legislativo &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeXZsRHloYmRHU3ppR3pKTWg0U0FtSFM1MC1GWjJqeHVVb1M3QzlQelJUWFlGR1gtOWZYQ05iS1VDTlF0aUx6OHphRW1fVmtETVR3Tnc3YXFhQndfc1hRZW1mNnlLNXdDdTlfSlNOUlVPeE5pOXA5ekRsODVnemNSVTB3dzhGTmgwVGFMYVN1Zy1NTnhRVTUxejBjc1lIZ2ZWQjZ0d0cwSHJCUWRMM2xtcHpqWkppOGJXLTZqYzV6RzI0OXc3T1dEZEdiM0VXcjZkZllCcVRYWDMyRlVPS0xkWGdKR2NxWXZPUzVBUzJDSDbSAYsCQVVfeXFMTXgxSkI3ZG1kTXVidU1CMkVvRFNURFFvTmNjaE14UHk1YmFjbklkLThvWGVBWnVnTUtyTXRnM3dRcklHY0JRWE9Kd1FTSDV2QVNDRDlCYW9TOThfZVItcUprZElqazRpd2tDdG4tamVGUGNtYzFhbFEzX1dCanNOY2VMZnEtQmFPYkpvRDJWSDM3U0tZa3VSanlqZkRGOTVIN05tQlhoR2psMlNyNFJUVV9aNnE1bjlidksxNnh6SGlFUGZVcllNUFZPTUpSRVUxVU9UcE9DYlJxWUt3OXEwaDlIWTJPVS1vRlB6SDNBZmZZZHZIcWUtSDZYVGszTGYyMWJSUE8xTUU5RlM0?oc=5",
+        "title": "Historiador peruano Daniel Parodi: El principal desafío de Keiko Fujimori será “la propia inercia del fujimorismo” - Universidad de Chile",
+        "summary": "Historiador peruano Daniel Parodi: El principal desafío de Keiko Fujimori será “la propia inercia del fujimorismo” &nbsp;&nbsp; Universidad de Chile",
+        "source": "Universidad de Chile",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRWhQck1hWnZrTktic3Y5Tkx1RmZLRWZkTHR2VE1uWGppelJYeENMcDgzc1Ewc1cxOXBNU3k2SjROM092RUx1bURadnNoNGZKNFlRQ1FOY2U1R2hlMUVaTnZzTDJucnhtTVZYLUxmcnN6UXBJVmhzTy1JUWZVNnZIaTlPLU1MSlpfQ1l2SWM4LUhSSTBSN1VHWU5rc2l6ZjR5X1VTQmxHV2dSMGJYSjY5M004aUJVaS1mRjVtc3NfUnhDVTlUNGVNQldDb0FxdDdraGhxSzl4dmpzb2t3aktfMw?oc=5",
         "image": "",
-        "publishedAt": "2026-08-05T07:00:00.000Z"
+        "publishedAt": "2026-07-29T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -222,9 +222,9 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - businessempresarial.com.pe",
-        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; businessempresarial.com.pe",
-        "source": "businessempresarial.com.pe",
+        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - Business Empresarial",
+        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbEpWQWwzZjk1OHUyMXNjdl9taXN3YWtlVkc3WUd6ak1GNTNKTjMwWHhEd0Y4TTF6WU90LTMwTjZSNDVFN29ReWFGQkVvTmtya3pNMG9kSEdjYzRvdnZsTG16M3E1bzZhV09OVVBwWUNCU2ZJVHpfdnlvV1VmVXVLU2FmR3FYeVlIRnl1MVRvWmJlSWU4eVZ4Rkxxd2tZUHBKcWp6Q3BRUkZRMVRkbDRiVWNOdTFNSU5yNjByS2FobmlLdGRrOVJHdU9YOW9VYjZBLTYySHM1cDNhR1pDR0JZ?oc=5",
         "image": "",
         "publishedAt": "2026-07-24T07:00:00.000Z"
@@ -238,33 +238,33 @@
         "publishedAt": "2026-07-21T07:00:00.000Z"
       },
       {
-        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - businessempresarial.com.pe",
-        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; businessempresarial.com.pe",
-        "source": "businessempresarial.com.pe",
+        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - Business Empresarial",
+        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOclpab3k5dms5U3JOSXdvUU1pSnFnUnYzWDY3QUtyeU9ob2NhZnI5U092N3QxY19kVUtUX1JPR0tzUElTTXVlMGdUbV9tclI0Y0JQcU11QWhJQkkxalNIR3R3VmdGSHdMY0NJUVE1V09Tel9OX3R5eUVKV3owZnJ2VjJ0VVRlNFowbWZyVUl4SDAwc2lYUzZKcTZtTDhEUlV0LTJMY2hnSGJkQ0c5U1AwRkVGVm5qQXk3XzI0ZEZ3ZTE4RjBtbTcwTG15MVdKX1F3Y3VGby1IdVNrd0pB?oc=5",
         "image": "",
         "publishedAt": "2026-07-04T07:00:00.000Z"
       },
       {
-        "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - businessempresarial.com.pe",
-        "summary": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores &nbsp;&nbsp; businessempresarial.com.pe",
-        "source": "businessempresarial.com.pe",
+        "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - Business Empresarial",
+        "summary": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVFwSXZrS2lPelhLNUlzRXRMZmM1WDhBVkptN0QyQ2dqSTQteTJaQVpnb2pUQldrSEJ2QjNpQWJZMC1lNmxtSjRQWUQ1N2JxcEhIcGY3M0xUdWdfV0YwYXBONWItcTlMVzlsekVJMW85VVRRN3Bmc2NjR0hlTlVVYmowYkprdDVwSTZ4T25tWnc0RDkzVUhRVUV4U1ZtQW9idWtuX0RqelF1TkpCbWxyQVQtUXJrMlRsLTg5SlFEQ0k5RS02Wkgw?oc=5",
         "image": "",
         "publishedAt": "2026-06-26T07:00:00.000Z"
       },
       {
-        "title": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups - businessempresarial.com.pe",
-        "summary": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups &nbsp;&nbsp; businessempresarial.com.pe",
-        "source": "businessempresarial.com.pe",
+        "title": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups - Business Empresarial",
+        "summary": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmtHemFxbzkzZVNVajZWNmstMk9YSDJHejFFbjVDaE5sYWNsT0JRZkxJUjBoa1hmMU5hdTNqclFvbDcxWl9nZUcxRlp4cHdPWGk4SE1oVWlTbW5iNzdwUXNWYWh4WUQzSEY4TmVSbnozMDVmS3BPd1ZUYllacXNOQVpUMFhqR215X1FOSk04Q1p5ZVJseXdrYm5DdkM0SDZpVHc0ZVR1MUNhX1dSRnRPa0dzdkxqS29xdTc5aGw3U2RxRzR0cmNsVGRkS2ota2s0aWFUZjJMc1FvRnlVaUF3Z3Nn?oc=5",
         "image": "",
         "publishedAt": "2026-06-25T07:00:00.000Z"
       },
       {
-        "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - revistaganamas.com.pe",
-        "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; revistaganamas.com.pe",
-        "source": "revistaganamas.com.pe",
+        "title": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse - Revista Gana Más",
+        "summary": "GEM 2025/2026: Solo 5 de cada 100 emprendimientos en Perú logran consolidarse &nbsp;&nbsp; Revista Gana Más",
+        "source": "Revista Gana Más",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcXMxcGUzS0xxcEpXcWxtZkl3cDhPTDk2bEZENlRIcmduaVZVRlhvY0FqOUNCdVF5Y0QxaTVyNDI5ZDJGbXdqWUJ3ZEd3QVBXaDQtQmd2X3V6aW1SR21lY05QSFdzeUhGZUtDZkUwS25BU3VIX04wbXpMRjBETElBSFlTbi1vVDBvaENJTFV1SjlCVzVnSzk5Z1htYmR2clVNZFB3STJ0ajAzUnM?oc=5",
         "image": "",
         "publishedAt": "2026-06-17T17:04:18.000Z"
@@ -280,9 +280,9 @@
     ],
     "ideas": [
       {
-        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - forbes.pe",
-        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; forbes.pe",
-        "source": "forbes.pe",
+        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - Forbes Perú",
+        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; Forbes Perú",
+        "source": "Forbes Perú",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnR2OFJqcnVKWEVnZF9Fc1FFQ1AxY3lYbTFYQnh2WkJZMEljS2I4UHozWHN5eTNXVXkwSV9WS0U2WDdCenNoMGVLUzRpMEZXcnIzRVpJSWloS295VGJzNVZtT3h6akN0b3EyVDdYVUwtc05SR0Z6WWE0MjZKUnd3TDFnUWx3aEJwbHRYUmgxNHJseERsVE8tdTg0WnJrT1hMMEFER0h6WVp1ekd1V2JWLTNPUQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-25T12:02:15.000Z"
@@ -312,9 +312,9 @@
         "publishedAt": "2026-07-08T10:21:37.000Z"
       },
       {
-        "title": "La paradoja peruana: Crecer sin innovar - revistaganamas.com.pe",
-        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; revistaganamas.com.pe",
-        "source": "revistaganamas.com.pe",
+        "title": "La paradoja peruana: Crecer sin innovar - Revista Gana Más",
+        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; Revista Gana Más",
+        "source": "Revista Gana Más",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6aWxfR3diYXRQbUZqekNmcGgxQVkxUVl6TVlwaWR2QVhhYzlkcnY3bXBVUnVHcUhXZkZObW50MzFmX2VOaUg3MW52UGNlQkE1bFh2LXY2alNyWWdrNThsZ2F0UGY5bUN4VmdMMDBtdWdaX0dIb0ZmMA?oc=5",
         "image": "",
         "publishedAt": "2026-06-25T07:00:00.000Z"
@@ -394,20 +394,20 @@
         "publishedAt": "2026-09-14T15:16:37.000Z"
       },
       {
+        "title": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial - teleSUR",
+        "summary": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial &nbsp;&nbsp; teleSUR",
+        "source": "teleSUR",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzFCZlBlb0hJQ2QxVS1ZUzdTTTBMWGdETGRkSVR3ZHByRjBvVU9SdkU3RmhQRzZPN2sybE5jbmFvdkQxVEdEVVQ0amFOOFh6NkhOY1Q3S0l0X0J5aXNWWi13NTdmWElJXzZ3eVJKN2ZCSzNxRWxwM1o5aDM1OHVJcG5EUlpVQm1fM2hpWQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-10T11:34:25.000Z"
+      },
+      {
         "title": "7 de cada 10 trabajadores en Perú ya usan IA, pero las empresas aún no terminan de prepararlos para su uso - Infobae",
         "summary": "7 de cada 10 trabajadores en Perú ya usan IA, pero las empresas aún no terminan de prepararlos para su uso &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVER3X1pEb1VQeDJTVGZDcWRxUVFEOTlMczlGNXFveTFzWHdRbG52YWhndGlDTTdHRk9CMXBwbEZ3Y0xVR0o1WFdkbkhTQ1VyZXA4SDg1ZGdOdUxFc2hLZHgyQ1V6NGc3clExellickw3LTMyMGJNNU44VW9GQUtzZGJlX1dMZFB4UlZtcGZyeWxSVjB6MGwtbFhBQXV0VEhwdkNmaUdMdXNDaldzU0NvS05IUVltaXNEWVJqZVVCOHZwenhrbm9MUE5BNEdmRTRDREotUG1ST3M5UUZCUDJR0gH6AUFVX3lxTE04d3N2Q1NoZ282eVlEbjZtandqRTdqUWRSWnBocW1pS2tKVXpRNGwtYS1nUlkySmU0T2UzYVFkYjRFOU5JUWhobXZkQUhJVVVaMnhkdmk2RVpVSW85eU44MGdiUEh1UkVHcW9iYVhoenVKZDdXRXp4eUQ3Q3BnUHFZVUJpWVNWMC1ydGttWk9TN0RRNkY4TG1zZ1lvb0Zva0ViYTk0S1BRX1BQQ2J3OEZPRGl5SkViNVcwSko0MFo2T1pOcDh4Njd4YUR2RXp5WnJqNU5hbjd0Zmg5SUVIYUt5OV95TWhraURRZzNMLUtZY0xmWk5BZE15WGc?oc=5",
         "image": "",
         "publishedAt": "2026-09-10T01:27:00.000Z"
-      },
-      {
-        "title": "Perú firmó memorando para importar y adoptar IA de EE.UU. - forbes.pe",
-        "summary": "Perú firmó memorando para importar y adoptar IA de EE.UU. &nbsp;&nbsp; forbes.pe",
-        "source": "forbes.pe",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTk92YlRIcWlORU9jdjdWZ2diQl8xYWlQSUc2QUZJRHNHdTFkbEticzZtMlJvc1l3bkF5YnNmdUl0OE04RDI0N25VQWdkR0UzTVNOcDdlM1lSbVF2UkU0bzRPdWFYT0FObjE2aERDa0tPR0dBYXFWbnBJaDJzSmZfRnNldy1KY0NBamFKT3VEd0k3X3YyV1poTHJ0TU82MEt4Zmc?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-09T20:12:03.000Z"
       }
     ],
     "tendencias": [
@@ -436,14 +436,6 @@
         "publishedAt": "2026-08-18T07:00:00.000Z"
       },
       {
-        "title": "Qué es farmear aura: de qué trata la nueva tendencia de TikTok entre jóvenes y cómo se gana una batalla - Infobae",
-        "summary": "Qué es farmear aura: de qué trata la nueva tendencia de TikTok entre jóvenes y cómo se gana una batalla &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVmN3WHprRm1HX1MtdXhjWk5ZajM2dVZLSjJmY1VVUnN5QUxaUmxBeW81amF5RVY0dXV6clgtUERMZG40bmpBd2txODRnOElyeTEwMlZVZ0ZtcEVlelpKaHdCbl9ZUWhFUVVkbUxWd0k5X2FBd2tJNGM4bFBoakU0RDdOS1NxSmJFbDRGOHZ0UEJ2aXVfM3pmUUROMUloQl9uTFZDa3ZtaUJ5bHIwcW5hMTgwMlNoWk13UGhfZkNwbjZkMndyOHQzQjBsMnF6N2tOeTdlVE1zSXdkWTJDNXVlNTZhTdIB_gFBVV95cUxQNU45c1NZNkFDWjhUYzJxYUxYRGp2Uk9NaF9CbkVfSmRiZW90RGRWRW9BR2FFX1FkRVNySWJhdzVneTNFXzBDSEt5Y3RpeThBYlFfQldWaHZ0ZFRtSlZfaEtNUkpSLU5mOHh6Y2lxbTU2ekhmdC1zNmZMcVQwLVVkam5vV1lzRktaVFdmclp1NlR6RHNpMlYtNzltT29YWXFXR1VUS0w0Q0c4RGlGVEM0NVVlckVqOHR4c0U1UjlMcjRPVW43MjJhYV9hcWRTYmpVTEI4aGpsalFHbFY2LTNKX3ZRNFdLTVg0ZGtoaDdENE54S09xeTVVTElrZTF6UQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-15T07:00:00.000Z"
-      },
-      {
         "title": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña - TV Azteca",
         "summary": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña &nbsp;&nbsp; TV Azteca",
         "source": "TV Azteca",
@@ -460,20 +452,28 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "Reto viral “Pásame la botella”: especialistas alertan por aumento de adolescentes intoxicados al mezclar alcohol con medicamentos - Infobae",
-        "summary": "Reto viral “Pásame la botella”: especialistas alertan por aumento de adolescentes intoxicados al mezclar alcohol con medicamentos &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYkxYWU1GV09vM243VlB3NWZhbWt5RzF1bE9PdXRhR3BkM2cyb25NTjVMMG1XbnM3aU1rMXBIb3FFV3cwRjRrYkduVm9Gd0hyRFlKWElDSk8ybEtXVUJkRHlXc2FuWkhodTg1Z1ZGbmpUZVZxcTN4M1J6ZlpxZHJFNUtTN2tRQWE3MVR5SkhwLWVCelVKU3FNZVowYjh3YVJYWDFHWm1PbUlJOVNBOTVQT19hQ2tGbXNYWTllU3ZoLVNlNE9aUGwzZzl3LTJHaDN6TWpaNkJsOXBTRVIwMmtfVjUyaGo4X1E1bFBvb3ZkMUZ5QmozSGtYcUx5VdIBlgJBVV95cUxPUElwalRLcFI3MTN6a3dqaV9pWHA2NjFYWVFHZU00NTNTblYzYXo3aDdXaEF1NzM3bmx0MkFCbnFGdmtFd2syOVRwNE1HRVV4dnhsOUtva2E5ZUVvbW1CVDBneGc5a3hZUU9oVjFfVE0xOExvbG5TM0FoeW81Wll1UWtxRTNqdkJiTWoxbm42aG9PWVNjTmlvbmgzaUdmVDA1bkFmUm1RRVVua2VxY0tldUlQTGEzZ3k2Sk10N0JKWUxTTkF6OGQtVlV6RzhmcGlJdlA1OF9JaEFIcFI1U3NoZDZtUnpmbEpBWVZCTUE1bVNDQUxZcm9QVDB2OEhpekVtcGItWjNDekpHY0xKSk1GQXpMRGhYdw?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-08T07:00:00.000Z"
-      },
-      {
         "title": "Minsa advierte sobre desafío en redes que expone a adolescentes a graves riesgos de salud - Infobae",
         "summary": "Minsa advierte sobre desafío en redes que expone a adolescentes a graves riesgos de salud &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ19nT2YyMlR5RFhzZVRjTXpPcjZXYjhHZ25aV1BkeTFuWDVKTHZxUFRyQklUb0JYaGFIMUJEbEdVbTg3Y01OV255QmN3OHlEbWNaS185UXVqUHhydnF1YTlrZTNSQmtmVGNKc2xyb28zTmt4czlsd2Z1OC0wQTZYWmpjT0pUNU0yN21CWnpYamV6eU43TkdQUE1FdjUxUGVRQ0tzbGpDbEk2Y0xrS3Y1bl9hY2UxSnVuMTF2ZV82MTZ2dGVkQ0tPVG1R0gHkAUFVX3lxTE5xaE1KVl9TLXVjQW16VUhTbmotZWRBcUJueDBnQWZLZFhPaC1hSjZNSGVXSnFEQlotekUweWloX0xEc2txcEt5N2RGOUFBYXBFaXBZYTdZaWpkaktoNUd4cDFsV2R3bGdOOGNDVV9qajFLMy1ZTUh3TXU4dlZmVmprRnlvQzhLMlM4RnpTT2FMSzhKdS1PaXdvZE0tQnlIUmIyM3l4akJrYjIwcnMwY25yMXl2TFIwdjg1YXpBNmRnNDBrdU9oZTN5LVU4MGp6dHVVR09fTnh5cmN1eGNsaXBDNUlZXw?oc=5",
         "image": "",
         "publishedAt": "2026-07-07T07:00:00.000Z"
+      },
+      {
+        "title": "😱 ¿Coincidencia o realmente hay un parecido sorprendente? 👀🍗 ¿Tú qué opinas? ¿De verdad se parecen o es solo un meme más de internet? 💬 ¡Te leemos en los comentarios! ¿Quién ga",
+        "summary": "😱 ¿Coincidencia o realmente hay un parecido sorprendente? 👀🍗 ¿Tú qué opinas? ¿De verdad se parecen o es solo un meme más de internet? 💬 ¡Te leemos en los comentarios! ¿Quién ganó esta comparación? 😂👇 #ExpresoNoticias #Viral #Tendencia #KF &nbsp;&nbsp; facebook.com",
+        "source": "facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWnN0T0I3UGZOMENvODVOSko2akk1ZmUxVS1EZnNwN0dnUDM2MTNSckxyTC1la1podjhOVEl0SWd6aWFDc3ZnZ19PYWk5VzNkZ0FiT1BZdGR1VFo2aUhpSWQycFcyMXB0TGlyTGpsNG9QQWEtQkxIWXQ4Umd3LW5PQkxmWWJIZTFRdVVSMmhUTGRjMzRPYmxweE9LT2dybnhxNGNBVUR1cWVOeUlvUzlBeXNtZXZaTEN1bWh1V0dQNVRSREZvWWFVVHBaZ0x0WnhMNS1MZUdGMTN4X2pzUkZHaGZlcjItUE5NaWc?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-27T07:00:00.000Z"
+      },
+      {
+        "title": "Qué es el “Door Kick Challenge”, el reto viral que alarma en Perú tras ataques a viviendas grabados por adolescentes para redes sociales - Infobae",
+        "summary": "Qué es el “Door Kick Challenge”, el reto viral que alarma en Perú tras ataques a viviendas grabados por adolescentes para redes sociales &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQNlhRa3hZRWhpSGh3SVFmWkEzTUM3WXlIeXJCdlYycXE0U0NCSnZFbnM0M2RweVpoalhnTXROWkpLYlExbjA4RGF4dEVXZHk2d0t1Z0lYZHdrcUU4eERIZ1htcTdlUW5ETmNycXVUUFM0d3F0RTRHeVlzZ1hwU2liXzJoTFJ2NVlMV183X1VkS09CcGJrckQ1SFl2TFg1NjBTT082VFVwanVfVmtkZ1RVZVo5WE84TEpzeEF0MUVLallqSzd4c21zeF8yQzN2M1ZUT0xpYllKZ09BUEFKZmw5akhWc2NBaUZ4bFlBQ0hPLXJXRF95N3cwdWlpZGwyNXpFd04zVNIBnwJBVV95cUxPSmowXzdWYTdRbnhzb2lob0R4M0tqYWxJeTRSdUQ5N002RUpGOEJOdU9fSmw2WGlqNWhfaEVZcXhnUEtkS3VpZFdXZDJHbi1oSnJNd1FDWkJxcTN6Q1RtNGZoSkViTTVaOUtnQVZURmlCRVFUcHYtekZJQXc4OEdseTcxOFBrYmVzN2VJdElRalhuaFJSWkQyZHhHZG5Ldlg2ZldsemNHS2xSVHdTRzB1aHpnZF9iZXI3MDlGeXVyVjAydFN0OGdTc2pGX2VjVEVmRG1JbjNxaGFWZkd6VFd2NmVENmJjV2RMU3FwbUMzQjZQMEs1MWtJYUFocnl0T2RqQXNyNnRMYUZMY200cnB0S0FvSWo3dlRZOEl0enB6cw?oc=5",
+        "image": "",
+        "publishedAt": "2026-05-21T07:00:00.000Z"
       }
     ],
     "farandula": [
@@ -518,6 +518,14 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
+        "title": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión - Infobae",
+        "summary": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFpHYlBfWE5DYjhNXzVvdjhzWEJUU3NRYUxCei13QUhSajlnTWtaNmxCUmRZeFJsU0FQZ2Uxa0hkMHNCanNqd1pPUDlveFZGUXlvU0MyblFibDBMY1pZVHZZczdZNlFpZ0dVU2hwUlJrQjdOY3FMZHloNXY2cXhCVVR4YjVLR1B5NEFhOGJlY2NKZnF2dWpfMWNUYTdGd2U1MWt1RWNpVUw1NXdWWE1SN0dSMm9ldWNqZUM2Z1930gHYAUFVX3lxTE9YYW5mSTRNYXNfWFBBZi0tX1h0S3A1b09TY09zaVFmcWdLTllzMHhtTzRQOHNwaEFOT1ZycS1fNklDamM2Tm4zbGZ0Uk5DTldIMDAxUlhGZVNmV2RvZXdVRERiTGFxV0Jhclc1bERDd3ItWU9yY1dpQjE2d0NnTVZzVDhBTjV4ellKTW5HOUxBWUtOLVNnVGs3Wi1ibF9iNVNMWFlzajFjSzhUSjRKdXBZQUdlbTh0QklnMUxNNFFlVXpTYi1jZXE2Z2dFcklfX2U3Y0VnTUM4Vg?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-30T07:00:00.000Z"
+      },
+      {
         "title": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina - Infobae",
         "summary": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -532,14 +540,6 @@
         "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxONHE2VHgwbHpNX1RiaWdQUGVFTkc5NDJEcXZQUDFuRHhCcUpCdzR0Y2NHbDNvRURMQlMzSlk5cHRSb3BjclRaMkNEMEF4R0lqLTVxRGQ2SDRBV2x5cklZcTdjTkp2RExYb2VVZWZHb2piLUFBM3lNS0Rqc2R3Mndrdmlvalp2alhMd1ZZYlNrU240YUs4a003el9jSS1sSFNLNzMxNmxaeGV1bWRGQUJpcmVRMkl3MERDbUVfa0VTbTZkVmR1MjdwVnhHQXMxUS1lTDNKNjBCU0V4UksxN1hFUFdWYUdZN2drV0lyNTR2cy1kMXdNZndXV09KeHN0M2NxNG1SQVhjUVRMaWxZemxXTVN30gGmAkFVX3lxTE1BR29NZk9mczFZd284MzBxZWY3S1lvLTRGYzNxU1R6MDVDZEwwdkktb0t0ZkRtMG03SlVKYjNlVmMyMUVTNG8waFc4NnBDUWRwcUI1cl92SmZQQXVnckFaRGdDSEVyLVN0ekl4Y2ppMm9BeUxWVUthQjRhUzhiNkRDMUNuclA1Xzg4MU80V3AzeEFHWVdDUnRjWEpwTEtmQ0k4OUdyX0lHMTV6TGJ5UUNiSW8tZkVqcmRZMmpLOEpfZl8wNnhGdmg0T01ZVVgyVGRKeUhqVXJmWm56NndqNTJ5d09PczhNekQ3cFJWQTBkWUJJUVEyekdlRUJTSk5HdUZaakUxR2VXaFE1YXg4NXVnTjFFZFdxanl6UXUxUFByUjlXSVVNQQ?oc=5",
         "image": "",
         "publishedAt": "2026-07-24T07:00:00.000Z"
-      },
-      {
-        "title": "¡Se acabó! Sheyla Rojas confirma su ruptura con Sir Winston tras larga permanencia en Perú: “Terminamos” - Trome.com",
-        "summary": "¡Se acabó! Sheyla Rojas confirma su ruptura con Sir Winston tras larga permanencia en Perú: “Terminamos” &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSEstT2tDMnBuZDRXd01zVlZhV3JNTWh5blV3eXdVaGVDUmt4YmpFWElEVHVwQjJjcnF3LWJYMnVqenBhX3dsUzczU2xwUl83U1hxZXVsd1c1Rm5pMktCVW5vRkU4RUladzN4NXBrc2ZydjQtdW1EUm0yT2hvdE8tcHRmLUFYUEdqUHdnZGZ4WUZCV1JWMF9jb0xRdWpNX2ZiMGVYbWdxeUR3cEx6RkE1ZU0wX1BYUW9HUGp5Y0stSTFBa3dsZThjMU5TbDBLcWVlMTdmSWRTdktJZUluRFRJZEUyRGFtTDlsd1HSAf4BQVVfeXFMTVhpUFprMVd5Yi10UTBEU2FFckY4MlNTNHRCa0g1NERLSFBWMG5USlpYSUowZ2J3UERTRE5hZmNrWWJLQWRjeGhEaEJ1ZlZ4TkhaT18yY2NWSmx4M2JJUklhTXU0QVFPOF91a2lVaEhIbXJFaG9LQmFWS1U0VGtWWi0yTFdBNlFBVEZVakw3NzFiNlhaLW9MNjBYOUhRdFRVeWpnS0pESDB4YUliU2dndzVieVlKVVB6SU56LUxGaXN0TWtaQmNwMXQ0SjAtYThKdzJVanNiczY5RmkxRVdHUDA2QzctRWtPSVJMdDZXTk13ZVRwVks3d2FnZlZxSWc?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-12T07:00:00.000Z"
       }
     ],
     "cultura": [
@@ -576,6 +576,14 @@
         "publishedAt": "2026-08-22T07:00:00.000Z"
       },
       {
+        "title": "Cochinola 2026 con Nicky Jam y Wisin: horarios, apertura de puertas y vías de accesos - Infobae",
+        "summary": "Cochinola 2026 con Nicky Jam y Wisin: horarios, apertura de puertas y vías de accesos &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSm11R1lUbDRJM2U3LTdqaEFMUk4wNXlhekZsWVE2eXB1N2RiaWlSeEJ2WFh6eTdKaGN0OWlUc1NOQlFOUl9kaWhQZ2lEYmVTaEsxam5aUzRCRFdzTjFBWmpLdlhRV2RSTHdtWFk0U0xRcHJYUDZ6MG94QjlqSkRwZ2lCUDRKWWxrd2w3ajMtYmtSMWR2OFNHd3VDaG9sSGM0Q2FtREd2OWEwSUZxaUQ4cjBUNjNJblBvUlZLX2NSTWdwZEprVlR0VdIB4wFBVV95cUxPV3VVd0dJMHdDeXJwVHRGVHZ1dkVhLVgzaVY2X0FqRmNSZm9zOVVtNVBKTXFUUTZZWVBFSGhYdUV5N0QyWVAyUWVWQUZfLTVGamUxU3cyQlZwcjk1b2pkRWthVVJ2bUxGbzRrTGdhMmJ2OFQxVHU4VDNqdHJKXzREQlQxdVBDQjJ0R1k5ZVR0S0Q1eV93b0VsQ0ZyeGVhNkdnV3R4WFF2dWViNi12dFhsRFNiWXhmcVMtXzBOT3A2N3JWaVZEUVF1MWo3MEZ2Qkh3UG9wdW0wSXY3SFVlV2JwYk5BRQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-22T07:00:00.000Z"
+      },
+      {
         "title": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones - Infobae",
         "summary": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -584,9 +592,9 @@
         "publishedAt": "2026-08-21T07:00:00.000Z"
       },
       {
-        "title": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto - blog.joinnus.com",
-        "summary": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto &nbsp;&nbsp; blog.joinnus.com",
-        "source": "blog.joinnus.com",
+        "title": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto - Blog Joinnus",
+        "summary": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto &nbsp;&nbsp; Blog Joinnus",
+        "source": "Blog Joinnus",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQempKSjE1ZEJaSUlkTkxKb2ZEb01WelVBMUZpdUMxM1FSR3VlUlZZalFqUnZJMnhWcFc5UUdoZVFMOG1TbWpzc1BqTFUwbTl6MEhWR2NpSW95RmhRQ2tFSFM2NXZsQjFNUXVsY2k5dS1HRUlzU2pJMEN2SGMtSXlBOFhCbVBSVExUWGxFWVV1dTJCbFdtY0Npdmk4UUlFUkxXQi1QRlFCdC1VWG9jR2hxS2xfbGRGb0tGMGl3MzFrNkdvYjVp?oc=5",
         "image": "",
         "publishedAt": "2026-08-19T07:00:00.000Z"
@@ -598,14 +606,6 @@
         "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVEN4R0wzbk9BVWZvS0JOOS1TcXR1SkFWTzVHbEhDM0hjYzBaX056STYyZkgybnR1VDc0VEl3WWZjeE01ZkEtUGl4OHZoOWxEcDd0WFdGbnJsanpXS0lNOW1rR0ZPcm9YcHVORFYyRE5PYXpiYVpVdWtOeWFPN1Y5QmJUeGMxSVZ5YWZnb3VoT0VyelEtLUtDM0pRam9zOFlIWEpOZUxUUjFBSl9YZXlUSFJqenRuaE5LR0RqRGQyck50NFdxaV9nMi1KSmRFMVFNZ2c0Z0dhUzd2aU4yOGZyb20wNFQzR0pRaUxtWTZsRkMtbTVzNnhnZk13N3FHNlJlbkdmOXByRdIBogJBVV95cUxNSzdWSFA0MnYyRkhjdGRKRnVsUDlOUzZobWxGUGw2T083NG41MUVmX1ZObGpOZjcyLVRQTGg2NV9ObXJhSUtRQ3VVS2wzRUtxaFdocUozSEJPeHZXc2JabzhENS16QXZFYVVmY0ltS3BocnJTZEFLeVhOMHdXUWY4LWpFc3FzRWU3RndwYjZ5d1FLX09vNFBnemc1aldIN0tyUEE3NzJpZmwxOEN2Wmdpc1RBUU5uVXRVRTZNUzdsMW5oVmVJYUdZc0hLdG00S1o0TVB3NzlsSm8xTC1kMmo0SXNRTVhNUzFYaUYzd1dRRi1OVmprRlVMd1IxcG11Z1JqSElMMGc0QkFKQmxOYVlfUUJOd0IzbWtsa3h4RWNVQTFfdw?oc=5",
         "image": "",
         "publishedAt": "2026-08-13T07:00:00.000Z"
-      },
-      {
-        "title": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO - Ticketmaster Peru Blog",
-        "summary": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO &nbsp;&nbsp; Ticketmaster Peru Blog",
-        "source": "Ticketmaster Peru Blog",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVJKaExOenRRZmxzRzVVZWxoanFOaE1fTFdEZmpiRUV0X3FYcFAtTjVwMGo1R1hoUUo2dUhQVVNIZEl5eDhMSlBSdE1jWWZ3YUJXZncxM3J1d2tCUVJvUnNULS1lMEoxZlZkZ0tBbFpFZGxwYm5TSUYyd1RUZmt2VU1JN2thUl94dHduXzdKRWJGOUxQLUp1cWs4U0NMcEhDLVJrVWdVODJDSjJlYjNZODFmY0I0b3NuS2Jn?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-08T07:00:00.000Z"
       }
     ]
   },
