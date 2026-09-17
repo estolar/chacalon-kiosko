@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T20:18:49.676Z",
+  "generatedAt": "2026-09-17T23:32:45.808Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,20 +24,12 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "El rol de los personeros: ¿Cómo se preparan los partidos políticos de cara a las elecciones en Lima?",
-        "summary": "A menos de tres semanas para las elecciones municipales, los cuatro partidos que lideran la intención de voto para la alcaldía de Lima alistan a sus comandos de personeros, a fin de cuidar su voto. Estos actores fueron claves en la segunda vuelta de los últimos comicios generales, en los que Keiko Fujimori (Fuerza Popu",
+        "title": "Keiko Fujimori: Los detalles detrás y los efectos del nombramiento de Yoshiyama y Chlimper como consejeros",
+        "summary": "En medio de llamados de atención de la presidenta Keiko Fujimori a algunos integrantes del Consejo de Ministros por sus exabruptos públicos (primero fue Elmer Cuba y luego Ernesto Álvarez), el gobierno nombró este miércoles a los integrantes de la Comisión Consultiva del Despacho Presidencial, entidad que ha reemplazad",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/elecciones/el-rol-de-los-personeros-como-se-preparan-los-partidos-politicos-de-cara-a-las-elecciones-en-lima-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/BRB6WPLYLVBXLKUTHALSUMWTYU.png?auth=61b07a492a8f7424080c966b76a454d816e04b387478dca563bde05ea5f6419a&smart=true&width=1160&height=660",
-        "publishedAt": "2026-09-17T19:53:37.000Z"
-      },
-      {
-        "title": "Yenifer Paredes y la Confemin: Los detalles de la reunión entre la congresista y los representantes de los mineros informales",
-        "summary": "Yenifer Paredes y la Confemin | Expertos consultados por este Diario consideraron que el gremio estaría ejerciendo control sobre la Comisión de Energía y Minas.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/yenifer-paredes-y-la-confemin-los-detalles-de-la-reunion-entre-la-congresista-y-los-representantes-de-los-mineros-informales-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/FDJJVH5IHVA3FDOYT76PN4MUIY.png?auth=622601edfae69a7beb2ae142fe75ca4fcd689fea91313ce040e15f10d43ce8a0&smart=true&width=1200&height=647",
-        "publishedAt": "2026-09-17T19:53:19.000Z"
+        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-nombra-yoshiyama-y-chlimper-como-consejeros-los-detalles-detras-de-esta-medida-y-los-efectos-sobre-el-gobierno-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/27FH7VF3KZHD7EK5GMV55Y4SZU.png?auth=f4cae294598b95a026b0e87bf9efd18135669e769d5531746deed96723e45a22&smart=true&width=1160&height=660",
+        "publishedAt": "2026-09-17T21:46:03.000Z"
       },
       {
         "title": "Perú ingresó al Escudo de las Américas sin tratado ni obligaciones vinculantes, afirma el canciller: ¿qué falta definir?",
@@ -45,15 +37,7 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/congreso/peru-ingreso-al-escudo-de-las-americas-sin-tratado-ni-obligaciones-vinculantes-afirma-el-canciller-tlcnota-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/7RI3W6TEHJB3FGAPVALSSJ3KXY.jpg?auth=baeeaec30e2e31563a48b6caa0a825814ccf74d6cd471c3a0bf4280fea4856e1&smart=true&width=1280&height=946",
-        "publishedAt": "2026-09-17T19:30:00.000Z"
-      },
-      {
-        "title": "Keiko Fujimori: Los detalles detrás y los efectos del nombramiento de Yoshiyama y Chlimper como consejeros",
-        "summary": "En medio de llamados de atención de la presidenta Keiko Fujimori a algunos integrantes del Consejo de Ministros por sus exabruptos públicos (primero fue Elmer Cuba y luego Ernesto Álvarez), el gobierno nombró este miércoles a los integrantes de la Comisión Consultiva del Despacho Presidencial, entidad que ha reemplazad",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-nombra-yoshiyama-y-chlimper-como-consejeros-los-detalles-detras-de-esta-medida-y-los-efectos-sobre-el-gobierno-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/27FH7VF3KZHD7EK5GMV55Y4SZU.png?auth=f4cae294598b95a026b0e87bf9efd18135669e769d5531746deed96723e45a22&smart=true&width=1160&height=660",
-        "publishedAt": "2026-09-17T19:30:00.000Z"
+        "publishedAt": "2026-09-17T21:45:39.000Z"
       },
       {
         "title": "Ocho de 12 comisiones de la Cámara de Diputados en contra de otorgar facultades: ¿qué viene ahora?",
@@ -61,7 +45,15 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/ocho-de-12-comisiones-de-la-camara-de-diputados-en-contra-de-otorgar-facultades-que-viene-ahora-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/NBDHKRSVEFCGXNJDE65Y2JBXLQ.jpg?auth=b8167b493e88d7f547e0df08a81535c4fb110e4eba3d89d164628f13804fd93e&smart=true&width=1055&height=623",
-        "publishedAt": "2026-09-17T19:30:00.000Z"
+        "publishedAt": "2026-09-17T21:45:19.000Z"
+      },
+      {
+        "title": "César Astudillo:Pleno de la Cámara de Diputados interpeló a ministro del Interior por ola de criminalidad",
+        "summary": "Ministro del Interior interpelado por el Congreso: Estas son las 27 preguntas que debe responder este jueves",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/en-vivo-cesar-astudillo-interpelado-ministro-del-interior-acude-al-congreso-estas-son-las-27-preguntas-que-debe-responder-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/ARC6NUYQ6JGXDI62TJLUFLHKT4.jpg?auth=9ffe8b17a25f6ccf9b16869e7a1cd3ed9323c7bddf3f317026c576d3b024c0b7&smart=true&width=912&height=592",
+        "publishedAt": "2026-09-17T21:36:33.000Z"
       },
       {
         "title": "Luis Galarreta se reunió con bancada de Juntos por el Perú para explicar pedido de facultades",
@@ -69,57 +61,81 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/gobierno/luis-galarreta-y-ministros-de-estado-se-reunen-con-bancada-de-juntos-por-el-peru-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/FFCT3OX4YRA2NAUF5Y62GGS7TU.jpg?auth=f2fae88b0be67bd78eac06675cf89e505836f8f843464c06ac1b6a0b5d9ff85b&smart=true&width=1250&height=728",
-        "publishedAt": "2026-09-17T18:52:20.000Z"
+        "publishedAt": "2026-09-17T21:24:50.000Z"
       },
       {
-        "title": "EN VIVO: Pleno de la Cámara de Diputados interpela a ministro del Interior, César Astudillo",
-        "summary": "Ministro del Interior interpelado por el Congreso: Estas son las 27 preguntas que debe responder este jueves",
+        "title": "Liceo Naval: Keiko Fujimori anuncia que administración pasará de la Marina al Minedu tras denuncia de presunta agresión sexual",
+        "summary": "La presidenta Keiko Fujimori anunció que la administración del Liceo Naval Almirante Guise pasará de la Marina de Guerra del Perú al Ministerio de Educación (Minedu), como parte de las medidas que adoptará el Gobierno tras la denuncia de agresión sexual contra un estudiante del colegio.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/en-vivo-cesar-astudillo-interpelado-ministro-del-interior-acude-al-congreso-estas-son-las-27-preguntas-que-debe-responder-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/ARC6NUYQ6JGXDI62TJLUFLHKT4.jpg?auth=9ffe8b17a25f6ccf9b16869e7a1cd3ed9323c7bddf3f317026c576d3b024c0b7&smart=true&width=912&height=592",
-        "publishedAt": "2026-09-17T18:27:54.000Z"
+        "url": "https://elcomercio.pe/lima/liceo-naval-keiko-fujimori-anuncia-que-administracion-pasara-de-la-marina-al-minedu-tras-denuncia-de-presunta-agresion-sexual-apuesplan-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/OHNA6IQ4D5C3VGDY3W2RN4K5OE.jpg?auth=d6b8d3bdab43d36075ce81c4b647fe6da5744b71e8685ce2198d708af3bd2869&smart=true&width=1200&height=823",
+        "publishedAt": "2026-09-17T21:23:03.000Z"
+      },
+      {
+        "title": "El rol de los personeros: ¿Cómo se preparan los partidos políticos de cara a las elecciones en Lima?",
+        "summary": "A menos de tres semanas para las elecciones municipales, los cuatro partidos que lideran la intención de voto para la alcaldía de Lima alistan a sus comandos de personeros, a fin de cuidar su voto. Estos actores fueron claves en la segunda vuelta de los últimos comicios generales, en los que Keiko Fujimori (Fuerza Popu",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/elecciones/el-rol-de-los-personeros-como-se-preparan-los-partidos-politicos-de-cara-a-las-elecciones-en-lima-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/BRB6WPLYLVBXLKUTHALSUMWTYU.png?auth=61b07a492a8f7424080c966b76a454d816e04b387478dca563bde05ea5f6419a&smart=true&width=1160&height=660",
+        "publishedAt": "2026-09-17T19:53:37.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Banco Pichincha obtiene autorización de la SBS para adquirir Diners Club",
+        "summary": "La resolución señala que la integración permitirá al banco ejercer, a través de esta compañía, actividades vinculadas con servicios complementarios o auxiliares a las operaciones financieras.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/banco-pichincha-obtiene-autorizacion-de-la-sbs-para-adquirir-diners-club-noticia/",
+        "image": "https://gestion.pe/resizer/v2/OD6WSSB5HBE7XMZWIBNR4RS3JQ.jpg?auth=00ebb080ca822eca3c4f5929db878f0f62f73aa16b11ac332dbf50de0f2197d2&smart=true&width=620&height=356",
+        "publishedAt": "2026-09-17T23:22:42.000Z"
+      },
+      {
+        "title": "Sunafil volvería a fiscalizar mypes y EsSalud regresaría a Fonafe: cambios que alista el MTPE",
+        "summary": "El MTPE plantea que Sunafil recupere la fiscalización de mypes y que EsSalud vuelva a Fonafe. Sheput proyectó un déficit de S/ 1,957 millones para 2026.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/management-empleo/essalud-regresaria-a-fonafe-y-sunafil-volveria-a-fiscalizar-mypes-cambios-que-alista-el-mtpe-noticia/",
+        "image": "https://gestion.pe/resizer/v2/HWWW5TNF3JHEXLQEOJ6GILR7G4.jpeg?auth=904c209ce00508b933a9188357e3242c3fda97f28bbd92f3942dc65fe65d94ad&smart=true&width=2560&height=1706",
+        "publishedAt": "2026-09-17T23:18:37.000Z"
+      },
       {
         "title": "ParkGO: la app peruana de cocheras que busca capital para internacionalizarse, ¿de qué forma?",
         "summary": "La startup peruana, que ya supera los 10,000 usuarios y cuenta con más de 200 cocheras, evalúa ingresar a Colombia o Ecuador este año. Para 2027, proyecta levantar US$500,000 de un inversionista de Estados Unidos a cambio de una participación de entre 5% y 8%.",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/parkgo-busca-capital-para-internacionalizar-su-plataforma-de-estacionamientos-noticia/",
         "image": "https://gestion.pe/resizer/v2/GPXSQF3V4VHWZBBCSOQOU53OEM.jpg?auth=445103f8ff9306ec893bd0e80e9b6a6eab24ed776dca99b86c55ea899ce01820&smart=true&width=1600&height=1066",
-        "publishedAt": "2026-09-17T20:06:30.000Z"
+        "publishedAt": "2026-09-17T23:06:00.000Z"
       },
       {
-        "title": "Llamadas comerciales en Perú empezarán con 500: ¿“carta libre\" para que empresas te contacten?",
-        "summary": "El Gobierno creó una numeración especial para identificar llamadas y SMS comerciales. Se establecen 6 meses como máximo para adecuarse. Expertos explican los principales impactos.",
+        "title": "Cambios en la dirección de Ceplan: ¿Quién asumirá el cargo?",
+        "summary": "El Poder Ejecutivo designó a Aldo José Chaparro Luy como nuevo director ejecutivo del Centro Nacional de Planeamiento Estratégico (Ceplan). Asi lo dipone la Resolución Ministerial N° 326-2026-PCM publicada en septiembre de 2026",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/llamadas-comerciales-en-peru-empezaran-con-500-carta-libre-para-que-empresas-te-contacten-noticia/",
-        "image": "https://gestion.pe/resizer/v2/M7E7W4ZSLBCHHAMWPHQMKXL63M.png?auth=0dbb5246da98542b1cef2c6df291d36ec8f6ff99a615983048357514aa77cfaf&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-09-17T19:44:56.000Z"
+        "url": "https://gestion.pe/economia/cambios-en-la-direccion-de-ceplan-quien-asumira-el-cargo-noticia/",
+        "image": "https://gestion.pe/resizer/v2/6R7JKJKZEZHETAJ6KY2IZTOK5I.webp?auth=d157380edb615eb7c2067ae65c47ceb65af4186dba38db572b4aee6a92571164&smart=true&width=1800&height=1200",
+        "publishedAt": "2026-09-17T23:05:30.000Z"
       },
       {
-        "title": "Perú ya exportaría más oro ilegal que legal por primera vez: al menos US$ 16,000 mlls",
-        "summary": "El IPE estima que están en riesgo proyectos mineros que representan en conjunto más de US$ 12,000 millones de inversión. El Reinfo continúa siendo un facilitador de esta economía, agregan.",
+        "title": "Petroperú: Contraloría advierte deterioro en proyecto de planta de ventas Puerto Maldonado",
+        "summary": "",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/peru-ya-exportaria-mas-oro-ilegal-que-legal-por-primera-vez-en-su-historia-calcula-el-ipe-noticia/",
-        "image": "https://gestion.pe/resizer/v2/NTDAOUSRJBCW3G5ON3CUR3A2M4.jpg?auth=6791a740f5630c7026f3e4cf3df1757b2839f215bd1b1c668f0ce2cae1a9d24d&smart=true&width=1200&height=675",
-        "publishedAt": "2026-09-17T19:37:49.000Z"
+        "url": "https://gestion.pe/economia/petroperu-contraloria-advierten-deterioro-en-planta-de-ventas-puerto-maldonado-noticia/",
+        "image": "https://gestion.pe/resizer/v2/O77VLGUSMNAGBP7IY2F54WNMSQ.jpg?auth=b1e102f17c21615ad28e537e400c1f1b1106a4f4e44a6087af974a265072a551&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-17T22:48:01.000Z"
       },
       {
-        "title": "Contratación en máximo optimismo, pero empresas no encontrarían perfiles para cubrir puestos",
-        "summary": "Las expectativas de contratación alcanzaron un máximo de 64.9 puntos. El MTPE alista un convenio con McDonald’s mientras la IA transforma los perfiles laborales.",
+        "title": "Gobierno prepara reforma de hidrocarburos para atraer inversiones",
+        "summary": "El ministro de Energía y Minas, Guillermo Shinno, anunció que se busca modificar el marco legal del sector de hidrocarburos.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/management-empleo/empleo-en-peru-expectativas-para-contratar-en-maximo-optimismo-pero-empresas-no-encontrarian-perfiles-para-cubrir-puestos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/5SLZ73AIAVGD3EWAW5VYDO5BIU.jpg?auth=9839e1fe57e378e574dba17978da466590c1559f5a3d2c4f69eb9aa98d3478df&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-09-17T18:30:00.000Z"
+        "url": "https://gestion.pe/economia/gobierno-prepara-reforma-de-hidrocarburos-para-atraer-inversiones-noticia/",
+        "image": "https://gestion.pe/resizer/v2/ONRTOU7M5BDW7BIMIRHKKNLYJI.jpg?auth=2d13b5d49c304b601ce24a1e3a311fa479540ecea8a2b4a1a570662d0fca0443&smart=true&width=1800&height=1212",
+        "publishedAt": "2026-09-17T22:12:21.000Z"
       },
       {
-        "title": "Unacem invertirá S/ 2.1 millones en infraestructura eléctrica para nueva planta de cal",
-        "summary": "La acometida eléctrica tendrá una capacidad de 5.6 MVA y contempla 843 metros de electroductos y 31 buzones de concreto. Su ejecución tomará tres meses y medio y permitirá atender la primera línea de producción de la planta de cal en Condorcocha.",
+        "title": "Mercado de cosméticos movió US$ 1,500 mlls. en el primer semestre y atrae a empresas asiáticas",
+        "summary": "Mercado peruano de cosméticos movió US$ 1,500 millones en el primer semestre, 8.3% más que en 2025. Además, ingresaron 70 empresas nuevas, en su mayoría asiáticas y enfocadas en tratamiento facial.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/unacem-alista-infraestructura-electrica-de-s-21-millones-para-nueva-planta-de-cal-noticia/",
-        "image": "https://gestion.pe/resizer/v2/PAYWX53EYFF6RN6HKPBFZINTGY.jpeg?auth=9b9c0805b41783871b1128210525378b81b27ceb75858cc0797c1ae3856f5df1&smart=true&width=1280&height=853",
-        "publishedAt": "2026-09-17T18:27:19.000Z"
+        "url": "https://gestion.pe/economia/empresas/boom-de-belleza-asiatica-70-empresas-llegan-a-peru-y-el-mercado-mueve-us-1500-millones-noticia/",
+        "image": "https://gestion.pe/resizer/v2/BYZBASYQVFFUROVOGI4YLDZJWI.png?auth=1ea9d4600b14db48a3216394db28c273996e0618f851e00271a665a6fffe51e4&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-17T21:41:09.000Z"
       },
       {
         "title": "Panoro Minerals firma acuerdo para mejorar accesos y continuar exploración en proyecto Cotabambas",
@@ -127,23 +143,7 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/panoro-minerals-firma-acuerdo-para-exploracion-de-cotabambas-y-mejora-de-accesos-en-apurimac-noticia/",
         "image": "https://gestion.pe/resizer/v2/OPFPIKBVPJGWVGFEPVPORFCBLM.jpg?auth=974df1c153a7c1689b0c46d7b99c489eb98cf4870fde4bfeaaa1d937d56754e3&smart=true&width=949&height=600",
-        "publishedAt": "2026-09-17T18:27:09.000Z"
-      },
-      {
-        "title": "Comunal vs. IWG: ¿quién tiene más sedes y metros cuadrados de coworking en Perú?",
-        "summary": "El mercado de espacios compartidos ya supera los 133,000 m² en Lima y cuenta con 92 sedes operativas. IWG lidera por número de ubicaciones, mientras Comunal mantiene el primer lugar por superficie. En paralelo, los principales operadores amplían su oferta hacia eventos, capacitaciones y otros servicios, entrando a comp",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/iwg-y-comunal-se-disputan-el-liderazgo-del-coworking-en-lima-noticia/",
-        "image": "https://gestion.pe/resizer/v2/NUSJDYULXNBJXLMOYMPSJH4QOI.jpg?auth=4f5ea6ec5c47e1866dba7c5b76ed084094e3e96a0e655b744989de0a693f8814&smart=true&width=1500&height=999",
-        "publishedAt": "2026-09-17T18:24:29.000Z"
-      },
-      {
-        "title": "Tres países más atractivos donde buscan crecer las startups peruanas",
-        "summary": "El ecosistema de startups en Perú muestra señales de recuperación luego de dos años marcados por una mayor cautela de los inversionistas. Durante el 2025, las startups peruanas captaron US$ 76.5 millones, un incremento frente a los US$ 47 millones registrados en el año previo, según la Asociación Peruana de Capital Sem",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/startups-peruanas-en-el-exterior-los-tres-paises-mas-atractivos-donde-buscan-crecer-noticia/",
-        "image": "https://gestion.pe/resizer/v2/B6CRDTVR2RBAXIMY3KMW445ASE.jpg?auth=c290e21d90b7f73dec94c610ea32bf64808d5bd01f6873df343e29a96fa01920&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-17T18:16:55.000Z"
+        "publishedAt": "2026-09-17T21:36:58.000Z"
       }
     ],
     "sociedad": [
@@ -154,14 +154,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYzhYSHBycjVqNGR1UlJCdkJmRThsdUM5YWwzMldQUzczSEpCRHlFc0UyMEdxUkxqY25CY1RNbFBacVFnejc5SmQ0UExfcVV2V0xBdHVXOUlLTXUyVmpZcG9KbWxNd2xnSktuRERUeklJNHM3aElvdUYzWjc2dE55WXd2djZ5TXNDZVFyU3JNSlN1XzFBclRyYWVqTEpxLWw3Q284Q214NUNtTnJRZHhQVGtpM2tCUDdDMXVuYWtnZ2Z1VzQ4VWJhT054Nm1QeXdnc2JpQlNMVkxLc215bk1ZYThuTk1jd9IB5gFBVV95cUxPYzhYSHBycjVqNGR1UlJCdkJmRThsdUM5YWwzMldQUzczSEpCRHlFc0UyMEdxUkxqY25CY1RNbFBacVFnejc5SmQ0UExfcVV2V0xBdHVXOUlLTXUyVmpZcG9KbWxNd2xnSktuRERUeklJNHM3aElvdUYzWjc2dE55WXd2djZ5TXNDZVFyU3JNSlN1XzFBclRyYWVqTEpxLWw3Q284Q214NUNtTnJRZHhQVGtpM2tCUDdDMXVuYWtnZ2Z1VzQ4VWJhT054Nm1QeXdnc2JpQlNMVkxLc215bk1ZYThuTk1jdw?oc=5",
         "image": "",
         "publishedAt": "2026-09-14T21:45:20.000Z"
-      },
-      {
-        "title": "Tres candidatos plantean agua, salud y vías para Ocuviri 2027-2030 - Pachamama Radio",
-        "summary": "Tres candidatos plantean agua, salud y vías para Ocuviri 2027-2030 &nbsp;&nbsp; Pachamama Radio",
-        "source": "Pachamama Radio",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjVicmRJUHdsWkJST0NDVllhUTRPQVpxelM3dGx5aWV6clN1Nm5fQlprdFVQUnM4WkdGc1NxSGJ4cHBaRmhVUDMwemhpblNpV18tSzlRdWE0MzNMaDNjWDRzdVJRM1I2S0FOMmtqTGRmeTl3RUh3cktfRlZ1S2tPUzNwOXEwcHlsMU1Rd1htZTQ0MFZZX09kUQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-14T12:17:20.000Z"
       },
       {
         "title": "Oscar Reto: \"La anemia infantil es un problema de seguridad nacional\" - Diario Ahora",
@@ -210,6 +202,14 @@
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQXzJZczBTYjF1aF9LOTZYZEEwVkp3YkhvcEduRkFlcFhPSXdMUkQ1MHhzM3NJazZXa3Q3YzVROGZlald2dkltLUc2VVNYQWhlQTFiT291U1lsQk1JYmVpcEphcjVIWjVMUUxsZmpYUlFwaTc4Q2lpOTJ4M19kdEduWG1SM29UOUNEUVdURVFFVklXdlJWN0wwdUdDbEN4R0R0V1JEV1FEZ3VzOG1TY0ZrdEJ5SWdJM25YYVdCWjlsZEJBS19HNXBCMDBUV0pLWUhfei1EZm1CaDE4TVVsUzhMalg3Q3lhQ2R60gHuAUFVX3lxTE9mSlNrVE16X0ZHdFZZckYybFFkSVkxWWxaVXlmS1hqdWJ6WUYxUHU5NE1XVWQ0UE0xRWt5eVU3bnpWMWI3YnMweUlmMlNrMDhGRGxBS2VGMXh2ZkZKQXdoWW1tNWgzbEdiOEJTaXVuUlpoRGt6M293RXpnUUltM2pRWXhCZk9JYVhnZ0djb0NwTHhlS3U1bTVjRGJiQXVlQjFlRWU4dVZWcERzYzUyVnVMT1Ewcl9jb1NzZG9DQ3RidDRQNWlQQ0dJSjJDWFRZN2NMdGxTc2IxMHFZS1RYd1FibjZTWlZ2aVNObTZGeHc?oc=5",
         "image": "",
         "publishedAt": "2026-08-01T07:00:00.000Z"
+      },
+      {
+        "title": "Keiko Fujimori, mensaje a la Nación: fecha, lugar y ejes que marcarán su primer discurso como presidenta 2026-2031 - Infobae",
+        "summary": "Keiko Fujimori, mensaje a la Nación: fecha, lugar y ejes que marcarán su primer discurso como presidenta 2026-2031 &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUnB3bzVxUmd0OUYtcDl1b01PcVNtVzVac18zZGpEdWxSZTVWUGxiUGY2VHZYSHE1c0VQcG11Zlg3eHZLZkctY1JFSGE2UVRTNE1jcWxiTE9rTXdabGdJUTdsQTlhN2ZKYWxXczRBUGhUYjE0LXlfZElpWTltR2FRVnBCMnZROTU1a3ZxWXZhNlFIaTZVWjlBTWJoT21Tbmd3NmhHLVJGSnlOdjBtUHZ3VGJnelJKeTJaX0hpdWJJeklIR3B1N1dfZ01iZWlFV0xrT1d2bG1mc0JWVG9rRVVkalFxZmNsRkXSAYICQVVfeXFMTVVCcVFOaGV1T3c1U1Q5cFppVFBQZ0hma1ctVDVYbzdFUlBsZ0dETG9tWk1GSWFzRk5zUEtlY3h6SDB3OGhyTUpWVG9qdEdMOVVhUUZTbEFBYS1TZmFBQWpDN2lHN0VMQWdWMnV1NHU4WGNDVlB1eGZrMXNITmxqdmx2M0tYN2lzODdGZDVJVWVUbVhZeXhYNlktV1hkTmJHS0d4NjVEcEhKOTMxUkx0STA3WDYyMWJZc0YwU09lQVlESHkweTBxSmtmZ3BvZzBIS1dlRHJtVG9tQU1sU1kwYVg0cW1pcExDSzgyUS1kMmZvbTVPNXAyX3plMWM5TXNZWE5n?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-26T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -262,20 +262,20 @@
         "publishedAt": "2026-06-25T07:00:00.000Z"
       },
       {
-        "title": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión - Infobae",
-        "summary": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión &nbsp;&nbsp; Infobae",
+        "title": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 - Infobae",
+        "summary": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFBQRGNLOWxaMy1mT2RjU0RCNGw4TVNrRmlfX25qei10R09YTWltOXdNX1Fya1g0NEk5S2hhUnQzZmstM3o4bFNJS3QwbkFvUGs3dmx6TktrMDZZSEkzTkJVZ0ZEdmFaa0NUZk9pT1prS1gzNjVDeVMyUzdjWXlNQTNtSThQcnRyRjJ6YlZEWkw1WUF0aTZsQXRTWnJtRnYyX1Z0NDBCYm1PWGlOekJpeGlBS29qLUkzbTBFa1FKMmJnNDNrNDAxeWZn0gHkAUFVX3lxTFB5cjR0aTlsOEl3ZkZEeV9XR05Vb0RHblRDVTRpMFdTZTllMWdRaEpoSlZpSm5JOUZCbzBXc2pic0NMdG9OOGcwQk5fNWF2Wk9FYVp5RnU1WVg4ckU4eTJfT3FEOTN6cURTMjU2d1U5NUJmZ0ZseC1YdllmbEpuZTlnbThqeF9vSlVTb0cxSkZtZFBpTmcwakkzemxzcGJucU9JbFFic2hqNU9jSGVHWkdUTVNuNFFIb0x3S2pTNFBzRXptSF91N0EtSElUMi1kVldUYl9ocmVQLVNSZDY0V25QNV9iRA?oc=5",
         "image": "",
-        "publishedAt": "2026-06-10T07:00:00.000Z"
+        "publishedAt": "2026-06-18T07:00:00.000Z"
       },
       {
-        "title": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú - Business Empresarial",
-        "summary": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BXc0NCUE53Q1dicXN4ZXFJY3RHNmhlQnh1UG81VHItc29JbE5KdDViOTB1OW5Ja3V4dTdWRWZGLW1zRlVHUVJPNFMyS2h6YzR0THpaeC1EbmdfTlJNQzB4RkJ2VU9wZWN5YjZuelBIUG1DZlVxeURaVTdIdjZTRGdtUmRKaEEzY2dKd2pKS0h2RjUtN1JualhXY3lPbVdIdDlaRFdnRWNUd2p2b1RtTjJQcUx6d21ZNkdkT0dSWU9hV3Nya09UckFMNmFIUQ?oc=5",
+        "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
+        "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
         "image": "",
-        "publishedAt": "2026-05-27T07:00:00.000Z"
+        "publishedAt": "2026-06-17T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -346,12 +346,12 @@
     ],
     "ia": [
       {
-        "title": "Maite Vizcarra advierte impacto de la inteligencia artificial en el empleo en Perú - canaln.pe",
-        "summary": "Maite Vizcarra advierte impacto de la inteligencia artificial en el empleo en Perú &nbsp;&nbsp; canaln.pe",
-        "source": "canaln.pe",
+        "title": "Maite Vizcarra advierte impacto de la inteligencia artificial en el empleo en Perú - Canal N",
+        "summary": "Maite Vizcarra advierte impacto de la inteligencia artificial en el empleo en Perú &nbsp;&nbsp; Canal N",
+        "source": "Canal N",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT3R4aVpVc2FLT2w2c2Q0Qlk5Z2gwRzFBWDJBMktVeU1ScV9Pb1RyNHJBbDJ2VjQ3OF9waUU2T3lNZU5NLTJvYVR2enpiQTlfVGtSQVlVRGpHaVI2V1FVaTdEeU1tTGtjaUNMTmc1Q2VBakxTTzJ3Tkw2VXJBMlUtWktlMUhoclhnYWVKdFJVQ2RHNGRReHFJYk9VT2pQZjlraDNOWEVDZXV0ekFsX3ZzS2dZVUJ3WkRVU2dvRzVMZ2xkRmZmOUFqU21B?oc=5",
         "image": "",
-        "publishedAt": "2026-09-17T16:06:45.000Z"
+        "publishedAt": "2026-09-17T19:36:45.000Z"
       },
       {
         "title": "Daniel Noboa anuncia sistema de control fronterizo con IA de Emiratos Árabes Unidos - El Comercio",
@@ -534,10 +534,10 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina - Infobae",
-        "summary": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOajFsLUtIcVlCbVlEeDJrZERUeklvOU1Hak5IRjdkWWRuTjhuR24zTnRkNDFONDRHelY2RG9QU2FobEYwdUQxRDRYX3N0QTFqenR3aU43NUJPRWlVUnExalVDUlVwZ0d0WFRud2dYNENFRHd6d0JPWTQ3WlNCM3pjNEJ0R0R5dGlwZVJ0Yk90MDNzWlZrZXYwbGd1ekN2NzkxdFB1dThxYjBLSDVBNF96d3VNYS1ZNHNwc21WMWhwSFdCamJtd3FwczY4V0lIcFZaLVHSAewBQVVfeXFMT29fdXdnLWEyMlBwSDlqZEVOT3ViRkhla192bHU0bnh1MzNoVGFMZkttSmlFOURhVmNUeVFqLXZoMXVUVHg2M3JZZXo2SjMxY2dCUGJrUWNMX2l6Zk9GVU9HVjZrUnhDMEpqRmp1bU1vM3lfbTZJZ0VJQnR6QnJZLWJPV081YnNhMXFqOEh0ZTVSMHM3RzkwNDlRSE5XMU4wMHJ0T0VzZU5ZNXdudENQNjQtM2FXM3BIS3RmWUY5SzMyUU5pQ1lEc1FldW1RWlM2cEt1NEtQRFdjNm8zcE8tdi1UeWVpY1NadHNnWTg?oc=5",
+        "title": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula - La República",
+        "summary": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdkttUlMxUDlJSFM3dC1ZMUhLeDdZRDBsZGh3ZE53NnpMOWpCbG1nN1ltc1ZyV0JPbnloY0RSUW0yNU1nSFRiaWZwRXc0MVBBSWVPY2RhcVN4OGlLU20wQ1RaM1NIMHJfY0RVc0czWWdGTVh3azIwdTZVRldCZFdJYXJPNVE5QzNMeFA0RXEzRzAwRHNlT0NhMlZmTVdUemNlbTBzRGw1MEh5bjkwdENkQTFKcEtpNDk1bk01N1FNbW5xak12aGk4cWh0NFhydEtadG42RElFVEpuOUlaRFNfNmlGLTNENjBTMnd2TzN3OF9ZVFdmaktlZzROdXdEaExFbzVGRmpyN3R0d9IBjwJBVV95cUxNWkFhRzkzdkRBTF9aNHVTRXV2T3VBQTBiRFZQb0hoNktPYW1RclNIME90SHhYZ01Gazc1ZmZLWUxuUmhyWTJncVUyZ2o4bWVGS3ZJQS1FYVk4cVdLTm16TkwwWDVNTFpEV0lGb29aWTBNV2tMRVJDUU5HWmtzOTh1OW9SUnJGSW1GRFduU0F1TVBJdWQxYno4X1RETURES09iTTZjZ1pOVTNKQjk4NEV4Q2t0ZjhQUlk5VXdmYTNRbE81Qi1OUW8xMHE0bWt4d3FCZmdJV3d5NUVVaHdBdGRmSmFyNVRkb2FxaVJEdlcxbXJBd2kyQzhUbDl3QmpFNVBMREk2Q2VaLXNyMkU2czVj?oc=5",
         "image": "",
         "publishedAt": "2026-07-26T07:00:00.000Z"
       }
@@ -558,6 +558,14 @@
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNnBsekZxUkhLV3VkTVl6S1dxLUlJaXZPZjF1TE9GMFJnTUJRQWtGLVlPQTlFNVZabVdSeGRscGFTbmRJRThMdW5zRXhRaXA2dU5tNk5nTVl0ZmFadjJPeW9yTzJtY3FwUUFYVFBUTlkySzNXdm56dTZQa1p6V0ZtRS0xeHdWSmotTjM4TFpXOEZsODRRTnI3UHFxVWdqNlJuRVRRV3NyU0dnZ0trX3NtbHRzaHAyYk5RTmlHTkctR1A2cXNuQlJnUzFTUG1BcE0tSGdtc3JZUXJYdnQ2VS1jR3kzajBkOEUwZGx0elB2dTN5Q0pjaG1tV3NoR3HSAZcCQVVfeXFMTWMydDVBdFhCMXdLbXVsZXBsZWZYeklCZnNsbjVFUTFJVGtzUjRIWTFfQ2VRTGMweG0zZDdKMkR0blVLS0JTMkxOZk0wcmxWNzVsYTdpT3lFNEVhTDRzOTZ4MFd3LVotS0tMc2QyNTZfS1dFTEJnRFBmQlhmRUVFRjNUMVNuYnpyWDVoakVIb21NMXZ6aHFLSHpiM2FTTTdweS1UalhYY2w1WVFXLWtCaUxOdlZPemVfTnRldWx1VV9KSHpSaENIUDQxQWRzeE1Cc0pyTi1WbTVQUER3STZsRm5SNUFzZ3E5N3U4N3lFclZ1UExrQkU2R2dTZnh6M1pUdzNjQzVTVmlWaElwQ1c0WWlLR1NFTmNR?oc=5",
         "image": "",
         "publishedAt": "2026-09-13T19:07:00.000Z"
+      },
+      {
+        "title": "Agenda cultural en Lima del 3 al 10 de setiembre: Ricky Martin, La Tarumba, ‘La Profesora’ y la apertura del nuevo Paradox Park - Infobae",
+        "summary": "Agenda cultural en Lima del 3 al 10 de setiembre: Ricky Martin, La Tarumba, ‘La Profesora’ y la apertura del nuevo Paradox Park &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeV9mZEM2dHUwYktIZ1MxTTNvWWtnMmRNTFl0S2VzcUlydTRWQUVlcGJXU3BKZzFDMlk5alR2QklJYXNjMnpmYmd0Sm9nZFIzUG5JazZ3ZU5Lbi05MGlOdVcwNy1ZUEpZUU5mWTdrTHVMSGdVTjctNkdSUmlYaDZ3V25VTzJoa19GU0ZXaFplOGhJT0M3YngwdG9wSkI1U1VCMllpdDdhYkFqVjN4QzhVX0luNUhRRkdxS0c1YTRlSGRKOFVRSW92cjhUdUQyRkpBRFJ2LUhRYlpORlYydzk1QlRrcDRXRHZ0ZEVjWU5BZVgydHRJ0gGPAkFVX3lxTE40dDg2UjlEN0VJczBwVUF2Uk5wVUlORV9oNUg2MEx6QXFFQzM2bHJydGNLZHQ3UTNRc0N4dmExdGZ1NndSOTVKdnlsTHdZQVFzOThBRUhwbGp5c1BYZDg0a3dWYzN4Ty03M0tIRXVZaHBHS0xZU241ODI2UGFKZTZXcGlTSi1CMXhOTmlCNUkyRTBlN1RjMXJhTGMxOThVR0ZhQ3cxY0RwRmFBN0FMVkRFUHEwcVUyaUVkM1I4aGJIMUJvTG5GMjJhN0Vudk9MVjU3QWN1QXNXZUNtOVlIUWNFVkxEMzMxUjZibU5obkhpalA3cERvWFh6bTMzTDhkbnBZdFRNNkh1OHVSQ2tEbEk?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-05T07:00:00.000Z"
       },
       {
         "title": "Agenda cultural en Lima del 27 de agosto al 2 de setiembre: Black Eyed Peas, Paulo Londra, Animatissimo y el Festival Escape del MALI - Infobae",
@@ -582,14 +590,6 @@
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSm11R1lUbDRJM2U3LTdqaEFMUk4wNXlhekZsWVE2eXB1N2RiaWlSeEJ2WFh6eTdKaGN0OWlUc1NOQlFOUl9kaWhQZ2lEYmVTaEsxam5aUzRCRFdzTjFBWmpLdlhRV2RSTHdtWFk0U0xRcHJYUDZ6MG94QjlqSkRwZ2lCUDRKWWxrd2w3ajMtYmtSMWR2OFNHd3VDaG9sSGM0Q2FtREd2OWEwSUZxaUQ4cjBUNjNJblBvUlZLX2NSTWdwZEprVlR0VdIB4wFBVV95cUxPV3VVd0dJMHdDeXJwVHRGVHZ1dkVhLVgzaVY2X0FqRmNSZm9zOVVtNVBKTXFUUTZZWVBFSGhYdUV5N0QyWVAyUWVWQUZfLTVGamUxU3cyQlZwcjk1b2pkRWthVVJ2bUxGbzRrTGdhMmJ2OFQxVHU4VDNqdHJKXzREQlQxdVBDQjJ0R1k5ZVR0S0Q1eV93b0VsQ0ZyeGVhNkdnV3R4WFF2dWViNi12dFhsRFNiWXhmcVMtXzBOT3A2N3JWaVZEUVF1MWo3MEZ2Qkh3UG9wdW0wSXY3SFVlV2JwYk5BRQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-22T07:00:00.000Z"
-      },
-      {
-        "title": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones - Infobae",
-        "summary": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTTZDSUpUY3djZ1R3U0lOUzRLVVV6OGFpNGZvRm83N0dTV2VlclhHT3U5YlVzX1NLMUFzdUx4cHZrX2FhdGhDeGtYOWZwZ1VyUnZiZEIxRUw5NmhZUG93WHZJNUFHUzRTMHBtVTRQUE91OFprb1NlMXhsbkF5ZHZINWxweFVsVzRJZlpUcFI2Mks5andzSTgwNVhUZXJsaVl5bUhrMXFLX0JMWDgtNEtWbW92YXVBS19kQ1dYS1hqSEt4YVpnaFNqeFVHQzhqbVBIZnFnUEcyOXdqUnFZNllOZG5aVjlsbUtlV21JZ21aTjRkNlNyOEYwZnVhbnhSdDNadVRZbUNvYjPSAaMCQVVfeXFMT0lVVzhVeG9mNGZBb2diQW9Bd1ItVlppWDFzMmt4eDAyY1ZYMjVQUWpzN2hzMGpfR3RqRGhVS3NGZm04ZlBnaGxsUXozY1o1ZlFkWjl3aElHZjAyaWo0SDR1VU5SM09KSm1HWkRTeDlSa1Z5bGVpZS0yN0s2cVYxRFBvUjRwZHV1eHFnbUx0RlRaLUdSU0JPWmdSY0V2SXE0QUpFbGlCa3JtOE0tOHNCMWlsV19wTi1ienIyLTdubnJCUXQ0T2xkSTluVENhVENBeEcwZVM4NlZjS2IwS3NhbTRNQ3d0cFlLd3JWakw2Wl9YbTBkcGowYkVYU2NKbVl4eXdVa2FNZ3FlVVNpejg4T1FQaUxmZlR2Rk9idk9RLVV4cmtB?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-21T07:00:00.000Z"
       },
       {
         "title": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto - Blog Joinnus",
