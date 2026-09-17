@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T22:08:21.138Z",
+  "generatedAt": "2026-09-17T00:28:29.346Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -22,6 +22,30 @@
         "url": "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
         "image": "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
         "publishedAt": "2026-09-01T00:00:00.000Z"
+      },
+      {
+        "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
+        "summary": "Fuerza Popular | Desde que empezó a participar en elecciones subnacionales, el fujimorismo redujo su oferta electoral en más de la mitad.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/ecdata/en-16-anos-fuerza-popular-solo-ha-ganado-3-gobiernos-regionales-y-no-ha-colocado-un-solo-alcalde-en-lima-metropolitana-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/3ZQHU5EOGNH33LU7J6EN3J4QSE.jpeg?auth=05b2ba86279d4f5e8c5af8ea35780dce6caca06e15b2546119eb9e3be8b10463&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-09-16T23:56:00.000Z"
+      },
+      {
+        "title": "El nuevo Congreso bicameral alcanzó un nuevo récord de mujeres, pero el Senado aún está lejos de la paridad",
+        "summary": "En 70 años, las mujeres pasaron de representar apenas el 4% del Congreso a ocupar el 37% de los escaños. Pese al avance, la nueva bicameralidad evidencia una brecha pendiente: solo el 27% del Senado estará integrado por mujeres en el gobierno de Keiko Fujimori",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/ecdata/congreso-keiko-fujimori-senado-diputados-bicameralidad-palacio-de-gobierno-mujeres-martha-chavez-fuerza-popular-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/5CNBAEYKWVE53IHCVZAYKUV5CA.png?auth=8e7a13e206d920b70ddfca603c0c9325c76a88346ce797f823ffcb326f891177&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-09-16T23:54:00.000Z"
+      },
+      {
+        "title": "Embajador de Corea en Lima Choi Jong-uk destaca relaciones bilaterales con el Perú",
+        "summary": "Durante el Foro de Diplomacia Pública Corea-Perú 2026, el embajador de la República de Corea en el Perú, Choi Jong-uk, destacó la evolución de las relaciones bilaterales entre ambos países así como los vínculos en diferentes ámbitos como el político, económico y cultura.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/internacional/embajador-de-corea-en-lima-choi-jong-uk-destaca-relaciones-bilaterales-con-el-peru-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/HTTIDV7B4ZHUBKWO7UXKVYIP2A.png?auth=ff6152d71ede81fbd9f857a66ace2a24c5ac3388e6b2da4cc8cba34018313540&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-09-16T23:12:08.000Z"
       },
       {
         "title": "Canciller sobre ingreso del Perú al Escudo de las Américas: “Representa una excelente oportunidad que debemos aprovechar con pragmatismo”",
@@ -48,102 +72,78 @@
         "publishedAt": "2026-09-16T21:06:49.000Z"
       },
       {
-        "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
-        "summary": "Fuerza Popular | Desde que empezó a participar en elecciones subnacionales, el fujimorismo redujo su oferta electoral en más de la mitad.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/en-16-anos-fuerza-popular-solo-ha-ganado-3-gobiernos-regionales-y-no-ha-colocado-un-solo-alcalde-en-lima-metropolitana-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/3ZQHU5EOGNH33LU7J6EN3J4QSE.jpeg?auth=05b2ba86279d4f5e8c5af8ea35780dce6caca06e15b2546119eb9e3be8b10463&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-09-16T20:56:15.000Z"
-      },
-      {
-        "title": "El nuevo Congreso bicameral alcanzó un nuevo récord de mujeres, pero el Senado aún está lejos de la paridad",
-        "summary": "En 70 años, las mujeres pasaron de representar apenas el 4% del Congreso a ocupar el 37% de los escaños. Pese al avance, la nueva bicameralidad evidencia una brecha pendiente: solo el 27% del Senado estará integrado por mujeres en el gobierno de Keiko Fujimori",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/congreso-keiko-fujimori-senado-diputados-bicameralidad-palacio-de-gobierno-mujeres-martha-chavez-fuerza-popular-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/5CNBAEYKWVE53IHCVZAYKUV5CA.png?auth=8e7a13e206d920b70ddfca603c0c9325c76a88346ce797f823ffcb326f891177&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-09-16T20:54:43.000Z"
-      },
-      {
         "title": "Ministro del Interior será interpelado por el Congreso: Estas son las 27 preguntas que debe responder este jueves",
         "summary": "Ministro del Interior interpelado por el Congreso: Estas son las 27 preguntas que debe responder este jueves",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/en-vivo-cesar-astudillo-interpelado-ministro-del-interior-acude-al-congreso-estas-son-las-27-preguntas-que-debe-responder-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/ARC6NUYQ6JGXDI62TJLUFLHKT4.jpg?auth=9ffe8b17a25f6ccf9b16869e7a1cd3ed9323c7bddf3f317026c576d3b024c0b7&smart=true&width=912&height=592",
         "publishedAt": "2026-09-16T20:38:19.000Z"
-      },
-      {
-        "title": "Congreso autoriza viaje de Keiko Fujimori: Esta es la agenda que cumplirá en la Asamblea General de las Naciones Unidas",
-        "summary": "El pleno del Senado aprobó este miércoles 16 de septiembre el pedido de autorización para el viaje de la presidenta Keiko Fujimori -el primero desde que asumió el cargo- a Estados Unidos, a fin de participar en el 81° periodo de sesiones de la Asamblea General de las Naciones Unidas.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/congreso-autoriza-viaje-de-keiko-fujimori-a-estados-unidos-esta-es-la-agenda-que-cumplira-en-la-asamblea-general-de-las-naciones-unidas-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/NP6ZDAL775B5XFMUCA3FEV524Y.jpg?auth=43a5120c68f744a4a33fe0e4d29e56b237fa364048cf86a6215ff6a38073347d&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-09-16T20:36:29.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Indecopi sanciona a Integra Tec con millonaria multa por compra de Telefónica del Perú",
+        "summary": "La compra de Telefónica del Perú por Integra Tec International Inc. abrió un caso relevante para el régimen de control de concentraciones empresariales. El Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual Indecopi determinó que la operación debía ser notificada previamente ",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/indecopi-sanciona-a-integra-tec-con-millonaria-multa-por-compra-de-telefonica-del-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/47VGJ5R5DRBX5DMW3W7HISD3UI.png?auth=6c25ab69b4fd9d318f5afe9bf17d6bb3ada35cb2ea82b22a94846c70b293eff4&smart=true&width=1672&height=941",
+        "publishedAt": "2026-09-17T00:20:01.000Z"
+      },
+      {
+        "title": "¿Cómo buscas en el navegador? La mirada de Google sobre el cambio en los usuarios",
+        "summary": "Representantes de Hiberus Media Labs (España) hablaron de la adaptación de la inteligencia artificial de los medios de comunicación, tomando como referencia experiencias de Xalok Assistant.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/google-la-evolucion-de-las-busquedas-y-la-ia-en-las-redacciones-de-los-medios-de-comunicacion-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CVQOVFAW4JFOLPHFU6RT7DDRR4.jpg?auth=ea50f2979b4aa5dee4c3488eb8bd65aa962e4961bcd333907c21da7aa7e5f4e6&smart=true&width=1300&height=800",
+        "publishedAt": "2026-09-17T00:12:07.000Z"
+      },
+      {
+        "title": "EsSalud en “UCI”: costaría S/ 39,494 millones recuperarse, según MTPE",
+        "summary": "El MTPE plantea que Sunafil recupere la fiscalización de mypes y que EsSalud vuelva a Fonafe. Sheput proyectó un déficit de S/ 1,957 millones para 2026.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/management-empleo/essalud-en-uci-costaria-s-39494-millones-recuperarse-segun-ministro-del-mtpe-juan-sheput-noticia/",
+        "image": "https://gestion.pe/resizer/v2/ST634NWROFEQTEWKLXXXKBO4GM.jpeg?auth=612bfbb4f8a38423a24d6a68182fd77c818581159c8ec9e948df8823e6d74448&smart=true&width=554&height=368",
+        "publishedAt": "2026-09-17T00:07:19.000Z"
+      },
       {
         "title": "Sunafil volvería a fiscalizar mypes y EsSalud regresaría a Fonafe: cambios que alista el MTPE",
         "summary": "El MTPE plantea que Sunafil recupere la fiscalización de mypes y que EsSalud vuelva a Fonafe. Sheput proyectó un déficit de S/ 1,957 millones para 2026.",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/management-empleo/essalud-regresaria-a-fonafe-y-sunafil-volveria-a-fiscalizar-mypes-cambios-que-alista-el-mtpe-noticia/",
         "image": "https://gestion.pe/resizer/v2/HWWW5TNF3JHEXLQEOJ6GILR7G4.jpeg?auth=904c209ce00508b933a9188357e3242c3fda97f28bbd92f3942dc65fe65d94ad&smart=true&width=2560&height=1706",
-        "publishedAt": "2026-09-16T22:00:59.000Z"
+        "publishedAt": "2026-09-16T23:55:36.000Z"
       },
       {
-        "title": "Llamadas comerciales en Perú empezarán con 500: ¿“carta libre\" para que empresas te contacten?",
-        "summary": "El Gobierno creó una numeración especial para identificar llamadas y SMS comerciales. Se establecen 6 meses como máximo para adecuarse. Expertos explican los principales impactos.",
+        "title": "Sueldo promedio en Lima cae por primera vez en 4 años, ¿qué pasó?",
+        "summary": "Los ingresos de los trabajadores ajustados por la inflación retrocedieron por primera vez desde setiembre del 2022. En general, el mercado laboral continuó presentando resulados positivos. ¿Qué factores “acechan” los salarios?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/llamadas-comerciales-en-peru-empezaran-con-500-carta-libre-para-que-empresas-te-contacten-noticia/",
-        "image": "https://gestion.pe/resizer/v2/M7E7W4ZSLBCHHAMWPHQMKXL63M.png?auth=0dbb5246da98542b1cef2c6df291d36ec8f6ff99a615983048357514aa77cfaf&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-09-16T21:54:00.000Z"
+        "url": "https://gestion.pe/economia/sueldo-promedio-en-lima-metropolitana-cae-por-primera-vez-en-4-anos-por-la-inflacion-coyuntural-o-marcaria-una-tendencia-noticia/",
+        "image": "https://gestion.pe/resizer/v2/ARKAD7MORJC7TCWF3ESFOPUDMU.jpg?auth=4f5c038c6d55222597f17ccc8608a602c4e9fab99e4bfd83c7d6d7a8b4d908ac&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-16T23:43:00.000Z"
       },
       {
-        "title": "Gobierno presenta a 7 comisionados para reformas en 4 temas: ¿qué plazos hay para propuestas?",
-        "summary": "El titular del Ministerio de Economía y Finanzas (MEF), Elmer Cuba, a pocos días de tomar el cargo, a inicios de agosto, anunció que el Gobierno de Perú formaría cuatro comisiones presidenciales para dar pasos en reformas de segundo nivel, aquellas llamadas estructurales.",
+        "title": "¿Adiós a un solo sector?: 6 de cada 10 profesionales recolocados en Perú cambian de industria",
+        "summary": "La salida de un trabajo, que puede ser un momento difícil para muchos profesionales, también puede convertirse en una oportunidad para iniciar una nueva carrera en un área distinta o explorar nuevas formas de desarrollarse. ¿Cómo avanza la recolocación laboral (outplacement) en Perú? LHH, que forma parte de Adecco Grou",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/gobierno-de-keiko-fujimori-presenta-a-7-comisionados-para-reformas-en-4-temas-informalidad-inversion-publica-tributario-y-mercado-financiero-que-plazos-tendran-noticia/",
-        "image": "https://gestion.pe/resizer/v2/O4HLFCS5IBCW3A2AWPL2KIOE7Q.jpeg?auth=c8375a8210ada6c59873f1fdc5d76a8f2b086527666b83ff448f1b5850b565a0&smart=true&width=1280&height=853",
-        "publishedAt": "2026-09-16T21:53:37.000Z"
+        "url": "https://gestion.pe/economia/empresas/recolocacion-laboral-en-peru-6-de-cada-10-profesionales-cambian-de-industria-que-sector-los-recibe-noticia/",
+        "image": "https://gestion.pe/resizer/v2/NAI5YZB4KRAJZENFEVGBFGK62Q.jpg?auth=d808a1fd1804043b39410341db49512151cc9f219c697b43409916013403d184&smart=true&width=513&height=285",
+        "publishedAt": "2026-09-16T23:30:23.000Z"
       },
       {
-        "title": "Fed sube su tasa de interés por primera vez desde 2023",
-        "summary": "En línea con lo previsto por el consenso del mercado, la Reserva Federal de EE.UU. elevó su tasa de interés en 25 puntos básicos. Su presidente Kevin Warsh había deslizado esta posibilidad.",
+        "title": "Grupo Poma busca nuevas oportunidades en Perú: las opciones tras operación de InterContinental",
+        "summary": "Real Hotels & Resorts, división hotelera del conglomerado salvadoreño Grupo Poma, dejó atrás la etapa de incursión en el mercado peruano y entra a una fase distinta. Tras poco más de un año operando el InterContinental Lima y el Hotel Indigo Lima en Miraflores —dos activos que juntos suman cerca de 400 habitaciones—, l",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/mercados/fed-sube-su-tasa-de-interes-por-primera-vez-desde-2023-noticia/",
-        "image": "https://gestion.pe/resizer/v2/XIAKAFZG5BCV3AU7OYYCI3IUTY.jpg?auth=fa26259d7e7f8b100d7feee2c3c29fa2fd70605917f27867fe319eed3bced17a&smart=true&width=1200&height=900",
-        "publishedAt": "2026-09-16T21:52:05.000Z"
+        "url": "https://gestion.pe/economia/empresas/grupo-poma-va-por-un-tercer-hotel-en-peru-el-plazo-que-maneja-para-decidirlo-noticia/",
+        "image": "https://gestion.pe/resizer/v2/RRR7HM3ZY5DMHL573TZXPCI3TQ.jpg?auth=ad84b2cddbc0e21522ef6cd4d949ef5ef7a549a56be90677a7f6eef201a28a71&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-16T23:15:00.000Z"
       },
       {
-        "title": "Mypes formales en Perú aún no recuperan el nivel que tenían antes de pandemia",
-        "summary": "Perú cerró 2025 con 801,134 mypes formales, 18.3% menos que en 2019. ComexPerú advierte un estancamiento en su capacidad de formalización.",
+        "title": "Gas natural: Cámaras de comercio exigen masificación en cinco regiones y piden plan al Gobierno",
+        "summary": "Gas natural: Cámaras de comercio exigen masificación en cinco regiones y piden plan al Gobierno para extender alcance del gas natural en Cusco, Puno, Huancayo, Apurímac y Ayacucho.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/mypes-formales-en-peru-aun-no-recuperan-el-nivel-que-tenian-antes-de-pandemia-noticia/",
-        "image": "https://gestion.pe/resizer/v2/YLSM24NA4NAL3AIPMBA5L23FTE.jpg?auth=2143ace64f40d63ae3156f11d641c2b1bbfb6ee22ddf894c7ee484d9a2931c7c&smart=true&width=1200&height=900",
-        "publishedAt": "2026-09-16T21:48:11.000Z"
-      },
-      {
-        "title": "Alza de tasas de la Fed impacta en acciones y bonos, ¿cómo reaccionó el mercado?",
-        "summary": "Las acciones y los bonos suben ante la decisión de la Reserva Federal (Fed) de elevar las tasas de interés por primera vez desde 2023 para combatir la inflación persistentemente alta, lo que refuerza su credibilidad.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/mundo/eeuu/acciones-y-bonos-suben-ante-alza-de-tasas-de-la-fed-para-combatir-la-inflacion-noticia/",
-        "image": "https://gestion.pe/resizer/v2/PXM4OZLQKRGI7FFDW5S2IH5ML4.jpg?auth=3ad0d379b536355bc4002aa6f5c4e7c3a6e804591ba1323cf2ef1c0adfb97be8&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-16T21:45:00.000Z"
-      },
-      {
-        "title": "Evasión tributaria tendrá Comisión de Alto Nivel: quién comenzará la reforma estructural",
-        "summary": "Tendrá como propósito formular propuestas orientadas a incrementar el cumplimiento tributario, reducir la elusión y evasión, ampliar la base tributaria, entre otros.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/evasion-tributaria-tendra-comision-de-alto-nivel-quien-comenzara-la-reforma-estructural-noticia/",
-        "image": "https://gestion.pe/resizer/v2/4WU4Y5PEIJBMDBXPFTCFEAQBYM.jpg?auth=29a6d6ca77923712ccebd9199f60dcfc9eef3294afaf2b4fc3d44cc86e14224f&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-16T21:23:14.000Z"
-      },
-      {
-        "title": "Mercado de almacenes: la nueva ruta de inversión y ¿quién prepara su ingreso a Lima?",
-        "summary": "El mercado de almacenes logísticos clase A mantiene una baja disponibilidad y atraerá nuevos actores. En el segundo semestre, el oeste de Lima concentrará la mayor parte de los nuevos metros cuadrados, mientras que para 2027 se proyecta una oferta superior a los 140,000 m². El mercado de almacenes en Lima sigue mostran",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/almacenes-logisticos-clase-a-en-lima-suman-nuevos-jugadores-y-proyectan-mas-de-140000-m-de-nueva-oferta-noticia/",
-        "image": "https://gestion.pe/resizer/v2/EOBHK3IUFZDOVOF4FKTZO3N52Y.jpg?auth=5d879d58226b7290f5ad96d1a25097c2ff9017d87d7541f22850ed6f4f614eeb&smart=true&width=954&height=549",
-        "publishedAt": "2026-09-16T21:16:48.000Z"
+        "url": "https://gestion.pe/economia/gas-natural-camaras-de-comercio-exigen-masificacion-en-cinco-regiones-y-piden-plan-al-gobierno-noticia/",
+        "image": "https://gestion.pe/resizer/v2/LVEB4LRH2NF5DG3KFPQDY24CEE.jpg?auth=35c3fa0a325b6d61a9b87ff2a89e08035daf45ac0ad8a9f20afd366f112e920d&smart=true&width=620&height=357",
+        "publishedAt": "2026-09-16T23:04:48.000Z"
       }
     ],
     "sociedad": [
@@ -188,28 +188,28 @@
         "publishedAt": "2026-09-12T20:26:13.000Z"
       },
       {
-        "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
-        "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
+        "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - elperuano.pe",
+        "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; elperuano.pe",
+        "source": "elperuano.pe",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOF96RmlFdGF0MmZNd1M0VXdlM2tlQVU0MHBidWRKZ1ZaYmRYZjQteldIeDRYR0c4aFNENU1ackUzVzZ5Sm5OSU9JVXlhQU9ON0ZoYmt6UWRfX2xNcFd3bmNDbkpyUktwaVl4UUZwdlZIRmZDaldXd3dXRk02ZFZvb2VJNk9WLTZTVXJhQklYcWxGMkFWbmZHUG11OURpRE8xWWdpU3lOOHUxaFotNUJscW9qVUdfdFRkWUhubndPYnRYUUN5RncxVW1qVFMzck41SWJYeWV5eWVLZw?oc=5",
         "image": "",
         "publishedAt": "2026-09-07T22:31:00.000Z"
       },
       {
-        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - El Peruano",
-        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
+        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - elperuano.pe",
+        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; elperuano.pe",
+        "source": "elperuano.pe",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-03T07:00:00.000Z"
       },
       {
-        "title": "🔴🔵El Ejecutivo aprobó el proyecto de Ley de Presupuesto Público para 2027, que contempla S/266 506 millones y un incremento de 3,5% frente al presupuesto inicial de 2026. 🌐Más i",
-        "summary": "🔴🔵El Ejecutivo aprobó el proyecto de Ley de Presupuesto Público para 2027, que contempla S/266 506 millones y un incremento de 3,5% frente al presupuesto inicial de 2026. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; facebook.com",
-        "source": "facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcU9FYldIYlQ3a1J0elMxMVgybzJELTF2Umtsd0NEczRSXzhQYXFEWTVkY1dZYVh1VWVScVZVcjBuU2Nad0RZN3Y2azRCNHR1X2luQlhFb0hzbTdsLVNPb09Jczh4VjNjYjFCTWdrWllQZ1p5V2ZhVzlRNWpBa19NX1MzOVZKUERCanB5YWdlbDVUWlB1TFIzUnp1RmpkSllFN3Y5aFBSQ21QX3AwZ2RrdDlSY3YwQ0FCU2NVeWhrV3Nfd2dVTmU1TnhVakVITEo5X1pIak5xX293c1VjSmhoenVxNlJGcFJsR0xB?oc=5",
+        "title": "Keiko Fujimori busca reducir embarazos adolescentes sin enfoque de género ni educación sexual integral - La República",
+        "summary": "Keiko Fujimori busca reducir embarazos adolescentes sin enfoque de género ni educación sexual integral &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQXzJZczBTYjF1aF9LOTZYZEEwVkp3YkhvcEduRkFlcFhPSXdMUkQ1MHhzM3NJazZXa3Q3YzVROGZlald2dkltLUc2VVNYQWhlQTFiT291U1lsQk1JYmVpcEphcjVIWjVMUUxsZmpYUlFwaTc4Q2lpOTJ4M19kdEduWG1SM29UOUNEUVdURVFFVklXdlJWN0wwdUdDbEN4R0R0V1JEV1FEZ3VzOG1TY0ZrdEJ5SWdJM25YYVdCWjlsZEJBS19HNXBCMDBUV0pLWUhfei1EZm1CaDE4TVVsUzhMalg3Q3lhQ2R60gHuAUFVX3lxTE9mSlNrVE16X0ZHdFZZckYybFFkSVkxWWxaVXlmS1hqdWJ6WUYxUHU5NE1XVWQ0UE0xRWt5eVU3bnpWMWI3YnMweUlmMlNrMDhGRGxBS2VGMXh2ZkZKQXdoWW1tNWgzbEdiOEJTaXVuUlpoRGt6M293RXpnUUltM2pRWXhCZk9JYVhnZ0djb0NwTHhlS3U1bTVjRGJiQXVlQjFlRWU4dVZWcERzYzUyVnVMT1Ewcl9jb1NzZG9DQ3RidDRQNWlQQ0dJSjJDWFRZN2NMdGxTc2IxMHFZS1RYd1FibjZTWlZ2aVNObTZGeHc?oc=5",
         "image": "",
-        "publishedAt": "2026-08-29T07:00:00.000Z"
+        "publishedAt": "2026-08-01T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -346,6 +346,14 @@
     ],
     "ia": [
       {
+        "title": "Fraude e inteligencia artificial: el 88 % de los peruanos quiere aprender a reconocer engaños creados con IA - diarioelnoticiero.com",
+        "summary": "Fraude e inteligencia artificial: el 88 % de los peruanos quiere aprender a reconocer engaños creados con IA &nbsp;&nbsp; diarioelnoticiero.com",
+        "source": "diarioelnoticiero.com",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObzhrTFZGZzBvWXBhOW11dGF0UC10b05zdlMzd08xRHVBV19wV1I3aWliS0ljbFMxN1lYSlpSQVVFWmE0YllNMFNOTTNwdUlwRERFdEZTWEE1UV96MndOLWE5dm5XVDMtQmtHd2J0R1ZzV0hMZ3lTclJhQ2pVY2gtWjE2Z3VPWloxOFdvUjIyZE9fSjNHLUZyTXpPeDJnWVFDcHZhNmtrZ2Z0a1hnWldfcHZIdlRJZUVyWUEwR1J1REN6RzNHR2xXSi1GbmY1a2VEcXc?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-16T21:08:48.000Z"
+      },
+      {
         "title": "La IA se abre paso en la industria peruana: minería, agro y energía marcan la revolución tecnológica - Infobae",
         "summary": "La IA se abre paso en la industria peruana: minería, agro y energía marcan la revolución tecnológica &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -354,9 +362,9 @@
         "publishedAt": "2026-09-15T19:40:00.000Z"
       },
       {
-        "title": "Perú: regulación de IA debe impulsar innovación sin frenar el desarrollo del ecosistema digital - El Peruano",
-        "summary": "Perú: regulación de IA debe impulsar innovación sin frenar el desarrollo del ecosistema digital &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
+        "title": "Perú: regulación de IA debe impulsar innovación sin frenar el desarrollo del ecosistema digital - elperuano.pe",
+        "summary": "Perú: regulación de IA debe impulsar innovación sin frenar el desarrollo del ecosistema digital &nbsp;&nbsp; elperuano.pe",
+        "source": "elperuano.pe",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSFFOMjNjdXBPNVRObW8yd3JJZW8zMHhfNlZacGhaWEdRbWc2YjJOM2lpWUVYQTNrSnQxR1JpVFFmVzhBWkhXbDhYbnFsMEZ4dnpQa3hxRVAwT0VyMmRwTzd3bks1SDN3bWlCOU9NZUN3T0JrS3AxSGNxNUprZjRtSXNQUGRkOURNTklIdHg0UzZRTDhNV0RuUEFUemJUOUJPMkpfbzhDMk83UmJUSGg0amM4SUpxb0dtX3B3N280WFRoOUN0aWkyOVh3?oc=5",
         "image": "",
         "publishedAt": "2026-09-15T16:38:00.000Z"
@@ -386,28 +394,20 @@
         "publishedAt": "2026-09-15T01:51:58.000Z"
       },
       {
+        "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - Diario Ahora",
+        "summary": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú &nbsp;&nbsp; Diario Ahora",
+        "source": "Diario Ahora",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUwwRm5ROVRhYTJuX0RCWEVaNW4yU1lQU0k0anlPcFRITnJEZTItWXJnVDF5MkYxODhCSV9sSWRJelduRjFLRnNYTDZGVG15WVdDQTJkRUpBVFd4V2FZazA2Q3ZvNGgxV2M3Z2FlcEl5cHJESEZoRWwyM0VPQ2MwWlpBc3BSakN3N25NTi1UNU1rWEhwejBONjQ1dTdUS3Y5Y1RUc0Y4dkpOZzFvTFJsWnZJREZGMmpwb2tPeFpyRnpha1Q5MWRlQw?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-14T17:07:55.000Z"
+      },
+      {
         "title": "¡Alarma total!: El peligro invisible de la IA desata la guerra total entre EE. UU. y China, mientras el Perú enfrenta el abismo del desempleo tecnológico - larazon.pe",
         "summary": "¡Alarma total!: El peligro invisible de la IA desata la guerra total entre EE. UU. y China, mientras el Perú enfrenta el abismo del desempleo tecnológico &nbsp;&nbsp; larazon.pe",
         "source": "larazon.pe",
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPOExWU3ZXMllIS2hGQXBncnJDMzcyNGRZZ2lGcWFDbXlHTmU5dnFBUnVOLXNPcXE0MHdOODFVc2dlekQwQ3VBU3l1Y2tNY1lVWUVvbV9ZQldFYWYzZWJKWkVOeU5QQWhqb0o4bG40ajhob3JIZXlzSmxjZlZNeUxiSEx5VHNjSm1YTm5sRXU2cDhoeF9SZU1ydXZXY1RFblNCU1hKMTY3ZGpXbTVDc3RkbzV2Rm9YZ1hNSWJyVC1nLW16eGhnVmRkRE5JMTZjWk9oaU9NckZqSkdpeWVNdWNzS3gxLWZvVEFqZmFDLW5WSG1hM3pjSVJqSWtiaw?oc=5",
         "image": "",
         "publishedAt": "2026-09-14T15:16:37.000Z"
-      },
-      {
-        "title": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial - teleSUR",
-        "summary": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial &nbsp;&nbsp; teleSUR",
-        "source": "teleSUR",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzFCZlBlb0hJQ2QxVS1ZUzdTTTBMWGdETGRkSVR3ZHByRjBvVU9SdkU3RmhQRzZPN2sybE5jbmFvdkQxVEdEVVQ0amFOOFh6NkhOY1Q3S0l0X0J5aXNWWi13NTdmWElJXzZ3eVJKN2ZCSzNxRWxwM1o5aDM1OHVJcG5EUlpVQm1fM2hpWQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-10T11:34:25.000Z"
-      },
-      {
-        "title": "7 de cada 10 trabajadores en Perú ya usan IA, pero las empresas aún no terminan de prepararlos para su uso - Infobae",
-        "summary": "7 de cada 10 trabajadores en Perú ya usan IA, pero las empresas aún no terminan de prepararlos para su uso &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVER3X1pEb1VQeDJTVGZDcWRxUVFEOTlMczlGNXFveTFzWHdRbG52YWhndGlDTTdHRk9CMXBwbEZ3Y0xVR0o1WFdkbkhTQ1VyZXA4SDg1ZGdOdUxFc2hLZHgyQ1V6NGc3clExellickw3LTMyMGJNNU44VW9GQUtzZGJlX1dMZFB4UlZtcGZyeWxSVjB6MGwtbFhBQXV0VEhwdkNmaUdMdXNDaldzU0NvS05IUVltaXNEWVJqZVVCOHZwenhrbm9MUE5BNEdmRTRDREotUG1ST3M5UUZCUDJR0gH6AUFVX3lxTE04d3N2Q1NoZ282eVlEbjZtandqRTdqUWRSWnBocW1pS2tKVXpRNGwtYS1nUlkySmU0T2UzYVFkYjRFOU5JUWhobXZkQUhJVVVaMnhkdmk2RVpVSW85eU44MGdiUEh1UkVHcW9iYVhoenVKZDdXRXp4eUQ3Q3BnUHFZVUJpWVNWMC1ydGttWk9TN0RRNkY4TG1zZ1lvb0Zva0ViYTk0S1BRX1BQQ2J3OEZPRGl5SkViNVcwSko0MFo2T1pOcDh4Njd4YUR2RXp5WnJqNU5hbjd0Zmg5SUVIYUt5OV95TWhraURRZzNMLUtZY0xmWk5BZE15WGc?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-10T01:27:00.000Z"
       }
     ],
     "tendencias": [
@@ -436,17 +436,25 @@
         "publishedAt": "2026-08-30T04:30:15.000Z"
       },
       {
-        "title": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO - imagendeveracruz.mx",
-        "summary": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO &nbsp;&nbsp; imagendeveracruz.mx",
-        "source": "imagendeveracruz.mx",
+        "title": "¿Qué significa “farmear aura”? La expresión de la Generación Z que se volvió tendencia en Perú, Argentina y otros países de América Latina - La República",
+        "summary": "¿Qué significa “farmear aura”? La expresión de la Generación Z que se volvió tendencia en Perú, Argentina y otros países de América Latina &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPT2dmYTRjTlBGN0h5SzJPZ0hqUkdCLV92ZWZvMTdySXQtSlRCVUM4SVBoV3BIT3hkUUNBZkJRODNfRThTODRDRXlrbGttdHQ4OXlzNXMwTzBZTG5qVHNqM1NwTlJFNjdZM0xGa0RuZ3diT3lreUhnMS13Sy0yVVJmMExRS0VnTjhUc3E0Nl9xVjJIbVM0MzdYdlgtVmVnd1RMOTNfRW16NnFOUTlBS3M0Ym9DamRYSGZSRk95R2o5MWFFalN1N0RzQ0lHMkR5Q3Zia0VSRjNrZUJaNGJIbF9FTlI5UzFpMWVDeUlBQ3R0VUTSAfYBQVVfeXFMUDdRM0RTay1hNWNtdlFxLXJMR2llUTF3UVRMSjU0UTctVTBWVjN2Z3ZBWV9QWkhZeG1pRDNXRk5vd0RGTzloRHZtSHVaU3FQU0tFcVNrWG1jaU1yR21mUEhRQ2gzSkJQNFdQZ21iM2ZVREZVYWc0VHZYQVg3WEZYaTl4X1NfckJzcFFya2pKLXpaaEpUdE9NdTlkTl94VnFtSnNHLUktU0g4MTFUdHJFazJLV2JvT29UQ0tnQkthdVlpQ1NaRnFTRTR6TU5OTzJwM0hvRlhhZW1VUE9yQmdUTFpncXJabVRLSHQ4OW1BTWxmTDNFdU9n?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-22T07:00:00.000Z"
+      },
+      {
+        "title": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO - Imagen de Veracruz",
+        "summary": "De Perú a México: así nació \"farmear aura\", reto viral que replican jóvenes en Veracruz | VIDEO &nbsp;&nbsp; Imagen de Veracruz",
+        "source": "Imagen de Veracruz",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLU5fOVFyR1JhZkhPcGs5RGtLX3lGbWtXcVpRLWJtRGxHdElNamtiQURtenhhQVFoQXczdUpva2VUWFotUVJxWFM3ZUFLaENGb1Z6TnJOVVhhUmczbzZiQWltU3pFeC1CVzM1S3ZLbktIMlJSVVBaVklnRUVjNVlFX25pQWJFSzVSS1BGTWpRM2VQalFLSFpGcE1fRTdjZy1KWWU3R29RSF9xX1pNM3pTZjdMemZKakhudHhIUkxNX1VOZklVbWEzc0NpdHN0UUdmMlNpYWNNMnRLU0FmUWxz0gHkAUFVX3lxTE1HTmV6Z3lLcW5pQTNpSGJxT2gwWFptR005THgwbzRyeVhneWVFRm9TV0plWlFoLWlCc2U2QnRZb0VkLVZDa292d0o2RnBaSkhGZDN5VDFtV19Kb0VQQTdTcHZKcExrN1pWVjFWbXVVOVFrekJHNUc5WHhXXzN2d1h3amgtQUw1aThialdock5tME83YWhpUGc2Z1hmbUFFelhlY01tV0VzdmRUU3lnWS11UVJtbGdPYXp3SzBjVFd0ek1rMXlESDNOeXVTcE5SdTZGa1ktWnBsbzk2d21wbGJ5TXpyUA?oc=5",
         "image": "",
         "publishedAt": "2026-08-18T07:00:00.000Z"
       },
       {
-        "title": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña - tvazteca.com",
-        "summary": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña &nbsp;&nbsp; tvazteca.com",
-        "source": "tvazteca.com",
+        "title": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña - TV Azteca",
+        "summary": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña &nbsp;&nbsp; TV Azteca",
+        "source": "TV Azteca",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUtQOXdxcVJBQ3VUS2QwTjRrWFYxMmRqSFk4dDVBZXNoTWZrNGwyTUtpUXdHTVl2UWlGNEx1YWRycWdjdWFZbDFJWFU1TGo4bGRVZWt3bkNvSnpXaWVSaGFhbkpYWkFFcFJacEJVT2R2U0hDR1huVjBua2U4aWhzdVoySUxIZ3FId0pfREhoajB4M1pPaXhfaTl1U3ZESEJZZXFn0gGwAUFVX3lxTE5vUUtIUGJEWFlSTlpGNktFT1lSOWJLSWJ3cEg5ZWEyR1VCVTJnal9hSDNWVVBkeDJmR1FYaWlNSHFjQkVPQjlDMUJtQVNXVFlUWi12ZmM4NWo1MFVfWE9RRDd5dlJzWXg4UFkxV2d0eGxMakZrMThuM2JhTGs4dVZ6Y2JPQ21pRGNtaV81TmlZY2pRT1p2WWlmSm9HcXEwUEpuV1pnODd0NWRGNW5xR2Nn?oc=5",
         "image": "",
         "publishedAt": "2026-08-15T07:00:00.000Z"
@@ -466,14 +474,6 @@
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYkxYWU1GV09vM243VlB3NWZhbWt5RzF1bE9PdXRhR3BkM2cyb25NTjVMMG1XbnM3aU1rMXBIb3FFV3cwRjRrYkduVm9Gd0hyRFlKWElDSk8ybEtXVUJkRHlXc2FuWkhodTg1Z1ZGbmpUZVZxcTN4M1J6ZlpxZHJFNUtTN2tRQWE3MVR5SkhwLWVCelVKU3FNZVowYjh3YVJYWDFHWm1PbUlJOVNBOTVQT19hQ2tGbXNYWTllU3ZoLVNlNE9aUGwzZzl3LTJHaDN6TWpaNkJsOXBTRVIwMmtfVjUyaGo4X1E1bFBvb3ZkMUZ5QmozSGtYcUx5VdIBlgJBVV95cUxPUElwalRLcFI3MTN6a3dqaV9pWHA2NjFYWVFHZU00NTNTblYzYXo3aDdXaEF1NzM3bmx0MkFCbnFGdmtFd2syOVRwNE1HRVV4dnhsOUtva2E5ZUVvbW1CVDBneGc5a3hZUU9oVjFfVE0xOExvbG5TM0FoeW81Wll1UWtxRTNqdkJiTWoxbm42aG9PWVNjTmlvbmgzaUdmVDA1bkFmUm1RRVVua2VxY0tldUlQTGEzZ3k2Sk10N0JKWUxTTkF6OGQtVlV6RzhmcGlJdlA1OF9JaEFIcFI1U3NoZDZtUnpmbEpBWVZCTUE1bVNDQUxZcm9QVDB2OEhpekVtcGItWjNDekpHY0xKSk1GQXpMRGhYdw?oc=5",
         "image": "",
         "publishedAt": "2026-07-08T07:00:00.000Z"
-      },
-      {
-        "title": "Minsa advierte sobre desafío en redes que expone a adolescentes a graves riesgos de salud - Infobae",
-        "summary": "Minsa advierte sobre desafío en redes que expone a adolescentes a graves riesgos de salud &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ19nT2YyMlR5RFhzZVRjTXpPcjZXYjhHZ25aV1BkeTFuWDVKTHZxUFRyQklUb0JYaGFIMUJEbEdVbTg3Y01OV255QmN3OHlEbWNaS185UXVqUHhydnF1YTlrZTNSQmtmVGNKc2xyb28zTmt4czlsd2Z1OC0wQTZYWmpjT0pUNU0yN21CWnpYamV6eU43TkdQUE1FdjUxUGVRQ0tzbGpDbEk2Y0xrS3Y1bl9hY2UxSnVuMTF2ZV82MTZ2dGVkQ0tPVG1R0gHkAUFVX3lxTE5xaE1KVl9TLXVjQW16VUhTbmotZWRBcUJueDBnQWZLZFhPaC1hSjZNSGVXSnFEQlotekUweWloX0xEc2txcEt5N2RGOUFBYXBFaXBZYTdZaWpkaktoNUd4cDFsV2R3bGdOOGNDVV9qajFLMy1ZTUh3TXU4dlZmVmprRnlvQzhLMlM4RnpTT2FMSzhKdS1PaXdvZE0tQnlIUmIyM3l4akJrYjIwcnMwY25yMXl2TFIwdjg1YXpBNmRnNDBrdU9oZTN5LVU4MGp6dHVVR09fTnh5cmN1eGNsaXBDNUlZXw?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-07T07:00:00.000Z"
       }
     ],
     "farandula": [
@@ -544,6 +544,14 @@
     ],
     "cultura": [
       {
+        "title": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales - La República",
+        "summary": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdUdGMXlJY2xDbGJKMklhSXdTUVhaV051cWliMm5VNkE3RlRBdnJWS1lGVzN1bVBWRHAwUmZMR2VLTUI1VG43TUhabEFUZThmRUEyZ29pUkFuNVI3QzRoVFoyQ3hvLU92ek1abjItSGtyNUhLT2g2Q3BMMUxuTnJsLWdVMWQtUmlTUzJ6eTlNZ1puSnZ1SUZKT01oWkp3YlFTeU9HSWtZZXI0U0NLNUFSVG9zaXN3Nl9EZi10STlhVFA3RWRfUFRCV2J4VWVvb0tha3VNb0VBOHE2cWpnaHFlSzAwMU84QVJNOTc0Z2o4MWZyR0FGenYyckU5VGM5MzVaeUJ3YVZpTU5BODNKc1FqUHpSeTUxZ9IBmwJBVV95cUxNQnVtd2xlRmNOTVEwY1pVOG83NzZpckN6VWY3eTZPZGk1YmdMS041aERIcE9lS2htWU5hZktLOVpTa25Hd1FLUHg5clRrcklXNVk2alVhS0l4OG9FVW9Ic2JBaGE4SDN5ZWt6Y0RjOFFrU3pRdEhrUWJaR183X2xYVnVFWlZqRzBVZGFmZzB4V2U2R0JPRllXeG1ZTkhCN0dXZzNXNnNtdDBSNjBZeVlQaVFXTm85N2pPSnRuSmxfMGJUbklnRjh4bUhWb0E2eGZWOVFZYV9JUVVlOGUzX3NGN2Q4dzlLUFlUdlc1OGNVRVp2UjF0NjVvQzg1Wi1sMEY5OEdMWFpKNmwzc2ZNU05MUFpUcWROeENQMjZv?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-13T23:10:47.000Z"
+      },
+      {
         "title": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA - Infobae",
         "summary": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -598,14 +606,6 @@
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQempKSjE1ZEJaSUlkTkxKb2ZEb01WelVBMUZpdUMxM1FSR3VlUlZZalFqUnZJMnhWcFc5UUdoZVFMOG1TbWpzc1BqTFUwbTl6MEhWR2NpSW95RmhRQ2tFSFM2NXZsQjFNUXVsY2k5dS1HRUlzU2pJMEN2SGMtSXlBOFhCbVBSVExUWGxFWVV1dTJCbFdtY0Npdmk4UUlFUkxXQi1QRlFCdC1VWG9jR2hxS2xfbGRGb0tGMGl3MzFrNkdvYjVp?oc=5",
         "image": "",
         "publishedAt": "2026-08-19T07:00:00.000Z"
-      },
-      {
-        "title": "Agenda cultural en Lima del 13 al 19 de agosto: lo último del Festival de Cine PUCP, ópera y ballet, salsa, teatro y exposiciones gratuitas - Infobae",
-        "summary": "Agenda cultural en Lima del 13 al 19 de agosto: lo último del Festival de Cine PUCP, ópera y ballet, salsa, teatro y exposiciones gratuitas &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVEN4R0wzbk9BVWZvS0JOOS1TcXR1SkFWTzVHbEhDM0hjYzBaX056STYyZkgybnR1VDc0VEl3WWZjeE01ZkEtUGl4OHZoOWxEcDd0WFdGbnJsanpXS0lNOW1rR0ZPcm9YcHVORFYyRE5PYXpiYVpVdWtOeWFPN1Y5QmJUeGMxSVZ5YWZnb3VoT0VyelEtLUtDM0pRam9zOFlIWEpOZUxUUjFBSl9YZXlUSFJqenRuaE5LR0RqRGQyck50NFdxaV9nMi1KSmRFMVFNZ2c0Z0dhUzd2aU4yOGZyb20wNFQzR0pRaUxtWTZsRkMtbTVzNnhnZk13N3FHNlJlbkdmOXByRdIBogJBVV95cUxNSzdWSFA0MnYyRkhjdGRKRnVsUDlOUzZobWxGUGw2T083NG41MUVmX1ZObGpOZjcyLVRQTGg2NV9ObXJhSUtRQ3VVS2wzRUtxaFdocUozSEJPeHZXc2JabzhENS16QXZFYVVmY0ltS3BocnJTZEFLeVhOMHdXUWY4LWpFc3FzRWU3RndwYjZ5d1FLX09vNFBnemc1aldIN0tyUEE3NzJpZmwxOEN2Wmdpc1RBUU5uVXRVRTZNUzdsMW5oVmVJYUdZc0hLdG00S1o0TVB3NzlsSm8xTC1kMmo0SXNRTVhNUzFYaUYzd1dRRi1OVmprRlVMd1IxcG11Z1JqSElMMGc0QkFKQmxOYVlfUUJOd0IzbWtsa3h4RWNVQTFfdw?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-13T07:00:00.000Z"
       }
     ]
   },
