@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T14:29:11.801Z",
+  "generatedAt": "2026-09-18T18:25:48.882Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,28 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
+        "title": "JNJ destituye a juez Richard Concepción Carhuancho",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/jnj-destituye-a-juez-richard-concepcion-carhuancho-junta-nacional-de-justicia-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/XQAGUQN7H5BT5NTO46MJ5BHMZY.jpg?auth=d4a202b9605f0ee32cdc8553a82fa84db71bd442032590867da91c9acd2f81ee&smart=true&width=675&height=454",
+        "publishedAt": "2026-09-18T18:24:32.000Z"
+      },
+      {
+        "title": "Rafael Rey presenta su renuncia como ministro de Transportes y Comunicaciones por motivos de salud",
+        "summary": "El ministro de Transportes y Comunicaciones, Rafael Rey, presentó su renuncia irrevocable al cargo como parte del Gabinete Ministerial. El funcionario dirigió una carta oficial a la Presidencia de la República para formalizar su pedido de salida ante la Presidencia de la República, Keiko Fujimori, y el titular de la PC",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/rafael-rey-presenta-su-renuncia-como-ministro-de-transportes-y-comunicaciones-apuesplan-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/GBFLPCVXLFGI7AJOPHXLZDEFQU.jpeg?auth=b83d47776bf900ce5e84bbf7ba2bf967711fe9c11b984470d8c464172ab02396&smart=true&width=1200&height=739",
+        "publishedAt": "2026-09-18T17:24:19.000Z"
+      },
+      {
         "title": "Ministro del Interior, César Astudillo, fue interpelado: ¿Qué bancadas lo respaldan y cuáles lo cuestionan?",
         "summary": "Un sector de la Cámara de Diputados, integrado por las bancadas de Fuerza Popular, Renovación Popular, parte de Ahora Nación y el Buen Gobierno, mostró su respaldo al ministro del Interior, César Astudillo, aunque con algunos puntos críticos durante la interpelación al integrante del Gabinete Ministerial.",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/ministro-astudillo-interpelado-que-bancadas-lo-respaldan-y-cuales-lo-cuestionan-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/4AYT23RJSRHHTNH3WPXLCIQXOA.jpeg?auth=b9cafda1613f783df25027b000a43309d526ca0c18c004cfe9e41e12dbab5869&smart=true&width=1057&height=718",
-        "publishedAt": "2026-09-18T14:22:00.000Z"
+        "publishedAt": "2026-09-18T17:12:41.000Z"
       },
       {
         "title": "Guillermo Bermejo: Procuraduría Antiterrorismo pide informes a Josué Gutiérrez, defensor del Pueblo",
@@ -37,39 +53,23 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/la-procuraduria-antiterrorismo-solicito-al-defensor-del-pueblo-josue-gutierrez-que-le-informe-intervencion-de-su-institucion-en-en-caso-guillermo-bermejo-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/J4PRF6NCIJCAZDAKNZREQMJQLA.png?auth=a4b7d8e2966ba9cea405162c8f7a8714e408616ab45fc5cbe1133f57b1da7063&smart=true&width=1200&height=647",
-        "publishedAt": "2026-09-18T12:22:46.000Z"
+        "publishedAt": "2026-09-18T17:12:22.000Z"
       },
       {
-        "title": "Encuesta de Datum para América: aprobación de Keiko Fujimori cae de 60% a 42% en un mes",
-        "summary": "La aprobación de la presidenta Keiko Fujimori pasó de 60% en agosto a 42% en septiembre, una caída de 18 puntos porcentuales en un mes, según la última encuesta nacional de Datum Internacional para El Comercio.",
+        "title": "Roberto Burneo dice que todavía no hay fecha para que JNE se pronuncie sobre entrega de credenciales a primeros regidores",
+        "summary": "El presidente del Jurado Nacional de Elecciones (JNE), Roberto Burneo, dijo que todavía no hay fecha en la que el pleno resolverá si se puede entregar credenciales a primeros regidores en las Elecciones Regionales y Municipales del 2026. El titular del organismo electoral ofreció estas declaraciones este 18 de setiembr",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/encuesta-de-datum-aprobacion-de-keiko-fujimori-cae-de-60-a-42-en-un-mes-tlcnota-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/SHDDG6GIHZEEPIH2M3SX2OOG4U.jpg?auth=cc3736617d9055160fed1f893fbf8a0c0c19834b2a53e267e0fa044f27c98c19&smart=true&width=1490&height=1097",
-        "publishedAt": "2026-09-18T12:07:40.000Z"
+        "url": "https://elcomercio.pe/politica/elecciones/roberto-burneo-dice-que-todavia-no-hay-fecha-para-que-jne-se-pronuncie-sobre-entrega-de-credenciales-a-primeros-regidores-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/OGJL76O5VZF7XOXL2USVSAZB5Q.jpg?auth=13ff5c514e933a404bbe649bf39bffb34971d5c0691ee328a770851ab531143b&smart=true&width=920&height=618",
+        "publishedAt": "2026-09-18T16:24:41.000Z"
       },
       {
-        "title": "Miguel Torres: “El país no necesita un Congreso paralizado por el enfrentamiento o el odio”",
-        "summary": "El presidente del Congreso, Miguel Torres (Fuerza Popular), afirmó que el país no necesita un Parlamento Nacional “paralizado por el enfrentamiento o el odio”, sino uno que fiscalice con firmeza, que legisle bien y que sea capaz de construir puentes.",
+        "title": "Josué Gutiérrez: Cuatro bancadas del Senado piden remover del cargo al defensor del Pueblo",
+        "summary": "Cuatro bancadas de oposición del Senado presentaron una solicitud formal de remoción contra el defensor del Pueblo, Josué Gutiérrez. Los voceros de Juntos por el Perú, Buen Gobierno, Ahora Nación y Obras oficializaron el recurso ante la Presidencia de la Cámara Alta a cargo de Miguel Torres (Fuerza Popular).",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/miguel-torres-el-pais-no-necesita-un-congreso-paralizado-por-el-enfrentamiento-o-el-odio-senado-camara-de-diputados-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/J2XDWXZWDRACHICNBUNU6FPUQI.jpg?auth=12ff20fa1f02b8be70057ada730ac72ed82e15d0c0bc5fa8e46247fede28860e&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-09-18T02:19:26.000Z"
-      },
-      {
-        "title": "Oscar Reto: “Cámara de Senadores deberá cuidar de no desnaturalizar o reemplazar la actividad de creación legislativa”",
-        "summary": "El presidente de la Cámara de Diputados, Oscar Reto (Partido del Buen Gobierno), afirmó que el Senado deberá cuidar de no “desnaturalizar o reemplazar” la actividad de iniciativa legislativa que le asigna la Constitución.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/oscar-reto-camara-de-senadores-debera-cuidar-de-no-desnaturalizar-o-reemplazar-la-actividad-de-creacion-legislativa-camara-de-diputados-congreso-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/F25S7NC5ABEU7I6ZR3K4C7RA2Q.jpg?auth=752123025870104cf5b90a5fa5f7a7b372c08d2461bc313e2db27a623f79d1fc&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-09-18T02:04:42.000Z"
-      },
-      {
-        "title": "Diputado Jesús Pérez protagoniza incidente durante interpelación de ministro Astudillo",
-        "summary": "El ministro del Interior, César Astudillo, y el diputado Jesús Pérez (Juntos por el Perú) protagonizaron un incidente por las cifras de criminalidad, durante la interpelación al titular del sector en el pleno de este jueves 17 de setiembre.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/congreso-ministro-cesar-astudillo-y-diputado-jesus-perez-protagonizan-incidente-por-cifras-de-criminalidad-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/IZJ4I7EHLVAXNFGTNWIW5A6VBY.jpg?auth=0527ca6632d3b4ff0c7aaddc9d8e798e59794effae418bf863d0d5c1a4622985&smart=true&width=2048&height=1352",
-        "publishedAt": "2026-09-18T00:17:29.000Z"
+        "url": "https://elcomercio.pe/politica/congreso/josue-gutierrez-bancadas-de-oposicion-piden-que-sea-retirado-del-cargo-de-defensor-del-pueblo-apuesplan-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/56FZIDZMLVFJBLFZR5P6LRZ4EE.jpg?auth=a058b21f3a08c6d2629efcfa0e369fb590852d75fd0a4f87e6d68ff7ab2b1d9f&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-18T15:53:56.000Z"
       },
       {
         "title": "Keiko Fujimori: Los detalles detrás y los efectos del nombramiento de Yoshiyama y Chlimper como consejeros",
@@ -77,73 +77,73 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-nombra-yoshiyama-y-chlimper-como-consejeros-los-detalles-detras-de-esta-medida-y-los-efectos-sobre-el-gobierno-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/27FH7VF3KZHD7EK5GMV55Y4SZU.png?auth=f4cae294598b95a026b0e87bf9efd18135669e769d5531746deed96723e45a22&smart=true&width=1160&height=660",
-        "publishedAt": "2026-09-17T23:46:00.000Z"
+        "publishedAt": "2026-09-18T15:12:35.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Tres países más atractivos donde buscan crecer las startups peruanas",
+        "summary": "El ecosistema de startups en Perú muestra señales de recuperación luego de dos años marcados por una mayor cautela de los inversionistas. Durante el 2025, las startups peruanas captaron US$ 76.5 millones, un incremento frente a los US$ 47 millones registrados en el año previo, según la Asociación Peruana de Capital Sem",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/startups-peruanas-en-el-exterior-los-tres-paises-mas-atractivos-donde-buscan-crecer-noticia/",
+        "image": "https://gestion.pe/resizer/v2/B6CRDTVR2RBAXIMY3KMW445ASE.jpg?auth=c290e21d90b7f73dec94c610ea32bf64808d5bd01f6873df343e29a96fa01920&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-18T18:01:16.000Z"
+      },
+      {
+        "title": "Petroperú: advierten de posibles riesgos ambientales en refinería por fenómeno El Niño",
+        "summary": "La Contraloría advirtió a Petroperú sobre diversos riesgos de contaminación ambiental y de pérdidas económicas por efectos de las lluvias del fenómeno El Niño (FEN), ello tras una inspección hecha a la refinería de Talara, en Piura.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/petroperu-contraloria-advierte-de-posibles-riesgos-ambientales-en-refineria-de-talara-por-fenomeno-el-nino-noticia/",
+        "image": "https://gestion.pe/resizer/v2/XF426YPNPNHAHFFK6F5ZCN2VBQ.jpg?auth=523ad9a3432a33365f8dac671602e7c0a0ebb4eb18a99b9fb7c0c7fc3dde5373&smart=true&width=1800&height=1195",
+        "publishedAt": "2026-09-18T17:56:39.000Z"
+      },
       {
         "title": "El Niño golpearía al mercado de belleza: estas son las categorías que caen",
         "summary": "Copecoh proyecta que el mercado de belleza cierre el 2026 en S/ 10,800 millones, pero advierte que El Niño puede quebrar la red de consultoras que sostiene las ventas en provincias.",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/mercado-de-belleza-en-peru-rumbo-a-s-10800-millones-el-riesgo-que-el-nino-pone-sobre-la-mesa-noticia/",
         "image": "https://gestion.pe/resizer/v2/RUNWQDKWPRAK3OTUBN4AAK5WQU.jpg?auth=3260d52c5899c0723b42c01f5a79b9ab58849f1bdc864cb9a32e62eef576c78c&smart=true&width=750&height=448",
-        "publishedAt": "2026-09-18T14:15:50.000Z"
+        "publishedAt": "2026-09-18T17:38:29.000Z"
       },
       {
-        "title": "Anadarko avanza en perforación de pozo exploratorio en el Lote Z-62",
-        "summary": "El Minem reportó que Anadarko ha ratificado su interés en el Perú y avanzará hacia la perforación exploratoria en el Lote Z-62.",
+        "title": "Oracle acumula US$ 638,000 millones en contratos de IA y redefine su apuesta por el Perú",
+        "summary": "Oracle prepara un giro en su estrategia de crecimiento en el Perú y ya hay socios regionales mirando al país. ¿Qué sectores están demandando más nube e inteligencia artificial?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/anadarko-avanza-en-perforacion-de-pozo-exploratorio-en-el-lote-z-62-en-peru-noticia/",
-        "image": "https://gestion.pe/resizer/v2/7IN3CFSETJFDPG27Y72MDQDRLE.jpg?auth=173d3a71550b7d2e749ccd187d2b0a8de8c27be7c6cba5a903c3fbbaf2a41f24&smart=true&width=1080&height=810",
-        "publishedAt": "2026-09-18T14:14:25.000Z"
+        "url": "https://gestion.pe/economia/empresas/el-boom-de-ia-dispara-a-oracle-a-nivel-global-como-aterriza-esa-apuesta-en-el-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/AJF27PBG7FGFPIFS6AO7YVNKGY.jpg?auth=4345a4628bbc3977c23a8a28ca4daa6d9cc9abc0bc94ab1ac073ef1e8b727dcd&smart=true&width=1024&height=576",
+        "publishedAt": "2026-09-18T17:37:28.000Z"
       },
       {
-        "title": "Otorgan subsidio económico a mototaxistas de Loreto, Ucayali y Madre de Dios, ¿de cuánto?",
-        "summary": "El Gobierno publicó el Decreto de Urgencia N° 011-2026, que establece un subsidio económico temporal y extraordinario para los conductores de vehículos automotores menores de categoría L5 (mototaxis) que prestan el servicio de transporte público de personas en los departamentos de Loreto, Ucayali y Madre de Dios.",
+        "title": "Grupo Poma busca nuevas oportunidades en Perú: las opciones tras operación de InterContinental",
+        "summary": "Real Hotels & Resorts, división hotelera del conglomerado salvadoreño Grupo Poma, dejó atrás la etapa de incursión en el mercado peruano y entra a una fase distinta. Tras poco más de un año operando el Hotel Real InterContinental Lima Miraflores y el Hotel Indigo Lima Miraflores —dos activos que juntos suman cerca de 4",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/gobierno-dw-keiko-fujimori-otorga-subsidio-economico-a-mototaxistas-de-loreto-ucayali-y-madre-de-dios-de-cuanto-combustibles-noticia/",
-        "image": "https://gestion.pe/resizer/v2/T4CNOAASRBCLXOSUIRZUR2RSV4.jpeg?auth=29d0e6a9aa211030c5fa53ccee5f617ed3dd49bf1ce3c62516147bc336fb4239&smart=true&width=1600&height=900",
-        "publishedAt": "2026-09-18T14:13:47.000Z"
+        "url": "https://gestion.pe/economia/empresas/grupo-poma-va-por-un-tercer-hotel-en-peru-el-plazo-que-maneja-para-decidirlo-noticia/",
+        "image": "https://gestion.pe/resizer/v2/RRR7HM3ZY5DMHL573TZXPCI3TQ.jpg?auth=ad84b2cddbc0e21522ef6cd4d949ef5ef7a549a56be90677a7f6eef201a28a71&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-18T17:36:28.000Z"
       },
       {
-        "title": "Alicorp recibe desembolsos de préstamo por hasta US$480 millones: ¿cuánto llegó a Colombia?",
-        "summary": "Alicorp Colombia recibió US$65 millones y COP 188.6 millones del financiamiento sindicado de hasta US$480 millones anunciado en septiembre.",
+        "title": "Gigante chino LiuGong quiere convertir al Perú en su hub para Hispanoamérica, ¿Cómo lo hará?",
+        "summary": "La china LiuGong abrió subsidiaria propia en Perú tras 15 años operando a través de su distribuidor y proyecta cerrar el 2026 con 200 equipos vendidos.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/alicorp-colombia-recibe-primeros-desembolsos-del-prestamo-de-hasta-us480-millones-noticia/",
-        "image": "https://gestion.pe/resizer/v2/6F6WV4WD7BACFFCZGKFKZDDDUM.jpg?auth=bee0bb82ce998a68723a0056b7c29c0c1d388758ae46c6a919d4b26612b2d028&smart=true&width=3000&height=1686",
-        "publishedAt": "2026-09-18T14:10:06.000Z"
+        "url": "https://gestion.pe/economia/empresas/gigante-chino-elige-al-peru-como-su-hub-regional-antes-de-entrar-a-chile-y-colombia-noticia/",
+        "image": "https://gestion.pe/resizer/v2/VFDFB7UZMNGADDOKYR6GPP4CE4.jpg?auth=75ff8b435be76525177a7b2a1c0c270e05cb129de089fc335838f99c413d11de&smart=true&width=1200&height=787",
+        "publishedAt": "2026-09-18T17:36:08.000Z"
       },
       {
-        "title": "Exportación de oro ilegal superaría este año por primera vez a la de origen legal‌, según IPE",
-        "summary": "La exportación de oro de origen ilegal continúa expandiéndose en el Perú y se proyecta que este año alcance los US$ 16,000 millones e incluso podría superar los US$ 18,000 millones, señaló hoy el Instituto Peruano de Economía (IPE).",
+        "title": "Marca española de vitaminas desembarca en Lima con la categoría que más demanda el sector",
+        "summary": "La marca española Vitaldin, del grupo Mercadalia, entró al mercado peruano con suplementos en formato de gomitas, convencionales y veganas, y apunta al segmento más dinámico de la categoría.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/exportacion-de-oro-ilegal-superaria-este-ano-por-primera-vez-a-la-de-origen-legal-segun-ipe-noticia/",
-        "image": "https://gestion.pe/resizer/v2/NTDAOUSRJBCW3G5ON3CUR3A2M4.jpg?auth=6791a740f5630c7026f3e4cf3df1757b2839f215bd1b1c668f0ce2cae1a9d24d&smart=true&width=1200&height=675",
-        "publishedAt": "2026-09-18T14:01:59.000Z"
+        "url": "https://gestion.pe/economia/marca-espanola-de-gomitas-vitaminicas-ingresa-a-lima-el-formato-que-mas-crece-en-suplementos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/UM3W67JSKBEGVNWAGMQU4QTLAA.png?auth=bf619e46e62d987cd1e2ca12c8c0495797ddfeae27a591a37201c75660552680&smart=true&width=800&height=458",
+        "publishedAt": "2026-09-18T17:34:36.000Z"
       },
       {
-        "title": "Castillo de Chancay apuesta por eventos corporativos: ¿qué viene en 2027?",
-        "summary": "El Castillo de Chancay busca ampliar su negocio más allá del turismo tradicional y ganar espacio en el mercado corporativo. La realización del primer TEDxChancay, programado para este 19 de septiembre, forma parte de esta estrategia de diversificación, que también contempla una nueva apuesta hotelera.",
+        "title": "Minsur, del Grupo Breca, intensifica la exploración de estaño: ¿cuáles son sus próximos pasos?",
+        "summary": "La minera presentó el sexto ITS de su proyecto de exploración Santo Domingo, en Puno, que contempla siete modificaciones, entre ellas 14 nuevas plataformas de perforación diamantina, 25 sondajes adicionales y 1,924 km de nuevos accesos.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/castillo-de-chancay-apunta-a-que-eventos-corporativos-aporten-hasta-15-del-negocio-noticia/",
-        "image": "https://gestion.pe/resizer/v2/6DXOPR6TVZDHPDFSXMMSLB4RUU.jpg?auth=fb703b6bb636f4a76d52da2c8ed043cea6aa5741cd39ead4f9cd5bfbbc33dbfa&smart=true&width=1200&height=835",
-        "publishedAt": "2026-09-18T12:42:11.000Z"
-      },
-      {
-        "title": "WCA Internacional: “Más de 10,000 profesionales ya trabajan en compliance en Perú”",
-        "summary": "Lima será sede los próximos 23 y 24 de septiembre del Congreso Mundial de Compliance y Lucha contra la Corrupción de World Compliance Association (WCA). El encuentro reunirá a más de 500 profesionales de más de 20 países en la Cámara de Comercio de Lima y coincide con el décimo aniversario de la asociación, presente en",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/ivan-martinez-vicepresidente-de-wca-internacional-mas-de-10000-profesionales-ya-trabajan-en-compliance-en-peru-noticia/",
-        "image": "https://gestion.pe/resizer/v2/ZNGBNILU2VHUBHHAFIZMLAG44I.jpg?auth=c30364e665e6e45463f35e5a4ded3fb4ddb3c62deb447acdb806d98ec148808a&smart=true&width=1200&height=817",
-        "publishedAt": "2026-09-18T12:40:04.000Z"
-      },
-      {
-        "title": "Gobierno promete 500 colegios al año: las dos barreras que deberá “vencer” para lograrlo",
-        "summary": "En medio de la crítica situación de la infraestructura educativa, el gobierno plantea la creación de nuevos colegios, pero la propuesta no bastaría para cerrar la brecha que ha venido empeorando en los últimos años.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/gobierno-de-keiko-fujimori-promete-500-colegios-al-ano-las-barreras-que-debera-vencer-para-lograrlo-noticia/",
-        "image": "https://gestion.pe/resizer/v2/WVNS5RRCZZCFHJQ7Q6MFY7TPOA.jpeg?auth=503e5d647c8b372b4882696a4dc302ed9dc0e386fc06a62b4d516ca1ede5c162&smart=true&width=1600&height=1200",
-        "publishedAt": "2026-09-18T10:22:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/minsur-del-grupo-breca-avanza-con-la-exploracion-de-estano-en-puno-que-viene-para-santo-domingo-noticia/",
+        "image": "https://gestion.pe/resizer/v2/GP25YR6ISZB3JBA4NYF7XOR3I4.jpg?auth=76b70a0530c48cd100afc8941ed3f452257b3a24fc370d9c92a111f6e5edb336&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-18T17:24:43.000Z"
       }
     ],
     "sociedad": [
@@ -172,17 +172,25 @@
         "publishedAt": "2026-09-09T07:00:00.000Z"
       },
       {
-        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - elperuano.pe",
-        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; elperuano.pe",
-        "source": "elperuano.pe",
+        "title": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud - La República",
+        "summary": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcXVYRHNkcFVTRXlocG5ySVlLRzZJSzNKWEJXRldLWkJHQUpkeFBHWFJSNzVNVFhrTS1WTnliRHBhbmlZTDBCSEVLWjRkSHB0TTd3S3E3bGFucVQ3c0ZoeVJiSkRsRHltQWx0UWlncnNTaUhOcmZpcEUtbWdoR0ZFS2pJczljLUpyR0ZRS1VyTFF4SXBEODlfWG5aVzhsOXF6eGxQYnRPMlpaRHN6TG1hNHZKbzFhZElxOUd2TUNndXJDTHJubmNXM1pMUkNYRkI5eHpaMUNlT0NjYVQzSHh5U2h3c3pUZ2c0TWd5QTRJYWh4bDhuT1g3SHVNQmZ0OHfSAYQCQVVfeXFMTmktbXh4RFU1eWJvVkw4SFRHV2dDbm1rLTRiVU41TW9ONV9tS1pUUmFWcFExb3lfTWYyczVGSjJWLUJBSHRuTDE5RlVBRHhxQ19OdHpvcEtLNEdBcjZNZzZhS3kwRkxBdmxFZUhWZkZWTXRheEQ0U21ZWEV0ZHA1MTBoWWJ3R0VDa3pXQWFpVDlSclVsSUtLT1VtREFId0JXeFpEU3Z0ZmxyclIzcEZSSUFXME5seENxRU9uWVhwVURIWjlTa3JXSTRjd09QMExqeGhNVXpYa0Rzb0d6elRjRGNDMVZES1E2b202dHBrNVZMRW11YURrOGdYY0tuU3dOSFRKZnM?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-04T07:00:00.000Z"
+      },
+      {
+        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - El Peruano",
+        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-03T07:00:00.000Z"
       },
       {
-        "title": "Restricción a prestaciones de salud que propone borrador de reforma de seguridad divide al gobierno y alerta a partidos - La Tercera",
-        "summary": "Restricción a prestaciones de salud que propone borrador de reforma de seguridad divide al gobierno y alerta a partidos &nbsp;&nbsp; La Tercera",
-        "source": "La Tercera",
+        "title": "Restricción a prestaciones de salud que propone borrador de reforma de seguridad divide al gobierno y alerta a partidos - latercera.com",
+        "summary": "Restricción a prestaciones de salud que propone borrador de reforma de seguridad divide al gobierno y alerta a partidos &nbsp;&nbsp; latercera.com",
+        "source": "latercera.com",
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRlNLMFZqSDFPaXdOQTY4bDFzc0N2ejIxbGhXWUtEaWdtOWl0UTYyNE40NGxXVHBHMENXeWZ1U1dCUm1nSk1sZV9QenRKTVhFU0pEZlY0RXlGYzNENjVSeVFxTk4xb0VUWWdUc2dCN056bVhsbUpJVjJmcDV2Yzl3Tkw4U3EyTHJXem1BTzA1S0R1TUoxUU5JSlpyd29ySmNzdmhZS21uOWduQWFPSzJ0SmVHVmxla1BQc0JvZXdDMkxzMkZ4VE5aRFRfQlRmaEZZZXltNndLSjBfLUlyR2JmenJRVUt5TXFUb09MbVpRdkZSQWQtU2fSAZcCQVVfeXFMTmxERjV3VXNHRFpyYkh1TUo1cE1RT0Z4WG1ZTkVmOVFVTE1rMkhWS1ZmSWdOZmdCWDd2dEt1RUg2WVA2MlZvMXYtRmxlZEQxQjhsdFJ2ZmQ0cngxTEw1ZlIwb2VtcEpsZzJDVGdKTGRHUVdqQmhkcjhaQ3RrZ2lsM2RNZzZlZ29zOVdOWnZqX211R3dDb0Joa3cxcjFiZ0xHWE51VkVCV00ySWpEUmdzNXByZzFqN0tKVnJfcWdsQzg4ZXdYbnpHV09XNGlkdDRKNW1ZaVFFRWFiQnR5RnlRUF9MclJrSnhsaGktNU1id2xyNEppdVlrb2JTNlNuUUZReFlLa2Y3UktPOUtUV29zbW9iV0V0cnQ4?oc=5",
         "image": "",
         "publishedAt": "2026-08-13T07:00:00.000Z"
@@ -202,14 +210,6 @@
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUm9heXNQZzZPY0tMTmxyWEJrSVFZMlFtb2JVOFpfZXpubndad19NYTVyQVpyLVk0Yi1GZ0xCNmtRY0lWbV9VMTE5QUtRZG1zM2FJMzQweTU1a1lsVzl3OURfYldrUVM1aEJXWGI1OTR4OTFkRDQzcEtpaG1rcE42Zl9jT1g3RVdmQkZETk1ZOFBpd0o1MmF2RHVOczJsQ2Q1VHJGMjJrQ2tCVE42OXNz?oc=5",
         "image": "",
         "publishedAt": "2026-07-15T15:44:23.000Z"
-      },
-      {
-        "title": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado - TVPerú",
-        "summary": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado &nbsp;&nbsp; TVPerú",
-        "source": "TVPerú",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbS0xd2cxQXI5T0hEOEVrN3M2eER5Y0VTTW0yQzBRWGZteXVCLTRySkZwT3ZYNUJ5OEg4Q2hPZENLZnhSdjdxaWxRZExVMndoSmtWcnVxU09LelpFbERlXzQ2cWdQTlM2WG9YYWJBdmIyOWdzUkI5MWYxOHBkei1aMWZna0Q2a2Vrems2N0RwQklYWGhaY3NyLUlyOTZUbWQweHpHa3VLZGxjaTNEMEpObVNFM1VvMEVkSzU3cDFNOXVIZEl5WGFha0J1UXRRbHBwa1JYeWxjNXNPLUhx?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-17T02:03:59.000Z"
       }
     ],
     "negocios": [
@@ -220,14 +220,6 @@
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNakhVY04xTW1nZFRxMHA4d3F1ZHBObE5qczdBVERnX1FoQ1otSldfaEQwS0hvQ3BRRkszWHZ1TmtheFJHdzVSNzRieFJRTUpwUzhvUjJXYzJUc2EweUt3RlBTOTc5eEhmMGpjTHVqMWRjOFhvODlsX0hWdWt4V0Uza0oySDEwS3lidm9TMFhBcWR2QVRRWVZETUJGb0s1V1FPdExnYmJSOVFiZmN5OVpVdWEyYzY1R0FXa2thSFZYbUxvOF9sSklzdDhQYW9FMEJHNTNXMXIxWlpPb1o2N1JldE5WNTRvdXpxOWY0MExfTWJ0cU1hUGfSAZACQVVfeXFMTXV2X3NuaHg2bm5KcEtseVRyUEpPUnVfTlQ1V0l0M29uY2N3cUdhQ2gyeGIzSGlGNEgtckw0RlZvYVZGaVFpY2szWlFwVTJZaUJjUE13a3p1ZU13WHJEU183aTVYdW1RYWFkXzVmR0dieGNpTGctM09ITW85WkxvQlMtRF9WbXE4YktObWI5RVpwQTU2UkpxSHBtUkg5T2kyOHgxUEh4dXk0OGR3cUhKdGVNYnkteDBQT29DSGhteXNVenB2UHRYWWhTZkgtQ0ZqUEl2SU53blJIeENETE1pOEVUOU1RMzRXd3JUYk1tQ3VuZThRQldtUllVVEFlb0V2VzJTTnFhRmMxZTVsT1Boa24?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
-      },
-      {
-        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - Business Empresarial",
-        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbEpWQWwzZjk1OHUyMXNjdl9taXN3YWtlVkc3WUd6ak1GNTNKTjMwWHhEd0Y4TTF6WU90LTMwTjZSNDVFN29ReWFGQkVvTmtya3pNMG9kSEdjYzRvdnZsTG16M3E1bzZhV09OVVBwWUNCU2ZJVHpfdnlvV1VmVXVLU2FmR3FYeVlIRnl1MVRvWmJlSWU4eVZ4Rkxxd2tZUHBKcWp6Q3BRUkZRMVRkbDRiVWNOdTFNSU5yNjByS2FobmlLdGRrOVJHdU9YOW9VYjZBLTYySHM1cDNhR1pDR0JZ?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-24T07:00:00.000Z"
       },
       {
         "title": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión - Infobae",
@@ -276,6 +268,14 @@
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BXc0NCUE53Q1dicXN4ZXFJY3RHNmhlQnh1UG81VHItc29JbE5KdDViOTB1OW5Ja3V4dTdWRWZGLW1zRlVHUVJPNFMyS2h6YzR0THpaeC1EbmdfTlJNQzB4RkJ2VU9wZWN5YjZuelBIUG1DZlVxeURaVTdIdjZTRGdtUmRKaEEzY2dKd2pKS0h2RjUtN1JualhXY3lPbVdIdDlaRFdnRWNUd2p2b1RtTjJQcUx6d21ZNkdkT0dSWU9hV3Nya09UckFMNmFIUQ?oc=5",
         "image": "",
         "publishedAt": "2026-05-27T07:00:00.000Z"
+      },
+      {
+        "title": "Auge del emprendimiento senior: más negocios y reconfiguración del consumo - Gestión",
+        "summary": "Auge del emprendimiento senior: más negocios y reconfiguración del consumo &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcXdIOVdzRmx1VzJfeERKV2sybEYwbm5BbHNRYnRDMTltMGFjWVdsSHdnOTlvb0l2RllLaTc4SXJkalpPaHdlSVFsUW9VS2g2Z2JzUDlyUl9OYjhaeE5Fa2Rwb0VwWEhiX2ZOUmdVa21vdlZqSWxqVFBabHhzOUlUUHJHOW9CcU4zQWltY2hBY2g2eGFycXVtbl9GVElsR3RQc3VxY2RHZjU0RzRoSmxrLTZPM3J4OU9hMzFYUnRfbVhsRUx1VVphdXQySVoyYi1OUkJudU12WnFPYld0SXU2QnNFb3k?oc=5",
+        "image": "",
+        "publishedAt": "2026-04-28T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -336,9 +336,9 @@
         "publishedAt": "2026-05-29T07:00:00.000Z"
       },
       {
-        "title": "Perú retrocede en innovación: más allá del fintech, ¿dónde están las oportunidades? - gestion.pe",
-        "summary": "Perú retrocede en innovación: más allá del fintech, ¿dónde están las oportunidades? &nbsp;&nbsp; gestion.pe",
-        "source": "gestion.pe",
+        "title": "Perú retrocede en innovación: más allá del fintech, ¿dónde están las oportunidades? - Gestión",
+        "summary": "Perú retrocede en innovación: más allá del fintech, ¿dónde están las oportunidades? &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUTg0TnlVV3lUYTdjLVp2aVdLR3lmU0l0VnBuTUlYRUxtbE43SHplMGgyc3MwUTl5RnBGeE1pR0tkak1tVVVXakhuV0xPaHh5TmVZR283NkNuZUpTY1FxanJELTJLckdKSVlJOTF3QTBhNnBibnlldjQyQkU3c2JYeDBKcXEwaTJxQklVa2J0Y1Q1T0JRcEVrTlZGV1ZTMWtZNHlEbmJtSTVNUHg1eGRCZjhB?oc=5",
         "image": "",
         "publishedAt": "2026-05-01T07:00:00.000Z"
@@ -346,9 +346,9 @@
     ],
     "ia": [
       {
-        "title": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades - gestion.pe",
-        "summary": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades &nbsp;&nbsp; gestion.pe",
-        "source": "gestion.pe",
+        "title": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades - Gestión",
+        "summary": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTjR3bnR3MGZ1UEJkTk1hLXdWSEY4aXFhNGE5YkxWT2VoS0dIWkdnRV85dTdjbEhWQmRfd2ZGY3daOGhBdTFRaEV5UmtlWEl0LWczSF83NmtPZXFQREN4T1ltdmQ2UUhtWWRKa21xY3NNMHJNSWZsckllWWU4RUpWaWtNMUZJYk9xNjlyWHE1Z0F4LVVIYjVwY1IyNVNRcFhOdC12eHc3b0VaR0xvTURWRlFvZkczWC1XejBKamFpbEhMWVVOT0VHS1NYNTlZRnlaSWl0ZHZ4R2R6WmR2RjA0bkV5VlZYWDZSSUFKZEdlTW0tUC1jZGZ3Snp6TQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-18T10:21:00.000Z"
@@ -370,9 +370,9 @@
         "publishedAt": "2026-09-18T01:51:25.000Z"
       },
       {
-        "title": "Perú hizo historia en la Olimpiada Mundial de IA: escolar logra medalla de bronce - La República",
-        "summary": "Perú hizo historia en la Olimpiada Mundial de IA: escolar logra medalla de bronce &nbsp;&nbsp; La República",
-        "source": "La República",
+        "title": "Perú hizo historia en la Olimpiada Mundial de IA: escolar logra medalla de bronce - especial.larepublica.pe",
+        "summary": "Perú hizo historia en la Olimpiada Mundial de IA: escolar logra medalla de bronce &nbsp;&nbsp; especial.larepublica.pe",
+        "source": "especial.larepublica.pe",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ21LV0pNOTBINWx0V0trc0JUaEhUSzdBY1VXbnpNYkprTFItR1h4SDdkT0lIb3licFV4TzV3aDRQSkluTWlIcE1sX21iemV1NHFVNXRlZkJlc3NXYWxxX1VYSUlBTXAyZ3NCS0l5cGt6ZmJiQVpNQ0pQV2JZVERTeGlkX0c3MXJPZEltRUgtY0tabXdOMFdfMTNKUjlBdmw5RHdXd0hRdDB1VTdSRVZmb2ZDSlZFX2ZHYm12WXRYX0dCaG52LVNuWHdRTUNDMXF2d2E3R2Q0cjVET2dMX2lFWDRUMEo?oc=5",
         "image": "",
         "publishedAt": "2026-09-17T23:56:02.000Z"
@@ -478,6 +478,14 @@
     ],
     "farandula": [
       {
+        "title": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” - Infobae",
+        "summary": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZFRYakI4T1o2cXhXN2pKSzc2bXBiLVlUZ1R1VFAxSWtDRW10LUl1TnNZaWJLRXpXSlBEZmJzN2lZdGF1SG5NUDBWQXUzZXp3VTlnbXlTODd1clZtRXZQUENXWlRydS0ydkhyWFg3SHJScVdKZ1VlU1l2cWpBM2RJcndGYjNWRVJNblpCa29EOHpXRGlnRVVCb0JOd0s4allqdVVjS0FEMGZXU2c5OXB4S214NUhIb1FFRWlaNVc3OHA0Uk0xcmpVbGFkdW1Kb1laTXZTSzZNY0J1WkFNM3BCRkRqdVNsV185WEdkSGtmMjZhLU00eW9mcExBdkvSAZcCQVVfeXFMTUlaaHZOVlluQ2hONUZIY1Y0bnBXNDVmN2tYNXFvbjNBVFBSR3RRUXNYOWVJdU9oQ0dHbUExc3FwTkEzWFM4UkVMTmFjX1dRdVR4VFRncThQWXFFV2pNUmhGZDBFRHZyUnZXcDVBWnhneG9fSklpMDFScE9nZlNjMzQ4aFI4MnNBTmtiTnM4SkhzRGFWWVZSai1IYnV4QkFsU1FSUGZXU1V4SGNlSjYtNUY1UFNiSXVDWEtEV3VjaXljZDZkdFEyMFJhenFNaXB3VVhRcTNEWTJzU2prTm1MMzkzOTdPT3laQV9sNkItOGRoWFo2SXZzRmZNTU9UYjhuYjd0VnZWTVY5WmNoRktEczI5b3dKbGVr?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-09T07:00:00.000Z"
+      },
+      {
         "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
         "summary": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -532,14 +540,6 @@
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOajFsLUtIcVlCbVlEeDJrZERUeklvOU1Hak5IRjdkWWRuTjhuR24zTnRkNDFONDRHelY2RG9QU2FobEYwdUQxRDRYX3N0QTFqenR3aU43NUJPRWlVUnExalVDUlVwZ0d0WFRud2dYNENFRHd6d0JPWTQ3WlNCM3pjNEJ0R0R5dGlwZVJ0Yk90MDNzWlZrZXYwbGd1ekN2NzkxdFB1dThxYjBLSDVBNF96d3VNYS1ZNHNwc21WMWhwSFdCamJtd3FwczY4V0lIcFZaLVHSAewBQVVfeXFMT29fdXdnLWEyMlBwSDlqZEVOT3ViRkhla192bHU0bnh1MzNoVGFMZkttSmlFOURhVmNUeVFqLXZoMXVUVHg2M3JZZXo2SjMxY2dCUGJrUWNMX2l6Zk9GVU9HVjZrUnhDMEpqRmp1bU1vM3lfbTZJZ0VJQnR6QnJZLWJPV081YnNhMXFqOEh0ZTVSMHM3RzkwNDlRSE5XMU4wMHJ0T0VzZU5ZNXdudENQNjQtM2FXM3BIS3RmWUY5SzMyUU5pQ1lEc1FldW1RWlM2cEt1NEtQRFdjNm8zcE8tdi1UeWVpY1NadHNnWTg?oc=5",
         "image": "",
         "publishedAt": "2026-07-26T07:00:00.000Z"
-      },
-      {
-        "title": "Domínguez recibe reconocimiento del Congreso junto a Paul Michael, ‘Cachay’ y más artistas: “Contribuyen al desarrollo del país” - Trome.com",
-        "summary": "Domínguez recibe reconocimiento del Congreso junto a Paul Michael, ‘Cachay’ y más artistas: “Contribuyen al desarrollo del país” &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxONHE2VHgwbHpNX1RiaWdQUGVFTkc5NDJEcXZQUDFuRHhCcUpCdzR0Y2NHbDNvRURMQlMzSlk5cHRSb3BjclRaMkNEMEF4R0lqLTVxRGQ2SDRBV2x5cklZcTdjTkp2RExYb2VVZWZHb2piLUFBM3lNS0Rqc2R3Mndrdmlvalp2alhMd1ZZYlNrU240YUs4a003el9jSS1sSFNLNzMxNmxaeGV1bWRGQUJpcmVRMkl3MERDbUVfa0VTbTZkVmR1MjdwVnhHQXMxUS1lTDNKNjBCU0V4UksxN1hFUFdWYUdZN2drV0lyNTR2cy1kMXdNZndXV09KeHN0M2NxNG1SQVhjUVRMaWxZemxXTVN30gGmAkFVX3lxTE1BR29NZk9mczFZd284MzBxZWY3S1lvLTRGYzNxU1R6MDVDZEwwdkktb0t0ZkRtMG03SlVKYjNlVmMyMUVTNG8waFc4NnBDUWRwcUI1cl92SmZQQXVnckFaRGdDSEVyLVN0ekl4Y2ppMm9BeUxWVUthQjRhUzhiNkRDMUNuclA1Xzg4MU80V3AzeEFHWVdDUnRjWEpwTEtmQ0k4OUdyX0lHMTV6TGJ5UUNiSW8tZkVqcmRZMmpLOEpfZl8wNnhGdmg0T01ZVVgyVGRKeUhqVXJmWm56NndqNTJ5d09PczhNekQ3cFJWQTBkWUJJUVEyekdlRUJTSk5HdUZaakUxR2VXaFE1YXg4NXVnTjFFZFdxanl6UXUxUFByUjlXSVVNQQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-24T07:00:00.000Z"
       }
     ],
     "cultura": [
@@ -549,7 +549,7 @@
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdUdGMXlJY2xDbGJKMklhSXdTUVhaV051cWliMm5VNkE3RlRBdnJWS1lGVzN1bVBWRHAwUmZMR2VLTUI1VG43TUhabEFUZThmRUEyZ29pUkFuNVI3QzRoVFoyQ3hvLU92ek1abjItSGtyNUhLT2g2Q3BMMUxuTnJsLWdVMWQtUmlTUzJ6eTlNZ1puSnZ1SUZKT01oWkp3YlFTeU9HSWtZZXI0U0NLNUFSVG9zaXN3Nl9EZi10STlhVFA3RWRfUFRCV2J4VWVvb0tha3VNb0VBOHE2cWpnaHFlSzAwMU84QVJNOTc0Z2o4MWZyR0FGenYyckU5VGM5MzVaeUJ3YVZpTU5BODNKc1FqUHpSeTUxZ9IBmwJBVV95cUxNQnVtd2xlRmNOTVEwY1pVOG83NzZpckN6VWY3eTZPZGk1YmdMS041aERIcE9lS2htWU5hZktLOVpTa25Hd1FLUHg5clRrcklXNVk2alVhS0l4OG9FVW9Ic2JBaGE4SDN5ZWt6Y0RjOFFrU3pRdEhrUWJaR183X2xYVnVFWlZqRzBVZGFmZzB4V2U2R0JPRllXeG1ZTkhCN0dXZzNXNnNtdDBSNjBZeVlQaVFXTm85N2pPSnRuSmxfMGJUbklnRjh4bUhWb0E2eGZWOVFZYV9JUVVlOGUzX3NGN2Q4dzlLUFlUdlc1OGNVRVp2UjF0NjVvQzg1Wi1sMEY5OEdMWFpKNmwzc2ZNU05MUFpUcWROeENQMjZv?oc=5",
         "image": "",
-        "publishedAt": "2026-09-13T23:10:47.000Z"
+        "publishedAt": "2026-09-18T03:33:37.000Z"
       },
       {
         "title": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA - Infobae",
