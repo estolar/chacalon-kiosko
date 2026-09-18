@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T09:43:09.111Z",
+  "generatedAt": "2026-09-18T14:29:11.801Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,28 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
+        "title": "Ministro del Interior, César Astudillo, fue interpelado: ¿Qué bancadas lo respaldan y cuáles lo cuestionan?",
+        "summary": "Un sector de la Cámara de Diputados, integrado por las bancadas de Fuerza Popular, Renovación Popular, parte de Ahora Nación y el Buen Gobierno, mostró su respaldo al ministro del Interior, César Astudillo, aunque con algunos puntos críticos durante la interpelación al integrante del Gabinete Ministerial.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/ministro-astudillo-interpelado-que-bancadas-lo-respaldan-y-cuales-lo-cuestionan-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/4AYT23RJSRHHTNH3WPXLCIQXOA.jpeg?auth=b9cafda1613f783df25027b000a43309d526ca0c18c004cfe9e41e12dbab5869&smart=true&width=1057&height=718",
+        "publishedAt": "2026-09-18T14:22:00.000Z"
+      },
+      {
+        "title": "Guillermo Bermejo: Procuraduría Antiterrorismo pide informes a Josué Gutiérrez, defensor del Pueblo",
+        "summary": "El Procurador Antiterrorismo, Milko Ruiz, pide informes a la Defensoría del Pueblo, Josué Gutiérrez, para determinar si el sentenciado Guillermo Bermejo, solicitó o no la intervención de la defensoría ante la Corte Suprema.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/la-procuraduria-antiterrorismo-solicito-al-defensor-del-pueblo-josue-gutierrez-que-le-informe-intervencion-de-su-institucion-en-en-caso-guillermo-bermejo-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/J4PRF6NCIJCAZDAKNZREQMJQLA.png?auth=a4b7d8e2966ba9cea405162c8f7a8714e408616ab45fc5cbe1133f57b1da7063&smart=true&width=1200&height=647",
+        "publishedAt": "2026-09-18T12:22:46.000Z"
+      },
+      {
         "title": "Encuesta de Datum para América: aprobación de Keiko Fujimori cae de 60% a 42% en un mes",
         "summary": "La aprobación de la presidenta Keiko Fujimori pasó de 60% en agosto a 42% en septiembre, una caída de 18 puntos porcentuales en un mes, según la última encuesta nacional de Datum Internacional para El Comercio.",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/gobierno/encuesta-de-datum-aprobacion-de-keiko-fujimori-cae-de-60-a-42-en-un-mes-tlcnota-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/SHDDG6GIHZEEPIH2M3SX2OOG4U.jpg?auth=cc3736617d9055160fed1f893fbf8a0c0c19834b2a53e267e0fa044f27c98c19&smart=true&width=1490&height=1097",
-        "publishedAt": "2026-09-18T03:59:37.000Z"
+        "publishedAt": "2026-09-18T12:07:40.000Z"
       },
       {
         "title": "Miguel Torres: “El país no necesita un Congreso paralizado por el enfrentamiento o el odio”",
@@ -62,99 +78,75 @@
         "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-nombra-yoshiyama-y-chlimper-como-consejeros-los-detalles-detras-de-esta-medida-y-los-efectos-sobre-el-gobierno-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/27FH7VF3KZHD7EK5GMV55Y4SZU.png?auth=f4cae294598b95a026b0e87bf9efd18135669e769d5531746deed96723e45a22&smart=true&width=1160&height=660",
         "publishedAt": "2026-09-17T23:46:00.000Z"
-      },
-      {
-        "title": "Perú ingresó al Escudo de las Américas sin tratado ni obligaciones vinculantes, afirma el canciller: ¿qué falta definir?",
-        "summary": "El ingreso del Perú al Escudo de las Américas no implicó la suscripción de un tratado internacional ni la aceptación de compromisos vinculantes, aseguró el canciller Carlos Espá ante el pleno del Senado el último miércoles 16 de septiembre.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/peru-ingreso-al-escudo-de-las-americas-sin-tratado-ni-obligaciones-vinculantes-afirma-el-canciller-tlcnota-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/7RI3W6TEHJB3FGAPVALSSJ3KXY.jpg?auth=baeeaec30e2e31563a48b6caa0a825814ccf74d6cd471c3a0bf4280fea4856e1&smart=true&width=1280&height=946",
-        "publishedAt": "2026-09-17T23:45:00.000Z"
-      },
-      {
-        "title": "Ocho de 12 comisiones de la Cámara de Diputados en contra de otorgar facultades: ¿qué viene ahora?",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/ocho-de-12-comisiones-de-la-camara-de-diputados-en-contra-de-otorgar-facultades-que-viene-ahora-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/NBDHKRSVEFCGXNJDE65Y2JBXLQ.jpg?auth=b8167b493e88d7f547e0df08a81535c4fb110e4eba3d89d164628f13804fd93e&smart=true&width=1055&height=623",
-        "publishedAt": "2026-09-17T23:45:00.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Triathlon prevé abrir hasta tres tiendas en 2027 y refuerza su crecimiento con el e-commerce",
-        "summary": "La cadena peruana Triathlon prepara nuevas aperturas y la renovación de su red de tiendas hacia 2027, mientras fortalece su e-commerce y amplía Deffy, su marca propia, con nuevas categorías y productos.",
+        "title": "El Niño golpearía al mercado de belleza: estas son las categorías que caen",
+        "summary": "Copecoh proyecta que el mercado de belleza cierre el 2026 en S/ 10,800 millones, pero advierte que El Niño puede quebrar la red de consultoras que sostiene las ventas en provincias.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/triathlon-preve-abrir-hasta-tres-tiendas-en-2027-y-acelera-su-crecimiento-con-mayor-apuesta-por-el-e-commerce-noticia/",
-        "image": "https://gestion.pe/resizer/v2/3UB4XN3DEBECVJBYXSSGRXWGFU.jpg?auth=2fbbf799a845a97c34919e6906109bcf4746ce6d679f3314be103a52823ae913&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-18T04:44:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/mercado-de-belleza-en-peru-rumbo-a-s-10800-millones-el-riesgo-que-el-nino-pone-sobre-la-mesa-noticia/",
+        "image": "https://gestion.pe/resizer/v2/RUNWQDKWPRAK3OTUBN4AAK5WQU.jpg?auth=3260d52c5899c0723b42c01f5a79b9ab58849f1bdc864cb9a32e62eef576c78c&smart=true&width=750&height=448",
+        "publishedAt": "2026-09-18T14:15:50.000Z"
       },
       {
-        "title": "Thomas amplía su negocio en Perú con su apuesta por medianos electrodomésticos y nuevos lanzamientos",
-        "summary": "La marca alemana de electrodomésticos Thomas Elektrogeräte prepara nuevos movimientos en Perú, con cambios en su portafolio, el ingreso a medianos electrodomésticos y una nueva línea de productos prevista para este año.",
+        "title": "Anadarko avanza en perforación de pozo exploratorio en el Lote Z-62",
+        "summary": "El Minem reportó que Anadarko ha ratificado su interés en el Perú y avanzará hacia la perforación exploratoria en el Lote Z-62.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/thomas-busca-ganar-mercado-en-peru-con-su-ingreso-a-medianos-electrodomesticos-y-un-nuevo-lanzamiento-para-fines-de-2026-noticia/",
-        "image": "https://gestion.pe/resizer/v2/UEXQF4WKXRFLLABKQ7WFVZPGNA.jpg?auth=d51a21be5ad3633296af081047a4f6f78b2a5dbfd64d103e1c25750b1514a1b8&smart=true&width=975&height=731",
-        "publishedAt": "2026-09-18T04:01:00.000Z"
+        "url": "https://gestion.pe/economia/anadarko-avanza-en-perforacion-de-pozo-exploratorio-en-el-lote-z-62-en-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/7IN3CFSETJFDPG27Y72MDQDRLE.jpg?auth=173d3a71550b7d2e749ccd187d2b0a8de8c27be7c6cba5a903c3fbbaf2a41f24&smart=true&width=1080&height=810",
+        "publishedAt": "2026-09-18T14:14:25.000Z"
       },
       {
-        "title": "Tres países más atractivos donde buscan crecer las startups peruanas",
-        "summary": "El ecosistema de startups en Perú muestra señales de recuperación luego de dos años marcados por una mayor cautela de los inversionistas. Durante el 2025, las startups peruanas captaron US$ 76.5 millones, un incremento frente a los US$ 47 millones registrados en el año previo, según la Asociación Peruana de Capital Sem",
+        "title": "Otorgan subsidio económico a mototaxistas de Loreto, Ucayali y Madre de Dios, ¿de cuánto?",
+        "summary": "El Gobierno publicó el Decreto de Urgencia N° 011-2026, que establece un subsidio económico temporal y extraordinario para los conductores de vehículos automotores menores de categoría L5 (mototaxis) que prestan el servicio de transporte público de personas en los departamentos de Loreto, Ucayali y Madre de Dios.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/startups-peruanas-en-el-exterior-los-tres-paises-mas-atractivos-donde-buscan-crecer-noticia/",
-        "image": "https://gestion.pe/resizer/v2/B6CRDTVR2RBAXIMY3KMW445ASE.jpg?auth=c290e21d90b7f73dec94c610ea32bf64808d5bd01f6873df343e29a96fa01920&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-18T03:17:00.000Z"
+        "url": "https://gestion.pe/economia/gobierno-dw-keiko-fujimori-otorga-subsidio-economico-a-mototaxistas-de-loreto-ucayali-y-madre-de-dios-de-cuanto-combustibles-noticia/",
+        "image": "https://gestion.pe/resizer/v2/T4CNOAASRBCLXOSUIRZUR2RSV4.jpeg?auth=29d0e6a9aa211030c5fa53ccee5f617ed3dd49bf1ce3c62516147bc336fb4239&smart=true&width=1600&height=900",
+        "publishedAt": "2026-09-18T14:13:47.000Z"
       },
       {
-        "title": "Línea 2 del Metro avanza, pero “a ciegas”: esto se baraja para que opere entre 2030 y 2032",
-        "summary": "Por falta de un cronograma definitivo, el proyecto no entraría en operación integral hasta entonces, según Ositrán. Ante este escenario, el MTC apuesta por un arranque según etapas.",
+        "title": "Alicorp recibe desembolsos de préstamo por hasta US$480 millones: ¿cuánto llegó a Colombia?",
+        "summary": "Alicorp Colombia recibió US$65 millones y COP 188.6 millones del financiamiento sindicado de hasta US$480 millones anunciado en septiembre.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/linea-2-del-metro-de-lima-avanza-pero-a-ciegas-lo-que-se-baraja-para-que-opere-entre-2030-y-2032-noticia/",
-        "image": "https://gestion.pe/resizer/v2/IJA3CLKVHREJXBU4CHPGSLZ5TU.png?auth=1e8de5a3e18c70f9abc4e4ce51d5616d85fedfaf1863199d25b944a27a22f1d1&smart=true&width=1672&height=941",
-        "publishedAt": "2026-09-18T03:02:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/alicorp-colombia-recibe-primeros-desembolsos-del-prestamo-de-hasta-us480-millones-noticia/",
+        "image": "https://gestion.pe/resizer/v2/6F6WV4WD7BACFFCZGKFKZDDDUM.jpg?auth=bee0bb82ce998a68723a0056b7c29c0c1d388758ae46c6a919d4b26612b2d028&smart=true&width=3000&height=1686",
+        "publishedAt": "2026-09-18T14:10:06.000Z"
       },
       {
-        "title": "Unacem invertirá S/ 2.1 millones en infraestructura eléctrica para nueva planta de cal",
-        "summary": "La acometida eléctrica tendrá una capacidad de 5.6 MVA y contempla 843 metros de electroductos y 31 buzones de concreto. Su ejecución tomará tres meses y medio y permitirá atender la primera línea de producción de la planta de cal en Condorcocha.",
+        "title": "Exportación de oro ilegal superaría este año por primera vez a la de origen legal‌, según IPE",
+        "summary": "La exportación de oro de origen ilegal continúa expandiéndose en el Perú y se proyecta que este año alcance los US$ 16,000 millones e incluso podría superar los US$ 18,000 millones, señaló hoy el Instituto Peruano de Economía (IPE).",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/unacem-alista-infraestructura-electrica-de-s-21-millones-para-nueva-planta-de-cal-noticia/",
-        "image": "https://gestion.pe/resizer/v2/PAYWX53EYFF6RN6HKPBFZINTGY.jpeg?auth=9b9c0805b41783871b1128210525378b81b27ceb75858cc0797c1ae3856f5df1&smart=true&width=1280&height=853",
-        "publishedAt": "2026-09-18T02:57:00.000Z"
+        "url": "https://gestion.pe/economia/exportacion-de-oro-ilegal-superaria-este-ano-por-primera-vez-a-la-de-origen-legal-segun-ipe-noticia/",
+        "image": "https://gestion.pe/resizer/v2/NTDAOUSRJBCW3G5ON3CUR3A2M4.jpg?auth=6791a740f5630c7026f3e4cf3df1757b2839f215bd1b1c668f0ce2cae1a9d24d&smart=true&width=1200&height=675",
+        "publishedAt": "2026-09-18T14:01:59.000Z"
       },
       {
-        "title": "IA en las finanzas de una empresa: ¿qué decisiones podría tomar por sí sola y cuáles no?",
-        "summary": "La inteligencia artificial (IA) está ganando espacio en la gestión financiera de las empresas. Puede automatizar tareas repetitivas, procesar grandes volúmenes de información, detectar anomalías y generar escenarios. Pero que una herramienta pueda analizar datos rápidamente no significa que deba asumir por sí sola deci",
+        "title": "Castillo de Chancay apuesta por eventos corporativos: ¿qué viene en 2027?",
+        "summary": "El Castillo de Chancay busca ampliar su negocio más allá del turismo tradicional y ganar espacio en el mercado corporativo. La realización del primer TEDxChancay, programado para este 19 de septiembre, forma parte de esta estrategia de diversificación, que también contempla una nueva apuesta hotelera.",
         "source": "Gestión",
-        "url": "https://gestion.pe/tecnologia/ia-en-las-finanzas-de-una-empresa-que-decisiones-podria-tomar-por-si-sola-y-cuales-no-noticia/",
-        "image": "https://gestion.pe/resizer/v2/RWIF4AE3GRCXRGB2QVQLWREXTE.png?auth=4308def0c02712f130fcb667975fa563ba203230c9b5cd52490d370d13dcbc75&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-18T02:45:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/castillo-de-chancay-apunta-a-que-eventos-corporativos-aporten-hasta-15-del-negocio-noticia/",
+        "image": "https://gestion.pe/resizer/v2/6DXOPR6TVZDHPDFSXMMSLB4RUU.jpg?auth=fb703b6bb636f4a76d52da2c8ed043cea6aa5741cd39ead4f9cd5bfbbc33dbfa&smart=true&width=1200&height=835",
+        "publishedAt": "2026-09-18T12:42:11.000Z"
       },
       {
-        "title": "Gigante chino LiuGong quiere convertir al Perú en su hub para Hispanoamérica, ¿Cómo lo hará?",
-        "summary": "La china LiuGong abrió subsidiaria propia en Perú tras 15 años operando a través de su distribuidor y proyecta cerrar el 2026 con 200 equipos vendidos.",
+        "title": "WCA Internacional: “Más de 10,000 profesionales ya trabajan en compliance en Perú”",
+        "summary": "Lima será sede los próximos 23 y 24 de septiembre del Congreso Mundial de Compliance y Lucha contra la Corrupción de World Compliance Association (WCA). El encuentro reunirá a más de 500 profesionales de más de 20 países en la Cámara de Comercio de Lima y coincide con el décimo aniversario de la asociación, presente en",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/gigante-chino-elige-al-peru-como-su-hub-regional-antes-de-entrar-a-chile-y-colombia-noticia/",
-        "image": "https://gestion.pe/resizer/v2/VFDFB7UZMNGADDOKYR6GPP4CE4.jpg?auth=75ff8b435be76525177a7b2a1c0c270e05cb129de089fc335838f99c413d11de&smart=true&width=1200&height=787",
-        "publishedAt": "2026-09-18T02:00:00.000Z"
+        "url": "https://gestion.pe/economia/ivan-martinez-vicepresidente-de-wca-internacional-mas-de-10000-profesionales-ya-trabajan-en-compliance-en-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/ZNGBNILU2VHUBHHAFIZMLAG44I.jpg?auth=c30364e665e6e45463f35e5a4ded3fb4ddb3c62deb447acdb806d98ec148808a&smart=true&width=1200&height=817",
+        "publishedAt": "2026-09-18T12:40:04.000Z"
       },
       {
-        "title": "Venta de flores amarillas se dispara ante llegada del 21 de setiembre",
-        "summary": "Venta de flores amarillas se dispara ante llegada del 21 de setiembre. Según datos de Rappi, los pedidos de flores en Arequipa, Trujillo, Chiclayo y Piura registran un crecimiento promedio de 72 % frente al mismo periodo del año pasado.",
+        "title": "Gobierno promete 500 colegios al año: las dos barreras que deberá “vencer” para lograrlo",
+        "summary": "En medio de la crítica situación de la infraestructura educativa, el gobierno plantea la creación de nuevos colegios, pero la propuesta no bastaría para cerrar la brecha que ha venido empeorando en los últimos años.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/venta-de-flores-amarillas-se-dispara-ante-llegada-del-21-de-setiembre-noticia/",
-        "image": "https://gestion.pe/resizer/v2/DJFN4PFRNNGBLOOC3EI6K3GE6M.jpg?auth=8d593e3120f16cc11c56b4cf1544dd6b892c43d97c58d64b56565e4c07768955&smart=true&width=1200&height=820",
-        "publishedAt": "2026-09-18T01:55:31.000Z"
+        "url": "https://gestion.pe/economia/gobierno-de-keiko-fujimori-promete-500-colegios-al-ano-las-barreras-que-debera-vencer-para-lograrlo-noticia/",
+        "image": "https://gestion.pe/resizer/v2/WVNS5RRCZZCFHJQ7Q6MFY7TPOA.jpeg?auth=503e5d647c8b372b4882696a4dc302ed9dc0e386fc06a62b4d516ca1ede5c162&smart=true&width=1600&height=1200",
+        "publishedAt": "2026-09-18T10:22:00.000Z"
       }
     ],
     "sociedad": [
-      {
-        "title": "Una propuesta de agenda legislativa con impacto positivo en el empleo, por Fernando Cuadros Luque - La República",
-        "summary": "Una propuesta de agenda legislativa con impacto positivo en el empleo, por Fernando Cuadros Luque &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYzhYSHBycjVqNGR1UlJCdkJmRThsdUM5YWwzMldQUzczSEpCRHlFc0UyMEdxUkxqY25CY1RNbFBacVFnejc5SmQ0UExfcVV2V0xBdHVXOUlLTXUyVmpZcG9KbWxNd2xnSktuRERUeklJNHM3aElvdUYzWjc2dE55WXd2djZ5TXNDZVFyU3JNSlN1XzFBclRyYWVqTEpxLWw3Q284Q214NUNtTnJRZHhQVGtpM2tCUDdDMXVuYWtnZ2Z1VzQ4VWJhT054Nm1QeXdnc2JpQlNMVkxLc215bk1ZYThuTk1jd9IB5gFBVV95cUxPYzhYSHBycjVqNGR1UlJCdkJmRThsdUM5YWwzMldQUzczSEpCRHlFc0UyMEdxUkxqY25CY1RNbFBacVFnejc5SmQ0UExfcVV2V0xBdHVXOUlLTXUyVmpZcG9KbWxNd2xnSktuRERUeklJNHM3aElvdUYzWjc2dE55WXd2djZ5TXNDZVFyU3JNSlN1XzFBclRyYWVqTEpxLWw3Q284Q214NUNtTnJRZHhQVGtpM2tCUDdDMXVuYWtnZ2Z1VzQ4VWJhT054Nm1QeXdnc2JpQlNMVkxLc215bk1ZYThuTk1jdw?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-14T21:45:20.000Z"
-      },
       {
         "title": "Oscar Reto: \"La anemia infantil es un problema de seguridad nacional\" - Diario Ahora",
         "summary": "Oscar Reto: \"La anemia infantil es un problema de seguridad nacional\" &nbsp;&nbsp; Diario Ahora",
@@ -180,9 +172,9 @@
         "publishedAt": "2026-09-09T07:00:00.000Z"
       },
       {
-        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - El Peruano",
-        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
+        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - elperuano.pe",
+        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; elperuano.pe",
+        "source": "elperuano.pe",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-03T07:00:00.000Z"
@@ -210,6 +202,14 @@
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUm9heXNQZzZPY0tMTmxyWEJrSVFZMlFtb2JVOFpfZXpubndad19NYTVyQVpyLVk0Yi1GZ0xCNmtRY0lWbV9VMTE5QUtRZG1zM2FJMzQweTU1a1lsVzl3OURfYldrUVM1aEJXWGI1OTR4OTFkRDQzcEtpaG1rcE42Zl9jT1g3RVdmQkZETk1ZOFBpd0o1MmF2RHVOczJsQ2Q1VHJGMjJrQ2tCVE42OXNz?oc=5",
         "image": "",
         "publishedAt": "2026-07-15T15:44:23.000Z"
+      },
+      {
+        "title": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado - TVPerú",
+        "summary": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado &nbsp;&nbsp; TVPerú",
+        "source": "TVPerú",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbS0xd2cxQXI5T0hEOEVrN3M2eER5Y0VTTW0yQzBRWGZteXVCLTRySkZwT3ZYNUJ5OEg4Q2hPZENLZnhSdjdxaWxRZExVMndoSmtWcnVxU09LelpFbERlXzQ2cWdQTlM2WG9YYWJBdmIyOWdzUkI5MWYxOHBkei1aMWZna0Q2a2Vrems2N0RwQklYWGhaY3NyLUlyOTZUbWQweHpHa3VLZGxjaTNEMEpObVNFM1VvMEVkSzU3cDFNOXVIZEl5WGFha0J1UXRRbHBwa1JYeWxjNXNPLUhx?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-17T02:03:59.000Z"
       }
     ],
     "negocios": [
@@ -246,6 +246,14 @@
         "publishedAt": "2026-07-04T07:00:00.000Z"
       },
       {
+        "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - Business Empresarial",
+        "summary": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVFwSXZrS2lPelhLNUlzRXRMZmM1WDhBVkptN0QyQ2dqSTQteTJaQVpnb2pUQldrSEJ2QjNpQWJZMC1lNmxtSjRQWUQ1N2JxcEhIcGY3M0xUdWdfV0YwYXBONWItcTlMVzlsekVJMW85VVRRN3Bmc2NjR0hlTlVVYmowYkprdDVwSTZ4T25tWnc0RDkzVUhRVUV4U1ZtQW9idWtuX0RqelF1TkpCbWxyQVQtUXJrMlRsLTg5SlFEQ0k5RS02Wkgw?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-26T07:00:00.000Z"
+      },
+      {
         "title": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups - Business Empresarial",
         "summary": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups &nbsp;&nbsp; Business Empresarial",
         "source": "Business Empresarial",
@@ -268,14 +276,6 @@
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BXc0NCUE53Q1dicXN4ZXFJY3RHNmhlQnh1UG81VHItc29JbE5KdDViOTB1OW5Ja3V4dTdWRWZGLW1zRlVHUVJPNFMyS2h6YzR0THpaeC1EbmdfTlJNQzB4RkJ2VU9wZWN5YjZuelBIUG1DZlVxeURaVTdIdjZTRGdtUmRKaEEzY2dKd2pKS0h2RjUtN1JualhXY3lPbVdIdDlaRFdnRWNUd2p2b1RtTjJQcUx6d21ZNkdkT0dSWU9hV3Nya09UckFMNmFIUQ?oc=5",
         "image": "",
         "publishedAt": "2026-05-27T07:00:00.000Z"
-      },
-      {
-        "title": "Auge del emprendimiento senior: más negocios y reconfiguración del consumo - Gestión",
-        "summary": "Auge del emprendimiento senior: más negocios y reconfiguración del consumo &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcXdIOVdzRmx1VzJfeERKV2sybEYwbm5BbHNRYnRDMTltMGFjWVdsSHdnOTlvb0l2RllLaTc4SXJkalpPaHdlSVFsUW9VS2g2Z2JzUDlyUl9OYjhaeE5Fa2Rwb0VwWEhiX2ZOUmdVa21vdlZqSWxqVFBabHhzOUlUUHJHOW9CcU4zQWltY2hBY2g2eGFycXVtbl9GVElsR3RQc3VxY2RHZjU0RzRoSmxrLTZPM3J4OU9hMzFYUnRfbVhsRUx1VVphdXQySVoyYi1OUkJudU12WnFPYld0SXU2QnNFb3k?oc=5",
-        "image": "",
-        "publishedAt": "2026-04-28T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -296,17 +296,17 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
-        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - mineriaenergia.com",
-        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; mineriaenergia.com",
-        "source": "mineriaenergia.com",
+        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - Revista Minería & Energía",
+        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; Revista Minería & Energía",
+        "source": "Revista Minería & Energía",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNGRFXzc5Skp6cnFkd0Zfbmt3NVpwcC04eXJaekp6Z094a096R013M29yQ3hTUlFzRFF6eTE5SUZ0VHhLQjVEdTFIRlIyUERGM09nTzVZZHNXdmFVR3RITDF3X2RTeUdNb3FnT2otTUlBeGh0TUtKQWFzcURMY1JCMEhSdzM3cnpuUnBrUkh2TEpJOWZOMGY3bkkzTmE3RlY2YjJ3S0dZdVRqdFRBcDN3RFl4blQxeGVuTnM5WHVDRjdmUG1JZExSam9hLU8?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética - elperiodicodelaenergia.com",
-        "summary": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética &nbsp;&nbsp; elperiodicodelaenergia.com",
-        "source": "elperiodicodelaenergia.com",
+        "title": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética - El Periódico de la Energía",
+        "summary": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética &nbsp;&nbsp; El Periódico de la Energía",
+        "source": "El Periódico de la Energía",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2VQSGwtN0JkSnVaSTJURmJuX2VwcmExRWNzXzhsMmhKamg5WEVwU2plZHBHYzdUMjFZQW9xejJoaG04SDV1YWhkZlNneFZTQUNnN3VQVDltd295ai12R09RRlRJaTVEek5tT2F0c21NY1pQWVRxM1NYWVVaZHdiR050dmp0S1Yzc1JfdEsyR3dOUG95QUJzWFBwVWR1OVhMRWR2WGVmS2NrV0p5UGFpb3pYWTgwMW9Qd1lUOUc2aG1RdUk?oc=5",
         "image": "",
         "publishedAt": "2026-07-08T10:21:37.000Z"
@@ -336,15 +336,23 @@
         "publishedAt": "2026-05-29T07:00:00.000Z"
       },
       {
-        "title": "Perú retrocede en innovación: más allá del fintech, ¿dónde están las oportunidades? - Gestión",
-        "summary": "Perú retrocede en innovación: más allá del fintech, ¿dónde están las oportunidades? &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
+        "title": "Perú retrocede en innovación: más allá del fintech, ¿dónde están las oportunidades? - gestion.pe",
+        "summary": "Perú retrocede en innovación: más allá del fintech, ¿dónde están las oportunidades? &nbsp;&nbsp; gestion.pe",
+        "source": "gestion.pe",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUTg0TnlVV3lUYTdjLVp2aVdLR3lmU0l0VnBuTUlYRUxtbE43SHplMGgyc3MwUTl5RnBGeE1pR0tkak1tVVVXakhuV0xPaHh5TmVZR283NkNuZUpTY1FxanJELTJLckdKSVlJOTF3QTBhNnBibnlldjQyQkU3c2JYeDBKcXEwaTJxQklVa2J0Y1Q1T0JRcEVrTlZGV1ZTMWtZNHlEbmJtSTVNUHg1eGRCZjhB?oc=5",
         "image": "",
         "publishedAt": "2026-05-01T07:00:00.000Z"
       }
     ],
     "ia": [
+      {
+        "title": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades - gestion.pe",
+        "summary": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades &nbsp;&nbsp; gestion.pe",
+        "source": "gestion.pe",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTjR3bnR3MGZ1UEJkTk1hLXdWSEY4aXFhNGE5YkxWT2VoS0dIWkdnRV85dTdjbEhWQmRfd2ZGY3daOGhBdTFRaEV5UmtlWEl0LWczSF83NmtPZXFQREN4T1ltdmQ2UUhtWWRKa21xY3NNMHJNSWZsckllWWU4RUpWaWtNMUZJYk9xNjlyWHE1Z0F4LVVIYjVwY1IyNVNRcFhOdC12eHc3b0VaR0xvTURWRlFvZkczWC1XejBKamFpbEhMWVVOT0VHS1NYNTlZRnlaSWl0ZHZ4R2R6WmR2RjA0bkV5VlZYWDZSSUFKZEdlTW0tUC1jZGZ3Snp6TQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-18T10:21:00.000Z"
+      },
       {
         "title": "La razón por la que Perú no debería copiar el freno tecnológico que discuten las grandes potencias de la inteligencia artificial - Infobae",
         "summary": "La razón por la que Perú no debería copiar el freno tecnológico que discuten las grandes potencias de la inteligencia artificial &nbsp;&nbsp; Infobae",
@@ -354,9 +362,17 @@
         "publishedAt": "2026-09-18T02:30:00.000Z"
       },
       {
-        "title": "Perú hizo historia en la Olimpiada Mundial de IA: escolar logra medalla de bronce - especial.larepublica.pe",
-        "summary": "Perú hizo historia en la Olimpiada Mundial de IA: escolar logra medalla de bronce &nbsp;&nbsp; especial.larepublica.pe",
-        "source": "especial.larepublica.pe",
+        "title": "Perú y la ENIA 2026-2030: De la digitalización al ‘Gobierno Inteligente’ en América Latina - Portal ERP",
+        "summary": "Perú y la ENIA 2026-2030: De la digitalización al ‘Gobierno Inteligente’ en América Latina &nbsp;&nbsp; Portal ERP",
+        "source": "Portal ERP",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ2Rud0dCQzBMb0x2dXpNak80RjFMa3huY3AtVFJ1b3l1RVI2MUZxYnR2V0h0THNmTTBBdmUxUkFIaTFtUWQ5LWh3Mjl4SUJURjBIY011M3pwNURhZ1YySmpCeUtfV0o0aXd5VGtGNV91VWdpZ1NDaHdDeWpXVFR0RnRlMkJ5TzNNb1RqWUNIQi1DZ01ka1E2WXRlUmNNMGRhNWZGSmpYX29reEpBUUlxNnUzNWUxWVBFSmZSRQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-18T01:51:25.000Z"
+      },
+      {
+        "title": "Perú hizo historia en la Olimpiada Mundial de IA: escolar logra medalla de bronce - La República",
+        "summary": "Perú hizo historia en la Olimpiada Mundial de IA: escolar logra medalla de bronce &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ21LV0pNOTBINWx0V0trc0JUaEhUSzdBY1VXbnpNYkprTFItR1h4SDdkT0lIb3licFV4TzV3aDRQSkluTWlIcE1sX21iemV1NHFVNXRlZkJlc3NXYWxxX1VYSUlBTXAyZ3NCS0l5cGt6ZmJiQVpNQ0pQV2JZVERTeGlkX0c3MXJPZEltRUgtY0tabXdOMFdfMTNKUjlBdmw5RHdXd0hRdDB1VTdSRVZmb2ZDSlZFX2ZHYm12WXRYX0dCaG52LVNuWHdRTUNDMXF2d2E3R2Q0cjVET2dMX2lFWDRUMEo?oc=5",
         "image": "",
         "publishedAt": "2026-09-17T23:56:02.000Z"
@@ -392,22 +408,6 @@
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ2dtYzZpemhtYWluczhYNlV6bVAyZ2dGWWVudmt3aXp4cW1zZXNWZHRsQkl0ejlEU1lfeWVTTjFtVDhIdnpHTU9oLUVHclluTnFzdnZOcU9iTUpnRDNaUFZhYWVSTk5XR0wtTVItY1lfQk5TNWtjMlZCaUljRXVFZ3BjR0tVRzJPZFhWMDdPX1FET3pQaWxQOEd4VC16WGJoUnlmZEhRTHpRZm9TZFpESk1sWWltd0VUakxhZHFSVDQtRm9HSjNtUVhCZlF4V3pBQ2dwXzJB0gHwAUFVX3lxTFBpdUMzRlJMWWhETWdGc3RGa2FmQ3F0NXNPZWNjNk1NUTBjLXFlWWV3R0kxRVJPeHJuT1EyUlNDLUJTRlVGSVVvTTkxbjlEVkxHbWtNWW1MclZWZDNuUkJYUjBITlZyZ1hQNjlBd1p3TnZZaTItQkpsYVphMVNaUkRMdnQtY0F6aWFSWmFraFkycUVtNUkyVXpIVGNGNWo5MDlWazBuYVUxcjc3QUQySG5qdWE3MGpOOGZFZmtNcjluZHBKb2hPMWJ1WXpFTG53VHpXUGxCUmw3QldxMDdVdzhocU1XVFdBSi1iellWWFhJZg?oc=5",
         "image": "",
         "publishedAt": "2026-09-15T19:40:00.000Z"
-      },
-      {
-        "title": "Perú: regulación de IA debe impulsar innovación sin frenar el desarrollo del ecosistema digital - El Peruano",
-        "summary": "Perú: regulación de IA debe impulsar innovación sin frenar el desarrollo del ecosistema digital &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSFFOMjNjdXBPNVRObW8yd3JJZW8zMHhfNlZacGhaWEdRbWc2YjJOM2lpWUVYQTNrSnQxR1JpVFFmVzhBWkhXbDhYbnFsMEZ4dnpQa3hxRVAwT0VyMmRwTzd3bks1SDN3bWlCOU9NZUN3T0JrS3AxSGNxNUprZjRtSXNQUGRkOURNTklIdHg0UzZRTDhNV0RuUEFUemJUOUJPMkpfbzhDMk83UmJUSGg0amM4SUpxb0dtX3B3N280WFRoOUN0aWkyOVh3?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-15T16:38:00.000Z"
-      },
-      {
-        "title": "¿Tu trabajo está en riesgo por la IA? Estos son los empleos más expuestos hasta 2035 - DSN Noticias",
-        "summary": "¿Tu trabajo está en riesgo por la IA? Estos son los empleos más expuestos hasta 2035 &nbsp;&nbsp; DSN Noticias",
-        "source": "DSN Noticias",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdENSYzJXWlRKQjd5V3RQajUxQ0VuUmR3MXJNYXpzRE5MN0VTanVrUGF5dk1ZcWtQWTlGR2h2OHQ3bzhkdWZrQkExbldoODJFaWdVd3JrYU12emh6UlFiYWlxd3lQRVVDeUVyRzVJRWVxV3FEdWhWZEktaXFLM25LQlFmMUhJSmxHdXZHS0ZVN2VRQm5rSUdDOWx3ZWhSa2c?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-15T14:28:08.000Z"
       }
     ],
     "tendencias": [
@@ -428,6 +428,14 @@
         "publishedAt": "2026-09-10T07:00:00.000Z"
       },
       {
+        "title": "🔴🔵 Una heladera y una emolientera se unieron al viral dle momento en las redes sociales y protagonizaron una batalla de 'farmear aura' causando furor con comentarios y reacciones",
+        "summary": "🔴🔵 Una heladera y una emolientera se unieron al viral dle momento en las redes sociales y protagonizaron una batalla de 'farmear aura' causando furor con comentarios y reacciones diversos. &nbsp;&nbsp; facebook.com",
+        "source": "facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcEppUW9Kb2JaZktiR3BucVVJOXRNSk9mamZvcEs5SkNIdjNidHFsS3ZmWVRUazEya05oSzdCS1hjbWNVdVR2VW85cGZWczhGQTVzS3hvSWR2SDZTYVRrbEgtOVMxWWxSRTNCU2c3cGVpUTA1WFp5ZVItMkxuV1NCeGttWmp6QlczQWswMHhISV9YZ0QtVDk4amVkT0EwSmdtMnFsZDZkTWFwV3J3bGN0dzd0YXhtTGtET2JtWHBqVnBJYndmTVpQOG9hUF9zaF9sUVRlS3FEYmVLLTQwMVE?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-30T04:30:15.000Z"
+      },
+      {
         "title": "¿Qué significa “farmear aura”? La expresión de la Generación Z que se volvió tendencia en Perú, Argentina y otros países de América Latina - La República",
         "summary": "¿Qué significa “farmear aura”? La expresión de la Generación Z que se volvió tendencia en Perú, Argentina y otros países de América Latina &nbsp;&nbsp; La República",
         "source": "La República",
@@ -444,9 +452,9 @@
         "publishedAt": "2026-08-15T07:00:00.000Z"
       },
       {
-        "title": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña - tvazteca.com",
-        "summary": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña &nbsp;&nbsp; tvazteca.com",
-        "source": "tvazteca.com",
+        "title": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña - TV Azteca",
+        "summary": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña &nbsp;&nbsp; TV Azteca",
+        "source": "TV Azteca",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUtQOXdxcVJBQ3VUS2QwTjRrWFYxMmRqSFk4dDVBZXNoTWZrNGwyTUtpUXdHTVl2UWlGNEx1YWRycWdjdWFZbDFJWFU1TGo4bGRVZWt3bkNvSnpXaWVSaGFhbkpYWkFFcFJacEJVT2R2U0hDR1huVjBua2U4aWhzdVoySUxIZ3FId0pfREhoajB4M1pPaXhfaTl1U3ZESEJZZXFn0gGwAUFVX3lxTE5vUUtIUGJEWFlSTlpGNktFT1lSOWJLSWJ3cEg5ZWEyR1VCVTJnal9hSDNWVVBkeDJmR1FYaWlNSHFjQkVPQjlDMUJtQVNXVFlUWi12ZmM4NWo1MFVfWE9RRDd5dlJzWXg4UFkxV2d0eGxMakZrMThuM2JhTGs4dVZ6Y2JPQ21pRGNtaV81TmlZY2pRT1p2WWlmSm9HcXEwUEpuV1pnODd0NWRGNW5xR2Nn?oc=5",
         "image": "",
         "publishedAt": "2026-08-15T07:00:00.000Z"
@@ -466,25 +474,9 @@
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYkxYWU1GV09vM243VlB3NWZhbWt5RzF1bE9PdXRhR3BkM2cyb25NTjVMMG1XbnM3aU1rMXBIb3FFV3cwRjRrYkduVm9Gd0hyRFlKWElDSk8ybEtXVUJkRHlXc2FuWkhodTg1Z1ZGbmpUZVZxcTN4M1J6ZlpxZHJFNUtTN2tRQWE3MVR5SkhwLWVCelVKU3FNZVowYjh3YVJYWDFHWm1PbUlJOVNBOTVQT19hQ2tGbXNYWTllU3ZoLVNlNE9aUGwzZzl3LTJHaDN6TWpaNkJsOXBTRVIwMmtfVjUyaGo4X1E1bFBvb3ZkMUZ5QmozSGtYcUx5VdIBlgJBVV95cUxPUElwalRLcFI3MTN6a3dqaV9pWHA2NjFYWVFHZU00NTNTblYzYXo3aDdXaEF1NzM3bmx0MkFCbnFGdmtFd2syOVRwNE1HRVV4dnhsOUtva2E5ZUVvbW1CVDBneGc5a3hZUU9oVjFfVE0xOExvbG5TM0FoeW81Wll1UWtxRTNqdkJiTWoxbm42aG9PWVNjTmlvbmgzaUdmVDA1bkFmUm1RRVVua2VxY0tldUlQTGEzZ3k2Sk10N0JKWUxTTkF6OGQtVlV6RzhmcGlJdlA1OF9JaEFIcFI1U3NoZDZtUnpmbEpBWVZCTUE1bVNDQUxZcm9QVDB2OEhpekVtcGItWjNDekpHY0xKSk1GQXpMRGhYdw?oc=5",
         "image": "",
         "publishedAt": "2026-07-08T07:00:00.000Z"
-      },
-      {
-        "title": "Minsa advierte sobre desafío en redes que expone a adolescentes a graves riesgos de salud - Infobae",
-        "summary": "Minsa advierte sobre desafío en redes que expone a adolescentes a graves riesgos de salud &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ19nT2YyMlR5RFhzZVRjTXpPcjZXYjhHZ25aV1BkeTFuWDVKTHZxUFRyQklUb0JYaGFIMUJEbEdVbTg3Y01OV255QmN3OHlEbWNaS185UXVqUHhydnF1YTlrZTNSQmtmVGNKc2xyb28zTmt4czlsd2Z1OC0wQTZYWmpjT0pUNU0yN21CWnpYamV6eU43TkdQUE1FdjUxUGVRQ0tzbGpDbEk2Y0xrS3Y1bl9hY2UxSnVuMTF2ZV82MTZ2dGVkQ0tPVG1R0gHkAUFVX3lxTE5xaE1KVl9TLXVjQW16VUhTbmotZWRBcUJueDBnQWZLZFhPaC1hSjZNSGVXSnFEQlotekUweWloX0xEc2txcEt5N2RGOUFBYXBFaXBZYTdZaWpkaktoNUd4cDFsV2R3bGdOOGNDVV9qajFLMy1ZTUh3TXU4dlZmVmprRnlvQzhLMlM4RnpTT2FMSzhKdS1PaXdvZE0tQnlIUmIyM3l4akJrYjIwcnMwY25yMXl2TFIwdjg1YXpBNmRnNDBrdU9oZTN5LVU4MGp6dHVVR09fTnh5cmN1eGNsaXBDNUlZXw?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-07T07:00:00.000Z"
       }
     ],
     "farandula": [
-      {
-        "title": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” - Infobae",
-        "summary": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZFRYakI4T1o2cXhXN2pKSzc2bXBiLVlUZ1R1VFAxSWtDRW10LUl1TnNZaWJLRXpXSlBEZmJzN2lZdGF1SG5NUDBWQXUzZXp3VTlnbXlTODd1clZtRXZQUENXWlRydS0ydkhyWFg3SHJScVdKZ1VlU1l2cWpBM2RJcndGYjNWRVJNblpCa29EOHpXRGlnRVVCb0JOd0s4allqdVVjS0FEMGZXU2c5OXB4S214NUhIb1FFRWlaNVc3OHA0Uk0xcmpVbGFkdW1Kb1laTXZTSzZNY0J1WkFNM3BCRkRqdVNsV185WEdkSGtmMjZhLU00eW9mcExBdkvSAZcCQVVfeXFMTUlaaHZOVlluQ2hONUZIY1Y0bnBXNDVmN2tYNXFvbjNBVFBSR3RRUXNYOWVJdU9oQ0dHbUExc3FwTkEzWFM4UkVMTmFjX1dRdVR4VFRncThQWXFFV2pNUmhGZDBFRHZyUnZXcDVBWnhneG9fSklpMDFScE9nZlNjMzQ4aFI4MnNBTmtiTnM4SkhzRGFWWVZSai1IYnV4QkFsU1FSUGZXU1V4SGNlSjYtNUY1UFNiSXVDWEtEV3VjaXljZDZkdFEyMFJhenFNaXB3VVhRcTNEWTJzU2prTm1MMzkzOTdPT3laQV9sNkItOGRoWFo2SXZzRmZNTU9UYjhuYjd0VnZWTVY5WmNoRktEczI5b3dKbGVr?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-09T07:00:00.000Z"
-      },
       {
         "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
         "summary": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula &nbsp;&nbsp; Infobae",
@@ -526,6 +518,14 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
+        "title": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula - La República",
+        "summary": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdkttUlMxUDlJSFM3dC1ZMUhLeDdZRDBsZGh3ZE53NnpMOWpCbG1nN1ltc1ZyV0JPbnloY0RSUW0yNU1nSFRiaWZwRXc0MVBBSWVPY2RhcVN4OGlLU20wQ1RaM1NIMHJfY0RVc0czWWdGTVh3azIwdTZVRldCZFdJYXJPNVE5QzNMeFA0RXEzRzAwRHNlT0NhMlZmTVdUemNlbTBzRGw1MEh5bjkwdENkQTFKcEtpNDk1bk01N1FNbW5xak12aGk4cWh0NFhydEtadG42RElFVEpuOUlaRFNfNmlGLTNENjBTMnd2TzN3OF9ZVFdmaktlZzROdXdEaExFbzVGRmpyN3R0d9IBjwJBVV95cUxNWkFhRzkzdkRBTF9aNHVTRXV2T3VBQTBiRFZQb0hoNktPYW1RclNIME90SHhYZ01Gazc1ZmZLWUxuUmhyWTJncVUyZ2o4bWVGS3ZJQS1FYVk4cVdLTm16TkwwWDVNTFpEV0lGb29aWTBNV2tMRVJDUU5HWmtzOTh1OW9SUnJGSW1GRFduU0F1TVBJdWQxYno4X1RETURES09iTTZjZ1pOVTNKQjk4NEV4Q2t0ZjhQUlk5VXdmYTNRbE81Qi1OUW8xMHE0bWt4d3FCZmdJV3d5NUVVaHdBdGRmSmFyNVRkb2FxaVJEdlcxbXJBd2kyQzhUbDl3QmpFNVBMREk2Q2VaLXNyMkU2czVj?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-26T07:00:00.000Z"
+      },
+      {
         "title": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina - Infobae",
         "summary": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -534,12 +534,12 @@
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
-        "title": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula - La República",
-        "summary": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdkttUlMxUDlJSFM3dC1ZMUhLeDdZRDBsZGh3ZE53NnpMOWpCbG1nN1ltc1ZyV0JPbnloY0RSUW0yNU1nSFRiaWZwRXc0MVBBSWVPY2RhcVN4OGlLU20wQ1RaM1NIMHJfY0RVc0czWWdGTVh3azIwdTZVRldCZFdJYXJPNVE5QzNMeFA0RXEzRzAwRHNlT0NhMlZmTVdUemNlbTBzRGw1MEh5bjkwdENkQTFKcEtpNDk1bk01N1FNbW5xak12aGk4cWh0NFhydEtadG42RElFVEpuOUlaRFNfNmlGLTNENjBTMnd2TzN3OF9ZVFdmaktlZzROdXdEaExFbzVGRmpyN3R0d9IBjwJBVV95cUxNWkFhRzkzdkRBTF9aNHVTRXV2T3VBQTBiRFZQb0hoNktPYW1RclNIME90SHhYZ01Gazc1ZmZLWUxuUmhyWTJncVUyZ2o4bWVGS3ZJQS1FYVk4cVdLTm16TkwwWDVNTFpEV0lGb29aWTBNV2tMRVJDUU5HWmtzOTh1OW9SUnJGSW1GRFduU0F1TVBJdWQxYno4X1RETURES09iTTZjZ1pOVTNKQjk4NEV4Q2t0ZjhQUlk5VXdmYTNRbE81Qi1OUW8xMHE0bWt4d3FCZmdJV3d5NUVVaHdBdGRmSmFyNVRkb2FxaVJEdlcxbXJBd2kyQzhUbDl3QmpFNVBMREk2Q2VaLXNyMkU2czVj?oc=5",
+        "title": "Domínguez recibe reconocimiento del Congreso junto a Paul Michael, ‘Cachay’ y más artistas: “Contribuyen al desarrollo del país” - Trome.com",
+        "summary": "Domínguez recibe reconocimiento del Congreso junto a Paul Michael, ‘Cachay’ y más artistas: “Contribuyen al desarrollo del país” &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxONHE2VHgwbHpNX1RiaWdQUGVFTkc5NDJEcXZQUDFuRHhCcUpCdzR0Y2NHbDNvRURMQlMzSlk5cHRSb3BjclRaMkNEMEF4R0lqLTVxRGQ2SDRBV2x5cklZcTdjTkp2RExYb2VVZWZHb2piLUFBM3lNS0Rqc2R3Mndrdmlvalp2alhMd1ZZYlNrU240YUs4a003el9jSS1sSFNLNzMxNmxaeGV1bWRGQUJpcmVRMkl3MERDbUVfa0VTbTZkVmR1MjdwVnhHQXMxUS1lTDNKNjBCU0V4UksxN1hFUFdWYUdZN2drV0lyNTR2cy1kMXdNZndXV09KeHN0M2NxNG1SQVhjUVRMaWxZemxXTVN30gGmAkFVX3lxTE1BR29NZk9mczFZd284MzBxZWY3S1lvLTRGYzNxU1R6MDVDZEwwdkktb0t0ZkRtMG03SlVKYjNlVmMyMUVTNG8waFc4NnBDUWRwcUI1cl92SmZQQXVnckFaRGdDSEVyLVN0ekl4Y2ppMm9BeUxWVUthQjRhUzhiNkRDMUNuclA1Xzg4MU80V3AzeEFHWVdDUnRjWEpwTEtmQ0k4OUdyX0lHMTV6TGJ5UUNiSW8tZkVqcmRZMmpLOEpfZl8wNnhGdmg0T01ZVVgyVGRKeUhqVXJmWm56NndqNTJ5d09PczhNekQ3cFJWQTBkWUJJUVEyekdlRUJTSk5HdUZaakUxR2VXaFE1YXg4NXVnTjFFZFdxanl6UXUxUFByUjlXSVVNQQ?oc=5",
         "image": "",
-        "publishedAt": "2026-07-26T07:00:00.000Z"
+        "publishedAt": "2026-07-24T07:00:00.000Z"
       }
     ],
     "cultura": [
