@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T20:36:17.164Z",
+  "generatedAt": "2026-09-19T23:00:23.098Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -22,6 +22,14 @@
         "url": "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
         "image": "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
         "publishedAt": "2026-09-01T00:00:00.000Z"
+      },
+      {
+        "title": "Josué, ¿quién te defiende?, una crónica de Fernando Vivas sobre el defensor del Pueblo",
+        "summary": "Josué, ¿quién te defiende?, una crónica de Fernando Vivas sobre el defensor del Pueblo | Josué Gutiérrez, el defensor del pueblo, tras celebrar los 30 años de la defensoría con el ‘Fiestón del Año’, es cuestionado por una seria de denuncias y contrataciones sospechosas.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/josue-gutierrez-quien-te-defiende-una-cronica-de-fernando-vivas-sobre-el-defensor-del-pueblo-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/H36DWJYR5BHY7MGOEPM5ESM6BA.jpg?auth=9c326e7ad77bc13fc2dbae8804fcdb1469be6709a74b617f788942bd74d1bdc6&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-09-19T22:29:39.000Z"
       },
       {
         "title": "Alberto Beingolea: “Si insisten en no dar [las facultades], le están complicando la vida al Perú”",
@@ -64,14 +72,6 @@
         "publishedAt": "2026-09-19T16:27:50.000Z"
       },
       {
-        "title": "Josué, ¿quién te defiende?, una crónica de Fernando Vivas sobre el defensor del Pueblo",
-        "summary": "Josué, ¿quién te defiende?, una crónica de Fernando Vivas sobre el defensor del Pueblo | Josué Gutiérrez, el defensor del pueblo, tras celebrar los 30 años de la defensoría con el ‘Fiestón del Año’, es cuestionado por una seria de denuncias y contrataciones sospechosas.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/josue-gutierrez-quien-te-defiende-una-cronica-de-fernando-vivas-sobre-el-defensor-del-pueblo-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/H36DWJYR5BHY7MGOEPM5ESM6BA.jpg?auth=9c326e7ad77bc13fc2dbae8804fcdb1469be6709a74b617f788942bd74d1bdc6&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-09-19T14:20:00.000Z"
-      },
-      {
         "title": "Gobierno autoriza el viaje de ministros Carlos Espá y Rogers Valencia a Estados Unidos junto a Keiko Fujimori",
         "summary": "El Poder Ejecutivo oficializó las resoluciones supremas que autorizaron el viaje oficial a Estados Unidos de tres ministros de Estado en el marco de las actividades de Keiko Fujimori. Dos de ellos coinciden en las fechas con el viaje que realizará Keiko Fujimori, mientras que el tercero se dirigirá a Washington antes q",
         "source": "El Comercio Perú",
@@ -81,6 +81,38 @@
       }
     ],
     "economia": [
+      {
+        "title": "Perú entre los mayores consumidores de pollo, según el APA",
+        "summary": "En Lima, el consumo alcanza los 74 kilos por persona al año.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/peru/peru-entre-los-mayores-consumidores-de-pollo-segun-el-apa-noticia/",
+        "image": "https://gestion.pe/resizer/v2/TDZ67UHHE5HZNLBDE42DMA5ASY.jpg?auth=c28f737c5bbd39fe14b3dfbfcc905ea2a29a463aa9d5d8a360f943019ef9fc0f&smart=true&width=655&height=434",
+        "publishedAt": "2026-09-19T22:21:30.000Z"
+      },
+      {
+        "title": "Conflictos y feedback: ¿cómo aplicar la inteligencia emocional en el trabajo?",
+        "summary": "La segunda mitad del año representa una oportunidad para revisar avances, ajustar prioridades y concentrar los esfuerzos en los objetivos de mayor impacto. En esta etapa, el liderazgo adquiere un papel especialmente relevante para mantener el foco, facilitar la toma de decisiones y acompañar a los equipos en la consecu",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/management-empleo/conflictos-y-feedback-como-aplicar-la-inteligencia-emocional-en-el-trabajo-noticia/",
+        "image": "https://gestion.pe/resizer/v2/BDOT3KNR3ZCRTEM2C4XP5ZJEA4.jpg?auth=4d77cc1f6630a19608592b28fa498b2bc3ae6dbbf13c648ff5da16d88c1bb955&smart=true&width=1280&height=720",
+        "publishedAt": "2026-09-19T22:02:00.000Z"
+      },
+      {
+        "title": "Opera tres marcas de moda y busca una cuarta: el grupo alcanzará más de 100 tiendas en Perú",
+        "summary": "La división retail del Grupo Posben, que opera MIC, Movies y Naf Naf, cerraría 2026 con 12 locales y prevé abrir entre 7 y 10 tiendas durante 2027. La compañía identifica a la moda infantil y femenina como sus principales apuestas de crecimiento y evalúa ingresar a belleza o moda masculina desde 2028.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/pb-retail-acelera-en-peru-abrira-hasta-10-tiendas-en-2027-y-busca-una-cuarta-marca-noticia/",
+        "image": "https://gestion.pe/resizer/v2/ZNBKST5MFNBWPH3SB7VDBXCNSE.JPG?auth=534aac9017d16ab15269f6aa7d85174a4f6d49f874bc032f99ad3761d3553f0a&smart=true&width=418&height=359",
+        "publishedAt": "2026-09-19T22:00:00.000Z"
+      },
+      {
+        "title": "Heineken sin alcohol crece más de 100% en Perú: ¿cuándo se producirá localmente?",
+        "summary": "Heineken, que cumple seis años en el mercado peruano, prevé mantener un crecimiento de doble dígito en 2026 para Heineken, Tres Cruces y el volumen total. Además, evalúa producir Heineken 0.0 en Huachipa hacia 2029 y busca ampliar su alcance mediante una mayor distribución en Lima y provincias.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/heineken-peru-apunta-a-crecer-con-mas-inversion-innovacion-y-distribucion-noticia/",
+        "image": "https://gestion.pe/resizer/v2/4HIWYIG6VZACNBJSFHGIOS4LVA.JPG?auth=5f00f9c2c106be5b9249173659e1345df535cf0b0e7072bfe793fba29dd33985&smart=true&width=800&height=600",
+        "publishedAt": "2026-09-19T20:58:00.000Z"
+      },
       {
         "title": "¿Cuánto puede costar y comprometer el delito de un trabajador a un empresa?",
         "summary": "La inseguridad en nuestro país escala a diario. Los casos de robos y asaltos continúan generando preocupación entre la población. Estos hechos no solo ocurren en espacios públicos, sino que también se empiezan a registrar al interior de establecimientos, donde los usuarios esperan contar con condiciones de seguridad.",
@@ -98,14 +130,6 @@
         "publishedAt": "2026-09-19T19:55:00.000Z"
       },
       {
-        "title": "Opera tres marcas de moda y busca una cuarta: el grupo alcanzará más de 100 tiendas en Perú",
-        "summary": "La división retail del Grupo Posben, que opera MIC, Movies y Naf Naf, cerraría 2026 con 12 locales y prevé abrir entre 7 y 10 tiendas durante 2027. La compañía identifica a la moda infantil y femenina como sus principales apuestas de crecimiento y evalúa ingresar a belleza o moda masculina desde 2028.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/pb-retail-acelera-en-peru-abrira-hasta-10-tiendas-en-2027-y-busca-una-cuarta-marca-noticia/",
-        "image": "https://gestion.pe/resizer/v2/ZNBKST5MFNBWPH3SB7VDBXCNSE.JPG?auth=534aac9017d16ab15269f6aa7d85174a4f6d49f874bc032f99ad3761d3553f0a&smart=true&width=418&height=359",
-        "publishedAt": "2026-09-19T19:00:50.000Z"
-      },
-      {
         "title": "Tras sus dos hoteles en Miraflores, Grupo Poma busca nuevas oportunidades en el Perú",
         "summary": "Real Hotels & Resorts, división hotelera del conglomerado salvadoreño Grupo Poma, dejó atrás la etapa de incursión en el mercado peruano y entra a una fase distinta. Tras poco más de un año operando el Hotel Real InterContinental Lima Miraflores y el Hotel Indigo Lima Miraflores —dos activos que juntos suman cerca de 4",
         "source": "Gestión",
@@ -114,36 +138,12 @@
         "publishedAt": "2026-09-19T19:00:00.000Z"
       },
       {
-        "title": "Heineken sin alcohol crece más de 100% en Perú: ¿cuándo se producirá localmente?",
-        "summary": "Heineken, que cumple seis años en el mercado peruano, prevé mantener un crecimiento de doble dígito en 2026 para Heineken, Tres Cruces y el volumen total. Además, evalúa producir Heineken 0.0 en Huachipa hacia 2029 y busca ampliar su alcance mediante una mayor distribución en Lima y provincias.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/heineken-peru-apunta-a-crecer-con-mas-inversion-innovacion-y-distribucion-noticia/",
-        "image": "https://gestion.pe/resizer/v2/4HIWYIG6VZACNBJSFHGIOS4LVA.JPG?auth=5f00f9c2c106be5b9249173659e1345df535cf0b0e7072bfe793fba29dd33985&smart=true&width=800&height=600",
-        "publishedAt": "2026-09-19T18:57:26.000Z"
-      },
-      {
         "title": "Perfil de cumplimiento laboral: la propuesta desde el Gobierno en materia laboral",
         "summary": "El pedido de facultades del Ejecutivo plantea una Sunafil preventiva y focalizada. Esto podría abrir la oportunidad de implementar perfiles de cumplimiento para priorizar inspecciones en empresas de mayor riesgo e impulsar la formalización.",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/management-empleo/perfil-de-cumplimiento-laboral-la-propuesta-desde-el-gobierno-en-materia-laboral-para-reforzar-sunafil-noticia/",
         "image": "https://gestion.pe/resizer/v2/MID74D44XBAI5KMCWGRNVUAOFE.jpg?auth=928a1bc286d68b6e9c9c1a49174d943346126ff0bb69b956131450b55158d411&smart=true&width=1600&height=1066",
         "publishedAt": "2026-09-19T18:26:00.000Z"
-      },
-      {
-        "title": "Conflictos y feedback: ¿cómo aplicar la inteligencia emocional en el trabajo?",
-        "summary": "La segunda mitad del año representa una oportunidad para revisar avances, ajustar prioridades y concentrar los esfuerzos en los objetivos de mayor impacto. En esta etapa, el liderazgo adquiere un papel especialmente relevante para mantener el foco, facilitar la toma de decisiones y acompañar a los equipos en la consecu",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/management-empleo/conflictos-y-feedback-como-aplicar-la-inteligencia-emocional-en-el-trabajo-noticia/",
-        "image": "https://gestion.pe/resizer/v2/BDOT3KNR3ZCRTEM2C4XP5ZJEA4.jpg?auth=4d77cc1f6630a19608592b28fa498b2bc3ae6dbbf13c648ff5da16d88c1bb955&smart=true&width=1280&height=720",
-        "publishedAt": "2026-09-19T18:03:02.000Z"
-      },
-      {
-        "title": "Seguros: ¿se puede recibir dinero aunque su inmueble no haya sufrido daños?",
-        "summary": "Contar con un seguro cobra especial importancia en un país expuesto a terremotos, lluvias intensas, inundaciones, huaicos y otros eventos naturales.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/seguros-se-puede-recibir-dinero-aunque-su-inmueble-no-haya-sufrido-danos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/J6U5A5BKMFEERBX76XAUADRU64.jpg?auth=c7c1d8aee3f93d4a27fd7ec24589c86f6693b14216c973756b17c46ee3b47b03&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-19T17:36:00.000Z"
       }
     ],
     "sociedad": [
@@ -156,9 +156,9 @@
         "publishedAt": "2026-09-13T07:51:33.000Z"
       },
       {
-        "title": "El sueño de la casa propia formal: entregan más de 8.100 títulos de propiedad en Arequipa, Ica, Ayacucho y más regiones - La República",
-        "summary": "El sueño de la casa propia formal: entregan más de 8.100 títulos de propiedad en Arequipa, Ica, Ayacucho y más regiones &nbsp;&nbsp; La República",
-        "source": "La República",
+        "title": "El sueño de la casa propia formal: entregan más de 8.100 títulos de propiedad en Arequipa, Ica, Ayacucho y más regiones - larepublica.pe",
+        "summary": "El sueño de la casa propia formal: entregan más de 8.100 títulos de propiedad en Arequipa, Ica, Ayacucho y más regiones &nbsp;&nbsp; larepublica.pe",
+        "source": "larepublica.pe",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQjFwRTVET05xTER6ZnZseE9pOUF4cFBBV19hM3RrZ1liRUc1aHFybFMyTExlbEhudk5rUlA1TnM4X1ZhZEEwaVhGX09fWjRrX3c5TVdLanJGQVI0MUhfVUphSXhYRkFuNVZLYmY0UkpzbXQ0NFhaRGFHSzBPd3JMUFlPaWhaT1Z6d01MSFhucDNHSU1fb3JTYlFNN29IQjRfTURSSlZsNThIbjRXajhBVFFJQm5SNDZXTE1MT0xtWHdoR0tFdFQ3YndyYm52U09taW5wZ19zdFRmRHBCOVN3ZkQ4cFcxSDlyTUNXX051aXZSd0xIWjhadEZQVmJZUdIB_gFBVV95cUxPQjFwRTVET05xTER6ZnZseE9pOUF4cFBBV19hM3RrZ1liRUc1aHFybFMyTExlbEhudk5rUlA1TnM4X1ZhZEEwaVhGX09fWjRrX3c5TVdLanJGQVI0MUhfVUphSXhYRkFuNVZLYmY0UkpzbXQ0NFhaRGFHSzBPd3JMUFlPaWhaT1Z6d01MSFhucDNHSU1fb3JTYlFNN29IQjRfTURSSlZsNThIbjRXajhBVFFJQm5SNDZXTE1MT0xtWHdoR0tFdFQ3YndyYm52U09taW5wZ19zdFRmRHBCOVN3ZkQ4cFcxSDlyTUNXX051aXZSd0xIWjhadEZQVmJZUQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-12T20:26:13.000Z"
@@ -180,9 +180,9 @@
         "publishedAt": "2026-09-03T07:00:00.000Z"
       },
       {
-        "title": "Puntos ciegos del mensaje presidencial: la deuda social sigue pendiente, por Javier Herrera - La República",
-        "summary": "Puntos ciegos del mensaje presidencial: la deuda social sigue pendiente, por Javier Herrera &nbsp;&nbsp; La República",
-        "source": "La República",
+        "title": "Puntos ciegos del mensaje presidencial: la deuda social sigue pendiente, por Javier Herrera - larepublica.pe",
+        "summary": "Puntos ciegos del mensaje presidencial: la deuda social sigue pendiente, por Javier Herrera &nbsp;&nbsp; larepublica.pe",
+        "source": "larepublica.pe",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQUhfTXp2Nm9rb0FRZEFuU3lrVGdNMjl2ZzJaUDFTUHdGSXBkSWFWbDllU2lMM3o2SjRhXzhwcVBaZTYzY0FkRVB4Y3hsWklxeEVHcF9kRG1ITjVLbFVaQzliNXM0R2k1TzBnZkpTVkp0WEF1OWJta2ZnWDJFSzNmam9nWWJrOXFfblhVS1NXS0s0VGpQQnFwNnRjaTFuRE5HRnIwQXFETG1xV2VSVjRJTXhVbGtxdDVHMktyOWVoLWJyWS1vTDlMT2UtV0RVaUdsM3R5UExxSU92ejDSAeABQVVfeXFMTTFRaml3X2FadkFWZFJ2dGNzeEhoNFNuWWgtUFI3Q0hrVXdoZVZXQXFVSzZXRHA3UHVLWURmZV9BWDFhZjQwN1BsYWxLSmV4M2FyZDZEQnc2ZWhaSDgzT216dURubWtZemVYanc0ZmJUU0Z5cXA0VzBvSWF6bWNONng2cV9qbWVxMUdORU9BRkZfdzhVWmZ5MUp5aVBhSlpWWXRLS3hINnJSdTlhazYydW1CeFVjRUlkYTBzbktnTmJLN1JQSmlicHM3cURjMUljX3hTaTBEb1FCaEU5V003X3M?oc=5",
         "image": "",
         "publishedAt": "2026-08-02T07:00:00.000Z"
@@ -262,27 +262,27 @@
         "publishedAt": "2026-06-25T07:00:00.000Z"
       },
       {
-        "title": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 - Infobae",
-        "summary": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 &nbsp;&nbsp; Infobae",
+        "title": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión - Infobae",
+        "summary": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFBQRGNLOWxaMy1mT2RjU0RCNGw4TVNrRmlfX25qei10R09YTWltOXdNX1Fya1g0NEk5S2hhUnQzZmstM3o4bFNJS3QwbkFvUGs3dmx6TktrMDZZSEkzTkJVZ0ZEdmFaa0NUZk9pT1prS1gzNjVDeVMyUzdjWXlNQTNtSThQcnRyRjJ6YlZEWkw1WUF0aTZsQXRTWnJtRnYyX1Z0NDBCYm1PWGlOekJpeGlBS29qLUkzbTBFa1FKMmJnNDNrNDAxeWZn0gHkAUFVX3lxTFB5cjR0aTlsOEl3ZkZEeV9XR05Vb0RHblRDVTRpMFdTZTllMWdRaEpoSlZpSm5JOUZCbzBXc2pic0NMdG9OOGcwQk5fNWF2Wk9FYVp5RnU1WVg4ckU4eTJfT3FEOTN6cURTMjU2d1U5NUJmZ0ZseC1YdllmbEpuZTlnbThqeF9vSlVTb0cxSkZtZFBpTmcwakkzemxzcGJucU9JbFFic2hqNU9jSGVHWkdUTVNuNFFIb0x3S2pTNFBzRXptSF91N0EtSElUMi1kVldUYl9ocmVQLVNSZDY0V25QNV9iRA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
         "image": "",
-        "publishedAt": "2026-06-18T07:00:00.000Z"
+        "publishedAt": "2026-06-10T07:00:00.000Z"
       },
       {
-        "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
-        "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
+        "title": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú - Business Empresarial",
+        "summary": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BXc0NCUE53Q1dicXN4ZXFJY3RHNmhlQnh1UG81VHItc29JbE5KdDViOTB1OW5Ja3V4dTdWRWZGLW1zRlVHUVJPNFMyS2h6YzR0THpaeC1EbmdfTlJNQzB4RkJ2VU9wZWN5YjZuelBIUG1DZlVxeURaVTdIdjZTRGdtUmRKaEEzY2dKd2pKS0h2RjUtN1JualhXY3lPbVdIdDlaRFdnRWNUd2p2b1RtTjJQcUx6d21ZNkdkT0dSWU9hV3Nya09UckFMNmFIUQ?oc=5",
         "image": "",
-        "publishedAt": "2026-06-17T07:00:00.000Z"
+        "publishedAt": "2026-05-27T07:00:00.000Z"
       }
     ],
     "ideas": [
       {
-        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - forbes.pe",
-        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; forbes.pe",
-        "source": "forbes.pe",
+        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - Forbes Perú",
+        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; Forbes Perú",
+        "source": "Forbes Perú",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnR2OFJqcnVKWEVnZF9Fc1FFQ1AxY3lYbTFYQnh2WkJZMEljS2I4UHozWHN5eTNXVXkwSV9WS0U2WDdCenNoMGVLUzRpMEZXcnIzRVpJSWloS295VGJzNVZtT3h6akN0b3EyVDdYVUwtc05SR0Z6WWE0MjZKUnd3TDFnUWx3aEJwbHRYUmgxNHJseERsVE8tdTg0WnJrT1hMMEFER0h6WVp1ekd1V2JWLTNPUQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-25T12:02:15.000Z"
@@ -420,9 +420,9 @@
         "publishedAt": "2026-09-12T23:13:00.000Z"
       },
       {
-        "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar - La República",
-        "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar &nbsp;&nbsp; La República",
-        "source": "La República",
+        "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar - larepublica.pe",
+        "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar &nbsp;&nbsp; larepublica.pe",
+        "source": "larepublica.pe",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQW9fVk51R2xSS1c2X0I5TjFfc2VoT3hDeVJJVEFIbUJSTmItZ0lQUGdocWJvWVA4bjUtWGlfMGtMVExUMnA4TVBBODg1YVJ5VVBYeWc1X1lvYl9MdzFQVGZjVzg1RzQxNjRlb3hNN25CaVd3Y29XWlRPSWJSVmlHQWFtZnV2OURIaFByNGZJT193YklScUl6cEU2X2o2SklLcVdZLU15VklTSnBKQVJaYWVZcGloeXJHM25HUS1aUGNVSEtPaElZenMwcEVvSXB3eE42cFFESzItX2hXckZSNi10YTN2X3BtWjlObWwyc9IB9AFBVV95cUxQUXZkLW0ya0dvbTdNOC0waTg4UGJrVXpmTFB2TXhDc0d2aE5QOEFYU1hIR3VyY0U0WkNPYnVqM3ZJSFlOWndYdzZCdXVUZHE5eXRyQi1TdWw1UHVNZjYxY3pMY3R5TkF6ZFRqTUstYjVZYzdLN1NxZ3VVdTlsc1lBYTZDVnVRYU5QcGJMdDU5OV96ODZMY1hhNG1IdVhtWkVBMkpkQ0xLSTVsU0YzdVZzdFI0YnllR0dyWW5UVFBIQllGRy05b0hOcEZXV0pjeDNPenpNNkp5M3JTYmpoZGxxUzNvR2tYVVpXSktGQXNtcDVHclhD?oc=5",
         "image": "",
         "publishedAt": "2026-09-10T07:00:00.000Z"
@@ -436,9 +436,9 @@
         "publishedAt": "2026-08-30T04:30:15.000Z"
       },
       {
-        "title": "¿Qué significa “farmear aura”? La expresión de la Generación Z que se volvió tendencia en Perú, Argentina y otros países de América Latina - La República",
-        "summary": "¿Qué significa “farmear aura”? La expresión de la Generación Z que se volvió tendencia en Perú, Argentina y otros países de América Latina &nbsp;&nbsp; La República",
-        "source": "La República",
+        "title": "¿Qué significa “farmear aura”? La expresión de la Generación Z que se volvió tendencia en Perú, Argentina y otros países de América Latina - larepublica.pe",
+        "summary": "¿Qué significa “farmear aura”? La expresión de la Generación Z que se volvió tendencia en Perú, Argentina y otros países de América Latina &nbsp;&nbsp; larepublica.pe",
+        "source": "larepublica.pe",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPT2dmYTRjTlBGN0h5SzJPZ0hqUkdCLV92ZWZvMTdySXQtSlRCVUM4SVBoV3BIT3hkUUNBZkJRODNfRThTODRDRXlrbGttdHQ4OXlzNXMwTzBZTG5qVHNqM1NwTlJFNjdZM0xGa0RuZ3diT3lreUhnMS13Sy0yVVJmMExRS0VnTjhUc3E0Nl9xVjJIbVM0MzdYdlgtVmVnd1RMOTNfRW16NnFOUTlBS3M0Ym9DamRYSGZSRk95R2o5MWFFalN1N0RzQ0lHMkR5Q3Zia0VSRjNrZUJaNGJIbF9FTlI5UzFpMWVDeUlBQ3R0VUTSAfYBQVVfeXFMUDdRM0RTay1hNWNtdlFxLXJMR2llUTF3UVRMSjU0UTctVTBWVjN2Z3ZBWV9QWkhZeG1pRDNXRk5vd0RGTzloRHZtSHVaU3FQU0tFcVNrWG1jaU1yR21mUEhRQ2gzSkJQNFdQZ21iM2ZVREZVYWc0VHZYQVg3WEZYaTl4X1NfckJzcFFya2pKLXpaaEpUdE9NdTlkTl94VnFtSnNHLUktU0g4MTFUdHJFazJLV2JvT29UQ0tnQkthdVlpQ1NaRnFTRTR6TU5OTzJwM0hvRlhhZW1VUE9yQmdUTFpncXJabVRLSHQ4OW1BTWxmTDNFdU9n?oc=5",
         "image": "",
         "publishedAt": "2026-08-22T07:00:00.000Z"
@@ -510,9 +510,9 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
-        "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - Trome.com",
-        "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
+        "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - trome.com",
+        "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; trome.com",
+        "source": "trome.com",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHpkRUdJMnV3X2tiUURubVRPZW9NY0Z3UlJIS1NIaG1jVkpPWEYwcVlsSXJBdVliMERjdnlBRkR0LUw2WllJam56RXBUb2tVbFlxZDJOV2xEYTJsczg1elZlclFvREdzUWptcmw3VURlYlhST09TdVpWTmo2Znp3dGJWeDhHN2xILU1aOHBXVkZ5MFhFNnM4SzliOE92VTNOWnMtTk1YaWVUMmdHcGN3a2MxRnJaQXlWdmo2aE5iR1UzbU1QWnVibkZJamZabm9KV01SQ1FfM3TSAewBQVVfeXFMTlJtdHBFeG9XM2lzMnFvRnpMWk5XZGFRblJNdlBTeVNRcGpGR1hOS2RydWh3dTlFQ3BDNkZEMmlXTi1nUW1zUFN6djIxRU5BUDV2V3hkZDREMlRVTmZtRy1IT3dEQXdCMmRLYmg2ZndiNHI5dV9RWmM0bDZmdjBITkpBNzBqWEx6cTJWQTBUV1VBcm9mS3U0YzluUlEwb0ZLT2picG0xNlI1YnVEY2xGYVoxMC1CMlV1NHhzRmtTTVVZaERiTUVZZGR4SjJ6YVpDeGJMY3Aybzg4WUZFV1kyVm1OdEUyUktiVE95OHM?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
@@ -526,9 +526,9 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula - La República",
-        "summary": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula &nbsp;&nbsp; La República",
-        "source": "La República",
+        "title": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula - larepublica.pe",
+        "summary": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula &nbsp;&nbsp; larepublica.pe",
+        "source": "larepublica.pe",
         "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdkttUlMxUDlJSFM3dC1ZMUhLeDdZRDBsZGh3ZE53NnpMOWpCbG1nN1ltc1ZyV0JPbnloY0RSUW0yNU1nSFRiaWZwRXc0MVBBSWVPY2RhcVN4OGlLU20wQ1RaM1NIMHJfY0RVc0czWWdGTVh3azIwdTZVRldCZFdJYXJPNVE5QzNMeFA0RXEzRzAwRHNlT0NhMlZmTVdUemNlbTBzRGw1MEh5bjkwdENkQTFKcEtpNDk1bk01N1FNbW5xak12aGk4cWh0NFhydEtadG42RElFVEpuOUlaRFNfNmlGLTNENjBTMnd2TzN3OF9ZVFdmaktlZzROdXdEaExFbzVGRmpyN3R0d9IBjwJBVV95cUxNWkFhRzkzdkRBTF9aNHVTRXV2T3VBQTBiRFZQb0hoNktPYW1RclNIME90SHhYZ01Gazc1ZmZLWUxuUmhyWTJncVUyZ2o4bWVGS3ZJQS1FYVk4cVdLTm16TkwwWDVNTFpEV0lGb29aWTBNV2tMRVJDUU5HWmtzOTh1OW9SUnJGSW1GRFduU0F1TVBJdWQxYno4X1RETURES09iTTZjZ1pOVTNKQjk4NEV4Q2t0ZjhQUlk5VXdmYTNRbE81Qi1OUW8xMHE0bWt4d3FCZmdJV3d5NUVVaHdBdGRmSmFyNVRkb2FxaVJEdlcxbXJBd2kyQzhUbDl3QmpFNVBMREk2Q2VaLXNyMkU2czVj?oc=5",
         "image": "",
         "publishedAt": "2026-07-26T07:00:00.000Z"
