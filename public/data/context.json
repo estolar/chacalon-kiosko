@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T18:45:18.001Z",
+  "generatedAt": "2026-09-20T21:30:35.055Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,6 +24,46 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
+        "title": "Ministro de Educación: “Hay 80 denuncias de violencia en el Liceo Naval en dos años”",
+        "summary": "El ministro de Educación, enfatiza que no se puede llegar a un extremo de violencia tan grande si antes no han ocurrido otros episodios. Hablamos sobre cómo se llegó a esta situación, qué cambios hacer y cómo prevenir otros casos.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/ministro-de-educacion-hay-80-denuncias-de-violencia-en-el-liceo-naval-en-dos-anos-entrevista-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/2MLOPZ7SO5AHRHZMN4SMJZPEHM.jpg?auth=f9f4c596bddcdcb69e3132ccf44f7ce73bbe5466a6491a4e3350b15f489c0267&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-09-20T21:25:11.000Z"
+      },
+      {
+        "title": "Elecciones en Barranco 2026: Audio compromete a funcionario pidiendo aportes para campaña de Renovación Popular",
+        "summary": "Una solicitud de “apoyo de dinero” para la campaña de Manuel Espinoza involucra a un funcionario municipal. El candidato de Renovación Popular marcó distancia con el gerente edil.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/elecciones-en-barranco-2026-audio-compromete-a-funcionario-pidiendo-aportes-para-campana-oficialista-de-renovacion-popular-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/4CQ3L52WPBA2DOVXV7XE2GSIPI.png?auth=88344b4e440b841e0e57337114491bd627d42018c7ab86fe677be7ff0a8ad1ca&smart=true&width=1374&height=1145",
+        "publishedAt": "2026-09-20T21:10:00.000Z"
+      },
+      {
+        "title": "No te juegues con los debates, una crónica de Fernando Vivas sobre las ERM y el factor López Aliaga",
+        "summary": "La maniobra se veía bonita. 14 de 24 partidos se pusieron de acuerdo. Matarían dos pájaros de un tiro. ‘No vamos a tu debate, JNE de marras, si no decides ya mismo si le darás la credencial a ‘Porky’ si su lista gana’, alardearon.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/no-te-juegues-con-los-debates-una-cronica-de-fernando-vivas-sobre-las-elecciones-municipales-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/247J3AU3ABHUBHOFZT33ZPR3WQ.jpg?auth=5fba0323943808a7e94d5745d4b29369dc87163071df417997378458ab04f441&smart=true&width=2756&height=1840",
+        "publishedAt": "2026-09-20T20:50:00.000Z"
+      },
+      {
+        "title": "Gobernadores cumplieron apenas el 12% de sus promesas medibles",
+        "summary": "Usando la herramienta “Dicho y hecho”, se revisaron 3.572 ofrecimientos incluidos en los planes de gobierno 2023-2026. Solo 1.421 eran cuantificables, de los cuales 49% han sido incumplidos.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/elecciones/dicho-y-hecho-gobernadores-cumplieron-apenas-el-12-de-sus-promesas-medibles-elecciones-regionales-y-municipales-2026-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/3VJHLF52QNE2JF3U7M45U6EA5A.jpg?auth=16c583ff7671559a6d88245b0a919abfc6f1772f4351ff3a348e104e17bf9c1a&smart=true&width=1187&height=600",
+        "publishedAt": "2026-09-20T20:34:58.000Z"
+      },
+      {
+        "title": "Juntos contra el Perú",
+        "summary": "Juntos por el Perú pretendía gobernar el país. Y casi lo logra. Las intervenciones de sus senadores y diputados en el hemiciclo, las decisiones que se adoptan en las comisiones que presiden sus integrantes y los personajes a los que ha llevado a ocupar escaños confirman que hace solo tres meses estuvimos a punto de dar",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/opinion/columnistas/juntos-contra-el-peru-por-hector-villalobos-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/IUFUZUHGMFHKXGHQA7QEVEZLR4.jpg?auth=700395213f117eb37046092e42626e7e5fcc470ca6d08c8054a9d2c0409401fa&smart=true&width=600&height=522",
+        "publishedAt": "2026-09-20T20:33:39.000Z"
+      },
+      {
         "title": "El éxodo de los movimientos regionales: candidaturas caen 83% desde el 2022 y partidos políticos dominan el tablero",
         "summary": "En el 2024, la amenaza en el Congreso de eliminar este tipo de agrupación desató una migración de candidatos hacia los partidos políticos de alcance nacional. Los movimientos desaparecieron por completo en 11 departamentos.",
         "source": "El Comercio Perú",
@@ -38,96 +78,24 @@
         "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-en-el-peru-no-habra-territorio-con-miedo-tomaremos-fuertes-decisiones-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/YH4XCQBWFFBAPLVSLNKAD5LZNQ.jpg?auth=6c91876ff8020c86ebccfc75221966c2e54984413264e8c393ae70b25f883544&smart=true&width=700&height=394",
         "publishedAt": "2026-09-20T17:11:53.000Z"
-      },
-      {
-        "title": "Dicho y hecho: ¿Cumplieron sus promesas los gobiernos regionales?",
-        "summary": "Dicho y hecho es una herramienta que verifica qué ocurrió con las propuestas incluidas en los planes de gobierno de las 25 regiones del Perú. Revisamos 3.572 promesas y contrastamos su cumplimiento con información oficial del Estado durante la gestión 2023-2026.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/dicho-y-hecho-herramienta-verificacion-promesas-cumplieron-planes-gobierno-regionales-peru-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/SHIXOUBADBHVDDEIYKY6C344OM.jpg?auth=f5d34f83b400d3ecc285b690e5c6fa12f77657155fde48f06785693e62a11346&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-20T16:25:00.000Z"
-      },
-      {
-        "title": "Ministro de Educación: “Hay 80 denuncias de violencia en el Liceo Naval en dos años”",
-        "summary": "El ministro de Educación, enfatiza que no se puede llegar a un extremo de violencia tan grande si antes no han ocurrido otros episodios. Hablamos sobre cómo se llegó a esta situación, qué cambios hacer y cómo prevenir otros casos.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/ministro-de-educacion-hay-80-denuncias-de-violencia-en-el-liceo-naval-en-dos-anos-entrevista-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/2MLOPZ7SO5AHRHZMN4SMJZPEHM.jpg?auth=f9f4c596bddcdcb69e3132ccf44f7ce73bbe5466a6491a4e3350b15f489c0267&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-09-20T16:25:00.000Z"
-      },
-      {
-        "title": "Josué, ¿quién te defiende?, una crónica de Fernando Vivas sobre el defensor del Pueblo",
-        "summary": "Josué, ¿quién te defiende?, una crónica de Fernando Vivas sobre el defensor del Pueblo | Josué Gutiérrez, el defensor del pueblo, tras celebrar los 30 años de la defensoría con el ‘Fiestón del Año’, es cuestionado por una seria de denuncias y contrataciones sospechosas.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/josue-gutierrez-quien-te-defiende-una-cronica-de-fernando-vivas-sobre-el-defensor-del-pueblo-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/H36DWJYR5BHY7MGOEPM5ESM6BA.jpg?auth=9c326e7ad77bc13fc2dbae8804fcdb1469be6709a74b617f788942bd74d1bdc6&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-09-20T16:20:00.000Z"
-      },
-      {
-        "title": "Rafael Rey: los entretelones a su renuncia al Ministerio de Transportes y Comunicaciones",
-        "summary": "En el día 52 de su gestión, el gobierno de Keiko Fujimori sufrió su primera baja. Rafael Rey dejó ayer el Ministerio de Transportes y Comunicaciones (MTC) tras presentar su renuncia irrevocable alegando problemas de salud.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/rafael-rey-los-entretelones-a-su-renuncia-al-ministerio-de-transportes-y-comunicaciones-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/UIWLTAYYD5A3RCTOUNH5IEQXA4.jpg?auth=3707925daa3bdda57626dd48a78880f148fca8ffea4363e6beed6f5e072aa631&smart=true&width=1200&height=647",
-        "publishedAt": "2026-09-20T16:00:00.000Z"
-      },
-      {
-        "title": "Elecciones en Barranco 2026: Audio compromete a funcionario pidiendo aportes para campaña de Renovación Popular",
-        "summary": "Una solicitud de “apoyo de dinero” para la campaña de Manuel Espinoza involucra a un funcionario municipal. El candidato de Renovación Popular marcó distancia con el gerente edil.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/elecciones-en-barranco-2026-audio-compromete-a-funcionario-pidiendo-aportes-para-campana-oficialista-de-renovacion-popular-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/4CQ3L52WPBA2DOVXV7XE2GSIPI.png?auth=88344b4e440b841e0e57337114491bd627d42018c7ab86fe677be7ff0a8ad1ca&smart=true&width=1374&height=1145",
-        "publishedAt": "2026-09-20T15:46:55.000Z"
       }
     ],
     "economia": [
-      {
-        "title": "Conectividad aérea: relanzan mesa clave para elevar competitividad turística",
-        "summary": "El Mincetur reinstaló la Mesa de Conectividad Aérea, eje de articulación entre el Estado y el sector privado para dinamizar la demanda turística y aprovechar la posición geopolítica privilegiada del Perú, la cual lo ubica como un hub natural de conexiones en la región.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/conectividad-aerea-relanzan-mesa-clave-para-elevar-competitividad-turistica-noticia/",
-        "image": "https://gestion.pe/resizer/v2/LT4UI5MIIZDYLF2UAVTWVCH2AU.jpeg?auth=d16b2476c7d2370e18e4de3676dbcad2874210a5e0b83409e0cecbb5d7dbedb8&smart=true&width=700&height=395",
-        "publishedAt": "2026-09-20T16:54:57.000Z"
-      },
       {
         "title": "Petroperú: Moody’s cambió la perspectiva de la petrolera a positiva, ¿qué impulsó el ajuste?",
         "summary": "Petroperú: Moody’s cambió la perspectiva de la petrolera a positiva. Cabe recordar que la empresa del Estado está en un proceso de reestructuración, hoy liderado por ProInversión.",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/petroperu-moodys-cambio-la-perspectiva-de-la-petrolera-del-peru-a-positiva-que-impulso-el-ajuste-noticia/",
         "image": "https://gestion.pe/resizer/v2/O77VLGUSMNAGBP7IY2F54WNMSQ.jpg?auth=b1e102f17c21615ad28e537e400c1f1b1106a4f4e44a6087af974a265072a551&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-20T16:42:29.000Z"
+        "publishedAt": "2026-09-20T21:00:00.000Z"
       },
       {
-        "title": "Perfil de cumplimiento laboral: la propuesta desde el Gobierno en materia laboral",
-        "summary": "El pedido de facultades del Ejecutivo plantea una Sunafil preventiva y focalizada. Esto podría abrir la oportunidad de implementar perfiles de cumplimiento para priorizar inspecciones en empresas de mayor riesgo e impulsar la formalización.",
+        "title": "¿Cuánto puede costar y comprometer el delito de un trabajador a un empresa?",
+        "summary": "La inseguridad en nuestro país escala a diario. Los casos de robos y asaltos continúan generando preocupación entre la población. Estos hechos no solo ocurren en espacios públicos, sino que también se empiezan a registrar al interior de establecimientos, donde los usuarios esperan contar con condiciones de seguridad.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/management-empleo/perfil-de-cumplimiento-laboral-la-propuesta-desde-el-gobierno-en-materia-laboral-para-reforzar-sunafil-noticia/",
-        "image": "https://gestion.pe/resizer/v2/MID74D44XBAI5KMCWGRNVUAOFE.jpg?auth=928a1bc286d68b6e9c9c1a49174d943346126ff0bb69b956131450b55158d411&smart=true&width=1600&height=1066",
-        "publishedAt": "2026-09-20T16:26:00.000Z"
-      },
-      {
-        "title": "Vacacionista peruano se queda 4 noches en su destino: ¿cuánto gasta en promedio por persona?",
-        "summary": "PromPerú presentó un nuevo estudio sobre el perfil del vacacionista nacional. Aquí los detalles del comportamiento de este turista en Perú.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/vacacionista-peruano-se-queda-4-noches-en-su-destino-cuanto-gasta-en-promedio-por-persona-noticia/",
-        "image": "https://gestion.pe/resizer/v2/FYBZTM54TNF5HNRWQAI575H3I4.jpg?auth=56f831e49b65d114f50840eb3d07548f0909460ac9f3e6f6c5fa5293964a1c59&smart=true&width=1800&height=1291",
-        "publishedAt": "2026-09-20T16:06:13.000Z"
-      },
-      {
-        "title": "Minem evalúa cambios al “peaje” que pagan los usuarios libres de electricidad",
-        "summary": "El viceministro de energía, Luis Santillán, mencionó que están evaluando medidas para el sistema de electricidad, entre ellas una referente al pago de los peajes de transmisión por parte de los clientes libres.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/gobierno-de-peru-evalua-cambios-al-peaje-que-pagan-los-usuarios-libres-de-electricidad-lo-que-dijo-el-minem-noticia/",
-        "image": "https://gestion.pe/resizer/v2/RVVK54HIDNGODECLIC3Q7MOH7Q.jpeg?auth=1fc1ac8f2dc4c27411822f64403bd0ed3e2381a86d07c4d428b3b4d6b3cbfb44&smart=true&width=1600&height=1066",
-        "publishedAt": "2026-09-20T15:56:00.000Z"
-      },
-      {
-        "title": "Pagar el IGV ya no basta: una nueva obligación de Sunat alcanza a servicios del exterior",
-        "summary": "Desde julio de 2026, empresas que utilizan servicios de proveedores no domiciliados deben cumplir una nueva declaración ante Sunat antes de pagar el IGV.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/sunat-pagar-el-igv-ya-no-basta-una-nueva-obligacion-alcanza-a-servicios-del-exterior-noticia/",
-        "image": "https://gestion.pe/resizer/v2/LNXJJ4NV2BEIDKDHVLAEZLU3S4.jpg?auth=a2b302cc2126eed17b0dd7339fe3741c5132d0cd5d08d054d458888f42fb43b4&smart=true&width=1400&height=800",
-        "publishedAt": "2026-09-20T15:54:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/cuanto-puede-costar-y-comprometer-el-delito-de-un-trabajador-a-un-empresa-noticia/",
+        "image": "https://gestion.pe/resizer/v2/V47G4NIIOFE75MTL6RLRSEVOCU.jpg?auth=6ba89b663dcd21b558e59a166423caff5f36c2cbd6cc53f7abf3dda36a76f3d5&smart=true&width=1408&height=768",
+        "publishedAt": "2026-09-20T20:56:00.000Z"
       },
       {
         "title": "Remuneración: ¿Empresas pueden dejar de pagar una parte si trabajador incumple “condición”?",
@@ -135,15 +103,47 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/management-empleo/sueldo-empresas-pueden-dejar-de-pagar-una-parte-de-la-remuneracion-si-trabajador-incumple-condicion-el-analisis-de-la-corte-suprema-noticia/",
         "image": "https://gestion.pe/resizer/v2/3LUFA5V5X5ADVKSKV7KVZLOET4.png?auth=a246411dd4d51e9168a3466d0bb78312985973d24b3aec11095204da1c46787d&smart=true&width=1300&height=800",
-        "publishedAt": "2026-09-20T15:52:00.000Z"
+        "publishedAt": "2026-09-20T20:30:00.000Z"
       },
       {
-        "title": "MEF: déficit fiscal en últimos 12 meses “brinda margen” para enfrentar al Fenómeno El Niño",
-        "summary": "El MEF sostuvo que ante la exposición del país a choques climáticos como el actual Fenómeno El Niño, se priorizará la atención oportuna de este tipo de emergencias en materia fiscal.",
+        "title": "Gigante chino Zoomlion eleva ‘tonelaje minero’ y deja la puerta abierta a ensamblar en Perú",
+        "summary": "Zoomlion inició la venta de su línea minera en Perú: cerrará el 2026 con 40 camiones mineros colocados y prueba unidades híbridas en el norte del país. La filial proyecta crecer 250% este año y que la minería llegue a representar hasta 30% de su facturación en 2027.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/mef-deficit-fiscal-en-ultimos-12-meses-brinda-margen-para-enfrentar-al-fenomeno-el-nino-noticia/",
-        "image": "https://gestion.pe/resizer/v2/HYCMKCFLAZDN5HBUG4ZUYO6RB4.jpg?auth=6c243ba1620bb6ef4d8e960837f1db9a3f2b8d6af8085e48d2688119b5dfaaea&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-20T15:44:37.000Z"
+        "url": "https://gestion.pe/economia/empresas/zoomlion-mineria-pesara-hasta-30-de-sus-ventas-en-peru-en-2027-y-no-descarta-planta-de-ensamblaje-noticia/",
+        "image": "https://gestion.pe/resizer/v2/I6C7OSKSYZADXM2ZEDATO56IZE.jpg?auth=fd6436ef6673fabaa368d007a3ea2f27ecaf82d4c0c87b77eaabf2f0201eb467&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-20T20:15:00.000Z"
+      },
+      {
+        "title": "Castillo de Chancay apuesta por eventos corporativos: ¿qué viene en 2027?",
+        "summary": "El Castillo de Chancay busca ampliar su negocio más allá del turismo tradicional y ganar espacio en el mercado corporativo. La realización del primer TEDxChancay, programado para este 19 de septiembre, forma parte de esta estrategia de diversificación, que también contempla una nueva apuesta hotelera.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/castillo-de-chancay-apunta-a-que-eventos-corporativos-aporten-hasta-15-del-negocio-noticia/",
+        "image": "https://gestion.pe/resizer/v2/6DXOPR6TVZDHPDFSXMMSLB4RUU.jpg?auth=fb703b6bb636f4a76d52da2c8ed043cea6aa5741cd39ead4f9cd5bfbbc33dbfa&smart=true&width=1200&height=835",
+        "publishedAt": "2026-09-20T20:10:21.000Z"
+      },
+      {
+        "title": "Pagar el IGV ya no basta: una nueva obligación de Sunat alcanza a servicios del exterior",
+        "summary": "Desde julio de 2026, empresas que utilizan servicios de proveedores no domiciliados deben cumplir una nueva declaración ante Sunat antes de pagar el IGV.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/sunat-pagar-el-igv-ya-no-basta-una-nueva-obligacion-alcanza-a-servicios-del-exterior-noticia/",
+        "image": "https://gestion.pe/resizer/v2/LNXJJ4NV2BEIDKDHVLAEZLU3S4.jpg?auth=a2b302cc2126eed17b0dd7339fe3741c5132d0cd5d08d054d458888f42fb43b4&smart=true&width=1400&height=800",
+        "publishedAt": "2026-09-20T20:00:00.000Z"
+      },
+      {
+        "title": "Minem evalúa cambios al “peaje” que pagan los usuarios libres de electricidad",
+        "summary": "El viceministro de energía, Luis Santillán, mencionó que están evaluando medidas para el sistema de electricidad, entre ellas una referente al pago de los peajes de transmisión por parte de los clientes libres.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/gobierno-de-peru-evalua-cambios-al-peaje-que-pagan-los-usuarios-libres-de-electricidad-lo-que-dijo-el-minem-noticia/",
+        "image": "https://gestion.pe/resizer/v2/RVVK54HIDNGODECLIC3Q7MOH7Q.jpeg?auth=1fc1ac8f2dc4c27411822f64403bd0ed3e2381a86d07c4d428b3b4d6b3cbfb44&smart=true&width=1600&height=1066",
+        "publishedAt": "2026-09-20T19:55:03.000Z"
+      },
+      {
+        "title": "Conectividad aérea: relanzan mesa clave para elevar competitividad turística",
+        "summary": "El Mincetur reinstaló la Mesa de Conectividad Aérea, eje de articulación entre el Estado y el sector privado para dinamizar la demanda turística y aprovechar la posición geopolítica privilegiada del Perú, la cual lo ubica como un hub natural de conexiones en la región.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/conectividad-aerea-relanzan-mesa-clave-para-elevar-competitividad-turistica-noticia/",
+        "image": "https://gestion.pe/resizer/v2/LT4UI5MIIZDYLF2UAVTWVCH2AU.jpeg?auth=d16b2476c7d2370e18e4de3676dbcad2874210a5e0b83409e0cecbb5d7dbedb8&smart=true&width=700&height=395",
+        "publishedAt": "2026-09-20T16:54:57.000Z"
       }
     ],
     "sociedad": [
@@ -172,9 +172,9 @@
         "publishedAt": "2026-09-04T07:00:00.000Z"
       },
       {
-        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - elperuano.pe",
-        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; elperuano.pe",
-        "source": "elperuano.pe",
+        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - El Peruano",
+        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-03T07:00:00.000Z"
@@ -204,9 +204,9 @@
         "publishedAt": "2026-07-15T15:44:23.000Z"
       },
       {
-        "title": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado - tvperu.gob.pe",
-        "summary": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado &nbsp;&nbsp; tvperu.gob.pe",
-        "source": "tvperu.gob.pe",
+        "title": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado - TVPerú",
+        "summary": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado &nbsp;&nbsp; TVPerú",
+        "source": "TVPerú",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbS0xd2cxQXI5T0hEOEVrN3M2eER5Y0VTTW0yQzBRWGZteXVCLTRySkZwT3ZYNUJ5OEg4Q2hPZENLZnhSdjdxaWxRZExVMndoSmtWcnVxU09LelpFbERlXzQ2cWdQTlM2WG9YYWJBdmIyOWdzUkI5MWYxOHBkei1aMWZna0Q2a2Vrems2N0RwQklYWGhaY3NyLUlyOTZUbWQweHpHa3VLZGxjaTNEMEpObVNFM1VvMEVkSzU3cDFNOXVIZEl5WGFha0J1UXRRbHBwa1JYeWxjNXNPLUhx?oc=5",
         "image": "",
         "publishedAt": "2026-06-17T02:03:59.000Z"
@@ -246,14 +246,6 @@
         "publishedAt": "2026-06-26T07:00:00.000Z"
       },
       {
-        "title": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups - Business Empresarial",
-        "summary": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmtHemFxbzkzZVNVajZWNmstMk9YSDJHejFFbjVDaE5sYWNsT0JRZkxJUjBoa1hmMU5hdTNqclFvbDcxWl9nZUcxRlp4cHdPWGk4SE1oVWlTbW5iNzdwUXNWYWh4WUQzSEY4TmVSbnozMDVmS3BPd1ZUYllacXNOQVpUMFhqR215X1FOSk04Q1p5ZVJseXdrYm5DdkM0SDZpVHc0ZVR1MUNhX1dSRnRPa0dzdkxqS29xdTc5aGw3U2RxRzR0cmNsVGRkS2ota2s0aWFUZjJMc1FvRnlVaUF3Z3Nn?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-25T07:00:00.000Z"
-      },
-      {
         "title": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 - Infobae",
         "summary": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -276,6 +268,14 @@
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
         "image": "",
         "publishedAt": "2026-06-10T07:00:00.000Z"
+      },
+      {
+        "title": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú - Business Empresarial",
+        "summary": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BXc0NCUE53Q1dicXN4ZXFJY3RHNmhlQnh1UG81VHItc29JbE5KdDViOTB1OW5Ja3V4dTdWRWZGLW1zRlVHUVJPNFMyS2h6YzR0THpaeC1EbmdfTlJNQzB4RkJ2VU9wZWN5YjZuelBIUG1DZlVxeURaVTdIdjZTRGdtUmRKaEEzY2dKd2pKS0h2RjUtN1JualhXY3lPbVdIdDlaRFdnRWNUd2p2b1RtTjJQcUx6d21ZNkdkT0dSWU9hV3Nya09UckFMNmFIUQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-05-27T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -320,17 +320,9 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética - elperiodicodelaenergia.com",
-        "summary": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética &nbsp;&nbsp; elperiodicodelaenergia.com",
-        "source": "elperiodicodelaenergia.com",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2VQSGwtN0JkSnVaSTJURmJuX2VwcmExRWNzXzhsMmhKamg5WEVwU2plZHBHYzdUMjFZQW9xejJoaG04SDV1YWhkZlNneFZTQUNnN3VQVDltd295ai12R09RRlRJaTVEek5tT2F0c21NY1pQWVRxM1NYWVVaZHdiR050dmp0S1Yzc1JfdEsyR3dOUG95QUJzWFBwVWR1OVhMRWR2WGVmS2NrV0p5UGFpb3pYWTgwMW9Qd1lUOUc2aG1RdUk?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-08T10:21:37.000Z"
-      },
-      {
-        "title": "La paradoja peruana: Crecer sin innovar - revistaganamas.com.pe",
-        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; revistaganamas.com.pe",
-        "source": "revistaganamas.com.pe",
+        "title": "La paradoja peruana: Crecer sin innovar - Gan@Más",
+        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; Gan@Más",
+        "source": "Gan@Más",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6aWxfR3diYXRQbUZqekNmcGgxQVkxUVl6TVlwaWR2QVhhYzlkcnY3bXBVUnVHcUhXZkZObW50MzFmX2VOaUg3MW52UGNlQkE1bFh2LXY2alNyWWdrNThsZ2F0UGY5bUN4VmdMMDBtdWdaX0dIb0ZmMA?oc=5",
         "image": "",
         "publishedAt": "2026-06-25T07:00:00.000Z"
@@ -342,6 +334,14 @@
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbEhKWkVPQl9UdVJLZU84ck9vZG5KUTljSXlEU185RTdhSG45aWRkR1FqWWMzcEYxdUpyNWVlWGhoVVpXaWx6Ri1RazAwWVNzcGZKNGlmSW1tUjA1ekpHVXRKelY2bEpFUG5PVWptaDRQd3RCNHF1czlMQlNZMVIxYnVxb0VMVDlIbGlRYXlnSlZKd2J6eUZLNDRwVnM1dk9zYWdPRmk3M2I0b05rUTJSeUl1X3YxSmtGX2lyS2JzczVudGdGWEl1ckd0NWNWM1Y2bHp1LUVFN3BEc3hiRDJYM2QwemZsRC12d19BddIBhwJBVV95cUxNOWY3N1p1a1Y2dTNlMFpSM1ZOa3hhN3ZPd09jZnYzOHB5SGg1NjdGOW9Oc0l2aUpuM2RiSkxRT3NaQUZNS1V1WnhDNnUzdDBfX3BUMDRaZUpBUW9FVG4xRW1kSUh3b3BXWGZDbXNCaHd2UUNyUzJ2SkpndjE3ekJtYXBnZXMzSEpUc0VHY0xFZDFxQkdsdVZOLUdWTGJmWXVHZDR5dk9pZGhlZXNuZDZTdXFhbEpGejM1RnVSZjl2V3lnWVJZX0JfbGo1ZzFhRndXWi0xM2xkWFdMS09qQTc3MlNyTVI2WGgzTmxzbEl3MnMzdkU1STRDcUZQUnRDYzhOdEF4d0N5WQ?oc=5",
         "image": "",
         "publishedAt": "2026-06-10T07:00:00.000Z"
+      },
+      {
+        "title": "Innovadores peruanos podrán participar en competencia internacional de invenciones - Agencia Andina",
+        "summary": "Innovadores peruanos podrán participar en competencia internacional de invenciones &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
+        "image": "",
+        "publishedAt": "2026-05-29T07:00:00.000Z"
       }
     ],
     "ia": [
@@ -370,9 +370,9 @@
         "publishedAt": "2026-09-18T02:30:00.000Z"
       },
       {
-        "title": "Perú y la ENIA 2026-2030: De la digitalización al ‘Gobierno Inteligente’ en América Latina - portalerp.com",
-        "summary": "Perú y la ENIA 2026-2030: De la digitalización al ‘Gobierno Inteligente’ en América Latina &nbsp;&nbsp; portalerp.com",
-        "source": "portalerp.com",
+        "title": "Perú y la ENIA 2026-2030: De la digitalización al ‘Gobierno Inteligente’ en América Latina - Portal ERP",
+        "summary": "Perú y la ENIA 2026-2030: De la digitalización al ‘Gobierno Inteligente’ en América Latina &nbsp;&nbsp; Portal ERP",
+        "source": "Portal ERP",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ2Rud0dCQzBMb0x2dXpNak80RjFMa3huY3AtVFJ1b3l1RVI2MUZxYnR2V0h0THNmTTBBdmUxUkFIaTFtUWQ5LWh3Mjl4SUJURjBIY011M3pwNURhZ1YySmpCeUtfV0o0aXd5VGtGNV91VWdpZ1NDaHdDeWpXVFR0RnRlMkJ5TzNNb1RqWUNIQi1DZ01ka1E2WXRlUmNNMGRhNWZGSmpYX29reEpBUUlxNnUzNWUxWVBFSmZSRQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-18T01:51:25.000Z"
@@ -402,9 +402,9 @@
         "publishedAt": "2026-09-15T19:40:00.000Z"
       },
       {
-        "title": "Perú: regulación de IA debe impulsar innovación sin frenar el desarrollo del ecosistema digital - elperuano.pe",
-        "summary": "Perú: regulación de IA debe impulsar innovación sin frenar el desarrollo del ecosistema digital &nbsp;&nbsp; elperuano.pe",
-        "source": "elperuano.pe",
+        "title": "Perú: regulación de IA debe impulsar innovación sin frenar el desarrollo del ecosistema digital - El Peruano",
+        "summary": "Perú: regulación de IA debe impulsar innovación sin frenar el desarrollo del ecosistema digital &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSFFOMjNjdXBPNVRObW8yd3JJZW8zMHhfNlZacGhaWEdRbWc2YjJOM2lpWUVYQTNrSnQxR1JpVFFmVzhBWkhXbDhYbnFsMEZ4dnpQa3hxRVAwT0VyMmRwTzd3bks1SDN3bWlCOU9NZUN3T0JrS3AxSGNxNUprZjRtSXNQUGRkOURNTklIdHg0UzZRTDhNV0RuUEFUemJUOUJPMkpfbzhDMk83UmJUSGg0amM4SUpxb0dtX3B3N280WFRoOUN0aWkyOVh3?oc=5",
         "image": "",
         "publishedAt": "2026-09-15T18:56:00.000Z"
@@ -486,14 +486,6 @@
         "publishedAt": "2026-09-03T07:00:00.000Z"
       },
       {
-        "title": "🚨 Actriz peruana reaccionó a las especulaciones que surgieron tras una fotografía publicada por el cantante español en redes sociales. https://www.expreso.com.pe/entretenimiento/l",
-        "summary": "🚨 Actriz peruana reaccionó a las especulaciones que surgieron tras una fotografía publicada por el cantante español en redes sociales. https://www.expreso.com.pe/entretenimiento/la-foto-que-desato-rumores-sobre-stephanie-cayo-y-alejandro-sanz-ella-fina &nbsp;&nbsp; facebook.com",
-        "source": "facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQallZVXhIV1dwQ1FqTmNOdDlGVFQ0WEVsWE92NFdKM1hyWDBIYlRWcnJ5NmJXZ0dSWTd6N2pBb3FhWkdZNF9fRTZ0cG1IN2M5eFlJa2p2c042MDVsaEJMZUY1TmxFazFWQVlfNDRmRFBjajBjNGszT2E5eHNjdjJLaFRLbklwQ3FKQW1ZSEFvbmdzN1NXcjZ0VG9rdHlPNWVBYzdLRlB1aWpvUlFUZDdlZXVoWEU1eVFsYVFRdmJMUmpuWnN0bE96MnpuclJQVDFkMktOcmdTU3J5emxwVlVGSEtkajVfdFZiRUE?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-23T07:00:00.000Z"
-      },
-      {
         "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
         "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
         "source": "Diario Correo",
@@ -506,6 +498,14 @@
         "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHpkRUdJMnV3X2tiUURubVRPZW9NY0Z3UlJIS1NIaG1jVkpPWEYwcVlsSXJBdVliMERjdnlBRkR0LUw2WllJam56RXBUb2tVbFlxZDJOV2xEYTJsczg1elZlclFvREdzUWptcmw3VURlYlhST09TdVpWTmo2Znp3dGJWeDhHN2xILU1aOHBXVkZ5MFhFNnM4SzliOE92VTNOWnMtTk1YaWVUMmdHcGN3a2MxRnJaQXlWdmo2aE5iR1UzbU1QWnVibkZJamZabm9KV01SQ1FfM3TSAewBQVVfeXFMTlJtdHBFeG9XM2lzMnFvRnpMWk5XZGFRblJNdlBTeVNRcGpGR1hOS2RydWh3dTlFQ3BDNkZEMmlXTi1nUW1zUFN6djIxRU5BUDV2V3hkZDREMlRVTmZtRy1IT3dEQXdCMmRLYmg2ZndiNHI5dV9RWmM0bDZmdjBITkpBNzBqWEx6cTJWQTBUV1VBcm9mS3U0YzluUlEwb0ZLT2picG0xNlI1YnVEY2xGYVoxMC1CMlV1NHhzRmtTTVVZaERiTUVZZGR4SjJ6YVpDeGJMY3Aybzg4WUZFV1kyVm1OdEUyUktiVE95OHM?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-30T07:00:00.000Z"
+      },
+      {
+        "title": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión - Infobae",
+        "summary": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFpHYlBfWE5DYjhNXzVvdjhzWEJUU3NRYUxCei13QUhSajlnTWtaNmxCUmRZeFJsU0FQZ2Uxa0hkMHNCanNqd1pPUDlveFZGUXlvU0MyblFibDBMY1pZVHZZczdZNlFpZ0dVU2hwUlJrQjdOY3FMZHloNXY2cXhCVVR4YjVLR1B5NEFhOGJlY2NKZnF2dWpfMWNUYTdGd2U1MWt1RWNpVUw1NXdWWE1SN0dSMm9ldWNqZUM2Z1930gHYAUFVX3lxTE9YYW5mSTRNYXNfWFBBZi0tX1h0S3A1b09TY09zaVFmcWdLTllzMHhtTzRQOHNwaEFOT1ZycS1fNklDamM2Tm4zbGZ0Uk5DTldIMDAxUlhGZVNmV2RvZXdVRERiTGFxV0Jhclc1bERDd3ItWU9yY1dpQjE2d0NnTVZzVDhBTjV4ellKTW5HOUxBWUtOLVNnVGs3Wi1ibF9iNVNMWFlzajFjSzhUSjRKdXBZQUdlbTh0QklnMUxNNFFlVXpTYi1jZXE2Z2dFcklfX2U3Y0VnTUM4Vg?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
@@ -568,17 +568,17 @@
         "publishedAt": "2026-08-27T07:00:00.000Z"
       },
       {
-        "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - andina.pe",
-        "summary": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento &nbsp;&nbsp; andina.pe",
-        "source": "andina.pe",
+        "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - Agencia Andina",
+        "summary": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOTNTd1VMWGJFRlFGZG1LOXpLSllZVE5JUG1xU19TaFdKbnJzam85dVlJN0VVVWQ1ZzJLanExY0xmbXV2cXY4a0Y4M1JXcExuUm1Nc0Q0S2N2WkhtZzNwWlJJdmoxS0gwdTFYYjVQT0VkVTJHcEtrZFFES1R3X3JWTWNMaWtvQkM0S1lyRXNNblBJaUh3c3hNX3JYaFhiUXFkemVJa1F4Y1NJNjRmX2tPekJ1Snc2aWVDRFE?oc=5",
         "image": "",
         "publishedAt": "2026-08-22T07:00:00.000Z"
       },
       {
-        "title": "Inauguran DeliMadrid 2026: una experiencia que une a Lima y Madrid a través de la gastronomía y la cultura - Perú 21",
-        "summary": "Inauguran DeliMadrid 2026: una experiencia que une a Lima y Madrid a través de la gastronomía y la cultura &nbsp;&nbsp; Perú 21",
-        "source": "Perú 21",
+        "title": "Inauguran DeliMadrid 2026: una experiencia que une a Lima y Madrid a través de la gastronomía y la cultura - peru21.pe",
+        "summary": "Inauguran DeliMadrid 2026: una experiencia que une a Lima y Madrid a través de la gastronomía y la cultura &nbsp;&nbsp; peru21.pe",
+        "source": "peru21.pe",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNGVRUi1lRFpKUVBFNDlRVFp5OURydjNYaDhFVlFER2Q4UkZWSXZKZEI2Rk1nUzk2V0MxNG45WjVRTWFCbk1ZdkFBVnhveUFHVTBmdFA1SmtrZENxZm5VNzY0N0tBS0xySG94a3ZmY2ZVRjRydDVwYlZZUEtHYjlfU3N6RHZRRHVTWk5ZM3BIYUNxUWttbnRqSDN4T0duMjUtUmtEWjJTaFVUWEdHMnpQWFBlSUo5aFZSWlpQNE1FenBSdEU?oc=5",
         "image": "",
         "publishedAt": "2026-08-22T07:00:00.000Z"
