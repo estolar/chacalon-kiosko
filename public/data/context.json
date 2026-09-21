@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T17:01:01.917Z",
+  "generatedAt": "2026-09-21T21:02:11.556Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,36 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "El éxodo de los movimientos regionales: candidaturas caen 83% desde el 2022 y partidos políticos dominan el tablero",
-        "summary": "En el 2024, la amenaza en el Congreso de eliminar este tipo de agrupación desató una migración de candidatos hacia los partidos políticos de alcance nacional. Los movimientos desaparecieron por completo en 11 departamentos.",
+        "title": "Debate por la Alcaldía de Lima 2026 del JNE: Así se desarrollará la primera fecha con 13 candidatos",
+        "summary": "Trece candidatos a la Alcaldía de Lima participan este lunes, desde las 8 de la noche, en el debate organizado por el Jurado Nacional de Elecciones (JNE) a menos de dos semanas para los comicios del 4 de octubre.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/el-exodo-de-los-movimientos-regionales-candidaturas-caen-83-desde-el-2022-y-partidos-politicos-dominan-el-tablero-elecciones-regionales-y-municipales-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/GCNMYV3TUNAT7ITF24PUM247Q4.jpg?auth=96899ab28be219c51788cfb81bd060e1fa1c35fa4997f5f765d4c389060813f4&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-09-21T16:52:00.000Z"
+        "url": "https://elcomercio.pe/politica/debate-por-la-alcaldia-de-lima-2026-del-jne-en-vivo-candidatos-duplas-y-bloques-tematicos-de-la-primera-fecha-erm-2026-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/3NCUVW4QFBGFZEVZEGNLHY7D7M.jpg?auth=6087850d66fc497f416a114926a7ed5eea87dff04462bb96dc716294b15c5c6c&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-09-21T20:43:08.000Z"
+      },
+      {
+        "title": "Keiko Fujimori inicia su agenda en Nueva York y este martes participará en Asamblea General de la ONU",
+        "summary": "La presidenta Keiko Fujimori inicia este martes su agenda de trabajo en Nueva York, que tiene como uno de los puntos principales su intervención durante el 81 período de sesiones de la Asamblea General de las Naciones Unidas, previsto inicialmente para este martes.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/keiko-fujimori-en-nueva-york-en-vivo-participacion-en-debate-general-de-la-asamblea-general-de-la-onu-reuniones-bilaterales-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/JD7V262LINFEJJCD2OCPGXYDSI.jpg?auth=720270e9f88cba4dfa7f1c2cfdfc05f9d4b99dd9b5a56caca1d8475224367da2&smart=true&width=799&height=533",
+        "publishedAt": "2026-09-21T19:30:17.000Z"
+      },
+      {
+        "title": "Miguel Torres sobre pedido de facultades: “Hoy vence el plazo y al parecer no habrá una decisión”",
+        "summary": "El presidente del Senado, Miguel Torres, invocó a la Comisión de Constitución de la Cámara de Diputados a pronunciarse sobre el pedido de delegación de facultades legislativas presentado por el Poder Ejecutivo, cuyo plazo para emitir dictamen vencía este lunes 21 de setiembre.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/miguel-torres-invoca-a-comision-de-constitucion-pronunciarse-sobre-pedido-de-facultades-hoy-vence-el-plazo-y-al-parecer-no-habra-una-decision-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/YBWSZOCATZF2XP4VU354OO2ITM.jpg?auth=676af41e57e688457ecc9e6e6e8f11297dbc5ef2e38c93d337c0e581ce8eb92b&smart=true&width=2048&height=1347",
+        "publishedAt": "2026-09-21T19:27:52.000Z"
+      },
+      {
+        "title": "Simulacro de Datum: López Aliaga le saca 10 puntos porcentuales a Bruce a dos semanas de las elecciones en Lima",
+        "summary": "A menos de 14 días para las elecciones regionales y municipales, Rafael López Aliaga (Renovación Popular) tiene una ventaja de poco más de 10% en votos válidos sobre Carlos Bruce (Somos Perú) de cara a los comicios por la alcaldía de Lima, según un simulacro de Datum Internacional para América Multimedia.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/elecciones/simulacro-de-datum-rafael-lopez-aliaga-le-saca-10-a-carlos-bruce-a-dos-semanas-de-las-elecciones-en-lima-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/QFGJBYM2NNGDDCUXLAXGYO6OXU.png?auth=5e012f76b644c3650ed029b654663ae9c1369facfe4fd36b1cc7229a48f2722b&smart=true&width=1160&height=660",
+        "publishedAt": "2026-09-21T19:26:56.000Z"
       },
       {
         "title": "Debate por la Alcaldía de Lima: ¿Quiénes participan este 21 y 22 de septiembre y cómo será la dinámica?",
@@ -37,23 +61,7 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/debate-por-la-alcaldia-de-lima-del-jne-quienes-participan-cada-fecha-21-y-22-de-septiembre-y-como-sera-la-dinamica-rafael-lopez-aliaga-carlos-bruce-apuestaplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/TSOXZU6H7NH7LMF2Y4ZCP43HGA.jpg?auth=9d030ee6423f5484d7261fd3b9a02b38286ac3e06a328cf61464979d2953dc9e&smart=true&width=1200&height=647",
-        "publishedAt": "2026-09-21T16:46:00.000Z"
-      },
-      {
-        "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
-        "summary": "Fuerza Popular | Desde que empezó a participar en elecciones subnacionales, el fujimorismo redujo su oferta electoral en más de la mitad.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/en-16-anos-fuerza-popular-solo-ha-ganado-3-gobiernos-regionales-y-no-ha-colocado-un-solo-alcalde-en-lima-metropolitana-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/3ZQHU5EOGNH33LU7J6EN3J4QSE.jpeg?auth=05b2ba86279d4f5e8c5af8ea35780dce6caca06e15b2546119eb9e3be8b10463&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-09-21T16:43:00.000Z"
-      },
-      {
-        "title": "El nuevo Congreso bicameral alcanzó un nuevo récord de mujeres, pero el Senado aún está lejos de la paridad",
-        "summary": "En 70 años, las mujeres pasaron de representar apenas el 4% del Congreso a ocupar el 37% de los escaños. Pese al avance, la nueva bicameralidad evidencia una brecha pendiente: solo el 27% del Senado estará integrado por mujeres en el gobierno de Keiko Fujimori",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/congreso-keiko-fujimori-senado-diputados-bicameralidad-palacio-de-gobierno-mujeres-martha-chavez-fuerza-popular-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/5CNBAEYKWVE53IHCVZAYKUV5CA.png?auth=8e7a13e206d920b70ddfca603c0c9325c76a88346ce797f823ffcb326f891177&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-09-21T16:42:00.000Z"
+        "publishedAt": "2026-09-21T19:26:38.000Z"
       },
       {
         "title": "Candidato de Barranco por Renovación Popular es investigado por peculado y propició la designación de su socia como gerente de la municipalidad",
@@ -61,7 +69,7 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/elecciones/manuel-espinoza-barranco-fiscalia-contraloria-jessica-vargas-peculado-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/GV7I5SG7RVFE3AWZO27ZD2PTXA.jpg?auth=3820e666508df8497c35281f763894135266967bf33a6803371bad57a7083f83&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-09-21T16:27:37.000Z"
+        "publishedAt": "2026-09-21T18:35:28.000Z"
       },
       {
         "title": "Debate municipal Lima 2026: candidatos que participan, propuestas e incidencias del evento de HOY, 21 de septiembre",
@@ -69,81 +77,73 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/elecciones/debate-municipal-lima-2026-en-vivo-candidatos-propuestas-e-incidencias-del-evento-del-jne-hoy-21-de-setiembre-apuesplan-lbposting-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/T2T2JPOFTFFURFMCZZN7V4EZTY.jpg?auth=015bae1330d9216873aa27ad80149de016931d82cdc73744064f3130d293ec41&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-21T16:21:50.000Z"
-      },
-      {
-        "title": "Luis Galarreta: “Nosotros no vamos a gobernar por encuestas”",
-        "summary": "El presidente del Consejo de Ministros, Luis Galarreta, afirmó que el Gobierno de la presidenta Keiko Fujimori no tomará sus decisiones en función de las encuestas y sostuvo que su gestión continuará enfocada en impulsar reformas.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/luis-galarreta-nosotros-no-vamos-a-gobernar-por-encuestas-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/X344KK3QT5CBHFPTV6D2TTLKIY.jpg?auth=8dde17046dda293fd2b0e4146965bd6a9e155b5474a83870a1ab66202f19aef6&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-09-21T16:14:29.000Z"
+        "publishedAt": "2026-09-21T18:30:10.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Bank of America lanza advertencia sobre subida de tasas de la Fed",
-        "summary": "Los inversionistas deberían prepararse para el riesgo de que la Reserva Federal eleve su tasa de referencia por encima del 5%, según estrategas de Bank of America Corp.",
+        "title": "Hoteles del norte: El Niño y el riesgo sobre ocupación, inversiones y reservas en 2027",
+        "summary": "El norte peruano encara una nueva temporada de El Niño con un sector hotelero que aún no recupera niveles prepandemia. Mientras algunas cadenas viven su mejor año y otras ya ajustan presupuestos, todas coinciden en que el mayor riesgo no es la lluvia en sí, sino que el turista decida no viajar.",
         "source": "Gestión",
-        "url": "https://gestion.pe/mundo/internacional/bank-of-america-advierte-que-la-fed-podria-llevar-las-tasas-por-encima-de-5-noticia/",
-        "image": "https://gestion.pe/resizer/v2/Z46Q77YEONHI3MD3AWYMSGS3MA.jpg?auth=755ea79fc5759664e4df99a79a2eae170cde91cf7d75b93e1c53764fd92d9699&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-21T16:49:25.000Z"
+        "url": "https://gestion.pe/economia/empresas/hoteles-del-norte-el-nino-pone-a-prueba-ocupacion-inversiones-y-reservas-de-playa-en-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/TYQVO27R4JB4TEJR7QP2V6JK4I.jpg?auth=617e97dadb712c544e4a2e2b437b836462debad4bf9cba14b5d9e7617dfdc81c&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-21T20:54:06.000Z"
       },
       {
-        "title": "Congreso ‘resucita’ proyecto para ampliar licencia por paternidad y proteger contra el despido",
-        "summary": "El Congreso bicameral volverá a evaluar el proyecto de ley que ya había sido aprobado en el 2024, pero fue observado por el Ejecutivo de aquel momento. Sepa los detalles de la propuesta legislativa.",
+        "title": "Perfil de cumplimiento laboral: una propuesta para el Gobierno en materia de fiscalización",
+        "summary": "El pedido de facultades del Ejecutivo plantea una Sunafil preventiva y focalizada. Esto podría abrir la oportunidad de implementar perfiles de cumplimiento para priorizar inspecciones en empresas de mayor riesgo e impulsar la formalización.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/management-empleo/congreso-resucita-proyecto-para-ampliar-licencia-por-paternidad-y-proteger-contra-el-despido-noticia/",
-        "image": "https://gestion.pe/resizer/v2/ED6WXKUNVNBRLAMFOO5IB57LSE.jpg?auth=67819d86ec451e22c274a1f50f67795150a30cb50ecd100bf42e023f687ba91e&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-09-21T16:36:00.000Z"
+        "url": "https://gestion.pe/economia/management-empleo/perfil-de-cumplimiento-laboral-la-propuesta-desde-el-gobierno-en-materia-laboral-para-reforzar-sunafil-noticia/",
+        "image": "https://gestion.pe/resizer/v2/MID74D44XBAI5KMCWGRNVUAOFE.jpg?auth=928a1bc286d68b6e9c9c1a49174d943346126ff0bb69b956131450b55158d411&smart=true&width=1600&height=1066",
+        "publishedAt": "2026-09-21T20:51:25.000Z"
       },
       {
-        "title": "El Niño y su efecto desigual: los 6 cultivos que responderían “mejor” al calor y lluvia",
-        "summary": "El Niño no golpea a todos por igual: estas son las plantas que podrían crecer más con los cambios a causa de El Niño. Se trata de una respuesta biológica específica, no de un beneficio general para el sector.",
+        "title": "Gigante finlandesa Normet apunta a crecer al menos 30% en Perú en 2027: ¿qué viene?",
+        "summary": "Normet inició actividades en Perú en junio de 2009 y, tras más de 17 años en el mercado local, la compañía finlandesa espera que 2027 marque un punto de inflexión para su operación en el país. La fabricante de equipos y soluciones para minería subterránea proyecta crecer al menos 30% frente a este año, impulsada por un",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/el-nino-y-su-efecto-desigual-en-el-peri-los-6-cultivos-que-responderian-mejor-al-calor-y-lluvia-en-el-agro-noticia/",
-        "image": "https://gestion.pe/resizer/v2/QOWTN2BJOVC5BHZGK6TJ7NZTOE.png?auth=ddd647c99755fddb6e21bf522621472d73aae3d6011a1a97cf46bedabbab5ac7&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-09-21T16:34:53.000Z"
+        "url": "https://gestion.pe/economia/empresas/gigante-finlandesa-normet-apunta-a-crecer-al-menos-30-en-peru-en-2027-que-viene-noticia/",
+        "image": "https://gestion.pe/resizer/v2/A532IEI2HZHXHOJZBKSLSJU3GQ.jpeg?auth=66f5328d5b1fdcee1a52a513fa3db944074acb9a454cae7f2bbd3348a3a869d7&smart=true&width=1600&height=900",
+        "publishedAt": "2026-09-21T20:49:20.000Z"
       },
       {
-        "title": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades",
-        "summary": "Perú enfrenta el reto de elevar su productividad en un nuevo escenario global, con la inversión, tecnología e inteligencia artificial como claves para crecer.",
+        "title": "FlixBus llega al Perú con ruta Lima-Chimbote-Trujillo: Gremios cuestionan modelo de operación",
+        "summary": "La plataforma tecnológica alemana para la venta de pasajes en bus, FlixBus, iniciará operaciones de transporte interprovincial en Perú con una ruta que conectará Lima, Chimbote y Trujillo en ambos sentidos.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/ia-en-peru-puede-la-inteligencia-artificial-destrabar-la-productividad-que-el-pais-lleva-anos-buscando-estas-son-las-posibilidades-noticia/",
-        "image": "https://gestion.pe/resizer/v2/WDVQN23EA5GMTGBYB74IGTQKBM.png?auth=0b42f3807f09725fc717dd57cbbd4970a2cbe74504b8b4efb05b2f916bfcc8cc&smart=true&width=1080&height=715",
-        "publishedAt": "2026-09-21T16:27:25.000Z"
+        "url": "https://gestion.pe/economia/empresas/flixbus-llega-al-peru-con-ruta-lima-chimbote-trujillo-gremios-cuestionan-modelo-de-operacion-noticia/",
+        "image": "https://gestion.pe/resizer/v2/JBVVAOPDGRERTP3HYTTQ4UU77M.jpg?auth=ddab81f6863669b5b527dfc8ae531bc11abdce788fce461ec31e0138a44024c2&smart=true&width=2160&height=1440",
+        "publishedAt": "2026-09-21T20:42:00.000Z"
       },
       {
-        "title": "Entre EE.UU. y El Niño: Agrifruits redibuja el mapa de la mandarina peruana",
-        "summary": "El Niño afecta el color de la mandarina peruana y Agrifruits mira mercados como México ante las dificultades para exportar a EE.UU.",
+        "title": "Sin dejar la panadería, Grupo Nova apunta a la ganadería: los nuevos planes de Máximo San Román",
+        "summary": "Grupo Nova prevé crecer entre 12% y 15% este año y alista nuevos desarrollos para atender a pequeños emprendedores, con máquinas de menor escala para panaderías, equipos para la elaboración de chocolate y un nuevo horno gastronómico. La compañía también avanza en un proyecto para producir alimento para ganado en Huacho",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/eeuu-y-el-nino-agrifruits-busca-nuevos-mercados-para-la-mandarina-peruana-noticia/",
-        "image": "https://gestion.pe/resizer/v2/5VOAZLILTJAKXB6IULXFQNH5PY.jpeg?auth=f80a9ecdbcd63798086e4002f3f048cd7ef0cab438ff5925ef10c1ba8c652993&smart=true&width=800&height=601",
-        "publishedAt": "2026-09-21T16:13:12.000Z"
+        "url": "https://gestion.pe/economia/empresas/grupo-nova-mas-alla-de-la-maquinaria-maximo-san-roman-revela-su-incursion-en-la-ganaderia-noticia/",
+        "image": "https://gestion.pe/resizer/v2/P3LZB6DV2RBZ3D6T6WUV4BPWSM.jpg?auth=555f46be45f872822dc93b7faebb404b010719ee0b65fad13e35ad55a7ce6192&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-09-21T20:24:00.000Z"
       },
       {
-        "title": "Mercado peruano de aire acondicionado y refrigeración alcanzaría US$1,010 millones en 2027",
-        "summary": "La industria de calefacción, ventilación, aire acondicionado y refrigeración (HVACR) mantiene una perspectiva positiva en el país, impulsada por la construcción, la agroexportación y la expansión de la cadena de frío.",
+        "title": "Pagar el IGV ya no basta: una nueva obligación de Sunat alcanza a servicios del exterior",
+        "summary": "Desde julio de 2026, empresas que utilizan servicios de proveedores no domiciliados deben cumplir una nueva declaración ante Sunat antes de pagar el IGV.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/mercado-de-aire-acondicionado-y-refrigeracion-en-peru-alcanzaria-us1010-millones-en-2027-y-creceria-hasta-7-anual-noticia/",
-        "image": "https://gestion.pe/resizer/v2/JVPWQQN565GONJJWABOVKY6Q2Q.jpg?auth=fa3cbcfd0c3dcbbbdb91759a304f5050a0e60d01e32cbb34c583a614f69c9052&smart=true&width=1200&height=778",
-        "publishedAt": "2026-09-21T15:56:59.000Z"
+        "url": "https://gestion.pe/economia/sunat-pagar-el-igv-ya-no-basta-una-nueva-obligacion-alcanza-a-servicios-del-exterior-noticia/",
+        "image": "https://gestion.pe/resizer/v2/LNXJJ4NV2BEIDKDHVLAEZLU3S4.jpg?auth=a2b302cc2126eed17b0dd7339fe3741c5132d0cd5d08d054d458888f42fb43b4&smart=true&width=1400&height=800",
+        "publishedAt": "2026-09-21T20:11:03.000Z"
       },
       {
-        "title": "Inversión minera en el sur toca su mayor nivel en una década: ¿y las otras regiones?",
-        "summary": "A puertas de las elecciones regionales y municipales, será clave discutir propuestas para impulsar la resiliencia y la productividad de las regiones en el largo plazo. Este es el panorama que se presenta.",
+        "title": "Inversión privada: BCRP eleva proyección por cuarta vez seguida, ¿motores ajenos a El Niño?",
+        "summary": "La entidad monetaria actualizó de 12.5% a 14% el avance de la inversión para este año, pese a que ajustó a la baja el crecimiento de la economía hasta 3.2%. ¿Cómo se plantea el panorama para este y el siguiente año?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/inversion-minera-en-el-sur-toca-su-mayor-nivel-en-una-decada-asi-van-las-otras-macrorregiones-noticia/",
-        "image": "https://gestion.pe/resizer/v2/672QFG7XKZCF3ND3GOST6ACDVQ.jpg?auth=a27585b1af121e5b346f8a2ecbbb0e12c44e7bb341f320a3f4d5cd5429378951&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-21T15:40:21.000Z"
+        "url": "https://gestion.pe/economia/bcrp-eleva-crecimiento-de-inversion-privada-por-cuarta-vez-seguida-motores-seguiran-en-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/WVGG53PODZDE3AHWV2FMKSIAMQ.jpeg?auth=0a4b3678ce613f74a0d2d89fc468900f595b82dff39c355abd15f950a5e1be92&smart=true&width=914&height=601",
+        "publishedAt": "2026-09-21T20:01:00.000Z"
       },
       {
-        "title": "Hay más optimismo sobre crecimiento del comercio, pero ¿El Niño “golpearía” al sector?",
-        "summary": "Aunque la previsión sobre la economía peruana se revisó a la baja, hubo algunos ajustes positivos: para comercio ahora se espera un avance de casi 6%. Este escenario es el que presenta.",
+        "title": "Tipo de cambio hoy en Perú: ¿En cuánto cerró el dólar este lunes 21 de septiembre?",
+        "summary": "El lunes 21 de septiembre, el dólar en Perú comenzó el día con un descenso, ante expectativas de que la Reserva Federal mantenga una postura monetaria restrictiva y pueda realizar nuevos ajustes de tasas de interés antes de finalizar el año.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/sector-comercio-entre-los-que-mas-elevo-su-proyeccion-de-crecimiento-el-nino-golpearia-noticia/",
-        "image": "https://gestion.pe/resizer/v2/E5LJS2KDJBACPOC54KEDFSHDZA.jpeg?auth=fbbebda76a3d482a3ef3c975a7536b74426b142f6bb1707c439e3474bc0ab75b&smart=true&width=560&height=364",
-        "publishedAt": "2026-09-21T15:39:52.000Z"
+        "url": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-lunes-21-de-septiembre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
+        "image": "https://gestion.pe/resizer/v2/DWHMA6KHT5HFBAOIT65B72OG7E.jpg?auth=4d0e741806ba9b050d902f3f8b2c92bc29e9752d52efa0452066278613364e2d&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-21T19:23:07.000Z"
       }
     ],
     "sociedad": [
@@ -156,9 +156,9 @@
         "publishedAt": "2026-09-21T03:33:52.000Z"
       },
       {
-        "title": "Voz Universitaria abre un diálogo inédito entre jóvenes y el Congreso de la República en la PUCP - PuntoEdu PUCP",
-        "summary": "Voz Universitaria abre un diálogo inédito entre jóvenes y el Congreso de la República en la PUCP &nbsp;&nbsp; PuntoEdu PUCP",
-        "source": "PuntoEdu PUCP",
+        "title": "Voz Universitaria abre un diálogo inédito entre jóvenes y el Congreso de la República en la PUCP - puntoedu.pucp.edu.pe",
+        "summary": "Voz Universitaria abre un diálogo inédito entre jóvenes y el Congreso de la República en la PUCP &nbsp;&nbsp; puntoedu.pucp.edu.pe",
+        "source": "puntoedu.pucp.edu.pe",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXdMd3dYSHNqOVFWMzd5SURHRlVaUHVFQTFYaC1TWEItOG4wRll1Nm94eF9sbEpPcGtkTmJESnowMFB2SzNBZEpXX29LSEFPbHh6ZkdUM25oYWFRdDN3dkt1VUJhOGh4ejZqZHkwdFBTdHJyUmRuUDMtUjNKSVpTSThIRlo5QWluWEJtVi02Qi1IYXBxd1E2VUpLUnJTcjQ2MElRZV9KbkU4dDZqZFhyYS1RNWw4SVVtYW5DWlVkYUJGYjJHOGc?oc=5",
         "image": "",
         "publishedAt": "2026-09-11T07:00:00.000Z"
@@ -172,14 +172,6 @@
         "publishedAt": "2026-09-03T07:00:00.000Z"
       },
       {
-        "title": "Estas son las comisiones de la Cámara de Diputados que tendrán mayor poder de decisión en el nuevo periodo legislativo - Infobae",
-        "summary": "Estas son las comisiones de la Cámara de Diputados que tendrán mayor poder de decisión en el nuevo periodo legislativo &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeXZsRHloYmRHU3ppR3pKTWg0U0FtSFM1MC1GWjJqeHVVb1M3QzlQelJUWFlGR1gtOWZYQ05iS1VDTlF0aUx6OHphRW1fVmtETVR3Tnc3YXFhQndfc1hRZW1mNnlLNXdDdTlfSlNOUlVPeE5pOXA5ekRsODVnemNSVTB3dzhGTmgwVGFMYVN1Zy1NTnhRVTUxejBjc1lIZ2ZWQjZ0d0cwSHJCUWRMM2xtcHpqWkppOGJXLTZqYzV6RzI0OXc3T1dEZEdiM0VXcjZkZllCcVRYWDMyRlVPS0xkWGdKR2NxWXZPUzVBUzJDSDbSAYsCQVVfeXFMTXgxSkI3ZG1kTXVidU1CMkVvRFNURFFvTmNjaE14UHk1YmFjbklkLThvWGVBWnVnTUtyTXRnM3dRcklHY0JRWE9Kd1FTSDV2QVNDRDlCYW9TOThfZVItcUprZElqazRpd2tDdG4tamVGUGNtYzFhbFEzX1dCanNOY2VMZnEtQmFPYkpvRDJWSDM3U0tZa3VSanlqZkRGOTVIN05tQlhoR2psMlNyNFJUVV9aNnE1bjlidksxNnh6SGlFUGZVcllNUFZPTUpSRVUxVU9UcE9DYlJxWUt3OXEwaDlIWTJPVS1vRlB6SDNBZmZZZHZIcWUtSDZYVGszTGYyMWJSUE8xTUU5RlM0?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-05T07:00:00.000Z"
-      },
-      {
         "title": "Puntos ciegos del mensaje presidencial: la deuda social sigue pendiente, por Javier Herrera - La República",
         "summary": "Puntos ciegos del mensaje presidencial: la deuda social sigue pendiente, por Javier Herrera &nbsp;&nbsp; La República",
         "source": "La República",
@@ -191,7 +183,7 @@
         "title": "Keiko Fujimori, mensaje a la Nación: fecha, lugar y ejes que marcarán su primer discurso como presidenta 2026-2031 - Infobae",
         "summary": "Keiko Fujimori, mensaje a la Nación: fecha, lugar y ejes que marcarán su primer discurso como presidenta 2026-2031 &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUnB3bzVxUmd0OUYtcDl1b01PcVNtVzVac18zZGpEdWxSZTVWUGxiUGY2VHZYSHE1c0VQcG11Zlg3eHZLZkctY1JFSGE2UVRTNE1jcWxiTE9rTXdabGdJUTdsQTlhN2ZKYWxXczRBUGhUYjE0LXlfZElpWTltR2FRVnBCMnZROTU1a3ZxWXZhNlFIaTZVWjlBTWJoT21Tbmd3NmhHLVJGSnlOdjBtUHZ3VGJnelJKeTJaX0hpdWJJeklIR3B1N1dfZ01iZWlFV0xrT1d2bG1mc0JWVG9rRVVkalFxZmNsRkXSAYICQVVfeXFMTVVCcVFOaGV1T3c1U1Q5cFppVFBQZ0hma1ctVDVYbzdFUlBsZ0dETG9tWk1GSWFzRk5zUEtlY3h6SDB3OGhyTUpWVG9qdEdMOVVhUUZTbEFBYS1TZmFBQWpDN2lHN0VMQWdWMnV1NHU4WGNDVlB1eGZrMXNITmxqdmx2M0tYN2lzODdGZDVJVWVUbVhZeXhYNlktV1hkTmJHS0d4NjVEcEhKOTMxUkx0STA3WDYyMWJZc0YwU09lQVlESHkweTBxSmtmZ3BvZzBIS1dlRHJtVG9tQU1sU1kwYVg0cW1pcExDSzgyUS1kMmZvbTVPNXAyX3plMWM5TXNZWE5n?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUnB3bzVxUmd0OUYtcDl1b01PcVNtVzVac18zZGpEdWxSZTVWUGxiUGY2VHZYSHE1c0VQcG11Zlg3eHZLZkctY1JFSGE2UVRTNE1jcWxiTE9rTXdabGdJUTdsQTlhN2ZKYWxXczRBUGhUYjE0LXlfZElpWTltR2FRVnBCMnZROTU1a3ZxWXZhNlFIaTZVWjlBTWJoT21Tbmd3NmhHLVJGSnlOdjBtUHZ3VGJnelJKeTJaX0hpdWJJeklIR3B1N1dfZ01iZWlFV0xrT1d2bG1mc0JWVG9rRVVkalFxZmNsRkU?oc=5",
         "image": "",
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
@@ -210,6 +202,14 @@
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbS0xd2cxQXI5T0hEOEVrN3M2eER5Y0VTTW0yQzBRWGZteXVCLTRySkZwT3ZYNUJ5OEg4Q2hPZENLZnhSdjdxaWxRZExVMndoSmtWcnVxU09LelpFbERlXzQ2cWdQTlM2WG9YYWJBdmIyOWdzUkI5MWYxOHBkei1aMWZna0Q2a2Vrems2N0RwQklYWGhaY3NyLUlyOTZUbWQweHpHa3VLZGxjaTNEMEpObVNFM1VvMEVkSzU3cDFNOXVIZEl5WGFha0J1UXRRbHBwa1JYeWxjNXNPLUhx?oc=5",
         "image": "",
         "publishedAt": "2026-06-17T02:03:59.000Z"
+      },
+      {
+        "title": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad - EL PAÍS",
+        "summary": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad &nbsp;&nbsp; EL PAÍS",
+        "source": "EL PAÍS",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdTZGRmVCRWs3MmpCV1RDRzhzeVJPanVZWlNrOG1BWGNOOWxCZFpPY3FJWWZNcFJudkk4YnROSHNxM2pOaHR2QVczaVhmLXN2NE5KLThVcE9KMDI0Vlg5SnFjQUtrcHB5dnNYa2RjdHlTb2g3OWs5RXZ1RmVBZ1FKREFka2MzVTVTTGJiOGxqQmNIODlucGpxLVpHNk1SVWdBeER4Nm85QUw2UjM4bG1aX0UzZEFBRkFNSVlRY0NFWmlzQ0IxNVZoQndieTRvaDRpWlRvc21JdmtaeEtTN3RYUWN0cVZSNVVudVVRejlta0Z3bGRHVkhv?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-07T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -296,12 +296,20 @@
         "publishedAt": "2026-08-25T12:02:15.000Z"
       },
       {
-        "title": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras - elcomercio.pe",
-        "summary": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras &nbsp;&nbsp; elcomercio.pe",
-        "source": "elcomercio.pe",
+        "title": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras - El Comercio Perú",
+        "summary": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPREc4YWJQZ2M1eVgwY1ZpdHhWX3FqZDVpTHZMRy16RFBoeF9OMHdPVDlmVU5MLXEtNjlvUnNlcU1VaDN3ekVqWUtJRmJOTFcxYmRlUWRLNnBzVF9fWnd5TFp1SFR6bVFFRV9IQV9zYl9PT3JhMWp0N3J3SVBfRkVlSG53OUdTb1BrUVNJa2loOER2aWpqM0w5c3liMXJDNVVnMUJaeGhOYUtDdmNIMGZHcnZGVjA1c2RRcXN5VlNJRnVJT256TU1pb9IB3AFBVV95cUxQNnNrcTE2TFhqTWpzYmVPM0lOMUFrY2h4cEhEREVwTjNWMnBNZkV0YUtJMUtpZDViZkkzYlhPNXpuaTdGb3pRYTlTWGlZdUVRb0lPaW9rS0xJNk83SDFzaklVTS1vVXJ1M2xaUGJRemNZQm1KWktTU2xuUzdxQ3hNODg3T2FXWlo1NExkVDdlQ2F2dTZELTRYTUFlbWNHQzB1RlhsVTU1TkpQa3UzN2lMbDRLRUJoRm1pVDJZTFhJanpaeXpNRmdCUm1rUUdJR1phbHB1Vzl4Sy1qbzYw?oc=5",
         "image": "",
         "publishedAt": "2026-08-25T07:00:00.000Z"
+      },
+      {
+        "title": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC - Revista COSAS Perú",
+        "summary": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC &nbsp;&nbsp; Revista COSAS Perú",
+        "source": "Revista COSAS Perú",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNV0VkdVhtZ2g2YXZjR1hyZHZFMmMySExGRENzOFFLNU5MeF9uT0h3MHdSb0VyRGg3ZVNpeVQ2MnhUczRoMHptZlVmVDd3ODk3QVpvb192d2RQOF9nYjZscEF2TkRDNUMyXzE1SnFSTV96NVAtekI5MS1HQWJGYjV5ZmtFTGpEV3d2eU45OWk4ZXY0ZXJQd28tY3NQSnAyMVpURVk5WGNtZEstRE0zc2V0Y1BsdTM4aG9vOG1lTWFxUTFPem4tUWVWcERTejdMcktVX1EzM3hiLTZSZEtvR2VOalh30gHnAUFVX3lxTFAtN1VPcm1jMWhMWVp4UG9CRmNCZTkxODFteEZ2UmNvUTJXdnRkNXpxX0JyaE1UR3hhQ0pLZGxEcGtUd2xHTzRTTlBRMnVHMnQteHpnODJ6VGdwY2I2aXprS05XMm1lSWRoVWJyVkdfRVViM0JiN0hQQUJ2Um8zaTNpVlM1bDkwbnNPTHJ6dFlQbGltdW85M3V1d0RjMFhFbDBON2tBcE5qeF9MWUplZzQ5VXhmTm9YOUFsbkpUeFlmQXBtdUVNcHhXUXhhRjV0dmJSNXAzX1pTVlhLeVc3bzNiZFBhY3lVbw?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-20T07:00:00.000Z"
       },
       {
         "title": "Innovación en Perú: solo 49 % lleva sus ideas a la práctica pese a su alto potencial, de acuerdo con encuesta - Infobae",
@@ -334,14 +342,6 @@
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbEhKWkVPQl9UdVJLZU84ck9vZG5KUTljSXlEU185RTdhSG45aWRkR1FqWWMzcEYxdUpyNWVlWGhoVVpXaWx6Ri1RazAwWVNzcGZKNGlmSW1tUjA1ekpHVXRKelY2bEpFUG5PVWptaDRQd3RCNHF1czlMQlNZMVIxYnVxb0VMVDlIbGlRYXlnSlZKd2J6eUZLNDRwVnM1dk9zYWdPRmk3M2I0b05rUTJSeUl1X3YxSmtGX2lyS2JzczVudGdGWEl1ckd0NWNWM1Y2bHp1LUVFN3BEc3hiRDJYM2QwemZsRC12d19BddIBhwJBVV95cUxNOWY3N1p1a1Y2dTNlMFpSM1ZOa3hhN3ZPd09jZnYzOHB5SGg1NjdGOW9Oc0l2aUpuM2RiSkxRT3NaQUZNS1V1WnhDNnUzdDBfX3BUMDRaZUpBUW9FVG4xRW1kSUh3b3BXWGZDbXNCaHd2UUNyUzJ2SkpndjE3ekJtYXBnZXMzSEpUc0VHY0xFZDFxQkdsdVZOLUdWTGJmWXVHZDR5dk9pZGhlZXNuZDZTdXFhbEpGejM1RnVSZjl2V3lnWVJZX0JfbGo1ZzFhRndXWi0xM2xkWFdMS09qQTc3MlNyTVI2WGgzTmxzbEl3MnMzdkU1STRDcUZQUnRDYzhOdEF4d0N5WQ?oc=5",
         "image": "",
         "publishedAt": "2026-06-10T07:00:00.000Z"
-      },
-      {
-        "title": "Innovadores peruanos podrán participar en competencia internacional de invenciones - Agencia Andina",
-        "summary": "Innovadores peruanos podrán participar en competencia internacional de invenciones &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
-        "image": "",
-        "publishedAt": "2026-05-29T07:00:00.000Z"
       }
     ],
     "ia": [
@@ -412,9 +412,9 @@
     ],
     "tendencias": [
       {
-        "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - elcomercio.pe",
-        "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; elcomercio.pe",
-        "source": "elcomercio.pe",
+        "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - El Comercio Perú",
+        "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZTlFMnQ1b1pJM1dEbTJaWnpNVGZ0T1g4SWpXZ25rWHBsN1hTdmRVTUVfdG9mQXhQOFZZU3F6X3BkQzRXMnFaejgzcmgzdDZZOFk1VEhBZzJsTmQxS3k3aDRBeHRLRnZBTzR0WFU0cjhNal9QUHVoNHY3czFrNGlxN1NpckM1bGVpSFJfVVdNTlp6YnJsRUxURVh2UXZValZzcEJqSkxxSGI4MjdUN3lFNFg0QzlFUmVWc0lCN3A2VzgyN0d6UXZwSG5Bc0xPejhQYkgycDZlblczUlhzekRGTmVEVDFxU2fSAfsBQVVfeXFMT1BhMjJ1RDBTRjF4WnRMdGxmYm90ZUVBWlVLMVRtVDFvc2tkOTdrbUM0UG54OWNMbHJJTmZ2ZHBHZmVmek1EMkVNeFhaZnJtOEZQdlNVME16WW5KbnJvOFBoUzhOU0tzX0Z3WFN1UG5POEFzZ1ppdGEwcE9ZQ21mYWk5RjA5anNPR0RuSk5sZzFHdmNUdlV1V2VGS2Z3UHpSb21TTDZNRU9KRy03cDd1bGFfbWxQWmRsZTQxX2d5LXJVTzAzRmt2N0xQME9sdkdKNVBhbXVMdGRwMUpTZlZfZXVSdEpvVG1LQ1BtMExkdGtLOHZQeWhGV2dVU0E?oc=5",
         "image": "",
         "publishedAt": "2026-09-12T07:00:00.000Z"
@@ -486,6 +486,14 @@
         "publishedAt": "2026-09-03T07:00:00.000Z"
       },
       {
+        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
+        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
+        "source": "Diario Correo",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-05T07:00:00.000Z"
+      },
+      {
         "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - Trome.com",
         "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
@@ -532,24 +540,24 @@
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSEstT2tDMnBuZDRXd01zVlZhV3JNTWh5blV3eXdVaGVDUmt4YmpFWElEVHVwQjJjcnF3LWJYMnVqenBhX3dsUzczU2xwUl83U1hxZXVsd1c1Rm5pMktCVW5vRkU4RUladzN4NXBrc2ZydjQtdW1EUm0yT2hvdE8tcHRmLUFYUEdqUHdnZGZ4WUZCV1JWMF9jb0xRdWpNX2ZiMGVYbWdxeUR3cEx6RkE1ZU0wX1BYUW9HUGp5Y0stSTFBa3dsZThjMU5TbDBLcWVlMTdmSWRTdktJZUluRFRJZEUyRGFtTDlsd1HSAf4BQVVfeXFMTVhpUFprMVd5Yi10UTBEU2FFckY4MlNTNHRCa0g1NERLSFBWMG5USlpYSUowZ2J3UERTRE5hZmNrWWJLQWRjeGhEaEJ1ZlZ4TkhaT18yY2NWSmx4M2JJUklhTXU0QVFPOF91a2lVaEhIbXJFaG9LQmFWS1U0VGtWWi0yTFdBNlFBVEZVakw3NzFiNlhaLW9MNjBYOUhRdFRVeWpnS0pESDB4YUliU2dndzVieVlKVVB6SU56LUxGaXN0TWtaQmNwMXQ0SjAtYThKdzJVanNiczY5RmkxRVdHUDA2QzctRWtPSVJMdDZXTk13ZVRwVks3d2FnZlZxSWc?oc=5",
         "image": "",
         "publishedAt": "2026-07-12T07:00:00.000Z"
-      },
-      {
-        "title": "Said Palao, Alejandra Baigorria y más personajes de la farándula reaccionan a video de Jefferson Farfán contra Magaly Medina - La República",
-        "summary": "Said Palao, Alejandra Baigorria y más personajes de la farándula reaccionan a video de Jefferson Farfán contra Magaly Medina &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNaC1QaXFrbFltMEhVWmozX2FYM1ZuLUpvUnJDS0FfeG5oWUZIQTBHcHhwUk1BYTFHcHdoUXRYNEdZU1FIdWlJMS15Nkk3MDlBbjY4T2ZnXzFVT3k0UTdjZ3F0ZTdIVENRVVlGemR1WjVJRVMwbk9NbVU4RzBSNUJkR3JVcEpwOHY5RVF2U2F3b0JSN3FlbjNsenJpcUt0OGNMZWd2MzlucmwyU0h2cXlHR2VySUFtbmVPR0JlVXR3d29jV3ppeVZEYUVpTFh6VzlNSGpCRjF5WjFBb0dMOUNQdm1FdUl0MHlqeGx3MU1IdHNuZTVuWFd0bWozZHV2bzhTNi1CQjRVS1B4bVdiZ19r0gGUAkFVX3lxTE9yeGRSRnd1X3JKbzlBLXoyc1NkSjBOcUt4eWJNUUI4ekVlUXFsejBZbzE3YWVvb0ZwZ2dEVzNZeVdhNktqZks2SGdueGhYRGJsS0tSVzlVbHBpU3FXTHNQNExvNGo1dThQM2NHWC1EM2NmZkJzQnRoaW1xV3BkZFhpYU9lTkFGbTNxQ3V3bjNoZzlLUlY1REpBVzE5TDNnZk1GalhQOGgwVzF0bmg2R25uc094QklXUEVZZzd6aDQ2dDN1VFQ0d1B2WmUyakYyZFZ2SGRWcHpTbHYxZnlVdER0aURnRGtfUXFMWDVJV3JyT3pMQzRzNjh6NHEyX19YLVFnUWp4N0RvdjlvcFQwcFNHd2txYw?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-07T07:00:00.000Z"
       }
     ],
     "cultura": [
+      {
+        "title": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales - La República",
+        "summary": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdUdGMXlJY2xDbGJKMklhSXdTUVhaV051cWliMm5VNkE3RlRBdnJWS1lGVzN1bVBWRHAwUmZMR2VLTUI1VG43TUhabEFUZThmRUEyZ29pUkFuNVI3QzRoVFoyQ3hvLU92ek1abjItSGtyNUhLT2g2Q3BMMUxuTnJsLWdVMWQtUmlTUzJ6eTlNZ1puSnZ1SUZKT01oWkp3YlFTeU9HSWtZZXI0U0NLNUFSVG9zaXN3Nl9EZi10STlhVFA3RWRfUFRCV2J4VWVvb0tha3VNb0VBOHE2cWpnaHFlSzAwMU84QVJNOTc0Z2o4MWZyR0FGenYyckU5VGM5MzVaeUJ3YVZpTU5BODNKc1FqUHpSeTUxZ9IBmwJBVV95cUxNQnVtd2xlRmNOTVEwY1pVOG83NzZpckN6VWY3eTZPZGk1YmdMS041aERIcE9lS2htWU5hZktLOVpTa25Hd1FLUHg5clRrcklXNVk2alVhS0l4OG9FVW9Ic2JBaGE4SDN5ZWt6Y0RjOFFrU3pRdEhrUWJaR183X2xYVnVFWlZqRzBVZGFmZzB4V2U2R0JPRllXeG1ZTkhCN0dXZzNXNnNtdDBSNjBZeVlQaVFXTm85N2pPSnRuSmxfMGJUbklnRjh4bUhWb0E2eGZWOVFZYV9JUVVlOGUzX3NGN2Q4dzlLUFlUdlc1OGNVRVp2UjF0NjVvQzg1Wi1sMEY5OEdMWFpKNmwzc2ZNU05MUFpUcWROeENQMjZv?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-18T03:33:37.000Z"
+      },
       {
         "title": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA - Infobae",
         "summary": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNnBsekZxUkhLV3VkTVl6S1dxLUlJaXZPZjF1TE9GMFJnTUJRQWtGLVlPQTlFNVZabVdSeGRscGFTbmRJRThMdW5zRXhRaXA2dU5tNk5nTVl0ZmFadjJPeW9yTzJtY3FwUUFYVFBUTlkySzNXdm56dTZQa1p6V0ZtRS0xeHdWSmotTjM4TFpXOEZsODRRTnI3UHFxVWdqNlJuRVRRV3NyU0dnZ0trX3NtbHRzaHAyYk5RTmlHTkctR1A2cXNuQlJnUzFTUG1BcE0tSGdtc3JZUXJYdnQ2VS1jR3kzajBkOEUwZGx0elB2dTN5Q0pjaG1tV3NoR3HSAZcCQVVfeXFMTWMydDVBdFhCMXdLbXVsZXBsZWZYeklCZnNsbjVFUTFJVGtzUjRIWTFfQ2VRTGMweG0zZDdKMkR0blVLS0JTMkxOZk0wcmxWNzVsYTdpT3lFNEVhTDRzOTZ4MFd3LVotS0tMc2QyNTZfS1dFTEJnRFBmQlhmRUVFRjNUMVNuYnpyWDVoakVIb21NMXZ6aHFLSHpiM2FTTTdweS1UalhYY2w1WVFXLWtCaUxOdlZPemVfTnRldWx1VV9KSHpSaENIUDQxQWRzeE1Cc0pyTi1WbTVQUER3STZsRm5SNUFzZ3E5N3U4N3lFclZ1UExrQkU2R2dTZnh6M1pUdzNjQzVTVmlWaElwQ1c0WWlLR1NFTmNR?oc=5",
         "image": "",
-        "publishedAt": "2026-09-13T19:07:00.000Z"
+        "publishedAt": "2026-09-10T07:00:00.000Z"
       },
       {
         "title": "Agenda cultural en Lima del 3 al 10 de setiembre: Ricky Martin, La Tarumba, ‘La Profesora’ y la apertura del nuevo Paradox Park - Infobae",
@@ -598,14 +606,6 @@
         "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTTZDSUpUY3djZ1R3U0lOUzRLVVV6OGFpNGZvRm83N0dTV2VlclhHT3U5YlVzX1NLMUFzdUx4cHZrX2FhdGhDeGtYOWZwZ1VyUnZiZEIxRUw5NmhZUG93WHZJNUFHUzRTMHBtVTRQUE91OFprb1NlMXhsbkF5ZHZINWxweFVsVzRJZlpUcFI2Mks5andzSTgwNVhUZXJsaVl5bUhrMXFLX0JMWDgtNEtWbW92YXVBS19kQ1dYS1hqSEt4YVpnaFNqeFVHQzhqbVBIZnFnUEcyOXdqUnFZNllOZG5aVjlsbUtlV21JZ21aTjRkNlNyOEYwZnVhbnhSdDNadVRZbUNvYjPSAaMCQVVfeXFMT0lVVzhVeG9mNGZBb2diQW9Bd1ItVlppWDFzMmt4eDAyY1ZYMjVQUWpzN2hzMGpfR3RqRGhVS3NGZm04ZlBnaGxsUXozY1o1ZlFkWjl3aElHZjAyaWo0SDR1VU5SM09KSm1HWkRTeDlSa1Z5bGVpZS0yN0s2cVYxRFBvUjRwZHV1eHFnbUx0RlRaLUdSU0JPWmdSY0V2SXE0QUpFbGlCa3JtOE0tOHNCMWlsV19wTi1ienIyLTdubnJCUXQ0T2xkSTluVENhVENBeEcwZVM4NlZjS2IwS3NhbTRNQ3d0cFlLd3JWakw2Wl9YbTBkcGowYkVYU2NKbVl4eXdVa2FNZ3FlVVNpejg4T1FQaUxmZlR2Rk9idk9RLVV4cmtB?oc=5",
         "image": "",
         "publishedAt": "2026-08-21T07:00:00.000Z"
-      },
-      {
-        "title": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto - Blog Joinnus",
-        "summary": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto &nbsp;&nbsp; Blog Joinnus",
-        "source": "Blog Joinnus",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQempKSjE1ZEJaSUlkTkxKb2ZEb01WelVBMUZpdUMxM1FSR3VlUlZZalFqUnZJMnhWcFc5UUdoZVFMOG1TbWpzc1BqTFUwbTl6MEhWR2NpSW95RmhRQ2tFSFM2NXZsQjFNUXVsY2k5dS1HRUlzU2pJMEN2SGMtSXlBOFhCbVBSVExUWGxFWVV1dTJCbFdtY0Npdmk4UUlFUkxXQi1QRlFCdC1VWG9jR2hxS2xfbGRGb0tGMGl3MzFrNkdvYjVp?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-19T07:00:00.000Z"
       }
     ]
   },
