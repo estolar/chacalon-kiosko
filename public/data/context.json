@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T04:54:14.581Z",
+  "generatedAt": "2026-09-21T10:39:57.180Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -22,6 +22,22 @@
         "url": "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
         "image": "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
         "publishedAt": "2026-09-01T00:00:00.000Z"
+      },
+      {
+        "title": "Gobernar, con facultades o sin ellas",
+        "summary": "Los resultados de todas las últimas encuestas debilitan la posición del Ejecutivo en su intento de presionar a la Cámara de Diputados para que apruebe el paquete completo de las facultades solicitadas. Y, por el contrario, le ofrece a la oposición un mayor margen de maniobra para forzar que el Ejecutivo reduzca su soli",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/opinion/columnistas/gobernar-con-facultades-o-sin-ellas-por-enrique-castillo-delegacion-de-facultades-legislativas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/YCBBL5BFQJAX3O2BLYEFYF4LYU.jpg?auth=aca33fde4e888204ede07a1913940156b9a35736725ff8d5a8845980e64d40c3&smart=true&width=1005&height=560",
+        "publishedAt": "2026-09-21T10:31:00.000Z"
+      },
+      {
+        "title": "Debate por la Alcaldía de Lima: ¿Quiénes participan este 21 y 22 de septiembre y cómo será la dinámica?",
+        "summary": "En cada una de las jornadas del debate por la Alcaldía de Lima, organizado por el JNE, participarán 13 candidatos, quienes expondrán y confrontarán sus propuestas sobre distintos temas. El lunes le toca debatir a Carlos Bruce y el martes a Rafael López Aliaga.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/debate-por-la-alcaldia-de-lima-del-jne-quienes-participan-cada-fecha-21-y-22-de-septiembre-y-como-sera-la-dinamica-rafael-lopez-aliaga-carlos-bruce-apuestaplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/TSOXZU6H7NH7LMF2Y4ZCP43HGA.jpg?auth=9d030ee6423f5484d7261fd3b9a02b38286ac3e06a328cf61464979d2953dc9e&smart=true&width=1200&height=647",
+        "publishedAt": "2026-09-21T05:01:00.000Z"
       },
       {
         "title": "Revelan que al menos ocho trabajadores del Congreso aparecen en planillón del Movadef",
@@ -62,106 +78,90 @@
         "url": "https://elcomercio.pe/politica/gobierno/entrevista-alberto-beingolea-si-insisten-en-no-dar-las-facultades-le-estan-complicando-la-vida-al-peru-entrevista-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/GTUXCP2W4REKDDXDLNRRKGSJ6Y.jpg?auth=ead0a3c56663aaaa6bc6c2208349364a57af50052ed92a5c20a5fb33b6200d1d&smart=true&width=4535&height=3213",
         "publishedAt": "2026-09-21T01:44:00.000Z"
-      },
-      {
-        "title": "Elecciones en Barranco 2026: Audio compromete a funcionario pidiendo aportes para campaña de Renovación Popular",
-        "summary": "Una solicitud de “apoyo de dinero” para la campaña de Manuel Espinoza involucra a un funcionario municipal. El candidato de Renovación Popular marcó distancia con el gerente edil.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/elecciones-en-barranco-2026-audio-compromete-a-funcionario-pidiendo-aportes-para-campana-oficialista-de-renovacion-popular-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/4CQ3L52WPBA2DOVXV7XE2GSIPI.png?auth=88344b4e440b841e0e57337114491bd627d42018c7ab86fe677be7ff0a8ad1ca&smart=true&width=1374&height=1145",
-        "publishedAt": "2026-09-21T00:36:00.000Z"
-      },
-      {
-        "title": "Keiko Fujimori: Los detalles detrás y los efectos del nombramiento de Yoshiyama y Chlimper como consejeros",
-        "summary": "En medio de llamados de atención de la presidenta Keiko Fujimori a algunos integrantes del Consejo de Ministros por sus exabruptos públicos (primero fue Elmer Cuba y luego Ernesto Álvarez), el gobierno nombró este miércoles a los integrantes de la Comisión Consultiva del Despacho Presidencial, entidad que ha reemplazad",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-nombra-yoshiyama-y-chlimper-como-consejeros-los-detalles-detras-de-esta-medida-y-los-efectos-sobre-el-gobierno-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/27FH7VF3KZHD7EK5GMV55Y4SZU.png?auth=f4cae294598b95a026b0e87bf9efd18135669e769d5531746deed96723e45a22&smart=true&width=1160&height=660",
-        "publishedAt": "2026-09-20T23:00:00.000Z"
       }
     ],
     "economia": [
       {
-        "title": "¿Cuánto puede costar y comprometer el delito de un trabajador a una empresa?",
-        "summary": "La inseguridad en nuestro país escala a diario. Los casos de robos y asaltos continúan generando preocupación entre la población. Estos hechos no solo ocurren en espacios públicos, sino que también se empiezan a registrar al interior de establecimientos, donde los usuarios esperan contar con condiciones de seguridad.",
+        "title": "Mercados e indicadores – Hoy lunes 21 de setiembre",
+        "summary": "Para tomar las decisiones más acertadas de inversión, manténgase diariamente bien informado sobre el desempeño de las acciones de la plaza bursátil, de la variación de las principales variables del mercado financiero, así como de la evolución de los precios de los commodities. La cotización en el mercado de Londres el ",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/cuanto-puede-costar-y-comprometer-el-delito-de-un-trabajador-a-un-empresa-noticia/",
-        "image": "https://gestion.pe/resizer/v2/V47G4NIIOFE75MTL6RLRSEVOCU.jpg?auth=6ba89b663dcd21b558e59a166423caff5f36c2cbd6cc53f7abf3dda36a76f3d5&smart=true&width=1408&height=768",
-        "publishedAt": "2026-09-21T04:30:00.000Z"
+        "url": "https://gestion.pe/economia/mercados/mercados-e-indicadores-lunes-21-de-setiembre-2026-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CKBJCXWQXVCTXHZN5ZAGTM66RE.jpg?auth=c935a9816683dbd514d89311dedaf60293df727aefbd90da56a9830e4813f2eb&smart=true&width=1280&height=720",
+        "publishedAt": "2026-09-21T10:31:00.000Z"
       },
       {
-        "title": "Remuneración: ¿Empresas pueden dejar de pagar una parte si trabajador incumple “condición”?",
-        "summary": "¿Una empresa puede dejar de pagar un bono si el trabajador incumple una condición? Laboralistas explican cuándo es posible y cuáles son los límites.",
+        "title": "Malls y el efecto “Trujillo”: inseguridad frena repunte de visitas y zona norte sufre impacto",
+        "summary": "Desde junio, la asistencia a tiendas en centro comerciales y puerta a calle en Perú viene cayendo en medio del impacto del fenómeno El Niño y la coyuntura electoral vivida. Aun así, la tendencia a la baja se iba acortando hasta agosto, permitiendo confiar en que el repunte en la afluencia finalmente llegaría en septiem",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/management-empleo/sueldo-empresas-pueden-dejar-de-pagar-una-parte-de-la-remuneracion-si-trabajador-incumple-condicion-el-analisis-de-la-corte-suprema-noticia/",
-        "image": "https://gestion.pe/resizer/v2/3LUFA5V5X5ADVKSKV7KVZLOET4.png?auth=a246411dd4d51e9168a3466d0bb78312985973d24b3aec11095204da1c46787d&smart=true&width=1300&height=800",
-        "publishedAt": "2026-09-21T04:01:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/visitas-a-tiendas-y-malls-caen-por-tercer-mes-consecutivo-el-efecto-trujillo-la-inseguridad-y-el-impacto-en-zona-norte-del-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/UDZXAMAW3VGWVHQIS5N4TUAVRE.jpg?auth=56764e0a5878ba83d8dd344b8ec551ebd0b2d7d17a6a2d41cb93f94480cce542&smart=true&width=1280&height=720",
+        "publishedAt": "2026-09-21T10:30:00.000Z"
       },
       {
-        "title": "Gigante chino Zoomlion eleva ‘tonelaje minero’ y deja la puerta abierta a ensamblar en Perú",
-        "summary": "Zoomlion inició la venta de su línea minera en Perú: cerrará el 2026 con 40 camiones mineros colocados y prueba unidades híbridas en el norte del país. La filial proyecta crecer 250% este año y que la minería llegue a representar hasta 30% de su facturación en 2027.",
+        "title": "UM Perú nombra a Raju Noornabi como nuevo Managing Director",
+        "summary": "UM Perú designa a Raju Noornabi como Managing Director para impulsar el crecimiento, nuevos negocios, innovación e inteligencia artificial.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/zoomlion-mineria-pesara-hasta-30-de-sus-ventas-en-peru-en-2027-y-no-descarta-planta-de-ensamblaje-noticia/",
-        "image": "https://gestion.pe/resizer/v2/I6C7OSKSYZADXM2ZEDATO56IZE.jpg?auth=fd6436ef6673fabaa368d007a3ea2f27ecaf82d4c0c87b77eaabf2f0201eb467&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-21T03:46:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/um-peru-nombra-a-raju-noornabi-como-managing-director-noticia/",
+        "image": "https://gestion.pe/resizer/v2/MRTEZ2STSJBAJNSYEYX26OA7NU.jpeg?auth=0710262eab0309dc0cb2240a7372426d0c54ea48ad44c606eec95059825e2684&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-09-21T10:30:00.000Z"
       },
       {
-        "title": "Pagar el IGV ya no basta: una nueva obligación de Sunat alcanza a servicios del exterior",
-        "summary": "Desde julio de 2026, empresas que utilizan servicios de proveedores no domiciliados deben cumplir una nueva declaración ante Sunat antes de pagar el IGV.",
+        "title": "Gigante finlandesa Normet apunta a crecer al menos 30% en Perú en 2027: ¿qué viene?",
+        "summary": "Normet inició actividades en Perú en junio de 2009 y, tras más de 17 años en el mercado local, la compañía finlandesa espera que 2027 marque un punto de inflexión para su operación en el país. La fabricante de equipos y soluciones para minería subterránea proyecta crecer al menos 30% frente a este año, impulsada por un",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/sunat-pagar-el-igv-ya-no-basta-una-nueva-obligacion-alcanza-a-servicios-del-exterior-noticia/",
-        "image": "https://gestion.pe/resizer/v2/LNXJJ4NV2BEIDKDHVLAEZLU3S4.jpg?auth=a2b302cc2126eed17b0dd7339fe3741c5132d0cd5d08d054d458888f42fb43b4&smart=true&width=1400&height=800",
-        "publishedAt": "2026-09-21T03:30:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/gigante-finlandesa-normet-apunta-a-crecer-al-menos-30-en-peru-en-2027-que-viene-noticia/",
+        "image": "https://gestion.pe/resizer/v2/A532IEI2HZHXHOJZBKSLSJU3GQ.jpeg?auth=66f5328d5b1fdcee1a52a513fa3db944074acb9a454cae7f2bbd3348a3a869d7&smart=true&width=1600&height=900",
+        "publishedAt": "2026-09-21T10:30:00.000Z"
       },
       {
-        "title": "Pensión 65: gobierno ajusta reglas del programa para brindar ayuda “ante emergencias”",
-        "summary": "El Gobierno de Keiko Fujimori modificó el decreto que creó el programa Pensión 65 para ampliar sus competencias y atender a las personas vulnerables en “situaciones de emergencia”.",
+        "title": "BCRP eleva crecimiento de inversión privada por cuarta vez seguida: ¿motores seguirán en 2027?",
+        "summary": "La entidad monetaria actualizó de 12.5% a 14% el avance de la inversión para este año, pese a que ajustó a la baja el crecimiento de la economía hasta 3.2%. ¿Cómo se plantea el panorama para este y el siguiente año?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/pension-65-gobierno-ajusta-reglas-del-programa-para-brindar-ayuda-ante-emergencias-noticia/",
-        "image": "https://gestion.pe/resizer/v2/DCPIIPPOXRAR5NLMSXH3YJZ7EY.jpg?auth=0f681a55d4b8b4869c5bfe6e6f3b127474271a824c407f0d161063e35c0a25fb&smart=true&width=1200&height=798",
-        "publishedAt": "2026-09-21T02:45:00.000Z"
+        "url": "https://gestion.pe/economia/bcrp-eleva-crecimiento-de-inversion-privada-por-cuarta-vez-seguida-motores-seguiran-en-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/GITAND4NNZFPLKIXCXZ3OSXZ6I.jpeg?auth=4e2045519e5452b2f3bf9c2be23fa097a53d8469be07e8858dbbb33e27dccc01&smart=true&width=912&height=599",
+        "publishedAt": "2026-09-21T10:25:00.000Z"
       },
       {
-        "title": "Castillo de Chancay apuesta por eventos corporativos: ¿qué viene en 2027?",
-        "summary": "El Castillo de Chancay busca ampliar su negocio más allá del turismo tradicional y ganar espacio en el mercado corporativo. La realización del primer TEDxChancay, programado para este 19 de septiembre, forma parte de esta estrategia de diversificación, que también contempla una nueva apuesta hotelera.",
+        "title": "Máximo San Román y los nuevos planes de Grupo Nova: de la maquinaria para panadería a la ganadería",
+        "summary": "Grupo Nova prevé crecer entre 12% y 15% este año y alista nuevos desarrollos para atender a pequeños emprendedores, con máquinas de menor escala para panaderías, equipos para la elaboración de chocolate y un nuevo horno gastronómico. La compañía también avanza en un proyecto para producir alimento para ganado en Huacho",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/castillo-de-chancay-apunta-a-que-eventos-corporativos-aporten-hasta-15-del-negocio-noticia/",
-        "image": "https://gestion.pe/resizer/v2/6DXOPR6TVZDHPDFSXMMSLB4RUU.jpg?auth=fb703b6bb636f4a76d52da2c8ed043cea6aa5741cd39ead4f9cd5bfbbc33dbfa&smart=true&width=1200&height=835",
-        "publishedAt": "2026-09-21T00:15:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/grupo-nova-mas-alla-de-la-maquinaria-maximo-san-roman-revela-su-incursion-en-la-ganaderia-noticia/",
+        "image": "https://gestion.pe/resizer/v2/7B6C5QGFF5DSZLQXKQDF6BEVTE.jpg?auth=2f4ed3d0c6a752556547b82ad77bdb527b3287fa1305a47d65908474fc79cef9&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-09-21T10:15:00.000Z"
       },
       {
-        "title": "¿Una investigación penal puede detener un procedimiento de Indecopi? Sala fija criterios",
-        "summary": "¿Una investigación penal puede detener un procedimiento de Indecopi? Conozca cuándo procede la suspensión y qué deben acreditar las empresas.",
+        "title": "Aumenta consumo eléctrico, pero también costos de generación: ¿seguirán subiendo tarifas?",
+        "summary": "Producción hidroeléctrica continuó en caída, en paralelo a que se mantiene la congestión en la transmisión. ¿Aparecen soluciones en el horizonte? Esto prevé el COES.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/indecopi-vs-fiscalia-una-investigacion-penal-puede-detener-un-procedimiento-administrativo-sala-fija-criterios-noticia/",
-        "image": "https://gestion.pe/resizer/v2/V5NLHGCJJJHYRK2IZZHEFAKVMM.png?auth=9860b7a8433844468d4abc028bbba936d73e39d050e80d32d654e345f3d0f195&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-09-21T00:15:00.000Z"
+        "url": "https://gestion.pe/economia/aumenta-consumo-electrico-pero-tambien-costos-de-generacion-seguiran-subiendo-tarifas-noticia/",
+        "image": "https://gestion.pe/resizer/v2/5DD3EHYU5FCRVPYEGJ55SHJY3Q.jpg?auth=2f4336dab02a74ecffb911708fb5b6431a9a7533b4a9efce435a6c36ddb81219&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-21T10:10:00.000Z"
       },
       {
-        "title": "Thomas amplía su negocio en Perú con su apuesta por medianos electrodomésticos y nuevos lanzamientos",
-        "summary": "La marca alemana de electrodomésticos Thomas Elektrogeräte prepara nuevos movimientos en Perú, con cambios en su portafolio, el ingreso a medianos electrodomésticos y una nueva línea de productos prevista para este año.",
+        "title": "Cobre: producción en Perú cayó en 9 de las 10 principales mineras",
+        "summary": "Además, la exportación del metal rojo retrocedió en volumen en junio, pero su valor creció 18% por efecto precios. ¿Qué se espera para este año?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/thomas-busca-ganar-mercado-en-peru-con-su-ingreso-a-medianos-electrodomesticos-y-un-nuevo-lanzamiento-para-fines-de-2026-noticia/",
-        "image": "https://gestion.pe/resizer/v2/UEXQF4WKXRFLLABKQ7WFVZPGNA.jpg?auth=d51a21be5ad3633296af081047a4f6f78b2a5dbfd64d103e1c25750b1514a1b8&smart=true&width=975&height=731",
-        "publishedAt": "2026-09-20T23:30:00.000Z"
+        "url": "https://gestion.pe/economia/cobre-su-produccion-a-julio-cayo-en-nueve-de-las-diez-principales-mineras-en-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/O7IR5CKNCREEPB5C5A7CPSZYQQ.jpg?auth=ab042a4b8af2a8a091cef13cdbaffbec7df4eac7877aa6b8d7d3fa1b47c5eed7&smart=true&width=1200&height=803",
+        "publishedAt": "2026-09-21T10:02:00.000Z"
       }
     ],
     "sociedad": [
       {
-        "title": "Oscar Reto: anemia infantil es problema de seguridad - Diario Ahora",
-        "summary": "Oscar Reto: anemia infantil es problema de seguridad &nbsp;&nbsp; Diario Ahora",
+        "title": "Lista de candidatos a la Alcaldía de Carabayllo en las Elecciones municipales 2026: conoce quiénes postulan - Infobae",
+        "summary": "Lista de candidatos a la Alcaldía de Carabayllo en las Elecciones municipales 2026: conoce quiénes postulan &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQb3hrbHpSeVhpankxdWdERnpPNlpPOV9MS2ZPZjFKd0w0el9xS25jSld0akJJdkhiZ3BoNFVTME5fOHplb3ZnczdGNXVhSkkwSGhSSk9MZEM0N3lseVc3dVZvUjZRX3dnMUVKTGY4UlhaSk9sZERUMnkwSXo1MkpNdVd0T3ZoeVMxMTN2QVo1S2w1X3Vpa25GU1lEMmRTTHB0T2Y3dm9GUTZVMk9jNmR0UFdiNUVuYldpNEp6dFZoTFpIZVh3Yi1pQy0tWldDYldXbjlFWXlPM2JQVHVxTFZNOTczNzRaT1lHSDFoWUdySWtuR2lsM1FSRzVhONIB-wFBVV95cUxQb3hrbHpSeVhpankxdWdERnpPNlpPOV9MS2ZPZjFKd0w0el9xS25jSld0akJJdkhiZ3BoNFVTME5fOHplb3ZnczdGNXVhSkkwSGhSSk9MZEM0N3lseVc3dVZvUjZRX3dnMUVKTGY4UlhaSk9sZERUMnkwSXo1MkpNdVd0T3ZoeVMxMTN2QVo1S2w1X3Vpa25GU1lEMmRTTHB0T2Y3dm9GUTZVMk9jNmR0UFdiNUVuYldpNEp6dFZoTFpIZVh3Yi1pQy0tWldDYldXbjlFWXlPM2JQVHVxTFZNOTczNzRaT1lHSDFoWUdySWtuR2lsM1FSRzVhOA?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-21T03:33:52.000Z"
+      },
+      {
+        "title": "Oscar Reto: \"La anemia infantil es un problema de seguridad nacional\" - Diario Ahora",
+        "summary": "Oscar Reto: \"La anemia infantil es un problema de seguridad nacional\" &nbsp;&nbsp; Diario Ahora",
         "source": "Diario Ahora",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONkhrLUtJWXRUa2Zla3ZOVW1nOThaMzJvZzZOcV9Qb2tyUkVjR2pnU1FONjlPX191SzZhWC1YX21YcHUtYWxmMmVXanQxUEU3aDVBV3ppRi1YLTM1ZFJManI4QmtmQ0V2VXp0MnlkanIwWHdpLUNYeHdKcXBaQkptSA?oc=5",
         "image": "",
         "publishedAt": "2026-09-13T07:51:33.000Z"
-      },
-      {
-        "title": "La crisis de seguridad no da tregua en Sinaloa: gobernadora interina responsabiliza a gobiernos anteriores - Infobae",
-        "summary": "La crisis de seguridad no da tregua en Sinaloa: gobernadora interina responsabiliza a gobiernos anteriores &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUmZxNUhCSW45Q09yX085TzBMa2EtN1dscTNidUVmdXI0LVFrQmRXQmM1UGZLQUxTMXpjTVlmQ1IxWDZHd2RGR19YRFA0dkhnQlBKcmFXZHBsTlJsZEpFNUkxbTVMbVBhUDFTdDZBTk9sTUh6X29YWm05M0ljVmFFMWF1aWVDUFJndm5Rbkc2ajhOZ2Q0QjQtVC12RWpzTlpvcEdIYWY5SUswWmlfM0trWXQwNElFbElVVjdkQ0xVa19PbE82c3I5QmhYT0lidk1mMFhGRF9OMDZ2NWsxdHd1Z0pB0gH8AUFVX3lxTE5KNjZlalQ0dnhZMGF5RDZNTlgxWnNBRHF5TTJSbmpVUkVNbGl4YjNtSEVIYjZfNklpNklJOHBkRjdZSWRMVHdheWppLUxINGN1eGJFX0hTaXBxdzlxRFlzR0NrUkdJMTNhMl9MT2RnRkpkLU9QeXd3S2VzSTQ0VXFNcnB2eWxSYVBqZUsxOHUzRjJ6OEV5Q2lCc2pNd2lRdmtETTlKYkVSLVBwc2t1X3JaeTlZMVJqYkhCOERsTmJLMGF6UDF0X0VaUDYzOXVGLUpwX2t1VWV1TVZ5ckc5ajB5Qm9LUHliSGx6bnlHbEptclppRUx6N3BxQU9wbg?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-09T07:00:00.000Z"
       },
       {
         "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - El Peruano",
@@ -222,6 +222,14 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
+        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - Business Empresarial",
+        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbEpWQWwzZjk1OHUyMXNjdl9taXN3YWtlVkc3WUd6ak1GNTNKTjMwWHhEd0Y4TTF6WU90LTMwTjZSNDVFN29ReWFGQkVvTmtya3pNMG9kSEdjYzRvdnZsTG16M3E1bzZhV09OVVBwWUNCU2ZJVHpfdnlvV1VmVXVLU2FmR3FYeVlIRnl1MVRvWmJlSWU4eVZ4Rkxxd2tZUHBKcWp6Q3BRUkZRMVRkbDRiVWNOdTFNSU5yNjByS2FobmlLdGRrOVJHdU9YOW9VYjZBLTYySHM1cDNhR1pDR0JZ?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-24T07:00:00.000Z"
+      },
+      {
         "title": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión - Infobae",
         "summary": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -246,6 +254,14 @@
         "publishedAt": "2026-06-26T07:00:00.000Z"
       },
       {
+        "title": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups - Business Empresarial",
+        "summary": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmtHemFxbzkzZVNVajZWNmstMk9YSDJHejFFbjVDaE5sYWNsT0JRZkxJUjBoa1hmMU5hdTNqclFvbDcxWl9nZUcxRlp4cHdPWGk4SE1oVWlTbW5iNzdwUXNWYWh4WUQzSEY4TmVSbnozMDVmS3BPd1ZUYllacXNOQVpUMFhqR215X1FOSk04Q1p5ZVJseXdrYm5DdkM0SDZpVHc0ZVR1MUNhX1dSRnRPa0dzdkxqS29xdTc5aGw3U2RxRzR0cmNsVGRkS2ota2s0aWFUZjJMc1FvRnlVaUF3Z3Nn?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-25T07:00:00.000Z"
+      },
+      {
         "title": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 - Infobae",
         "summary": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -260,22 +276,6 @@
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
         "image": "",
         "publishedAt": "2026-06-17T07:00:00.000Z"
-      },
-      {
-        "title": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión - Infobae",
-        "summary": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-10T07:00:00.000Z"
-      },
-      {
-        "title": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú - Business Empresarial",
-        "summary": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BXc0NCUE53Q1dicXN4ZXFJY3RHNmhlQnh1UG81VHItc29JbE5KdDViOTB1OW5Ja3V4dTdWRWZGLW1zRlVHUVJPNFMyS2h6YzR0THpaeC1EbmdfTlJNQzB4RkJ2VU9wZWN5YjZuelBIUG1DZlVxeURaVTdIdjZTRGdtUmRKaEEzY2dKd2pKS0h2RjUtN1JualhXY3lPbVdIdDlaRFdnRWNUd2p2b1RtTjJQcUx6d21ZNkdkT0dSWU9hV3Nya09UckFMNmFIUQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-05-27T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -312,9 +312,9 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
-        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - mineriaenergia.com",
-        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; mineriaenergia.com",
-        "source": "mineriaenergia.com",
+        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - Revista Minería & Energía",
+        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; Revista Minería & Energía",
+        "source": "Revista Minería & Energía",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNGRFXzc5Skp6cnFkd0Zfbmt3NVpwcC04eXJaekp6Z094a096R013M29yQ3hTUlFzRFF6eTE5SUZ0VHhLQjVEdTFIRlIyUERGM09nTzVZZHNXdmFVR3RITDF3X2RTeUdNb3FnT2otTUlBeGh0TUtKQWFzcURMY1JCMEhSdzM3cnpuUnBrUkh2TEpJOWZOMGY3bkkzTmE3RlY2YjJ3S0dZdVRqdFRBcDN3RFl4blQxeGVuTnM5WHVDRjdmUG1JZExSam9hLU8?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
@@ -336,9 +336,9 @@
         "publishedAt": "2026-06-10T07:00:00.000Z"
       },
       {
-        "title": "Innovadores peruanos podrán participar en competencia internacional de invenciones - andina.pe",
-        "summary": "Innovadores peruanos podrán participar en competencia internacional de invenciones &nbsp;&nbsp; andina.pe",
-        "source": "andina.pe",
+        "title": "Innovadores peruanos podrán participar en competencia internacional de invenciones - Agencia Andina",
+        "summary": "Innovadores peruanos podrán participar en competencia internacional de invenciones &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
         "image": "",
         "publishedAt": "2026-05-29T07:00:00.000Z"
@@ -568,9 +568,9 @@
         "publishedAt": "2026-08-27T07:00:00.000Z"
       },
       {
-        "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - andina.pe",
-        "summary": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento &nbsp;&nbsp; andina.pe",
-        "source": "andina.pe",
+        "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - Agencia Andina",
+        "summary": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOTNTd1VMWGJFRlFGZG1LOXpLSllZVE5JUG1xU19TaFdKbnJzam85dVlJN0VVVWQ1ZzJLanExY0xmbXV2cXY4a0Y4M1JXcExuUm1Nc0Q0S2N2WkhtZzNwWlJJdmoxS0gwdTFYYjVQT0VkVTJHcEtrZFFES1R3X3JWTWNMaWtvQkM0S1lyRXNNblBJaUh3c3hNX3JYaFhiUXFkemVJa1F4Y1NJNjRmX2tPekJ1Snc2aWVDRFE?oc=5",
         "image": "",
         "publishedAt": "2026-08-22T07:00:00.000Z"
