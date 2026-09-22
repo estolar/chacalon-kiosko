@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T04:50:24.224Z",
+  "generatedAt": "2026-09-22T09:55:15.165Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,36 +24,52 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Debate por la Alcaldía de Lima 2026 del JNE: Así se desarrolló la primera fecha con 13 candidatos",
-        "summary": "Trece candidatos a la Alcaldía de Lima participan este lunes, desde las 8 de la noche, en el debate organizado por el Jurado Nacional de Elecciones (JNE) a menos de dos semanas para los comicios del 4 de octubre.",
+        "title": "El éxodo de los movimientos regionales: candidaturas caen 83% desde el 2022 y partidos políticos dominan el tablero",
+        "summary": "En el 2024, la amenaza en el Congreso de eliminar este tipo de agrupación desató una migración de candidatos hacia los partidos políticos de alcance nacional. Los movimientos desaparecieron por completo en 11 departamentos.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/debate-por-la-alcaldia-de-lima-2026-del-jne-en-vivo-candidatos-duplas-y-bloques-tematicos-de-la-primera-fecha-erm-2026-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/BJYSYAK6IJA53DCRDOS2YREBJQ.jpeg?auth=d38572713e137e8aed0219d3d5f1856a6733bca1ad8c9beb8822642253dcfbb1&smart=true&width=4160&height=2773",
-        "publishedAt": "2026-09-22T04:48:35.000Z"
+        "url": "https://elcomercio.pe/ecdata/el-exodo-de-los-movimientos-regionales-candidaturas-caen-83-desde-el-2022-y-partidos-politicos-dominan-el-tablero-elecciones-regionales-y-municipales-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/GCNMYV3TUNAT7ITF24PUM247Q4.jpg?auth=96899ab28be219c51788cfb81bd060e1fa1c35fa4997f5f765d4c389060813f4&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-09-22T07:04:44.000Z"
       },
       {
-        "title": "Debate municipal Lima 2026 EN VIVO: minuto a minuto de la primera fecha del evento organizado por el JNE",
+        "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
+        "summary": "Fuerza Popular | Desde que empezó a participar en elecciones subnacionales, el fujimorismo redujo su oferta electoral en más de la mitad.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/ecdata/en-16-anos-fuerza-popular-solo-ha-ganado-3-gobiernos-regionales-y-no-ha-colocado-un-solo-alcalde-en-lima-metropolitana-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/3ZQHU5EOGNH33LU7J6EN3J4QSE.jpeg?auth=05b2ba86279d4f5e8c5af8ea35780dce6caca06e15b2546119eb9e3be8b10463&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-09-22T06:55:55.000Z"
+      },
+      {
+        "title": "El nuevo Congreso bicameral alcanzó un nuevo récord de mujeres, pero el Senado aún está lejos de la paridad",
+        "summary": "En 70 años, las mujeres pasaron de representar apenas el 4% del Congreso a ocupar el 37% de los escaños. Pese al avance, la nueva bicameralidad evidencia una brecha pendiente: solo el 27% del Senado estará integrado por mujeres en el gobierno de Keiko Fujimori",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/ecdata/congreso-keiko-fujimori-senado-diputados-bicameralidad-palacio-de-gobierno-mujeres-martha-chavez-fuerza-popular-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/5CNBAEYKWVE53IHCVZAYKUV5CA.png?auth=8e7a13e206d920b70ddfca603c0c9325c76a88346ce797f823ffcb326f891177&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-09-22T06:54:16.000Z"
+      },
+      {
+        "title": "Debate municipal Lima 2026: candidatos presentaron sus propuestas en primera jornada del evento del JNE",
         "summary": "Debate municipal Lima 2026: candidatos que participan, propuestas e incidencias del evento de HOY, 21 de septiembre",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/elecciones/debate-municipal-lima-2026-en-vivo-candidatos-propuestas-e-incidencias-del-evento-del-jne-hoy-21-de-setiembre-apuesplan-lbposting-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/67TZ52ST2NFHDFCIK7YBXJOA5A.jpg?auth=08f8409e6e567580aead73bee057912264653aa75a836d45743b94a1a1f05c3c&smart=true&width=1200&height=793",
-        "publishedAt": "2026-09-22T04:45:08.000Z"
+        "publishedAt": "2026-09-22T05:14:28.000Z"
       },
       {
-        "title": "Daniel Urresti en debate municipal: “Contrataremos 100 equipos Ternas para capturar a 100 delincuentes diariamente”",
-        "summary": "",
+        "title": "Bruce y Urresti abren los debates municipales: las críticas a López Aliaga y los entretelones de la primera jornada",
+        "summary": "Aunque Rafael López Aliaga no participó en el primer debate entre los candidatos a la alcaldía de Lima (le toca este martes), sus oponentes Carlos Bruce (Somos Perú) y Daniel Urresti (Podemos Perú) lanzaron duros cuestionamientos para el líder de Renovación Popular que busca volver a la municipalidad capitalina postula",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/daniel-urresti-en-debate-municipal-temas-propuestas-planes-de-gobierno-elecciones-apuesplan-ultimas-noticias-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/6ELZZTI3V5G3BPUR3JBAMOB2DQ.jpg?auth=6552354497411bcfe55662cc80cbaf6e84e1ec694168d023c00695a2b92bd91c&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-22T04:39:38.000Z"
+        "url": "https://elcomercio.pe/politica/elecciones/entretelones-del-primer-debate-municipal-carlos-bruce-y-daniel-urresti-las-criticas-a-lopez-aliaga-y-los-detalles-de-la-primera-jornada-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/NTPROQPCDRBQDIFTCXT6BLQPVM.jfif?auth=c175e4a485f355a619a52d2d5f37cb0172e412daeffc0b9b66d46ab491ca45fa&smart=true&width=4160&height=2773",
+        "publishedAt": "2026-09-22T05:01:00.000Z"
       },
       {
-        "title": "Debate por la Alcaldía de Lima: ¿Quiénes participan este 21 y 22 de septiembre y cómo será la dinámica?",
-        "summary": "En cada una de las jornadas del debate por la Alcaldía de Lima, organizado por el JNE, participarán 13 candidatos, quienes expondrán y confrontarán sus propuestas sobre distintos temas. El lunes le toca debatir a Carlos Bruce y el martes a Rafael López Aliaga.",
+        "title": "Debate por la Alcaldía de Lima: ¿qué dejó la primera jornada entre 13 candidatos? Dos analistas responden",
+        "summary": "A dos semanas de las elecciones regionales y municipales, 13 candidatos a la Alcaldía de Lima debatieron este lunes 21 de septiembre. Durante encuentro, organizado por el Jurado Nacional de Elecciones (JNE), expusieron y confrontaron sus propuestas para gobernar la capital.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/debate-por-la-alcaldia-de-lima-del-jne-quienes-participan-cada-fecha-21-y-22-de-septiembre-y-como-sera-la-dinamica-rafael-lopez-aliaga-carlos-bruce-apuestaplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/TSOXZU6H7NH7LMF2Y4ZCP43HGA.jpg?auth=9d030ee6423f5484d7261fd3b9a02b38286ac3e06a328cf61464979d2953dc9e&smart=true&width=1200&height=647",
-        "publishedAt": "2026-09-22T04:24:41.000Z"
+        "url": "https://elcomercio.pe/politica/debate-por-la-alcaldia-de-lima-que-dejo-la-primera-jornada-entre-13-candidatos-dos-analistas-responden-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/DIOWIMF6ZRCLJLSRZTCAQ5MASA.jpeg?auth=6dc4a0818a19e92ccbfa4dce060b254086f791afacb8f9821e7df9ff4f1ebc31&smart=true&width=1016&height=647",
+        "publishedAt": "2026-09-22T05:01:00.000Z"
       },
       {
         "title": "Debate Municipal 2026: Carlos Bruce propone crear la Policía Municipal Metropolitana",
@@ -61,23 +77,7 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/elecciones/debate-alcaldia-de-lima-2026-jne-debate-municipal-2026-carlos-bruce-propone-crear-la-policia-municipal-metropolitana-erm-2026-apuesplan-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/YL6LOY7FPNHG7NB4YWWLLJT4IY.jpeg?auth=702a6152f2c24956529b95ee6e3ef7a54bff66cd997606df980cb1cb078010ea&smart=true&width=1280&height=854",
-        "publishedAt": "2026-09-22T04:14:38.000Z"
-      },
-      {
-        "title": "Debate por la alcaldía de Lima 2026: candidatos dan a conocer su visión de la ciudad en primer día del evento",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/elecciones/debate-alcaldia-de-lima-2026-jne-esta-es-la-vision-de-lima-que-tienen-los-13-candidatos-erm-2026-apuesplan-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/NNCN3DXDOJAFZCDKQTXTDI7AR4.jpg?auth=31f09e81e91f7be5ac063a017a09dc6560939696b721d556b68cac9dd25b0f76&smart=true&width=1200&height=801",
-        "publishedAt": "2026-09-22T04:03:30.000Z"
-      },
-      {
-        "title": "JNE sigue sin definir si candidatos a primeros regidores podrán recibir credenciales de alcalde si sus listas ganan",
-        "summary": "El presidente del JNE, Roberto Burneo, informó que el Pleno todavía no define si los candidatos a primeros regidores que fueron alcaldes podrán recibir nuevamente la credencial de alcalde si sus listas ganan. La institución tampoco ha establecido una fecha para resolver esta controversia.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/elecciones/erm-jne-sigue-sin-definir-si-candidatos-a-primeros-regidores-podran-recibir-las-credenciales-en-caso-sus-listas-ganen-los-comicios-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/YH6MCDTMYRGBDER656XW6ANFUY.jpg?auth=4833018e573f4fd3de6db6ea7b9f457441a3fb7109c88c41fe3daad19c523019&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-22T01:50:34.000Z"
+        "publishedAt": "2026-09-22T04:53:10.000Z"
       }
     ],
     "economia": [
@@ -156,9 +156,9 @@
         "publishedAt": "2026-09-21T03:33:52.000Z"
       },
       {
-        "title": "Voz Universitaria abre un diálogo inédito entre jóvenes y el Congreso de la República en la PUCP - puntoedu.pucp.edu.pe",
-        "summary": "Voz Universitaria abre un diálogo inédito entre jóvenes y el Congreso de la República en la PUCP &nbsp;&nbsp; puntoedu.pucp.edu.pe",
-        "source": "puntoedu.pucp.edu.pe",
+        "title": "Voz Universitaria abre un diálogo inédito entre jóvenes y el Congreso de la República en la PUCP - PuntoEdu PUCP",
+        "summary": "Voz Universitaria abre un diálogo inédito entre jóvenes y el Congreso de la República en la PUCP &nbsp;&nbsp; PuntoEdu PUCP",
+        "source": "PuntoEdu PUCP",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXdMd3dYSHNqOVFWMzd5SURHRlVaUHVFQTFYaC1TWEItOG4wRll1Nm94eF9sbEpPcGtkTmJESnowMFB2SzNBZEpXX29LSEFPbHh6ZkdUM25oYWFRdDN3dkt1VUJhOGh4ejZqZHkwdFBTdHJyUmRuUDMtUjNKSVpTSThIRlo5QWluWEJtVi02Qi1IYXBxd1E2VUpLUnJTcjQ2MElRZV9KbkU4dDZqZFhyYS1RNWw4SVVtYW5DWlVkYUJGYjJHOGc?oc=5",
         "image": "",
         "publishedAt": "2026-09-11T07:00:00.000Z"
@@ -188,14 +188,6 @@
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
-        "title": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS - Diario Ahora",
-        "summary": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS &nbsp;&nbsp; Diario Ahora",
-        "source": "Diario Ahora",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUm9heXNQZzZPY0tMTmxyWEJrSVFZMlFtb2JVOFpfZXpubndad19NYTVyQVpyLVk0Yi1GZ0xCNmtRY0lWbV9VMTE5QUtRZG1zM2FJMzQweTU1a1lsVzl3OURfYldrUVM1aEJXWGI1OTR4OTFkRDQzcEtpaG1rcE42Zl9jT1g3RVdmQkZETk1ZOFBpd0o1MmF2RHVOczJsQ2Q1VHJGMjJrQ2tCVE42OXNz?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-15T15:44:23.000Z"
-      },
-      {
         "title": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado - TVPerú",
         "summary": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado &nbsp;&nbsp; TVPerú",
         "source": "TVPerú",
@@ -208,6 +200,14 @@
         "summary": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad &nbsp;&nbsp; EL PAÍS",
         "source": "EL PAÍS",
         "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdTZGRmVCRWs3MmpCV1RDRzhzeVJPanVZWlNrOG1BWGNOOWxCZFpPY3FJWWZNcFJudkk4YnROSHNxM2pOaHR2QVczaVhmLXN2NE5KLThVcE9KMDI0Vlg5SnFjQUtrcHB5dnNYa2RjdHlTb2g3OWs5RXZ1RmVBZ1FKREFka2MzVTVTTGJiOGxqQmNIODlucGpxLVpHNk1SVWdBeER4Nm85QUw2UjM4bG1aX0UzZEFBRkFNSVlRY0NFWmlzQ0IxNVZoQndieTRvaDRpWlRvc21JdmtaeEtTN3RYUWN0cVZSNVVudVVRejlta0Z3bGRHVkhv?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-07T07:00:00.000Z"
+      },
+      {
+        "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - EL PAÍS",
+        "summary": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución &nbsp;&nbsp; EL PAÍS",
+        "source": "EL PAÍS",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeW5LcjdJa3V6MXlwdU1CVG4wR19lcXM5Ynoydmd3QVYxMWJ5amNPQVdYRnV3d05VZXFfMUc1M05RUTNBRWloaWFCX3U1LTloTHRLQ2NuaXVSWFllTHZ1aWFjVXNXR3M0LTRpVHBaUU9XSjZ4TXVTZ1hKMGhPVHFrem1MZU54RG52SWp5OXVTQlpHMlhYemVacWI5ZUVwTUJVT3d2MkJRdEpIekRCQmtIZDQxaFN0d0dZRE5zZ1NwS1JMd0NWaWlxeGttVFdaMlN2VlEwWFc5S0pfdTVNQ2JMZW9vempBTTJ2TW9CSDBEQU8?oc=5",
         "image": "",
         "publishedAt": "2026-06-07T07:00:00.000Z"
       }
@@ -320,9 +320,9 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
-        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - mineriaenergia.com",
-        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; mineriaenergia.com",
-        "source": "mineriaenergia.com",
+        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - Revista Minería & Energía",
+        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; Revista Minería & Energía",
+        "source": "Revista Minería & Energía",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNGRFXzc5Skp6cnFkd0Zfbmt3NVpwcC04eXJaekp6Z094a096R013M29yQ3hTUlFzRFF6eTE5SUZ0VHhLQjVEdTFIRlIyUERGM09nTzVZZHNXdmFVR3RITDF3X2RTeUdNb3FnT2otTUlBeGh0TUtKQWFzcURMY1JCMEhSdzM3cnpuUnBrUkh2TEpJOWZOMGY3bkkzTmE3RlY2YjJ3S0dZdVRqdFRBcDN3RFl4blQxeGVuTnM5WHVDRjdmUG1JZExSam9hLU8?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
@@ -444,9 +444,9 @@
         "publishedAt": "2026-08-15T07:00:00.000Z"
       },
       {
-        "title": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña - TV Azteca",
-        "summary": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña &nbsp;&nbsp; TV Azteca",
-        "source": "TV Azteca",
+        "title": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña - tvazteca.com",
+        "summary": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña &nbsp;&nbsp; tvazteca.com",
+        "source": "tvazteca.com",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUtQOXdxcVJBQ3VUS2QwTjRrWFYxMmRqSFk4dDVBZXNoTWZrNGwyTUtpUXdHTVl2UWlGNEx1YWRycWdjdWFZbDFJWFU1TGo4bGRVZWt3bkNvSnpXaWVSaGFhbkpYWkFFcFJacEJVT2R2U0hDR1huVjBua2U4aWhzdVoySUxIZ3FId0pfREhoajB4M1pPaXhfaTl1U3ZESEJZZXFn0gGwAUFVX3lxTE5vUUtIUGJEWFlSTlpGNktFT1lSOWJLSWJ3cEg5ZWEyR1VCVTJnal9hSDNWVVBkeDJmR1FYaWlNSHFjQkVPQjlDMUJtQVNXVFlUWi12ZmM4NWo1MFVfWE9RRDd5dlJzWXg4UFkxV2d0eGxMakZrMThuM2JhTGs4dVZ6Y2JPQ21pRGNtaV81TmlZY2pRT1p2WWlmSm9HcXEwUEpuV1pnODd0NWRGNW5xR2Nn?oc=5",
         "image": "",
         "publishedAt": "2026-08-15T07:00:00.000Z"
@@ -584,9 +584,9 @@
         "publishedAt": "2026-08-22T07:00:00.000Z"
       },
       {
-        "title": "Inauguran DeliMadrid 2026: una experiencia que une a Lima y Madrid a través de la gastronomía y la cultura - Perú 21",
-        "summary": "Inauguran DeliMadrid 2026: una experiencia que une a Lima y Madrid a través de la gastronomía y la cultura &nbsp;&nbsp; Perú 21",
-        "source": "Perú 21",
+        "title": "Inauguran DeliMadrid 2026: una experiencia que une a Lima y Madrid a través de la gastronomía y la cultura - peru21.pe",
+        "summary": "Inauguran DeliMadrid 2026: una experiencia que une a Lima y Madrid a través de la gastronomía y la cultura &nbsp;&nbsp; peru21.pe",
+        "source": "peru21.pe",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNGVRUi1lRFpKUVBFNDlRVFp5OURydjNYaDhFVlFER2Q4UkZWSXZKZEI2Rk1nUzk2V0MxNG45WjVRTWFCbk1ZdkFBVnhveUFHVTBmdFA1SmtrZENxZm5VNzY0N0tBS0xySG94a3ZmY2ZVRjRydDVwYlZZUEtHYjlfU3N6RHZRRHVTWk5ZM3BIYUNxUWttbnRqSDN4T0duMjUtUmtEWjJTaFVUWEdHMnpQWFBlSUo5aFZSWlpQNE1FenBSdEU?oc=5",
         "image": "",
         "publishedAt": "2026-08-22T07:00:00.000Z"
