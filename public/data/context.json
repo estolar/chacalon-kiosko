@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T11:30:09.631Z",
+  "generatedAt": "2026-09-23T16:53:54.990Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,20 +24,44 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Más allá de las facultades",
-        "summary": "El Senado viene deshojando margaritas a la espera del trabajo legislativo de la Cámara de Diputados. Lo urgente en la agenda es la delegación de facultades al Poder Ejecutivo, pero, hasta la fecha, solo vemos un terreno político confrontado donde no queda claro el resultado final. Desde el propio oficialismo esperan qu",
+        "title": "Keiko Fujimori se reunirá con el secretario general de las Naciones Unidas en Nueva York",
+        "summary": "La presidenta Keiko Fujimori sostendrá este miércoles 23 de setiembre una reunión bilateral con el secretario general de las Naciones Unidas, António Guterres, en la sede de este organismo internacional.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/opinion/columnistas/mas-alla-de-las-facultades-por-martin-hidalgo-congreso-de-la-republica-camara-de-diputados-senado-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/2GSYNKIEZ5DJFNPYEL3KDWKWCQ.jpg?auth=c6f3cbc85a01e97f289333bfc306770ba35970e9398e67e269651f6f180fda91&smart=true&width=1221&height=654",
-        "publishedAt": "2026-09-23T10:30:00.000Z"
+        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-el-secretario-general-de-las-naciones-unidas-en-nueva-york-antonio-guterres-onu-estados-unidos-apuesplan-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/6JH5WE76SNDY5CS3YR7ZTZGBEY.jpg?auth=0a7323310a1632e50d3a268b866eafdad8125d1a7d9d7eabd3e7bb53e4b2f465&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-09-23T16:37:50.000Z"
       },
       {
-        "title": "Debate por la alcaldía de Lima 2026: candidatos compartieron su visión de la ciudad en el segundo día del evento",
-        "summary": "",
+        "title": "Keiko Fujimori y los ejes de su discurso ante la ONU: “la guerra” contra el crimen organizado y la defensa a militares",
+        "summary": "En su primera presentación ante la Asamblea General de las Naciones Unidas, que se realiza en Nueva York (Estados Unidos), la presidenta de la República, Keiko Fujimori, afirmó que los países de América Latina libran “una guerra” contra el crimen organizado transnacional, también defendió a militares y policías que con",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/elecciones/debate-alcaldia-de-lima-2026-jne-esta-es-la-vision-de-los-13-candidatos-en-el-segundo-dia-del-evento-rafael-lopez-aliaga-francis-allison-erm-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/KHL52F4WKNHK5NBO6QA4IXLXZU.jpg?auth=c9f2e6e3cfc0c8786a74c7b6437baf9294349fe73fd9d88dd802034ad563d2b5&smart=true&width=1280&height=854",
-        "publishedAt": "2026-09-23T05:02:27.000Z"
+        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-y-los-ejes-de-su-primer-discurso-ante-la-onu-la-guerra-contra-el-crimen-organizado-y-la-defensa-a-militares-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/7WWMLMMASZHMXHR56ULHJEHHDI.jpg?auth=9185779563bc0d2a8113b7cacf0bb2f1c4e47d6b3621e0bdf9e17207fee39800&smart=true&width=1600&height=1066",
+        "publishedAt": "2026-09-23T16:12:21.000Z"
+      },
+      {
+        "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
+        "summary": "Fuerza Popular | Desde que empezó a participar en elecciones subnacionales, el fujimorismo redujo su oferta electoral en más de la mitad.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/ecdata/en-16-anos-fuerza-popular-solo-ha-ganado-3-gobiernos-regionales-y-no-ha-colocado-un-solo-alcalde-en-lima-metropolitana-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/3ZQHU5EOGNH33LU7J6EN3J4QSE.jpeg?auth=05b2ba86279d4f5e8c5af8ea35780dce6caca06e15b2546119eb9e3be8b10463&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-09-23T15:51:00.000Z"
+      },
+      {
+        "title": "El nuevo Congreso bicameral alcanzó un nuevo récord de mujeres, pero el Senado aún está lejos de la paridad",
+        "summary": "En 70 años, las mujeres pasaron de representar apenas el 4% del Congreso a ocupar el 37% de los escaños. Pese al avance, la nueva bicameralidad evidencia una brecha pendiente: solo el 27% del Senado estará integrado por mujeres en el gobierno de Keiko Fujimori",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/ecdata/congreso-keiko-fujimori-senado-diputados-bicameralidad-palacio-de-gobierno-mujeres-martha-chavez-fuerza-popular-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/5CNBAEYKWVE53IHCVZAYKUV5CA.png?auth=8e7a13e206d920b70ddfca603c0c9325c76a88346ce797f823ffcb326f891177&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-09-23T15:49:00.000Z"
+      },
+      {
+        "title": "Bajo análisis las puyas y propuestas en la segunda jornada del debate por la Alcaldía de Lima",
+        "summary": "¿Cómo evalúan dos analistas el desempeño de los candidatos. Los participantes plantearon propuestas en seguridad, transporte, infraestructura, gestión municipal, entre otros temas.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-bajo-analisis-las-puyas-y-propuestas-de-la-segunda-jornada-del-debate-por-la-alcaldia-de-lima-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/5YKRQXWT3JGK5DOTN2Z4JWRGI4.jpeg?auth=23d10ba922f4077589a0fdc7e79a3cf8158d8b833b60a53cd5b14f0234dbd4b9&smart=true&width=1200&height=627",
+        "publishedAt": "2026-09-23T15:46:08.000Z"
       },
       {
         "title": "Debate por Lima: ¿qué propusieron los candidatos y cuáles fueron sus principales cruces en esta segunda fecha?",
@@ -45,73 +69,25 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/elecciones/debate-por-lima-que-propusieron-los-candidatos-y-cuales-fueron-sus-principales-cruces-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/GFRRNA7SUREKFM6WBG7YWMWLPA.jpg?auth=6f2cb07c111325c205becce1db81781a00783a3bc7073bb3123c745e1007ea1c&smart=true&width=1280&height=854",
-        "publishedAt": "2026-09-23T05:01:00.000Z"
+        "publishedAt": "2026-09-23T15:45:45.000Z"
       },
       {
-        "title": "¿Será suficiente? Bajo análisis las puyas y propuestas en la segunda jornada del debate por la Alcaldía de Lima",
-        "summary": "¿Cómo evalúan dos analistas el desempeño de los candidatos. Los participantes plantearon propuestas en seguridad, transporte, infraestructura, gestión municipal, entre otros temas.",
+        "title": "Diputados: Fuerza Popular alista predictamen en minoría a favor de otorgar facultades al Gobierno",
+        "summary": "",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-bajo-analisis-las-puyas-y-propuestas-de-la-segunda-jornada-del-debate-por-la-alcaldia-de-lima-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/5YKRQXWT3JGK5DOTN2Z4JWRGI4.jpeg?auth=23d10ba922f4077589a0fdc7e79a3cf8158d8b833b60a53cd5b14f0234dbd4b9&smart=true&width=1200&height=627",
-        "publishedAt": "2026-09-23T05:01:00.000Z"
-      },
-      {
-        "title": "Candidatos a la Alcaldía de Lima dieron a conocer sus propuestas en segunda jornada del debate municipal 2026",
-        "summary": "Debate municipal Lima 2026: candidatos, duplas, propuestas y previa del segundo día del evento del JNE",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/elecciones/debate-municipal-lima-2026-jne-en-vivo-candidatos-duplas-propuestas-y-noticias-del-dia-2-del-evento-apuesplan-lbposting-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/MMQYWWNGRJEMLJMPYSXFIB2Q7M.jpg?auth=8d8f5fa0500c0ed87bdc56f138bf293b2ebf07abcccd5e95d0f9fc6a4a21e867&smart=true&width=1200&height=775",
-        "publishedAt": "2026-09-23T04:55:38.000Z"
-      },
-      {
-        "title": "Rafael López Aliaga promete invertir S/100 millones en inteligencia municipal y promover cadena perpetua para sicarios",
-        "summary": "Durante su primera intervención en el Debate Municipal 2026, organizado por el Jurado Nacional de Elecciones (JNE), Rafael López Aliaga (RLA), candidato a primer regidor de Renovación Popular, sostuvo que en una eventual gestión de su partido se invertirán S/100 millones en inteligencia municipal en materia de segurida",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/debate-alcaldia-de-lima-2026-jne-rafael-lopez-aliaga-vamos-a-invertir-porque-si-tenemos-plata-100-millones-de-soles-en-inteligencia-municipal-erm-2026-apuesplan-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/AGPYANMN25CRPKSQMWKMTOX7SE.jpg?auth=0b454633f1deb5bc6493c6d0f6a9a250a97324ed69efc40568ac541c155ea0c0&smart=true&width=1070&height=844",
-        "publishedAt": "2026-09-23T04:40:21.000Z"
-      },
-      {
-        "title": "Debate por la Alcaldía de Lima: Así se desarrolló la segunda jornada organizada por el JNE",
-        "summary": "En la segunda jornada del debate participarán 13 candidatos, quienes expondrán y confrontarán sus propuestas sobre distintos temas.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-debate-por-la-alcaldia-de-lima-2026-del-jne-en-vivo-candidatos-duplas-y-bloques-tematicos-de-la-segunda-fecha-martes-22-de-setiembre-erm-2026-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/EPW5C7WXPVCYTP2U767Y7HUQVU.jpg?auth=d51e192b7541852bc766a95b02546bdc131cc5bc486dd3685853f40c937a6314&smart=true&width=6720&height=4480",
-        "publishedAt": "2026-09-23T04:31:44.000Z"
+        "url": "https://elcomercio.pe/politica/congreso/diputados-fuerza-popular-alista-predictamen-en-minoria-a-favor-de-otorgar-facultades-al-poder-ejecutivo-keiko-fujimori-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/JOKQ23YOFVCU5OEOB54N2VJIYI.jpg?auth=dbd0a1047e046c4faca745509a277ab9a17a20a0d7fb636d0b1ebf67723f82a0&smart=true&width=1200&height=647",
+        "publishedAt": "2026-09-23T15:45:21.000Z"
       }
     ],
     "economia": [
-      {
-        "title": "La hoja de ruta de Hunter: nuevo negocio fuera de la minería y las oportunidades con El Niño",
-        "summary": "Hunter cierra el año con un crecimiento de 24% empujado por la venta de autos y la minería. Ahora entra al mercado de mascotas y alista nuevos lanzamientos para enero.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/hunter-suma-un-negocio-fuera-de-la-mineria-y-alista-lanzamientos-para-inicios-del-2027-noticia/",
-        "image": "https://gestion.pe/resizer/v2/SDRY6HVZB5FQHIKWT3NYDYEMGA.jpeg?auth=df6c4fe6063410803e03cb69f8a376126c9ffaf42320994b5f86695bfd77fe6d&smart=true&width=1600&height=1066",
-        "publishedAt": "2026-09-23T10:30:00.000Z"
-      },
       {
         "title": "Sueldo mínimo: El Niño “condicionaría” segundo tramo del alza de RMV, ¿cuándo se podría dar?",
         "summary": "El Gobierno confirmó que la RMV subirá S/100 entre octubre y noviembre. El segundo tramo de S/70 dependerá del impacto del Fenómeno del Niño.",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/sueldo-minimo-el-nino-condicionaria-segundo-tramo-del-alza-de-la-remuneracion-minima-vital-rmv-cuando-se-podria-dar-noticia/",
         "image": "https://gestion.pe/resizer/v2/PNUKW4XQIZC6JE7IML5NAMJFPQ.jpg?auth=4d5837f540b8bb32db3549090c6d9b80c41355235da19cc63bf20918b7bab1c8&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-23T10:28:00.000Z"
-      },
-      {
-        "title": "McKinsey: “empresas destacadas” llevaron a países al desarrollo, ¿cuáles serían en Perú?",
-        "summary": "En el marco del McKinsey Peru 2026 Forum, Jan Mischke, Socio en Zúrich del McKinsey Global Institute; conversó con Gestión sobre las claves para que países como el Perú alcancen el desarrollo económico.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/mckinsey-empresas-destacadas-llevaron-a-las-potencias-del-mundo-al-desarrollo-cuales-serian-en-peru-noticia/",
-        "image": "https://gestion.pe/resizer/v2/4OIDTXZPIRF3PIR5DTYYFQ2TLI.png?auth=0c0547a43eabfdc05f3fa37619639e0e54bf3d812d2ff447f05df20deef88738&smart=true&width=1672&height=941",
-        "publishedAt": "2026-09-23T10:17:00.000Z"
-      },
-      {
-        "title": "Fibra Prime vuelve al mercado de capitales por casi US$ 70 millones para expandirse",
-        "summary": "Tras la autorización de Indecopi para adquirir el Parque Logístico Lima Sur, Fibra Prime lanzó una nueva oferta pública de certificados de participación por US$ 69.3 millones para sumar activos y diversificar su portafolio, que ya supera los US$ 440 millones.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/fibra-prime-busca-captar-us-693-millones-para-ampliar-su-portafolio-inmobiliario-noticia/",
-        "image": "https://gestion.pe/resizer/v2/SNXQDPYS3RFGZJQULUJVZ2J2CY.jpg?auth=1f79426910138d0a7a6e1748785588c54224228eccd3bf8fef5487ae05ae9c6b&smart=true&width=1424&height=751",
-        "publishedAt": "2026-09-23T10:15:00.000Z"
+        "publishedAt": "2026-09-23T16:42:35.000Z"
       },
       {
         "title": "El Niño no es la única amenaza, agroexportadores preocupados por nuevo proyecto de ley",
@@ -119,34 +95,66 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/agroexportacion-de-peru-el-nino-no-es-la-unica-amenaza-sector-preocupado-por-nuevo-proyecto-del-congreso-para-derogar-beneficios-tributarios-noticia/",
         "image": "https://gestion.pe/resizer/v2/AQ3MPENV5NDQBM3TNHHIH3HSMU.webp?auth=5bf5e4f98fd038d2687e13fc89938b722aee2ac26c28fc299bdcb85b488628ff&smart=true&width=852&height=479",
-        "publishedAt": "2026-09-23T10:14:00.000Z"
+        "publishedAt": "2026-09-23T16:42:03.000Z"
       },
       {
-        "title": "Proveedores del Estado cobrarán por adelantado con órdenes de compra, ¿quiénes se beneficiarán?",
-        "summary": "El Estado constituye uno de los principales compradores del país, señalan especialistas, lo que vuelve más relevante el reglamento aprobado recientemente por el Poder Ejecutivo.",
+        "title": "Petrotal adelanta reinicio de perforación de pozos de producción de petróleo en Loreto",
+        "summary": "El mayor productor de petróleo en Perú, Petrotal, reanudó la perforación de pozos de desarrollo en el campo Bretaña del Lote 95 (Loreto) el pasado 21 de setiembre, adelantándose así una semana al calendario inicial, que proyectaba reiniciar los trabajos en el mes de octubre.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/proveedores-del-estado-cobraran-por-adelantado-con-ordenes-de-compra-quienes-se-beneficiaran-noticia/",
-        "image": "https://gestion.pe/resizer/v2/WXGIYPHMYNAS5CRGRX2IE4KUOE.jpg?auth=0c0258031bcd0aa05f13dac19019c97c97bd3820024b9347d894644b896f9659&smart=true&width=900&height=550",
-        "publishedAt": "2026-09-23T10:10:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/la-mayor-petrolera-de-peru-adelanta-reinicio-de-perforacion-de-pozos-de-produccion-en-loreto-noticia/",
+        "image": "https://gestion.pe/resizer/v2/JT6LBLSPSRD5BFHOJ6GBUIBWCU.png?auth=cf3415d518d34fdee530f95a60f7a8f82f4911dcf2267d5a0eba628fde9b5e4e&smart=true&width=1200&height=680",
+        "publishedAt": "2026-09-23T16:40:37.000Z"
       },
       {
-        "title": "Violencia escolar: casi 20,000 denuncias al año, mientras recursos para prevención caen",
-        "summary": "Gestión identificó caídas año tras año en el presupuesto dentro del Minedu para la prevención del acoso escolar y violencia sexual. Para el 2027, el monto no supera ni los S/ 61,000 en conjunto. Este es el panorama que grafica su prioridad en el Estado.",
+        "title": "Puerto del Callao y PortMiami ahora son “puertos hermanos”, ¿de qué se trata?",
+        "summary": "“Para nosotros Callao es muy importante. Para Estados Unidos, Callao es el motor económico del Perú, quiere ser parte de ese crecimiento en todos los pasos”, dijo el embajador Bernie Navarro.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/violencia-escolar-en-peru-casi-20000-denuncias-al-ano-mientras-presupuesto-para-prevencion-cae-noticia/",
-        "image": "https://gestion.pe/resizer/v2/A3JXMC3V5ND53DLXWQ57H6YZVA.jpeg?auth=ece5ad8df8e58957aa38e6ee41d0f1315b5e626e40282d54fd5e2618d9f9c590&smart=true&width=598&height=393",
-        "publishedAt": "2026-09-23T10:05:00.000Z"
+        "url": "https://gestion.pe/economia/puerto-del-callao-y-portmiami-ahora-son-puertos-hermanos-de-que-se-trata-noticia/",
+        "image": "https://gestion.pe/resizer/v2/2DDJYJFYGRE6XKD6QYOF3KIBCU.jpg?auth=784b1575b03516a8ec57f88f1fe943ce1d0c6c3961b0ed0fa51002d4891ac79a&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-09-23T16:35:47.000Z"
       },
       {
-        "title": "Mercados e indicadores – Hoy miércoles 23 de setiembre",
-        "summary": "Para tomar las decisiones más acertadas de inversión, manténgase diariamente bien informado sobre el desempeño de las acciones de la plaza bursátil, de la variación de las principales variables del mercado financiero, así como de la evolución de los precios de los commodities. La cotización en el mercado de Londres el ",
+        "title": "McKinsey: “empresas destacadas” llevaron a países al desarrollo, ¿cuáles serían en Perú?",
+        "summary": "En el marco del McKinsey Peru 2026 Forum, Jan Mischke, Socio en Zúrich del McKinsey Global Institute; conversó con Gestión sobre las claves para que países como el Perú alcancen el desarrollo económico.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/mercados/mercados-e-indicadores-hoy-miercoles-23-de-setiembre-noticia/",
-        "image": "https://gestion.pe/resizer/v2/CKBJCXWQXVCTXHZN5ZAGTM66RE.jpg?auth=c935a9816683dbd514d89311dedaf60293df727aefbd90da56a9830e4813f2eb&smart=true&width=1280&height=720",
-        "publishedAt": "2026-09-23T10:00:00.000Z"
+        "url": "https://gestion.pe/economia/mckinsey-empresas-destacadas-llevaron-a-las-potencias-del-mundo-al-desarrollo-cuales-serian-en-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/4OIDTXZPIRF3PIR5DTYYFQ2TLI.png?auth=0c0547a43eabfdc05f3fa37619639e0e54bf3d812d2ff447f05df20deef88738&smart=true&width=1672&height=941",
+        "publishedAt": "2026-09-23T16:30:00.000Z"
+      },
+      {
+        "title": "Candidatos al BCRP inician entrevistas ante Congreso, ¿cómo les fue en evaluación previa?",
+        "summary": "La Comisión de Procedimientos Especiales del Senado aprobó por mayoría, la modalidad, los horarios, el orden de participación de los candidatos y el tiempo previsto para las entrevistas correspondientes al proceso de elección de integrantes del directorio del Banco Central de Reserva del Perú (BCR).",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/senado-comision-aprueba-proceso-de-entrevistas-para-candidatos-al-directorio-del-bcr-noticia/",
+        "image": "https://gestion.pe/resizer/v2/HJK7GRMN2RAIFB3RPHG3P66UFU.jpg?auth=c94b59ac185044165b76ca0a5bcf72b1f3def4a5665933326d01c50a3676ae5f&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-23T16:03:13.000Z"
+      },
+      {
+        "title": "Tipo de cambio hoy en Perú: ¿cuánto está el dólar este miércoles 23 de septiembre?",
+        "summary": "El miércoles 23 de septiembre, el dólar en Perú comenzó el día con un incremento, con la atención del mercado puesta en las señales de la Reserva Federal (Fed), luego de que funcionarios del banco central estadounidense mantuvieran abierta la posibilidad de nuevos ajustes al alza de las tasas si las presiones inflacion",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-miercoles-23-de-septiembre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
+        "image": "https://gestion.pe/resizer/v2/6UYKPQVRWFGGRPTZHW7QE4N5BI.jpg?auth=39ef9f9437dd6bfbd5251b669ac9907d702acb1f86bb7b38ba5618aadb2303d4&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-23T15:09:26.000Z"
+      },
+      {
+        "title": "Keiko Fujimori se reunió con titular del BID: se abordó apoyo financiero y técnico",
+        "summary": "Keiko Fujimori se reunió con titular del BID: se abordó apoyo financiero y técnico.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/keiko-fujimori-se-reunio-con-titular-del-bid-se-abordo-apoyo-financiero-y-tecnico-noticia/",
+        "image": "https://gestion.pe/resizer/v2/RCGVLMWFEVAKTHFOIUSOF3H54Q.jpg?auth=378ad76c2cfb9fac394f18d53807575cc1b9b3086ec1190d696eb016fea1c4c7&smart=true&width=700&height=395",
+        "publishedAt": "2026-09-23T15:06:34.000Z"
       }
     ],
     "sociedad": [
+      {
+        "title": "Importante cambio beneficia a quienes reciben la Asignación Universal Hijo - La Gaceta",
+        "summary": "Importante cambio beneficia a quienes reciben la Asignación Universal Hijo &nbsp;&nbsp; La Gaceta",
+        "source": "La Gaceta",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVHYtWlZ0WGxweGIxTnR5aTJDbC1Idi0xcHFwR0RpbGdjTkV6Q1lZUnNodU9KSm43X0dLck9KVF9ZVEhmT3EyZ3djSUNzWVFiMmd2U1FUYmtfbXFSMmZWanh3N211c05EMm1fbl9FMEZhOGdnLXVyR2QtRVNpQjB2LUFqODhRYzFETjRqbzdCRU5xZVB5YXJFNVNCdm1IWko0cWtXRXpWY1FDTFh0MFAzeVpuZU1GTWNQa056SXhNUzdoUdIBxwFBVV95cUxPWjBTNWRobWJ6VzVFUXdFcVJ0bmtZa0FuTkE4b01qOGJRQ3diQ0xyYXp5Z1dnOVNLaW9WMVBxR05vWEF2a1dlTXZMYVJBQ0Y4aWV6QnU3NUh0ckxzbmFxdUhaOG1zWFZmdXR0VnRnMHFyNkExU0lxZkszWm1aY1pRYmJiVS1paDJHWXN6eEVjNldMRkVjWk1ONVdmbmNoRk9RUkk5alZoRmFoSWtQM3pIVXd0amhtbjlmeDRiS3NRTUpsWHdFQnpr?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-23T12:02:34.000Z"
+      },
       {
         "title": "Lista de candidatos a la Alcaldía de Carabayllo en las Elecciones municipales 2026: conoce quiénes postulan - Infobae",
         "summary": "Lista de candidatos a la Alcaldía de Carabayllo en las Elecciones municipales 2026: conoce quiénes postulan &nbsp;&nbsp; Infobae",
@@ -202,25 +210,9 @@
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUm9heXNQZzZPY0tMTmxyWEJrSVFZMlFtb2JVOFpfZXpubndad19NYTVyQVpyLVk0Yi1GZ0xCNmtRY0lWbV9VMTE5QUtRZG1zM2FJMzQweTU1a1lsVzl3OURfYldrUVM1aEJXWGI1OTR4OTFkRDQzcEtpaG1rcE42Zl9jT1g3RVdmQkZETk1ZOFBpd0o1MmF2RHVOczJsQ2Q1VHJGMjJrQ2tCVE42OXNz?oc=5",
         "image": "",
         "publishedAt": "2026-07-15T15:44:23.000Z"
-      },
-      {
-        "title": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado - TVPerú",
-        "summary": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado &nbsp;&nbsp; TVPerú",
-        "source": "TVPerú",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbS0xd2cxQXI5T0hEOEVrN3M2eER5Y0VTTW0yQzBRWGZteXVCLTRySkZwT3ZYNUJ5OEg4Q2hPZENLZnhSdjdxaWxRZExVMndoSmtWcnVxU09LelpFbERlXzQ2cWdQTlM2WG9YYWJBdmIyOWdzUkI5MWYxOHBkei1aMWZna0Q2a2Vrems2N0RwQklYWGhaY3NyLUlyOTZUbWQweHpHa3VLZGxjaTNEMEpObVNFM1VvMEVkSzU3cDFNOXVIZEl5WGFha0J1UXRRbHBwa1JYeWxjNXNPLUhx?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-17T02:03:59.000Z"
       }
     ],
     "negocios": [
-      {
-        "title": "MYPE en Perú: PRODUCE explica cómo apoyar a emprendedores desde la idea hasta la exportación - apnoticias.pe",
-        "summary": "MYPE en Perú: PRODUCE explica cómo apoyar a emprendedores desde la idea hasta la exportación &nbsp;&nbsp; apnoticias.pe",
-        "source": "apnoticias.pe",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFB6MjRENFlOZ3hhX1lpeUhJMGdieVd0ZnBtWTZreThaamJuQXdDQVRPU0V3SVdvTExEaGtGS1c2R1NISzZRRk03U2k3Ymk2TVpLb3dwU0JiMElTYXFiekhNTmVkYzcxeWFhWTN6dlpkS2hNaXRsLXRVWFZxM3JXVjdtV2hhN25oV3pwNEpQalY2bWFWUEtGa1ZBVzFVOUtXVDlsYkRBOXdXdFJQX3RobWl1OGNya1poSEUzS293T1daczgxOEN3d2JB?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-22T02:59:30.000Z"
-      },
       {
         "title": "De emprendimiento a empresa: claves para crecer y consolidarse - hbanoticias.pe",
         "summary": "De emprendimiento a empresa: claves para crecer y consolidarse &nbsp;&nbsp; hbanoticias.pe",
@@ -276,21 +268,29 @@
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmtHemFxbzkzZVNVajZWNmstMk9YSDJHejFFbjVDaE5sYWNsT0JRZkxJUjBoa1hmMU5hdTNqclFvbDcxWl9nZUcxRlp4cHdPWGk4SE1oVWlTbW5iNzdwUXNWYWh4WUQzSEY4TmVSbnozMDVmS3BPd1ZUYllacXNOQVpUMFhqR215X1FOSk04Q1p5ZVJseXdrYm5DdkM0SDZpVHc0ZVR1MUNhX1dSRnRPa0dzdkxqS29xdTc5aGw3U2RxRzR0cmNsVGRkS2ota2s0aWFUZjJMc1FvRnlVaUF3Z3Nn?oc=5",
         "image": "",
         "publishedAt": "2026-06-25T07:00:00.000Z"
+      },
+      {
+        "title": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 - Infobae",
+        "summary": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFBQRGNLOWxaMy1mT2RjU0RCNGw4TVNrRmlfX25qei10R09YTWltOXdNX1Fya1g0NEk5S2hhUnQzZmstM3o4bFNJS3QwbkFvUGs3dmx6TktrMDZZSEkzTkJVZ0ZEdmFaa0NUZk9pT1prS1gzNjVDeVMyUzdjWXlNQTNtSThQcnRyRjJ6YlZEWkw1WUF0aTZsQXRTWnJtRnYyX1Z0NDBCYm1PWGlOekJpeGlBS29qLUkzbTBFa1FKMmJnNDNrNDAxeWZn0gHkAUFVX3lxTFB5cjR0aTlsOEl3ZkZEeV9XR05Vb0RHblRDVTRpMFdTZTllMWdRaEpoSlZpSm5JOUZCbzBXc2pic0NMdG9OOGcwQk5fNWF2Wk9FYVp5RnU1WVg4ckU4eTJfT3FEOTN6cURTMjU2d1U5NUJmZ0ZseC1YdllmbEpuZTlnbThqeF9vSlVTb0cxSkZtZFBpTmcwakkzemxzcGJucU9JbFFic2hqNU9jSGVHWkdUTVNuNFFIb0x3S2pTNFBzRXptSF91N0EtSElUMi1kVldUYl9ocmVQLVNSZDY0V25QNV9iRA?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-18T07:00:00.000Z"
       }
     ],
     "ideas": [
       {
-        "title": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional - diariouno.pe",
-        "summary": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; diariouno.pe",
-        "source": "diariouno.pe",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjYxUUxNV1dqcXRBRzRyY1BNcm5UZE5abG00MVNLSWNWd2xkMVVhUkhTQVMyQ3U1dEFKeWdyTG5NX1hRRlJiTXJjRWppU2hmMnFKdXJkZHVKNW5GZWR4V1ZfZ2pBZW56T0d4Yk4zR3FJSHZEU1hYblNoZm1VQXFUYUN4RFpoRTloVF84OEt0VEtNcjBwM3JjemdQTnQtQ1dpa2tDZ0haTjg3OHNrNmtsMXdaaVBwaFpfUWhRbS04UWRFRFo5UDF2UjZGNGd4WFEwYkJLWW5GUzE?oc=5",
+        "title": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional - Chimbote en Línea",
+        "summary": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; Chimbote en Línea",
+        "source": "Chimbote en Línea",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdUlfZ2hfaXNHTGtPY0RiYTFSLU9hOGp6UFpJb1JmLTBoLUlISTFoNlFDN1Vpc2pfVFhfNFpveDV3WVE3Q2lpRmZfdXZZRmVQRkhqYkw2OW9mMXRCWGJacjAzczhkOTVtc083b0djalZpUnNkOFdVdExpb3NkNjdrMDlBNFNkMDZnVEotZzM5eHZlM251TE5VbE9YVWFkSGJxVkhDcHhLaVpjbkdCc205bHRyVjFmMkNuNEhVOGlOVU5PTVZmeU5Dc09uRmxpMUpMbzdvVVNjaE9GdmpVczdfVUZpVDc0c01u?oc=5",
         "image": "",
-        "publishedAt": "2026-09-20T02:36:47.000Z"
+        "publishedAt": "2026-09-21T18:26:00.000Z"
       },
       {
-        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - Forbes Perú",
-        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; Forbes Perú",
-        "source": "Forbes Perú",
+        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - forbes.pe",
+        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; forbes.pe",
+        "source": "forbes.pe",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnR2OFJqcnVKWEVnZF9Fc1FFQ1AxY3lYbTFYQnh2WkJZMEljS2I4UHozWHN5eTNXVXkwSV9WS0U2WDdCenNoMGVLUzRpMEZXcnIzRVpJSWloS295VGJzNVZtT3h6akN0b3EyVDdYVUwtc05SR0Z6WWE0MjZKUnd3TDFnUWx3aEJwbHRYUmgxNHJseERsVE8tdTg0WnJrT1hMMEFER0h6WVp1ekd1V2JWLTNPUQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-25T12:02:15.000Z"
@@ -302,14 +302,6 @@
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPREc4YWJQZ2M1eVgwY1ZpdHhWX3FqZDVpTHZMRy16RFBoeF9OMHdPVDlmVU5MLXEtNjlvUnNlcU1VaDN3ekVqWUtJRmJOTFcxYmRlUWRLNnBzVF9fWnd5TFp1SFR6bVFFRV9IQV9zYl9PT3JhMWp0N3J3SVBfRkVlSG53OUdTb1BrUVNJa2loOER2aWpqM0w5c3liMXJDNVVnMUJaeGhOYUtDdmNIMGZHcnZGVjA1c2RRcXN5VlNJRnVJT256TU1pb9IB3AFBVV95cUxQNnNrcTE2TFhqTWpzYmVPM0lOMUFrY2h4cEhEREVwTjNWMnBNZkV0YUtJMUtpZDViZkkzYlhPNXpuaTdGb3pRYTlTWGlZdUVRb0lPaW9rS0xJNk83SDFzaklVTS1vVXJ1M2xaUGJRemNZQm1KWktTU2xuUzdxQ3hNODg3T2FXWlo1NExkVDdlQ2F2dTZELTRYTUFlbWNHQzB1RlhsVTU1TkpQa3UzN2lMbDRLRUJoRm1pVDJZTFhJanpaeXpNRmdCUm1rUUdJR1phbHB1Vzl4Sy1qbzYw?oc=5",
         "image": "",
         "publishedAt": "2026-08-25T07:00:00.000Z"
-      },
-      {
-        "title": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC - Revista COSAS Perú",
-        "summary": "El Perú tiene ideas, pero le falta el puente hacia la acción: así lo reveló el primer Índice de Innovación Ciudadana de UPC &nbsp;&nbsp; Revista COSAS Perú",
-        "source": "Revista COSAS Perú",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNV0VkdVhtZ2g2YXZjR1hyZHZFMmMySExGRENzOFFLNU5MeF9uT0h3MHdSb0VyRGg3ZVNpeVQ2MnhUczRoMHptZlVmVDd3ODk3QVpvb192d2RQOF9nYjZscEF2TkRDNUMyXzE1SnFSTV96NVAtekI5MS1HQWJGYjV5ZmtFTGpEV3d2eU45OWk4ZXY0ZXJQd28tY3NQSnAyMVpURVk5WGNtZEstRE0zc2V0Y1BsdTM4aG9vOG1lTWFxUTFPem4tUWVWcERTejdMcktVX1EzM3hiLTZSZEtvR2VOalh30gHnAUFVX3lxTFAtN1VPcm1jMWhMWVp4UG9CRmNCZTkxODFteEZ2UmNvUTJXdnRkNXpxX0JyaE1UR3hhQ0pLZGxEcGtUd2xHTzRTTlBRMnVHMnQteHpnODJ6VGdwY2I2aXprS05XMm1lSWRoVWJyVkdfRVViM0JiN0hQQUJ2Um8zaTNpVlM1bDkwbnNPTHJ6dFlQbGltdW85M3V1d0RjMFhFbDBON2tBcE5qeF9MWUplZzQ5VXhmTm9YOUFsbkpUeFlmQXBtdUVNcHhXUXhhRjV0dmJSNXAzX1pTVlhLeVc3bzNiZFBhY3lVbw?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-20T07:00:00.000Z"
       },
       {
         "title": "Innovación en Perú: solo 49 % lleva sus ideas a la práctica pese a su alto potencial, de acuerdo con encuesta - Infobae",
@@ -342,6 +334,14 @@
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6aWxfR3diYXRQbUZqekNmcGgxQVkxUVl6TVlwaWR2QVhhYzlkcnY3bXBVUnVHcUhXZkZObW50MzFmX2VOaUg3MW52UGNlQkE1bFh2LXY2alNyWWdrNThsZ2F0UGY5bUN4VmdMMDBtdWdaX0dIb0ZmMA?oc=5",
         "image": "",
         "publishedAt": "2026-06-25T07:00:00.000Z"
+      },
+      {
+        "title": "Innovadores peruanos podrán participar en competencia internacional de invenciones - Agencia Andina",
+        "summary": "Innovadores peruanos podrán participar en competencia internacional de invenciones &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
+        "image": "",
+        "publishedAt": "2026-05-29T07:00:00.000Z"
       }
     ],
     "ia": [
@@ -436,6 +436,14 @@
         "publishedAt": "2026-08-22T07:00:00.000Z"
       },
       {
+        "title": "Qué significa ‘farmear aura’ si tienes más de 30 debes conocer qué es y por qué lo usa la Generación Z - Infobae",
+        "summary": "Qué significa ‘farmear aura’ si tienes más de 30 debes conocer qué es y por qué lo usa la Generación Z &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOGVnY0xEajd1WjFMWGdqWi1DZmdwRVRtb1R2aHBBLTNORlBJZ0VRb1d5UEdnZGxSdXh6UWZkcThTZTZHb1dwRGtIS3BVT3RFcXRnRkJKOXI4b3NaVGVvN1ZFeS1PWnhoRENyd3V3LXVxWV9jblBfdmpKZElJaHhoY3NkNzlLUlVKd01FenVLaXBZZVFNbUV4czhSTWd3X1MzaTUxLUxjQ1AtZlB6ZTRHQ2dwR1ZQN3RaMk9HVHJjQ2lVc2V2YV9hUkE0ZDlILWl6MjJ4N05Kb0l1Z9IB9AFBVV95cUxNNXRmX2Y0Y2hFbXJjUEFDaHIwRnVwZkw3OUZfcnRod0t6cUE2TW1NRU9Sc3M0ZXhPTDZkVDBfUDMwTjhkazZITTE1dGJaRmVYQ1NuSXN3NzdfcTA0TW55ZVBNWXZzQUIwTHE4VjJQQ1FlR0Z3ZDVxbjFMeFlYR2dLUm1ZaDJyc1BSRlRPMVYwZC1MTXliRlBndHg1anp6cnBQemFzZFNkYk1Wc3NkY0VsOTViN2pSZGEwYjJfWDdLNE1nRzRheHA4eXhCbml5b1VuYk5vMlZrZzk5MUw5alZ0RE9VR2JRZFFER2ZaY0Y4dzlfSXVo?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-18T07:00:00.000Z"
+      },
+      {
         "title": "Qué es farmear aura: de qué trata la nueva tendencia de TikTok entre jóvenes y cómo se gana una batalla - Infobae",
         "summary": "Qué es farmear aura: de qué trata la nueva tendencia de TikTok entre jóvenes y cómo se gana una batalla &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -466,14 +474,6 @@
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYkxYWU1GV09vM243VlB3NWZhbWt5RzF1bE9PdXRhR3BkM2cyb25NTjVMMG1XbnM3aU1rMXBIb3FFV3cwRjRrYkduVm9Gd0hyRFlKWElDSk8ybEtXVUJkRHlXc2FuWkhodTg1Z1ZGbmpUZVZxcTN4M1J6ZlpxZHJFNUtTN2tRQWE3MVR5SkhwLWVCelVKU3FNZVowYjh3YVJYWDFHWm1PbUlJOVNBOTVQT19hQ2tGbXNYWTllU3ZoLVNlNE9aUGwzZzl3LTJHaDN6TWpaNkJsOXBTRVIwMmtfVjUyaGo4X1E1bFBvb3ZkMUZ5QmozSGtYcUx5VdIBlgJBVV95cUxPUElwalRLcFI3MTN6a3dqaV9pWHA2NjFYWVFHZU00NTNTblYzYXo3aDdXaEF1NzM3bmx0MkFCbnFGdmtFd2syOVRwNE1HRVV4dnhsOUtva2E5ZUVvbW1CVDBneGc5a3hZUU9oVjFfVE0xOExvbG5TM0FoeW81Wll1UWtxRTNqdkJiTWoxbm42aG9PWVNjTmlvbmgzaUdmVDA1bkFmUm1RRVVua2VxY0tldUlQTGEzZ3k2Sk10N0JKWUxTTkF6OGQtVlV6RzhmcGlJdlA1OF9JaEFIcFI1U3NoZDZtUnpmbEpBWVZCTUE1bVNDQUxZcm9QVDB2OEhpekVtcGItWjNDekpHY0xKSk1GQXpMRGhYdw?oc=5",
         "image": "",
         "publishedAt": "2026-07-08T07:00:00.000Z"
-      },
-      {
-        "title": "Minsa advierte sobre desafío en redes que expone a adolescentes a graves riesgos de salud - Infobae",
-        "summary": "Minsa advierte sobre desafío en redes que expone a adolescentes a graves riesgos de salud &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ19nT2YyMlR5RFhzZVRjTXpPcjZXYjhHZ25aV1BkeTFuWDVKTHZxUFRyQklUb0JYaGFIMUJEbEdVbTg3Y01OV255QmN3OHlEbWNaS185UXVqUHhydnF1YTlrZTNSQmtmVGNKc2xyb28zTmt4czlsd2Z1OC0wQTZYWmpjT0pUNU0yN21CWnpYamV6eU43TkdQUE1FdjUxUGVRQ0tzbGpDbEk2Y0xrS3Y1bl9hY2UxSnVuMTF2ZV82MTZ2dGVkQ0tPVG1R0gHkAUFVX3lxTE5xaE1KVl9TLXVjQW16VUhTbmotZWRBcUJueDBnQWZLZFhPaC1hSjZNSGVXSnFEQlotekUweWloX0xEc2txcEt5N2RGOUFBYXBFaXBZYTdZaWpkaktoNUd4cDFsV2R3bGdOOGNDVV9qajFLMy1ZTUh3TXU4dlZmVmprRnlvQzhLMlM4RnpTT2FMSzhKdS1PaXdvZE0tQnlIUmIyM3l4akJrYjIwcnMwY25yMXl2TFIwdjg1YXpBNmRnNDBrdU9oZTN5LVU4MGp6dHVVR09fTnh5cmN1eGNsaXBDNUlZXw?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-07T07:00:00.000Z"
       }
     ],
     "farandula": [
@@ -494,9 +494,9 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
-        "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - trome.com",
-        "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; trome.com",
-        "source": "trome.com",
+        "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - Trome.com",
+        "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHpkRUdJMnV3X2tiUURubVRPZW9NY0Z3UlJIS1NIaG1jVkpPWEYwcVlsSXJBdVliMERjdnlBRkR0LUw2WllJam56RXBUb2tVbFlxZDJOV2xEYTJsczg1elZlclFvREdzUWptcmw3VURlYlhST09TdVpWTmo2Znp3dGJWeDhHN2xILU1aOHBXVkZ5MFhFNnM4SzliOE92VTNOWnMtTk1YaWVUMmdHcGN3a2MxRnJaQXlWdmo2aE5iR1UzbU1QWnVibkZJamZabm9KV01SQ1FfM3TSAewBQVVfeXFMTlJtdHBFeG9XM2lzMnFvRnpMWk5XZGFRblJNdlBTeVNRcGpGR1hOS2RydWh3dTlFQ3BDNkZEMmlXTi1nUW1zUFN6djIxRU5BUDV2V3hkZDREMlRVTmZtRy1IT3dEQXdCMmRLYmg2ZndiNHI5dV9RWmM0bDZmdjBITkpBNzBqWEx6cTJWQTBUV1VBcm9mS3U0YzluUlEwb0ZLT2picG0xNlI1YnVEY2xGYVoxMC1CMlV1NHhzRmtTTVVZaERiTUVZZGR4SjJ6YVpDeGJMY3Aybzg4WUZFV1kyVm1OdEUyUktiVE95OHM?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
@@ -526,17 +526,17 @@
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
-        "title": "Domínguez recibe reconocimiento del Congreso junto a Paul Michael, ‘Cachay’ y más artistas: “Contribuyen al desarrollo del país” - trome.com",
-        "summary": "Domínguez recibe reconocimiento del Congreso junto a Paul Michael, ‘Cachay’ y más artistas: “Contribuyen al desarrollo del país” &nbsp;&nbsp; trome.com",
-        "source": "trome.com",
+        "title": "Domínguez recibe reconocimiento del Congreso junto a Paul Michael, ‘Cachay’ y más artistas: “Contribuyen al desarrollo del país” - Trome.com",
+        "summary": "Domínguez recibe reconocimiento del Congreso junto a Paul Michael, ‘Cachay’ y más artistas: “Contribuyen al desarrollo del país” &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxONHE2VHgwbHpNX1RiaWdQUGVFTkc5NDJEcXZQUDFuRHhCcUpCdzR0Y2NHbDNvRURMQlMzSlk5cHRSb3BjclRaMkNEMEF4R0lqLTVxRGQ2SDRBV2x5cklZcTdjTkp2RExYb2VVZWZHb2piLUFBM3lNS0Rqc2R3Mndrdmlvalp2alhMd1ZZYlNrU240YUs4a003el9jSS1sSFNLNzMxNmxaeGV1bWRGQUJpcmVRMkl3MERDbUVfa0VTbTZkVmR1MjdwVnhHQXMxUS1lTDNKNjBCU0V4UksxN1hFUFdWYUdZN2drV0lyNTR2cy1kMXdNZndXV09KeHN0M2NxNG1SQVhjUVRMaWxZemxXTVN30gGmAkFVX3lxTE1BR29NZk9mczFZd284MzBxZWY3S1lvLTRGYzNxU1R6MDVDZEwwdkktb0t0ZkRtMG03SlVKYjNlVmMyMUVTNG8waFc4NnBDUWRwcUI1cl92SmZQQXVnckFaRGdDSEVyLVN0ekl4Y2ppMm9BeUxWVUthQjRhUzhiNkRDMUNuclA1Xzg4MU80V3AzeEFHWVdDUnRjWEpwTEtmQ0k4OUdyX0lHMTV6TGJ5UUNiSW8tZkVqcmRZMmpLOEpfZl8wNnhGdmg0T01ZVVgyVGRKeUhqVXJmWm56NndqNTJ5d09PczhNekQ3cFJWQTBkWUJJUVEyekdlRUJTSk5HdUZaakUxR2VXaFE1YXg4NXVnTjFFZFdxanl6UXUxUFByUjlXSVVNQQ?oc=5",
         "image": "",
         "publishedAt": "2026-07-24T07:00:00.000Z"
       },
       {
-        "title": "¡Se acabó! Sheyla Rojas confirma su ruptura con Sir Winston tras larga permanencia en Perú: “Terminamos” - trome.com",
-        "summary": "¡Se acabó! Sheyla Rojas confirma su ruptura con Sir Winston tras larga permanencia en Perú: “Terminamos” &nbsp;&nbsp; trome.com",
-        "source": "trome.com",
+        "title": "¡Se acabó! Sheyla Rojas confirma su ruptura con Sir Winston tras larga permanencia en Perú: “Terminamos” - Trome.com",
+        "summary": "¡Se acabó! Sheyla Rojas confirma su ruptura con Sir Winston tras larga permanencia en Perú: “Terminamos” &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSEstT2tDMnBuZDRXd01zVlZhV3JNTWh5blV3eXdVaGVDUmt4YmpFWElEVHVwQjJjcnF3LWJYMnVqenBhX3dsUzczU2xwUl83U1hxZXVsd1c1Rm5pMktCVW5vRkU4RUladzN4NXBrc2ZydjQtdW1EUm0yT2hvdE8tcHRmLUFYUEdqUHdnZGZ4WUZCV1JWMF9jb0xRdWpNX2ZiMGVYbWdxeUR3cEx6RkE1ZU0wX1BYUW9HUGp5Y0stSTFBa3dsZThjMU5TbDBLcWVlMTdmSWRTdktJZUluRFRJZEUyRGFtTDlsd1HSAf4BQVVfeXFMTVhpUFprMVd5Yi10UTBEU2FFckY4MlNTNHRCa0g1NERLSFBWMG5USlpYSUowZ2J3UERTRE5hZmNrWWJLQWRjeGhEaEJ1ZlZ4TkhaT18yY2NWSmx4M2JJUklhTXU0QVFPOF91a2lVaEhIbXJFaG9LQmFWS1U0VGtWWi0yTFdBNlFBVEZVakw3NzFiNlhaLW9MNjBYOUhRdFRVeWpnS0pESDB4YUliU2dndzVieVlKVVB6SU56LUxGaXN0TWtaQmNwMXQ0SjAtYThKdzJVanNiczY5RmkxRVdHUDA2QzctRWtPSVJMdDZXTk13ZVRwVks3d2FnZlZxSWc?oc=5",
         "image": "",
         "publishedAt": "2026-07-12T07:00:00.000Z"
