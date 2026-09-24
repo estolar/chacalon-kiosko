@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T19:07:10.932Z",
+  "generatedAt": "2026-09-24T22:21:28.696Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,28 +24,12 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Mensajes, llamadas y acusaciones: Los entretelones de la confrontación entre Samuel Daza y Rafael López Aliaga",
-        "summary": "La confrontación entre los candidatos a la Alcaldía de Lima Samuel Daza (Fuerza Popular) y Rafael López Aliaga (Renovación Popular) no terminó el martes pasado, cuando concluyó el debate organizado por el Jurado Nacional de Elecciones (JNE). Al día siguiente, el miércoles 23, Daza llevó el enfrentamiento a otra instanc",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/elecciones/mensajes-llamadas-y-acusaciones-los-entretelones-de-la-confrontacion-entre-samuel-daza-y-rafael-lopez-aliaga-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/OJWZV75Y3RGJBOOSXJ5YBNDAS4.jpg?auth=17946937cbd6f73c199fb25372cc62c7132c9d4db77d84cd2698f6a25d15a0de&smart=true&width=1061&height=638",
-        "publishedAt": "2026-09-24T18:46:00.000Z"
-      },
-      {
-        "title": "Miguel Torres asegura que presidencia de Comisión de Constitución incumple la ley y reglamento al frenar las facultades",
-        "summary": "La demora en el trámite del pedido de facultades solicitado por el Ejecutivo para legislar durante 120 días en ocho materias tiene un responsable: la Presidencia de la Comisión de Constitución, que dirige Giannina Avendaño, de Juntos por el Perú.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/miguel-torres-asegura-que-presidencia-de-constitucion-incumple-la-ley-y-reglamento-al-frenar-las-facultades-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/FWBA6CKKFRGMLOWMY5G65IX2HY.jpg?auth=1700b2a8f98c914765125b94f2dd4d2bb7b31ee85d1f1200f52b3e5e0a615e50&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-09-24T18:33:00.000Z"
-      },
-      {
         "title": "Elecciones Regionales y Municipales 2026:candidaturas de los movimientos regionales caen 83% desde el 2022 y partidos políticos dominan el tablero",
         "summary": "En el 2024, la amenaza en el Congreso de eliminar este tipo de agrupación desató una migración de candidatos hacia los partidos políticos de alcance nacional. Los movimientos desaparecieron por completo en 11 departamentos.",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/ecdata/el-exodo-de-los-movimientos-regionales-candidaturas-caen-83-desde-el-2022-y-partidos-politicos-dominan-el-tablero-elecciones-regionales-y-municipales-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/GCNMYV3TUNAT7ITF24PUM247Q4.jpg?auth=96899ab28be219c51788cfb81bd060e1fa1c35fa4997f5f765d4c389060813f4&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-09-24T18:10:46.000Z"
+        "publishedAt": "2026-09-24T22:10:52.000Z"
       },
       {
         "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
@@ -53,89 +37,65 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/ecdata/en-16-anos-fuerza-popular-solo-ha-ganado-3-gobiernos-regionales-y-no-ha-colocado-un-solo-alcalde-en-lima-metropolitana-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/3ZQHU5EOGNH33LU7J6EN3J4QSE.jpeg?auth=05b2ba86279d4f5e8c5af8ea35780dce6caca06e15b2546119eb9e3be8b10463&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-09-24T18:03:15.000Z"
+        "publishedAt": "2026-09-24T22:04:52.000Z"
       },
       {
-        "title": "Renovación Popular plantea texto sustitutorio para delimitar facultades legislativas al Ejecutivo",
-        "summary": "Los diputados de Renovación Popular, Roxana Rocha y Frank Krklec, presentaron un texto sustitutorio a la fórmula legal de la Proposición Legislativa N.° 00098-2026-2031-CD, mediante la cual el Poder Ejecutivo solicitó facultades para legislar por 120 días.",
+        "title": "PerúCheck: Es falso que el Banco Central de Reserva sea responsable de la estabilidad laboral",
+        "summary": "PerúCheck: Es falso que el Banco Central de Reserva sea responsable de la estabilidad laboral",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/renovacion-popular-plantea-texto-sustitutorio-para-delimitar-facultades-legislativas-al-ejecutivo-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/BISDZQU2EVFT3DIMSWA7MQZIEM.jpg?auth=fd1386ce0a2f83c31c1255bccc531dc6acb490ec5cb9ffd280e7db5d128de645&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-24T17:59:56.000Z"
+        "url": "https://elcomercio.pe/politica/perucheck-es-falso-que-el-banco-central-de-reserva-sea-responsable-de-la-estabilidad-laboral-diputada-de-juntos-por-el-peru-svieta-fernandez-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/US2X3KIKMRDL5ONSRCLAWJPWQE.jpg?auth=7e420badb79a2b02470b3fac93ab448f8d1ab643fcc14802b7e442efc0a381f0&smart=true&width=1256&height=671",
+        "publishedAt": "2026-09-24T22:00:07.000Z"
       },
       {
-        "title": "Luis Galarreta: “Censurar a un ministro que ha sido interpelado y está trabajando ¿para quién trabajamos?”",
-        "summary": "El presidente del Consejo de Ministros, Luis Galarreta, cuestionó la moción de censura promovida contra el ministro del Interior, César Astudillo, y pidió a las bancadas del Parlamento considerar la continuidad de los ministros para el desarrollo de sus funciones.",
+        "title": "Mensajes, llamadas y acusaciones: Los entretelones de la confrontación entre Samuel Daza y Rafael López Aliaga",
+        "summary": "La confrontación entre los candidatos a la Alcaldía de Lima Samuel Daza (Fuerza Popular) y Rafael López Aliaga (Renovación Popular) no terminó el martes pasado, cuando concluyó el debate organizado por el Jurado Nacional de Elecciones (JNE). Al día siguiente, el miércoles 23, Daza llevó el enfrentamiento a otra instanc",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/luis-galarreta-sobre-mocion-de-censura-contra-cesar-astudillo-censurar-a-un-ministro-que-ha-sido-interpelado-y-esta-trabajando-para-quien-trabajamos-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/77MX7TXC6NGGVGSYHSCOZNY6RM.jpg?auth=d264b9c29a64c8db5e1ed7e56824d2ca3ea27e68dbc3fc00817b77dcaf6ed73e&smart=true&width=1200&height=849",
-        "publishedAt": "2026-09-24T17:41:19.000Z"
+        "url": "https://elcomercio.pe/politica/elecciones/mensajes-llamadas-y-acusaciones-los-entretelones-de-la-confrontacion-entre-samuel-daza-y-rafael-lopez-aliaga-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/OJWZV75Y3RGJBOOSXJ5YBNDAS4.jpg?auth=17946937cbd6f73c199fb25372cc62c7132c9d4db77d84cd2698f6a25d15a0de&smart=true&width=1061&height=638",
+        "publishedAt": "2026-09-24T21:45:00.000Z"
       },
       {
-        "title": "Luis Galarreta: “No voy a calificar (al Congreso) pero otras veces se han dado el 100% de las facultades y en tres días”",
-        "summary": "El presidente del Consejo de Ministros, Luis Galarreta, volvió a referirse al pedido de delegación de facultades legislativas presentado por el Ejecutivo y cuestionó, sin calificar directamente la actuación del Parlamento, el tiempo que viene tomando el procedimiento.",
+        "title": "Elecciones en La Libertad: Minero informal y proveedor integra lista de exalcalde de Pataz",
+        "summary": "Aldo Carlos Mariños, exalcalde provincial de Pataz y activo defensor de las marchas de los mineros informales, ahora es candidato para el Gobierno Regional de la Libertad. En su lista ha colocado como número uno de consejeros a Adler Quiroz Cenizario, una persona cercana cuando este era alta autoridad en el nuevo epice",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/luis-galarreta-no-voy-a-calificar-al-congreso-pero-otras-veces-se-han-dado-el-100-de-las-facultades-y-en-tres-dias-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/BBEWLZ765JDDPMCAJAKAAMVAHQ.jpg?auth=4dd1a02c5c8d2e10203c70de4b273595c5bb7c68fcc13896481106a782eeabb1&smart=true&width=1200&height=783",
-        "publishedAt": "2026-09-24T16:56:35.000Z"
+        "url": "https://elcomercio.pe/politica/actualidad/minero-informal-y-proveedor-integra-lista-de-exalcalde-de-pataz-aldo-carlos-marinos-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/J3G4EFJUPRBIZNEYCB4ZJ3V7AU.jpeg?auth=adbd54337a9ea652c37f787ba802107dc1256c3ddcd5f568fbc637c323de0f6e&smart=true&width=874&height=657",
+        "publishedAt": "2026-09-24T21:14:00.000Z"
+      },
+      {
+        "title": "La seguridad como prioridad y la eliminación de la ATU: los puntos que marcaron el debate entre Bruce, Allison y Urresti",
+        "summary": "A solo 11 días de las elecciones regionales y municipales, El Comercio y América Multimedia reunió este miércoles a los candidatos a la alcaldía de Lima Carlos Bruce (Somos Perú), Francis Allison (Avanza País) y Daniel Urresti (Podemos Perú) para que expongan sus principales propuestas para frenar a la delincuencia y d",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/elecciones/la-seguridad-como-prioridad-y-la-eliminacion-de-la-atu-los-puntos-que-marcaron-el-debate-entre-bruce-allison-y-urresti-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/B4CDMY27XNHRJHTROIQND4A44U.jpg?auth=c05f9b2451a9a7deec5ba6af9e959a51c91bd47cc4a3c58f8afd975a8ac67750&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-09-24T19:45:14.000Z"
+      },
+      {
+        "title": "Marco Vinelli sobre el Fenómeno El Niño: “Nosotros estamos actuando desde el día uno sin el pedido de facultades”",
+        "summary": "En foro organizado por El Comercio y América Multimedia, el ministro expresó su confianza en Diputados aprobará las facultades solicitadas, en especial las que tienen que ver con la emergencia",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/marco-vinelli-sobre-el-fenomeno-el-nino-nosotros-estamos-actuando-desde-el-dia-uno-sin-el-pedido-de-facultades-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/MPVIBN2RSBDUNCNUN7TDQJ6NDM.jpg?auth=5a05f56980ca759d8f296e8d3ebac43ca6cafd324c86cbe7256e2652b1c9d6a1&smart=true&width=1203&height=621",
+        "publishedAt": "2026-09-24T19:45:05.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Bonos y petróleo golpean a Wall Street ante temores de nuevas alzas de la Fed",
-        "summary": "",
+        "title": "Tipo de cambio registró fuerte alza: ¿en cuánto cerró el dólar este jueves?",
+        "summary": "El jueves 24 de septiembre, el dólar en Perú comenzó el día con un incremento, en medio de expectativas de una política monetaria más restrictiva de la Reserva Federal de Estados Unidos.",
         "source": "Gestión",
-        "url": "https://gestion.pe/mundo/internacional/bonos-y-petroleo-golpean-a-wall-street-ante-temores-de-nuevas-alzas-de-la-fed-noticia/",
-        "image": "https://gestion.pe/resizer/v2/6LTS2AIE3ZHIJJWLA5ZZIYSMLE.jpg?auth=fb10847d7c6d73be405f8ee0968bffbc2cc9dc152d66a86f67b0f956b2f612bb&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-24T18:59:28.000Z"
+        "url": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-jueves-24-de-septiembre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
+        "image": "https://gestion.pe/resizer/v2/AV37Y4TE6ZACDNBGRHJJ3FDPMQ.jpg?auth=702509fead28df357c9dfb92152866f05bc896feb26dfba2d43264ab285a775c&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-24T22:03:57.000Z"
       },
       {
-        "title": "Mass, Dollarcity, Tambo y más: cómo cambia el mapa de compras de los peruanos",
-        "summary": "Mass, Dollarcity, Tambo, OXXO y otros formatos de cercanía ya no compiten necesariamente por la misma compra. El consumidor peruano está incorporando cada vez más establecimientos a su recorrido y, dentro de cada uno, encuentra propuestas diferentes en precio, surtido, marcas y ocasiones de consumo. En el segundo trime",
+        "title": "Solo 1 de 10 turistas peruanos compra paquetes: así cambia el negocio de las agencias",
+        "summary": "Agencias de viajes en Perú enfrentan cambios ante un turista que arma sus vacaciones por separado y busca nuevas experiencias.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/mass-dollarcity-tambo-oxxo-3d-vega-el-nuevo-mapa-de-compras-de-los-peruanos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/BVQO6HRNZJCJVOJ3EGINNQOE3I.jpg?auth=40293e707ac579d72af7cd544a92ab4b7d6939573c57f59ded874e61bde79d42&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-24T18:38:00.000Z"
-      },
-      {
-        "title": "Finlandesa Normet acelera en Perú: prepara nuevas tecnologías para minería subterránea",
-        "summary": "Normet inició actividades en Perú en junio de 2009 y, tras más de 17 años en el mercado local, la compañía finlandesa espera que 2027 marque un punto de inflexión para su operación en el país. La fabricante de equipos y soluciones para minería subterránea proyecta crecer al menos 30% frente a este año, impulsada por un",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/gigante-finlandesa-normet-apunta-a-crecer-al-menos-30-en-peru-en-2027-que-viene-noticia/",
-        "image": "https://gestion.pe/resizer/v2/A532IEI2HZHXHOJZBKSLSJU3GQ.jpeg?auth=66f5328d5b1fdcee1a52a513fa3db944074acb9a454cae7f2bbd3348a3a869d7&smart=true&width=1600&height=900",
-        "publishedAt": "2026-09-24T18:35:00.000Z"
-      },
-      {
-        "title": "Estadounidense ClearPower con luz verde para proyecto hidroeléctrico de más de US$ 35 millones",
-        "summary": "ClearPower Global, empresa estadounidense que desarrolla sistemas hidroeléctricos sobre infraestructura de agua existente, fue seleccionada por el Proyecto Especial Olmos-Tinajones (PEOT) para desarrollar un proyecto de generación hidroeléctrica en el Sistema Hidráulico Mayor Tinajones, en Lambayeque. La iniciativa con",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/estadounidense-clearpower-con-luz-verde-del-proyecto-especial-olmos-tinajones-peot-para-proyecto-hidroelectrico-de-mas-de-us-35-millones-noticia/",
-        "image": "https://gestion.pe/resizer/v2/N5TPISLWMFFJZLEE5F5DKXSIAA.jpg?auth=d1b91644df0b66f145dc747873cd7059d0c4f6bd7c4ad6de1535004f4b51b619&smart=true&width=1800&height=1144",
-        "publishedAt": "2026-09-24T18:18:42.000Z"
-      },
-      {
-        "title": "Violencia escolar: 1,700 denuncias al mes, pero presupuesto para prevención en “caída libre”",
-        "summary": "Gestión identificó caídas año tras año en el presupuesto dentro del Minedu para la prevención del acoso escolar y violencia sexual. Para el 2027, el monto no supera ni los S/ 61,000 en conjunto. Este es el panorama que grafica su prioridad en el Estado.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/violencia-escolar-en-peru-casi-20000-denuncias-al-ano-mientras-presupuesto-para-prevencion-cae-noticia/",
-        "image": "https://gestion.pe/resizer/v2/VHYNILPX2BAXTGILZVFSVUZQ54.jpeg?auth=847e7119d544f24d56fd7b87ff4bf12b9d33216ab45cf1766ee5739860146bb7&smart=true&width=895&height=593",
-        "publishedAt": "2026-09-24T17:49:20.000Z"
-      },
-      {
-        "title": "Mercados e indicadores – Hoy jueves 24 de setiembre",
-        "summary": "Para tomar las decisiones más acertadas de inversión, manténgase diariamente bien informado sobre el desempeño de las acciones de la plaza bursátil, de la variación de las principales variables del mercado financiero, así como de la evolución de los precios de los commodities. La cotización en el mercado de Londres el ",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/mercados/mercados-e-indicadores-jueves-24-de-setiembre-2026-noticia/",
-        "image": "https://gestion.pe/resizer/v2/CKBJCXWQXVCTXHZN5ZAGTM66RE.jpg?auth=c935a9816683dbd514d89311dedaf60293df727aefbd90da56a9830e4813f2eb&smart=true&width=1280&height=720",
-        "publishedAt": "2026-09-24T17:05:21.000Z"
-      },
-      {
-        "title": "Progreso social no llega a regiones del Perú: salvo una, todas están en niveles bajos",
-        "summary": "En los últimos años Perú no dejó de crecer, pero ese avance económico no ha llegado todavía a todas las regiones. Eso remarca la última edición del Índice de Progreso Social Regional 2026 (IPSRP) que Centrum PUCP compartió en exclusiva con Gestión.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/progreso-social-no-llega-a-regiones-del-peru-salvo-una-todas-estan-en-niveles-bajos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/HT6LMOSXEVHK3BVEZG7CCPW2QY.png?auth=dc631d03e90695545adf50e73f89d4254d5d516877854edd9f8a6a44b57d2c50&smart=true&width=1672&height=941",
-        "publishedAt": "2026-09-24T16:28:13.000Z"
+        "url": "https://gestion.pe/economia/turismo-solo-1-de-cada-10-viajeros-peruanos-compra-paquetes-como-cambia-el-negocio-de-las-agencias-noticia/",
+        "image": "https://gestion.pe/resizer/v2/ZATG7VUEQNFHZBBWTKYV5HE444.png?auth=9b9e2ca4000a6c52688f072b06bc24ce25b9d6ef9ad8d2b4aea0448009c204d0&smart=true&width=1448&height=1086",
+        "publishedAt": "2026-09-24T21:05:06.000Z"
       },
       {
         "title": "Paradoja de América Latina: con recursos, pero con puntos débiles para convencer al capital",
@@ -143,7 +103,47 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/paradoja-de-america-latina-con-recursos-pero-con-puntos-debiles-para-convencer-al-capital-el-analisis-en-evento-de-mckinsey-noticia/",
         "image": "https://gestion.pe/resizer/v2/DIPYD463PFDVNEPN3EVEA5PPVQ.webp?auth=0e438e0288dafb59c7361b913ef117cc6c348c5b61c2de46f478f3b105eac442&smart=true&width=1800&height=1200",
-        "publishedAt": "2026-09-24T16:15:00.000Z"
+        "publishedAt": "2026-09-24T21:01:27.000Z"
+      },
+      {
+        "title": "Aramco evalúa construir nuevas rutas de exportación de petróleo",
+        "summary": "La estatal saudí Aramco, la empresa petrolera más grande del mundo, evalúa construir nuevas rutas de exportación de crudo y aumentar el almacenamiento fuera de Arabia Saudí para hacer frente a las interrupciones en el suministro energético global en medio de la guerra entre Estados Unidos e Irán.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/aramco-evalua-construir-nuevas-rutas-de-exportacion-de-petroleo-noticia/",
+        "image": "https://gestion.pe/resizer/v2/IFJRNUDHJRGOLABTNMBINOAN6E.jpg?auth=b4f8f5f3cc468145580f4cf7d71649b522de95b7f2c831d8f52dd4996b4236d3&smart=true&width=1200&height=851",
+        "publishedAt": "2026-09-24T20:46:00.000Z"
+      },
+      {
+        "title": "El Niño afectará más a Bolsa de Lima entre noviembre y enero: ¿qué acciones sufrirán más?",
+        "summary": "Entrevista.- Daniel Guzmán, de Credicorp Capital SAB, sostiene que los factores más importantes a monitorear son el Fenómeno El Niño, que es muy relevante en Perú; y la inflación, que tiene que ver con el precio del petróleo y las tasas de la Fed.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/mercados/el-nino-afectara-mas-a-bolsa-de-lima-entre-noviembre-y-enero-que-acciones-sufriran-mas-noticia/",
+        "image": "https://gestion.pe/resizer/v2/TQFIH55JPVHK5EAMFQVI3BBZRQ.jpg?auth=29ffceaeb5c79a0a82d79f262930abaa7ee9058c57f7451e783e19c1714ce3e5&smart=true&width=1280&height=720",
+        "publishedAt": "2026-09-24T20:39:48.000Z"
+      },
+      {
+        "title": "Progreso social no llega a regiones del Perú: salvo una, todas están en niveles bajos",
+        "summary": "En los últimos años Perú no dejó de crecer, pero ese avance económico no ha llegado todavía a todas las regiones. Eso remarca la última edición del Índice de Progreso Social Regional 2026 (IPSRP) que Centrum PUCP compartió en exclusiva con Gestión.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/progreso-social-no-llega-a-regiones-del-peru-salvo-una-todas-estan-en-niveles-bajos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/HT6LMOSXEVHK3BVEZG7CCPW2QY.png?auth=dc631d03e90695545adf50e73f89d4254d5d516877854edd9f8a6a44b57d2c50&smart=true&width=1672&height=941",
+        "publishedAt": "2026-09-24T20:30:00.000Z"
+      },
+      {
+        "title": "Violencia escolar: 1,700 denuncias al mes, pero presupuesto para prevención en “caída libre”",
+        "summary": "Gestión identificó caídas año tras año en el presupuesto dentro del Minedu para la prevención del acoso escolar y violencia sexual. Para el 2027, el monto no supera ni los S/ 61,000 en conjunto. Este es el panorama que grafica su prioridad en el Estado.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/violencia-escolar-en-peru-casi-20000-denuncias-al-ano-mientras-presupuesto-para-prevencion-cae-noticia/",
+        "image": "https://gestion.pe/resizer/v2/VHYNILPX2BAXTGILZVFSVUZQ54.jpeg?auth=847e7119d544f24d56fd7b87ff4bf12b9d33216ab45cf1766ee5739860146bb7&smart=true&width=895&height=593",
+        "publishedAt": "2026-09-24T19:49:00.000Z"
+      },
+      {
+        "title": "Municipalidad de Lima pierde nuevo arbitraje contra Rutas de Lima: el caso que se revisó",
+        "summary": "Tribunal arbitral resolvió cinco reclamos de Rutas de Lima contra la MML. Conozca cuáles ganó, cuáles fueron rechazados y qué indemnización queda pendiente.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/municipalidad-de-lima-pierde-nuevo-arbitraje-contra-rutas-de-lima-el-caso-que-se-reviso-noticia/",
+        "image": "https://gestion.pe/resizer/v2/3Q72XQCSZBB5HBRQJ7APNSSCCQ.jpg?auth=8e9efb6f1f35951256d0d4889987b3b257ea7b9f6f9619568a278a23ab8be543&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-24T19:15:13.000Z"
       }
     ],
     "sociedad": [
@@ -370,6 +370,14 @@
         "publishedAt": "2026-09-19T12:37:00.000Z"
       },
       {
+        "title": "Servicios en Perú alistan cambio por la IA: reclamos, pagos y trámites podrán resolverse en segundos - Infobae",
+        "summary": "Servicios en Perú alistan cambio por la IA: reclamos, pagos y trámites podrán resolverse en segundos &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcXNMNU91ZVRjV0EtakxXbUR2MnVoUjFDdGpXTDlydElxQXowSEZDNTRWNUZUUW9GZGdNMEVTVHZ1Z3I0SXUtVUtvLXBiVWFxLUFkMDV0Rl9DXzN0WTJvdlBySGdlNXdFS28wTzQ2eVRkdkhQaFI1Rk9vMVFOdGFQdHQ2aFBNcC1FY3lOOGxHWWF0NGplWC1KaF9ITHBJTDJESHVLYkZqZ3lZWmlxYWxsMU40bk1BaG1FRTFiTk4zWEV6d0ZYOUoyS1JONV9TS2hwc1c5Qnd30gHwAUFVX3lxTE9kdXhKY05MMFJfVzB3UC1FY3hmTTNSa3U3UVJTMEh6SDRYWHU4ekJJdFJHWnd0RE5wN0Z5cmxmd0MwUkN2aGhzZVRkd0ozQkRIYkt1TnVsMTNveUFMaF9zbUlFaFZ6UmlhbUdQd2plTlQ5QXV1LUxIbzJxamxXSWVqTVJQbjB0cDl1WWxEN0Q2R01fUTFSd2FNWXVzeTg4aUNZOEc5OHlNTTVSb3J4LTlKcDJMQnE1WE9lNnluQzZ5NU5RN0UyU0l6cUZtZVU2RzFVdHBrMUZqWWFOS204Q3NKUTBIN3RZbXl5alZCUG9VNA?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-19T02:18:00.000Z"
+      },
+      {
         "title": "La razón por la que Perú no debería copiar el freno tecnológico que discuten las grandes potencias de la inteligencia artificial - Infobae",
         "summary": "La razón por la que Perú no debería copiar el freno tecnológico que discuten las grandes potencias de la inteligencia artificial &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -400,14 +408,6 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUG42UWI5NzRXRUVGRXhWanlwYUlPTDBVUV9kLTZqT1A3Y2tsRFJpcFByMUZ1aVJOS25iY3FMSzRwVnptejZHak1EdW9veE52ZzZSalhDUU9qMF9ZRk9NX0VONklqc3I3V0x4UnNjaGNBR3lSbFp3NEM5eGdKX0NyZGxSRl9QS3JBRnhXYnludGFzMnYxelg4M2U2QVhtQUJ6bmFINUNZTGpWeS1LUHBpaF8xSXZCdDItTDVRQtIB1wFBVV95cUxPM3cxcDFPWDZacVg0SFlsUGM2Z0p1VnB0eWpxc3gtOUVvTUc1UEpMVzU5SG45X255V1FLa3RRQ1JSUHBjcG1OX042TmpYc0FoSzdYdDRQNFdJcDFUZGdZYkc0amd5ZmlMRU1vdXVKQy1tNENXdUdJMWNFVE9UaGF3ZDhxaFNjS3NiZjN0UjZ4NVpuM2steGRvTUxtajUxNEUxQXVjSk05emdTUnVEYnd5bHpKVlhOX3VuRi1Pc285eDZNUENDa2RndkhiYlhhV0toY1cwSU85bw?oc=5",
         "image": "",
         "publishedAt": "2026-09-16T23:37:00.000Z"
-      },
-      {
-        "title": "Perú: regulación de IA debe impulsar innovación sin frenar el desarrollo del ecosistema digital - El Peruano",
-        "summary": "Perú: regulación de IA debe impulsar innovación sin frenar el desarrollo del ecosistema digital &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdElnWGdmUlNGbHJFd1NxLWJuVy1KX2xJSXZ1djBBMWhTVlUwS3pXZ283M1pMcHZRU1IxYlM1ODA4Ung3RG5HQl90QUhMUzZEWmwyWl9nYkZpbmxIOHE5X0JFZG16Q2VPYzBCVElMNUlCMWV4TW9LWTZTNHl2UEx6SjlDLU5XT3hBb2tPNXh6S2p6VXVnaDNSSkd3S3pvc1NWODJaMWFXR0Z2SjkzeFVJLUc4SFNwUV9JcEw0SEN1aWhpX3dUOWVzWENWTnVUTWM?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-15T18:56:00.000Z"
       }
     ],
     "tendencias": [
@@ -417,7 +417,7 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZkl0eXcxNEwyUDZrN1hILXpPcXg5NGtQOEw0OEl1bUVRdGY2Y1ZSQjNIbzY0Unk5czQ0MHRoUk9qRHhKQkJsVjVKMGVWLWx3b0wxYTMwM1ZNQ1NGSDA4dWcxTndOOTRuRW9qcU5WbndpaGpiellyQXlDNndLWU4yUkt0Y1NzX1dyNFYtM2xKRTBoTHQ2WHZzWDFBaXRwZzVKdEtIWW9sTVBTLVRWUEpJWGx1c0hUYWtyOWkxdFNkLXA2Tngya0RsUTNWV3I2Nm40LWpRTmF3TTdUX2pHNUg5NDBuUmlxOFVsNFhtUklFSXlLUFJpblMyY1drZ2bSAZcCQVVfeXFMT1o5dDZIVkxkRW9fa05iczBSeUxGUG9OaFlGaVp4ZmNNbkFpUWotS0ZScVdJNkpieG55VllmcUlscFExVHhYVHdfSjlHZm50SGJuNUp1NmFoOHRkeDR6dDdfOTVISXlodGt1MUcyaXRzNUNhc3o2cU1RVjc3amExb2kwZWl1Z3piMW1UYVNORzNZMFVwRmZneThyYW9WNktDX29SR0hGZUYzMm9JeDNWX0dGYjZCVlBKTWNBdnptSGFtZTI4Y0cxeWU4UGI4RGc3WVl5UXFKaXdyeVk3OWpZX0ZGOXZheU40NGg1b09LUksxRW1INjdLb3VtUmNZbUh2RFdQRU5mV2lCNEtEbzZJSGQ1emc1Z21v?oc=5",
         "image": "",
-        "publishedAt": "2026-09-24T16:20:24.000Z"
+        "publishedAt": "2026-09-24T17:09:00.000Z"
       },
       {
         "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - El Comercio Perú",
@@ -460,9 +460,9 @@
         "publishedAt": "2026-08-15T07:00:00.000Z"
       },
       {
-        "title": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña - TV Azteca",
-        "summary": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña &nbsp;&nbsp; TV Azteca",
-        "source": "TV Azteca",
+        "title": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña - tvazteca.com",
+        "summary": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña &nbsp;&nbsp; tvazteca.com",
+        "source": "tvazteca.com",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUtQOXdxcVJBQ3VUS2QwTjRrWFYxMmRqSFk4dDVBZXNoTWZrNGwyTUtpUXdHTVl2UWlGNEx1YWRycWdjdWFZbDFJWFU1TGo4bGRVZWt3bkNvSnpXaWVSaGFhbkpYWkFFcFJacEJVT2R2U0hDR1huVjBua2U4aWhzdVoySUxIZ3FId0pfREhoajB4M1pPaXhfaTl1U3ZESEJZZXFn0gGwAUFVX3lxTE5vUUtIUGJEWFlSTlpGNktFT1lSOWJLSWJ3cEg5ZWEyR1VCVTJnal9hSDNWVVBkeDJmR1FYaWlNSHFjQkVPQjlDMUJtQVNXVFlUWi12ZmM4NWo1MFVfWE9RRDd5dlJzWXg4UFkxV2d0eGxMakZrMThuM2JhTGs4dVZ6Y2JPQ21pRGNtaV81TmlZY2pRT1p2WWlmSm9HcXEwUEpuV1pnODd0NWRGNW5xR2Nn?oc=5",
         "image": "",
         "publishedAt": "2026-08-15T07:00:00.000Z"
@@ -502,14 +502,6 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
-        "title": "Falleció Víctor Angobaldo en trágico accidente vehicular en Cañete - Infobae",
-        "summary": "Falleció Víctor Angobaldo en trágico accidente vehicular en Cañete &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeW1uYzV2dTFwMHdMRjlOZ3RRTjhPRU1KWFJvSDdfUTlrNk40bERPdlBaX3NJNkFvZmtDX2tNZlNJdW40cndwcFBtSUM1NTFfUnZ2M2d0SmgtMHlXYnhQQ0V4aC1CdVRKZWJUQkhXUnc4S3doMlNqVVJUbXVQb0dVY3hORUNVZnVEMHhSY2txazNEV0E5cWtTcHZSd0LSAbcBQVVfeXFMTi1KeC1KN0hzYm1PN0dPZDVOQmpQQV9xNWhFXzdzcTliSVg3RVUycUNDT19lbEo4Nm93RkJaNnF3akpQN2c5Zmx1YzZMUmh0WXZ2MHlkV2ZQNVI0QTkwNzhZWXlKVzRXaG1aOF9GM3dQaUtDRFNzdmo5ZmppaDBCNGNMbElNREdreXN6VG1HNXBINTRxWTB1M1diTDNUU0RELXo1TFdDMWVXNWswY25iblNTa2xVeW5R?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-05T07:00:00.000Z"
-      },
-      {
         "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
         "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
         "source": "Diario Correo",
@@ -518,26 +510,34 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
-        "title": "Mark Vito impacta con su nuevo ‘empleo’ tras ser ‘expulsado’ del Perú y asegura que es fácil ganar dinero: ¿a qué se dedica? - trome.com",
-        "summary": "Mark Vito impacta con su nuevo ‘empleo’ tras ser ‘expulsado’ del Perú y asegura que es fácil ganar dinero: ¿a qué se dedica? &nbsp;&nbsp; trome.com",
-        "source": "trome.com",
+        "title": "Falleció Víctor Angobaldo en trágico accidente vehicular en Cañete - Infobae",
+        "summary": "Falleció Víctor Angobaldo en trágico accidente vehicular en Cañete &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeW1uYzV2dTFwMHdMRjlOZ3RRTjhPRU1KWFJvSDdfUTlrNk40bERPdlBaX3NJNkFvZmtDX2tNZlNJdW40cndwcFBtSUM1NTFfUnZ2M2d0SmgtMHlXYnhQQ0V4aC1CdVRKZWJUQkhXUnc4S3doMlNqVVJUbXVQb0dVY3hORUNVZnVEMHhSY2txazNEV0E5cWtTcHZSd0LSAbcBQVVfeXFMTi1KeC1KN0hzYm1PN0dPZDVOQmpQQV9xNWhFXzdzcTliSVg3RVUycUNDT19lbEo4Nm93RkJaNnF3akpQN2c5Zmx1YzZMUmh0WXZ2MHlkV2ZQNVI0QTkwNzhZWXlKVzRXaG1aOF9GM3dQaUtDRFNzdmo5ZmppaDBCNGNMbElNREdreXN6VG1HNXBINTRxWTB1M1diTDNUU0RELXo1TFdDMWVXNWswY25iblNTa2xVeW5R?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-05T07:00:00.000Z"
+      },
+      {
+        "title": "Mark Vito impacta con su nuevo ‘empleo’ tras ser ‘expulsado’ del Perú y asegura que es fácil ganar dinero: ¿a qué se dedica? - Trome.com",
+        "summary": "Mark Vito impacta con su nuevo ‘empleo’ tras ser ‘expulsado’ del Perú y asegura que es fácil ganar dinero: ¿a qué se dedica? &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNek1IMmE2Wm9hak5Ob1QyU1dwdDUxVy1aaHVlSlpuMWNDUGJjNVZ2Wno0SGRYTFZuMmxsdWtHaE5yclF6Skh6QjhhXzhULTZxemgzWThVMHppaTlDekhVVWE5VEZyVTNNLXpfWXhfcS1xYVlvemhkdGN0MUs2QkM2c3d3QVFzX0dVUTFQSUZRQWpxVExlR1ZZMnUySDM0b1Y2eXMtS24zc1VVY0FpOUh1b2lTY1pySnBjNEZ4S1djcFNSUFJUTl9uZmpSaWlNUVZL?oc=5",
         "image": "",
         "publishedAt": "2026-08-04T07:00:00.000Z"
-      },
-      {
-        "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - trome.com",
-        "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; trome.com",
-        "source": "trome.com",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHpkRUdJMnV3X2tiUURubVRPZW9NY0Z3UlJIS1NIaG1jVkpPWEYwcVlsSXJBdVliMERjdnlBRkR0LUw2WllJam56RXBUb2tVbFlxZDJOV2xEYTJsczg1elZlclFvREdzUWptcmw3VURlYlhST09TdVpWTmo2Znp3dGJWeDhHN2xILU1aOHBXVkZ5MFhFNnM4SzliOE92VTNOWnMtTk1YaWVUMmdHcGN3a2MxRnJaQXlWdmo2aE5iR1UzbU1QWnVibkZJamZabm9KV01SQ1FfM3TSAewBQVVfeXFMTlJtdHBFeG9XM2lzMnFvRnpMWk5XZGFRblJNdlBTeVNRcGpGR1hOS2RydWh3dTlFQ3BDNkZEMmlXTi1nUW1zUFN6djIxRU5BUDV2V3hkZDREMlRVTmZtRy1IT3dEQXdCMmRLYmg2ZndiNHI5dV9RWmM0bDZmdjBITkpBNzBqWEx6cTJWQTBUV1VBcm9mS3U0YzluUlEwb0ZLT2picG0xNlI1YnVEY2xGYVoxMC1CMlV1NHhzRmtTTVVZaERiTUVZZGR4SjJ6YVpDeGJMY3Aybzg4WUZFV1kyVm1OdEUyUktiVE95OHM?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
         "title": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión - Infobae",
         "summary": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFpHYlBfWE5DYjhNXzVvdjhzWEJUU3NRYUxCei13QUhSajlnTWtaNmxCUmRZeFJsU0FQZ2Uxa0hkMHNCanNqd1pPUDlveFZGUXlvU0MyblFibDBMY1pZVHZZczdZNlFpZ0dVU2hwUlJrQjdOY3FMZHloNXY2cXhCVVR4YjVLR1B5NEFhOGJlY2NKZnF2dWpfMWNUYTdGd2U1MWt1RWNpVUw1NXdWWE1SN0dSMm9ldWNqZUM2Z1930gHYAUFVX3lxTE9YYW5mSTRNYXNfWFBBZi0tX1h0S3A1b09TY09zaVFmcWdLTllzMHhtTzRQOHNwaEFOT1ZycS1fNklDamM2Tm4zbGZ0Uk5DTldIMDAxUlhGZVNmV2RvZXdVRERiTGFxV0Jhclc1bERDd3ItWU9yY1dpQjE2d0NnTVZzVDhBTjV4ellKTW5HOUxBWUtOLVNnVGs3Wi1ibF9iNVNMWFlzajFjSzhUSjRKdXBZQUdlbTh0QklnMUxNNFFlVXpTYi1jZXE2Z2dFcklfX2U3Y0VnTUM4Vg?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-30T07:00:00.000Z"
+      },
+      {
+        "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - Trome.com",
+        "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHpkRUdJMnV3X2tiUURubVRPZW9NY0Z3UlJIS1NIaG1jVkpPWEYwcVlsSXJBdVliMERjdnlBRkR0LUw2WllJam56RXBUb2tVbFlxZDJOV2xEYTJsczg1elZlclFvREdzUWptcmw3VURlYlhST09TdVpWTmo2Znp3dGJWeDhHN2xILU1aOHBXVkZ5MFhFNnM4SzliOE92VTNOWnMtTk1YaWVUMmdHcGN3a2MxRnJaQXlWdmo2aE5iR1UzbU1QWnVibkZJamZabm9KV01SQ1FfM3TSAewBQVVfeXFMTlJtdHBFeG9XM2lzMnFvRnpMWk5XZGFRblJNdlBTeVNRcGpGR1hOS2RydWh3dTlFQ3BDNkZEMmlXTi1nUW1zUFN6djIxRU5BUDV2V3hkZDREMlRVTmZtRy1IT3dEQXdCMmRLYmg2ZndiNHI5dV9RWmM0bDZmdjBITkpBNzBqWEx6cTJWQTBUV1VBcm9mS3U0YzluUlEwb0ZLT2picG0xNlI1YnVEY2xGYVoxMC1CMlV1NHhzRmtTTVVZaERiTUVZZGR4SjJ6YVpDeGJMY3Aybzg4WUZFV1kyVm1OdEUyUktiVE95OHM?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       }
