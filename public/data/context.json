@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T23:39:43.819Z",
+  "generatedAt": "2026-09-24T04:44:48.666Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,20 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Samuel Daza denuncia a Rafael López Aliaga ante Tribunal de Honor del Pacto Ético Electoral por presunta “intimidación y coacción política”",
+        "title": "Keiko Fujimori participó en Encuentro de jefes de Estado y de Gobierno ‘Compromiso Regional de Santiago contra la delincuencia transnacional’",
+        "summary": "La presidenta Keiko Fujimori, participó en el Encuentro de jefes de Estado y de Gobierno sobre el “Compromiso Regional de Santiago contra la delincuencia organizada transnacional”, realizado en la sede de las Naciones Unidas en Nueva York.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/internacional/keiko-fujimori-participo-en-encuentro-de-jefes-de-estado-y-de-gobierno-compromiso-regional-de-santiago-contra-la-delincuencia-transnacional-apuesplan-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/OHJSE524KBHM3AKRTHZJ4JBMKI.jpg?auth=812ea4808c1237c045042008c97a76ad0c80a473a89deb5c7d9ee2253040351f&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-23T23:57:43.000Z"
+      },
+      {
+        "title": "Samuel Daza denuncia a López Aliaga ante el Tribunal de Honor del Pacto Ético Electoral por presunta “intimidación y coacción política”",
         "summary": "El enfrentamiento entre Samuel Daza, candidato de Fuerza Popular a la Alcaldía de Lima, y Rafael López Aliaga, aspirante a primer regidor por Renovación Popular, sumó un nuevo capítulo luego de que el primero presentara una denuncia ante el Tribunal de Honor del Pacto Ético Electoral.",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/elecciones/samuel-daza-denuncia-a-rafael-lopez-aliaga-ante-el-pacto-etico-electoral-por-presunta-intimidacion-y-coaccion-politica-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/YKGOIFGFDRDTRO6EKF3ZDCFAVY.jpg?auth=b47ad0fd1833c1e9c1ca0d1402204fc7629e67fc748a3f51f4ef7e3a577600d5&smart=true&width=1280&height=853",
-        "publishedAt": "2026-09-23T23:30:02.000Z"
+        "publishedAt": "2026-09-23T23:54:51.000Z"
       },
       {
         "title": "La seguridad como prioridad y la eliminación de la ATU: los puntos que marcaron el debate entre Bruce, Allison y Urresti",
@@ -70,56 +78,24 @@
         "url": "https://elcomercio.pe/politica/elecciones/debate-por-lima-que-propusieron-los-candidatos-y-cuales-fueron-sus-principales-cruces-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/GFRRNA7SUREKFM6WBG7YWMWLPA.jpg?auth=6f2cb07c111325c205becce1db81781a00783a3bc7073bb3123c745e1007ea1c&smart=true&width=1280&height=854",
         "publishedAt": "2026-09-23T21:44:00.000Z"
-      },
-      {
-        "title": "Bajo análisis las pullas y propuestas en la segunda jornada del debate por la Alcaldía de Lima",
-        "summary": "¿Cómo evalúan dos analistas el desempeño de los candidatos. Los participantes plantearon propuestas en seguridad, transporte, infraestructura, gestión municipal, entre otros temas.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-bajo-analisis-las-puyas-y-propuestas-de-la-segunda-jornada-del-debate-por-la-alcaldia-de-lima-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/5YKRQXWT3JGK5DOTN2Z4JWRGI4.jpeg?auth=23d10ba922f4077589a0fdc7e79a3cf8158d8b833b60a53cd5b14f0234dbd4b9&smart=true&width=1200&height=627",
-        "publishedAt": "2026-09-23T21:43:00.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Hay 1,700 puntos críticos por El Niño, pero el Gobierno no intervendrá en todos: el plan",
-        "summary": "Marco Vinelli, titular del Midagri: hay 1,700 puntos críticos por El Niño pero el Gobierno no intervendrá en todos, ¿qué harán? El ministro sostuvo que las lluvias continuarán durante las próximas semanas, aunque la magnitud final del evento dependerá de la evolución de las condiciones climáticas.",
+        "title": "Ejecutivo anuncia relanzamiento de programa Sierra Verde con inversión de US$ 300 millones",
+        "summary": "La presidenta Keiko Fujimori anunció en Nueva York el relanzamiento del programa Sierra Verde, que prevé invertir US$ 300 millones en cinco años para reforestar 50 mil hectáreas de los andes peruanos.",
         "source": "Gestión",
-        "url": "https://gestion.pe/peru/midagri-hay-1700-puntos-criticos-por-el-nino-pero-no-intervendra-en-todos-que-hara-el-gobierno-noticia/",
-        "image": "https://gestion.pe/resizer/v2/MPVIBN2RSBDUNCNUN7TDQJ6NDM.jpg?auth=5a05f56980ca759d8f296e8d3ebac43ca6cafd324c86cbe7256e2652b1c9d6a1&smart=true&width=1203&height=621",
-        "publishedAt": "2026-09-23T23:34:38.000Z"
+        "url": "https://gestion.pe/economia/ejecutivo-anuncia-relanzamiento-de-programa-sierra-verde-con-inversion-de-us-300-millones-noticia/",
+        "image": "https://gestion.pe/resizer/v2/EF26IINPWBCY3BF7AAJW2RRG5M.jpg?auth=86ecebeafd131eff8db691d17da5f233421f1d30c6b13717ae276dc394598a5e&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-24T04:01:00.000Z"
       },
       {
-        "title": "Zulema Tomas anuncia medidas para reorganizar EsSalud: ¿Cuáles son?",
-        "summary": "La presidenta ejecutiva de EsSalud, Zulema Tomas Gonzáles, anunció esta mañana una serie de medidas orientadas a recuperar la capacidad de atención de la institución, mejorar sus servicios y colocar al asegurado en el centro prioritario de la gestión",
+        "title": "Violencia escolar: 1,700 denuncias al mes, pero presupuesto para prevención en “caída libre”",
+        "summary": "Gestión identificó caídas año tras año en el presupuesto dentro del Minedu para la prevención del acoso escolar y violencia sexual. Para el 2027, el monto no supera ni los S/ 61,000 en conjunto. Este es el panorama que grafica su prioridad en el Estado.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/zulema-tomas-anuncia-medidas-para-reorganizar-essalud-cuales-son-noticia/",
-        "image": "https://gestion.pe/resizer/v2/3ZB23AY4F5F5BMWN6MPK5D5SII.jpg?auth=6d8bc71dbc68e47252e127c878e2c9d27bce99fe8e8622a3e836a861da04f398&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-23T23:30:00.000Z"
-      },
-      {
-        "title": "Rendimiento de Treasury a cinco años supera 5% por primera vez en casi 20 años",
-        "summary": "El rendimiento de los bonos del Tesoro estadounidense a cinco años superó el 5% por primera vez en casi dos décadas, después de que sólidos datos económicos de Estados Unidos llevaran a los inversionistas a prepararse para una serie de alzas de tasas de interés de la Reserva Federal.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/mundo/internacional/rendimiento-de-treasury-a-cinco-anos-supera-5-por-primera-vez-en-casi-20-anos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/TEA62NOYGZEPHOMCJXKC67B3BI.jpg?auth=a1400ffa6209b7809b43bcb2cca6cebfa1f12b8ff818e1a0aba8333c95019292&smart=true&width=1200&height=791",
-        "publishedAt": "2026-09-23T23:15:00.000Z"
-      },
-      {
-        "title": "WhatsApp cobrará por mensaje a empresas: ¿impactará en sus ventas y atención al cliente?",
-        "summary": "Una medida que podría cambiar el rubro empresarial. WhatsApp comenzará a cobrar a algunas empresas por los mensajes de atención al cliente enviados mediante WhatsApp Business Platform, el sistema que usan compañías con chatbots, CRM, agentes de inteligencia artificial o grandes centros de atención.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/whatsapp-cobrara-por-mensaje-a-empresas-como-impactara-en-sus-ventas-y-atencion-al-cliente-noticia/",
-        "image": "https://gestion.pe/resizer/v2/ZJLW5IQKJVCYNNKTF47SRYWDDI.webp?auth=f9dce85c12c9cd4ae3baaed924a3fb3639e92e55daa85529aaf04f4f3d153872&smart=true&width=1800&height=1175",
-        "publishedAt": "2026-09-23T22:54:00.000Z"
-      },
-      {
-        "title": "Puerto del Callao y PortMiami ahora son “puertos hermanos”, ¿de qué se trata?",
-        "summary": "“Para nosotros Callao es muy importante. Para Estados Unidos, Callao es el motor económico del Perú, quiere ser parte de ese crecimiento en todos los pasos”, dijo el embajador Bernie Navarro.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/puerto-del-callao-y-portmiami-ahora-son-puertos-hermanos-de-que-se-trata-noticia/",
-        "image": "https://gestion.pe/resizer/v2/2DDJYJFYGRE6XKD6QYOF3KIBCU.jpg?auth=784b1575b03516a8ec57f88f1fe943ce1d0c6c3961b0ed0fa51002d4891ac79a&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-09-23T22:05:25.000Z"
+        "url": "https://gestion.pe/economia/violencia-escolar-en-peru-casi-20000-denuncias-al-ano-mientras-presupuesto-para-prevencion-cae-noticia/",
+        "image": "https://gestion.pe/resizer/v2/A3JXMC3V5ND53DLXWQ57H6YZVA.jpeg?auth=ece5ad8df8e58957aa38e6ee41d0f1315b5e626e40282d54fd5e2618d9f9c590&smart=true&width=598&height=393",
+        "publishedAt": "2026-09-24T03:30:00.000Z"
       },
       {
         "title": "FlixBus inicia con dos buses y negocia nuevas rutas en Perú: ¿hasta dónde busca crecer?",
@@ -127,7 +103,7 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/flixbus-aterriza-en-peru-con-dos-buses-que-sigue-para-la-marca-de-los-pasajes-dinamicos-noticia/",
         "image": "https://gestion.pe/resizer/v2/6ZYHHBRNKNEOBBOGNEDLN3NWB4.jpeg?auth=0a85df458997dc068b5ca0bf35120c01b410a76c5beb4995b2e07e1ba1724c9f&smart=true&width=1080&height=720",
-        "publishedAt": "2026-09-23T22:04:48.000Z"
+        "publishedAt": "2026-09-24T03:04:00.000Z"
       },
       {
         "title": "Gastos entre empresa matriz y sucursal bajo la lupa: se marcan límites para la deducción",
@@ -135,15 +111,39 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/sunat-y-tribunal-fiscal-gastos-entre-empresa-matriz-y-sucursal-bajo-la-lupa-se-marcan-limites-para-la-deduccion-noticia/",
         "image": "https://gestion.pe/resizer/v2/GZLK2LEZKBHUFBX2R5MCP2GTYA.png?auth=c3c91f0b8223e258396322e90d989435d1f51a337ae052440a2f9afdbc71e5ab&smart=true&width=1400&height=800",
-        "publishedAt": "2026-09-23T21:42:54.000Z"
+        "publishedAt": "2026-09-24T01:45:00.000Z"
       },
       {
-        "title": "FlixBus inicia servicio interprovincial con la conducción de firma peruana",
-        "summary": "FlixBus, plataforma tecnológica alemana para la venta de pasajes, anunció el inicio de su servicio de transporte interprovincial en el país, de la mano con Pominpro, empresa del Grupo Polo. La primera ruta, que conectará Lima y Trujillo, con una parada en Chimbote, empezará a funcionar este viernes 25 de septiembre y s",
+        "title": "Zulema Tomas anuncia medidas para reorganizar EsSalud: ¿Cuáles son?",
+        "summary": "La presidenta ejecutiva de EsSalud, Zulema Tomas Gonzáles, anunció esta mañana una serie de medidas orientadas a recuperar la capacidad de atención de la institución, mejorar sus servicios y colocar al asegurado en el centro prioritario de la gestión",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/flixbus-inicia-servicio-interprovincial-de-la-mano-con-firma-peruana-detalles-de-la-operacion-noticia/",
-        "image": "https://gestion.pe/resizer/v2/T4URQELVTJD4ZFTFH6XAFOEO24.jpg?auth=6c904f305fe65686f7eff7d5fa946445c0274989123211206d05083dbf58148d&smart=true&width=2160&height=1440",
-        "publishedAt": "2026-09-23T21:41:32.000Z"
+        "url": "https://gestion.pe/economia/zulema-tomas-anuncia-medidas-para-reorganizar-essalud-cuales-son-noticia/",
+        "image": "https://gestion.pe/resizer/v2/3ZB23AY4F5F5BMWN6MPK5D5SII.jpg?auth=6d8bc71dbc68e47252e127c878e2c9d27bce99fe8e8622a3e836a861da04f398&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-24T01:43:25.000Z"
+      },
+      {
+        "title": "Proveedores del Estado cobrarán por adelantado con órdenes de compra, ¿quiénes se beneficiarán?",
+        "summary": "El Estado constituye uno de los principales compradores del país, señalan especialistas, lo que vuelve más relevante el reglamento aprobado recientemente por el Poder Ejecutivo.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/proveedores-del-estado-cobraran-por-adelantado-con-ordenes-de-compra-quienes-se-beneficiaran-noticia/",
+        "image": "https://gestion.pe/resizer/v2/WXGIYPHMYNAS5CRGRX2IE4KUOE.jpg?auth=0c0258031bcd0aa05f13dac19019c97c97bd3820024b9347d894644b896f9659&smart=true&width=900&height=550",
+        "publishedAt": "2026-09-24T01:08:26.000Z"
+      },
+      {
+        "title": "Petrotal adelanta reinicio de perforación de pozos de producción de petróleo en Loreto",
+        "summary": "El mayor productor de petróleo en Perú, Petrotal, reanudó la perforación de pozos de desarrollo en el campo Bretaña del Lote 95 (Loreto) el pasado 21 de setiembre, adelantándose así una semana al calendario inicial, que proyectaba reiniciar los trabajos en el mes de octubre.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/la-mayor-petrolera-de-peru-adelanta-reinicio-de-perforacion-de-pozos-de-produccion-en-loreto-noticia/",
+        "image": "https://gestion.pe/resizer/v2/JT6LBLSPSRD5BFHOJ6GBUIBWCU.png?auth=cf3415d518d34fdee530f95a60f7a8f82f4911dcf2267d5a0eba628fde9b5e4e&smart=true&width=1200&height=680",
+        "publishedAt": "2026-09-24T01:00:00.000Z"
+      },
+      {
+        "title": "Finlandesa Normet ve a Perú como clave en Latinoamérica y apunta a crecer 30% en 2027",
+        "summary": "Normet inició actividades en Perú en junio de 2009 y, tras más de 17 años en el mercado local, la compañía finlandesa espera que 2027 marque un punto de inflexión para su operación en el país. La fabricante de equipos y soluciones para minería subterránea proyecta crecer al menos 30% frente a este año, impulsada por un",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/gigante-finlandesa-normet-apunta-a-crecer-al-menos-30-en-peru-en-2027-que-viene-noticia/",
+        "image": "https://gestion.pe/resizer/v2/KN4FQIWWH5AWFMIX4C23VQOKHU.jpeg?auth=371f5c1134f5792bccbb07fc928b2d0fbd1536329f9cdfa0a4461de4080e0c2f&smart=true&width=1600&height=900",
+        "publishedAt": "2026-09-24T00:45:00.000Z"
       }
     ],
     "sociedad": [
@@ -180,14 +180,6 @@
         "publishedAt": "2026-09-03T07:00:00.000Z"
       },
       {
-        "title": "Juntos por el Perú busca presidir comisiones de Justicia y Educación en la Cámara de Diputados - La República",
-        "summary": "Juntos por el Perú busca presidir comisiones de Justicia y Educación en la Cámara de Diputados &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNjdKYW5ZN3ZHbGpJbjFkLTZ1cG5vWVRUNGgtMFduMFpKQmt5ekZHbUNsTzNtRVJHd3ZRZVoyZ1VYZW00elI1VmpMX3luQkcxaG1BZ3E1LXV6RmUtUEtQU1g1bFk1cjdaR29nelY1b0l6d1IwcE9TbVJwU0hBMl95T045al9iaHBMNE0wWkx2dzdyUm84d201U0FXbE90ajFMMTJjanpjSUFYSnp1VnlycW1jalJKWGhfaHJNYWtJNU9uRjVldndJQ3plc3Rnbkt3LXRrT19CTmJTeHgwNDNhWHpIMNIB6AFBVV95cUxOaXIzVGJBMUh4SDRxcURUYW9vMzJSTEhyT3kzX2J2UE9uV0RaM1p5V3NXWGFkS1JGRlBXUVJpanlablhUX1ZEYTlpOF81RVhXY1pUbmU4RXU4dThDalU4VVdqSzhMMUJJc0Rib0ZfS0NqenZaMmJiaVlqVThTS3VvbTViaERHazF5NWNYeFBXUi1Qc3FLcFpKb2tnOFZNcnJtZldWWXp3amtLRF83Q1lIMGt0eVdidWpCaHBzb0lQcVV4R1lqWlI2U3RUYmxmWENtRUd6NDNmNEU3NDd3VXlGaHJUMVVEM3I4?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-04T07:00:00.000Z"
-      },
-      {
         "title": "Keiko Fujimori, mensaje a la Nación: fecha, lugar y ejes que marcarán su primer discurso como presidenta 2026-2031 - Infobae",
         "summary": "Keiko Fujimori, mensaje a la Nación: fecha, lugar y ejes que marcarán su primer discurso como presidenta 2026-2031 &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -210,6 +202,14 @@
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUm9heXNQZzZPY0tMTmxyWEJrSVFZMlFtb2JVOFpfZXpubndad19NYTVyQVpyLVk0Yi1GZ0xCNmtRY0lWbV9VMTE5QUtRZG1zM2FJMzQweTU1a1lsVzl3OURfYldrUVM1aEJXWGI1OTR4OTFkRDQzcEtpaG1rcE42Zl9jT1g3RVdmQkZETk1ZOFBpd0o1MmF2RHVOczJsQ2Q1VHJGMjJrQ2tCVE42OXNz?oc=5",
         "image": "",
         "publishedAt": "2026-07-15T15:44:23.000Z"
+      },
+      {
+        "title": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado - TVPerú",
+        "summary": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado &nbsp;&nbsp; TVPerú",
+        "source": "TVPerú",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbS0xd2cxQXI5T0hEOEVrN3M2eER5Y0VTTW0yQzBRWGZteXVCLTRySkZwT3ZYNUJ5OEg4Q2hPZENLZnhSdjdxaWxRZExVMndoSmtWcnVxU09LelpFbERlXzQ2cWdQTlM2WG9YYWJBdmIyOWdzUkI5MWYxOHBkei1aMWZna0Q2a2Vrems2N0RwQklYWGhaY3NyLUlyOTZUbWQweHpHa3VLZGxjaTNEMEpObVNFM1VvMEVkSzU3cDFNOXVIZEl5WGFha0J1UXRRbHBwa1JYeWxjNXNPLUhx?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-17T02:03:59.000Z"
       }
     ],
     "negocios": [
@@ -280,9 +280,9 @@
     ],
     "ideas": [
       {
-        "title": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional - chimbotenlinea.com",
-        "summary": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; chimbotenlinea.com",
-        "source": "chimbotenlinea.com",
+        "title": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional - Chimbote en Línea",
+        "summary": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; Chimbote en Línea",
+        "source": "Chimbote en Línea",
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdUlfZ2hfaXNHTGtPY0RiYTFSLU9hOGp6UFpJb1JmLTBoLUlISTFoNlFDN1Vpc2pfVFhfNFpveDV3WVE3Q2lpRmZfdXZZRmVQRkhqYkw2OW9mMXRCWGJacjAzczhkOTVtc083b0djalZpUnNkOFdVdExpb3NkNjdrMDlBNFNkMDZnVEotZzM5eHZlM251TE5VbE9YVWFkSGJxVkhDcHhLaVpjbkdCc205bHRyVjFmMkNuNEhVOGlOVU5PTVZmeU5Dc09uRmxpMUpMbzdvVVNjaE9GdmpVczdfVUZpVDc0c01u?oc=5",
         "image": "",
         "publishedAt": "2026-09-21T18:26:00.000Z"
@@ -336,12 +336,12 @@
         "publishedAt": "2026-06-25T07:00:00.000Z"
       },
       {
-        "title": "Innovadores peruanos podrán participar en competencia internacional de invenciones - andina.pe",
-        "summary": "Innovadores peruanos podrán participar en competencia internacional de invenciones &nbsp;&nbsp; andina.pe",
-        "source": "andina.pe",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
+        "title": "Estudiantes ayacuchanos transformaron el cuy en gomitas: la apuesta que busca ofrecer una alternativa rica en hierro - Infobae",
+        "summary": "Estudiantes ayacuchanos transformaron el cuy en gomitas: la apuesta que busca ofrecer una alternativa rica en hierro &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbEhKWkVPQl9UdVJLZU84ck9vZG5KUTljSXlEU185RTdhSG45aWRkR1FqWWMzcEYxdUpyNWVlWGhoVVpXaWx6Ri1RazAwWVNzcGZKNGlmSW1tUjA1ekpHVXRKelY2bEpFUG5PVWptaDRQd3RCNHF1czlMQlNZMVIxYnVxb0VMVDlIbGlRYXlnSlZKd2J6eUZLNDRwVnM1dk9zYWdPRmk3M2I0b05rUTJSeUl1X3YxSmtGX2lyS2JzczVudGdGWEl1ckd0NWNWM1Y2bHp1LUVFN3BEc3hiRDJYM2QwemZsRC12d19BddIBhwJBVV95cUxNOWY3N1p1a1Y2dTNlMFpSM1ZOa3hhN3ZPd09jZnYzOHB5SGg1NjdGOW9Oc0l2aUpuM2RiSkxRT3NaQUZNS1V1WnhDNnUzdDBfX3BUMDRaZUpBUW9FVG4xRW1kSUh3b3BXWGZDbXNCaHd2UUNyUzJ2SkpndjE3ekJtYXBnZXMzSEpUc0VHY0xFZDFxQkdsdVZOLUdWTGJmWXVHZDR5dk9pZGhlZXNuZDZTdXFhbEpGejM1RnVSZjl2V3lnWVJZX0JfbGo1ZzFhRndXWi0xM2xkWFdMS09qQTc3MlNyTVI2WGgzTmxzbEl3MnMzdkU1STRDcUZQUnRDYzhOdEF4d0N5WQ?oc=5",
         "image": "",
-        "publishedAt": "2026-05-29T07:00:00.000Z"
+        "publishedAt": "2026-06-10T07:00:00.000Z"
       }
     ],
     "ia": [
@@ -362,28 +362,28 @@
         "publishedAt": "2026-09-22T21:08:53.000Z"
       },
       {
-        "title": "UNI: IAlertt desarrolla solución con IA para fortalecer la seguridad ciudadana en Perú - Revista ProActivo",
-        "summary": "UNI: IAlertt desarrolla solución con IA para fortalecer la seguridad ciudadana en Perú &nbsp;&nbsp; Revista ProActivo",
-        "source": "Revista ProActivo",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcVRQLXhyMUNjRWx6MTFJOXp4TlRWQ2ZsZzMwZFk0alkzOVJwZlBCUWlsaVlaZEw4VlpkNERmaUVYbTMtOGZZeWJldDliWVktRUhKdHJqMkN5TEdRTHl0c3UwSmRock04MUUtb0p3UktZMzJDV284UkYxdjdmNlhKaUl5cFEtUVZNaUFXQWE4TGRGUmppb2RNZGlOdi1KUEZFQklIQXJuNkpJS0ZnVjNzWg?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-22T16:08:50.000Z"
-      },
-      {
-        "title": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades - gestion.pe",
-        "summary": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades &nbsp;&nbsp; gestion.pe",
-        "source": "gestion.pe",
+        "title": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades - Gestión",
+        "summary": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTjR3bnR3MGZ1UEJkTk1hLXdWSEY4aXFhNGE5YkxWT2VoS0dIWkdnRV85dTdjbEhWQmRfd2ZGY3daOGhBdTFRaEV5UmtlWEl0LWczSF83NmtPZXFQREN4T1ltdmQ2UUhtWWRKa21xY3NNMHJNSWZsckllWWU4RUpWaWtNMUZJYk9xNjlyWHE1Z0F4LVVIYjVwY1IyNVNRcFhOdC12eHc3b0VaR0xvTURWRlFvZkczWC1XejBKamFpbEhMWVVOT0VHS1NYNTlZRnlaSWl0ZHZ4R2R6WmR2RjA0bkV5VlZYWDZSSUFKZEdlTW0tUC1jZGZ3Snp6TQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-21T16:27:25.000Z"
       },
       {
-        "title": "Empresas peruanas y la IA: Lo que debes saber sobre el próximo plazo regulatorio - gestion.pe",
-        "summary": "Empresas peruanas y la IA: Lo que debes saber sobre el próximo plazo regulatorio &nbsp;&nbsp; gestion.pe",
-        "source": "gestion.pe",
+        "title": "Empresas peruanas y la IA: Lo que debes saber sobre el próximo plazo regulatorio - Gestión",
+        "summary": "Empresas peruanas y la IA: Lo que debes saber sobre el próximo plazo regulatorio &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbWJDZUdnY3VWZWxFNlc4V1ZDYVVrR1hWaUhHWEFmZlk4Ym10dDlTa0g3UTRWRENGUnA5SU1GaDR2amROZ3p0SmtlTWZrRndXeDNnMGZIRFphTDBIQTB3R2JZLURoT0FONXF4aDJCSU5udHNHT2lQbkZfbXE0SlBHTkVFN2NrQlFUcjlmSGhXRGkzODFZbTJpbTVidVBGOFQzT1BRY1U4VVdMUmQwY1o2RG5qdjltOWlUQ3F5NDVRRUMtYTljZS1TdVB3?oc=5",
         "image": "",
         "publishedAt": "2026-09-19T12:37:00.000Z"
+      },
+      {
+        "title": "Servicios en Perú alistan cambio por la IA: reclamos, pagos y trámites podrán resolverse en segundos - Infobae",
+        "summary": "Servicios en Perú alistan cambio por la IA: reclamos, pagos y trámites podrán resolverse en segundos &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcXNMNU91ZVRjV0EtakxXbUR2MnVoUjFDdGpXTDlydElxQXowSEZDNTRWNUZUUW9GZGdNMEVTVHZ1Z3I0SXUtVUtvLXBiVWFxLUFkMDV0Rl9DXzN0WTJvdlBySGdlNXdFS28wTzQ2eVRkdkhQaFI1Rk9vMVFOdGFQdHQ2aFBNcC1FY3lOOGxHWWF0NGplWC1KaF9ITHBJTDJESHVLYkZqZ3lZWmlxYWxsMU40bk1BaG1FRTFiTk4zWEV6d0ZYOUoyS1JONV9TS2hwc1c5Qnd30gHwAUFVX3lxTE9kdXhKY05MMFJfVzB3UC1FY3hmTTNSa3U3UVJTMEh6SDRYWHU4ekJJdFJHWnd0RE5wN0Z5cmxmd0MwUkN2aGhzZVRkd0ozQkRIYkt1TnVsMTNveUFMaF9zbUlFaFZ6UmlhbUdQd2plTlQ5QXV1LUxIbzJxamxXSWVqTVJQbjB0cDl1WWxEN0Q2R01fUTFSd2FNWXVzeTg4aUNZOEc5OHlNTTVSb3J4LTlKcDJMQnE1WE9lNnluQzZ5NU5RN0UyU0l6cUZtZVU2RzFVdHBrMUZqWWFOS204Q3NKUTBIN3RZbXl5alZCUG9VNA?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-19T02:18:00.000Z"
       },
       {
         "title": "La razón por la que Perú no debería copiar el freno tecnológico que discuten las grandes potencias de la inteligencia artificial - Infobae",
@@ -486,12 +486,28 @@
         "publishedAt": "2026-09-03T07:00:00.000Z"
       },
       {
+        "title": "Fallece Víctor Angobaldo, recordado personaje de la farándula peruana, en accidente de tránsito en Cañete - Exitosa Noticias",
+        "summary": "Fallece Víctor Angobaldo, recordado personaje de la farándula peruana, en accidente de tránsito en Cañete &nbsp;&nbsp; Exitosa Noticias",
+        "source": "Exitosa Noticias",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObVpKUTdsaGNfWXpoU1pfOXpNQzVUUkt4QzFpa1FWLUhBZ1dfYWdwUFlkN2hNNEpyRUxvei03SEVJN3lzak1ZWTZGYWplcUZOaW1JRWpVb0NzZ09tM0QxNkdQWlFadmVQd3R0S003dERaWUNVa3NkYXNHd1N1cEpGT2tycVN2Ym5oOVVpbjQwcHFJYmxmcEotVTFUcnFJdG5IcWFMN0VIdVZsX011VnBMRTVXcC1JRUZJWHBZd2w2N3lVZjAyOFhwbC1zdy1yX25hVDlhMTJPTQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-05T07:00:00.000Z"
+      },
+      {
         "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
         "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
         "source": "Diario Correo",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
+      },
+      {
+        "title": "Mark Vito impacta con su nuevo ‘empleo’ tras ser ‘expulsado’ del Perú y asegura que es fácil ganar dinero: ¿a qué se dedica? - Trome.com",
+        "summary": "Mark Vito impacta con su nuevo ‘empleo’ tras ser ‘expulsado’ del Perú y asegura que es fácil ganar dinero: ¿a qué se dedica? &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNek1IMmE2Wm9hak5Ob1QyU1dwdDUxVy1aaHVlSlpuMWNDUGJjNVZ2Wno0SGRYTFZuMmxsdWtHaE5yclF6Skh6QjhhXzhULTZxemgzWThVMHppaTlDekhVVWE5VEZyVTNNLXpfWXhfcS1xYVlvemhkdGN0MUs2QkM2c3d3QVFzX0dVUTFQSUZRQWpxVExlR1ZZMnUySDM0b1Y2eXMtS24zc1VVY0FpOUh1b2lTY1pySnBjNEZ4S1djcFNSUFJUTl9uZmpSaWlNUVZL?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-04T07:00:00.000Z"
       },
       {
         "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - Trome.com",
@@ -524,22 +540,6 @@
         "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxONHE2VHgwbHpNX1RiaWdQUGVFTkc5NDJEcXZQUDFuRHhCcUpCdzR0Y2NHbDNvRURMQlMzSlk5cHRSb3BjclRaMkNEMEF4R0lqLTVxRGQ2SDRBV2x5cklZcTdjTkp2RExYb2VVZWZHb2piLUFBM3lNS0Rqc2R3Mndrdmlvalp2alhMd1ZZYlNrU240YUs4a003el9jSS1sSFNLNzMxNmxaeGV1bWRGQUJpcmVRMkl3MERDbUVfa0VTbTZkVmR1MjdwVnhHQXMxUS1lTDNKNjBCU0V4UksxN1hFUFdWYUdZN2drV0lyNTR2cy1kMXdNZndXV09KeHN0M2NxNG1SQVhjUVRMaWxZemxXTVN30gGmAkFVX3lxTE1BR29NZk9mczFZd284MzBxZWY3S1lvLTRGYzNxU1R6MDVDZEwwdkktb0t0ZkRtMG03SlVKYjNlVmMyMUVTNG8waFc4NnBDUWRwcUI1cl92SmZQQXVnckFaRGdDSEVyLVN0ekl4Y2ppMm9BeUxWVUthQjRhUzhiNkRDMUNuclA1Xzg4MU80V3AzeEFHWVdDUnRjWEpwTEtmQ0k4OUdyX0lHMTV6TGJ5UUNiSW8tZkVqcmRZMmpLOEpfZl8wNnhGdmg0T01ZVVgyVGRKeUhqVXJmWm56NndqNTJ5d09PczhNekQ3cFJWQTBkWUJJUVEyekdlRUJTSk5HdUZaakUxR2VXaFE1YXg4NXVnTjFFZFdxanl6UXUxUFByUjlXSVVNQQ?oc=5",
         "image": "",
         "publishedAt": "2026-07-24T07:00:00.000Z"
-      },
-      {
-        "title": "¡Se acabó! Sheyla Rojas confirma su ruptura con Sir Winston tras larga permanencia en Perú: “Terminamos” - Trome.com",
-        "summary": "¡Se acabó! Sheyla Rojas confirma su ruptura con Sir Winston tras larga permanencia en Perú: “Terminamos” &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSEstT2tDMnBuZDRXd01zVlZhV3JNTWh5blV3eXdVaGVDUmt4YmpFWElEVHVwQjJjcnF3LWJYMnVqenBhX3dsUzczU2xwUl83U1hxZXVsd1c1Rm5pMktCVW5vRkU4RUladzN4NXBrc2ZydjQtdW1EUm0yT2hvdE8tcHRmLUFYUEdqUHdnZGZ4WUZCV1JWMF9jb0xRdWpNX2ZiMGVYbWdxeUR3cEx6RkE1ZU0wX1BYUW9HUGp5Y0stSTFBa3dsZThjMU5TbDBLcWVlMTdmSWRTdktJZUluRFRJZEUyRGFtTDlsd1HSAf4BQVVfeXFMTVhpUFprMVd5Yi10UTBEU2FFckY4MlNTNHRCa0g1NERLSFBWMG5USlpYSUowZ2J3UERTRE5hZmNrWWJLQWRjeGhEaEJ1ZlZ4TkhaT18yY2NWSmx4M2JJUklhTXU0QVFPOF91a2lVaEhIbXJFaG9LQmFWS1U0VGtWWi0yTFdBNlFBVEZVakw3NzFiNlhaLW9MNjBYOUhRdFRVeWpnS0pESDB4YUliU2dndzVieVlKVVB6SU56LUxGaXN0TWtaQmNwMXQ0SjAtYThKdzJVanNiczY5RmkxRVdHUDA2QzctRWtPSVJMdDZXTk13ZVRwVks3d2FnZlZxSWc?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-12T07:00:00.000Z"
-      },
-      {
-        "title": "Fusión 2026 regresa con la gran fiesta de la gastronomía y el entretenimiento del Perú - Radio Onda Cero",
-        "summary": "Fusión 2026 regresa con la gran fiesta de la gastronomía y el entretenimiento del Perú &nbsp;&nbsp; Radio Onda Cero",
-        "source": "Radio Onda Cero",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVDRrWHZhNEtYVHphRGlZQzBPYlh5azE5b0l2R0Fqc0tJRGxnMTR0dFpCQ1A2Qi1xenRzNjd3anRiQ2RZaV9kQ29HQmxwekJXamltNkhvM1ZaS01XZnJrZmZ0bGtSWi1JSFVRd3RMT1ZSWUJDOEthaEliSGg5eE9RV1BEa1R1NzliT3FfTkgzdWw4ejFqWGFJcGRIRDN3Q0NMc1EwQ21EN3R4LU4xSDJLZFJFcEt5Zw?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-03T07:00:00.000Z"
       }
     ],
     "cultura": [
@@ -576,17 +576,17 @@
         "publishedAt": "2026-08-27T07:00:00.000Z"
       },
       {
-        "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - andina.pe",
-        "summary": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento &nbsp;&nbsp; andina.pe",
-        "source": "andina.pe",
+        "title": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento - Agencia Andina",
+        "summary": "DeliMadrid 2026 reúne en Lima gastronomía, cultura, turismo y emprendimiento &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOTNTd1VMWGJFRlFGZG1LOXpLSllZVE5JUG1xU19TaFdKbnJzam85dVlJN0VVVWQ1ZzJLanExY0xmbXV2cXY4a0Y4M1JXcExuUm1Nc0Q0S2N2WkhtZzNwWlJJdmoxS0gwdTFYYjVQT0VkVTJHcEtrZFFES1R3X3JWTWNMaWtvQkM0S1lyRXNNblBJaUh3c3hNX3JYaFhiUXFkemVJa1F4Y1NJNjRmX2tPekJ1Snc2aWVDRFE?oc=5",
         "image": "",
         "publishedAt": "2026-08-22T07:00:00.000Z"
       },
       {
-        "title": "Inauguran DeliMadrid 2026: una experiencia que une a Lima y Madrid a través de la gastronomía y la cultura - Perú 21",
-        "summary": "Inauguran DeliMadrid 2026: una experiencia que une a Lima y Madrid a través de la gastronomía y la cultura &nbsp;&nbsp; Perú 21",
-        "source": "Perú 21",
+        "title": "Inauguran DeliMadrid 2026: una experiencia que une a Lima y Madrid a través de la gastronomía y la cultura - peru21.pe",
+        "summary": "Inauguran DeliMadrid 2026: una experiencia que une a Lima y Madrid a través de la gastronomía y la cultura &nbsp;&nbsp; peru21.pe",
+        "source": "peru21.pe",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNGVRUi1lRFpKUVBFNDlRVFp5OURydjNYaDhFVlFER2Q4UkZWSXZKZEI2Rk1nUzk2V0MxNG45WjVRTWFCbk1ZdkFBVnhveUFHVTBmdFA1SmtrZENxZm5VNzY0N0tBS0xySG94a3ZmY2ZVRjRydDVwYlZZUEtHYjlfU3N6RHZRRHVTWk5ZM3BIYUNxUWttbnRqSDN4T0duMjUtUmtEWjJTaFVUWEdHMnpQWFBlSUo5aFZSWlpQNE1FenBSdEU?oc=5",
         "image": "",
         "publishedAt": "2026-08-22T07:00:00.000Z"
@@ -600,9 +600,9 @@
         "publishedAt": "2026-08-21T07:00:00.000Z"
       },
       {
-        "title": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto - Blog Joinnus",
-        "summary": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto &nbsp;&nbsp; Blog Joinnus",
-        "source": "Blog Joinnus",
+        "title": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto - blog.joinnus.com",
+        "summary": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto &nbsp;&nbsp; blog.joinnus.com",
+        "source": "blog.joinnus.com",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQempKSjE1ZEJaSUlkTkxKb2ZEb01WelVBMUZpdUMxM1FSR3VlUlZZalFqUnZJMnhWcFc5UUdoZVFMOG1TbWpzc1BqTFUwbTl6MEhWR2NpSW95RmhRQ2tFSFM2NXZsQjFNUXVsY2k5dS1HRUlzU2pJMEN2SGMtSXlBOFhCbVBSVExUWGxFWVV1dTJCbFdtY0Npdmk4UUlFUkxXQi1QRlFCdC1VWG9jR2hxS2xfbGRGb0tGMGl3MzFrNkdvYjVp?oc=5",
         "image": "",
         "publishedAt": "2026-08-19T07:00:00.000Z"
