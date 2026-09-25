@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T01:27:38.136Z",
+  "generatedAt": "2026-09-25T07:44:26.229Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,6 +24,14 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
+        "title": "López Aliaga sobre moción de censura contra Astudillo: “Me parece una locura estar petardeando a un gobierno que no tiene ni 90 días”",
+        "summary": "El candidato a primer regidor de Renovación Popular, Rafael López Aliaga, cuestionó la moción de censura presentada por Juntos por el Perú en la Cámara de Diputados, con el respaldo de la bancada Obras, contra el ministro de Interior, César Astudillo.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/actualidad/rafael-lopez-aliaga-sobre-mocion-de-censura-contra-cesar-astudillo-me-parece-una-locura-estar-petardeando-a-un-gobierno-que-no-tiene-ni-90-dias-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/MNVGLRYG45AJVMY2EAE35Q2BK4.jpg?auth=82b66fd51d8e4d44b3eec01aaf5d6d3f32039dec6656ef4e00815cdff4d54238&smart=true&width=2756&height=1837",
+        "publishedAt": "2026-09-25T04:26:21.000Z"
+      },
+      {
         "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
         "summary": "Fuerza Popular | Desde que empezó a participar en elecciones subnacionales, el fujimorismo redujo su oferta electoral en más de la mitad.",
         "source": "El Comercio Perú",
@@ -41,7 +49,7 @@
       },
       {
         "title": "César Astudillo: Juntos por el Perú presenta moción de censura contra el ministro del Interior",
-        "summary": "La bancada de Juntos por el Perú en la Cámara de Diputados presentó formalmente una moción de censura contra el ministro del Interior, César Astudillo, argumentando una “manifiesta incapacidad en la conducción del sector y por el agravamiento de la violencia letal en el país”.",
+        "summary": "La bancada de Juntos por el Perú en la Cámara de Diputados, con las firmas de representantes de Obras y del Partido del Buen Gobierno, presentó este jueves una moción de censura contra el ministro del Interior, César Astudillo, “por su manifiesta incapacidad en la conducción del sector y por el agravamiento de la viole",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/congreso/cesar-astudillo-juntos-por-el-peru-presenta-mocion-de-censura-contra-el-ministro-del-interior-seguridad-ciudadana-camara-de-diputados-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/4AYT23RJSRHHTNH3WPXLCIQXOA.jpeg?auth=b9cafda1613f783df25027b000a43309d526ca0c18c004cfe9e41e12dbab5869&smart=true&width=1057&height=718",
@@ -70,24 +78,32 @@
         "url": "https://elcomercio.pe/politica/elecciones/mensajes-llamadas-y-acusaciones-los-entretelones-de-la-confrontacion-entre-samuel-daza-y-rafael-lopez-aliaga-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/OJWZV75Y3RGJBOOSXJ5YBNDAS4.jpg?auth=17946937cbd6f73c199fb25372cc62c7132c9d4db77d84cd2698f6a25d15a0de&smart=true&width=1061&height=638",
         "publishedAt": "2026-09-24T23:52:12.000Z"
-      },
-      {
-        "title": "Keiko Fujimori sobre el PJ: “Esa independencia no significa callar, perder la oportunidad de hacer una crítica al desempeño en el pasado”",
-        "summary": "La mandataria Keiko Fujimori se refirió a los cuestionamientos de la presidenta del Poder Judicial (PJ), Janet Tello, por su discurso de rechazo a los procesos contra militares y policías y dijo que la independencia de poderes “no significa callar” ni “perder la oportunidad de hacer una crítica al desempeño en el pasad",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-sobre-el-poder-judicial-esa-independencia-no-significa-callar-perder-la-oportunidad-de-hacer-una-critica-al-desempeno-en-el-pasado-janet-tello-apuesplan-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/5OUXLIDQ25AKLO7RUNWLPW3VHI.jpg?auth=8633a174f385ac5a26296a362b680aadb4c30ed94081b251af6009cdae346fd4&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-09-24T23:39:10.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Sobrecostos logísticos: ¿en qué tramos de la operación se está yendo el margen?",
+        "summary": "La logística puede consumir una parte importante del margen de una empresa sin que el sobrecosto aparezca necesariamente en una sola factura. El transporte, por ejemplo, suele ser el componente más visible, pero detrás de este existen gastos asociados al inventario, almacenamiento, preparación de pedidos, distribución,",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/sobrecostos-logisticos-en-que-puntos-de-la-operacion-se-esta-yendo-el-margen-noticia/",
+        "image": "https://gestion.pe/resizer/v2/53MWIQYYQNG5HEO6AR4CURXHKM.jpg?auth=53a27ba94dbcf0af78e7263befb547466fda0004535b92051440f124316ba3b6&smart=true&width=1200&height=805",
+        "publishedAt": "2026-09-25T03:36:00.000Z"
+      },
+      {
+        "title": "MTC anuncia destrabe de nuevo puerto de Marcona: permitirá inversión de US$ 404.8 millones",
+        "summary": "El Ministerio de Transportes y Comunicaciones (MTC) respaldó el convenio entre Proinversión y Shougang Hierro Perú, el cual permitirá destrabar la suspensión del contrato de concesión del Nuevo Terminal Portuario de San Juan de Marcona, el cual contempla una inversión estimada de USD 404,8 millones.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/mtc-anuncia-destrabe-de-nuevo-puerto-de-marcona-permitira-inversion-de-us-4048-millones-noticia/",
+        "image": "https://gestion.pe/resizer/v2/UXEYIIUH6JGSPMORWUUO4ZPJUI.jpeg?auth=5816d8c8e1301c8f22933847039ca1b2ff2d693af85b70d90fb840a7abf00848&smart=true&width=1200&height=686",
+        "publishedAt": "2026-09-25T02:27:50.000Z"
+      },
       {
         "title": "Violencia escolar en Perú se evidencia cada vez más, pero Gobierno “quita” dinero para prevención",
         "summary": "Gestión identificó caídas año tras año en el presupuesto dentro del Minedu para la prevención del acoso escolar y violencia sexual. Para el 2027, el monto no supera ni los S/ 61,000 en conjunto. Este es el panorama que grafica su prioridad en el Estado.",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/violencia-escolar-en-peru-casi-20000-denuncias-al-ano-mientras-presupuesto-para-prevencion-cae-noticia/",
         "image": "https://gestion.pe/resizer/v2/VHYNILPX2BAXTGILZVFSVUZQ54.jpeg?auth=847e7119d544f24d56fd7b87ff4bf12b9d33216ab45cf1766ee5739860146bb7&smart=true&width=895&height=593",
-        "publishedAt": "2026-09-25T01:14:32.000Z"
+        "publishedAt": "2026-09-25T02:14:00.000Z"
       },
       {
         "title": "Aramco evalúa construir nuevas rutas de exportación de petróleo",
@@ -128,22 +144,6 @@
         "url": "https://gestion.pe/peru/bcrp-emite-moneda-alusiva-al-bicentenario-del-ministerio-de-justicia-y-derechos-humanos-noticia/",
         "image": "https://gestion.pe/resizer/v2/247LU4TPPJDMTBNKNC3VUP6JME.png?auth=6750fedb94fa4535be1f025e76ba945c9c3301f677ad448a70f3c4c891fd330e&smart=true&width=1536&height=1024",
         "publishedAt": "2026-09-24T23:09:02.000Z"
-      },
-      {
-        "title": "FlixBus inicia con dos buses y negocia nuevas rutas en Perú: ¿hasta dónde busca crecer?",
-        "summary": "FlixBus inicia operaciones en Perú con dos buses y negocia nuevas rutas con Grupo Polo y otros socios para ampliar su presencia en el transporte interprovincial.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/flixbus-aterriza-en-peru-con-dos-buses-que-sigue-para-la-marca-de-los-pasajes-dinamicos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/6ZYHHBRNKNEOBBOGNEDLN3NWB4.jpeg?auth=0a85df458997dc068b5ca0bf35120c01b410a76c5beb4995b2e07e1ba1724c9f&smart=true&width=1080&height=720",
-        "publishedAt": "2026-09-24T23:03:52.000Z"
-      },
-      {
-        "title": "Sobrecostos logísticos: ¿en qué tramos de la operación se está yendo el margen?",
-        "summary": "La logística puede consumir una parte importante del margen de una empresa sin que el sobrecosto aparezca necesariamente en una sola factura. El transporte, por ejemplo, suele ser el componente más visible, pero detrás de este existen gastos asociados al inventario, almacenamiento, preparación de pedidos, distribución,",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/sobrecostos-logisticos-en-que-puntos-de-la-operacion-se-esta-yendo-el-margen-noticia/",
-        "image": "https://gestion.pe/resizer/v2/53MWIQYYQNG5HEO6AR4CURXHKM.jpg?auth=53a27ba94dbcf0af78e7263befb547466fda0004535b92051440f124316ba3b6&smart=true&width=1200&height=805",
-        "publishedAt": "2026-09-24T22:36:40.000Z"
       }
     ],
     "sociedad": [
@@ -204,12 +204,12 @@
         "publishedAt": "2026-06-17T02:03:59.000Z"
       },
       {
-        "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - EL PAÍS",
-        "summary": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución &nbsp;&nbsp; EL PAÍS",
-        "source": "EL PAÍS",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeW5LcjdJa3V6MXlwdU1CVG4wR19lcXM5Ynoydmd3QVYxMWJ5amNPQVdYRnV3d05VZXFfMUc1M05RUTNBRWloaWFCX3U1LTloTHRLQ2NuaXVSWFllTHZ1aWFjVXNXR3M0LTRpVHBaUU9XSjZ4TXVTZ1hKMGhPVHFrem1MZU54RG52SWp5OXVTQlpHMlhYemVacWI5ZUVwTUJVT3d2MkJRdEpIekRCQmtIZDQxaFN0d0dZRE5zZ1NwS1JMd0NWaWlxeGttVFdaMlN2VlEwWFc5S0pfdTVNQ2JMZW9vempBTTJ2TW9CSDBEQU8?oc=5",
+        "title": "Perú, el país más polarizado de América Latina: sus razones - Reina de la Selva",
+        "summary": "Perú, el país más polarizado de América Latina: sus razones &nbsp;&nbsp; Reina de la Selva",
+        "source": "Reina de la Selva",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa2o0YzVQNjVkU2czMEhrVWtLVjJXaTROSWI1X3ZzTEtpeHhJYkEzT3U1YS1ZRGlIRUF0YmU2bEhNZHpiaUNxUG42czVTNlNaZjJXdDUyV3dfQ21DRk03OEl4ZDF2WTNuMHBnU2o0TG8zZmVxbkdoSGpGbnVUVk1yQVVfNEVVX3pWeXhnbA?oc=5",
         "image": "",
-        "publishedAt": "2026-06-07T07:00:00.000Z"
+        "publishedAt": "2026-06-09T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -280,9 +280,9 @@
     ],
     "ideas": [
       {
-        "title": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional - Chimbote en Línea",
-        "summary": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; Chimbote en Línea",
-        "source": "Chimbote en Línea",
+        "title": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional - chimbotenlinea.com",
+        "summary": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; chimbotenlinea.com",
+        "source": "chimbotenlinea.com",
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdUlfZ2hfaXNHTGtPY0RiYTFSLU9hOGp6UFpJb1JmLTBoLUlISTFoNlFDN1Vpc2pfVFhfNFpveDV3WVE3Q2lpRmZfdXZZRmVQRkhqYkw2OW9mMXRCWGJacjAzczhkOTVtc083b0djalZpUnNkOFdVdExpb3NkNjdrMDlBNFNkMDZnVEotZzM5eHZlM251TE5VbE9YVWFkSGJxVkhDcHhLaVpjbkdCc205bHRyVjFmMkNuNEhVOGlOVU5PTVZmeU5Dc09uRmxpMUpMbzdvVVNjaE9GdmpVczdfVUZpVDc0c01u?oc=5",
         "image": "",
         "publishedAt": "2026-09-21T18:26:00.000Z"
@@ -378,6 +378,14 @@
         "publishedAt": "2026-09-19T12:37:00.000Z"
       },
       {
+        "title": "Servicios en Perú alistan cambio por la IA: reclamos, pagos y trámites podrán resolverse en segundos - Infobae",
+        "summary": "Servicios en Perú alistan cambio por la IA: reclamos, pagos y trámites podrán resolverse en segundos &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcXNMNU91ZVRjV0EtakxXbUR2MnVoUjFDdGpXTDlydElxQXowSEZDNTRWNUZUUW9GZGdNMEVTVHZ1Z3I0SXUtVUtvLXBiVWFxLUFkMDV0Rl9DXzN0WTJvdlBySGdlNXdFS28wTzQ2eVRkdkhQaFI1Rk9vMVFOdGFQdHQ2aFBNcC1FY3lOOGxHWWF0NGplWC1KaF9ITHBJTDJESHVLYkZqZ3lZWmlxYWxsMU40bk1BaG1FRTFiTk4zWEV6d0ZYOUoyS1JONV9TS2hwc1c5Qnd30gHwAUFVX3lxTE9kdXhKY05MMFJfVzB3UC1FY3hmTTNSa3U3UVJTMEh6SDRYWHU4ekJJdFJHWnd0RE5wN0Z5cmxmd0MwUkN2aGhzZVRkd0ozQkRIYkt1TnVsMTNveUFMaF9zbUlFaFZ6UmlhbUdQd2plTlQ5QXV1LUxIbzJxamxXSWVqTVJQbjB0cDl1WWxEN0Q2R01fUTFSd2FNWXVzeTg4aUNZOEc5OHlNTTVSb3J4LTlKcDJMQnE1WE9lNnluQzZ5NU5RN0UyU0l6cUZtZVU2RzFVdHBrMUZqWWFOS204Q3NKUTBIN3RZbXl5alZCUG9VNA?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-19T02:18:00.000Z"
+      },
+      {
         "title": "La razón por la que Perú no debería copiar el freno tecnológico que discuten las grandes potencias de la inteligencia artificial - Infobae",
         "summary": "La razón por la que Perú no debería copiar el freno tecnológico que discuten las grandes potencias de la inteligencia artificial &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -400,14 +408,6 @@
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT3R4aVpVc2FLT2w2c2Q0Qlk5Z2gwRzFBWDJBMktVeU1ScV9Pb1RyNHJBbDJ2VjQ3OF9waUU2T3lNZU5NLTJvYVR2enpiQTlfVGtSQVlVRGpHaVI2V1FVaTdEeU1tTGtjaUNMTmc1Q2VBakxTTzJ3Tkw2VXJBMlUtWktlMUhoclhnYWVKdFJVQ2RHNGRReHFJYk9VT2pQZjlraDNOWEVDZXV0ekFsX3ZzS2dZVUJ3WkRVU2dvRzVMZ2xkRmZmOUFqU21B?oc=5",
         "image": "",
         "publishedAt": "2026-09-17T19:36:45.000Z"
-      },
-      {
-        "title": "Fraude en tiempos de inteligencia artificial: de la preocupación al conocimiento - Infobae",
-        "summary": "Fraude en tiempos de inteligencia artificial: de la preocupación al conocimiento &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUG42UWI5NzRXRUVGRXhWanlwYUlPTDBVUV9kLTZqT1A3Y2tsRFJpcFByMUZ1aVJOS25iY3FMSzRwVnptejZHak1EdW9veE52ZzZSalhDUU9qMF9ZRk9NX0VONklqc3I3V0x4UnNjaGNBR3lSbFp3NEM5eGdKX0NyZGxSRl9QS3JBRnhXYnludGFzMnYxelg4M2U2QVhtQUJ6bmFINUNZTGpWeS1LUHBpaF8xSXZCdDItTDVRQtIB1wFBVV95cUxPM3cxcDFPWDZacVg0SFlsUGM2Z0p1VnB0eWpxc3gtOUVvTUc1UEpMVzU5SG45X255V1FLa3RRQ1JSUHBjcG1OX042TmpYc0FoSzdYdDRQNFdJcDFUZGdZYkc0amd5ZmlMRU1vdXVKQy1tNENXdUdJMWNFVE9UaGF3ZDhxaFNjS3NiZjN0UjZ4NVpuM2steGRvTUxtajUxNEUxQXVjSk05emdTUnVEYnd5bHpKVlhOX3VuRi1Pc285eDZNUENDa2RndkhiYlhhV0toY1cwSU85bw?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-16T07:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -494,14 +494,6 @@
         "publishedAt": "2026-09-03T07:00:00.000Z"
       },
       {
-        "title": "¿Quién fue Víctor Angobaldo, el recordado personaje de la farándula y expareja de Shirley Cherres que falleció en un accidente de tránsito? - Infobae",
-        "summary": "¿Quién fue Víctor Angobaldo, el recordado personaje de la farándula y expareja de Shirley Cherres que falleció en un accidente de tránsito? &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOR1NDdF9mS0J6YWhSQTJhRFpYVzFQbHMxMWNtVzJ5eGVfcmRwRS1vWTNiV0tpSGJEaXdPNE4tYkMzM0tobF9yMkV4dTR6NDJ4dXZ4bFR1al80cVVrOUVqbUF3UDBKNHVPVTVhak5VTUhJalJvZUE5aFRQTldJU3JDdm9HLTZDNVBxUE0xZDA4VWVqa3hXWnBhLTkwUlBsTmVuS0p6WHpmQ0tVNkhBWWhGQ1RXcTZPZGs2S2Qwc0hJVlpJWlFTcFI0ZGZ6OXZhLXJzZFRMZ1J3MFMtZS1ueEZLYWNlQWIxQ3RzN3pvVFM1Qi1TTXZsSmRsZXFhbVRNd0JOZkFjWXlsSnbSAaMCQVVfeXFMTXliQkJBdndLUUhLNE92NFA4NlVOQzFCMDhqM2RKNzJWWHM3YV83bnhKTGdHTFFFcHpQckhiOUlPTnpSejNodzRyTElBaFVzNlV5V09wdElvbHdORU84TlRjY2I0dS1SQlFpekZuVlhDcDQyR3hRMW8wZUxNV1dWclhJUDYwTVVlMXFOVHpFWl8zVHAyTloyVUJ5bkVMWW1ZTG9WX0p3X28tQm9Cd0ZZVkQzS05NZ25fSmk1Z1NFbUd3Uy1MSWM3cDBvbnRmTzI5S0VFLWZSdFREQTdMV1BPREQwU2doTVVhTmNWaUgyeHpUbmJvNVprUElyV0tKVk5HR3VMQkNVVTcxUmJJNkh2MUg4TkZFUU9ZcXZZM2FVLWFTOWlv?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-06T07:00:00.000Z"
-      },
-      {
         "title": "Fallece Víctor Angobaldo, recordado personaje de la farándula peruana, en accidente de tránsito en Cañete - Exitosa Noticias",
         "summary": "Fallece Víctor Angobaldo, recordado personaje de la farándula peruana, en accidente de tránsito en Cañete &nbsp;&nbsp; Exitosa Noticias",
         "source": "Exitosa Noticias",
@@ -514,14 +506,6 @@
         "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
         "source": "Diario Correo",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-05T07:00:00.000Z"
-      },
-      {
-        "title": "Falleció Víctor Angobaldo en trágico accidente vehicular en Cañete - Infobae",
-        "summary": "Falleció Víctor Angobaldo en trágico accidente vehicular en Cañete &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeW1uYzV2dTFwMHdMRjlOZ3RRTjhPRU1KWFJvSDdfUTlrNk40bERPdlBaX3NJNkFvZmtDX2tNZlNJdW40cndwcFBtSUM1NTFfUnZ2M2d0SmgtMHlXYnhQQ0V4aC1CdVRKZWJUQkhXUnc4S3doMlNqVVJUbXVQb0dVY3hORUNVZnVEMHhSY2txazNEV0E5cWtTcHZSd0LSAbcBQVVfeXFMTi1KeC1KN0hzYm1PN0dPZDVOQmpQQV9xNWhFXzdzcTliSVg3RVUycUNDT19lbEo4Nm93RkJaNnF3akpQN2c5Zmx1YzZMUmh0WXZ2MHlkV2ZQNVI0QTkwNzhZWXlKVzRXaG1aOF9GM3dQaUtDRFNzdmo5ZmppaDBCNGNMbElNREdreXN6VG1HNXBINTRxWTB1M1diTDNUU0RELXo1TFdDMWVXNWswY25iblNTa2xVeW5R?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
@@ -540,6 +524,22 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHpkRUdJMnV3X2tiUURubVRPZW9NY0Z3UlJIS1NIaG1jVkpPWEYwcVlsSXJBdVliMERjdnlBRkR0LUw2WllJam56RXBUb2tVbFlxZDJOV2xEYTJsczg1elZlclFvREdzUWptcmw3VURlYlhST09TdVpWTmo2Znp3dGJWeDhHN2xILU1aOHBXVkZ5MFhFNnM4SzliOE92VTNOWnMtTk1YaWVUMmdHcGN3a2MxRnJaQXlWdmo2aE5iR1UzbU1QWnVibkZJamZabm9KV01SQ1FfM3TSAewBQVVfeXFMTlJtdHBFeG9XM2lzMnFvRnpMWk5XZGFRblJNdlBTeVNRcGpGR1hOS2RydWh3dTlFQ3BDNkZEMmlXTi1nUW1zUFN6djIxRU5BUDV2V3hkZDREMlRVTmZtRy1IT3dEQXdCMmRLYmg2ZndiNHI5dV9RWmM0bDZmdjBITkpBNzBqWEx6cTJWQTBUV1VBcm9mS3U0YzluUlEwb0ZLT2picG0xNlI1YnVEY2xGYVoxMC1CMlV1NHhzRmtTTVVZaERiTUVZZGR4SjJ6YVpDeGJMY3Aybzg4WUZFV1kyVm1OdEUyUktiVE95OHM?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
+      },
+      {
+        "title": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión - Infobae",
+        "summary": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFpHYlBfWE5DYjhNXzVvdjhzWEJUU3NRYUxCei13QUhSajlnTWtaNmxCUmRZeFJsU0FQZ2Uxa0hkMHNCanNqd1pPUDlveFZGUXlvU0MyblFibDBMY1pZVHZZczdZNlFpZ0dVU2hwUlJrQjdOY3FMZHloNXY2cXhCVVR4YjVLR1B5NEFhOGJlY2NKZnF2dWpfMWNUYTdGd2U1MWt1RWNpVUw1NXdWWE1SN0dSMm9ldWNqZUM2Z1930gHYAUFVX3lxTE9YYW5mSTRNYXNfWFBBZi0tX1h0S3A1b09TY09zaVFmcWdLTllzMHhtTzRQOHNwaEFOT1ZycS1fNklDamM2Tm4zbGZ0Uk5DTldIMDAxUlhGZVNmV2RvZXdVRERiTGFxV0Jhclc1bERDd3ItWU9yY1dpQjE2d0NnTVZzVDhBTjV4ellKTW5HOUxBWUtOLVNnVGs3Wi1ibF9iNVNMWFlzajFjSzhUSjRKdXBZQUdlbTh0QklnMUxNNFFlVXpTYi1jZXE2Z2dFcklfX2U3Y0VnTUM4Vg?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-30T07:00:00.000Z"
+      },
+      {
+        "title": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula - La República",
+        "summary": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdkttUlMxUDlJSFM3dC1ZMUhLeDdZRDBsZGh3ZE53NnpMOWpCbG1nN1ltc1ZyV0JPbnloY0RSUW0yNU1nSFRiaWZwRXc0MVBBSWVPY2RhcVN4OGlLU20wQ1RaM1NIMHJfY0RVc0czWWdGTVh3azIwdTZVRldCZFdJYXJPNVE5QzNMeFA0RXEzRzAwRHNlT0NhMlZmTVdUemNlbTBzRGw1MEh5bjkwdENkQTFKcEtpNDk1bk01N1FNbW5xak12aGk4cWh0NFhydEtadG42RElFVEpuOUlaRFNfNmlGLTNENjBTMnd2TzN3OF9ZVFdmaktlZzROdXdEaExFbzVGRmpyN3R0d9IBjwJBVV95cUxNWkFhRzkzdkRBTF9aNHVTRXV2T3VBQTBiRFZQb0hoNktPYW1RclNIME90SHhYZ01Gazc1ZmZLWUxuUmhyWTJncVUyZ2o4bWVGS3ZJQS1FYVk4cVdLTm16TkwwWDVNTFpEV0lGb29aWTBNV2tMRVJDUU5HWmtzOTh1OW9SUnJGSW1GRFduU0F1TVBJdWQxYno4X1RETURES09iTTZjZ1pOVTNKQjk4NEV4Q2t0ZjhQUlk5VXdmYTNRbE81Qi1OUW8xMHE0bWt4d3FCZmdJV3d5NUVVaHdBdGRmSmFyNVRkb2FxaVJEdlcxbXJBd2kyQzhUbDl3QmpFNVBMREk2Q2VaLXNyMkU2czVj?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-26T07:00:00.000Z"
       }
     ],
     "cultura": [
