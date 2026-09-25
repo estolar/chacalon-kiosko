@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T22:21:28.696Z",
+  "generatedAt": "2026-09-25T01:27:38.136Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,28 +24,44 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Elecciones Regionales y Municipales 2026:candidaturas de los movimientos regionales caen 83% desde el 2022 y partidos políticos dominan el tablero",
-        "summary": "En el 2024, la amenaza en el Congreso de eliminar este tipo de agrupación desató una migración de candidatos hacia los partidos políticos de alcance nacional. Los movimientos desaparecieron por completo en 11 departamentos.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/el-exodo-de-los-movimientos-regionales-candidaturas-caen-83-desde-el-2022-y-partidos-politicos-dominan-el-tablero-elecciones-regionales-y-municipales-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/GCNMYV3TUNAT7ITF24PUM247Q4.jpg?auth=96899ab28be219c51788cfb81bd060e1fa1c35fa4997f5f765d4c389060813f4&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-09-24T22:10:52.000Z"
-      },
-      {
         "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
         "summary": "Fuerza Popular | Desde que empezó a participar en elecciones subnacionales, el fujimorismo redujo su oferta electoral en más de la mitad.",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/ecdata/en-16-anos-fuerza-popular-solo-ha-ganado-3-gobiernos-regionales-y-no-ha-colocado-un-solo-alcalde-en-lima-metropolitana-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/3ZQHU5EOGNH33LU7J6EN3J4QSE.jpeg?auth=05b2ba86279d4f5e8c5af8ea35780dce6caca06e15b2546119eb9e3be8b10463&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-09-24T22:04:52.000Z"
+        "publishedAt": "2026-09-25T01:05:00.000Z"
       },
       {
-        "title": "PerúCheck: Es falso que el Banco Central de Reserva sea responsable de la estabilidad laboral",
-        "summary": "PerúCheck: Es falso que el Banco Central de Reserva sea responsable de la estabilidad laboral",
+        "title": "PJ condena al ‘camarada Romel’ a 35 años de prisión y al pago de S/500 mil por el delito de terrorismo",
+        "summary": "El Segundo Juzgado Penal Colegiado de la Corte Superior Nacional de Justicia Penal Especializada condenó a Silverio Ugarte Dionicio, alias ‘Romel’, a 35 años de pena privativa de la libertad por el delito de terrorismo.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/perucheck-es-falso-que-el-banco-central-de-reserva-sea-responsable-de-la-estabilidad-laboral-diputada-de-juntos-por-el-peru-svieta-fernandez-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/US2X3KIKMRDL5ONSRCLAWJPWQE.jpg?auth=7e420badb79a2b02470b3fac93ab448f8d1ab643fcc14802b7e442efc0a381f0&smart=true&width=1256&height=671",
-        "publishedAt": "2026-09-24T22:00:07.000Z"
+        "url": "https://elcomercio.pe/politica/justicia/poder-judicial-condena-al-camarada-romel-a-35-anos-de-prision-y-al-pago-de-500-mil-soles-por-el-delito-de-terrorismo-silverio-ugarte-dionicio-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/AKZYOZHG5ZDDTNS665RCCWIXJM.png?auth=df8aca116785150a646d544182b76a8039bd2a21a4b023e4e29e6f49a55ee9e4&smart=true&width=1200&height=628",
+        "publishedAt": "2026-09-25T00:42:24.000Z"
+      },
+      {
+        "title": "César Astudillo: Juntos por el Perú presenta moción de censura contra el ministro del Interior",
+        "summary": "La bancada de Juntos por el Perú en la Cámara de Diputados presentó formalmente una moción de censura contra el ministro del Interior, César Astudillo, argumentando una “manifiesta incapacidad en la conducción del sector y por el agravamiento de la violencia letal en el país”.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/cesar-astudillo-juntos-por-el-peru-presenta-mocion-de-censura-contra-el-ministro-del-interior-seguridad-ciudadana-camara-de-diputados-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/4AYT23RJSRHHTNH3WPXLCIQXOA.jpeg?auth=b9cafda1613f783df25027b000a43309d526ca0c18c004cfe9e41e12dbab5869&smart=true&width=1057&height=718",
+        "publishedAt": "2026-09-25T00:30:06.000Z"
+      },
+      {
+        "title": "Sala Plena de la Corte Suprema expresa “total confianza” a acciones de presidenta del PJ en defensa de jueces y de su independencia",
+        "summary": "La Sala Plena de la Corte Suprema expresó su total confianza a las acciones que realiza la presidenta del Poder Judicial, Janet Tello, en defensa de los jueces y juezas del Perú y de su independencia.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/justicia/sala-plena-de-la-corte-suprema-expresa-total-confianza-a-las-acciones-de-la-presidenta-del-poder-judicial-en-defensa-de-jueces-y-de-su-independencia-keiko-fujimori-janet-tello-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/FFH6TYIKVVFEDIL5B3MGIZD7BA.jpg?auth=7248fa0c0e568621ee34587e1b35c6d6fb0cb44b4ba78b59327435de409ddad4&smart=true&width=1200&height=744",
+        "publishedAt": "2026-09-25T00:15:24.000Z"
+      },
+      {
+        "title": "Elecciones Regionales y Municipales 2026:candidaturas de los movimientos regionales caen 83% desde el 2022 y partidos políticos dominan el tablero",
+        "summary": "En el 2024, la amenaza en el Congreso de eliminar este tipo de agrupación desató una migración de candidatos hacia los partidos políticos de alcance nacional. Los movimientos desaparecieron por completo en 11 departamentos.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/ecdata/el-exodo-de-los-movimientos-regionales-candidaturas-caen-83-desde-el-2022-y-partidos-politicos-dominan-el-tablero-elecciones-regionales-y-municipales-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/GCNMYV3TUNAT7ITF24PUM247Q4.jpg?auth=96899ab28be219c51788cfb81bd060e1fa1c35fa4997f5f765d4c389060813f4&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-09-25T00:10:00.000Z"
       },
       {
         "title": "Mensajes, llamadas y acusaciones: Los entretelones de la confrontación entre Samuel Daza y Rafael López Aliaga",
@@ -53,57 +69,25 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/elecciones/mensajes-llamadas-y-acusaciones-los-entretelones-de-la-confrontacion-entre-samuel-daza-y-rafael-lopez-aliaga-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/OJWZV75Y3RGJBOOSXJ5YBNDAS4.jpg?auth=17946937cbd6f73c199fb25372cc62c7132c9d4db77d84cd2698f6a25d15a0de&smart=true&width=1061&height=638",
-        "publishedAt": "2026-09-24T21:45:00.000Z"
+        "publishedAt": "2026-09-24T23:52:12.000Z"
       },
       {
-        "title": "Elecciones en La Libertad: Minero informal y proveedor integra lista de exalcalde de Pataz",
-        "summary": "Aldo Carlos Mariños, exalcalde provincial de Pataz y activo defensor de las marchas de los mineros informales, ahora es candidato para el Gobierno Regional de la Libertad. En su lista ha colocado como número uno de consejeros a Adler Quiroz Cenizario, una persona cercana cuando este era alta autoridad en el nuevo epice",
+        "title": "Keiko Fujimori sobre el PJ: “Esa independencia no significa callar, perder la oportunidad de hacer una crítica al desempeño en el pasado”",
+        "summary": "La mandataria Keiko Fujimori se refirió a los cuestionamientos de la presidenta del Poder Judicial (PJ), Janet Tello, por su discurso de rechazo a los procesos contra militares y policías y dijo que la independencia de poderes “no significa callar” ni “perder la oportunidad de hacer una crítica al desempeño en el pasad",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/actualidad/minero-informal-y-proveedor-integra-lista-de-exalcalde-de-pataz-aldo-carlos-marinos-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/J3G4EFJUPRBIZNEYCB4ZJ3V7AU.jpeg?auth=adbd54337a9ea652c37f787ba802107dc1256c3ddcd5f568fbc637c323de0f6e&smart=true&width=874&height=657",
-        "publishedAt": "2026-09-24T21:14:00.000Z"
-      },
-      {
-        "title": "La seguridad como prioridad y la eliminación de la ATU: los puntos que marcaron el debate entre Bruce, Allison y Urresti",
-        "summary": "A solo 11 días de las elecciones regionales y municipales, El Comercio y América Multimedia reunió este miércoles a los candidatos a la alcaldía de Lima Carlos Bruce (Somos Perú), Francis Allison (Avanza País) y Daniel Urresti (Podemos Perú) para que expongan sus principales propuestas para frenar a la delincuencia y d",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/elecciones/la-seguridad-como-prioridad-y-la-eliminacion-de-la-atu-los-puntos-que-marcaron-el-debate-entre-bruce-allison-y-urresti-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/B4CDMY27XNHRJHTROIQND4A44U.jpg?auth=c05f9b2451a9a7deec5ba6af9e959a51c91bd47cc4a3c58f8afd975a8ac67750&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-09-24T19:45:14.000Z"
-      },
-      {
-        "title": "Marco Vinelli sobre el Fenómeno El Niño: “Nosotros estamos actuando desde el día uno sin el pedido de facultades”",
-        "summary": "En foro organizado por El Comercio y América Multimedia, el ministro expresó su confianza en Diputados aprobará las facultades solicitadas, en especial las que tienen que ver con la emergencia",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/marco-vinelli-sobre-el-fenomeno-el-nino-nosotros-estamos-actuando-desde-el-dia-uno-sin-el-pedido-de-facultades-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/MPVIBN2RSBDUNCNUN7TDQJ6NDM.jpg?auth=5a05f56980ca759d8f296e8d3ebac43ca6cafd324c86cbe7256e2652b1c9d6a1&smart=true&width=1203&height=621",
-        "publishedAt": "2026-09-24T19:45:05.000Z"
+        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-sobre-el-poder-judicial-esa-independencia-no-significa-callar-perder-la-oportunidad-de-hacer-una-critica-al-desempeno-en-el-pasado-janet-tello-apuesplan-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/5OUXLIDQ25AKLO7RUNWLPW3VHI.jpg?auth=8633a174f385ac5a26296a362b680aadb4c30ed94081b251af6009cdae346fd4&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-09-24T23:39:10.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Tipo de cambio registró fuerte alza: ¿en cuánto cerró el dólar este jueves?",
-        "summary": "El jueves 24 de septiembre, el dólar en Perú comenzó el día con un incremento, en medio de expectativas de una política monetaria más restrictiva de la Reserva Federal de Estados Unidos.",
+        "title": "Violencia escolar en Perú se evidencia cada vez más, pero Gobierno “quita” dinero para prevención",
+        "summary": "Gestión identificó caídas año tras año en el presupuesto dentro del Minedu para la prevención del acoso escolar y violencia sexual. Para el 2027, el monto no supera ni los S/ 61,000 en conjunto. Este es el panorama que grafica su prioridad en el Estado.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-jueves-24-de-septiembre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
-        "image": "https://gestion.pe/resizer/v2/AV37Y4TE6ZACDNBGRHJJ3FDPMQ.jpg?auth=702509fead28df357c9dfb92152866f05bc896feb26dfba2d43264ab285a775c&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-24T22:03:57.000Z"
-      },
-      {
-        "title": "Solo 1 de 10 turistas peruanos compra paquetes: así cambia el negocio de las agencias",
-        "summary": "Agencias de viajes en Perú enfrentan cambios ante un turista que arma sus vacaciones por separado y busca nuevas experiencias.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/turismo-solo-1-de-cada-10-viajeros-peruanos-compra-paquetes-como-cambia-el-negocio-de-las-agencias-noticia/",
-        "image": "https://gestion.pe/resizer/v2/ZATG7VUEQNFHZBBWTKYV5HE444.png?auth=9b9e2ca4000a6c52688f072b06bc24ce25b9d6ef9ad8d2b4aea0448009c204d0&smart=true&width=1448&height=1086",
-        "publishedAt": "2026-09-24T21:05:06.000Z"
-      },
-      {
-        "title": "Paradoja de América Latina: con recursos, pero con puntos débiles para convencer al capital",
-        "summary": "¿Qué frena la inversión en América Latina? Seguridad, certeza jurídica y estabilidad política aparecen como claves para atraer capital y aprovechar el potencial de la región y, sobre todo, de Perú.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/paradoja-de-america-latina-con-recursos-pero-con-puntos-debiles-para-convencer-al-capital-el-analisis-en-evento-de-mckinsey-noticia/",
-        "image": "https://gestion.pe/resizer/v2/DIPYD463PFDVNEPN3EVEA5PPVQ.webp?auth=0e438e0288dafb59c7361b913ef117cc6c348c5b61c2de46f478f3b105eac442&smart=true&width=1800&height=1200",
-        "publishedAt": "2026-09-24T21:01:27.000Z"
+        "url": "https://gestion.pe/economia/violencia-escolar-en-peru-casi-20000-denuncias-al-ano-mientras-presupuesto-para-prevencion-cae-noticia/",
+        "image": "https://gestion.pe/resizer/v2/VHYNILPX2BAXTGILZVFSVUZQ54.jpeg?auth=847e7119d544f24d56fd7b87ff4bf12b9d33216ab45cf1766ee5739860146bb7&smart=true&width=895&height=593",
+        "publishedAt": "2026-09-25T01:14:32.000Z"
       },
       {
         "title": "Aramco evalúa construir nuevas rutas de exportación de petróleo",
@@ -111,31 +95,15 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/aramco-evalua-construir-nuevas-rutas-de-exportacion-de-petroleo-noticia/",
         "image": "https://gestion.pe/resizer/v2/IFJRNUDHJRGOLABTNMBINOAN6E.jpg?auth=b4f8f5f3cc468145580f4cf7d71649b522de95b7f2c831d8f52dd4996b4236d3&smart=true&width=1200&height=851",
-        "publishedAt": "2026-09-24T20:46:00.000Z"
+        "publishedAt": "2026-09-25T00:52:53.000Z"
       },
       {
-        "title": "El Niño afectará más a Bolsa de Lima entre noviembre y enero: ¿qué acciones sufrirán más?",
-        "summary": "Entrevista.- Daniel Guzmán, de Credicorp Capital SAB, sostiene que los factores más importantes a monitorear son el Fenómeno El Niño, que es muy relevante en Perú; y la inflación, que tiene que ver con el precio del petróleo y las tasas de la Fed.",
+        "title": "Minem simplificará cerca del 50% de sus procesos: ¿cómo planea acelerar proyectos mineros?",
+        "summary": "Guillermo Shinno, ministro de Energía y Minas (Minem), adelantó en un evento organizado por la Cámara de Comercio Peruano China (Capechi) las acciones que tomará su cartera para acelerar la inversión minera.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/mercados/el-nino-afectara-mas-a-bolsa-de-lima-entre-noviembre-y-enero-que-acciones-sufriran-mas-noticia/",
-        "image": "https://gestion.pe/resizer/v2/TQFIH55JPVHK5EAMFQVI3BBZRQ.jpg?auth=29ffceaeb5c79a0a82d79f262930abaa7ee9058c57f7451e783e19c1714ce3e5&smart=true&width=1280&height=720",
-        "publishedAt": "2026-09-24T20:39:48.000Z"
-      },
-      {
-        "title": "Progreso social no llega a regiones del Perú: salvo una, todas están en niveles bajos",
-        "summary": "En los últimos años Perú no dejó de crecer, pero ese avance económico no ha llegado todavía a todas las regiones. Eso remarca la última edición del Índice de Progreso Social Regional 2026 (IPSRP) que Centrum PUCP compartió en exclusiva con Gestión.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/progreso-social-no-llega-a-regiones-del-peru-salvo-una-todas-estan-en-niveles-bajos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/HT6LMOSXEVHK3BVEZG7CCPW2QY.png?auth=dc631d03e90695545adf50e73f89d4254d5d516877854edd9f8a6a44b57d2c50&smart=true&width=1672&height=941",
-        "publishedAt": "2026-09-24T20:30:00.000Z"
-      },
-      {
-        "title": "Violencia escolar: 1,700 denuncias al mes, pero presupuesto para prevención en “caída libre”",
-        "summary": "Gestión identificó caídas año tras año en el presupuesto dentro del Minedu para la prevención del acoso escolar y violencia sexual. Para el 2027, el monto no supera ni los S/ 61,000 en conjunto. Este es el panorama que grafica su prioridad en el Estado.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/violencia-escolar-en-peru-casi-20000-denuncias-al-ano-mientras-presupuesto-para-prevencion-cae-noticia/",
-        "image": "https://gestion.pe/resizer/v2/VHYNILPX2BAXTGILZVFSVUZQ54.jpeg?auth=847e7119d544f24d56fd7b87ff4bf12b9d33216ab45cf1766ee5739860146bb7&smart=true&width=895&height=593",
-        "publishedAt": "2026-09-24T19:49:00.000Z"
+        "url": "https://gestion.pe/economia/minem-simplificara-cerca-del-50-de-sus-procesos-como-planea-acelerar-proyectos-mineros-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CQTY5YF3PNFQBHWBR7OABR7R7M.jpg?auth=4b752499cc2be1a6e179f81c444fa79e612e3d310f1e5f2c7aebc88a05a3ecef&smart=true&width=1200&height=662",
+        "publishedAt": "2026-09-24T23:38:11.000Z"
       },
       {
         "title": "Municipalidad de Lima pierde nuevo arbitraje contra Rutas de Lima: el caso que se revisó",
@@ -143,7 +111,39 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/municipalidad-de-lima-pierde-nuevo-arbitraje-contra-rutas-de-lima-el-caso-que-se-reviso-noticia/",
         "image": "https://gestion.pe/resizer/v2/3Q72XQCSZBB5HBRQJ7APNSSCCQ.jpg?auth=8e9efb6f1f35951256d0d4889987b3b257ea7b9f6f9619568a278a23ab8be543&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-24T19:15:13.000Z"
+        "publishedAt": "2026-09-24T23:18:05.000Z"
+      },
+      {
+        "title": "Hay 1,700 puntos críticos por El Niño, pero el Gobierno no intervendrá en todos: el plan",
+        "summary": "Marco Vinelli, titular del Midagri: hay 1,700 puntos críticos por El Niño pero el Gobierno no intervendrá en todos, ¿qué harán? El ministro sostuvo que las lluvias continuarán durante las próximas semanas, aunque la magnitud final del evento dependerá de la evolución de las condiciones climáticas.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/peru/midagri-hay-1700-puntos-criticos-por-el-nino-pero-no-intervendra-en-todos-que-hara-el-gobierno-noticia/",
+        "image": "https://gestion.pe/resizer/v2/MPVIBN2RSBDUNCNUN7TDQJ6NDM.jpg?auth=5a05f56980ca759d8f296e8d3ebac43ca6cafd324c86cbe7256e2652b1c9d6a1&smart=true&width=1203&height=621",
+        "publishedAt": "2026-09-24T23:15:43.000Z"
+      },
+      {
+        "title": "BCRP presenta moneda por el bicentenario del Ministerio de Justicia: sus características",
+        "summary": "El Banco Central de Reserva del Perú (BCRP) puso hoy en circulación una moneda de plata alusiva al bicentenario del Ministerio de Justicia y Derechos Humanos.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/peru/bcrp-emite-moneda-alusiva-al-bicentenario-del-ministerio-de-justicia-y-derechos-humanos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/247LU4TPPJDMTBNKNC3VUP6JME.png?auth=6750fedb94fa4535be1f025e76ba945c9c3301f677ad448a70f3c4c891fd330e&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-09-24T23:09:02.000Z"
+      },
+      {
+        "title": "FlixBus inicia con dos buses y negocia nuevas rutas en Perú: ¿hasta dónde busca crecer?",
+        "summary": "FlixBus inicia operaciones en Perú con dos buses y negocia nuevas rutas con Grupo Polo y otros socios para ampliar su presencia en el transporte interprovincial.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/flixbus-aterriza-en-peru-con-dos-buses-que-sigue-para-la-marca-de-los-pasajes-dinamicos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/6ZYHHBRNKNEOBBOGNEDLN3NWB4.jpeg?auth=0a85df458997dc068b5ca0bf35120c01b410a76c5beb4995b2e07e1ba1724c9f&smart=true&width=1080&height=720",
+        "publishedAt": "2026-09-24T23:03:52.000Z"
+      },
+      {
+        "title": "Sobrecostos logísticos: ¿en qué tramos de la operación se está yendo el margen?",
+        "summary": "La logística puede consumir una parte importante del margen de una empresa sin que el sobrecosto aparezca necesariamente en una sola factura. El transporte, por ejemplo, suele ser el componente más visible, pero detrás de este existen gastos asociados al inventario, almacenamiento, preparación de pedidos, distribución,",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/sobrecostos-logisticos-en-que-puntos-de-la-operacion-se-esta-yendo-el-margen-noticia/",
+        "image": "https://gestion.pe/resizer/v2/53MWIQYYQNG5HEO6AR4CURXHKM.jpg?auth=53a27ba94dbcf0af78e7263befb547466fda0004535b92051440f124316ba3b6&smart=true&width=1200&height=805",
+        "publishedAt": "2026-09-24T22:36:40.000Z"
       }
     ],
     "sociedad": [
@@ -288,14 +288,6 @@
         "publishedAt": "2026-09-21T18:26:00.000Z"
       },
       {
-        "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - Forbes Perú",
-        "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; Forbes Perú",
-        "source": "Forbes Perú",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnR2OFJqcnVKWEVnZF9Fc1FFQ1AxY3lYbTFYQnh2WkJZMEljS2I4UHozWHN5eTNXVXkwSV9WS0U2WDdCenNoMGVLUzRpMEZXcnIzRVpJSWloS295VGJzNVZtT3h6akN0b3EyVDdYVUwtc05SR0Z6WWE0MjZKUnd3TDFnUWx3aEJwbHRYUmgxNHJseERsVE8tdTg0WnJrT1hMMEFER0h6WVp1ekd1V2JWLTNPUQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-25T12:02:15.000Z"
-      },
-      {
         "title": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras - El Comercio Perú",
         "summary": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras &nbsp;&nbsp; El Comercio Perú",
         "source": "El Comercio Perú",
@@ -342,9 +334,25 @@
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbEhKWkVPQl9UdVJLZU84ck9vZG5KUTljSXlEU185RTdhSG45aWRkR1FqWWMzcEYxdUpyNWVlWGhoVVpXaWx6Ri1RazAwWVNzcGZKNGlmSW1tUjA1ekpHVXRKelY2bEpFUG5PVWptaDRQd3RCNHF1czlMQlNZMVIxYnVxb0VMVDlIbGlRYXlnSlZKd2J6eUZLNDRwVnM1dk9zYWdPRmk3M2I0b05rUTJSeUl1X3YxSmtGX2lyS2JzczVudGdGWEl1ckd0NWNWM1Y2bHp1LUVFN3BEc3hiRDJYM2QwemZsRC12d19BddIBhwJBVV95cUxNOWY3N1p1a1Y2dTNlMFpSM1ZOa3hhN3ZPd09jZnYzOHB5SGg1NjdGOW9Oc0l2aUpuM2RiSkxRT3NaQUZNS1V1WnhDNnUzdDBfX3BUMDRaZUpBUW9FVG4xRW1kSUh3b3BXWGZDbXNCaHd2UUNyUzJ2SkpndjE3ekJtYXBnZXMzSEpUc0VHY0xFZDFxQkdsdVZOLUdWTGJmWXVHZDR5dk9pZGhlZXNuZDZTdXFhbEpGejM1RnVSZjl2V3lnWVJZX0JfbGo1ZzFhRndXWi0xM2xkWFdMS09qQTc3MlNyTVI2WGgzTmxzbEl3MnMzdkU1STRDcUZQUnRDYzhOdEF4d0N5WQ?oc=5",
         "image": "",
         "publishedAt": "2026-06-10T07:00:00.000Z"
+      },
+      {
+        "title": "Innovadores peruanos podrán participar en competencia internacional de invenciones - Agencia Andina",
+        "summary": "Innovadores peruanos podrán participar en competencia internacional de invenciones &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
+        "image": "",
+        "publishedAt": "2026-05-29T07:00:00.000Z"
       }
     ],
     "ia": [
+      {
+        "title": "Cumbre Perú Sostenible 2026: la inteligencia artificial redefine las habilidades que necesitará el trabajo - Mercado Negro",
+        "summary": "Cumbre Perú Sostenible 2026: la inteligencia artificial redefine las habilidades que necesitará el trabajo &nbsp;&nbsp; Mercado Negro",
+        "source": "Mercado Negro",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMmY5UmVoQlRiVFZ0cDRQcEh1ZkpySWs5cXBRbmFLQTROWDNRa2QtS0tEdnVXc0V6NENLY2NzSDBtU2xZeFp1bm82anAwTFg4OEFZTGoyQ1hrRGpjc3lfbmN1SG5fS0VzbzlYN0NMWGI3ZnpqVF91N1N6ak13bzdGYzBjNENSaDczMkhURnJBMjRmdFE2SWc?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-24T21:49:16.000Z"
+      },
       {
         "title": "Inteligencia artificial transforma la contabilidad: estas tareas ya pueden automatizarse - La República",
         "summary": "Inteligencia artificial transforma la contabilidad: estas tareas ya pueden automatizarse &nbsp;&nbsp; La República",
@@ -368,14 +376,6 @@
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbWJDZUdnY3VWZWxFNlc4V1ZDYVVrR1hWaUhHWEFmZlk4Ym10dDlTa0g3UTRWRENGUnA5SU1GaDR2amROZ3p0SmtlTWZrRndXeDNnMGZIRFphTDBIQTB3R2JZLURoT0FONXF4aDJCSU5udHNHT2lQbkZfbXE0SlBHTkVFN2NrQlFUcjlmSGhXRGkzODFZbTJpbTVidVBGOFQzT1BRY1U4VVdMUmQwY1o2RG5qdjltOWlUQ3F5NDVRRUMtYTljZS1TdVB3?oc=5",
         "image": "",
         "publishedAt": "2026-09-19T12:37:00.000Z"
-      },
-      {
-        "title": "Servicios en Perú alistan cambio por la IA: reclamos, pagos y trámites podrán resolverse en segundos - Infobae",
-        "summary": "Servicios en Perú alistan cambio por la IA: reclamos, pagos y trámites podrán resolverse en segundos &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcXNMNU91ZVRjV0EtakxXbUR2MnVoUjFDdGpXTDlydElxQXowSEZDNTRWNUZUUW9GZGdNMEVTVHZ1Z3I0SXUtVUtvLXBiVWFxLUFkMDV0Rl9DXzN0WTJvdlBySGdlNXdFS28wTzQ2eVRkdkhQaFI1Rk9vMVFOdGFQdHQ2aFBNcC1FY3lOOGxHWWF0NGplWC1KaF9ITHBJTDJESHVLYkZqZ3lZWmlxYWxsMU40bk1BaG1FRTFiTk4zWEV6d0ZYOUoyS1JONV9TS2hwc1c5Qnd30gHwAUFVX3lxTE9kdXhKY05MMFJfVzB3UC1FY3hmTTNSa3U3UVJTMEh6SDRYWHU4ekJJdFJHWnd0RE5wN0Z5cmxmd0MwUkN2aGhzZVRkd0ozQkRIYkt1TnVsMTNveUFMaF9zbUlFaFZ6UmlhbUdQd2plTlQ5QXV1LUxIbzJxamxXSWVqTVJQbjB0cDl1WWxEN0Q2R01fUTFSd2FNWXVzeTg4aUNZOEc5OHlNTTVSb3J4LTlKcDJMQnE1WE9lNnluQzZ5NU5RN0UyU0l6cUZtZVU2RzFVdHBrMUZqWWFOS204Q3NKUTBIN3RZbXl5alZCUG9VNA?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-19T02:18:00.000Z"
       },
       {
         "title": "La razón por la que Perú no debería copiar el freno tecnológico que discuten las grandes potencias de la inteligencia artificial - Infobae",
@@ -407,7 +407,7 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUG42UWI5NzRXRUVGRXhWanlwYUlPTDBVUV9kLTZqT1A3Y2tsRFJpcFByMUZ1aVJOS25iY3FMSzRwVnptejZHak1EdW9veE52ZzZSalhDUU9qMF9ZRk9NX0VONklqc3I3V0x4UnNjaGNBR3lSbFp3NEM5eGdKX0NyZGxSRl9QS3JBRnhXYnludGFzMnYxelg4M2U2QVhtQUJ6bmFINUNZTGpWeS1LUHBpaF8xSXZCdDItTDVRQtIB1wFBVV95cUxPM3cxcDFPWDZacVg0SFlsUGM2Z0p1VnB0eWpxc3gtOUVvTUc1UEpMVzU5SG45X255V1FLa3RRQ1JSUHBjcG1OX042TmpYc0FoSzdYdDRQNFdJcDFUZGdZYkc0amd5ZmlMRU1vdXVKQy1tNENXdUdJMWNFVE9UaGF3ZDhxaFNjS3NiZjN0UjZ4NVpuM2steGRvTUxtajUxNEUxQXVjSk05emdTUnVEYnd5bHpKVlhOX3VuRi1Pc285eDZNUENDa2RndkhiYlhhV0toY1cwSU85bw?oc=5",
         "image": "",
-        "publishedAt": "2026-09-16T23:37:00.000Z"
+        "publishedAt": "2026-09-16T07:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -460,9 +460,9 @@
         "publishedAt": "2026-08-15T07:00:00.000Z"
       },
       {
-        "title": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña - tvazteca.com",
-        "summary": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña &nbsp;&nbsp; tvazteca.com",
-        "source": "tvazteca.com",
+        "title": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña - TV Azteca",
+        "summary": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña &nbsp;&nbsp; TV Azteca",
+        "source": "TV Azteca",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUtQOXdxcVJBQ3VUS2QwTjRrWFYxMmRqSFk4dDVBZXNoTWZrNGwyTUtpUXdHTVl2UWlGNEx1YWRycWdjdWFZbDFJWFU1TGo4bGRVZWt3bkNvSnpXaWVSaGFhbkpYWkFFcFJacEJVT2R2U0hDR1huVjBua2U4aWhzdVoySUxIZ3FId0pfREhoajB4M1pPaXhfaTl1U3ZESEJZZXFn0gGwAUFVX3lxTE5vUUtIUGJEWFlSTlpGNktFT1lSOWJLSWJ3cEg5ZWEyR1VCVTJnal9hSDNWVVBkeDJmR1FYaWlNSHFjQkVPQjlDMUJtQVNXVFlUWi12ZmM4NWo1MFVfWE9RRDd5dlJzWXg4UFkxV2d0eGxMakZrMThuM2JhTGs4dVZ6Y2JPQ21pRGNtaV81TmlZY2pRT1p2WWlmSm9HcXEwUEpuV1pnODd0NWRGNW5xR2Nn?oc=5",
         "image": "",
         "publishedAt": "2026-08-15T07:00:00.000Z"
@@ -477,6 +477,14 @@
       }
     ],
     "farandula": [
+      {
+        "title": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” - Infobae",
+        "summary": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZFRYakI4T1o2cXhXN2pKSzc2bXBiLVlUZ1R1VFAxSWtDRW10LUl1TnNZaWJLRXpXSlBEZmJzN2lZdGF1SG5NUDBWQXUzZXp3VTlnbXlTODd1clZtRXZQUENXWlRydS0ydkhyWFg3SHJScVdKZ1VlU1l2cWpBM2RJcndGYjNWRVJNblpCa29EOHpXRGlnRVVCb0JOd0s4allqdVVjS0FEMGZXU2c5OXB4S214NUhIb1FFRWlaNVc3OHA0Uk0xcmpVbGFkdW1Kb1laTXZTSzZNY0J1WkFNM3BCRkRqdVNsV185WEdkSGtmMjZhLU00eW9mcExBdkvSAZcCQVVfeXFMTUlaaHZOVlluQ2hONUZIY1Y0bnBXNDVmN2tYNXFvbjNBVFBSR3RRUXNYOWVJdU9oQ0dHbUExc3FwTkEzWFM4UkVMTmFjX1dRdVR4VFRncThQWXFFV2pNUmhGZDBFRHZyUnZXcDVBWnhneG9fSklpMDFScE9nZlNjMzQ4aFI4MnNBTmtiTnM4SkhzRGFWWVZSai1IYnV4QkFsU1FSUGZXU1V4SGNlSjYtNUY1UFNiSXVDWEtEV3VjaXljZDZkdFEyMFJhenFNaXB3VVhRcTNEWTJzU2prTm1MMzkzOTdPT3laQV9sNkItOGRoWFo2SXZzRmZNTU9UYjhuYjd0VnZWTVY5WmNoRktEczI5b3dKbGVr?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-09T07:00:00.000Z"
+      },
       {
         "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
         "summary": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula &nbsp;&nbsp; Infobae",
@@ -526,14 +534,6 @@
         "publishedAt": "2026-08-04T07:00:00.000Z"
       },
       {
-        "title": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión - Infobae",
-        "summary": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFpHYlBfWE5DYjhNXzVvdjhzWEJUU3NRYUxCei13QUhSajlnTWtaNmxCUmRZeFJsU0FQZ2Uxa0hkMHNCanNqd1pPUDlveFZGUXlvU0MyblFibDBMY1pZVHZZczdZNlFpZ0dVU2hwUlJrQjdOY3FMZHloNXY2cXhCVVR4YjVLR1B5NEFhOGJlY2NKZnF2dWpfMWNUYTdGd2U1MWt1RWNpVUw1NXdWWE1SN0dSMm9ldWNqZUM2Z1930gHYAUFVX3lxTE9YYW5mSTRNYXNfWFBBZi0tX1h0S3A1b09TY09zaVFmcWdLTllzMHhtTzRQOHNwaEFOT1ZycS1fNklDamM2Tm4zbGZ0Uk5DTldIMDAxUlhGZVNmV2RvZXdVRERiTGFxV0Jhclc1bERDd3ItWU9yY1dpQjE2d0NnTVZzVDhBTjV4ellKTW5HOUxBWUtOLVNnVGs3Wi1ibF9iNVNMWFlzajFjSzhUSjRKdXBZQUdlbTh0QklnMUxNNFFlVXpTYi1jZXE2Z2dFcklfX2U3Y0VnTUM4Vg?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-30T07:00:00.000Z"
-      },
-      {
         "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - Trome.com",
         "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
@@ -543,6 +543,14 @@
       }
     ],
     "cultura": [
+      {
+        "title": "Agenda cultural en Lima 17 al 24 de setiembre: Robbie Williams, 'La Cabaña', 'La mujer de negro' y el Festival de la Luna se imponen - Infobae",
+        "summary": "Agenda cultural en Lima 17 al 24 de setiembre: Robbie Williams, 'La Cabaña', 'La mujer de negro' y el Festival de la Luna se imponen &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOajlpTHJUcnhPRlNzcnlPYV9qbVJJR3pUZ19sN3Z4bWJtZ2xHTkhaWjZPVi14cjE3NHRCQ1ZWeHFWT0w4cnJCbzNwOXFnUWNIOTc5aWpUSy1xdHBZZWVyZzltM1lRTE1ia1kxNVFfRDVDUnFYSGptSjQ1bTdPQ0R3WE15Z1hILVlFV0txS05BaW04dUFqVk05YkVBdmNXTm5xcDFucGk3M29jaF9yUnFxa3cwY0RPUldLaEdxdnNmMVZzR3AxZ2tDU1FPU3o3T3hTcFgxRjVXc1AtQzB6ZWhSUG5jWjAtNng4N0lnQV9JNlZGNlhOcjB5TTlR0gGUAkFVX3lxTE5HY25QVmNINl9QU3c0WHdkTEw5ZWx4SWREOXJ1d3o3N3lORVV0aHZUbnl5X3ZvWEFxbW0ya0tVcmFFejlmWld0NnQ5Qm0xMXE2ckNBVE5FY1VWQ1REdWxlVEtuU0hyNFF1aXIxcnNsa0dfZm9yejM1cXVmcWpYT2hxOTNGeEdGcy1XTThVc1JQdGtFQ0pscHJpSWFqYVFCeVpIbmhodGk1eGtaaGJUODlwTnFMMVhEOHlhU1gzZXgyVF9Wbm10dkxZTERIZXVobnJielZXY3dWVGNoeUh0VnozRDJ0dDdNM0FlOHpYQnhqcG9qN3hDQlB1blN1MFczQ2piQXl2bnI5aDQxYmhFcDIxQTFZZw?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-18T06:28:37.000Z"
+      },
       {
         "title": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales - La República",
         "summary": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales &nbsp;&nbsp; La República",
@@ -598,14 +606,6 @@
         "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTTZDSUpUY3djZ1R3U0lOUzRLVVV6OGFpNGZvRm83N0dTV2VlclhHT3U5YlVzX1NLMUFzdUx4cHZrX2FhdGhDeGtYOWZwZ1VyUnZiZEIxRUw5NmhZUG93WHZJNUFHUzRTMHBtVTRQUE91OFprb1NlMXhsbkF5ZHZINWxweFVsVzRJZlpUcFI2Mks5andzSTgwNVhUZXJsaVl5bUhrMXFLX0JMWDgtNEtWbW92YXVBS19kQ1dYS1hqSEt4YVpnaFNqeFVHQzhqbVBIZnFnUEcyOXdqUnFZNllOZG5aVjlsbUtlV21JZ21aTjRkNlNyOEYwZnVhbnhSdDNadVRZbUNvYjPSAaMCQVVfeXFMT0lVVzhVeG9mNGZBb2diQW9Bd1ItVlppWDFzMmt4eDAyY1ZYMjVQUWpzN2hzMGpfR3RqRGhVS3NGZm04ZlBnaGxsUXozY1o1ZlFkWjl3aElHZjAyaWo0SDR1VU5SM09KSm1HWkRTeDlSa1Z5bGVpZS0yN0s2cVYxRFBvUjRwZHV1eHFnbUx0RlRaLUdSU0JPWmdSY0V2SXE0QUpFbGlCa3JtOE0tOHNCMWlsV19wTi1ienIyLTdubnJCUXQ0T2xkSTluVENhVENBeEcwZVM4NlZjS2IwS3NhbTRNQ3d0cFlLd3JWakw2Wl9YbTBkcGowYkVYU2NKbVl4eXdVa2FNZ3FlVVNpejg4T1FQaUxmZlR2Rk9idk9RLVV4cmtB?oc=5",
         "image": "",
         "publishedAt": "2026-08-21T07:00:00.000Z"
-      },
-      {
-        "title": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto - Blog Joinnus",
-        "summary": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto &nbsp;&nbsp; Blog Joinnus",
-        "source": "Blog Joinnus",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQempKSjE1ZEJaSUlkTkxKb2ZEb01WelVBMUZpdUMxM1FSR3VlUlZZalFqUnZJMnhWcFc5UUdoZVFMOG1TbWpzc1BqTFUwbTl6MEhWR2NpSW95RmhRQ2tFSFM2NXZsQjFNUXVsY2k5dS1HRUlzU2pJMEN2SGMtSXlBOFhCbVBSVExUWGxFWVV1dTJCbFdtY0Npdmk4UUlFUkxXQi1QRlFCdC1VWG9jR2hxS2xfbGRGb0tGMGl3MzFrNkdvYjVp?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-19T07:00:00.000Z"
       }
     ]
   },
