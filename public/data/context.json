@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T19:49:28.424Z",
+  "generatedAt": "2026-09-26T22:46:39.211Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -22,6 +22,22 @@
         "url": "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
         "image": "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
         "publishedAt": "2026-09-01T00:00:00.000Z"
+      },
+      {
+        "title": "Comisión de Ética de la Cámara de Diputados evalúa este lunes denuncias contra Julián Pérez y Catherin Palomino",
+        "summary": "La Comisión de Ética Parlamentaria de la Cámara de Diputados sesionará este lunes 28 de setiembre para abordar cuatro puntos incluidos en su agenda.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/comision-de-etica-de-la-camara-de-diputados-evalua-este-lunes-denuncias-contra-julian-perez-y-catherin-palomino-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/I4QEIWK2TJCYFJC57OOHP7YHO4.jpg?auth=36d39936f232b9f70cbbb9100f82667382f4910df2019772cc9933f6d7ca5d9c&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-26T21:57:17.000Z"
+      },
+      {
+        "title": "Patricia Juárez afirma que se disculpó con López Aliaga por expresiones de Samuel Daza en debate",
+        "summary": "La senadora y vocera de Fuerza Popular, Patricia Juárez, confirmó que se comunicó con Rafael López Aliaga para ofrecerle disculpas por las expresiones de Samuel Daza durante el debate municipal.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/patricia-juarez-afirma-que-se-disculpo-con-lopez-aliaga-por-expresiones-de-samuel-daza-en-debate-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/HB6DXYRE6BH4DJBITR2KPNTOEA.jpg?auth=38056546a4e2e8b8f89786d3d00aede4efcf27c8e27959181fa6237d4c59c982&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-26T20:19:46.000Z"
       },
       {
         "title": "Elecciones Regionales y Municipales 2026:candidaturas de los movimientos regionales caen 83% desde el 2022 y partidos políticos dominan el tablero",
@@ -62,25 +78,25 @@
         "url": "https://elcomercio.pe/politica/jefe-de-la-anc-se-ha-dispuesto-una-investigacion-a-las-mesas-de-partes-de-juzgados-constitucionales-y-comerciales-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/RIE3KVIDVVCUFFKRSWNEFQJBD4.jpg?auth=c3f9dd8d9aa093d92ceefe3447577ee4a644a690611f04c0e4d92659d9e025b5&smart=true&width=1600&height=1067",
         "publishedAt": "2026-09-26T17:21:14.000Z"
-      },
-      {
-        "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
-        "summary": "Fuerza Popular | Desde que empezó a participar en elecciones subnacionales, el fujimorismo redujo su oferta electoral en más de la mitad.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/en-16-anos-fuerza-popular-solo-ha-ganado-3-gobiernos-regionales-y-no-ha-colocado-un-solo-alcalde-en-lima-metropolitana-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/3ZQHU5EOGNH33LU7J6EN3J4QSE.jpeg?auth=05b2ba86279d4f5e8c5af8ea35780dce6caca06e15b2546119eb9e3be8b10463&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-09-26T16:53:00.000Z"
-      },
-      {
-        "title": "Vladimir Cerrón: PJ ordenó a la fiscalía cumplir con presentar acusación en caso “Antalsis”",
-        "summary": "El Poder Judicial rechazo el recurso de Vladimir Cerrón para evadir pago de reparación en el caso “Antalsis” y ahora deberá afrontar el proceso penal y civil.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/el-poder-judicial-rechazo-el-recurso-de-vladimir-cerron-para-evadir-pago-de-reparacion-en-el-caso-antalsis-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/JI4XSKKRYZARZHBPYLCDGB3DCY.jpg?auth=148f88d963283748f298049fda3751e22939054e92bfc3818aa5bac56a44657f&smart=true&width=1200&height=764",
-        "publishedAt": "2026-09-26T16:40:00.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "¿Vecinos morosos? Hasta dónde puede llegar la junta de propietarios si quiere publicar lista",
+        "summary": "¿La junta puede publicar el nombre de un vecino que debe mantenimiento? Conozca qué datos puede revelar, dónde puede hacerlo y cuáles son los límites.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/vecinos-morosos-hasta-donde-puede-llegar-la-junta-de-propietarios-si-quiere-publicar-lista-noticia/",
+        "image": "https://gestion.pe/resizer/v2/BSCENK3GURE7JI26IWSZG4QV3A.jpeg?auth=d4138b8d883e9562d4f3d2c8796a93723c1072e902b109765f6338a992edd1b7&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-09-26T20:29:00.000Z"
+      },
+      {
+        "title": "Negocios en playas: permisos que se deben tener en cuenta antes de invertir",
+        "summary": "La instalación y operación de negocios en zonas de playa exige una serie de permisos y evaluaciones que van más allá de una licencia municipal de funcionamiento. En estos espacios, como por ejemplo la Costa Verde, donde se encuentran espacios diversos como áreas públicas, acantilados, franjas ribereñas y actividades co",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/negocios-en-playas-permisos-que-se-deben-tener-en-cuenta-antes-de-invertir-y-emprender-noticia/",
+        "image": "https://gestion.pe/resizer/v2/J4TNKLECRZHZ3CHQ5W4I4HIKAQ.jpg?auth=a45beee0e6f2b9298510a829f15c68161186caaa26449f8e32d2bcffbf32b304&smart=true&width=3824&height=2868",
+        "publishedAt": "2026-09-26T19:47:00.000Z"
+      },
       {
         "title": "Si un trabajador se toma más días de vacaciones que los acordados, ¿puede ser despedido?",
         "summary": "Conozca lo que establece la normativa laboral peruana respecto a las ausencias injustificadas de un trabajador.",
@@ -106,14 +122,6 @@
         "publishedAt": "2026-09-26T16:52:00.000Z"
       },
       {
-        "title": "Negocios en playas: permisos que se deben tener en cuenta antes de invertir",
-        "summary": "La instalación y operación de negocios en zonas de playa exige una serie de permisos y evaluaciones que van más allá de una licencia municipal de funcionamiento. En estos espacios, como por ejemplo la Costa Verde, donde se encuentran espacios diversos como áreas públicas, acantilados, franjas ribereñas y actividades co",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/negocios-en-playas-permisos-que-se-deben-tener-en-cuenta-antes-de-invertir-y-emprender-noticia/",
-        "image": "https://gestion.pe/resizer/v2/J4TNKLECRZHZ3CHQ5W4I4HIKAQ.jpg?auth=a45beee0e6f2b9298510a829f15c68161186caaa26449f8e32d2bcffbf32b304&smart=true&width=3824&height=2868",
-        "publishedAt": "2026-09-26T15:46:33.000Z"
-      },
-      {
         "title": "SBS declara intervención de cooperativa, ¿de cuál se trata?",
         "summary": "Mediante la Resolución SBS Nº 02356-2026, la Superintendencia de Banca, Seguros y AFP declaró el sometimiento a régimen de intervención de la Cooperativa de Ahorro y Crédito Financoop Ltda., debido a que incurrió en la causal de pérdida total del capital social y de la reserva cooperativa, luego de registrar un patrimo",
         "source": "Gestión",
@@ -136,14 +144,6 @@
         "url": "https://gestion.pe/economia/empresas/san-fernando-uno-de-cada-diez-peruanos-come-pollo-dos-veces-por-semana-y-los-trozados-ganan-terreno-noticia/",
         "image": "https://gestion.pe/resizer/v2/VOK6SFUQ5ZD3RDCU3QDT4YSSME.jpg?auth=7ec056cf94f0b91221af7217c170afab6992811c9b9260a79b68c683fc2b20b4&smart=true&width=1376&height=768",
         "publishedAt": "2026-09-26T13:33:56.000Z"
-      },
-      {
-        "title": "Tipo de cambio al alza: ¿En cuánto cerró el dólar la semana?",
-        "summary": "El viernes 25 de septiembre, el dólar en Perú comenzó el día con un incremento, en medio de expectativas de una política monetaria más restrictiva de la Reserva Federal de Estados Unidos.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-viernes-25-de-septiembre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
-        "image": "https://gestion.pe/resizer/v2/R4OWR7373NG2RLEDCUOUPCTWZQ.jpg?auth=baa66ce1fe4440d75175ef4673aa9c781990a7c0b57949119b157f0d33544ec0&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-26T13:09:04.000Z"
       }
     ],
     "sociedad": [
@@ -180,9 +180,9 @@
         "publishedAt": "2026-09-04T07:00:00.000Z"
       },
       {
-        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - El Peruano",
-        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
+        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - elperuano.pe",
+        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; elperuano.pe",
+        "source": "elperuano.pe",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-03T07:00:00.000Z"
@@ -220,6 +220,14 @@
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRFB6MjRENFlOZ3hhX1lpeUhJMGdieVd0ZnBtWTZreThaamJuQXdDQVRPU0V3SVdvTExEaGtGS1c2R1NISzZRRk03U2k3Ymk2TVpLb3dwU0JiMElTYXFiekhNTmVkYzcxeWFhWTN6dlpkS2hNaXRsLXRVWFZxM3JXVjdtV2hhN25oV3pwNEpQalY2bWFWUEtGa1ZBVzFVOUtXVDlsYkRBOXdXdFJQX3RobWl1OGNya1poSEUzS293T1daczgxOEN3d2JB?oc=5",
         "image": "",
         "publishedAt": "2026-09-22T02:59:30.000Z"
+      },
+      {
+        "title": "De emprendimiento a empresa: claves para crecer y consolidarse - hbanoticias.pe",
+        "summary": "De emprendimiento a empresa: claves para crecer y consolidarse &nbsp;&nbsp; hbanoticias.pe",
+        "source": "hbanoticias.pe",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcXJZT1o1eXpYeHR5OHlNRnYyOHMtUW9SVVVvNXVmUUxkdUxld0lZRi1QV2wzc19VdWdHa09WRG1kY3VFYVIxT3o3VlBQOHQ0b0VncUZZZU94ZDdsaXJDOERjTlE3UnVHQnN6RnVBRVJ4YmZEeUktS1NkaERQS1pBQTRBZUxOQlFMenhVbHpR?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-19T01:50:47.000Z"
       },
       {
         "title": "El 44,9% de peruanos no emprende por miedo al fracaso: solo dos de cada 10 planean abrir un negocio en los próximos tres años - Infobae",
@@ -268,14 +276,6 @@
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
         "image": "",
         "publishedAt": "2026-06-17T07:00:00.000Z"
-      },
-      {
-        "title": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión - Infobae",
-        "summary": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-10T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -286,6 +286,14 @@
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdUlfZ2hfaXNHTGtPY0RiYTFSLU9hOGp6UFpJb1JmLTBoLUlISTFoNlFDN1Vpc2pfVFhfNFpveDV3WVE3Q2lpRmZfdXZZRmVQRkhqYkw2OW9mMXRCWGJacjAzczhkOTVtc083b0djalZpUnNkOFdVdExpb3NkNjdrMDlBNFNkMDZnVEotZzM5eHZlM251TE5VbE9YVWFkSGJxVkhDcHhLaVpjbkdCc205bHRyVjFmMkNuNEhVOGlOVU5PTVZmeU5Dc09uRmxpMUpMbzdvVVNjaE9GdmpVczdfVUZpVDc0c01u?oc=5",
         "image": "",
         "publishedAt": "2026-09-21T18:26:00.000Z"
+      },
+      {
+        "title": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional - diariouno.pe",
+        "summary": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; diariouno.pe",
+        "source": "diariouno.pe",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjYxUUxNV1dqcXRBRzRyY1BNcm5UZE5abG00MVNLSWNWd2xkMVVhUkhTQVMyQ3U1dEFKeWdyTG5NX1hRRlJiTXJjRWppU2hmMnFKdXJkZHVKNW5GZWR4V1ZfZ2pBZW56T0d4Yk4zR3FJSHZEU1hYblNoZm1VQXFUYUN4RFpoRTloVF84OEt0VEtNcjBwM3JjemdQTnQtQ1dpa2tDZ0haTjg3OHNrNmtsMXdaaVBwaFpfUWhRbS04UWRFRFo5UDF2UjZGNGd4WFEwYkJLWW5GUzE?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-20T02:36:47.000Z"
       },
       {
         "title": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras - El Comercio Perú",
@@ -304,9 +312,9 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
-        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - Revista Minería & Energía",
-        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; Revista Minería & Energía",
-        "source": "Revista Minería & Energía",
+        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - mineriaenergia.com",
+        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; mineriaenergia.com",
+        "source": "mineriaenergia.com",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNGRFXzc5Skp6cnFkd0Zfbmt3NVpwcC04eXJaekp6Z094a096R013M29yQ3hTUlFzRFF6eTE5SUZ0VHhLQjVEdTFIRlIyUERGM09nTzVZZHNXdmFVR3RITDF3X2RTeUdNb3FnT2otTUlBeGh0TUtKQWFzcURMY1JCMEhSdzM3cnpuUnBrUkh2TEpJOWZOMGY3bkkzTmE3RlY2YjJ3S0dZdVRqdFRBcDN3RFl4blQxeGVuTnM5WHVDRjdmUG1JZExSam9hLU8?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
@@ -334,14 +342,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
         "image": "",
         "publishedAt": "2026-05-29T07:00:00.000Z"
-      },
-      {
-        "title": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación - Tu Diario Huánuco",
-        "summary": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación &nbsp;&nbsp; Tu Diario Huánuco",
-        "source": "Tu Diario Huánuco",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaGpsT3FrekhQWTg2UDZlY1JyaUJzQWI4UDEyRjZGUDY4ZXRtQjBUUHlmdmtrSW8wN29HalpYQWswZFA1OHg0SVAyRldYdFR3bUk1V0xwRHRWc1ExQnNXN0VzejE0eHFacXpMd1RnQ2hjR0ktQU1CeGZrZm1HMUUyci0tdW1xWnpyeWl3NHRua0pSRXE2azVCNEk4aTg4VDN4czhsZXV1T1F3THByYkJyajF5blp0cjlKanJ6blRGNEsxS3dOMnFYMFAyZXRqbEJyRDhVX2x5WWxadw?oc=5",
-        "image": "",
-        "publishedAt": "2026-05-05T07:00:00.000Z"
       }
     ],
     "ia": [
@@ -386,9 +386,9 @@
         "publishedAt": "2026-09-19T12:37:00.000Z"
       },
       {
-        "title": "Perú y la ENIA 2026-2030: De la digitalización al ‘Gobierno Inteligente’ en América Latina - Portal ERP",
-        "summary": "Perú y la ENIA 2026-2030: De la digitalización al ‘Gobierno Inteligente’ en América Latina &nbsp;&nbsp; Portal ERP",
-        "source": "Portal ERP",
+        "title": "Perú y la ENIA 2026-2030: De la digitalización al ‘Gobierno Inteligente’ en América Latina - portalerp.com",
+        "summary": "Perú y la ENIA 2026-2030: De la digitalización al ‘Gobierno Inteligente’ en América Latina &nbsp;&nbsp; portalerp.com",
+        "source": "portalerp.com",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ2Rud0dCQzBMb0x2dXpNak80RjFMa3huY3AtVFJ1b3l1RVI2MUZxYnR2V0h0THNmTTBBdmUxUkFIaTFtUWQ5LWh3Mjl4SUJURjBIY011M3pwNURhZ1YySmpCeUtfV0o0aXd5VGtGNV91VWdpZ1NDaHdDeWpXVFR0RnRlMkJ5TzNNb1RqWUNIQi1DZ01ka1E2WXRlUmNNMGRhNWZGSmpYX29reEpBUUlxNnUzNWUxWVBFSmZSRQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-18T01:51:25.000Z"
@@ -460,9 +460,9 @@
         "publishedAt": "2026-08-15T07:00:00.000Z"
       },
       {
-        "title": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña - tvazteca.com",
-        "summary": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña &nbsp;&nbsp; tvazteca.com",
-        "source": "tvazteca.com",
+        "title": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña - TV Azteca",
+        "summary": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña &nbsp;&nbsp; TV Azteca",
+        "source": "TV Azteca",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUtQOXdxcVJBQ3VUS2QwTjRrWFYxMmRqSFk4dDVBZXNoTWZrNGwyTUtpUXdHTVl2UWlGNEx1YWRycWdjdWFZbDFJWFU1TGo4bGRVZWt3bkNvSnpXaWVSaGFhbkpYWkFFcFJacEJVT2R2U0hDR1huVjBua2U4aWhzdVoySUxIZ3FId0pfREhoajB4M1pPaXhfaTl1U3ZESEJZZXFn0gGwAUFVX3lxTE5vUUtIUGJEWFlSTlpGNktFT1lSOWJLSWJ3cEg5ZWEyR1VCVTJnal9hSDNWVVBkeDJmR1FYaWlNSHFjQkVPQjlDMUJtQVNXVFlUWi12ZmM4NWo1MFVfWE9RRDd5dlJzWXg4UFkxV2d0eGxMakZrMThuM2JhTGs4dVZ6Y2JPQ21pRGNtaV81TmlZY2pRT1p2WWlmSm9HcXEwUEpuV1pnODd0NWRGNW5xR2Nn?oc=5",
         "image": "",
         "publishedAt": "2026-08-15T07:00:00.000Z"
@@ -526,18 +526,18 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
+        "title": "Christian Domínguez es condecorado en el Congreso junto a Cachay y Paul Michael: recibió diploma por su aporte a la cultura y entretenimiento - Infobae",
+        "summary": "Christian Domínguez es condecorado en el Congreso junto a Cachay y Paul Michael: recibió diploma por su aporte a la cultura y entretenimiento &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQN2IwQ21SMVZrT2VSbVN4QVdqd0prczd1SE1IcmN5djZ1NXp2cE9UTkNrd2o0X2Rwd1ZObW9qWUJzdFRiUGZ6R0tVakQ4V3g4QVVsNHp6VkdFTXJiTy1ubDlDSElzT3lMRVI5WWJHMGFXUzdiOTlWSlFzcl8tcm9PbGVJbERueHUxNnBJNlVfU0dUb21iTGtsM2dkZlphS3JTSGNROUh4M3JteW92ak5iWXNhOExJMGhjanh0al9GNi1RZG1MejNmODZKNG1EWWFMLXFRQkc0TkFLalRKN2RPVUl6ak0zY1RxZVdqdWdZWU01ZlZlRWtlakpxMUxTWktaMzY3clhhRUFwcW04QWfSAagCQVVfeXFMTldmWnBhODVBZ0lfd2tHSTB1N0JEX0JBQ2VuMjZjdHFsZ2dqTldwQ3FSMXFwb0YyZ2hlbUw2N2dDdGJBVUhUbFRwOWF0cEpsUnowaXppQmFjVGQ2RWtnd01SeFJpQks2bF92aG1RV2ZhOEpIN1l4X2Q2amZ5TERVdlV6Sm9LVktmcUw2TDkxdURkeUFOc3VGdVBWcEZDN2FIeHNPaDlyZGFoR1ZCVlRNdXc2YUd6WGQ4VGlBdG1IdkVJS3VNR1A2eGtNMVZYQzZIUEpCdXpPR0lIWGtqcGVOc3VwcnlMelhtdkxnUDJ1c19lY3RYVUR5NjA1Q3pYX1Q2SkNtQjd6cG1ablhFMjdabVkxcWU1WXZWQXcwZGEyQmhhRzRLUFB6bFQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-27T07:00:00.000Z"
+      },
+      {
         "title": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula - La República",
         "summary": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula &nbsp;&nbsp; La República",
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdkttUlMxUDlJSFM3dC1ZMUhLeDdZRDBsZGh3ZE53NnpMOWpCbG1nN1ltc1ZyV0JPbnloY0RSUW0yNU1nSFRiaWZwRXc0MVBBSWVPY2RhcVN4OGlLU20wQ1RaM1NIMHJfY0RVc0czWWdGTVh3azIwdTZVRldCZFdJYXJPNVE5QzNMeFA0RXEzRzAwRHNlT0NhMlZmTVdUemNlbTBzRGw1MEh5bjkwdENkQTFKcEtpNDk1bk01N1FNbW5xak12aGk4cWh0NFhydEtadG42RElFVEpuOUlaRFNfNmlGLTNENjBTMnd2TzN3OF9ZVFdmaktlZzROdXdEaExFbzVGRmpyN3R0d9IBjwJBVV95cUxNWkFhRzkzdkRBTF9aNHVTRXV2T3VBQTBiRFZQb0hoNktPYW1RclNIME90SHhYZ01Gazc1ZmZLWUxuUmhyWTJncVUyZ2o4bWVGS3ZJQS1FYVk4cVdLTm16TkwwWDVNTFpEV0lGb29aWTBNV2tMRVJDUU5HWmtzOTh1OW9SUnJGSW1GRFduU0F1TVBJdWQxYno4X1RETURES09iTTZjZ1pOVTNKQjk4NEV4Q2t0ZjhQUlk5VXdmYTNRbE81Qi1OUW8xMHE0bWt4d3FCZmdJV3d5NUVVaHdBdGRmSmFyNVRkb2FxaVJEdlcxbXJBd2kyQzhUbDl3QmpFNVBMREk2Q2VaLXNyMkU2czVj?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-26T07:00:00.000Z"
-      },
-      {
-        "title": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina - Infobae",
-        "summary": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOajFsLUtIcVlCbVlEeDJrZERUeklvOU1Hak5IRjdkWWRuTjhuR24zTnRkNDFONDRHelY2RG9QU2FobEYwdUQxRDRYX3N0QTFqenR3aU43NUJPRWlVUnExalVDUlVwZ0d0WFRud2dYNENFRHd6d0JPWTQ3WlNCM3pjNEJ0R0R5dGlwZVJ0Yk90MDNzWlZrZXYwbGd1ekN2NzkxdFB1dThxYjBLSDVBNF96d3VNYS1ZNHNwc21WMWhwSFdCamJtd3FwczY4V0lIcFZaLVHSAewBQVVfeXFMT29fdXdnLWEyMlBwSDlqZEVOT3ViRkhla192bHU0bnh1MzNoVGFMZkttSmlFOURhVmNUeVFqLXZoMXVUVHg2M3JZZXo2SjMxY2dCUGJrUWNMX2l6Zk9GVU9HVjZrUnhDMEpqRmp1bU1vM3lfbTZJZ0VJQnR6QnJZLWJPV081YnNhMXFqOEh0ZTVSMHM3RzkwNDlRSE5XMU4wMHJ0T0VzZU5ZNXdudENQNjQtM2FXM3BIS3RmWUY5SzMyUU5pQ1lEc1FldW1RWlM2cEt1NEtQRFdjNm8zcE8tdi1UeWVpY1NadHNnWTg?oc=5",
         "image": "",
         "publishedAt": "2026-07-26T07:00:00.000Z"
       }
