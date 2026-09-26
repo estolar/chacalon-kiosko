@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T07:37:28.819Z",
+  "generatedAt": "2026-09-26T13:02:32.536Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,20 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
+        "title": "Vladimir Cerrón: PJ ordenó a la fiscalía cumplir con presentar acusación en caso “Antalsis”",
+        "summary": "El Poder Judicial rechazo el recurso de Vladimir Cerrón para evadir pago de reparación en el caso “Antalsis” y ahora deberá afrontar el proceso penal y civil.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/el-poder-judicial-rechazo-el-recurso-de-vladimir-cerron-para-evadir-pago-de-reparacion-en-el-caso-antalsis-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/JI4XSKKRYZARZHBPYLCDGB3DCY.jpg?auth=148f88d963283748f298049fda3751e22939054e92bfc3818aa5bac56a44657f&smart=true&width=1200&height=764",
+        "publishedAt": "2026-09-26T12:06:00.000Z"
+      },
+      {
         "title": "El motín de los pitufos",
         "summary": "A juzgar por las encuestas y el simulacro de votación que conocimos la semana pasada, lo más probable es que Renovación Popular gane en Lima las elecciones municipales del próximo 4 de octubre. Y, a juzgar por el comportamiento medroso que exhibe cada vez que le preguntan al respecto, lo más probable es también que el ",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/opinion/columnistas/el-motin-de-los-pitufos-por-mario-ghibellini-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/ITKFY7JSXZAULOCYKSLUPMBSIA.jpg?auth=8c428e7db0a3a4fd22c9619e4381194ec47f843f2aea5241a91df5f2faeb5d73&smart=true&width=1207&height=648",
-        "publishedAt": "2026-09-26T05:30:00.000Z"
+        "publishedAt": "2026-09-26T11:41:14.000Z"
       },
       {
         "title": "César Astudillo: ¿La oposición tendría o no los votos para censurar al ministro del Interior?",
@@ -37,7 +45,31 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/congreso/cesar-astudillo-la-oposicion-tiene-los-votos-para-censurar-al-ministro-del-interior-y-que-camino-sigue-la-mocion-en-el-congreso-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/IGNLN57G6BD3RLZXC4FNJTGBXI.jpg?auth=abdad011cbcf5520ae0ca21e6e3a8f09077e04f13924d2a1c7e7a0ece951f420&smart=true&width=1200&height=647",
-        "publishedAt": "2026-09-26T05:01:00.000Z"
+        "publishedAt": "2026-09-26T11:40:24.000Z"
+      },
+      {
+        "title": "Jefe de la ANC: “Se ha dispuesto una investigación a las mesas de partes de juzgados constitucionales y comerciales”",
+        "summary": "El jefe de la Autoridad Nacional de Control (ANC) del Poder Judicial, Roberto Palacios Bran, asegura que se inició una investigación en las mesas de partes de los juzgados constitucionales y comerciales, con el propósito de identificar a los funcionarios responsables del direccionamiento de medidas cautelares. En esta ",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/jefe-de-la-anc-se-ha-dispuesto-una-investigacion-a-las-mesas-de-partes-de-juzgados-constitucionales-y-comerciales-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/RIE3KVIDVVCUFFKRSWNEFQJBD4.jpg?auth=c3f9dd8d9aa093d92ceefe3447577ee4a644a690611f04c0e4d92659d9e025b5&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-09-26T11:00:00.000Z"
+      },
+      {
+        "title": "Yenifer Paredes, diputada de Juntos por el Perú, contrató a su abogado como “asesor principal” en el Congreso",
+        "summary": "El abogado de Yenifer Paredes, José Dionicio Quesnay, figura como asesor principal de la diputada de Juntos por el Perú, de acuerdo a registros del Congreso de la República.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/diputada-yenifer-paredes-contrato-a-su-abogado-del-caso-anguia-como-asesor-principal-en-su-despacho-en-el-congreso-juntos-por-el-peru-pedro-castillo-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/BUOUMJDUIVARNPROZENGMV7BKM.png?auth=3aac1d5aa80267b2830b870f51aab4eb41a7944e3b123b6167dcca80d0e5d5d0&smart=true&width=1200&height=647",
+        "publishedAt": "2026-09-26T11:00:00.000Z"
+      },
+      {
+        "title": "Donald al rojo vivo, una crónica de Fernando Vivas sobre Trump, la ONU y Xi Jin Ping",
+        "summary": "En su hiperbólico discurso en la asamblea de la ONU y en el recibimiento con honores y cañonazos a Xi Jin Ping, Donald Trump, presidente de Estados Unidos, coronó una de sus mayores exhibiciones de poder.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/donald-trump-al-rojo-vivo-una-cronica-de-fernando-vivas-sobre-el-presidente-de-estados-unidos-la-onu-y-xi-jin-ping-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/ZC76SC6NHZCTZBCKW23BUWPLM4.jpg?auth=b891a2b2cead08b5be665796c2f4d52d303fb491908df1e2afaab2b3e3a5f679&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-09-26T11:00:00.000Z"
       },
       {
         "title": "Junta Nacional de Justicia publica lista de 12 postulantes en concurso público para elegir al jefe de la ONPE",
@@ -46,41 +78,41 @@
         "url": "https://elcomercio.pe/politica/justicia/junta-nacional-de-justicia-publica-lista-de-12-postulantes-en-concurso-publico-para-elegir-al-jefe-de-la-onpe-jnj-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/575GAKC3XZACPBHRXWBMRO4Z7E.jpg?auth=d86e4c5eba97ccbcf1dcfcd81390496ac916ab76346a31fc00f246acdc35f64a&smart=true&width=1200&height=800",
         "publishedAt": "2026-09-26T04:05:28.000Z"
-      },
-      {
-        "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
-        "summary": "Fuerza Popular | Desde que empezó a participar en elecciones subnacionales, el fujimorismo redujo su oferta electoral en más de la mitad.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/en-16-anos-fuerza-popular-solo-ha-ganado-3-gobiernos-regionales-y-no-ha-colocado-un-solo-alcalde-en-lima-metropolitana-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/3ZQHU5EOGNH33LU7J6EN3J4QSE.jpeg?auth=05b2ba86279d4f5e8c5af8ea35780dce6caca06e15b2546119eb9e3be8b10463&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-09-26T01:48:00.000Z"
-      },
-      {
-        "title": "Elecciones Regionales y Municipales 2026:candidaturas de los movimientos regionales caen 83% desde el 2022 y partidos políticos dominan el tablero",
-        "summary": "En el 2024, la amenaza en el Congreso de eliminar este tipo de agrupación desató una migración de candidatos hacia los partidos políticos de alcance nacional. Los movimientos desaparecieron por completo en 11 departamentos.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/el-exodo-de-los-movimientos-regionales-candidaturas-caen-83-desde-el-2022-y-partidos-politicos-dominan-el-tablero-elecciones-regionales-y-municipales-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/GCNMYV3TUNAT7ITF24PUM247Q4.jpg?auth=96899ab28be219c51788cfb81bd060e1fa1c35fa4997f5f765d4c389060813f4&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-09-25T23:56:00.000Z"
-      },
-      {
-        "title": "Confiep exhorta al Congreso a evaluar “con celeridad y responsabilidad” pedido de facultades del Gobierno",
-        "summary": "La Confederación Nacional de Instituciones Empresariales Privadas (Confiep) emitió este viernes un comunicado en el que exhorta al Congreso a evaluar “con celeridad y responsabilidad” el pedido del Gobierno para que se le otorgue facultades especiales para legislar principalmente para luchar contra la criminalidad y en",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/confiep-exhorta-al-congreso-a-evaluar-con-celeridad-y-responsabilidad-pedido-de-facultades-del-gobierno-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/KPOLYU4MO5BKZBWT7MR5WIIZ4E.jpg?auth=6bd732e45fd593b7cc0efbe3ebbd6e68f8b08158d4d6e066e04566bae255df22&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-25T22:07:47.000Z"
-      },
-      {
-        "title": "Facultades legislativas: la nueva alternativa de Renovación Popular y la posición de Obras",
-        "summary": "Los diputados Roxana Rocha y Frank Krklec, de Renovación Popular, plantearon a la Comisión de Constitución limitar a cuatro materias la delegación de facultades legislativas solicitada por el gobierno de Keiko Fujimori. Estas son seguridad ciudadana, fenómeno de El Niño, reactivación económica y modernización del Estad",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/facultades-legislativas-la-nueva-alternativa-de-renovacion-popular-y-la-posicion-de-obras-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/WMQOMXBUXNBAVE2TLDICT3NEXE.jpg?auth=67e6ab3b6a77b63141d8afd7124247d026aafbb4b590a31122500b3aaeaf1dc3&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-25T20:50:00.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "¿Un trabajador part time puede laborar 8 horas al día? Los límites a considerar",
+        "summary": "¿Un trabajador part time puede laborar 8 horas en un día? Conozca qué límites existen, qué derechos están en juego y qué deben revisar las empresas.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/management-empleo/trabajador-part-time-puede-laborar-8-horas-al-dia-los-limites-a-considerar-para-los-empleados-y-las-empresas-noticia/",
+        "image": "https://gestion.pe/resizer/v2/6WJNST7XXBHOBFGE6OFXUK3FXU.jpg?auth=7f44322a2091c9111a972133ce88dc3be6f598eb9bc1fac1cc18f42cb99d3ce3&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-26T10:59:00.000Z"
+      },
+      {
+        "title": "Este es el estudio peruano detrás de series de Marvel que abrirá en Barcelona y alista películas",
+        "summary": "Apus, el estudio peruano que anima series de Marvel, abrirá operación en Barcelona para acceder a fondos europeos. Además, alista su segunda película y negocia con cinco empresas de videojuegos.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/apus-el-estudio-de-animacion-peruano-que-dirige-series-de-marvel-dara-el-salto-a-espana-noticia/",
+        "image": "https://gestion.pe/resizer/v2/QVVRHSHIBFBKXPESCDKPOQXHNE.jpg?auth=4975104f9588ab9254003b21ac7f3fa3c7348e887b6d55abb2ddfa9a8dcc6117&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-26T10:30:00.000Z"
+      },
+      {
+        "title": "San Fernando: uno de cada diez peruanos come pollo dos veces por semana, ¿cómo lo consumen?",
+        "summary": "El canal moderno gana terreno en la categoría de pollo: entre enero y agosto de 2026, los supermercados crecieron 27%, mientras que los trozados avanzaron 36%. San Fernando identifica tres factores que pesan en la compra —confianza, practicidad y rendimiento— y relanza su portafolio de trozados refrigerados, mientras p",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/san-fernando-uno-de-cada-diez-peruanos-come-pollo-dos-veces-por-semana-y-los-trozados-ganan-terreno-noticia/",
+        "image": "https://gestion.pe/resizer/v2/VOK6SFUQ5ZD3RDCU3QDT4YSSME.jpg?auth=7ec056cf94f0b91221af7217c170afab6992811c9b9260a79b68c683fc2b20b4&smart=true&width=1376&height=768",
+        "publishedAt": "2026-09-26T10:30:00.000Z"
+      },
+      {
+        "title": "Si un trabajador se toma más días de vacaciones que los acordados, ¿puede ser despedido?",
+        "summary": "Conozca lo que establece la normativa laboral peruana respecto a las ausencias injustificadas de un trabajador.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/management-empleo/si-un-trabajador-se-toma-mas-dias-de-vacaciones-que-los-acordados-puede-ser-despedido-noticia/",
+        "image": "https://gestion.pe/resizer/v2/5CQUPWMOHVCTDP4KR45OPBH3FY.jpg?auth=bca6fd518868ab3b8904e42d32fdbd7eec66e141d671d77f73bf0335f088aadf&smart=true&width=973&height=670",
+        "publishedAt": "2026-09-26T10:08:00.000Z"
+      },
       {
         "title": "¿Vecinos morosos? Hasta dónde puede llegar la junta de propietarios si quiere publicar lista",
         "summary": "¿La junta puede publicar el nombre de un vecino que debe mantenimiento? Conozca qué datos puede revelar, dónde puede hacerlo y cuáles son los límites.",
@@ -112,41 +144,17 @@
         "url": "https://gestion.pe/economia/empresas/sobrecostos-logisticos-en-que-puntos-de-la-operacion-se-esta-yendo-el-margen-noticia/",
         "image": "https://gestion.pe/resizer/v2/53MWIQYYQNG5HEO6AR4CURXHKM.jpg?auth=53a27ba94dbcf0af78e7263befb547466fda0004535b92051440f124316ba3b6&smart=true&width=1200&height=805",
         "publishedAt": "2026-09-26T02:05:00.000Z"
-      },
-      {
-        "title": "Negocios en playas: Permisos que se deben tener en cuenta antes de invertir",
-        "summary": "La instalación y operación de negocios en zonas de playa exige una serie de permisos y evaluaciones que van más allá de una licencia municipal de funcionamiento. En estos espacios, como por ejemplo la Costa Verde, donde se encuentran espacios diversos como áreas públicas, acantilados, franjas ribereñas y actividades co",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/negocios-en-playas-permisos-que-se-deben-tener-en-cuenta-antes-de-invertir-y-emprender-noticia/",
-        "image": "https://gestion.pe/resizer/v2/J4TNKLECRZHZ3CHQ5W4I4HIKAQ.jpg?auth=a45beee0e6f2b9298510a829f15c68161186caaa26449f8e32d2bcffbf32b304&smart=true&width=3824&height=2868",
-        "publishedAt": "2026-09-26T01:22:00.000Z"
-      },
-      {
-        "title": "Abrir un restaurante en Perú “cuesta más” que en Colombia y Chile",
-        "summary": "En Perú se identifican hasta nueve principales requisitos para que un negocio pueda iniciar operaciones. Esta cifra es mayor a los seis en el caso de Colombia y los siete de Chile. ¿Cómo revertir esta situación?",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/abrir-restaurante-en-peru-cuesta-mas-que-en-colombia-y-chile-5-puntos-explican-tramitologia-noticia/",
-        "image": "https://gestion.pe/resizer/v2/E4BGVWAKOJGP3GTBS476R57Q54.jpeg?auth=4795319c61956a351416600a11d64236cd1b530d497b85c65e9bc6b8670d7cc7&smart=true&width=906&height=594",
-        "publishedAt": "2026-09-26T01:22:00.000Z"
-      },
-      {
-        "title": "WhatsApp cobrará por mensaje a empresas: ¿impactará en sus ventas y atención al cliente?",
-        "summary": "Una medida que podría cambiar el rubro empresarial. WhatsApp comenzará a cobrar a algunas empresas por los mensajes de atención al cliente enviados mediante WhatsApp Business Platform, el sistema que usan compañías con chatbots, CRM, agentes de inteligencia artificial o grandes centros de atención.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/whatsapp-cobrara-por-mensaje-a-empresas-como-impactara-en-sus-ventas-y-atencion-al-cliente-noticia/",
-        "image": "https://gestion.pe/resizer/v2/ZJLW5IQKJVCYNNKTF47SRYWDDI.webp?auth=f9dce85c12c9cd4ae3baaed924a3fb3639e92e55daa85529aaf04f4f3d153872&smart=true&width=1800&height=1175",
-        "publishedAt": "2026-09-26T00:42:00.000Z"
-      },
-      {
-        "title": "El desvío de recursos por corrupción es una amenaza para el derecho a la salud, advierte WCA",
-        "summary": "“La corrupción mata”: compliance y sostenibilidad deben ir más allá del compromiso. Iván Martínez López, cofundador y vicepresidente internacional de la World Compliance Association, cuestionó que las empresas se limiten a exhibir compromisos con los Objetivos de Desarrollo Sostenible (ODS) sin medir qué impacto genera",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/congreso-wca-el-desvio-de-recursos-por-corrupcion-es-una-amenaza-para-el-derecho-a-la-salud-advierte-world-compliance-associatio-wca-noticia/",
-        "image": "https://gestion.pe/resizer/v2/CTODHOC52VE33F3O7F7U3N4R7I.jpg?auth=473a018662489214dc453725acf6477d798dc1abd7a7aaaa2d39c31551bd92af&smart=true&width=2049&height=1366",
-        "publishedAt": "2026-09-26T00:21:00.000Z"
       }
     ],
     "sociedad": [
+      {
+        "title": "Gobierno propone régimen diferenciado y de seguridad máxima para adolescentes infractores de alta peligrosidad - diariouno.pe",
+        "summary": "Gobierno propone régimen diferenciado y de seguridad máxima para adolescentes infractores de alta peligrosidad &nbsp;&nbsp; diariouno.pe",
+        "source": "diariouno.pe",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM25LY2ktbnN2RDZWUm9nd2VrVmliUG1kcDlwazR4emczUjVWaFVDRm9mNkU4NW1nbUtvUkJfOW1odGtxVTJxa1FtNUpUV2pKaHJJZlZkeTJPTUcyTS1oYzE0OGlQV1EwNE5CZl93T3ZjNEpwZE05RzYtTVdXbEM5OVRFdnFnYmxtN2todzVwalFNWkVDZHZVdFVuX0FaaVhzR2owdE1mdF8yQkxlZG9KWHZfd0FyOHNHQU4tNV9URVpaZEVBRVhKZ1JicGpycTJWUzE3aXFYcHA2anc?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-25T00:46:28.000Z"
+      },
       {
         "title": "Lista de candidatos a la Alcaldía de Carabayllo en las Elecciones municipales 2026: conoce quiénes postulan - Infobae",
         "summary": "Lista de candidatos a la Alcaldía de Carabayllo en las Elecciones municipales 2026: conoce quiénes postulan &nbsp;&nbsp; Infobae",
@@ -156,25 +164,17 @@
         "publishedAt": "2026-09-21T04:24:00.000Z"
       },
       {
-        "title": "La crisis de seguridad no da tregua en Sinaloa: gobernadora interina responsabiliza a gobiernos anteriores - Infobae",
-        "summary": "La crisis de seguridad no da tregua en Sinaloa: gobernadora interina responsabiliza a gobiernos anteriores &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUmZxNUhCSW45Q09yX085TzBMa2EtN1dscTNidUVmdXI0LVFrQmRXQmM1UGZLQUxTMXpjTVlmQ1IxWDZHd2RGR19YRFA0dkhnQlBKcmFXZHBsTlJsZEpFNUkxbTVMbVBhUDFTdDZBTk9sTUh6X29YWm05M0ljVmFFMWF1aWVDUFJndm5Rbkc2ajhOZ2Q0QjQtVC12RWpzTlpvcEdIYWY5SUswWmlfM0trWXQwNElFbElVVjdkQ0xVa19PbE82c3I5QmhYT0lidk1mMFhGRF9OMDZ2NWsxdHd1Z0pB0gH8AUFVX3lxTE5KNjZlalQ0dnhZMGF5RDZNTlgxWnNBRHF5TTJSbmpVUkVNbGl4YjNtSEVIYjZfNklpNklJOHBkRjdZSWRMVHdheWppLUxINGN1eGJFX0hTaXBxdzlxRFlzR0NrUkdJMTNhMl9MT2RnRkpkLU9QeXd3S2VzSTQ0VXFNcnB2eWxSYVBqZUsxOHUzRjJ6OEV5Q2lCc2pNd2lRdmtETTlKYkVSLVBwc2t1X3JaeTlZMVJqYkhCOERsTmJLMGF6UDF0X0VaUDYzOXVGLUpwX2t1VWV1TVZ5ckc5ajB5Qm9LUHliSGx6bnlHbEptclppRUx6N3BxQU9wbg?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-09T07:00:00.000Z"
-      },
-      {
-        "title": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud - larepublica.pe",
-        "summary": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud - La República",
+        "summary": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcXVYRHNkcFVTRXlocG5ySVlLRzZJSzNKWEJXRldLWkJHQUpkeFBHWFJSNzVNVFhrTS1WTnliRHBhbmlZTDBCSEVLWjRkSHB0TTd3S3E3bGFucVQ3c0ZoeVJiSkRsRHltQWx0UWlncnNTaUhOcmZpcEUtbWdoR0ZFS2pJczljLUpyR0ZRS1VyTFF4SXBEODlfWG5aVzhsOXF6eGxQYnRPMlpaRHN6TG1hNHZKbzFhZElxOUd2TUNndXJDTHJubmNXM1pMUkNYRkI5eHpaMUNlT0NjYVQzSHh5U2h3c3pUZ2c0TWd5QTRJYWh4bDhuT1g3SHVNQmZ0OHfSAYQCQVVfeXFMTmktbXh4RFU1eWJvVkw4SFRHV2dDbm1rLTRiVU41TW9ONV9tS1pUUmFWcFExb3lfTWYyczVGSjJWLUJBSHRuTDE5RlVBRHhxQ19OdHpvcEtLNEdBcjZNZzZhS3kwRkxBdmxFZUhWZkZWTXRheEQ0U21ZWEV0ZHA1MTBoWWJ3R0VDa3pXQWFpVDlSclVsSUtLT1VtREFId0JXeFpEU3Z0ZmxyclIzcEZSSUFXME5seENxRU9uWVhwVURIWjlTa3JXSTRjd09QMExqeGhNVXpYa0Rzb0d6elRjRGNDMVZES1E2b202dHBrNVZMRW11YURrOGdYY0tuU3dOSFRKZnM?oc=5",
         "image": "",
         "publishedAt": "2026-09-04T07:00:00.000Z"
       },
       {
-        "title": "Presupuesto 2027: Gobierno propone S/266.506 millones, pero reduce recursos para salud, seguridad y saneamiento - larepublica.pe",
-        "summary": "Presupuesto 2027: Gobierno propone S/266.506 millones, pero reduce recursos para salud, seguridad y saneamiento &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "Presupuesto 2027: Gobierno propone S/266.506 millones, pero reduce recursos para salud, seguridad y saneamiento - La República",
+        "summary": "Presupuesto 2027: Gobierno propone S/266.506 millones, pero reduce recursos para salud, seguridad y saneamiento &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMDFoTzVTMmhIcmplX0V4TUl0S0Q0R1I4dVFTVVFhNm9lR2Y3X1NoZ1NGazVhTXZRVS05bUZoSm9QV2M0RWdRcUI2MU1GTXBKTGtDSklXNzBzZzlFQXROWmNhV01UTFpfSXhoYWEtNnExd2VETEs2RE0yQ0k4ZzFva0lnRG5VYzFueFAycXdDREh1VjlHOFVlZUp5eXdWaWZyZ0RYVkljQjlZVUc4NlJEaWZubXBXdFF2SG5fbFc4emNhX2tRN1JjcFJZTjBSUi1UcnMwOXpCQmFVb05XdnBCVWNzWTNaci1US3VCWTZueWFlUnBxTEHSAfsBQVVfeXFMTnZFX2pnS1FfUXRpVDY0ZlJXRXJxRDhHcHZHWnIxZ3VKWkw1VndIOHFKLXRhcnpwTWFiZXlvVHlFR2dzcC1sLWs1bG9zR1ozTkhWVnZOUVlsMTFuRGpRQ0lQUkhUZGFCLU9HbHJXS3c3MmtKbmYwT2lQWXdpLU5ITlh2WHl0T1BqdUUwdUdYLXc3WGEtaXlrdFJOVlBDMXdBQVNsd2hwNFdWa0ZZV1pENXcyN0xuYWQyU2x1VUl5QlFENXh3UXFCWHdJMGVORTFfTkJsWXF0bXcwZWE0emtuRkNUcWNkN3haOGNQZDRnYUtZeXhxQ1hQaUpENEk?oc=5",
         "image": "",
         "publishedAt": "2026-09-04T07:00:00.000Z"
@@ -288,14 +288,6 @@
         "publishedAt": "2026-09-21T18:26:00.000Z"
       },
       {
-        "title": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional - diariouno.pe",
-        "summary": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; diariouno.pe",
-        "source": "diariouno.pe",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjYxUUxNV1dqcXRBRzRyY1BNcm5UZE5abG00MVNLSWNWd2xkMVVhUkhTQVMyQ3U1dEFKeWdyTG5NX1hRRlJiTXJjRWppU2hmMnFKdXJkZHVKNW5GZWR4V1ZfZ2pBZW56T0d4Yk4zR3FJSHZEU1hYblNoZm1VQXFUYUN4RFpoRTloVF84OEt0VEtNcjBwM3JjemdQTnQtQ1dpa2tDZ0haTjg3OHNrNmtsMXdaaVBwaFpfUWhRbS04UWRFRFo5UDF2UjZGNGd4WFEwYkJLWW5GUzE?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-20T02:36:47.000Z"
-      },
-      {
         "title": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras - El Comercio Perú",
         "summary": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras &nbsp;&nbsp; El Comercio Perú",
         "source": "El Comercio Perú",
@@ -320,17 +312,9 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética - Infobae",
-        "summary": "Perú fija mirada en el uranio y el litio como minerales claves para transición energética &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOTRqd2daSjhyd0ZWcVowNVBmbGctRmhLQjVzTjczTXBqOE9pMHdJXzg3ck52UUFTNzA4dzNDdy11V1RnZXR0QlIxcVgxbFdTOFBHM0psdF9qMjNBc05GQ3ZSTzRTZFJxNzQ4czJqVVk4RlpGbVdfd1pRY1NQWmFqOGszZUZUWHd0QzE2ZVFyVWZ3dXhFYi0yTnBQQ1ljN3JlazUyWnFRRlpKa19VWEt4MV8tbVI2RDFZaHJFYjl6NGRYV0hfeU43bHpIY0dpUkZMLWZPQ2R4eVFhZ9IB9AFBVV95cUxQeVY3UVhReGtDc3FYbG02b0ZCY1BWUnZwbG01aGRzSDBGODBFaFF6MWdEdXdYVFdieW1iXzZCbzlEQi1IYzNPOE04Q1Y1RHI2SjByMWhIWXEtY0dta0ZNS2NfOTdHRzdoNmh2c1ZKVGJyaDNFeVJqQm8tUWxmTHM1SU84VDZFMjdta1dpRklSZXgtM1Ytd2tOOHZZajF6TlA3N2JWOTF1eTZfYlRVSnY3Z3ZvRVZxN1Z5bjQ3b3RFZVZGdEtGMl9LNnpfRVQ4RjhfNklEV1p3Q0d5TXFFbUFZUlJDZ25sZEFGRk81ckZsem5FV1Rm?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-07T07:00:00.000Z"
-      },
-      {
-        "title": "La paradoja peruana: Crecer sin innovar - revistaganamas.com.pe",
-        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; revistaganamas.com.pe",
-        "source": "revistaganamas.com.pe",
+        "title": "La paradoja peruana: Crecer sin innovar - Gan@Más",
+        "summary": "La paradoja peruana: Crecer sin innovar &nbsp;&nbsp; Gan@Más",
+        "source": "Gan@Más",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6aWxfR3diYXRQbUZqekNmcGgxQVkxUVl6TVlwaWR2QVhhYzlkcnY3bXBVUnVHcUhXZkZObW50MzFmX2VOaUg3MW52UGNlQkE1bFh2LXY2alNyWWdrNThsZ2F0UGY5bUN4VmdMMDBtdWdaX0dIb0ZmMA?oc=5",
         "image": "",
         "publishedAt": "2026-06-25T07:00:00.000Z"
@@ -342,6 +326,22 @@
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbEhKWkVPQl9UdVJLZU84ck9vZG5KUTljSXlEU185RTdhSG45aWRkR1FqWWMzcEYxdUpyNWVlWGhoVVpXaWx6Ri1RazAwWVNzcGZKNGlmSW1tUjA1ekpHVXRKelY2bEpFUG5PVWptaDRQd3RCNHF1czlMQlNZMVIxYnVxb0VMVDlIbGlRYXlnSlZKd2J6eUZLNDRwVnM1dk9zYWdPRmk3M2I0b05rUTJSeUl1X3YxSmtGX2lyS2JzczVudGdGWEl1ckd0NWNWM1Y2bHp1LUVFN3BEc3hiRDJYM2QwemZsRC12d19BddIBhwJBVV95cUxNOWY3N1p1a1Y2dTNlMFpSM1ZOa3hhN3ZPd09jZnYzOHB5SGg1NjdGOW9Oc0l2aUpuM2RiSkxRT3NaQUZNS1V1WnhDNnUzdDBfX3BUMDRaZUpBUW9FVG4xRW1kSUh3b3BXWGZDbXNCaHd2UUNyUzJ2SkpndjE3ekJtYXBnZXMzSEpUc0VHY0xFZDFxQkdsdVZOLUdWTGJmWXVHZDR5dk9pZGhlZXNuZDZTdXFhbEpGejM1RnVSZjl2V3lnWVJZX0JfbGo1ZzFhRndXWi0xM2xkWFdMS09qQTc3MlNyTVI2WGgzTmxzbEl3MnMzdkU1STRDcUZQUnRDYzhOdEF4d0N5WQ?oc=5",
         "image": "",
         "publishedAt": "2026-06-10T07:00:00.000Z"
+      },
+      {
+        "title": "Innovadores peruanos podrán participar en competencia internacional de invenciones - Agencia Andina",
+        "summary": "Innovadores peruanos podrán participar en competencia internacional de invenciones &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
+        "image": "",
+        "publishedAt": "2026-05-29T07:00:00.000Z"
+      },
+      {
+        "title": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación - Tu Diario Huánuco",
+        "summary": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación &nbsp;&nbsp; Tu Diario Huánuco",
+        "source": "Tu Diario Huánuco",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaGpsT3FrekhQWTg2UDZlY1JyaUJzQWI4UDEyRjZGUDY4ZXRtQjBUUHlmdmtrSW8wN29HalpYQWswZFA1OHg0SVAyRldYdFR3bUk1V0xwRHRWc1ExQnNXN0VzejE0eHFacXpMd1RnQ2hjR0ktQU1CeGZrZm1HMUUyci0tdW1xWnpyeWl3NHRua0pSRXE2azVCNEk4aTg4VDN4czhsZXV1T1F3THByYkJyajF5blp0cjlKanJ6blRGNEsxS3dOMnFYMFAyZXRqbEJyRDhVX2x5WWxadw?oc=5",
+        "image": "",
+        "publishedAt": "2026-05-05T07:00:00.000Z"
       }
     ],
     "ia": [
@@ -351,7 +351,7 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOEtOSVhSMWE0bklKb1h5QlhNTzF6dXJfMjZ6ckhvX05ScVZJMEtqUWdvaDhiQU0tV1dnVUlxU1ZuQXd2cWs5d20yczdNSmI4cU5vY094X2ZIQWhiMXgzUHdrNDI0emlsTV9JeHNpZUFWQzFsdjdienVQZDY1dFVGZF9CSzhkMkRlb2FzbkpyczJQcVh5YlU0NHZ1V21TLWxBVTdxRjdQVW1vS2pWWUdicmswZm8wdG5HQlBvZE5pbVhuWTlQRUJpSk94LWw5bExUQUNxTXhHb0ZOWEFWaVVEY0VpekUxR0p1UHFF0gGGAkFVX3lxTE03NW5EQUkwQUwycGU1R2h5bjBWXzlFWmppMGUtMUlxcWtER1k1OC12ZEprQ1dSNzNGYmE4aXRvR0NXM0JHYkRmQy1OVDVqTEpCUTQ2cTJMOHA4QklkWGFpR1IzRk9rbUxJcXFIWFBwbVRXUlgtNE1ubkdaOGd2eEtZZ09yc2JXSC14eWphMVJ0TWVtYWFfUHh1MllwZ09na1hCYmRXY1FUX3ZKdzhoU0RXLWFJRUV2QnJnZGJOSGw3bGVDMHg4T0hZVllEVkstNGFiZVJJMHdibVhmZGdIM09RNjZ5WXk3bG9xTV9kVkw3N0ctQXpWSGRKUW1oVVY1Y3FHU3FEYXc?oc=5",
         "image": "",
-        "publishedAt": "2026-09-26T00:37:30.000Z"
+        "publishedAt": "2026-09-26T01:22:00.000Z"
       },
       {
         "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - Diario Ahora",
@@ -386,14 +386,6 @@
         "publishedAt": "2026-09-19T12:37:00.000Z"
       },
       {
-        "title": "Servicios en Perú alistan cambio por la IA: reclamos, pagos y trámites podrán resolverse en segundos - Infobae",
-        "summary": "Servicios en Perú alistan cambio por la IA: reclamos, pagos y trámites podrán resolverse en segundos &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcXNMNU91ZVRjV0EtakxXbUR2MnVoUjFDdGpXTDlydElxQXowSEZDNTRWNUZUUW9GZGdNMEVTVHZ1Z3I0SXUtVUtvLXBiVWFxLUFkMDV0Rl9DXzN0WTJvdlBySGdlNXdFS28wTzQ2eVRkdkhQaFI1Rk9vMVFOdGFQdHQ2aFBNcC1FY3lOOGxHWWF0NGplWC1KaF9ITHBJTDJESHVLYkZqZ3lZWmlxYWxsMU40bk1BaG1FRTFiTk4zWEV6d0ZYOUoyS1JONV9TS2hwc1c5Qnd30gHwAUFVX3lxTE9kdXhKY05MMFJfVzB3UC1FY3hmTTNSa3U3UVJTMEh6SDRYWHU4ekJJdFJHWnd0RE5wN0Z5cmxmd0MwUkN2aGhzZVRkd0ozQkRIYkt1TnVsMTNveUFMaF9zbUlFaFZ6UmlhbUdQd2plTlQ5QXV1LUxIbzJxamxXSWVqTVJQbjB0cDl1WWxEN0Q2R01fUTFSd2FNWXVzeTg4aUNZOEc5OHlNTTVSb3J4LTlKcDJMQnE1WE9lNnluQzZ5NU5RN0UyU0l6cUZtZVU2RzFVdHBrMUZqWWFOS204Q3NKUTBIN3RZbXl5alZCUG9VNA?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-19T02:18:00.000Z"
-      },
-      {
         "title": "Perú y la ENIA 2026-2030: De la digitalización al ‘Gobierno Inteligente’ en América Latina - Portal ERP",
         "summary": "Perú y la ENIA 2026-2030: De la digitalización al ‘Gobierno Inteligente’ en América Latina &nbsp;&nbsp; Portal ERP",
         "source": "Portal ERP",
@@ -408,6 +400,14 @@
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT3R4aVpVc2FLT2w2c2Q0Qlk5Z2gwRzFBWDJBMktVeU1ScV9Pb1RyNHJBbDJ2VjQ3OF9waUU2T3lNZU5NLTJvYVR2enpiQTlfVGtSQVlVRGpHaVI2V1FVaTdEeU1tTGtjaUNMTmc1Q2VBakxTTzJ3Tkw2VXJBMlUtWktlMUhoclhnYWVKdFJVQ2RHNGRReHFJYk9VT2pQZjlraDNOWEVDZXV0ekFsX3ZzS2dZVUJ3WkRVU2dvRzVMZ2xkRmZmOUFqU21B?oc=5",
         "image": "",
         "publishedAt": "2026-09-17T19:36:45.000Z"
+      },
+      {
+        "title": "La razón por la que Perú no debería copiar el freno tecnológico que discuten las grandes potencias de la inteligencia artificial - Infobae",
+        "summary": "La razón por la que Perú no debería copiar el freno tecnológico que discuten las grandes potencias de la inteligencia artificial &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORndYbVJQZDI0MXN5SzY1WWZxMTUzNnVIMC1Pc3dPQVZ3bllZVDI0enJRRldrM2VCdHhieUtJUzg4aUxJNDNDNDZXajhYc3VDQ2tudmFqNGtnSWh5eG1yLURUcWQ5MC11NG1oR3FOa09odjk5cnR5WFA2T1Q1cUxWWldXd01pWDN2bkxYWUowUW0tQlUybHZNQzMwUl9LeDFMUElsSXFxZ21MbTJ6YjVOcnlEVEIta09kUHF6bms4SW8wOVN3MFV1MFQ3S1ZDVHE0bk5KNkxOOXNVWlFUcDc0TlJxanBKazQtNlhvbFBQVjcwNmtqY3ptTkdWMkpLUdIBmAJBVV95cUxQaDNXOXdPQzNRM2R5YkMtZ1pXVU5NcGJUWEZMaVFBQTNkNXdPNVhtVlYyZ3gycGhxODlmMkw0QU1vT0dEVkdHZ3JqT2RDbTFfWVdHczVLSFJJbzFkYTdSeTVFdDBXUkxsUmhIeHhPdW5KZ1Nyb2h2dmJqQk9BV0hBbElDVzZJUngtTHl1TFlobzliamRCUzIxcWp1RDl5M3dVcm1wUkVvSEM2TzZ1QjBCbHhFZDFCQnNOclh3Z1ZvSFRRR0V6SWw4NmFwT1FRVlFEN2FRMGI4RFVZYmZZeXp6NHRJWjNMYjkycVpIeGVqMllib2M2em51Wi0yNmlEUUdURTdDNkxINV80N1h4cTNZQl9RMk5FTjBK?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-17T07:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -428,20 +428,20 @@
         "publishedAt": "2026-09-12T07:00:00.000Z"
       },
       {
-        "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar - larepublica.pe",
-        "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar - La República",
+        "summary": "El trend viral de los años 80 que arrasa en TikTok e Instagram: cómo transformar tu foto con ChatGPT y qué prompt usar &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQW9fVk51R2xSS1c2X0I5TjFfc2VoT3hDeVJJVEFIbUJSTmItZ0lQUGdocWJvWVA4bjUtWGlfMGtMVExUMnA4TVBBODg1YVJ5VVBYeWc1X1lvYl9MdzFQVGZjVzg1RzQxNjRlb3hNN25CaVd3Y29XWlRPSWJSVmlHQWFtZnV2OURIaFByNGZJT193YklScUl6cEU2X2o2SklLcVdZLU15VklTSnBKQVJaYWVZcGloeXJHM25HUS1aUGNVSEtPaElZenMwcEVvSXB3eE42cFFESzItX2hXckZSNi10YTN2X3BtWjlObWwyc9IB9AFBVV95cUxQUXZkLW0ya0dvbTdNOC0waTg4UGJrVXpmTFB2TXhDc0d2aE5QOEFYU1hIR3VyY0U0WkNPYnVqM3ZJSFlOWndYdzZCdXVUZHE5eXRyQi1TdWw1UHVNZjYxY3pMY3R5TkF6ZFRqTUstYjVZYzdLN1NxZ3VVdTlsc1lBYTZDVnVRYU5QcGJMdDU5OV96ODZMY1hhNG1IdVhtWkVBMkpkQ0xLSTVsU0YzdVZzdFI0YnllR0dyWW5UVFBIQllGRy05b0hOcEZXV0pjeDNPenpNNkp5M3JTYmpoZGxxUzNvR2tYVVpXSktGQXNtcDVHclhD?oc=5",
         "image": "",
         "publishedAt": "2026-09-10T07:00:00.000Z"
       },
       {
-        "title": "¿Qué significa “farmear aura”? La expresión de la Generación Z que se volvió tendencia en Perú, Argentina y otros países de América Latina - larepublica.pe",
-        "summary": "¿Qué significa “farmear aura”? La expresión de la Generación Z que se volvió tendencia en Perú, Argentina y otros países de América Latina &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPT2dmYTRjTlBGN0h5SzJPZ0hqUkdCLV92ZWZvMTdySXQtSlRCVUM4SVBoV3BIT3hkUUNBZkJRODNfRThTODRDRXlrbGttdHQ4OXlzNXMwTzBZTG5qVHNqM1NwTlJFNjdZM0xGa0RuZ3diT3lreUhnMS13Sy0yVVJmMExRS0VnTjhUc3E0Nl9xVjJIbVM0MzdYdlgtVmVnd1RMOTNfRW16NnFOUTlBS3M0Ym9DamRYSGZSRk95R2o5MWFFalN1N0RzQ0lHMkR5Q3Zia0VSRjNrZUJaNGJIbF9FTlI5UzFpMWVDeUlBQ3R0VUTSAfYBQVVfeXFMUDdRM0RTay1hNWNtdlFxLXJMR2llUTF3UVRMSjU0UTctVTBWVjN2Z3ZBWV9QWkhZeG1pRDNXRk5vd0RGTzloRHZtSHVaU3FQU0tFcVNrWG1jaU1yR21mUEhRQ2gzSkJQNFdQZ21iM2ZVREZVYWc0VHZYQVg3WEZYaTl4X1NfckJzcFFya2pKLXpaaEpUdE9NdTlkTl94VnFtSnNHLUktU0g4MTFUdHJFazJLV2JvT29UQ0tnQkthdVlpQ1NaRnFTRTR6TU5OTzJwM0hvRlhhZW1VUE9yQmdUTFpncXJabVRLSHQ4OW1BTWxmTDNFdU9n?oc=5",
+        "title": "Qué significa “farmear aura” y cómo llegó a Perú - Diario Ahora",
+        "summary": "Qué significa “farmear aura” y cómo llegó a Perú &nbsp;&nbsp; Diario Ahora",
+        "source": "Diario Ahora",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QdFppR05rVjhGQzJMWnpycENKejBfQ2hLMG43cGRXalNvdXRVX2wzcGxzcFlaWmV0X1JxX2JobzZockdvanVVV1daMUl4SkVTaVFVZUkyelRTQWg4cWJyR0VrU1pIZTdYTllqVUhwelg?oc=5",
         "image": "",
-        "publishedAt": "2026-08-22T07:00:00.000Z"
+        "publishedAt": "2026-08-22T06:20:10.000Z"
       },
       {
         "title": "Qué significa ‘farmear aura’ si tienes más de 30 debes conocer qué es y por qué lo usa la Generación Z - Infobae",
@@ -505,7 +505,7 @@
         "title": "Mark Vito impacta con su nuevo ‘empleo’ tras ser ‘expulsado’ del Perú y asegura que es fácil ganar dinero: ¿a qué se dedica? - Trome.com",
         "summary": "Mark Vito impacta con su nuevo ‘empleo’ tras ser ‘expulsado’ del Perú y asegura que es fácil ganar dinero: ¿a qué se dedica? &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNek1IMmE2Wm9hak5Ob1QyU1dwdDUxVy1aaHVlSlpuMWNDUGJjNVZ2Wno0SGRYTFZuMmxsdWtHaE5yclF6Skh6QjhhXzhULTZxemgzWThVMHppaTlDekhVVWE5VEZyVTNNLXpfWXhfcS1xYVlvemhkdGN0MUs2QkM2c3d3QVFzX0dVUTFQSUZRQWpxVExlR1ZZMnUySDM0b1Y2eXMtS24zc1VVY0FpOUh1b2lTY1pySnBjNEZ4S1djcFNSUFJUTl9uZmpSaWlNUVZL?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNek1IMmE2Wm9hak5Ob1QyU1dwdDUxVy1aaHVlSlpuMWNDUGJjNVZ2Wno0SGRYTFZuMmxsdWtHaE5yclF6Skh6QjhhXzhULTZxemgzWThVMHppaTlDekhVVWE5VEZyVTNNLXpfWXhfcS1xYVlvemhkdGN0MUs2QkM2c3d3QVFzX0dVUTFQSUZRQWpxVExlR1ZZMnUySDM0b1Y2eXMtS24zc1VVY0FpOUh1b2lTY1pySnBjNEZ4S1djcFNSUFJUTl9uZmpSaWlNUVZL0gHkAUFVX3lxTE01M015cXRLNTBMbHRQcjAwLTRxVjVkMUZyMGhFLWswTy1oWS1ncnJDMHRBNlFlSkpYMVFXdHlDSkNzbE1ZWGhXdktNYWtSN2xubHJ0ekJwX1RkQVhCTWNDajE3U3p4RW5uYU9fSWlRSVROeXlrSUNzRk9RQmstMkJ0U2RPdXJ5RTFnVmtjWjhsRHpmNmVCQVlaczdWTkEwSzhGVnlRQXZyUnNqUGFNWTdFaFNMMTUwZVhaZ3BvRUoxTWFpTWs1RnZRdnNkQVFBOHhKVFc5a0E4eFp4dGxkTHdyUlB3Xw?oc=5",
         "image": "",
         "publishedAt": "2026-08-04T07:00:00.000Z"
       },
@@ -526,18 +526,18 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina - Infobae",
-        "summary": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOajFsLUtIcVlCbVlEeDJrZERUeklvOU1Hak5IRjdkWWRuTjhuR24zTnRkNDFONDRHelY2RG9QU2FobEYwdUQxRDRYX3N0QTFqenR3aU43NUJPRWlVUnExalVDUlVwZ0d0WFRud2dYNENFRHd6d0JPWTQ3WlNCM3pjNEJ0R0R5dGlwZVJ0Yk90MDNzWlZrZXYwbGd1ekN2NzkxdFB1dThxYjBLSDVBNF96d3VNYS1ZNHNwc21WMWhwSFdCamJtd3FwczY4V0lIcFZaLVHSAewBQVVfeXFMT29fdXdnLWEyMlBwSDlqZEVOT3ViRkhla192bHU0bnh1MzNoVGFMZkttSmlFOURhVmNUeVFqLXZoMXVUVHg2M3JZZXo2SjMxY2dCUGJrUWNMX2l6Zk9GVU9HVjZrUnhDMEpqRmp1bU1vM3lfbTZJZ0VJQnR6QnJZLWJPV081YnNhMXFqOEh0ZTVSMHM3RzkwNDlRSE5XMU4wMHJ0T0VzZU5ZNXdudENQNjQtM2FXM3BIS3RmWUY5SzMyUU5pQ1lEc1FldW1RWlM2cEt1NEtQRFdjNm8zcE8tdi1UeWVpY1NadHNnWTg?oc=5",
+        "title": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula - La República",
+        "summary": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdkttUlMxUDlJSFM3dC1ZMUhLeDdZRDBsZGh3ZE53NnpMOWpCbG1nN1ltc1ZyV0JPbnloY0RSUW0yNU1nSFRiaWZwRXc0MVBBSWVPY2RhcVN4OGlLU20wQ1RaM1NIMHJfY0RVc0czWWdGTVh3azIwdTZVRldCZFdJYXJPNVE5QzNMeFA0RXEzRzAwRHNlT0NhMlZmTVdUemNlbTBzRGw1MEh5bjkwdENkQTFKcEtpNDk1bk01N1FNbW5xak12aGk4cWh0NFhydEtadG42RElFVEpuOUlaRFNfNmlGLTNENjBTMnd2TzN3OF9ZVFdmaktlZzROdXdEaExFbzVGRmpyN3R0d9IBjwJBVV95cUxNWkFhRzkzdkRBTF9aNHVTRXV2T3VBQTBiRFZQb0hoNktPYW1RclNIME90SHhYZ01Gazc1ZmZLWUxuUmhyWTJncVUyZ2o4bWVGS3ZJQS1FYVk4cVdLTm16TkwwWDVNTFpEV0lGb29aWTBNV2tMRVJDUU5HWmtzOTh1OW9SUnJGSW1GRFduU0F1TVBJdWQxYno4X1RETURES09iTTZjZ1pOVTNKQjk4NEV4Q2t0ZjhQUlk5VXdmYTNRbE81Qi1OUW8xMHE0bWt4d3FCZmdJV3d5NUVVaHdBdGRmSmFyNVRkb2FxaVJEdlcxbXJBd2kyQzhUbDl3QmpFNVBMREk2Q2VaLXNyMkU2czVj?oc=5",
         "image": "",
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
-        "title": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula - larepublica.pe",
-        "summary": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdkttUlMxUDlJSFM3dC1ZMUhLeDdZRDBsZGh3ZE53NnpMOWpCbG1nN1ltc1ZyV0JPbnloY0RSUW0yNU1nSFRiaWZwRXc0MVBBSWVPY2RhcVN4OGlLU20wQ1RaM1NIMHJfY0RVc0czWWdGTVh3azIwdTZVRldCZFdJYXJPNVE5QzNMeFA0RXEzRzAwRHNlT0NhMlZmTVdUemNlbTBzRGw1MEh5bjkwdENkQTFKcEtpNDk1bk01N1FNbW5xak12aGk4cWh0NFhydEtadG42RElFVEpuOUlaRFNfNmlGLTNENjBTMnd2TzN3OF9ZVFdmaktlZzROdXdEaExFbzVGRmpyN3R0d9IBjwJBVV95cUxNWkFhRzkzdkRBTF9aNHVTRXV2T3VBQTBiRFZQb0hoNktPYW1RclNIME90SHhYZ01Gazc1ZmZLWUxuUmhyWTJncVUyZ2o4bWVGS3ZJQS1FYVk4cVdLTm16TkwwWDVNTFpEV0lGb29aWTBNV2tMRVJDUU5HWmtzOTh1OW9SUnJGSW1GRFduU0F1TVBJdWQxYno4X1RETURES09iTTZjZ1pOVTNKQjk4NEV4Q2t0ZjhQUlk5VXdmYTNRbE81Qi1OUW8xMHE0bWt4d3FCZmdJV3d5NUVVaHdBdGRmSmFyNVRkb2FxaVJEdlcxbXJBd2kyQzhUbDl3QmpFNVBMREk2Q2VaLXNyMkU2czVj?oc=5",
+        "title": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina - Infobae",
+        "summary": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOajFsLUtIcVlCbVlEeDJrZERUeklvOU1Hak5IRjdkWWRuTjhuR24zTnRkNDFONDRHelY2RG9QU2FobEYwdUQxRDRYX3N0QTFqenR3aU43NUJPRWlVUnExalVDUlVwZ0d0WFRud2dYNENFRHd6d0JPWTQ3WlNCM3pjNEJ0R0R5dGlwZVJ0Yk90MDNzWlZrZXYwbGd1ekN2NzkxdFB1dThxYjBLSDVBNF96d3VNYS1ZNHNwc21WMWhwSFdCamJtd3FwczY4V0lIcFZaLVHSAewBQVVfeXFMT29fdXdnLWEyMlBwSDlqZEVOT3ViRkhla192bHU0bnh1MzNoVGFMZkttSmlFOURhVmNUeVFqLXZoMXVUVHg2M3JZZXo2SjMxY2dCUGJrUWNMX2l6Zk9GVU9HVjZrUnhDMEpqRmp1bU1vM3lfbTZJZ0VJQnR6QnJZLWJPV081YnNhMXFqOEh0ZTVSMHM3RzkwNDlRSE5XMU4wMHJ0T0VzZU5ZNXdudENQNjQtM2FXM3BIS3RmWUY5SzMyUU5pQ1lEc1FldW1RWlM2cEt1NEtQRFdjNm8zcE8tdi1UeWVpY1NadHNnWTg?oc=5",
         "image": "",
         "publishedAt": "2026-07-26T07:00:00.000Z"
       }
@@ -552,9 +552,9 @@
         "publishedAt": "2026-09-17T07:00:00.000Z"
       },
       {
-        "title": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales - larepublica.pe",
-        "summary": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales &nbsp;&nbsp; larepublica.pe",
-        "source": "larepublica.pe",
+        "title": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales - La República",
+        "summary": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdUdGMXlJY2xDbGJKMklhSXdTUVhaV051cWliMm5VNkE3RlRBdnJWS1lGVzN1bVBWRHAwUmZMR2VLTUI1VG43TUhabEFUZThmRUEyZ29pUkFuNVI3QzRoVFoyQ3hvLU92ek1abjItSGtyNUhLT2g2Q3BMMUxuTnJsLWdVMWQtUmlTUzJ6eTlNZ1puSnZ1SUZKT01oWkp3YlFTeU9HSWtZZXI0U0NLNUFSVG9zaXN3Nl9EZi10STlhVFA3RWRfUFRCV2J4VWVvb0tha3VNb0VBOHE2cWpnaHFlSzAwMU84QVJNOTc0Z2o4MWZyR0FGenYyckU5VGM5MzVaeUJ3YVZpTU5BODNKc1FqUHpSeTUxZ9IBmwJBVV95cUxNQnVtd2xlRmNOTVEwY1pVOG83NzZpckN6VWY3eTZPZGk1YmdMS041aERIcE9lS2htWU5hZktLOVpTa25Hd1FLUHg5clRrcklXNVk2alVhS0l4OG9FVW9Ic2JBaGE4SDN5ZWt6Y0RjOFFrU3pRdEhrUWJaR183X2xYVnVFWlZqRzBVZGFmZzB4V2U2R0JPRllXeG1ZTkhCN0dXZzNXNnNtdDBSNjBZeVlQaVFXTm85N2pPSnRuSmxfMGJUbklnRjh4bUhWb0E2eGZWOVFZYV9JUVVlOGUzX3NGN2Q4dzlLUFlUdlc1OGNVRVp2UjF0NjVvQzg1Wi1sMEY5OEdMWFpKNmwzc2ZNU05MUFpUcWROeENQMjZv?oc=5",
         "image": "",
         "publishedAt": "2026-09-17T07:00:00.000Z"
