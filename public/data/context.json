@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T20:44:26.637Z",
+  "generatedAt": "2026-09-30T00:24:39.244Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,52 +24,36 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "EN VIVO: Comisión de Constitución inicia debate de predictamen que rechaza otorgar facultades del Gobierno",
-        "summary": "La Comisión de Constitución de la Cámara de Diputados, presidida por Juntos por el Perú (JP), convocó a sesión para este martes 29 y miércoles 30 de septiembre con el fin de evaluar el predictamen que recomienda no aprobar y enviar al archivo el pedido de facultades legislativas presentado por el Poder Ejecutivo.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/en-vivo-comision-de-constitucion-de-diputados-debate-predictamen-que-rechaza-y-manda-al-archivo-todo-el-pedido-de-facultades-para-legislar-del-gobierno-de-keiko-fujimori-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/VYVEZBJVYRF7DL3KSOJNBYFVBI.jpg?auth=8c030b2ef6c59fe669e9b83b04f5a4fc68c54c824cf349b112c737da93556a0c&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-09-29T20:36:39.000Z"
-      },
-      {
-        "title": "Cámara de Diputados debatirá este jueves censura contra ministro del Interior",
-        "summary": "La Cámara de Diputados debatirá este jueves 1 de octubre la moción que plantea la censura del ministro del Interior, César Astudillo Salcedo, según el acuerdo adoptado por la Junta de Portavoces.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/camara-de-diputados-debatira-este-jueves-censura-contra-ministro-del-interior-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/2XJR72HR5BEAHOUREXWSDTISX4.jpg?auth=2300df6ee4cc325e5e9fff709e0b998e14ee748dc658a762f7f7019c910f8e59&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-29T19:58:23.000Z"
-      },
-      {
-        "title": "Elecciones Regionales y Municipales 2026:candidaturas de los movimientos regionales caen 83% desde el 2022 y partidos políticos dominan el tablero",
-        "summary": "En el 2024, la amenaza en el Congreso de eliminar este tipo de agrupación desató una migración de candidatos hacia los partidos políticos de alcance nacional. Los movimientos desaparecieron por completo en 11 departamentos.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/el-exodo-de-los-movimientos-regionales-candidaturas-caen-83-desde-el-2022-y-partidos-politicos-dominan-el-tablero-elecciones-regionales-y-municipales-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/GCNMYV3TUNAT7ITF24PUM247Q4.jpg?auth=96899ab28be219c51788cfb81bd060e1fa1c35fa4997f5f765d4c389060813f4&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-09-29T19:51:17.000Z"
-      },
-      {
-        "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
-        "summary": "Fuerza Popular | Desde que empezó a participar en elecciones subnacionales, el fujimorismo redujo su oferta electoral en más de la mitad.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/en-16-anos-fuerza-popular-solo-ha-ganado-3-gobiernos-regionales-y-no-ha-colocado-un-solo-alcalde-en-lima-metropolitana-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/3ZQHU5EOGNH33LU7J6EN3J4QSE.jpeg?auth=05b2ba86279d4f5e8c5af8ea35780dce6caca06e15b2546119eb9e3be8b10463&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-09-29T19:46:58.000Z"
-      },
-      {
-        "title": "Keiko Fujimori: los escenarios si el Congreso rechaza las facultades y la “molestia” en la interna oficialista",
-        "summary": "El predictamen de la Comisión de Constitución de la Cámara de Diputados del Congreso, dirigida por Juntos por el Perú, que recomienda enviar al archivo el proyecto de solicitud de facultades legislativas, no ha caído bien en el gobierno de Keiko Fujimori. Y desde el Ejecutivo esperan que Ahora Nación, Obras y el Partid",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-los-escenarios-si-el-congreso-rechaza-las-facultades-y-la-molestia-en-la-interna-oficialista-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/7RWXKUF3CVDKJJZ5I6O4VNWC34.png?auth=07dcdf40da5dedaf12426f171f95ca9648bf6ddf776709f02e3ecaaac4751f05&smart=true&width=1160&height=660",
-        "publishedAt": "2026-09-29T19:12:20.000Z"
-      },
-      {
-        "title": "Ahora Nación acuerda “por mayoría” no apoyar la censura del ministro del Interior, anuncia diputado Marcelo",
+        "title": "Discrepancias en Ahora Nación: Acuerdan “por mayoría” no apoyar la censura del ministro del Interior",
         "summary": "La moción de censura contra el ministro del Interior, César Astudillo, ha generado discrepancias dentro de Ahora Nación. El diputado Harvey Colchado pidió públicamente a sus compañeros de bancada rechazarla y planteó ejercer una “oposición firme, pero técnica”. En cambio, las senadoras Mirtha Vásquez y Ruth Luque expre",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/congreso/mocion-de-censura-contra-cesar-astudillo-que-pasa-en-ahora-nacion-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/UFAKOFWX5NBF5JYSNMYN6DUPNE.jpg?auth=3b8a70cce7c896db3d467c4682f2850dadf44a070f7eaaa58b4ab730b5d2d98d&smart=true&width=1200&height=799",
-        "publishedAt": "2026-09-29T18:36:59.000Z"
+        "publishedAt": "2026-09-30T00:18:02.000Z"
+      },
+      {
+        "title": "Keiko Fujimori respalda al ministro César Astudillo ante moción de censura: “Espero que se priorice el valor que tiene”",
+        "summary": "La presidenta Keiko Fujimori respaldó al ministro del Interior, César Astudillo, ante la moción de censura en su contra que se debatirá este jueves 1 de octubre en la Cámara de Diputados.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-respalda-al-ministro-cesar-astudillo-ante-mocion-de-censura-espero-que-se-priorice-el-valor-que-tiene-camara-de-diputados-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/O77COMYUCBAADPT5C6TIJ2TW4A.jpg?auth=fee9c8797dcf59e38df72cee25152e76efd4a0e9bb51370923491737e0ddc903&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-09-30T00:11:07.000Z"
+      },
+      {
+        "title": "Comisión de Constitución inició debate de predictamen que rechaza otorgar facultades al Gobierno",
+        "summary": "La Comisión de Constitución de la Cámara de Diputados, presidida por Juntos por el Perú (JP), convocó a sesión para este martes 29 y miércoles 30 de septiembre con el fin de evaluar el predictamen que recomienda no aprobar y enviar al archivo el pedido de facultades legislativas presentado por el Poder Ejecutivo.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/en-vivo-comision-de-constitucion-de-diputados-debate-predictamen-que-rechaza-y-manda-al-archivo-todo-el-pedido-de-facultades-para-legislar-del-gobierno-de-keiko-fujimori-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/3XVI3ILKVBCN5CE6UBPWFXUQGU.jpeg?auth=f36d51dc8411c50d24632e3dc72da156effe301e3fc68d85f0dd983e31089b3f&smart=true&width=1280&height=853",
+        "publishedAt": "2026-09-29T23:42:12.000Z"
+      },
+      {
+        "title": "Jorge Nieto a Keiko Fujimori: “¿Desde cuándo pasamos del diálogo a la amenaza? En vez de amenazar, gobierne”",
+        "summary": "El excandidato presidencial del Partido del Buen Gobierno Jorge Nieto instó a la mandataria Keiko Fujimori a gobernar y dejar de lado las “amenazas”, en el marco del debate en la Comisión de Constitución de la Cámara de Diputados de la delegación de facultades legislativas solicitadas por el Ejecutivo.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/actualidad/jorge-nieto-a-keiko-fujimori-desde-cuando-pasamos-del-dialogo-a-la-amenaza-en-vez-de-amenazar-gobierne-delegacion-de-facultades-comision-de-constitucion-camara-de-diputados-apuesplan-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/IJWUUDUHPFBG3ON3SOUSTUKT6M.jpg?auth=61ef5b8932cae7f15ff3417a696a8a8d7bed4afde3652769baf6955f4e74eb91&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-29T23:34:31.000Z"
       },
       {
         "title": "Keiko Fujimori sobre facultades legislativas: “Están poniendo a prueba nuestra paciencia, hoy esperamos noticias positivas”",
@@ -77,73 +61,89 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-sobre-facultades-legislativas-estan-poniendo-a-prueba-nuestra-paciencia-hoy-esperamos-noticias-positivas-apuesplan-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/HBNXSQNWERG6HI6QMAOPY3EJNQ.jpg?auth=1bcc2015582afcbbc814948ec5a10e708182f97fa95648f1d1adb5d323872609&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-29T18:20:30.000Z"
+        "publishedAt": "2026-09-29T22:43:37.000Z"
+      },
+      {
+        "title": "Keiko Fujimori: los escenarios si el Congreso rechaza las facultades y la “molestia” en la interna oficialista",
+        "summary": "El predictamen de la Comisión de Constitución de la Cámara de Diputados del Congreso, dirigida por Juntos por el Perú, que recomienda enviar al archivo el proyecto de solicitud de facultades legislativas, no ha caído bien en el gobierno de Keiko Fujimori. Y desde el Ejecutivo esperan que Ahora Nación, Obras y el Partid",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-los-escenarios-si-el-congreso-rechaza-las-facultades-y-la-molestia-en-la-interna-oficialista-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/7RWXKUF3CVDKJJZ5I6O4VNWC34.png?auth=07dcdf40da5dedaf12426f171f95ca9648bf6ddf776709f02e3ecaaac4751f05&smart=true&width=1160&height=660",
+        "publishedAt": "2026-09-29T22:36:59.000Z"
+      },
+      {
+        "title": "Presidenta de la Comisión de Constitución no admitió a debate moción de censura presentada en su contra",
+        "summary": "Tal como lo adelantó el diputado de Fuerza Popular, Arturo Alegría a El Comercio, integrantes de la Comisión de Constitución de la Cámara de Diputados presentaron una moción de censura contra la presidenta de dicho grupo de trabajo, Giannina Avendaño.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/delegacion-de-facultades-fuerza-popular-mocion-de-censura-contra-presidenta-de-comision-de-constitucion-giannina-avendano-de-juntos-por-el-peru-apuesplan-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/QUXEX4KSF5B6NJAC4IT2Z3V62I.jpg?auth=b0f66c7d4b13237bc780aee909f42312e3fa3aeecae417a4e5f371b743150ab6&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-09-29T22:14:51.000Z"
       }
     ],
     "economia": [
-      {
-        "title": "Jorge Chávez: los siguientes pasos en ciudad aeropuerto, así avanzan oficinas, almacenes y más",
-        "summary": "Entrevista. Juan José Salmón, CEO de LAP, también comentó sobre la necesidad de que el Estado facilite los accesos al aeropuerto.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/aeropuerto-jorge-chavez-los-siguientes-pasos-en-la-ciudad-aeropuerto-asi-avanzan-oficinas-hoteles-almacenes-y-mas-noticia/",
-        "image": "https://gestion.pe/resizer/v2/RB2J6G76YRCN7B4YYOVDZR55DI.jpeg?auth=f16a958686b0806354577b3ec7d5a55f4ada25cdbbed7e4c011bafc6e73cac73&smart=true&width=1280&height=853",
-        "publishedAt": "2026-09-29T19:20:03.000Z"
-      },
-      {
-        "title": "Tipo de cambio hoy en Perú: ¿En cuánto cerró el dólar este martes 29 de septiembre?",
-        "summary": "El martes 29 de septiembre, el dólar en Perú comenzó el día con un ligero incremento, en un contexto marcado por el repunte de los precios del petróleo y el incremento de los rendimientos de los bonos del Tesoro estadounidense.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-martes-29-de-septiembre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
-        "image": "https://gestion.pe/resizer/v2/QG7MEFB52BHPBHTPXUQJTV26G4.jpg?auth=45bf0ce8ccae369290fecd6eb1e98cc6cbee38abcbcd525f7dddd3ab1ed244e8&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-29T19:02:49.000Z"
-      },
-      {
-        "title": "Cinco errores tributarios frecuentes que los negocios peruanos deben evitar",
-        "summary": "Gastos sin sustento, declaraciones fuera de plazo y operaciones no bancarizadas figuran entre los descuidos más frecuentes que pueden generar contingencias tributarias.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/cinco-errores-tributarios-frecuentes-que-los-negocios-peruanos-deben-evitar-noticia/",
-        "image": "https://gestion.pe/resizer/v2/TP5NTLSJ5RBR7JPHEXA43WRJEE.jpg?auth=ce2c35dc58e46d889e940802cd083be11072e39224d0b4a6053ec98a6e213d8e&smart=true&width=1672&height=941",
-        "publishedAt": "2026-09-29T18:57:03.000Z"
-      },
       {
         "title": "Banco BTG Pactual obtiene licencia de SBS y abrirá este año: ¿en qué áreas alista contrataciones?",
         "summary": "Primer banco de origen brasileño entrará al Perú en lo que resta del 2026. Capital inicial será de US$ 100 millones. Se enfocará en créditos, banca de inversión y tesorería para corporaciones y grandes empresas de todos los sectores.",
         "source": "Gestión",
         "url": "https://gestion.pe/tu-dinero/banco-btg-pactual-obtiene-licencia-de-sbs-y-abrira-este-ano-en-que-areas-alista-contrataciones-noticia/",
         "image": "https://gestion.pe/resizer/v2/NEVXCJQD3FH2HCRMZ5J2DGYY5U.jfif?auth=15ce21907b3b3cb619b0aae23c75b6be8050f1d050da19ee834382abca92b108&smart=true&width=5184&height=3456",
-        "publishedAt": "2026-09-29T18:50:59.000Z"
+        "publishedAt": "2026-09-30T00:05:35.000Z"
       },
       {
-        "title": "Petroperú: ProInversión alista dos nuevas subastas antes de fin de año por US$ 32.6 millones",
-        "summary": "Además, esa agencia está próxima a aprobar los planes de promoción para los primeros bloques patrimoniales de la petrolera estatal, donde van a incorporar inversión privada",
+        "title": "UE busca cerrar la brecha entre el talento de Perú y lo que demandan las empresas",
+        "summary": "La Unión Europea reunirá a empresas y Estado para abordar la brecha de talento, empleabilidad y productividad que enfrenta el Perú.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/petroperu-proinversion-alista-dos-nuevas-subastas-antes-de-fin-de-ano-por-us-326-millones-noticia/",
-        "image": "https://gestion.pe/resizer/v2/LBF6V6APORBPFCF2QIGYAICQKM.jpg?auth=aa8b5cef49795c7a20912b86398c2e27c2b9158d1223a32ecfc3c96b83e1e5a3&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-29T18:33:12.000Z"
+        "url": "https://gestion.pe/economia/union-europea-busca-cerrar-la-brecha-entre-el-talento-de-peru-y-lo-que-demandan-las-empresas-noticia/",
+        "image": "https://gestion.pe/resizer/v2/LHW72JMLQNHC5C4MSFMLKDX2JE.png?auth=55a1eb6bd18bbf237e370022197398787956ed02ac03006d0e0478ff239a2453&smart=true&width=1013&height=661",
+        "publishedAt": "2026-09-30T00:02:23.000Z"
       },
       {
-        "title": "Aeropuertos de Chiclayo, Piura, Trujillo y Cajamarca se transformarán: esto es el plan de AdP",
-        "summary": "El concesionario de 12 terminales regionales prepara un nuevo aeropuerto en Chiclayo y obras intermedias en Piura, Trujillo y Cajamarca. Además, busca ampliar los espacios comerciales para elevar los ingresos no aeronáuticos.",
+        "title": "Delegación de facultades: Comisión de Constitución “pausa” debate para este miércoles 30",
+        "summary": "El predictamen en discusión recomienda la “no aprobación y envío al archivo” del pedido del Gobierno de Keiko Fujimori. La presidenta del grupo, Giannina Avendaño (Juntos Por el Perú), respaldó que están facultados para ello.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/estos-cuatro-aeropuertos-regionales-cambiaran-de-cara-el-plan-de-adp-para-chiclayo-piura-trujillo-y-cajamarca-noticia/",
-        "image": "https://gestion.pe/resizer/v2/X336NWO4QZDSJIOXSPEUHKLZOE.jpg?auth=3b6412ac4b889dc9e391d01cc9317d81bba91cd64ceee45e793716c08e5c8d23&smart=true&width=1366&height=768",
-        "publishedAt": "2026-09-29T17:36:34.000Z"
+        "url": "https://gestion.pe/economia/delegacion-de-facultades-comision-de-constitucion-pausa-debate-para-este-miercoles-30-noticia/",
+        "image": "https://gestion.pe/resizer/v2/QUXEX4KSF5B6NJAC4IT2Z3V62I.jpg?auth=b0f66c7d4b13237bc780aee909f42312e3fa3aeecae417a4e5f371b743150ab6&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-09-29T23:54:46.000Z"
       },
       {
-        "title": "El Niño e inseguridad redibujan mapa del retail: plan B con el personal y envíos al hogar",
-        "summary": "Desde junio, la asistencia a tiendas en centro comerciales y puerta a calle en Perú viene cayendo en medio del impacto del fenómeno El Niño y la coyuntura electoral vivida. Aun así, la tendencia a la baja se iba acortando hasta agosto, permitiendo confiar en que el repunte en la afluencia finalmente llegaría en septiem",
+        "title": "GLP y diésel en Perú: las 4 propuestas de Indecopi para resolver falta de almacenamiento",
+        "summary": "Entidad reconoce que existen cuellos de botella que hacen necesario descentralizar la infraestructura de almacenaje de diésel y GLP",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/visitas-a-tiendas-y-malls-caen-por-tercer-mes-consecutivo-el-efecto-trujillo-la-inseguridad-y-el-impacto-en-zona-norte-del-peru-noticia/",
-        "image": "https://gestion.pe/resizer/v2/AT2TVM67XVHNNP54CQWENBKGGQ.jpg?auth=e74dbe406844aa103648d6d0869798818ea81b640710f63a80d4de9e8151d7dd&smart=true&width=1200&height=782",
-        "publishedAt": "2026-09-29T17:36:01.000Z"
+        "url": "https://gestion.pe/economia/glp-y-diesel-en-peru-las-4-propuestas-de-indecopi-para-resolver-falta-de-almacenamiento-de-combustible-noticia/",
+        "image": "https://gestion.pe/resizer/v2/HITK2OPJMNBJ5FCK6RXKDPRDQE.jpeg?auth=e129346c2d7437db034a31674f6403d9a930730a7a3c1a957912200b1c70a006&smart=true&width=1645&height=923",
+        "publishedAt": "2026-09-29T23:30:00.000Z"
       },
       {
-        "title": "Mercados e indicadores – Hoy martes 29 de setiembre",
-        "summary": "Para tomar las decisiones más acertadas de inversión, manténgase diariamente bien informado sobre el desempeño de las acciones de la plaza bursátil, de la variación de las principales variables del mercado financiero, así como de la evolución de los precios de los commodities. La cotización en el mercado de Londres el ",
+        "title": "Pichincha lanza su banco digital Pibank: ¿cómo funcionará?",
+        "summary": "La entidad comunicó a la Superintendencia del Mercado de Valores (SMV) que el lanzamiento de Pibank constituye un hecho de importancia y forma parte de su estrategia de crecimiento.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/mercados/mercados-e-indicadores-martes-29-de-setiembre-2026-noticia/",
-        "image": "https://gestion.pe/resizer/v2/CKBJCXWQXVCTXHZN5ZAGTM66RE.jpg?auth=c935a9816683dbd514d89311dedaf60293df727aefbd90da56a9830e4813f2eb&smart=true&width=1280&height=720",
-        "publishedAt": "2026-09-29T17:33:07.000Z"
+        "url": "https://gestion.pe/economia/empresas/pichincha-lanza-su-banco-digital-pibank-como-funcionara-noticia/",
+        "image": "https://gestion.pe/resizer/v2/P76BMK7ZDVDCJE2OBFYIWTWJLM.jpg?auth=cb09ed46868823cacd02f1abb61df8659865da8ed6a8ff57f5b189b3743d3a21&smart=true&width=1214&height=697",
+        "publishedAt": "2026-09-29T23:16:43.000Z"
+      },
+      {
+        "title": "APECOSE llevará a Ica debate sobre los nuevos riesgos que enfrenta el sector asegurador",
+        "summary": "Algunos de los temas que se discutirán serán el impacto del cambio climático en los seguros, el avance de la inteligencia artificial, la ciberseguridad y los cambios demográficos asociados a una mayor longevidad.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/apecose-llevara-a-ica-debate-sobre-los-nuevos-riesgos-que-enfrenta-el-sector-asegurador-noticia/",
+        "image": "https://gestion.pe/resizer/v2/VBOZZNA4QNEQJNPTNGURZX2NJY.png?auth=33cf75e3d22b6dbe46a9ffc27682879ddf8b143726914f6d01eca9fc7dc66dc8&smart=true&width=580&height=330",
+        "publishedAt": "2026-09-29T23:15:48.000Z"
+      },
+      {
+        "title": "LAP: “Ampliar la concesión no es el camino, necesitamos el ingreso de la TUUA hoy”",
+        "summary": "Cabe recordar que el operador planteó un “descuento” de 37% sobre la TUUA de transferencia internacional, es decir, que pase de US$ 10.05 a US$ 6.40, sin IGV.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/aeropuerto-jorge-chavez-ampliar-la-concesion-no-es-el-camino-necesitamos-el-ingreso-de-la-tuua-hoy-dice-ceo-de-lap-noticia/",
+        "image": "https://gestion.pe/resizer/v2/EOEJ77ESGNH5VNCYXXLHAUTOFU.jpg?auth=9da5dc5d1aa537607ff5f82bfa5c0e805c3091509cc0218982279f6045fb5937&smart=true&width=1800&height=1200",
+        "publishedAt": "2026-09-29T23:15:00.000Z"
+      },
+      {
+        "title": "Universidad Antonio Ruiz de Montoya va por expansión física tras crecer 200% en posgrado",
+        "summary": "La Universidad Antonio Ruiz de Montoya (UARM) apuesta por ampliar su oferta de posgrado ante un crecimiento de alrededor de 200% en el número de estudiantes frente a 2025. Para 2027, prevé sumar nuevas maestrías y diplomados y avanzar con inversiones en infraestructura.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/uarm-acelera-inversiones-tras-crecer-200-en-posgrado-noticia/",
+        "image": "https://gestion.pe/resizer/v2/KONCVCAJWVARZHTKGPG6OK6KAU.jpg?auth=b50bd1d94579d3ccc09e5ae9569d4655747db86e4706afe8a3c29d04e9ffd8b0&smart=true&width=1200&height=844",
+        "publishedAt": "2026-09-29T23:11:21.000Z"
       }
     ],
     "sociedad": [
@@ -180,6 +180,14 @@
         "publishedAt": "2026-09-03T07:00:00.000Z"
       },
       {
+        "title": "Keiko Fujimori, mensaje a la Nación: fecha, lugar y ejes que marcarán su primer discurso como presidenta 2026-2031 - Infobae",
+        "summary": "Keiko Fujimori, mensaje a la Nación: fecha, lugar y ejes que marcarán su primer discurso como presidenta 2026-2031 &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUnB3bzVxUmd0OUYtcDl1b01PcVNtVzVac18zZGpEdWxSZTVWUGxiUGY2VHZYSHE1c0VQcG11Zlg3eHZLZkctY1JFSGE2UVRTNE1jcWxiTE9rTXdabGdJUTdsQTlhN2ZKYWxXczRBUGhUYjE0LXlfZElpWTltR2FRVnBCMnZROTU1a3ZxWXZhNlFIaTZVWjlBTWJoT21Tbmd3NmhHLVJGSnlOdjBtUHZ3VGJnelJKeTJaX0hpdWJJeklIR3B1N1dfZ01iZWlFV0xrT1d2bG1mc0JWVG9rRVVkalFxZmNsRkXSAYICQVVfeXFMTVVCcVFOaGV1T3c1U1Q5cFppVFBQZ0hma1ctVDVYbzdFUlBsZ0dETG9tWk1GSWFzRk5zUEtlY3h6SDB3OGhyTUpWVG9qdEdMOVVhUUZTbEFBYS1TZmFBQWpDN2lHN0VMQWdWMnV1NHU4WGNDVlB1eGZrMXNITmxqdmx2M0tYN2lzODdGZDVJVWVUbVhZeXhYNlktV1hkTmJHS0d4NjVEcEhKOTMxUkx0STA3WDYyMWJZc0YwU09lQVlESHkweTBxSmtmZ3BvZzBIS1dlRHJtVG9tQU1sU1kwYVg0cW1pcExDSzgyUS1kMmZvbTVPNXAyX3plMWM5TXNZWE5n?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-26T07:00:00.000Z"
+      },
+      {
         "title": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS - Diario Ahora",
         "summary": "Congreso aprueba crédito de S/ 9.596 millones para salud, seguridad, elecciones y gratificaciones CAS &nbsp;&nbsp; Diario Ahora",
         "source": "Diario Ahora",
@@ -196,20 +204,12 @@
         "publishedAt": "2026-06-17T02:03:59.000Z"
       },
       {
-        "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - elpais.com",
-        "summary": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución &nbsp;&nbsp; elpais.com",
-        "source": "elpais.com",
+        "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - EL PAÍS",
+        "summary": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución &nbsp;&nbsp; EL PAÍS",
+        "source": "EL PAÍS",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeW5LcjdJa3V6MXlwdU1CVG4wR19lcXM5Ynoydmd3QVYxMWJ5amNPQVdYRnV3d05VZXFfMUc1M05RUTNBRWloaWFCX3U1LTloTHRLQ2NuaXVSWFllTHZ1aWFjVXNXR3M0LTRpVHBaUU9XSjZ4TXVTZ1hKMGhPVHFrem1MZU54RG52SWp5OXVTQlpHMlhYemVacWI5ZUVwTUJVT3d2MkJRdEpIekRCQmtIZDQxaFN0d0dZRE5zZ1NwS1JMd0NWaWlxeGttVFdaMlN2VlEwWFc5S0pfdTVNQ2JMZW9vempBTTJ2TW9CSDBEQU8?oc=5",
         "image": "",
         "publishedAt": "2026-06-07T07:00:00.000Z"
-      },
-      {
-        "title": "Así fue el debate presidencial entre Keiko... - Panamericana TV",
-        "summary": "Así fue el debate presidencial entre Keiko... &nbsp;&nbsp; Panamericana TV",
-        "source": "Panamericana TV",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdDQxbVY3WEU1XzFWR0trRW9QOWV5ZDFkQm1jN2Rmd1pMNEN6dk1XTFFhUW5FZm5KTUlyS0RDR0daMy16d092ZWxIVEVQTG5aUndwbGhOVTdKaHRsUS1mSVY2UEZQVjRsX3BqMjViaHJDNHR6NFMya2VqZ3J5Ymo0YzBIZHRmOVFpbjdmRnR4UHg2ZXgzZDNVYzVPS2l5WUtPTzdRNmZ0Q1BJRUwwWWoyanN6a3JVUmI4UFltUmgzVmdQUldocXgxV1JWajNKVGVvSG51WE1qRExWd9IB3wFBVV95cUxQMGFMTzZBZDdLRURHM0wyU3NWUlhqY2s1bEVvU3RibFdGajkxLTYxWGpuTjROTngwLWVtNG1Kc1UtbUxFWWJ6V1p3SDV5MUpBdVQwYjFMX2Rkc1VpZnhXZHZUelc4bDkweGRoVDhLd2ZmZVgzdnpjN1I3SUNLWVZjLUNuc1pkSDBLSkxNdWNaRW1aRUZqZ2k2ZW1fMXh4Q3h5VkJFVlZzeFZ1dWhNcFJ2bnRzbjR1MmpMUTM0eERIdDY0QlpDMnJ0UGthLUhhWGVoM21rTUNkak9RRXVZM1ow?oc=5",
-        "image": "",
-        "publishedAt": "2026-05-31T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -280,14 +280,6 @@
     ],
     "ideas": [
       {
-        "title": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional - Chimbote en Línea",
-        "summary": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; Chimbote en Línea",
-        "source": "Chimbote en Línea",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdUlfZ2hfaXNHTGtPY0RiYTFSLU9hOGp6UFpJb1JmLTBoLUlISTFoNlFDN1Vpc2pfVFhfNFpveDV3WVE3Q2lpRmZfdXZZRmVQRkhqYkw2OW9mMXRCWGJacjAzczhkOTVtc083b0djalZpUnNkOFdVdExpb3NkNjdrMDlBNFNkMDZnVEotZzM5eHZlM251TE5VbE9YVWFkSGJxVkhDcHhLaVpjbkdCc205bHRyVjFmMkNuNEhVOGlOVU5PTVZmeU5Dc09uRmxpMUpMbzdvVVNjaE9GdmpVczdfVUZpVDc0c01u?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-21T18:26:00.000Z"
-      },
-      {
         "title": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras - El Comercio Perú",
         "summary": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras &nbsp;&nbsp; El Comercio Perú",
         "source": "El Comercio Perú",
@@ -342,9 +334,25 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzh0eDk0c080NG1Kcm1kWlJGeElCZVdyaUNoWVRyZkcyRU5MVUduZkhuLWM1MF9tX21ocEdKRWxCZDRtcHpUYVdzU1Y4TS1TeGZvR25fckg5SVdvNGJzVlNaaGZqd3pxY0Ixb0N0MUZiZTRFRElybi11LTNYazJUcTJpTGxYamxWWEpCbVlDQmZhSm5CMm4xUDNUWGstNjhzZzFQTnVldHZaQ1pjMTA3XzNKaTN2NzhoeXNKMjhFQ2M?oc=5",
         "image": "",
         "publishedAt": "2026-05-29T07:00:00.000Z"
+      },
+      {
+        "title": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación - Tu Diario Huánuco",
+        "summary": "Expertos en inteligencia artificial y tecnología se reunirán en Perú en importante evento de innovación &nbsp;&nbsp; Tu Diario Huánuco",
+        "source": "Tu Diario Huánuco",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaGpsT3FrekhQWTg2UDZlY1JyaUJzQWI4UDEyRjZGUDY4ZXRtQjBUUHlmdmtrSW8wN29HalpYQWswZFA1OHg0SVAyRldYdFR3bUk1V0xwRHRWc1ExQnNXN0VzejE0eHFacXpMd1RnQ2hjR0ktQU1CeGZrZm1HMUUyci0tdW1xWnpyeWl3NHRua0pSRXE2azVCNEk4aTg4VDN4czhsZXV1T1F3THByYkJyajF5blp0cjlKanJ6blRGNEsxS3dOMnFYMFAyZXRqbEJyRDhVX2x5WWxadw?oc=5",
+        "image": "",
+        "publishedAt": "2026-05-05T07:00:00.000Z"
       }
     ],
     "ia": [
+      {
+        "title": "Predicción México vs. Perú: resultado exacto del amistoso internacional 2026 según la IA - bolavip.com",
+        "summary": "Predicción México vs. Perú: resultado exacto del amistoso internacional 2026 según la IA &nbsp;&nbsp; bolavip.com",
+        "source": "bolavip.com",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZG42WXhOSkpQOFctMlRoMURwMUlpNlhmSG5yUnpRRGJjS2hrVXJRaGZpZE1LTXV1VXBqaXJYSHBpNWFEQmhMTEU3UGRKY3lOc21lRnRZQ0tnN2Q5UmctVUExMHZzbjNMVUc1eHZWN2RhUkJJaWctT3I5VG1uQlVnM3M0YmpCUFZaLXlRWWhiSTg1UFoybVFKQjNOVzd4elluM1F2bEg5cVdHSThSRU1mUmdWWlZtSmFHNUNLM1hTcUhNSTI0RnfSAcsBQVVfeXFMUGNpQWJjRkZNb3pnWkkwNmRuZl9ORnBweU1aU05ncmtFaHgtbUluSFdURXRlUjJfbHRoRlVVUEdoRGVfT0xFVC1hSzBKYnlPcnFscjh4bUtlRHEtOUw0cTZfTWt1bnRpcDA3TXZpSlU1WWpTNUw5Y29jaDJ3d3JTYmNJUEFEWDZjaGhwOVhXVjZ3RVg3RTVnaDg4ZC1vYXlvSXIyNTB1aXlncldoNm1WMTFDejkxRWtTUDQ5TkFoWTFLSFp3UmtpTG92Rms?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-29T21:51:07.000Z"
+      },
       {
         "title": "Líderes y los 4 mitos a desaprender sobre IA: las claves para transformar sus empresas - Gestión",
         "summary": "Líderes y los 4 mitos a desaprender sobre IA: las claves para transformar sus empresas &nbsp;&nbsp; Gestión",
@@ -378,6 +386,14 @@
         "publishedAt": "2026-09-25T05:12:45.000Z"
       },
       {
+        "title": "Cumbre Perú Sostenible 2026: la inteligencia artificial redefine las habilidades que necesitará el trabajo - Mercado Negro",
+        "summary": "Cumbre Perú Sostenible 2026: la inteligencia artificial redefine las habilidades que necesitará el trabajo &nbsp;&nbsp; Mercado Negro",
+        "source": "Mercado Negro",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMmY5UmVoQlRiVFZ0cDRQcEh1ZkpySWs5cXBRbmFLQTROWDNRa2QtS0tEdnVXc0V6NENLY2NzSDBtU2xZeFp1bm82anAwTFg4OEFZTGoyQ1hrRGpjc3lfbmN1SG5fS0VzbzlYN0NMWGI3ZnpqVF91N1N6ak13bzdGYzBjNENSaDczMkhURnJBMjRmdFE2SWc?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-24T21:49:46.000Z"
+      },
+      {
         "title": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades - Gestión",
         "summary": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades &nbsp;&nbsp; Gestión",
         "source": "Gestión",
@@ -392,25 +408,17 @@
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbWJDZUdnY3VWZWxFNlc4V1ZDYVVrR1hWaUhHWEFmZlk4Ym10dDlTa0g3UTRWRENGUnA5SU1GaDR2amROZ3p0SmtlTWZrRndXeDNnMGZIRFphTDBIQTB3R2JZLURoT0FONXF4aDJCSU5udHNHT2lQbkZfbXE0SlBHTkVFN2NrQlFUcjlmSGhXRGkzODFZbTJpbTVidVBGOFQzT1BRY1U4VVdMUmQwY1o2RG5qdjltOWlUQ3F5NDVRRUMtYTljZS1TdVB3?oc=5",
         "image": "",
         "publishedAt": "2026-09-19T07:00:00.000Z"
-      },
-      {
-        "title": "Servicios en Perú alistan cambio por la IA: reclamos, pagos y trámites podrán resolverse en segundos - Infobae",
-        "summary": "Servicios en Perú alistan cambio por la IA: reclamos, pagos y trámites podrán resolverse en segundos &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcXNMNU91ZVRjV0EtakxXbUR2MnVoUjFDdGpXTDlydElxQXowSEZDNTRWNUZUUW9GZGdNMEVTVHZ1Z3I0SXUtVUtvLXBiVWFxLUFkMDV0Rl9DXzN0WTJvdlBySGdlNXdFS28wTzQ2eVRkdkhQaFI1Rk9vMVFOdGFQdHQ2aFBNcC1FY3lOOGxHWWF0NGplWC1KaF9ITHBJTDJESHVLYkZqZ3lZWmlxYWxsMU40bk1BaG1FRTFiTk4zWEV6d0ZYOUoyS1JONV9TS2hwc1c5Qnd30gHwAUFVX3lxTE9kdXhKY05MMFJfVzB3UC1FY3hmTTNSa3U3UVJTMEh6SDRYWHU4ekJJdFJHWnd0RE5wN0Z5cmxmd0MwUkN2aGhzZVRkd0ozQkRIYkt1TnVsMTNveUFMaF9zbUlFaFZ6UmlhbUdQd2plTlQ5QXV1LUxIbzJxamxXSWVqTVJQbjB0cDl1WWxEN0Q2R01fUTFSd2FNWXVzeTg4aUNZOEc5OHlNTTVSb3J4LTlKcDJMQnE1WE9lNnluQzZ5NU5RN0UyU0l6cUZtZVU2RzFVdHBrMUZqWWFOS204Q3NKUTBIN3RZbXl5alZCUG9VNA?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-18T07:00:00.000Z"
-      },
-      {
-        "title": "Perú y la ENIA 2026-2030: De la digitalización al ‘Gobierno Inteligente’ en América Latina - Portal ERP",
-        "summary": "Perú y la ENIA 2026-2030: De la digitalización al ‘Gobierno Inteligente’ en América Latina &nbsp;&nbsp; Portal ERP",
-        "source": "Portal ERP",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ2Rud0dCQzBMb0x2dXpNak80RjFMa3huY3AtVFJ1b3l1RVI2MUZxYnR2V0h0THNmTTBBdmUxUkFIaTFtUWQ5LWh3Mjl4SUJURjBIY011M3pwNURhZ1YySmpCeUtfV0o0aXd5VGtGNV91VWdpZ1NDaHdDeWpXVFR0RnRlMkJ5TzNNb1RqWUNIQi1DZ01ka1E2WXRlUmNNMGRhNWZGSmpYX29reEpBUUlxNnUzNWUxWVBFSmZSRQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-18T01:51:25.000Z"
       }
     ],
     "tendencias": [
+      {
+        "title": "“El reto de las 48 horas”: la peligrosa tendencia viral que impulsa a adolescentes a desaparecer de sus casas - Infobae",
+        "summary": "“El reto de las 48 horas”: la peligrosa tendencia viral que impulsa a adolescentes a desaparecer de sus casas &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVXRuQnUzVFlpak42cWxYOVpfVVpBZDI1czRfY3I4cWpWdEtqOU9FWURLVjBmNjM0VzE3ZThLY0tLWXVaSmI3VDdsNEpqMUhNaUpJblFRX3E2VTBhSmdZcWtISVhFN01GeUhUbnhSVDEwejVpeFc3Wmp0a0ZTT0dXWGVpNkpSdFNDbC1od0xxRVVZbVB4MEZFUkdnQWlaeDNnNERJenpQS0RIQ1VPbDhPSkZjYVFJSDFDQ2h4enMzNzFRRy12MWhOZ1hNb2t5Z21UZXhIaldndkROWmZzb0pmcdIB-wFBVV95cUxPVlU3aUg1a2ZCaGg2c1M2WEV3cmFvNHc1N2UyYnZaRnlBVVR2Wngtdl9rNEEzT1B3YldhUHV3U3JBbnB2QzR3WEEyTVNCa2lpYWtNZ0J0VnM5ZzBCYlZST1lLX0NZb2ZPRVNIb2ZHQ2owLUpKYVFlcWEzMG5QaEo1OGtOVFVFR0d3Wm0wOUIwd1Y2enlYNm5WVXVVUGFSeGtYZ2F6X3Nrb0FSWEdmbWpZbHZBY1A0dWJCZUpTS0JSQy1FeG9kTW1EU2dhTWFvbC1YQ2hVSDVucDFWQ25UTFgtMUVITnpxendkYnpicWNoWHJiZXUyQjNydDJPRQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-29T22:47:49.000Z"
+      },
       {
         "title": "Augusto Thorndike se burla de las críticas en su contra tras estallar en vivo contra camarógrafo: “Así que soy tendencia, jojolete” - Infobae",
         "summary": "Augusto Thorndike se burla de las críticas en su contra tras estallar en vivo contra camarógrafo: “Así que soy tendencia, jojolete” &nbsp;&nbsp; Infobae",
@@ -466,14 +474,6 @@
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVmN3WHprRm1HX1MtdXhjWk5ZajM2dVZLSjJmY1VVUnN5QUxaUmxBeW81amF5RVY0dXV6clgtUERMZG40bmpBd2txODRnOElyeTEwMlZVZ0ZtcEVlelpKaHdCbl9ZUWhFUVVkbUxWd0k5X2FBd2tJNGM4bFBoakU0RDdOS1NxSmJFbDRGOHZ0UEJ2aXVfM3pmUUROMUloQl9uTFZDa3ZtaUJ5bHIwcW5hMTgwMlNoWk13UGhfZkNwbjZkMndyOHQzQjBsMnF6N2tOeTdlVE1zSXdkWTJDNXVlNTZhTdIB_gFBVV95cUxQNU45c1NZNkFDWjhUYzJxYUxYRGp2Uk9NaF9CbkVfSmRiZW90RGRWRW9BR2FFX1FkRVNySWJhdzVneTNFXzBDSEt5Y3RpeThBYlFfQldWaHZ0ZFRtSlZfaEtNUkpSLU5mOHh6Y2lxbTU2ekhmdC1zNmZMcVQwLVVkam5vV1lzRktaVFdmclp1NlR6RHNpMlYtNzltT29YWXFXR1VUS0w0Q0c4RGlGVEM0NVVlckVqOHR4c0U1UjlMcjRPVW43MjJhYV9hcWRTYmpVTEI4aGpsalFHbFY2LTNKX3ZRNFdLTVg0ZGtoaDdENE54S09xeTVVTElrZTF6UQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-15T07:00:00.000Z"
-      },
-      {
-        "title": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” - Infobae",
-        "summary": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY1JKYUdUNlpDMThFMDBMcUtpSm9WX3hDME5FdlhTVkIySnFidkNRV3RNa2Z0LVB0ZzhIUlNPdnFSM3dGQl9SRXl2XzdRVVZNS3JoYkVoZzE5WDhnWDVpdlRCNVVWbTNYTjZHVEF5cERtNEZnT0RyRmEzUUlwT0JVcEhnRXEzWExJN2lxdjEtcHZCUm1vcVpWQ1VUQ21POUhFb2Fnb1FiaHFmZHg5YnctUWJfQk53Y0M1U0ZKSWhVVlRoYXFycEZDeFk1SdIB5gFBVV95cUxOX2lXTFZfYS02czhMamE1UE01SmozQVIzLXdxbTVwRFlJQlJhaGI2XzdnVlprZkVQb0J1MjllZ0pJbk9vS21OcWJTYUQ0OU1FLW1XNU04cXRRZUtvNFF6dGV5X0VyR2hFSEd1TU1yMl9EMkdVTFZxWlB2ZzZ1cHpMcHZLSVptbmpaTFpkQVkzOGV3MHdCN0FkUm1qWTJ5aWxVVkVNTmRFSkI0czZhZkM3SGtaYmtDSy0tVVJCNHE0QngySUFLN05tY2xESFVDRTh1M0dWeUgydHVyb1p1dkdhMUN3VkhUUQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-30T07:00:00.000Z"
       }
     ],
     "farandula": [
@@ -502,17 +502,17 @@
         "publishedAt": "2026-08-26T07:00:00.000Z"
       },
       {
-        "title": "Fallece Víctor Angobaldo, recordado personaje de la farándula peruana, en accidente de tránsito en Cañete - Exitosa Noticias",
-        "summary": "Fallece Víctor Angobaldo, recordado personaje de la farándula peruana, en accidente de tránsito en Cañete &nbsp;&nbsp; Exitosa Noticias",
-        "source": "Exitosa Noticias",
+        "title": "Fallece Víctor Angobaldo, recordado personaje de la farándula peruana, en accidente de tránsito en Cañete - exitosanoticias.pe",
+        "summary": "Fallece Víctor Angobaldo, recordado personaje de la farándula peruana, en accidente de tránsito en Cañete &nbsp;&nbsp; exitosanoticias.pe",
+        "source": "exitosanoticias.pe",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObVpKUTdsaGNfWXpoU1pfOXpNQzVUUkt4QzFpa1FWLUhBZ1dfYWdwUFlkN2hNNEpyRUxvei03SEVJN3lzak1ZWTZGYWplcUZOaW1JRWpVb0NzZ09tM0QxNkdQWlFadmVQd3R0S003dERaWUNVa3NkYXNHd1N1cEpGT2tycVN2Ym5oOVVpbjQwcHFJYmxmcEotVTFUcnFJdG5IcWFMN0VIdVZsX011VnBMRTVXcC1JRUZJWHBZd2w2N3lVZjAyOFhwbC1zdy1yX25hVDlhMTJPTQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
-        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
-        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
-        "source": "Diario Correo",
+        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - diariocorreo.pe",
+        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; diariocorreo.pe",
+        "source": "diariocorreo.pe",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
@@ -592,9 +592,9 @@
         "publishedAt": "2026-08-21T07:00:00.000Z"
       },
       {
-        "title": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto - blog.joinnus.com",
-        "summary": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto &nbsp;&nbsp; blog.joinnus.com",
-        "source": "blog.joinnus.com",
+        "title": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto - Blog Joinnus",
+        "summary": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto &nbsp;&nbsp; Blog Joinnus",
+        "source": "Blog Joinnus",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQempKSjE1ZEJaSUlkTkxKb2ZEb01WelVBMUZpdUMxM1FSR3VlUlZZalFqUnZJMnhWcFc5UUdoZVFMOG1TbWpzc1BqTFUwbTl6MEhWR2NpSW95RmhRQ2tFSFM2NXZsQjFNUXVsY2k5dS1HRUlzU2pJMEN2SGMtSXlBOFhCbVBSVExUWGxFWVV1dTJCbFdtY0Npdmk4UUlFUkxXQi1QRlFCdC1VWG9jR2hxS2xfbGRGb0tGMGl3MzFrNkdvYjVp?oc=5",
         "image": "",
         "publishedAt": "2026-08-19T07:00:00.000Z"
