@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T13:39:18.227Z",
+  "generatedAt": "2026-09-30T19:16:17.587Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,20 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
+        "title": "Senador Daniel Barragán anuncia que diputados de Obras no respaldará moción de censura contra ministro César Astudillo",
+        "summary": "El senador Daniel Barragán (Partido Obras) anunció que la bancada de diputados de su partido no respaldará la moción de censura presentada por Juntos por el Perú (JP) contra el ministro del Interior, César Astudillo, que se debatirá este jueves 1 de octubre.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/cesar-astudillo-senador-daniel-barragan-anuncia-que-diputados-de-obras-no-respaldara-mocion-de-censura-contra-ministro-del-interior-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/GSUVVXMHHVBS7ESOPJ22ZRHMTU.jpg?auth=a4f8aea6b023c2b40e47c3dd57ad17dbdbf1a4f6bfb3873b5bf3238aee691a5c&smart=true&width=950&height=830",
+        "publishedAt": "2026-09-30T19:09:14.000Z"
+      },
+      {
         "title": "Ante cuestionamientos de El Comercio, el Mininter asegura que Programa de Recompensas está “en reestructuración”",
         "summary": "El Comercio envió un pliego de 11 preguntas al Ministerio del Interior el 18 de setiembre. Aunque las interrogantes no fueron absueltas, los errores y vacíos detectados empezaron a corregirse días después.",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/ecdata/ante-cuestionamientos-de-el-comercio-el-mininter-asegura-que-programa-de-recompensas-esta-en-reestructuracion-pnp-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/JAH4GS3P2NC6VMKRSYLALG57HU.png?auth=885a2a7f360b0075187f78860ab2db0e1ba433a71f719a6dfcd7a7d81f490100&smart=true&width=1200&height=628",
-        "publishedAt": "2026-09-30T12:05:18.000Z"
+        "publishedAt": "2026-09-30T18:43:25.000Z"
       },
       {
         "title": "Rafael López Aliaga: ¿Cuál es el camino que debe seguir el JNE frente a los candidatos a primeros regidores?",
@@ -37,15 +45,7 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-cual-es-el-camino-que-debe-seguir-el-jne-frente-a-los-candidatos-a-primeros-regidores-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/A37A3G75CNBXFPVHHCT4DWM4EI.jpg?auth=b3ad9c3bcdd05398f2374b10de2bed0088242e8460cb53f1df09fe2a54552361&smart=true&width=1200&height=647",
-        "publishedAt": "2026-09-30T11:46:57.000Z"
-      },
-      {
-        "title": "Keiko Fujimori: los escenarios si el Congreso rechaza las facultades y la “molestia” en la interna oficialista",
-        "summary": "El predictamen de la Comisión de Constitución de la Cámara de Diputados del Congreso, dirigida por Juntos por el Perú, que recomienda enviar al archivo el proyecto de solicitud de facultades legislativas, no ha caído bien en el gobierno de Keiko Fujimori. Y desde el Ejecutivo esperan que Ahora Nación, Obras y el Partid",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-los-escenarios-si-el-congreso-rechaza-las-facultades-y-la-molestia-en-la-interna-oficialista-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/7RWXKUF3CVDKJJZ5I6O4VNWC34.png?auth=07dcdf40da5dedaf12426f171f95ca9648bf6ddf776709f02e3ecaaac4751f05&smart=true&width=1160&height=660",
-        "publishedAt": "2026-09-30T11:43:00.000Z"
+        "publishedAt": "2026-09-30T17:47:00.000Z"
       },
       {
         "title": "Moción de censura contra Astudillo pierde votos: los entretelones de la decisión de Ahora Nación",
@@ -53,107 +53,107 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/congreso/mocion-de-censura-contra-astudillo-pierde-votos-los-entretelones-de-la-decision-de-ahora-nacion-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/EQON7CFRKZCSZGOPBL55LUZKFI.jpeg?auth=e5ceceec9fa1f581e8d9b0e7f45b1bde024150ce4b5931a145751621e954c730&smart=true&width=1280&height=854",
-        "publishedAt": "2026-09-30T11:30:00.000Z"
+        "publishedAt": "2026-09-30T17:47:00.000Z"
       },
       {
-        "title": "Comisión de Constitución reanuda esta mañana debate de predictamen que rechaza otorgar facultades al Gobierno",
-        "summary": "La Comisión de Constitución de la Cámara de Diputados, presidida por Juntos por el Perú (JP), convocó a sesión para este martes 29 y miércoles 30 de septiembre con el fin de evaluar el predictamen que recomienda no aprobar y enviar al archivo el pedido de facultades legislativas presentado por el Poder Ejecutivo.",
+        "title": "Elecciones Regionales y Municipales 2026:candidaturas de los movimientos regionales caen 83% desde el 2022 y partidos políticos dominan el tablero",
+        "summary": "En el 2024, la amenaza en el Congreso de eliminar este tipo de agrupación desató una migración de candidatos hacia los partidos políticos de alcance nacional. Los movimientos desaparecieron por completo en 11 departamentos.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/delegacion-de-facultades-en-vivo-comision-de-constitucion-de-diputados-predictamen-que-rechaza-pedido-del-gobierno-para-legislar-video-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/3XVI3ILKVBCN5CE6UBPWFXUQGU.jpeg?auth=f36d51dc8411c50d24632e3dc72da156effe301e3fc68d85f0dd983e31089b3f&smart=true&width=1280&height=853",
-        "publishedAt": "2026-09-30T11:00:00.000Z"
+        "url": "https://elcomercio.pe/ecdata/el-exodo-de-los-movimientos-regionales-candidaturas-caen-83-desde-el-2022-y-partidos-politicos-dominan-el-tablero-elecciones-regionales-y-municipales-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/GCNMYV3TUNAT7ITF24PUM247Q4.jpg?auth=96899ab28be219c51788cfb81bd060e1fa1c35fa4997f5f765d4c389060813f4&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-09-30T17:30:42.000Z"
       },
       {
-        "title": "Constitución apenas evaluó una de ocho materias del pedido de facultades planteadas por el Ejecutivo",
-        "summary": "Con un clima de tensión concluyó el primer día de debate del predictamen de la Comisión de Constitución y Reglamento, que recomienda rechazar y archivar la solicitud del Ejecutivo para legislar sobre ocho materias durante 120 días.",
+        "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
+        "summary": "Fuerza Popular | Desde que empezó a participar en elecciones subnacionales, el fujimorismo redujo su oferta electoral en más de la mitad.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/constitucion-apenas-evaluo-una-de-ocho-materias-del-pedido-de-facultades-planteadas-por-el-ejecutivo-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/6YLX6XWPSRGMDBHWQH35HKF4HU.jpeg?auth=2113d04cc761052d09ff6516577edd50cdba16cc2e380e721c9e122e2c8261ec&smart=true&width=1280&height=855",
-        "publishedAt": "2026-09-30T05:01:00.000Z"
+        "url": "https://elcomercio.pe/ecdata/en-16-anos-fuerza-popular-solo-ha-ganado-3-gobiernos-regionales-y-no-ha-colocado-un-solo-alcalde-en-lima-metropolitana-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/3ZQHU5EOGNH33LU7J6EN3J4QSE.jpeg?auth=05b2ba86279d4f5e8c5af8ea35780dce6caca06e15b2546119eb9e3be8b10463&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-09-30T17:26:54.000Z"
       },
       {
-        "title": "José Luna Gálvez: PJ archiva parte de investigación contra excongresista y ordena continuar pesquisas por otros hechos",
-        "summary": "La Tercera Sala Penal de Apelaciones Nacional archivó parte de la investigación seguida contra el excongresista y fundador del partido Podemos Perú, José Luna Gálvez, y ordenó continuar las pesquisas por otros hechos.",
+        "title": "Ministro Marco Vinelli: “Si el Legislativo decide no darle las facultades (al Gobierno), le está diciendo no a la población”",
+        "summary": "El ministro de Desarrollo Agrario y Riego, Marco Vinelli, afirmó que si el Poder Legislativo decide no otorgarle las facultades solicitadas al Gobierno, “le está diciendo no a la población”, aunque dijo que espera una decisión favorable para el Ejecutivo en la Comisión de Constitución.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/justicia/jose-luna-galvez-poder-judicial-archiva-parte-de-investigacion-contra-excongresista-y-ordena-continuar-pesquisas-por-otros-hechos-podemos-peru-odebrecht-oas-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/7JNKALNUKNBOTOM6HZVZVQCSSI.jpg?auth=36198386be5281ca7d5b787c9e816c463c364d101a3e791751db8d399075937e&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-30T02:18:30.000Z"
+        "url": "https://elcomercio.pe/politica/gobierno/ministro-marco-vinelli-si-el-legislativo-decide-no-darle-las-facultades-al-gobierno-le-esta-diciendo-no-a-la-poblacion-comision-de-constitucion-camara-de-diputados-apuesplan-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/OBUWAPEM7JBPRLSJLK7DQJV3N4.jpg?auth=ab85939cbfd59dbd6d0f8e86b9d7c40b5ad70a00a4b1bfa26df3234186325796&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-09-30T17:24:47.000Z"
       }
     ],
     "economia": [
       {
-        "title": "¿Oficina o home office? Así van las preferencias de los trabajadores en Perú",
-        "summary": "Aunque la mayor parte de trabajadores tiene un empleo presencial o en oficina, casi la mitad de peruanos rechazó una oferta de trabajo que exigía presencialidad.",
+        "title": "Alza del sueldo mínimo: los efectos adicionales en los pagos a trabajadores",
+        "summary": "El incremento del sueldo mínimo se realizará en dos tramos: un primer aumento aplicable desde el 1 de octubre de 2026 y un segundo aumento en el primer semestre de 2027.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/trabajo-remoto-u-oficinas-asi-van-las-preferencias-de-los-trabajadores-en-peru-segun-bumeran-noticia/",
-        "image": "https://gestion.pe/resizer/v2/NACYV5LXQBDFTNUCWN3T2LZKBM.jpg?auth=abe03be5cdcc840db2f06df29f13289021aae49feba30d9273b5f46cbe76b6d1&smart=true&width=1200&height=800",
-        "publishedAt": "2026-09-30T12:07:17.000Z"
+        "url": "https://gestion.pe/economia/management-empleo/alza-del-sueldo-minimo-los-efectos-adicionales-en-los-pagos-a-trabajadores-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CEKGXIHCBVEXNKACIMOSIOBSLA.jpg?auth=8112f1270708ce0a9ba29720823569ca13ed6323cfbed7ea27ce07dc826b0ae5&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-30T19:12:31.000Z"
       },
       {
-        "title": "Nueva refinería de Talara opera aún por debajo de capacidad de antigua planta de Petroperú",
-        "summary": "Además, la empresa señala que han respondido a una parte de las observaciones que Osinergmin realizó a la nueva planta",
+        "title": "Airbnb incorpora la IA para planificar viajes y nuevos servicios: sepa cuáles son",
+        "summary": "La empresa de alquileres turísticos Airbnb anunció este miércoles nuevas funciones de inteligencia artificial (IA) para planificar viajes, con herramientas para compartir recomendaciones entre contactos y servicios adicionales como comida a domicilio y lavandería.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/petroperu-nueva-refineria-de-talara-opera-aun-por-debajo-de-capacidad-de-antigua-planta-de-la-petrolera-estatal-noticia/",
-        "image": "https://gestion.pe/resizer/v2/3NYR73AHSZAD3BP2TCPM3K6BEM.jpg?auth=3c849d780080f524133c1f142afcc2ae894b12700b5ddb93a8a2ad3451595544&smart=true&width=1800&height=1199",
-        "publishedAt": "2026-09-30T12:03:28.000Z"
+        "url": "https://gestion.pe/economia/empresas/airbnb-incorpora-la-inteligencia-artificial-para-planificar-viajes-y-nuevos-servicios-como-comida-y-lavanderia-noticia/",
+        "image": "https://gestion.pe/resizer/v2/UCJ7RA362VFMNK3Q7S66LDBFSU.jpg?auth=f46f1e4ff5f3ecd0d81778b9bca6202b07a3c34317f74e0081ea3cd192813a91&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-30T19:10:02.000Z"
       },
       {
-        "title": "Chips: Data centers vs. consumidores: la pelea por los chips que ya sube precios en Perú",
-        "summary": "La escasez de memorias por la IA ya encarece laptops y smartphones en Perú. ¿Qué pasa con televisores y línea blanca, y hasta cuándo durará el alza?",
+        "title": "Dólar se dirige a su mejor mes desde junio ante apuestas de más alzas de la Fed",
+        "summary": "El dólar se encamina a cerrar su mejor mes desde junio, después de que el renovado foco de la Reserva Federal en contener la inflación impulsara las expectativas sobre las tasas de interés y los rendimientos de los bonos de Estados Unidos.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/la-ia-se-lleva-las-memorias-que-artefactos-pagaran-mas-los-peruanos-hasta-2027-noticia/",
-        "image": "https://gestion.pe/resizer/v2/K53ZVH6GLBDV5NTJHYLRYDKUEM.jpg?auth=c1fe713497c6341a5714e36f35f885c78330cdc23154075126e53c2511a48072&smart=true&width=1109&height=758",
-        "publishedAt": "2026-09-30T11:51:00.000Z"
+        "url": "https://gestion.pe/mundo/internacional/dolar-se-dirige-a-su-mejor-mes-desde-junio-ante-apuestas-de-mas-alzas-de-la-fed-noticia/",
+        "image": "https://gestion.pe/resizer/v2/RPDOQRZAURG3PMB3GWDR5TX57I.jpg?auth=781d05a013483910952e2be39f9b4f2ef2113b1d4a42cf888f0dea00c165a86a&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-30T19:05:44.000Z"
       },
       {
-        "title": "Donna Cattiva abrirá hasta dos nuevas tiendas en Lima y apunta al exterior con su calzado peruano",
-        "summary": "La marca peruana de calzado cerrará 2026 con cuatro tiendas y un outlet, mientras ajusta su producción, amplía su portafolio y prepara nuevos formatos de crecimiento.",
+        "title": "Delegación de facultades: Comisión de Constitución volverá a dictaminar sobre 3 propuestas",
+        "summary": "“Vamos a pasar a un cuarto intermedio para ver qué formula adoptamos”, indicó la presidenta del grupo, Giannina Avendaño (Juntos Por el Perú).",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/donna-cattiva-abrira-hasta-dos-nuevas-tiendas-en-lima-en-2027-y-apunta-al-exterior-con-calzado-peruano-noticia/",
-        "image": "https://gestion.pe/resizer/v2/OGB2CPPQZ5CIRPJX6UFQRGETII.jpg?auth=dd77ed0e96a6c579ece9a8114b220dad7b17a4bc21f76eb9f88f86f4aa74c163&smart=true&width=1155&height=900",
-        "publishedAt": "2026-09-30T11:40:00.000Z"
+        "url": "https://gestion.pe/economia/delegacion-de-facultades-comision-de-constitucion-volvera-a-dictaminar-sobre-3-propuestas-noticia/",
+        "image": "https://gestion.pe/resizer/v2/YGTUTDHRTZGQPC7GSOQWKZSPKM.jpg?auth=d1eeddce0e809946ac32892ace4c1821767d2f9ef5d6d78562b3c3b0cb39a86b&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-30T18:56:03.000Z"
       },
       {
-        "title": "Alemania mira proyecto de litio en Puno y estos otros “frentes” para invertir en Perú",
-        "summary": "Stefan Rouenhoff, secretario de Estado de Economía y Energía alemán, brindó detalles en exclusiva a Gestión de su corta estadía en el Perú. Aquí los detalles de lo que se viene en la relación comercial.",
+        "title": "Tipo de cambio baja hoy en Perú: ¿En cuánto cerró el dólar este miércoles 30 de septiembre?",
+        "summary": "El miércoles 30 de septiembre, el dólar en Perú comenzó el día con un descenso, en una jornada marcada por los nuevos datos de inflación de Estados Unidos y por las expectativas sobre las próximas decisiones de la Reserva Federal (Fed).",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/litio-en-puno-y-otros-frentes-en-peru-lo-que-llama-la-atencion-de-alemania-para-invertir-en-el-pais-noticia/",
-        "image": "https://gestion.pe/resizer/v2/PERZXMLZNBF25C3AYHQSVV6RUY.png?auth=fd65814657d45a8ed8b64ed4e316f5df0fda4eecc0c278d70b182ad231363ba6&smart=true&width=1672&height=941",
-        "publishedAt": "2026-09-30T10:34:00.000Z"
+        "url": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-miercoles-30-de-septiembre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
+        "image": "https://gestion.pe/resizer/v2/2EWGNUOPZJHVNBRKELJCWTCNIY.jpg?auth=f8625fb74422277a72d8bd567914ff248938cebd15b15c4709ca4ddebc6b77b6&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-30T18:50:46.000Z"
       },
       {
-        "title": "Sillao Kikko se expande del chifa a nuevas categorías: ¿qué tiene previsto la marca peruana?",
-        "summary": "La marca de Kikko Corporation, que registra una participación de 42% a nivel nacional, prevé ampliar su portafolio con nuevas categorías y destinar entre US$ 1.5 millones y US$ 2 millones este año a mejoras en su operación productiva. Además, apuesta por nuevos formatos de sillao para fortalecer su presencia en el cana",
+        "title": "Tres de cada 10 peruanos está en riesgo de caer en pobreza ante un shock adverso: diagnóstico",
+        "summary": "El 32.8% de los peruanos que no se encuentra en situación de pobreza está en riesgo de caer en ella ante un shock adverso. Esta es una de las principales conclusiones de La pobreza del futuro, un diagnóstico que recorre la evolución de la pobreza desde una perspectiva global hasta la realidad peruana y analiza los fact",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/sillao-kikko-busca-crecer-mas-alla-del-chifa-y-prepara-nuevas-categorias-para-el-mercado-peruano-noticia/",
-        "image": "https://gestion.pe/resizer/v2/DJLXAUS4ZVEM5CF2GAUHHDZEJI.jpg?auth=2ea4da76e95b722606b967fc042020d09b1987f1eab4813c3ea6643504dc644d&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-09-30T10:30:00.000Z"
+        "url": "https://gestion.pe/peru/pobreza-tres-de-cada-10-peruanos-esta-en-riesgo-de-caer-en-pobreza-ante-un-shock-adverso-que-hacer-noticia/",
+        "image": "https://gestion.pe/resizer/v2/5DTDE5XRQZGOFMZ5RVDXJHF25Q.jpg?auth=e48efda155edc40b1305fccc4cd23f0adb456d7593d20964ecaae73154cf35ed&smart=true&width=1200&height=800",
+        "publishedAt": "2026-09-30T18:49:20.000Z"
       },
       {
-        "title": "Máximo San Román: “Queremos que el Instituto Nova crezca hacia el norte”",
-        "summary": "El fundador de Grupo Nova, Máximo San Román, detalla los avances de la empresa en mercados internacionales, con Estados Unidos como uno de sus principales destinos, así como los planes de expansión del Instituto Nova y las iniciativas que buscan fortalecer la innovación y profesionalización del grupo.",
+        "title": "El nuevo perfil laboral: por qué saber usar IA ya no será suficiente hacia 2027",
+        "summary": "Las habilidades que las empresas buscarán en los trabajadores hacia 2027: ¿qué aprender desde ahora? La inteligencia artificial no solo eleva la demanda por profesionales tecnológicos, sino que también obliga a la actualización de capacidades para mantenerse competitivos.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/grupo-nova-exporta-un-contenedor-al-mes-a-eeuu-y-apunta-a-nuevos-mercados-noticia/",
-        "image": "https://gestion.pe/resizer/v2/GCMMBZKWBBCQXE357FQ4KCSMPQ.jpg?auth=750e7d861ff66bf5f13a9dd536d094eb831e875c5bfd438c5f2722e1d656cf73&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-09-30T10:30:00.000Z"
+        "url": "https://gestion.pe/economia/management-empleo/el-nuevo-perfil-laboral-por-que-saber-usar-ia-ya-no-sera-suficiente-hacia-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/LVB3A7VTD5FOFJ226FUB5GVBTM.jpg?auth=6aa54dbf5bbf93ff969780a9f0089478242e9b7a9746390c6d4ec1aa1869d820&smart=true&width=1280&height=720",
+        "publishedAt": "2026-09-30T18:46:00.000Z"
       },
       {
-        "title": "Mercados e indicadores – Hoy miércoles 30 de setiembre",
-        "summary": "Para tomar las decisiones más acertadas de inversión, manténgase diariamente bien informado sobre el desempeño de las acciones de la plaza bursátil, de la variación de las principales variables del mercado financiero, así como de la evolución de los precios de los commodities. La cotización en el mercado de Londres el ",
+        "title": "Aporte mínimo a la ONP aumentará a S/ 160 por alza de la RMV",
+        "summary": "El incremento de la Remuneración Mínima Vital (RMV), oficializado mediante Decreto Supremo Nº 015-2026-TR, actualiza el aporte mínimo al Sistema Nacional de Pensiones a S/ 160. Este nuevo monto rige para los aportes desde el periodo de octubre de 2026 en adelante.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/mercados/mercados-e-indicadores-miercoles-30-de-setiembre-2026-noticia/",
-        "image": "https://gestion.pe/resizer/v2/CKBJCXWQXVCTXHZN5ZAGTM66RE.jpg?auth=c935a9816683dbd514d89311dedaf60293df727aefbd90da56a9830e4813f2eb&smart=true&width=1280&height=720",
-        "publishedAt": "2026-09-30T10:30:00.000Z"
+        "url": "https://gestion.pe/tu-dinero/finanzas-personales/onp-aporte-minimo-a-la-onp-aumentara-a-s-160-por-alza-del-sueldo-minimo-rmv-noticia/",
+        "image": "https://gestion.pe/resizer/v2/QTMCFTTTTRCGRHDHGFMZR5URC4.jpg?auth=6355abd320458fa10630023873f46587251d10f61db4bdec142badf43a989a9c&smart=true&width=1200&height=754",
+        "publishedAt": "2026-09-30T17:42:17.000Z"
       }
     ],
     "sociedad": [
       {
-        "title": "Reflexiones sobre la necesidad de un Estado con rumbo - elmontonero.pe",
-        "summary": "Reflexiones sobre la necesidad de un Estado con rumbo &nbsp;&nbsp; elmontonero.pe",
-        "source": "elmontonero.pe",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObl9kVV9neml6ZGtwRk1tRVZkWFZjb3BYNGZrYTR5a2JiTXpGRzdjSEVUQ3paeEJDSVdvSHRlUmZPdVRyb2lkWW5CYkFHX3ZBc1BJMWVITTdzX0w5bm9EbG10N0ZSZzdJSGt1Q3pNcWttMEY0WlVqVDZxOVpxSUd5UmpBdkJhOFM4bjBkTjV3?oc=5",
+        "title": "Trabajadores sociales podrán ejercer en más de 20 campos de intervención según nuevo reglamento - Infobae",
+        "summary": "Trabajadores sociales podrán ejercer en más de 20 campos de intervención según nuevo reglamento &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc3hnVnQwRDBOcWFqanlYajZhSmVHOVNUR0UxM2NlYVFtaU4tU2NtSU5WMHM3d0VZS0VrUVRRTUNPNzY1aXBhWndWZ1h2czJ0X3dmRkRyald3a0VYRktaSE5EVmpDU2R4MFRNTE82bG1QTjVjNVA1NW9CSlhtTHlqWEVNdVZoMUdfMWNQcy1Yc0xZRWNQUzZSQWhxZmFDNmQxTVFVcnpvdmtFdDVxWWRZNFRsSExwaG5val9ZbEptUGJ4by14SldZWm5qMzk4YlUxaHfSAewBQVVfeXFMUGZmVEVhN0NORG5ESURKOWpvS2c1Qnppcm5PaVd5SGFUbWRkQUhjMzBjMURnQzF4Yl9Oa01PVHI1c1k4M3FqRlBXUkdoR2g5d3JWdkp4eXllREJkWnFHY3dDOXVmVzhrTUF0ZjA2T0tJRUFhTERvTTV5aGpMdzdkdEpzMTJ6SWYtTEZXaDJmSkZqZ0h6VkpQY0tib3VlWW9oWXV5RWhmSTRLczhpd25UTWNXeWdaRy1KbzRNLW9uM1JQQ1VQdTVXOVNMZzRZLXF0bDBrVEs1YTUyblBreVJzOWJzM1I4a3JUdXE2Nmg?oc=5",
         "image": "",
-        "publishedAt": "2026-09-30T09:00:28.000Z"
+        "publishedAt": "2026-09-30T15:27:03.000Z"
       },
       {
         "title": "Perú tiene espacio para elevar su competitividad - El Peruano",
@@ -354,9 +354,9 @@
         "publishedAt": "2026-09-29T21:51:07.000Z"
       },
       {
-        "title": "Líderes y los 4 mitos a desaprender sobre IA: las claves para transformar sus empresas - Gestión",
-        "summary": "Líderes y los 4 mitos a desaprender sobre IA: las claves para transformar sus empresas &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
+        "title": "Líderes y los 4 mitos a desaprender sobre IA: las claves para transformar sus empresas - gestion.pe",
+        "summary": "Líderes y los 4 mitos a desaprender sobre IA: las claves para transformar sus empresas &nbsp;&nbsp; gestion.pe",
+        "source": "gestion.pe",
         "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQX3Y5WVhJMENjVU5TSTkzRkR0UTllckE4SFdRUktHQzhYXzBrTHJRVXI0djh2cUN5OTdPa3hEQkdjNHFXQWI5aTNCd0hva3UxeUJBdWRfbkItempMYkVPZHVWYm9nNk12VVZ1THBuUDkzeld3LXFvMW12MDl2MFdmTEdmWnJBckxtTjdjanNRWjR3UklwZndxNlZNblpvM29yNnBpcC1icU5id1B1WTZ0X3Bjdlg5SzJTam85RnZTM1lMRkRhMTd0XzhTVEdtUGlZTk1GVlhLT3E2ZWNFU2JNS0ZBWDBmTkFySk9BUi1GZ0hXeEhDWkRmZjZSbnFPWWRNQjE0SFdWa0JqeGJUUmJrQg?oc=5",
         "image": "",
         "publishedAt": "2026-09-29T17:05:06.000Z"
@@ -394,17 +394,17 @@
         "publishedAt": "2026-09-24T21:49:46.000Z"
       },
       {
-        "title": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades - Gestión",
-        "summary": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
+        "title": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades - gestion.pe",
+        "summary": "¿Puede la IA destrabar la productividad que Perú lleva años buscando? Las posibilidades &nbsp;&nbsp; gestion.pe",
+        "source": "gestion.pe",
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTjR3bnR3MGZ1UEJkTk1hLXdWSEY4aXFhNGE5YkxWT2VoS0dIWkdnRV85dTdjbEhWQmRfd2ZGY3daOGhBdTFRaEV5UmtlWEl0LWczSF83NmtPZXFQREN4T1ltdmQ2UUhtWWRKa21xY3NNMHJNSWZsckllWWU4RUpWaWtNMUZJYk9xNjlyWHE1Z0F4LVVIYjVwY1IyNVNRcFhOdC12eHc3b0VaR0xvTURWRlFvZkczWC1XejBKamFpbEhMWVVOT0VHS1NYNTlZRnlaSWl0ZHZ4R2R6WmR2RjA0bkV5VlZYWDZSSUFKZEdlTW0tUC1jZGZ3Snp6TQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
-        "title": "Empresas peruanas y la IA: Lo que debes saber sobre el próximo plazo regulatorio - Gestión",
-        "summary": "Empresas peruanas y la IA: Lo que debes saber sobre el próximo plazo regulatorio &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
+        "title": "Empresas peruanas y la IA: Lo que debes saber sobre el próximo plazo regulatorio - gestion.pe",
+        "summary": "Empresas peruanas y la IA: Lo que debes saber sobre el próximo plazo regulatorio &nbsp;&nbsp; gestion.pe",
+        "source": "gestion.pe",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbWJDZUdnY3VWZWxFNlc4V1ZDYVVrR1hWaUhHWEFmZlk4Ym10dDlTa0g3UTRWRENGUnA5SU1GaDR2amROZ3p0SmtlTWZrRndXeDNnMGZIRFphTDBIQTB3R2JZLURoT0FONXF4aDJCSU5udHNHT2lQbkZfbXE0SlBHTkVFN2NrQlFUcjlmSGhXRGkzODFZbTJpbTVidVBGOFQzT1BRY1U4VVdMUmQwY1o2RG5qdjltOWlUQ3F5NDVRRUMtYTljZS1TdVB3?oc=5",
         "image": "",
         "publishedAt": "2026-09-19T07:00:00.000Z"
@@ -468,12 +468,12 @@
         "publishedAt": "2026-08-15T07:00:00.000Z"
       },
       {
-        "title": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” - Infobae",
-        "summary": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY1JKYUdUNlpDMThFMDBMcUtpSm9WX3hDME5FdlhTVkIySnFidkNRV3RNa2Z0LVB0ZzhIUlNPdnFSM3dGQl9SRXl2XzdRVVZNS3JoYkVoZzE5WDhnWDVpdlRCNVVWbTNYTjZHVEF5cERtNEZnT0RyRmEzUUlwT0JVcEhnRXEzWExJN2lxdjEtcHZCUm1vcVpWQ1VUQ21POUhFb2Fnb1FiaHFmZHg5YnctUWJfQk53Y0M1U0ZKSWhVVlRoYXFycEZDeFk1SdIB5gFBVV95cUxOX2lXTFZfYS02czhMamE1UE01SmozQVIzLXdxbTVwRFlJQlJhaGI2XzdnVlprZkVQb0J1MjllZ0pJbk9vS21OcWJTYUQ0OU1FLW1XNU04cXRRZUtvNFF6dGV5X0VyR2hFSEd1TU1yMl9EMkdVTFZxWlB2ZzZ1cHpMcHZLSVptbmpaTFpkQVkzOGV3MHdCN0FkUm1qWTJ5aWxVVkVNTmRFSkI0czZhZkM3SGtaYmtDSy0tVVJCNHE0QngySUFLN05tY2xESFVDRTh1M0dWeUgydHVyb1p1dkdhMUN3VkhUUQ?oc=5",
+        "title": "🔴🔵 ¿Farmear aura? Conoce la nueva tendencia nacida en las redes sociales que es viral entre los más jóvenes. 📻 95.5 FM 📡 6.1 señal digital abierta 📺 Movistar: 34 SD - 734 HD ?",
+        "summary": "🔴🔵 ¿Farmear aura? Conoce la nueva tendencia nacida en las redes sociales que es viral entre los más jóvenes. 📻 95.5 FM 📡 6.1 señal digital abierta 📺 Movistar: 34 SD - 734 HD ?? http://exitosanoticias.pe &nbsp;&nbsp; facebook.com",
+        "source": "facebook.com",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNHB3Q3VNa2NsSkFlN0U0UzEtWFRURUNsNVFzWWJNcXBCTUNqeVhBdElLOEdfSTRZSURTUFIyNG9kMDBvUWFoeW9ham5tNDQzMmg4Z0RhN2tSeFJVUy0xYXBsZkpFcXB4RHFCNHgtSDUzWFdwTEI3VWRycWVkVWtCTmdWY2xrZlJjaDlXSkJPM19YSUxYS0tyMXhPR3VHTlNMUXI5RFRXd1NwbHppeWFNZ0RxOU56b3lhWFVKZ0hiU0NIWGlnaEE0RGVVa3NYbUd0NVFBM2FpMzh4Y1hZWDhz?oc=5",
         "image": "",
-        "publishedAt": "2026-07-30T07:00:00.000Z"
+        "publishedAt": "2026-08-14T07:00:00.000Z"
       }
     ],
     "farandula": [
