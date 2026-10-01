@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T02:07:18.036Z",
+  "generatedAt": "2026-10-01T08:52:09.699Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -22,6 +22,30 @@
         "url": "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
         "image": "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
         "publishedAt": "2026-09-01T00:00:00.000Z"
+      },
+      {
+        "title": "Comisión de Constitución suspende sesión para evaluar la incorporación de nuevo texto en el pedido de facultades",
+        "summary": "Tras dos horas de sesión, la Comisión de Constitución de la Cámara de Diputados no logró alcanzar un consenso para aprobar o rechazar el predictamen sobre el pedido de facultades del Ejecutivo, en el segundo día de debate, y dispuso un cuarto intermedio. No hubo oposición.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/constitucion-suspende-sesion-para-evaluar-la-incorporacion-de-nuevo-texto-en-el-pedido-de-facultades-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/7RHFQ6RFRFH6FDELIYWGA4R5BU.jpeg?auth=24739665d25d42928c01dfb6cd1e01a54268b9ce8ee0ea650b4ad9b1d25a15ea&smart=true&width=1280&height=854",
+        "publishedAt": "2026-10-01T05:01:00.000Z"
+      },
+      {
+        "title": "Cierre de campaña: ¿Qué zonas de Lima priorizan López Aliaga, Bruce, Urresti y Allison?",
+        "summary": "Los candidatos culminan sus actividades en distintos puntos de la capital, a pocos días de las elecciones municipales, que se celebrarán este domingo 4 de octubre.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/cierre-de-campana-que-zonas-de-lima-priorizan-lopez-aliaga-bruce-urresti-y-allison-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/S26BFLBM4BD6REXCZ7JMU4OSBY.jpg?auth=f5751756f6a3739ed3388da6c8c9555ad76c23e0860306b024a54c0b5b7351e1&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-01T05:00:00.000Z"
+      },
+      {
+        "title": "Fernán Altuve renuncia a Avanza País tras anunciar que votará por Carlos Bruce",
+        "summary": "Fernán Altuve anunció su renuncia a Avanza País luego de confirmar que este domingo votará por Carlos Bruce en las elecciones municipales de Lima.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/elecciones/fernan-altuve-renuncia-a-avanza-pais-tras-anunciar-que-votara-por-carlos-bruce-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/ZRYSWLZWWNFQ7GXTHHRMF2HWCM.jpg?auth=962839ea69f02fc76283605720f8d3cc384c50c2a43f95f96b593ec1003141b1&smart=true&width=5472&height=3648",
+        "publishedAt": "2026-10-01T04:14:14.000Z"
       },
       {
         "title": "Elecciones Regionales y Municipales 2026:candidaturas de los movimientos regionales caen 83% desde el 2022 y partidos políticos dominan el tablero",
@@ -54,88 +78,40 @@
         "url": "https://elcomercio.pe/politica/gobierno/jee-lima-centro-advierte-presunta-infraccion-electoral-del-canciller-carlos-espa-por-declaraciones-sobre-rafael-lopez-aliaga-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/2IWIDMSIEZF2LICAOIWELFEVUI.jpg?auth=f4a5f6ba6a714ed61bc7a59f0df11e6995e85d9497b0b72754f316aebf7628bf&smart=true&width=1200&height=801",
         "publishedAt": "2026-09-30T22:57:44.000Z"
-      },
-      {
-        "title": "Presidente de Cámara Baja pide al Senado precisar límites para modificar proyectos aprobados por los diputados",
-        "summary": "El presidente de la Cámara de Diputados, Óscar Reto Otero, pidió al titular del Senado, Miguel Torres, que la Comisión de Constitución, Reglamento y Relaciones Exteriores de la Cámara Alta precise cuáles son los límites que tiene el Senado para modificar las propuestas legislativas aprobadas por los diputados.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/presidente-de-camara-baja-pide-al-senado-precisar-limites-para-modificar-proyectos-aprobados-por-los-diputados-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/F25S7NC5ABEU7I6ZR3K4C7RA2Q.jpg?auth=752123025870104cf5b90a5fa5f7a7b372c08d2461bc313e2db27a623f79d1fc&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-09-30T22:25:27.000Z"
-      },
-      {
-        "title": "La anemia legislativa",
-        "summary": "En el III Foro organizado por El Comercio y América Multimedia, el presidente del Senado, Miguel Torres, describió el actual escenario parlamentario con una comparación. Dijo que hemos pasado de la “hemorragia legislativa” del unicameralismo a la “anemia legislativa” del bicameralismo. Esto último en alusión a la demor",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/opinion/columnistas/la-anemia-legislativa-por-martin-hidalgo-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/FWBA6CKKFRGMLOWMY5G65IX2HY.jpg?auth=1700b2a8f98c914765125b94f2dd4d2bb7b31ee85d1f1200f52b3e5e0a615e50&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-09-30T22:00:00.000Z"
-      },
-      {
-        "title": "TC anula investigación contra Lourdes Flores Nano por aportes de campaña del 2006",
-        "summary": "El Tribunal Constitucional (TC) declaró fundada una demanda de amparo presentada por la excandidata presidencial Lourdes Flores Nano. Con ello, anuló el proceso penal en su contra por lavado de activos, por los aportes vinculados a su campaña presidencial del 2006 con Alianza Electoral Unidad Nacional.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/justicia/tc-anula-investigacion-contra-lourdes-flores-nano-por-aportes-de-campana-del-2006-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/FDWBSCZCKFEAJNBWUBR3FIWJKM.jpg?auth=6f243f67ad024a3bfda3c416995503f984278e0942f868209dfbf79780563af8&smart=true&width=580&height=330",
-        "publishedAt": "2026-09-30T21:41:21.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Dengue en Perú aumentaría por El Niño “extraordinario”: ¿cuánto dinero hay para atenderlo?",
-        "summary": "El Fenómeno de El Niño de magnitud “extraordinaria” también traerá consecuencitas sanitarias. Los estancamientos por lluvias, inundaciones y huaycos generará condiciones favorables para el mosquito que transmite el dengue. ¿Estamos preparados?",
+        "title": "Aporte mínimo a la ONP aumentará a S/ 160 por alza de la RMV",
+        "summary": "El incremento de la Remuneración Mínima Vital (RMV), oficializado mediante Decreto Supremo Nº 015-2026-TR, actualiza el aporte mínimo al Sistema Nacional de Pensiones a S/ 160. Este nuevo monto rige para los aportes desde el periodo de octubre de 2026 en adelante.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/mas-alla-de-el-nino-los-casos-de-dengue-aumentarian-pero-hay-dinero-hay-para-atenderlos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/K7Q6TUWV2NDTVPAZQ5QN2VMIC4.jpeg?auth=f3d2e958eb45a262a839a2135e901d429ff52b331e12a1a23d410e633aca9f2d&smart=true&width=696&height=384",
-        "publishedAt": "2026-10-01T01:41:00.000Z"
+        "url": "https://gestion.pe/tu-dinero/finanzas-personales/onp-aporte-minimo-a-la-onp-aumentara-a-s-160-por-alza-del-sueldo-minimo-rmv-noticia/",
+        "image": "https://gestion.pe/resizer/v2/QTMCFTTTTRCGRHDHGFMZR5URC4.jpg?auth=6355abd320458fa10630023873f46587251d10f61db4bdec142badf43a989a9c&smart=true&width=1200&height=754",
+        "publishedAt": "2026-10-01T07:32:00.000Z"
       },
       {
-        "title": "Ecopetrol se acerca a la industria petrolera de Venezuela para consolidar negocios",
-        "summary": "La estatal colombiana Ecopetrol avanza en su acercamiento a la industria petrolera de Venezuela con su participación en un congreso internacional en Caracas en el que busca identificar y consolidar negocios, informó este miércoles la empresa.",
+        "title": "Máximo San Román: “Queremos que el Instituto Nova crezca hacia el norte”",
+        "summary": "El fundador de Grupo Nova, Máximo San Román, detalla los avances de la empresa en mercados internacionales, con Estados Unidos como uno de sus principales destinos, así como los planes de expansión del Instituto Nova y las iniciativas que buscan fortalecer la innovación y profesionalización del grupo.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/ecopetrol-se-acerca-a-la-industria-petrolera-de-venezuela-para-consolidar-negocios-noticia/",
-        "image": "https://gestion.pe/resizer/v2/BVXJ5SVGDBFDTJ5D7F67UF2QCM.jpg?auth=5ad3d87e09afccefa5edb4574b4738146c3b226f530e58045e2e2487128e7bc1&smart=true&width=4500&height=2999",
-        "publishedAt": "2026-10-01T01:30:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/grupo-nova-exporta-un-contenedor-al-mes-a-eeuu-y-apunta-a-nuevos-mercados-noticia/",
+        "image": "https://gestion.pe/resizer/v2/GCMMBZKWBBCQXE357FQ4KCSMPQ.jpg?auth=750e7d861ff66bf5f13a9dd536d094eb831e875c5bfd438c5f2722e1d656cf73&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-10-01T04:30:00.000Z"
       },
       {
-        "title": "Banco BTG Pactual obtiene licencia de SBS y abrirá este año: ¿en qué áreas alista contrataciones?",
-        "summary": "Primer banco de origen brasileño entrará al Perú en lo que resta del 2026. Capital inicial será de US$ 100 millones. Se enfocará en créditos, banca de inversión y tesorería para corporaciones y grandes empresas de todos los sectores.",
+        "title": "Chips: data centers le ganan la pelea al consumidor y los precios ya suben en Perú",
+        "summary": "La escasez de memorias por la IA ya encarece laptops y smartphones en Perú. ¿Qué pasa con televisores y línea blanca, y hasta cuándo durará el alza?",
         "source": "Gestión",
-        "url": "https://gestion.pe/tu-dinero/banco-btg-pactual-obtiene-licencia-de-sbs-y-abrira-este-ano-en-que-areas-alista-contrataciones-noticia/",
-        "image": "https://gestion.pe/resizer/v2/NEVXCJQD3FH2HCRMZ5J2DGYY5U.jfif?auth=15ce21907b3b3cb619b0aae23c75b6be8050f1d050da19ee834382abca92b108&smart=true&width=5184&height=3456",
-        "publishedAt": "2026-10-01T01:24:08.000Z"
+        "url": "https://gestion.pe/economia/empresas/la-ia-se-lleva-las-memorias-que-artefactos-pagaran-mas-los-peruanos-hasta-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/L2N2M3ZQSNDLVINSUGU44NJLKI.jpg?auth=a8a53c7aa812552c1bba2e8dc35314a3ea369b16ff77a095308ce52ceccf0dd0&smart=true&width=932&height=554",
+        "publishedAt": "2026-10-01T04:30:00.000Z"
       },
       {
-        "title": "Alemania mira proyecto de litio en Puno y estos otros “frentes” para invertir en Perú",
-        "summary": "Stefan Rouenhoff, secretario de Estado de Economía y Energía alemán, brindó detalles en exclusiva a Gestión de su corta estadía en el Perú. Aquí los detalles de lo que se viene en la relación comercial.",
+        "title": "Startups de Endeavor en Perú crecen 23.5%: ¿qué hay detrás de los US$500 millones que facturan?",
+        "summary": "Endeavor Perú revela cuánto facturaron sus startups en 2025 y qué sectores, como minería, agro y tecnología, podrían impulsar nuevos emprendimientos hacia 2026-2027.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/litio-en-puno-y-otros-frentes-en-peru-lo-que-llama-la-atencion-de-alemania-para-invertir-en-el-pais-noticia/",
-        "image": "https://gestion.pe/resizer/v2/PERZXMLZNBF25C3AYHQSVV6RUY.png?auth=fd65814657d45a8ed8b64ed4e316f5df0fda4eecc0c278d70b182ad231363ba6&smart=true&width=1672&height=941",
-        "publishedAt": "2026-10-01T01:10:00.000Z"
-      },
-      {
-        "title": "Sillao Kikko se expande del chifa a nuevas categorías: ¿qué tiene previsto la marca peruana?",
-        "summary": "La marca de Kikko Corporation, que registra una participación de 42% a nivel nacional, prevé ampliar su portafolio con nuevas categorías y destinar entre US$ 1.5 millones y US$ 2 millones este año a mejoras en su operación productiva. Además, apuesta por nuevos formatos de sillao para fortalecer su presencia en el cana",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/sillao-kikko-busca-crecer-mas-alla-del-chifa-y-prepara-nuevas-categorias-para-el-mercado-peruano-noticia/",
-        "image": "https://gestion.pe/resizer/v2/DJLXAUS4ZVEM5CF2GAUHHDZEJI.jpg?auth=2ea4da76e95b722606b967fc042020d09b1987f1eab4813c3ea6643504dc644d&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-10-01T00:55:00.000Z"
-      },
-      {
-        "title": "Tipo de cambio baja hoy en Perú: ¿En cuánto cerró el dólar este miércoles 30 de septiembre?",
-        "summary": "El miércoles 30 de septiembre, el dólar en Perú comenzó el día con un descenso, en una jornada marcada por los nuevos datos de inflación de Estados Unidos y por las expectativas sobre las próximas decisiones de la Reserva Federal (Fed).",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-miercoles-30-de-septiembre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
-        "image": "https://gestion.pe/resizer/v2/2EWGNUOPZJHVNBRKELJCWTCNIY.jpg?auth=f8625fb74422277a72d8bd567914ff248938cebd15b15c4709ca4ddebc6b77b6&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-01T00:40:00.000Z"
-      },
-      {
-        "title": "Buenaventura evalúa socios de cinco países para su proyecto de cobre Trapiche",
-        "summary": "Buenaventura conversa con potenciales socios de China, Reino Unido, Japón, Chile y EE.UU. para desarrollar Trapiche, su proyecto de cobre en Apurímac. La inversión superaría los US$ 2,000 millones y la producción arrancaría entre el 2031 y 2032.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/buenaventura-busca-socio-para-trapiche-inversionistas-de-cinco-paises-ya-tocaron-la-puerta-noticia/",
-        "image": "https://gestion.pe/resizer/v2/7RBIOWUPKZEW3NYM2PM277KTGE.jpeg?auth=1868d4690b4c0a1fde766663194e30fbebb2f93ac901bc38749808df381fd294&smart=true&width=1200&height=675",
-        "publishedAt": "2026-10-01T00:38:11.000Z"
+        "url": "https://gestion.pe/economia/empresas/startups-en-peru-endeavor-pone-la-mira-en-mineria-agro-y-biodiversidad-noticia/",
+        "image": "https://gestion.pe/resizer/v2/5HVAHPECDFBRFLHMG43ZA3FI3Q.jpg?auth=91a9f2aa33adaca7b74640fcc3a80d27ffbfb51d6499604d3ae9fa8febb2e8db&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-01T04:15:00.000Z"
       },
       {
         "title": "Pisco Huamaní apunta a EE.UU. y busca crecer en este negocio turísitco: sus planes al 2027",
@@ -143,7 +119,31 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/pisco-huamani-abre-su-bodega-en-ica-al-enoturismo-lo-que-espera-facturar-hacia-el-2027-noticia/",
         "image": "https://gestion.pe/resizer/v2/ATZCX75ZVBG6VHPOOGPZM3HDJI.png?auth=66bb80eea34919bd69b2bca63984462045e9bec2acc78514a236145de16e981d&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-01T00:37:07.000Z"
+        "publishedAt": "2026-10-01T04:00:00.000Z"
+      },
+      {
+        "title": "Buenaventura evalúa socios de cinco países para su proyecto de cobre Trapiche",
+        "summary": "Buenaventura conversa con potenciales socios de China, Reino Unido, Japón, Chile y EE.UU. para desarrollar Trapiche, su proyecto de cobre en Apurímac. La inversión superaría los US$ 2,000 millones y la producción arrancaría entre el 2031 y 2032.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/buenaventura-busca-socio-para-trapiche-inversionistas-de-cinco-paises-ya-tocaron-la-puerta-noticia/",
+        "image": "https://gestion.pe/resizer/v2/7RBIOWUPKZEW3NYM2PM277KTGE.jpeg?auth=1868d4690b4c0a1fde766663194e30fbebb2f93ac901bc38749808df381fd294&smart=true&width=1200&height=675",
+        "publishedAt": "2026-10-01T03:45:00.000Z"
+      },
+      {
+        "title": "Gobierno ratifica a César Luna Victoria como jefe de la Sunat: su hoja de vida",
+        "summary": "El Poder Ejecutivo ratificó hoy a César Alfonso Luna Victoria León como jefe de la Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat), cargo que viene desempeñando desde el 6 de agosto del presente año.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/gobierno-peruano-ratifica-a-cesar-alfonso-luna-victoria-leon-como-jefe-de-la-sunat-su-hoja-de-vida-noticia/",
+        "image": "https://gestion.pe/resizer/v2/C6K6CHHWKVEJBILAF6MQDILEVM.jpg?auth=e58f062c759087c0633629b23566ef5f3d5a186af458c47096031f72f3a9f600&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-01T03:34:00.000Z"
+      },
+      {
+        "title": "Tres de cada 10 peruanos está en riesgo de caer en pobreza ante un shock adverso: diagnóstico",
+        "summary": "El 32.8% de los peruanos que no se encuentra en situación de pobreza está en riesgo de caer en ella ante un shock adverso. Esta es una de las principales conclusiones de La pobreza del futuro, un diagnóstico que recorre la evolución de la pobreza desde una perspectiva global hasta la realidad peruana y analiza los fact",
+        "source": "Gestión",
+        "url": "https://gestion.pe/peru/pobreza-tres-de-cada-10-peruanos-esta-en-riesgo-de-caer-en-pobreza-ante-un-shock-adverso-que-hacer-noticia/",
+        "image": "https://gestion.pe/resizer/v2/5DTDE5XRQZGOFMZ5RVDXJHF25Q.jpg?auth=e48efda155edc40b1305fccc4cd23f0adb456d7593d20964ecaae73154cf35ed&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-01T03:15:00.000Z"
       }
     ],
     "sociedad": [
@@ -196,23 +196,31 @@
         "publishedAt": "2026-07-26T07:00:00.000Z"
       },
       {
-        "title": "Keiko Fujimori, presidenta electa del Perú: ¿cuáles son sus propuestas para enfrentar los principales desafíos del país? - Infobae",
-        "summary": "Keiko Fujimori, presidenta electa del Perú: ¿cuáles son sus propuestas para enfrentar los principales desafíos del país? &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNzJZZUxWQVpUZ3dCd2lKcHh2cmc5aFhtY3UySld4b0N6QnAyR1VGV1RVLTBZb0xHWVJ4OFRxM0lYUEZQSGV0OWhkVC12V2lZSkhOZ2FZbXE2ZjFnYmtJUmhCOHlrc2RlVHZJTWIxMFU3ZWtNclBybm1LZWdtSHBCTk10czUxVUZaSi10MFRpb3NROGhFWFpVeWRvZlJlYkRnUjIxVGZ6bURkN1JOYjZRQkdMWFVRdlRLaHVCNm5wMF9NYVo5MWg0THAwSlpCOWhrb3FQcE42SUkybllSV2wtaVdUcGdDSmszYzBBeWRn0gGIAkFVX3lxTE4wWEhBQjdEM2FvMFBnb3NJeXZ1cUVCcWo5TVhudkl2ZEgyVWlvR2VjQkFyTmplSm5KM2NGeGUzWDRmbTVTaDZGcEdhdVdoNjNlRlJybUltM0tiMXZyeUZ0Z3F4U0FmQXdjMkI3SEZkSVBZdm9TZ3VHa2lHNEoyY0g0WWlyV01lTzVxbENJQXBrckRWZVluMkMzS0lyS0hqUHlLZVo4RDB2X1lWZUFLZDk0V3BPOWZVOGhxRHBlZFkxOGZQdjlWYzF0QkJzUlZ2OWF0cVNNYjdTMlBnLXo3blpBVUV2OTRxdVUyV3hrdVBROGNxUFFjT2tYYkJmMEtsOHZpLVpoemZrMg?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-29T07:00:00.000Z"
-      },
-      {
         "title": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado - TVPerú",
         "summary": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado &nbsp;&nbsp; TVPerú",
         "source": "TVPerú",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbS0xd2cxQXI5T0hEOEVrN3M2eER5Y0VTTW0yQzBRWGZteXVCLTRySkZwT3ZYNUJ5OEg4Q2hPZENLZnhSdjdxaWxRZExVMndoSmtWcnVxU09LelpFbERlXzQ2cWdQTlM2WG9YYWJBdmIyOWdzUkI5MWYxOHBkei1aMWZna0Q2a2Vrems2N0RwQklYWGhaY3NyLUlyOTZUbWQweHpHa3VLZGxjaTNEMEpObVNFM1VvMEVkSzU3cDFNOXVIZEl5WGFha0J1UXRRbHBwa1JYeWxjNXNPLUhx?oc=5",
         "image": "",
         "publishedAt": "2026-06-17T02:03:59.000Z"
+      },
+      {
+        "title": "La Libertad: Piden al nuevo Ejecutivo más empleo y seguridad - Diario Correo",
+        "summary": "La Libertad: Piden al nuevo Ejecutivo más empleo y seguridad &nbsp;&nbsp; Diario Correo",
+        "source": "Diario Correo",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVUdWWFZ0azN6ZVg2TUdyclVlRjQyTnk1bFV5aElpNV9OX3AzZGJvX0VRSnhicEUtbGZBYndqMzB2UllBaHlhZ0k4RzlTSU5DOERUN0ZxZkhlZmFhcU9RcDg4b1o1RzZGV0wwYTBLTDJXN3VpT2dpVjRLR3BmVUpUREpKWWNydC1JLWFDOFBNakp6MHF1R2ZtSXA4VTlTMWtkRlk2c1pKZ3hXZmNVSm9OcmxRQy1CUG90MVJWbjBfdmdWNHdl0gHYAUFVX3lxTE5UbVZCUUpheWt2YVBtMldYSGNqUlVIcEhLVkVvZG5CdXBhNmpYZUNJOFlsVDN2SThkdUNjNGlXNXROVkNlOUdHbHF1Uks5bWlsb3lrX2FOZFRYY05ROWd1YTVxQTNJSGpjNTI0MkJvNmtadFlYN1kwN1AtVk8xQXItd05qdWtRaE5QSXR1S1FIdC1Dc0xQTFlZckpFWFplYXl3UEh0bXc4eExUd2I0cXIxazdoRHFnZVF4UlZrVUdQYkczSkp1S25DNmhzNmp1aHV6T1o4QmtSUg?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-07T07:00:00.000Z"
       }
     ],
     "negocios": [
+      {
+        "title": "Emprender no basta: Perú sumó casi 90 mil empresas en tres meses, pero más de 62 mil cesaron actividades - Infobae",
+        "summary": "Emprender no basta: Perú sumó casi 90 mil empresas en tres meses, pero más de 62 mil cesaron actividades &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTUlWSm9PSVNuR2RESE9DV3BpV21DVlhVTHdlQ2dqZHBLR0lOTjlha09aZ0g5MDhGVEl4OE5ZNFVLRmJ4NnBteDluZUFyRVpaX2lZUkdIYlZJTF85M2RKcVNRbUgxVkNidmo3TGQtQ2NYVGRoQW1zektYN291UnA5MW9hdVk2MUhWa29vWjRTT2c2UkpjVUdZN2p4WE5FUnVrYVhTRWlsbFBsQmxkdE9Idl9paDlVYVgtbk1GWk1wWG1FWGwtSTFOaU9ZRENQOVdSRWFZbm1mSGc1Q2fSAfYBQVVfeXFMUERpM0NfRWhYOFAzd3dvN1l1Wjh2RlVjVUR0amNGdGgwVHg5Zk9EMHdWQ0Y3THRxV2Q2blVNcXdab0pMcFdaazdieVVlZmdxTklSaVVnc2d0TnMwbTRiYm4xMlZNV0o5TkFZaC1HOUJfTFpubDRZd1JST2lsSkNyQVZ4dEMycmhQVko0SFV2WmZOa0dTdW55VnAwSHp3d1p5T3FOendOc2FWVWlSeUo1RUNDcG5XY2V1UEtlVUJEQlZuVGYteUQ1LWxYazd2U3R1WnU2TGNfNDZEQnhTRXMtNzhFOHZ2YmFaRFY2eGNDVmpUckp1YkxR?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-28T23:47:00.000Z"
+      },
       {
         "title": "MYPE en Perú: PRODUCE explica cómo apoyar a emprendedores desde la idea hasta la exportación - apnoticias.pe",
         "summary": "MYPE en Perú: PRODUCE explica cómo apoyar a emprendedores desde la idea hasta la exportación &nbsp;&nbsp; apnoticias.pe",
@@ -268,14 +276,6 @@
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
         "image": "",
         "publishedAt": "2026-06-17T07:00:00.000Z"
-      },
-      {
-        "title": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión - Infobae",
-        "summary": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-10T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -304,9 +304,9 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
-        "title": "PAMELA ANTONIOLI: «LA INNOVACIÓN NO ES SOLO TECNOLOGÍA; TAMBIÉN TRANSFORMA LA MANERA DE CONSTRUIR CONFIANZA - rcrperu.com",
-        "summary": "PAMELA ANTONIOLI: «LA INNOVACIÓN NO ES SOLO TECNOLOGÍA; TAMBIÉN TRANSFORMA LA MANERA DE CONSTRUIR CONFIANZA &nbsp;&nbsp; rcrperu.com",
-        "source": "rcrperu.com",
+        "title": "PAMELA ANTONIOLI: «LA INNOVACIÓN NO ES SOLO TECNOLOGÍA; TAMBIÉN TRANSFORMA LA MANERA DE CONSTRUIR CONFIANZA - RCR Peru",
+        "summary": "PAMELA ANTONIOLI: «LA INNOVACIÓN NO ES SOLO TECNOLOGÍA; TAMBIÉN TRANSFORMA LA MANERA DE CONSTRUIR CONFIANZA &nbsp;&nbsp; RCR Peru",
+        "source": "RCR Peru",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRlVVVXI5UEczdmdGQzhBZS11SW43VElpQm0xRUppaG9uRFRaZFhxbDFURmxmS2lKQkxaeFFsaGFJNUNfU3lHUGo3Wmo4UEtVcFBoVFJqS0JrdmxQeVJNSUo1czJJNmR1MjlGVUxLUFVzZjJfamk3ZmlUYi1OOGZpWmdHaFZobUdzbkwyZk1oWGhNdmhlcXItRjN5V0paVVd4VHFsN0NrX20zdVNrUk1lVFFteXk0UWVvMndTSXpwRmdsRHVfM0E2TA?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
@@ -378,9 +378,9 @@
         "publishedAt": "2026-09-26T01:22:00.000Z"
       },
       {
-        "title": "Cumbre Perú Sostenible 2026: la inteligencia artificial redefine las habilidades que necesitará el trabajo - Mercado Negro",
-        "summary": "Cumbre Perú Sostenible 2026: la inteligencia artificial redefine las habilidades que necesitará el trabajo &nbsp;&nbsp; Mercado Negro",
-        "source": "Mercado Negro",
+        "title": "Cumbre Perú Sostenible 2026: la inteligencia artificial redefine las habilidades que necesitará el trabajo - mercadonegro.pe",
+        "summary": "Cumbre Perú Sostenible 2026: la inteligencia artificial redefine las habilidades que necesitará el trabajo &nbsp;&nbsp; mercadonegro.pe",
+        "source": "mercadonegro.pe",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMmY5UmVoQlRiVFZ0cDRQcEh1ZkpySWs5cXBRbmFLQTROWDNRa2QtS0tEdnVXc0V6NENLY2NzSDBtU2xZeFp1bm82anAwTFg4OEFZTGoyQ1hrRGpjc3lfbmN1SG5fS0VzbzlYN0NMWGI3ZnpqVF91N1N6ak13bzdGYzBjNENSaDczMkhURnJBMjRmdFE2SWc?oc=5",
         "image": "",
         "publishedAt": "2026-09-24T21:49:46.000Z"
@@ -417,7 +417,7 @@
         "source": "El Comercio Perú",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbmJIWDBrLXlhS0xEMm1WamtVUmZuQkRLSmNWMVBDLWoyY1pNTG1OMzROZ0RKS21KLWhtbDFYb0dwM2NSVXJjdHY5c1dBcEpEbXVPMnBoUzlHMk03S0FqaktTcVRpMHB1dmthVWZocDZDQmYwRXhwZXVQTEItXzJtWmpEVmpnczdpZDZKVk1nNTNCa1ZWNFo2MFBfS3U2QW9raVMyMkN2T01CLWVvVktZblEzekRVYklISEJPdmZUU0JNTjRpeFN1S1NPdjU5aVM1TEtfNGl6Vjd5MTU5Tm5EakdUdGQ1c1JQUXk2bzl5SnVRTWxFdTBIZNIBjAJBVV95cUxQMExLOFhNVVFSSmRkSUJBNHM0eHoxdjZEM1RkdlNRbWl5dl84TzlPbWluNGhQSE9OYWJ2amVfYk5JQkR6LW9scWxqT0dPQUFCZzU4TUJxOUNxVmUxT3pRR284dTB4dDFqbDh6b2l5NUtlTTZjQ0s0OUNIQ2ZFZE9YU3gzQXdCX0ZaR1lXUVZiX2J1ejJVR2xGRVROTXhuN21kOUJJckVsS3JRMDZsTkI5aUtPaVFBSVUtVVFqNXp4Wkc5MHhRSDd5bFFoQVhIWXlmd0l1LU45ZHk2LWZZRzYzYWpENU52MUJDY1JYaDYyanczRTNWZzVBeFhZaWRvQ1NSWU9DcEh1SFZsbElR?oc=5",
         "image": "",
-        "publishedAt": "2026-09-30T17:05:00.000Z"
+        "publishedAt": "2026-10-01T00:20:00.000Z"
       },
       {
         "title": "“El reto de las 48 horas”: la peligrosa tendencia viral que impulsa a adolescentes a desaparecer de sus casas - Infobae",
@@ -468,12 +468,12 @@
         "publishedAt": "2026-08-15T07:00:00.000Z"
       },
       {
-        "title": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” - Infobae",
-        "summary": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY1JKYUdUNlpDMThFMDBMcUtpSm9WX3hDME5FdlhTVkIySnFidkNRV3RNa2Z0LVB0ZzhIUlNPdnFSM3dGQl9SRXl2XzdRVVZNS3JoYkVoZzE5WDhnWDVpdlRCNVVWbTNYTjZHVEF5cERtNEZnT0RyRmEzUUlwT0JVcEhnRXEzWExJN2lxdjEtcHZCUm1vcVpWQ1VUQ21POUhFb2Fnb1FiaHFmZHg5YnctUWJfQk53Y0M1U0ZKSWhVVlRoYXFycEZDeFk1SdIB5gFBVV95cUxOX2lXTFZfYS02czhMamE1UE01SmozQVIzLXdxbTVwRFlJQlJhaGI2XzdnVlprZkVQb0J1MjllZ0pJbk9vS21OcWJTYUQ0OU1FLW1XNU04cXRRZUtvNFF6dGV5X0VyR2hFSEd1TU1yMl9EMkdVTFZxWlB2ZzZ1cHpMcHZLSVptbmpaTFpkQVkzOGV3MHdCN0FkUm1qWTJ5aWxVVkVNTmRFSkI0czZhZkM3SGtaYmtDSy0tVVJCNHE0QngySUFLN05tY2xESFVDRTh1M0dWeUgydHVyb1p1dkdhMUN3VkhUUQ?oc=5",
+        "title": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña - TV Azteca",
+        "summary": "Se convirtió en Spider-Man: Alcalde de Perú se vuelve viral por presumir sus obras al estilo del Hombre Araña &nbsp;&nbsp; TV Azteca",
+        "source": "TV Azteca",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUtQOXdxcVJBQ3VUS2QwTjRrWFYxMmRqSFk4dDVBZXNoTWZrNGwyTUtpUXdHTVl2UWlGNEx1YWRycWdjdWFZbDFJWFU1TGo4bGRVZWt3bkNvSnpXaWVSaGFhbkpYWkFFcFJacEJVT2R2U0hDR1huVjBua2U4aWhzdVoySUxIZ3FId0pfREhoajB4M1pPaXhfaTl1U3ZESEJZZXFn0gGwAUFVX3lxTE5vUUtIUGJEWFlSTlpGNktFT1lSOWJLSWJ3cEg5ZWEyR1VCVTJnal9hSDNWVVBkeDJmR1FYaWlNSHFjQkVPQjlDMUJtQVNXVFlUWi12ZmM4NWo1MFVfWE9RRDd5dlJzWXg4UFkxV2d0eGxMakZrMThuM2JhTGs4dVZ6Y2JPQ21pRGNtaV81TmlZY2pRT1p2WWlmSm9HcXEwUEpuV1pnODd0NWRGNW5xR2Nn?oc=5",
         "image": "",
-        "publishedAt": "2026-07-30T07:00:00.000Z"
+        "publishedAt": "2026-08-15T07:00:00.000Z"
       }
     ],
     "farandula": [
@@ -502,9 +502,17 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
-        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - diariocorreo.pe",
-        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; diariocorreo.pe",
-        "source": "diariocorreo.pe",
+        "title": "Falleció Víctor Angobaldo en trágico accidente vehicular en Cañete - Infobae",
+        "summary": "Falleció Víctor Angobaldo en trágico accidente vehicular en Cañete &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeW1uYzV2dTFwMHdMRjlOZ3RRTjhPRU1KWFJvSDdfUTlrNk40bERPdlBaX3NJNkFvZmtDX2tNZlNJdW40cndwcFBtSUM1NTFfUnZ2M2d0SmgtMHlXYnhQQ0V4aC1CdVRKZWJUQkhXUnc4S3doMlNqVVJUbXVQb0dVY3hORUNVZnVEMHhSY2txazNEV0E5cWtTcHZSd0LSAbcBQVVfeXFMTi1KeC1KN0hzYm1PN0dPZDVOQmpQQV9xNWhFXzdzcTliSVg3RVUycUNDT19lbEo4Nm93RkJaNnF3akpQN2c5Zmx1YzZMUmh0WXZ2MHlkV2ZQNVI0QTkwNzhZWXlKVzRXaG1aOF9GM3dQaUtDRFNzdmo5ZmppaDBCNGNMbElNREdreXN6VG1HNXBINTRxWTB1M1diTDNUU0RELXo1TFdDMWVXNWswY25iblNTa2xVeW5R?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-05T07:00:00.000Z"
+      },
+      {
+        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
+        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
+        "source": "Diario Correo",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
@@ -532,14 +540,6 @@
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFpHYlBfWE5DYjhNXzVvdjhzWEJUU3NRYUxCei13QUhSajlnTWtaNmxCUmRZeFJsU0FQZ2Uxa0hkMHNCanNqd1pPUDlveFZGUXlvU0MyblFibDBMY1pZVHZZczdZNlFpZ0dVU2hwUlJrQjdOY3FMZHloNXY2cXhCVVR4YjVLR1B5NEFhOGJlY2NKZnF2dWpfMWNUYTdGd2U1MWt1RWNpVUw1NXdWWE1SN0dSMm9ldWNqZUM2Z1930gHYAUFVX3lxTE9YYW5mSTRNYXNfWFBBZi0tX1h0S3A1b09TY09zaVFmcWdLTllzMHhtTzRQOHNwaEFOT1ZycS1fNklDamM2Tm4zbGZ0Uk5DTldIMDAxUlhGZVNmV2RvZXdVRERiTGFxV0Jhclc1bERDd3ItWU9yY1dpQjE2d0NnTVZzVDhBTjV4ellKTW5HOUxBWUtOLVNnVGs3Wi1ibF9iNVNMWFlzajFjSzhUSjRKdXBZQUdlbTh0QklnMUxNNFFlVXpTYi1jZXE2Z2dFcklfX2U3Y0VnTUM4Vg?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
-      },
-      {
-        "title": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula - La República",
-        "summary": "¿Quién fue 'La Chocolatita', modelo que fue hallada sin vida en La Molina?: Así fue su trayectoria en la farándula &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdkttUlMxUDlJSFM3dC1ZMUhLeDdZRDBsZGh3ZE53NnpMOWpCbG1nN1ltc1ZyV0JPbnloY0RSUW0yNU1nSFRiaWZwRXc0MVBBSWVPY2RhcVN4OGlLU20wQ1RaM1NIMHJfY0RVc0czWWdGTVh3azIwdTZVRldCZFdJYXJPNVE5QzNMeFA0RXEzRzAwRHNlT0NhMlZmTVdUemNlbTBzRGw1MEh5bjkwdENkQTFKcEtpNDk1bk01N1FNbW5xak12aGk4cWh0NFhydEtadG42RElFVEpuOUlaRFNfNmlGLTNENjBTMnd2TzN3OF9ZVFdmaktlZzROdXdEaExFbzVGRmpyN3R0d9IBjwJBVV95cUxNWkFhRzkzdkRBTF9aNHVTRXV2T3VBQTBiRFZQb0hoNktPYW1RclNIME90SHhYZ01Gazc1ZmZLWUxuUmhyWTJncVUyZ2o4bWVGS3ZJQS1FYVk4cVdLTm16TkwwWDVNTFpEV0lGb29aWTBNV2tMRVJDUU5HWmtzOTh1OW9SUnJGSW1GRFduU0F1TVBJdWQxYno4X1RETURES09iTTZjZ1pOVTNKQjk4NEV4Q2t0ZjhQUlk5VXdmYTNRbE81Qi1OUW8xMHE0bWt4d3FCZmdJV3d5NUVVaHdBdGRmSmFyNVRkb2FxaVJEdlcxbXJBd2kyQzhUbDl3QmpFNVBMREk2Q2VaLXNyMkU2czVj?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-26T07:00:00.000Z"
       }
     ],
     "cultura": [
