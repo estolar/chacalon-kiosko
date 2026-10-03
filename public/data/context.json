@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T17:14:10.326Z",
+  "generatedAt": "2026-10-03T19:50:04.403Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,28 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "La dispersión del voto creció en las últimas elecciones municipales en Lima Metropolitana: ¿Cuántos distritos y qué zonas apoyaron a los alcaldes ganadores?",
-        "summary": "El voto en Lima Metropolitana se ha fragmentado con el paso de los años. En las últimas elecciones municipales, celebradas en el 2022, Rafael López Aliaga, de Renovación Popular, se convirtió en alcalde de la capital con poco más de un cuarto de los votos válidos (26,3%), la cifra más baja desde el 2006.",
+        "title": "La agenda del Congreso tras la delegación de facultades: ¿Qué proyectos se alistan desde diputados?",
+        "summary": "Las comisiones ordinarias de la Cámara de Diputados -las encargadas de dictaminar los proyectos de ley- se empezaron a instalar desde el 17 de agosto de 2026. Desde entonces, han pasado más de 40 días sin que un dictamen haya llegado al pleno de la Cámara Baja para ser aprobado y elevado al Senado.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/elecciones-2026-la-dispersion-del-voto-crecio-en-las-ultimas-elecciones-municipales-en-lima-metropolitana-cuantos-distritos-y-que-zonas-apoyaron-a-los-alcaldes-ganadores-rafael-lopez-aliaga-carlos-bruce-francis-allison-onpe-jne-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/QOOJFCDYQJGHXNXBZ6TZP3I27Q.jpg?auth=242e8b6ee7cb83ce4e935e033284dc16b20c9f7538e812f1dc5f965a276fd713&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-03T16:33:30.000Z"
+        "url": "https://elcomercio.pe/politica/la-agenda-del-congreso-tras-la-delegacion-de-facultades-que-proyectos-se-alistan-desde-diputados-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/FFUSFE3JA5EDFPIGRX5QZRVI4Q.jpeg?auth=ed8c888ed61880d0ab4caf1487cd33c440fc7ece480ac335bacdff5ebb3f106f&smart=true&width=1280&height=853",
+        "publishedAt": "2026-10-03T19:42:07.000Z"
+      },
+      {
+        "title": "Delegación de facultades: ¿qué hará Fuerza Popular tras la aprobación del dictamen con solo 2 materias?",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/delegacion-de-facultades-que-hara-fuerza-popular-tras-la-aprobacion-del-dictamen-con-solo-2-materias-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/CSFUWAFKGBEYXM6H7AOYO6NQI4.jpg?auth=a9ec57630f3e2827718079bd80415a0e2ed84959b71e1bf6ea7953466cd3b16f&smart=true&width=888&height=450",
+        "publishedAt": "2026-10-03T19:41:17.000Z"
+      },
+      {
+        "title": "Juntos por el Perú: un grupo de diputados y senadores afianza lazos con gremio vinculado al Movadef",
+        "summary": "Cuatro diputados y un senador de Juntos Por el Perú usaron su semana de presentación del mes de agosto para reunirse con representantes de Fenatep-Tacna y Fenatep-Apurímac, consignándolo como parte de sus actividades oficiales.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/juntos-por-el-peru-afianza-lazos-con-fenatep-movadef-en-semana-de-representacion-congreso-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/LBZ3TUVP3JFLLAGF7QTMJNW2CU.png?auth=6dea8c05caa8f154f351c2f2ab9721c08810d4295277c1892cfd4873d6a10cd8&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-03T19:41:01.000Z"
       },
       {
         "title": "Elecciones municipales 2026: Casi mil candidatos limeños cambiaron de camiseta política",
@@ -37,7 +53,15 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/ecdata/elecciones-municipales-2026-casi-mil-candidatos-limenos-cambiaron-de-camiseta-politica-rafael-lopez-aliaga-carlos-bruces-francis-allison-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/MEVF7KANNJBXPJBZ6TFZIK7SDM.jpg?auth=b31ed9a2520d470199d73bb052125f9d2e17d14cdb08ebbbd66cc4906ce2bc98&smart=true&width=1200&height=628",
-        "publishedAt": "2026-10-03T16:33:06.000Z"
+        "publishedAt": "2026-10-03T19:33:00.000Z"
+      },
+      {
+        "title": "La dispersión del voto creció en las últimas elecciones municipales en Lima Metropolitana: ¿Cuántos distritos y qué zonas apoyaron a los alcaldes ganadores?",
+        "summary": "El voto en Lima Metropolitana se ha fragmentado con el paso de los años. En las últimas elecciones municipales, celebradas en el 2022, Rafael López Aliaga, de Renovación Popular, se convirtió en alcalde de la capital con poco más de un cuarto de los votos válidos (26,3%), la cifra más baja desde el 2006.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/ecdata/elecciones-2026-la-dispersion-del-voto-crecio-en-las-ultimas-elecciones-municipales-en-lima-metropolitana-cuantos-distritos-y-que-zonas-apoyaron-a-los-alcaldes-ganadores-rafael-lopez-aliaga-carlos-bruce-francis-allison-onpe-jne-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/QOOJFCDYQJGHXNXBZ6TZP3I27Q.jpg?auth=242e8b6ee7cb83ce4e935e033284dc16b20c9f7538e812f1dc5f965a276fd713&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-03T19:33:00.000Z"
       },
       {
         "title": "Ante cuestionamientos de El Comercio, el Mininter asegura que Programa de Recompensas está “en reestructuración”",
@@ -45,42 +69,66 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/ecdata/ante-cuestionamientos-de-el-comercio-el-mininter-asegura-que-programa-de-recompensas-esta-en-reestructuracion-pnp-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/JAH4GS3P2NC6VMKRSYLALG57HU.png?auth=885a2a7f360b0075187f78860ab2db0e1ba433a71f719a6dfcd7a7d81f490100&smart=true&width=1200&height=628",
-        "publishedAt": "2026-10-03T16:32:17.000Z"
+        "publishedAt": "2026-10-03T19:32:00.000Z"
       },
       {
-        "title": "Elecciones Regionales y Municipales 2026:candidaturas de los movimientos regionales caen 83% desde el 2022 y partidos políticos dominan el tablero",
-        "summary": "En el 2024, la amenaza en el Congreso de eliminar este tipo de agrupación desató una migración de candidatos hacia los partidos políticos de alcance nacional. Los movimientos desaparecieron por completo en 11 departamentos.",
+        "title": "Elecciones municipales 2026: estas son las facilidades laborales dispuestas por el Ministerio de Trabajo para el 4 de octubre",
+        "summary": "El Ministerio de Trabajo y Promoción del Empleo (MTPE) estableció facilidades laborales para los empleados públicos y privados por las Elecciones Regionales y Municipales del 4 de octubre. Las disposiciones buscan garantizar el ejercicio del derecho al voto y el cumplimiento de las funciones cívicas de los ciudadanos.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/el-exodo-de-los-movimientos-regionales-candidaturas-caen-83-desde-el-2022-y-partidos-politicos-dominan-el-tablero-elecciones-regionales-y-municipales-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/GCNMYV3TUNAT7ITF24PUM247Q4.jpg?auth=96899ab28be219c51788cfb81bd060e1fa1c35fa4997f5f765d4c389060813f4&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-10-03T16:31:02.000Z"
-      },
-      {
-        "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
-        "summary": "Fuerza Popular | Desde que empezó a participar en elecciones subnacionales, el fujimorismo redujo su oferta electoral en más de la mitad.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/en-16-anos-fuerza-popular-solo-ha-ganado-3-gobiernos-regionales-y-no-ha-colocado-un-solo-alcalde-en-lima-metropolitana-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/3ZQHU5EOGNH33LU7J6EN3J4QSE.jpeg?auth=05b2ba86279d4f5e8c5af8ea35780dce6caca06e15b2546119eb9e3be8b10463&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-10-03T16:26:38.000Z"
-      },
-      {
-        "title": "La agenda del Congreso tras la delegación de facultades: ¿Qué proyectos se alistan desde diputados?",
-        "summary": "Las comisiones ordinarias de la Cámara de Diputados -las encargadas de dictaminar los proyectos de ley- se empezaron a instalar desde el 17 de agosto de 2026. Desde entonces, han pasado más de 40 días sin que un dictamen haya llegado al pleno de la Cámara Baja para ser aprobado y elevado al Senado.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/la-agenda-del-congreso-tras-la-delegacion-de-facultades-que-proyectos-se-alistan-desde-diputados-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/FFUSFE3JA5EDFPIGRX5QZRVI4Q.jpeg?auth=ed8c888ed61880d0ab4caf1487cd33c440fc7ece480ac335bacdff5ebb3f106f&smart=true&width=1280&height=853",
-        "publishedAt": "2026-10-03T16:19:00.000Z"
-      },
-      {
-        "title": "Roberto Burneo dice que el JNE tomará decisiones con “independencia, prudencia, tranquilidad y objetividad”",
-        "summary": "El presidente del Jurado Nacional de Elecciones (JNE), Roberto Burneo, aseguró que el pleno de su institución tomará acciones de forma prudente y transparente. Esto, faltando horas para que se lleven a cabo las Elecciones Regionales y Municipales 2026 el 4 de octubre.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/elecciones/roberto-burneo-dice-que-el-jne-tomara-decisiones-con-independencia-prudencia-tranquilidad-y-objetividad-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/KTMBT3BJWNBE7B44X3LAC3UNKE.jpg?auth=34ee90dbb0880d356c13af188a0a305f6b7c35c612b76ddabdf8439276b50e75&smart=true&width=1200&height=831",
-        "publishedAt": "2026-10-03T16:07:49.000Z"
+        "url": "https://elcomercio.pe/elecciones/lima/elecciones-municipales-2026-estas-son-las-facilidades-laborales-dispuestas-por-el-ministerio-de-trabajo-para-el-4-de-octubre-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/GBVK6Y6O2RCFFEUJLLFIQIGGBI.jpeg?auth=903609a63ad1dd6e979afbac904abb72af7ed499262dddef128b574bde92192e&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-03T18:50:50.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "La Ibérica modernizará su planta en Arequipa: ¿qué cambios prepara?",
+        "summary": "La Ibérica alista seis intervenciones en su planta de Arequipa, entre ellas una nueva línea automática para bombones y chocolate macizo, un tostador de mayor capacidad y una planta de tratamiento de aguas residuales.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/la-iberica-invertira-s113-millones-para-modernizar-su-planta-en-arequipa-y-prepara-seis-cambios-noticia/",
+        "image": "https://gestion.pe/resizer/v2/3KW6JRGXFRBXHABYWA6LN423LY.jpg?auth=d52dc626607d117deaefc4f348b034a6ed7296f94b308f47473dc69270440f7e&smart=true&width=1280&height=720",
+        "publishedAt": "2026-10-03T19:41:00.000Z"
+      },
+      {
+        "title": "Vistony y su plan al 2030: más capacidad en Ancón y nuevos mercados en Centroamérica",
+        "summary": "Entre el alza del petróleo y El Niño, Vistony sostiene su plan: más capacidad en Ancón y la meta de liderar los lubricantes al 2030.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/vistony-acelera-la-inversion-en-su-planta-de-ancon-y-pone-la-mira-en-nuevos-mercados-al-2030-noticia/",
+        "image": "https://gestion.pe/resizer/v2/NFCEE7WBU5FH7MCOOOTRFX4ZKE.jpeg?auth=af3cac929074f04d06b4181a37a86f1b8708825ec88e3eb20b0ca14031ca67bf&smart=true&width=2000&height=1186",
+        "publishedAt": "2026-10-03T18:31:17.000Z"
+      },
+      {
+        "title": "Escasez de chips: data centers acaparan memorias y encarecen smartphones y laptops en Perú",
+        "summary": "La escasez de memorias por la IA ya encarece laptops y smartphones en Perú. ¿Qué pasa con televisores y línea blanca, y hasta cuándo durará el alza?",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/la-ia-se-lleva-las-memorias-que-artefactos-pagaran-mas-los-peruanos-hasta-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/56IIOPXGUJBTNMP4LB642HAURA.jpg?auth=d42209c5086816ba22121788ad511cbea2a63abf9fad00e324c17358c022d161&smart=true&width=696&height=418",
+        "publishedAt": "2026-10-03T18:30:38.000Z"
+      },
+      {
+        "title": "De Arequipa a Lima: la expansión que el Grupo Inca deja en pausa por barrera a las inversiones",
+        "summary": "El brazo hotelero del Grupo Inca alista una nueva inversión en Colca Lodge para 2027. Pero su llegada a Lima con restaurantes sigue en pausa. ¿Qué la frena?",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/grupo-inca-restaurantes-frenan-expansion-a-lima-por-igv-y-colca-lodge-alista-inversion-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CRRB6X74GVEIRFQDDZCNL2EYNE.jpg?auth=bc5d66a219dab73242ba6ea98f512ee006f937cb6767d9c900ba80cd3201ba72&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-03T18:29:58.000Z"
+      },
+      {
+        "title": "Inversión privada sigue creciendo, ¿cuándo podría traducirse en más empleo formal?",
+        "summary": "Inversión privada: ¿cuándo se traducirá en más empleo formal? La inversión privada crecería 14% este año, su mayor avance desde 2021, pero ese dinamismo no necesariamente se trasladará de inmediato al empleo formal. Economistas explican que el PBI tendría que crecer alrededor de 4% o más de manera sostenida para una me",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/inversion-privada-sigue-creciendo-cuando-podria-traducirse-en-mas-empleo-formal-noticia/",
+        "image": "https://gestion.pe/resizer/v2/GLHADNON4BACTCNN24F5YXVUK4.jpg?auth=97cbdf9f9b6c13f87bfd3d219f98ec0cbc6cbfd125624deddf4a67e560c65612&smart=true&width=924&height=530",
+        "publishedAt": "2026-10-03T18:19:36.000Z"
+      },
+      {
+        "title": "BCRP emite reglamento para empresas que procesan pagos digitales de comercios: ¿qué cambia?",
+        "summary": "El Banco Central de Reserva del Perú (BCRP) aprobó un nuevo reglamento para los servicios que permiten a los comercios recibir pagos digitales de sus clientes, con disposiciones sobre la protección de los fondos, las comisiones, los contratos y la interoperabilidad entre distintos medios de pago.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/bcrp-emite-reglamento-para-empresas-que-procesan-pagos-digitales-de-comercios-que-cambia-noticia/",
+        "image": "https://gestion.pe/resizer/v2/GJYJWBJ3TBHYVMQGD5J5G4M7JM.png?auth=0bec7c7da476d8c621b07f926f3daf85e52f0ff12e74f8f5925fad9000253c65&smart=true&width=1400&height=800",
+        "publishedAt": "2026-10-03T17:19:39.000Z"
+      },
       {
         "title": "EsSalud tiene S/ 5,600 millones por cobrar: ¿quiénes le deben y qué cambios se plantean?",
         "summary": "EsSalud tiene alrededor de S/ 5,600 millones pendientes de cobro. Zulema Tomás y Juan Sheput explicaron quiénes mantienen obligaciones y qué cambios plantean.",
@@ -96,54 +144,6 @@
         "url": "https://gestion.pe/economia/management-empleo/practicantes-los-casos-en-que-sunafil-podria-ordenar-que-ingresen-a-la-planilla-de-la-empresa-noticia/",
         "image": "https://gestion.pe/resizer/v2/J456HILXWRFNJN3ZWHI3HSB7QA.jpg?auth=8a0131fd52842642b36187dbb9f44ebf6ed4e37f195bf2af1ef5145bd8196902&smart=true&width=1195&height=661",
         "publishedAt": "2026-10-03T15:39:39.000Z"
-      },
-      {
-        "title": "LAP: “Ampliar la concesión no es el camino, necesitamos el ingreso de la TUUA hoy”",
-        "summary": "Cabe recordar que el operador planteó un “descuento” de 37% sobre la TUUA de transferencia internacional, es decir, que pase de US$ 10.05 a US$ 6.40, sin IGV.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/aeropuerto-jorge-chavez-ampliar-la-concesion-no-es-el-camino-necesitamos-el-ingreso-de-la-tuua-hoy-dice-ceo-de-lap-noticia/",
-        "image": "https://gestion.pe/resizer/v2/EOEJ77ESGNH5VNCYXXLHAUTOFU.jpg?auth=9da5dc5d1aa537607ff5f82bfa5c0e805c3091509cc0218982279f6045fb5937&smart=true&width=1800&height=1200",
-        "publishedAt": "2026-10-03T15:29:56.000Z"
-      },
-      {
-        "title": "Mercados e indicadores – viernes 2 de octubre",
-        "summary": "Para tomar las decisiones más acertadas de inversión, manténgase diariamente bien informado sobre el desempeño de las acciones de la plaza bursátil, de la variación de las principales variables del mercado financiero, así como de la evolución de los precios de los commodities. La cotización en el mercado de Londres el ",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/mercados/mercados-e-indicadores-viernes-2-de-octubre-2026-noticia/",
-        "image": "https://gestion.pe/resizer/v2/CKBJCXWQXVCTXHZN5ZAGTM66RE.jpg?auth=c935a9816683dbd514d89311dedaf60293df727aefbd90da56a9830e4813f2eb&smart=true&width=1280&height=720",
-        "publishedAt": "2026-10-03T15:00:00.000Z"
-      },
-      {
-        "title": "Resemin perfora más hondo: fabricante de maquinaria busca duplicar negocio y nuevos mercados",
-        "summary": "El negocio de maquinaria para minería vive un nuevo impulso. El alza sostenida del precio de los minerales en los últimos años ha vuelto a dinamizar el mercado local, en un contexto donde la inversión minera en Perú crecería 16.8% en 2026, según el Banco Central de Reserva del Perú (BCRP). Ese nuevo boom trae vientos a",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/resemin-el-unico-fabricante-de-equipos-de-mineria-subterranea-en-latam-busca-duplicar-negocio-y-apunta-a-canada-y-estados-unidos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/7Y2JVERK6BEBLBGX5AAK5LIJTU.jpg?auth=8614f3a6eafdf7cfca064e614d9c36e00349a5389f4ba255a1c32bfcce3f17de&smart=true&width=6000&height=4000",
-        "publishedAt": "2026-10-03T12:30:00.000Z"
-      },
-      {
-        "title": "De lotes a edificios: Inmobiliaria del Norte Chico reserva terrenos para vivienda vertical al 2036",
-        "summary": "Ubuntu Corporation empezó con lotes en el Norte Chico y hoy opera en Arequipa, Puno y la selva. Su fundador, Benito López, cuenta cómo duplicó su facturación semestral y por qué ya reserva terrenos para edificios al 2036.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/de-chancay-a-puno-inmobiliaria-amplia-su-negocio-de-vivienda-horizontal-en-regiones-noticia/",
-        "image": "https://gestion.pe/resizer/v2/PODM6AZNSZHDBBDVCBB7SZOC44.jpg?auth=85327a34c8513c3940ed6e6b71239c23970f853f229baf08afe47773c9f56384&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-10-03T12:00:00.000Z"
-      },
-      {
-        "title": "Indecopi ha condicionado solo 6 de 100 fusiones empresariales: ¿cuáles fueron las exigencias?",
-        "summary": "De 100 operaciones admitidas por Indecopi en cinco años, 88 fueron aprobadas en Fase 1 y seis con condiciones en Fase 2. ¿Qué puede exigir la autoridad?",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/indecopi-ha-condicionado-solo-a-6-de-100-fusiones-empresariales-exigencias-incluyen-hasta-venta-de-activos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/MKTDTJDYEFAGRCCT7QWV25TVY4.png?auth=25db0c8aaf413177a29a0ee4957cbf59487f4eeb2082ca8c499eb927263a5bb1&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-10-03T12:00:00.000Z"
-      },
-      {
-        "title": "Selectos Ibéricos acelera en Perú con producción propia y mira a provincias",
-        "summary": "Selectos Ibéricos prepara su propio jamón en Perú, fortalece su negocio B2B y alista su expansión a Trujillo y Arequipa desde 2027.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/selectos-ibericos-acelera-en-peru-con-produccion-propia-y-mira-a-trujillo-y-arequipa-noticia/",
-        "image": "https://gestion.pe/resizer/v2/RT432OCV7NCD7CVCFTPHIUOWFE.jpeg?auth=cf095746648bfb428345a2b7258795aabb00affe31a530613d7e23f197536acd&smart=true&width=1600&height=900",
-        "publishedAt": "2026-10-03T11:30:00.000Z"
       }
     ],
     "sociedad": [
@@ -246,9 +246,9 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - businessempresarial.com.pe",
-        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; businessempresarial.com.pe",
-        "source": "businessempresarial.com.pe",
+        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - Business Empresarial",
+        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbEpWQWwzZjk1OHUyMXNjdl9taXN3YWtlVkc3WUd6ak1GNTNKTjMwWHhEd0Y4TTF6WU90LTMwTjZSNDVFN29ReWFGQkVvTmtya3pNMG9kSEdjYzRvdnZsTG16M3E1bzZhV09OVVBwWUNCU2ZJVHpfdnlvV1VmVXVLU2FmR3FYeVlIRnl1MVRvWmJlSWU4eVZ4Rkxxd2tZUHBKcWp6Q3BRUkZRMVRkbDRiVWNOdTFNSU5yNjByS2FobmlLdGRrOVJHdU9YOW9VYjZBLTYySHM1cDNhR1pDR0JZ?oc=5",
         "image": "",
         "publishedAt": "2026-07-24T07:00:00.000Z"
@@ -262,17 +262,17 @@
         "publishedAt": "2026-07-21T07:00:00.000Z"
       },
       {
-        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - businessempresarial.com.pe",
-        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; businessempresarial.com.pe",
-        "source": "businessempresarial.com.pe",
+        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - Business Empresarial",
+        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOclpab3k5dms5U3JOSXdvUU1pSnFnUnYzWDY3QUtyeU9ob2NhZnI5U092N3QxY19kVUtUX1JPR0tzUElTTXVlMGdUbV9tclI0Y0JQcU11QWhJQkkxalNIR3R3VmdGSHdMY0NJUVE1V09Tel9OX3R5eUVKV3owZnJ2VjJ0VVRlNFowbWZyVUl4SDAwc2lYUzZKcTZtTDhEUlV0LTJMY2hnSGJkQ0c5U1AwRkVGVm5qQXk3XzI0ZEZ3ZTE4RjBtbTcwTG15MVdKX1F3Y3VGby1IdVNrd0pB?oc=5",
         "image": "",
         "publishedAt": "2026-07-04T07:00:00.000Z"
       },
       {
-        "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - businessempresarial.com.pe",
-        "summary": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores &nbsp;&nbsp; businessempresarial.com.pe",
-        "source": "businessempresarial.com.pe",
+        "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - Business Empresarial",
+        "summary": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVFwSXZrS2lPelhLNUlzRXRMZmM1WDhBVkptN0QyQ2dqSTQteTJaQVpnb2pUQldrSEJ2QjNpQWJZMC1lNmxtSjRQWUQ1N2JxcEhIcGY3M0xUdWdfV0YwYXBONWItcTlMVzlsekVJMW85VVRRN3Bmc2NjR0hlTlVVYmowYkprdDVwSTZ4T25tWnc0RDkzVUhRVUV4U1ZtQW9idWtuX0RqelF1TkpCbWxyQVQtUXJrMlRsLTg5SlFEQ0k5RS02Wkgw?oc=5",
         "image": "",
         "publishedAt": "2026-06-26T07:00:00.000Z"
@@ -304,9 +304,9 @@
         "publishedAt": "2026-09-20T02:36:47.000Z"
       },
       {
-        "title": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras - elcomercio.pe",
-        "summary": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras &nbsp;&nbsp; elcomercio.pe",
-        "source": "elcomercio.pe",
+        "title": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras - El Comercio Perú",
+        "summary": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPREc4YWJQZ2M1eVgwY1ZpdHhWX3FqZDVpTHZMRy16RFBoeF9OMHdPVDlmVU5MLXEtNjlvUnNlcU1VaDN3ekVqWUtJRmJOTFcxYmRlUWRLNnBzVF9fWnd5TFp1SFR6bVFFRV9IQV9zYl9PT3JhMWp0N3J3SVBfRkVlSG53OUdTb1BrUVNJa2loOER2aWpqM0w5c3liMXJDNVVnMUJaeGhOYUtDdmNIMGZHcnZGVjA1c2RRcXN5VlNJRnVJT256TU1pb9IB3AFBVV95cUxQNnNrcTE2TFhqTWpzYmVPM0lOMUFrY2h4cEhEREVwTjNWMnBNZkV0YUtJMUtpZDViZkkzYlhPNXpuaTdGb3pRYTlTWGlZdUVRb0lPaW9rS0xJNk83SDFzaklVTS1vVXJ1M2xaUGJRemNZQm1KWktTU2xuUzdxQ3hNODg3T2FXWlo1NExkVDdlQ2F2dTZELTRYTUFlbWNHQzB1RlhsVTU1TkpQa3UzN2lMbDRLRUJoRm1pVDJZTFhJanpaeXpNRmdCUm1rUUdJR1phbHB1Vzl4Sy1qbzYw?oc=5",
         "image": "",
         "publishedAt": "2026-08-25T07:00:00.000Z"
@@ -412,9 +412,9 @@
     ],
     "tendencias": [
       {
-        "title": "🛻 ¿Es oficial el Día de regalar ramos de carritos Hot Wheels? Esto se sabe sobre la fecha del 30 de septiembre - elcomercio.pe",
-        "summary": "🛻 ¿Es oficial el Día de regalar ramos de carritos Hot Wheels? Esto se sabe sobre la fecha del 30 de septiembre &nbsp;&nbsp; elcomercio.pe",
-        "source": "elcomercio.pe",
+        "title": "🛻 ¿Es oficial el Día de regalar ramos de carritos Hot Wheels? Esto se sabe sobre la fecha del 30 de septiembre - El Comercio Perú",
+        "summary": "🛻 ¿Es oficial el Día de regalar ramos de carritos Hot Wheels? Esto se sabe sobre la fecha del 30 de septiembre &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbmJIWDBrLXlhS0xEMm1WamtVUmZuQkRLSmNWMVBDLWoyY1pNTG1OMzROZ0RKS21KLWhtbDFYb0dwM2NSVXJjdHY5c1dBcEpEbXVPMnBoUzlHMk03S0FqaktTcVRpMHB1dmthVWZocDZDQmYwRXhwZXVQTEItXzJtWmpEVmpnczdpZDZKVk1nNTNCa1ZWNFo2MFBfS3U2QW9raVMyMkN2T01CLWVvVktZblEzekRVYklISEJPdmZUU0JNTjRpeFN1S1NPdjU5aVM1TEtfNGl6Vjd5MTU5Tm5EakdUdGQ1c1JQUXk2bzl5SnVRTWxFdTBIZNIBjAJBVV95cUxQMExLOFhNVVFSSmRkSUJBNHM0eHoxdjZEM1RkdlNRbWl5dl84TzlPbWluNGhQSE9OYWJ2amVfYk5JQkR6LW9scWxqT0dPQUFCZzU4TUJxOUNxVmUxT3pRR284dTB4dDFqbDh6b2l5NUtlTTZjQ0s0OUNIQ2ZFZE9YU3gzQXdCX0ZaR1lXUVZiX2J1ejJVR2xGRVROTXhuN21kOUJJckVsS3JRMDZsTkI5aUtPaVFBSVUtVVFqNXp4Wkc5MHhRSDd5bFFoQVhIWXlmd0l1LU45ZHk2LWZZRzYzYWpENU52MUJDY1JYaDYyanczRTNWZzVBeFhZaWRvQ1NSWU9DcEh1SFZsbElR?oc=5",
         "image": "",
         "publishedAt": "2026-10-01T00:20:00.000Z"
@@ -444,9 +444,9 @@
         "publishedAt": "2026-09-24T07:00:00.000Z"
       },
       {
-        "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - elcomercio.pe",
-        "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; elcomercio.pe",
-        "source": "elcomercio.pe",
+        "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - El Comercio Perú",
+        "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZTlFMnQ1b1pJM1dEbTJaWnpNVGZ0T1g4SWpXZ25rWHBsN1hTdmRVTUVfdG9mQXhQOFZZU3F6X3BkQzRXMnFaejgzcmgzdDZZOFk1VEhBZzJsTmQxS3k3aDRBeHRLRnZBTzR0WFU0cjhNal9QUHVoNHY3czFrNGlxN1NpckM1bGVpSFJfVVdNTlp6YnJsRUxURVh2UXZValZzcEJqSkxxSGI4MjdUN3lFNFg0QzlFUmVWc0lCN3A2VzgyN0d6UXZwSG5Bc0xPejhQYkgycDZlblczUlhzekRGTmVEVDFxU2fSAfsBQVVfeXFMT1BhMjJ1RDBTRjF4WnRMdGxmYm90ZUVBWlVLMVRtVDFvc2tkOTdrbUM0UG54OWNMbHJJTmZ2ZHBHZmVmek1EMkVNeFhaZnJtOEZQdlNVME16WW5KbnJvOFBoUzhOU0tzX0Z3WFN1UG5POEFzZ1ppdGEwcE9ZQ21mYWk5RjA5anNPR0RuSk5sZzFHdmNUdlV1V2VGS2Z3UHpSb21TTDZNRU9KRy03cDd1bGFfbWxQWmRsZTQxX2d5LXJVTzAzRmt2N0xQME9sdkdKNVBhbXVMdGRwMUpTZlZfZXVSdEpvVG1LQ1BtMExkdGtLOHZQeWhGV2dVU0E?oc=5",
         "image": "",
         "publishedAt": "2026-09-12T07:00:00.000Z"
@@ -494,9 +494,9 @@
         "publishedAt": "2026-09-03T07:00:00.000Z"
       },
       {
-        "title": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” - Trome.com",
-        "summary": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
+        "title": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” - trome.com",
+        "summary": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” &nbsp;&nbsp; trome.com",
+        "source": "trome.com",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0ZKVXhOaUNRMF9DMldlUXBKT1hQdXFHRlc0cnpUUWRLdmJFZFFOV3h3eTA5QnlraDZNSGN6bWFjNHJiOVVuSDcxSHlKTWdYY2hSY0VvWDhWb0lJVDhZeWJQb3Q3eWhTdG1qTEJJWVJTdmdCUUU4Q2hpODRQYjQ1NUw5OEJ2aUxNeFRxVHpVZVdMZThWanlrTUE5X2RpSVNMenBEaUdXSzkyczJ0UXVVdGdoc0hXejDSAcsBQVVfeXFMT1NEd25TWlFTdmhlR040dk1hWTkzNzR1eWJGUE12ZU9QQUw4UGU5Y0R1MjVWNE1uRGh3TUJIWTBiaFVOYi1pVlNwZEV2NVRkUzROTDlqLUtIM2liMzcyM1lWdWZBX1RTZUhSLW1xTGprT1pNTHZtRWRLR0s2LXA5dXBwUzBYS0JCTWNNam5IeG1ZTDFKYUhua2xMaWNCajBra0dOWlpTR2h6Yk1rYVp2djU3aGlhN0JodVB4MlhnY0lPdGRmX090c0RZTmM?oc=5",
         "image": "",
         "publishedAt": "2026-08-26T07:00:00.000Z"
@@ -534,9 +534,9 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
-        "title": "Mark Vito impacta con su nuevo ‘empleo’ tras ser ‘expulsado’ del Perú y asegura que es fácil ganar dinero: ¿a qué se dedica? - Trome.com",
-        "summary": "Mark Vito impacta con su nuevo ‘empleo’ tras ser ‘expulsado’ del Perú y asegura que es fácil ganar dinero: ¿a qué se dedica? &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
+        "title": "Mark Vito impacta con su nuevo ‘empleo’ tras ser ‘expulsado’ del Perú y asegura que es fácil ganar dinero: ¿a qué se dedica? - trome.com",
+        "summary": "Mark Vito impacta con su nuevo ‘empleo’ tras ser ‘expulsado’ del Perú y asegura que es fácil ganar dinero: ¿a qué se dedica? &nbsp;&nbsp; trome.com",
+        "source": "trome.com",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNek1IMmE2Wm9hak5Ob1QyU1dwdDUxVy1aaHVlSlpuMWNDUGJjNVZ2Wno0SGRYTFZuMmxsdWtHaE5yclF6Skh6QjhhXzhULTZxemgzWThVMHppaTlDekhVVWE5VEZyVTNNLXpfWXhfcS1xYVlvemhkdGN0MUs2QkM2c3d3QVFzX0dVUTFQSUZRQWpxVExlR1ZZMnUySDM0b1Y2eXMtS24zc1VVY0FpOUh1b2lTY1pySnBjNEZ4S1djcFNSUFJUTl9uZmpSaWlNUVZL0gHkAUFVX3lxTE01M015cXRLNTBMbHRQcjAwLTRxVjVkMUZyMGhFLWswTy1oWS1ncnJDMHRBNlFlSkpYMVFXdHlDSkNzbE1ZWGhXdktNYWtSN2xubHJ0ekJwX1RkQVhCTWNDajE3U3p4RW5uYU9fSWlRSVROeXlrSUNzRk9RQmstMkJ0U2RPdXJ5RTFnVmtjWjhsRHpmNmVCQVlaczdWTkEwSzhGVnlRQXZyUnNqUGFNWTdFaFNMMTUwZVhaZ3BvRUoxTWFpTWs1RnZRdnNkQVFBOHhKVFc5a0E4eFp4dGxkTHdyUlB3Xw?oc=5",
         "image": "",
         "publishedAt": "2026-08-04T07:00:00.000Z"
@@ -584,9 +584,9 @@
         "publishedAt": "2026-08-21T07:00:00.000Z"
       },
       {
-        "title": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto - blog.joinnus.com",
-        "summary": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto &nbsp;&nbsp; blog.joinnus.com",
-        "source": "blog.joinnus.com",
+        "title": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto - Blog Joinnus",
+        "summary": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto &nbsp;&nbsp; Blog Joinnus",
+        "source": "Blog Joinnus",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQempKSjE1ZEJaSUlkTkxKb2ZEb01WelVBMUZpdUMxM1FSR3VlUlZZalFqUnZJMnhWcFc5UUdoZVFMOG1TbWpzc1BqTFUwbTl6MEhWR2NpSW95RmhRQ2tFSFM2NXZsQjFNUXVsY2k5dS1HRUlzU2pJMEN2SGMtSXlBOFhCbVBSVExUWGxFWVV1dTJCbFdtY0Npdmk4UUlFUkxXQi1QRlFCdC1VWG9jR2hxS2xfbGRGb0tGMGl3MzFrNkdvYjVp?oc=5",
         "image": "",
         "publishedAt": "2026-08-19T07:00:00.000Z"
