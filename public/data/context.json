@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T20:42:19.637Z",
+  "generatedAt": "2026-10-03T00:27:27.486Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -29,7 +29,7 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/elecciones/cierre-de-campana-por-lima-donde-hicieron-sus-ultimos-mitines-y-recorridos-los-candidatos-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/7GDXJC52KZAFNLSTOAPXJHQYYE.jpg?auth=d8dc92a0a147440c877e77e44e38fe7af35895f953b2c57839b02488dce603e0&smart=true&width=938&height=631",
-        "publishedAt": "2026-10-02T20:37:00.000Z"
+        "publishedAt": "2026-10-02T23:18:53.000Z"
       },
       {
         "title": "Diferencias y movidas en la oposición debilitan ahora la moción de interpelación al ministro de Educación",
@@ -37,7 +37,39 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/diferencias-y-movidas-en-la-oposicion-debilitan-otra-mocion-contra-el-ejecutivo-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/HES5XPLIDVHX7O3JC6432Z4SZE.jpg?auth=53832fd37c9a54d11c723a23f1b105146353d3c5e576d8481cd905876c6c36eb&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-10-02T20:37:00.000Z"
+        "publishedAt": "2026-10-02T23:16:51.000Z"
+      },
+      {
+        "title": "Gobierno acepta renuncia de la jefa del OEDI luego de cuestionamientos a su gestión",
+        "summary": "El Gobierno dispuso el cambio en la jefatura del Organismo de Estudios y Diseño de Proyectos de Inversión (OEDI), luego de los cuestionamientos surgidos en torno a la gestión de Jenny Patricia Ocampo Escalante. La Presidencia del Consejo de Ministros (PCM) oficializó este miércoles la aceptación de su renuncia mediante",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/gobierno-acepta-renuncia-de-la-jefa-del-oedi-luego-de-cuestionamientos-a-su-gestion-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/KVQRPFGVYZHZ7EVTZ7BQUMOAKE.png?auth=fba682dc59cd55c5a40c73d1429320d36610362987f93dec60ef0ee0fab8200d&smart=true&width=1671&height=941",
+        "publishedAt": "2026-10-02T22:05:49.000Z"
+      },
+      {
+        "title": "Guillermo Bermejo: Fiscalía pide confirmar su condena de 15 años por afiliación a Sendero Luminoso",
+        "summary": "El Ministerio Público ha solicitado que se rechace el recurso del excongresista Guillermo Bermejo, para que se anule su condena de 15 años por afiliación al terrorismo. La Corte Suprema analizará este viernes el recurso que presentó el exintegrante de Perú Libre, quien cumple en el Penal Ancón I.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/guillermo-bermejo-fiscalia-pide-confirmar-su-condena-de-15-anos-por-afiliacion-a-sendero-luminoso-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/PCDHSWXV7RBERKJ4DZKEGP24LU.png?auth=cf8e291d74a3dea29a29974016f78b35b2a99955719d3e41a34a79775f55b47f&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-02T22:04:31.000Z"
+      },
+      {
+        "title": "Ministerio de Justicia y Proinversión suscriben alianza para construir penales y reducir el hacinamiento",
+        "summary": "El Ministerio de Justicia y Derechos Humanos suscribió un convenio marco de cooperación interinstitucional con la Agencia de Promoción de la Inversión Privada (Proinversión) para impulsar proyectos de infraestructura penitenciaria en el Perú. Esta alianza estratégica fijó las bases formales para desarrollar obras públi",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/actualidad/ministerio-de-justicia-y-proinversion-suscriben-alianza-para-construir-penales-y-reducir-el-hacinamiento-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/NNFQPZ4VORASFGGE7SXI34HH2I.jpg?auth=15ec174bb43570d1bf1617efb704fcebb7ac677ce1eb0f0916e9cadc4c781f9a&smart=true&width=1280&height=896",
+        "publishedAt": "2026-10-02T21:29:11.000Z"
+      },
+      {
+        "title": "Luis Galarreta: Dictamen no incluye “mecanismos suficientes para enfrentar” inseguridad ciudadana y El Niño",
+        "summary": "El presidente del Consejo de Ministros, Luis Galarreta, cuestionó la reducción del pedido de facultades legislativas en la Comisión de Constitución de la Cámara de Diputados. El jefe del Gabinete calificó como incompleta la propuesta técnica aprobada en el grupo parlamentario tras el recorte de materias prioritarias.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/luis-galarreta-dictamen-no-incluye-mecanismos-suficientes-para-enfrentar-inseguridad-ciudadana-y-el-nino-apuesplan-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/HPFOS6KAFJGE7IOH47RNA2UUZY.jpg?auth=81538495b0b4778d11dff8421694fdff49b44d30a79f03ab16d7ebb600fed75b&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-10-02T20:52:44.000Z"
       },
       {
         "title": "Elecciones municipales 2026: Casi mil candidatos limeños cambiaron de camiseta política",
@@ -46,107 +78,83 @@
         "url": "https://elcomercio.pe/ecdata/elecciones-municipales-2026-casi-mil-candidatos-limenos-cambiaron-de-camiseta-politica-rafael-lopez-aliaga-carlos-bruces-francis-allison-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/MEVF7KANNJBXPJBZ6TFZIK7SDM.jpg?auth=b31ed9a2520d470199d73bb052125f9d2e17d14cdb08ebbbd66cc4906ce2bc98&smart=true&width=1200&height=628",
         "publishedAt": "2026-10-02T20:10:40.000Z"
-      },
-      {
-        "title": "Delegación de facultades: Los alcances de lo aprobado por la Comisión de Constitución",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/detalles-del-debate-comision-de-constitucion-aprueba-otorgar-facultades-al-ejecutivo-en-seguridad-ciudadana-y-fenomeno-el-nino-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/XFINRQ4T2NEPXKFNEYFAUEIJCQ.jpeg?auth=acc4678ff70b1cd415a89fcc1f89169690300427b61228882fa6e0522a5adb48&smart=true&width=1280&height=853",
-        "publishedAt": "2026-10-02T19:42:10.000Z"
-      },
-      {
-        "title": "Dictamen sobre facultades legislativas será debatida en pleno de Cámara de Diputados el martes 6 de octubre",
-        "summary": "El dictamen sobre la delegación de facultades legislativas al Poder Ejecutivo ingresó oficialmente a la agenda de la sesión del Pleno de la Cámara de Diputados. La decisión parlamentaria se formalizó esta mañana durante la reunión ordinaria de la Junta de Portavoces en el Palacio Legislativo.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/dictamen-sobre-facultades-legislativas-sera-debatida-en-pleno-de-camara-de-diputados-el-martes-6-de-octubre-apuesplan-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/DVJPVRWMZFACPEWB7HAGCARFQE.jpg?auth=2403948bd4ea32bd7d15cf61813727adefce0f50f7125f26dba04c34d90d4328&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-10-02T19:16:49.000Z"
-      },
-      {
-        "title": "Fuerza Popular busca reincorporar temas relacionados a las Fuerzas Armadas en debate del pleno de diputados",
-        "summary": "La bancada de diputados de Fuerza Popular anunció un proceso de diálogo con otros grupos parlamentarios en el Congreso para reincorporar temas prioritarios de seguridad en el dictamen de facultades legislativas. Esto lo hicieron a través de un comunicado oficial emitido este viernes 2 de octubre.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/fuerza-popular-busca-reincorporar-temas-relacionados-a-las-fuerzas-armadas-en-debate-del-pleno-de-diputados-apuesplan-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/ZP3P7LDO7JH27P227FIEMQ3AXQ.jpeg?auth=423aa98b59ade7aa2a0e3d72ec4b5391be490a8747d1016b3994c2812ea5539b&smart=true&width=1280&height=853",
-        "publishedAt": "2026-10-02T18:34:22.000Z"
-      },
-      {
-        "title": "Rafael López Aliaga: “De acuerdo a la ley en este minuto, hoy día, yo podría ir hasta un tercer periodo”",
-        "summary": "El candidato a primer regidor de la Municipalidad de Lima por Renovación Popular, Rafael López Aliaga, defendió su postulación y la posibilidad que pueda asumir como nuevo burgomaestre en el próximo periodo. El dirigente político sostuvo que su inscripción respetó las normas vigentes en la legislación electoral y que, ",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/elecciones/rafael-lopez-aliaga-de-acuerdo-a-la-ley-en-este-minuto-hoy-dia-yo-podria-ir-hasta-un-tercer-periodo-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/MNVGLRYG45AJVMY2EAE35Q2BK4.jpg?auth=82b66fd51d8e4d44b3eec01aaf5d6d3f32039dec6656ef4e00815cdff4d54238&smart=true&width=2756&height=1837",
-        "publishedAt": "2026-10-02T17:53:32.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Tipo de cambio hoy en Perú: ¿En cuánto cerró el dólar este viernes 2 de octubre?",
-        "summary": "El viernes 2 de octubre, el dólar en Perú comenzó el día con un descenso, con la atención de los inversionistas puesta en los datos de empleo de Estados Unidos, que podrían aportar nuevas señales sobre el rumbo de las tasas de interés de la Reserva Federal.",
+        "title": "Construcción vuelve a ganar “velocidad”: habría crecido 9.7% en agosto",
+        "summary": "Capeco estima que el sector construcción creció 9,7% en agosto y mantiene su avance dentro de la economía peruana.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-viernes-2-de-octubre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
-        "image": "https://gestion.pe/resizer/v2/IQJX3DYHX5GIFCPOWR3LOI5NK4.jpg?auth=97c3e802f396eac8cb3e4005b5c99151d579925cf1286e00b9ab7d875aec686a&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-02T20:28:13.000Z"
+        "url": "https://gestion.pe/economia/construccion-en-peru-vuelve-a-ganar-velocidad-habria-crecido-97-en-agosto-noticia/",
+        "image": "https://gestion.pe/resizer/v2/XQUFW6W4OJENJJEOSTSMCLY3SI.jpg?auth=d5319e91b486764a597b72fdce7a11816376e51b37337675870cc706ccd4bc85&smart=true&width=1200&height=760",
+        "publishedAt": "2026-10-03T00:14:00.000Z"
       },
       {
-        "title": "Formalización en Perú: el reto de “saltar” de la obligación a la estrategia",
-        "summary": "Expertos plantean que las empresas deben ver la formalización como una inversión en competitividad y no solo como una obligación legal.",
+        "title": "Produce: la apuesta por el factoring para ayudar a mitigar impacto del alza de RMV sobre mypes",
+        "summary": "En diálogo con Gestión, el ministro de la Producción (Produce), Juan Carlos Requejo, reconoció que las pequeñas empresas del Perú podrían ser afectadas negativamente, a pesar del apoyo transitorio que tendrán en octubre de S/ 100.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/management-empleo/formalizacion-del-empleo-en-peru-el-reto-de-saltar-de-la-obligacion-a-la-estrategia-de-competitividad-noticia/",
-        "image": "https://gestion.pe/resizer/v2/MIZHITDTTFEU3LGJ24WP76RMYA.jpg?auth=ed8c27adca4ef163d166bb66e93f8cde33313dedf5155893fcbd88ef5fc195a6&smart=true&width=1200&height=675",
-        "publishedAt": "2026-10-02T20:08:20.000Z"
+        "url": "https://gestion.pe/economia/produce-asi-sera-la-apuesta-por-el-factoring-como-clave-para-ayudar-a-mitigar-impacto-del-alza-del-salario-minimo-sobre-mypes-noticia/",
+        "image": "https://gestion.pe/resizer/v2/PWFYIGHGFFB4DBPHGSTHGQOZTM.png?auth=6ce02242fb9a7de2de9d73c4699c521072feba0e0e05f9d146444c82c0c41d09&smart=true&width=1672&height=941",
+        "publishedAt": "2026-10-03T00:05:00.000Z"
       },
       {
-        "title": "Una de cada cuatro bebidas alcohólicas sería ilegal: ¿cuántos millones le cuestan al Estado?",
-        "summary": "El mercado de bebidas alcohólicas adulteradas y falsificadas operan mediante una cadena de producción y distribución que puede terminar incluso en el mercado formal.",
+        "title": "EsSalud: déficit sería cercano a S/ 2,000 millones, mientras arrastra millonarias obligaciones",
+        "summary": "EsSalud proyecta cerrar el 2026 con un déficit cercano a S/ 2,000 millones. Juan Sheput detalló además sus obligaciones, problemas de caja y deudas pendientes.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/bebidas-alcoholicas-1-de-cada-4-serian-ilegales-en-peru-cuantos-millones-le-cuestan-al-estado-noticia/",
-        "image": "https://gestion.pe/resizer/v2/MVBIG2GUXBDFRPDJXW72UQ77RA.jpg?auth=38e28f8701edaf95b9e73a4f258815616d686fa9a9f2ef5b79f9cffabbad33c7&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-02T20:07:50.000Z"
+        "url": "https://gestion.pe/economia/essalud-deficit-llegaria-a-s-2000-millones-en-2026-noticia/",
+        "image": "https://gestion.pe/resizer/v2/WT4XLVZIUVHZFJYIYWBPTCFKAQ.jpg?auth=4f2f69c65ff8ef639491a2d7bf57ac1c1dd5e473755fce20a8c4d00ea3f4c58f&smart=true&width=1200&height=675",
+        "publishedAt": "2026-10-02T23:44:47.000Z"
       },
       {
-        "title": "¿Dejaste de alquilar un “depa”? Los desperfectos que sí te pueden descontar de la garantía",
-        "summary": "¿El propietario puede descontar cualquier desperfecto de la garantía del alquiler? Conoce qué ocurre con pintura, pisos, grifería y otros daños.",
+        "title": "Empresas en crisis: ¿liquidación o reestructuración, a qué apuntan las juntas de acreedores?",
+        "summary": "El mapa concursal peruano muestra que la liquidación continúa teniendo un peso importante entre las decisiones que deben evaluar los acreedores de empresas en crisis. Entre el 15 de agosto y el 15 de septiembre de 2026 se convocaron 16 juntas de acreedores, de las cuales cinco correspondieron a procesos de liquidación,",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/dejaste-de-alquilar-un-departamento-los-desperfectos-que-el-propietario-si-te-pueden-descontar-de-la-garantia-noticia/",
-        "image": "https://gestion.pe/resizer/v2/VM7MTIIFIZGLPHJNDMZ75GSNYQ.jpeg?auth=0aae346ff6be44cd4b43c9e0ab55b8a26a0ace6a9873eac5e886a0a05525c87a&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-10-02T20:06:25.000Z"
+        "url": "https://gestion.pe/economia/empresas-en-crisis-y-mapa-concursal-liquidacion-o-reestructuracion-a-que-apuntan-las-juntas-de-acreedores-noticia/",
+        "image": "https://gestion.pe/resizer/v2/XN4HX3GESFAI5GMNO2BBN3EYHY.png?auth=176b2b92e7c4ac4d7bec6f9a8bb9f773c6d50c06ade051837889f8d3d684b47b&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-02T23:20:22.000Z"
       },
       {
-        "title": "Practicantes: los casos en que Sunafil podría ordenar que ingresen a la planilla de la empresa",
-        "summary": "Conozca las situaciones en que los convenios de prácticas se desnaturalizan.",
+        "title": "Engie firma cuatros concesiones por US$ 339 millones para proyectos eléctricos: ¿dónde?",
+        "summary": "Las obras, que se desarrollarán en Piura, Lambayeque, Junín y Ayacucho, forman parte del Grupo 1 del Plan de Transmisión 2025-2034 y tienen prevista su puesta en operación comercial para 2031.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/management-empleo/practicantes-los-casos-en-que-sunafil-podria-ordenar-que-ingresen-a-la-planilla-de-la-empresa-noticia/",
-        "image": "https://gestion.pe/resizer/v2/J456HILXWRFNJN3ZWHI3HSB7QA.jpg?auth=8a0131fd52842642b36187dbb9f44ebf6ed4e37f195bf2af1ef5145bd8196902&smart=true&width=1195&height=661",
-        "publishedAt": "2026-10-02T19:28:10.000Z"
+        "url": "https://gestion.pe/economia/empresas/engie-suscribe-contratos-con-el-estado-para-ejecutar-cuatro-proyectos-de-transmision-electrica-por-us-339-millones-noticia/",
+        "image": "https://gestion.pe/resizer/v2/5N6OIEIRXZDB5MQZW4LDRNP6EA.jpg?auth=a5fda9601dc291a3d5a007b2046dced70043c6e3e3378d31e37fbde22102c513&smart=true&width=1200&height=801",
+        "publishedAt": "2026-10-02T23:11:06.000Z"
       },
       {
-        "title": "Talento laboral de Perú no “encaja” en estos sectores: la brecha que preocupa al empresario",
-        "summary": "La Unión Europea impulsa en Perú el trabajo decente y la empleabilidad juvenil, con foco en cerrar la brecha entre formación y demanda empresarial.",
+        "title": "Empleo en Perú: el 74% de ninis podría empezar a trabajar en los próximos 15 días",
+        "summary": "En Perú, el 74% de jóvenes puede empezar a trabajar en los próximos 15 días, pero hay características que frenan su empleo.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/talento-laboral-y-profesionales-de-peru-no-encajan-en-estos-sectores-la-brecha-que-preocupa-al-empresario-noticia/",
-        "image": "https://gestion.pe/resizer/v2/FEE2HWBZ2VA3RKGYA6ETK5BSII.webp?auth=1fc8c7c4ca85e2296bc924623de337ff304ae4c2ab6509acdf54fe29b7d8c09b&smart=true&width=1800&height=1200",
-        "publishedAt": "2026-10-02T18:55:10.000Z"
+        "url": "https://gestion.pe/economia/empleo-en-peru-el-74-de-ninis-podria-empezar-a-trabajar-en-los-proximos-15-dias-noticia/",
+        "image": "https://gestion.pe/resizer/v2/ROGLHFZGY5EFJJZCQNXTEQJA6E.jpg?auth=52b54e667163f7cd1d48e54ce162a7a85032f9559101902e1b27ad0980c20acf&smart=true&width=1800&height=1212",
+        "publishedAt": "2026-10-02T23:08:00.000Z"
       },
       {
-        "title": "Congreso quiere “empoderar” a reguladores en megaproyectos: el cambio que persigue",
-        "summary": "Nuevamente el rol de los organismos reguladores en proyectos con participación privada en Perú vuelve a enfrentar potenciales cambios, esta vez desde el Congreso de la República.",
+        "title": "Petroperú: ProInversión alista dos nuevas subastas antes de fin de año, ¿de qué se trata?",
+        "summary": "Además, esa agencia está próxima a aprobar los planes de promoción para los primeros bloques patrimoniales de la petrolera estatal, donde van a incorporar inversión privada",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/congreso-quiere-empoderar-a-reguladores-como-ositran-osinergmin-osiptel-y-sunass-en-megaproyectos-y-permitirles-mayor-analisis-en-concesiones-noticia/",
-        "image": "https://gestion.pe/resizer/v2/4B4PNK34N5G63HJLLNPDLJTUPI.png?auth=76486cd8da338ab945ee61e19cb52e3e94d2d10cffc9b14f0abd1d86df9d80cb&smart=true&width=1672&height=941",
-        "publishedAt": "2026-10-02T18:48:00.000Z"
+        "url": "https://gestion.pe/economia/petroperu-proinversion-alista-dos-nuevas-subastas-antes-de-fin-de-ano-por-us-326-millones-noticia/",
+        "image": "https://gestion.pe/resizer/v2/JNBMAL3CCFDONL7SX64G6J4HUM.png?auth=3722020126976b522f4bc610116b2a9083f4c6d4534acdd3c0ccf708add70f72&smart=true&width=1672&height=941",
+        "publishedAt": "2026-10-02T22:57:47.000Z"
       },
       {
-        "title": "Perú preside sesión de ONU sobre normas de contabilidad: los temas sobre la mesa",
-        "summary": "Perú preside una sesión de expertos de Naciones Unidas sobre normas internacionales de contabilidad, información financiera para mipymes y sostenibilidad.",
+        "title": "Dólar marca mayor alza en 6 meses por repunte de tasas, ¿se acelerará en octubre?",
+        "summary": "Dólar subió 1.8% en septiembre al pasar de S/ 3.371 a S/ 3.433, impulsado por compras de extranjeros que obtienen mayor rentabilidad por activos en esa moneda. A nivel mundial subió un poco más, 1.88%. ¿Cuál será el factor decisivo este mes?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/peru-preside-sesion-de-naciones-unidas-sobre-normas-internacionales-de-contabilidad-los-temas-sobre-la-mesa-noticia/",
-        "image": "https://gestion.pe/resizer/v2/TAL7EY2B2NFPNAN6AE4UOK3ENA.jpg?auth=4d4b93257ee660a92333fb0112338f54a5dfff624d945711e30e65ff32197aed&smart=true&width=1200&height=710",
-        "publishedAt": "2026-10-02T18:43:06.000Z"
+        "url": "https://gestion.pe/economia/mercados/dolar-marca-mayor-alza-en-6-meses-por-repunte-de-tasas-se-acelerara-en-octubre-noticia/",
+        "image": "https://gestion.pe/resizer/v2/IAZ3HVHB6RG37M7IFQB3TLRQBQ.jpg?auth=8764e6552bffd2d037503503a0dab8780b2f0e1ff99285caa9fae1d0c4988a9b&smart=true&width=611&height=458",
+        "publishedAt": "2026-10-02T22:33:33.000Z"
       }
     ],
     "sociedad": [
+      {
+        "title": "Personas adultas mayores: Defensoría del Pueblo reafirma compromiso con sus derechos - La República",
+        "summary": "Personas adultas mayores: Defensoría del Pueblo reafirma compromiso con sus derechos &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQOEFhWktIc2RxWXVGaEYxLXNfejlLQ3BocWhwWkc1NWxOelpDaTQ4U1JEUTVvRXlVemxYT2ZXQkk1dnlCajl5WWRVdFJTMEJYVW5GNnBobks2SjA0MkRnX2NiQ3lyYWhYenhXM1dJMkFFX2ZLdTRGWVdkMnFwYVBWSXBoZUNTaFdLeFN5NFZ5RUhLODRPRzlxZDRpRlVIclN5TTB3SVFRNWNhR25IbWJwOEVrcmFjWkpRMXZ0YVRmWVRKVjg1OXJZZE43UUk2bXhpMWZCX04yZmdXNEplMnlqT3BTVm5SMTg1QUV6STROSVdwU2ExeGd5YTVaaVpxcW0zWTdMRHpWVHBSYUJ1ZWFkd2VoejBVVmM?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-02T20:03:30.000Z"
+      },
       {
         "title": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN - La República",
         "summary": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN &nbsp;&nbsp; La República",
@@ -159,9 +167,9 @@
         "title": "Trabajadores sociales podrán ejercer en más de 20 campos de intervención según nuevo reglamento - Infobae",
         "summary": "Trabajadores sociales podrán ejercer en más de 20 campos de intervención según nuevo reglamento &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc3hnVnQwRDBOcWFqanlYajZhSmVHOVNUR0UxM2NlYVFtaU4tU2NtSU5WMHM3d0VZS0VrUVRRTUNPNzY1aXBhWndWZ1h2czJ0X3dmRkRyald3a0VYRktaSE5EVmpDU2R4MFRNTE82bG1QTjVjNVA1NW9CSlhtTHlqWEVNdVZoMUdfMWNQcy1Yc0xZRWNQUzZSQWhxZmFDNmQxTVFVcnpvdmtFdDVxWWRZNFRsSExwaG5val9ZbEptUGJ4by14SldZWm5qMzk4YlUxaHfSAewBQVVfeXFMUGZmVEVhN0NORG5ESURKOWpvS2c1Qnppcm5PaVd5SGFUbWRkQUhjMzBjMURnQzF4Yl9Oa01PVHI1c1k4M3FqRlBXUkdoR2g5d3JWdkp4eXllREJkWnFHY3dDOXVmVzhrTUF0ZjA2T0tJRUFhTERvTTV5aGpMdzdkdEpzMTJ6SWYtTEZXaDJmSkZqZ0h6VkpQY0tib3VlWW9oWXV5RWhmSTRLczhpd25UTWNXeWdaRy1KbzRNLW9uM1JQQ1VQdTVXOVNMZzRZLXF0bDBrVEs1YTUyblBreVJzOWJzM1I4a3JUdXE2Nmg?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZmZURWE3Q05EbkRJREo5am9LZzVCemlybk9pV3lIYVRtZGRBSGMzMGMxRGdDMXhiX05rTU9UcjVzWTgzcWpGUFdSR2hHaDl3clZ2Snh5eWVEQmRacUdjd0M5dWZXOGtNQXRmMDZPS0lFQWFMRG9NNXloakx3N2R0SnMxMnpJZi1MRldoMmZKRmpnSHpWSlBjS2JvdWVZb2hZdXlFaGZJNEtzOGl3blRNY1d5Z1pHLUpvNE0tb24zUlBDVVB1NVc5U0xnNFktcXRsMGtUSzVhNTJuUGt5UnM5YnMzUjhrclR1cTY2aNIB7AFBVV95cUxQZmZURWE3Q05EbkRJREo5am9LZzVCemlybk9pV3lIYVRtZGRBSGMzMGMxRGdDMXhiX05rTU9UcjVzWTgzcWpGUFdSR2hHaDl3clZ2Snh5eWVEQmRacUdjd0M5dWZXOGtNQXRmMDZPS0lFQWFMRG9NNXloakx3N2R0SnMxMnpJZi1MRldoMmZKRmpnSHpWSlBjS2JvdWVZb2hZdXlFaGZJNEtzOGl3blRNY1d5Z1pHLUpvNE0tb24zUlBDVVB1NVc5U0xnNFktcXRsMGtUSzVhNTJuUGt5UnM5YnMzUjhrclR1cTY2aA?oc=5",
         "image": "",
-        "publishedAt": "2026-09-30T16:21:00.000Z"
+        "publishedAt": "2026-09-30T15:25:05.000Z"
       },
       {
         "title": "Perú tiene espacio para elevar su competitividad - El Peruano",
@@ -202,17 +210,17 @@
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUnB3bzVxUmd0OUYtcDl1b01PcVNtVzVac18zZGpEdWxSZTVWUGxiUGY2VHZYSHE1c0VQcG11Zlg3eHZLZkctY1JFSGE2UVRTNE1jcWxiTE9rTXdabGdJUTdsQTlhN2ZKYWxXczRBUGhUYjE0LXlfZElpWTltR2FRVnBCMnZROTU1a3ZxWXZhNlFIaTZVWjlBTWJoT21Tbmd3NmhHLVJGSnlOdjBtUHZ3VGJnelJKeTJaX0hpdWJJeklIR3B1N1dfZ01iZWlFV0xrT1d2bG1mc0JWVG9rRVVkalFxZmNsRkXSAYICQVVfeXFMTVVCcVFOaGV1T3c1U1Q5cFppVFBQZ0hma1ctVDVYbzdFUlBsZ0dETG9tWk1GSWFzRk5zUEtlY3h6SDB3OGhyTUpWVG9qdEdMOVVhUUZTbEFBYS1TZmFBQWpDN2lHN0VMQWdWMnV1NHU4WGNDVlB1eGZrMXNITmxqdmx2M0tYN2lzODdGZDVJVWVUbVhZeXhYNlktV1hkTmJHS0d4NjVEcEhKOTMxUkx0STA3WDYyMWJZc0YwU09lQVlESHkweTBxSmtmZ3BvZzBIS1dlRHJtVG9tQU1sU1kwYVg0cW1pcExDSzgyUS1kMmZvbTVPNXAyX3plMWM5TXNZWE5n?oc=5",
         "image": "",
         "publishedAt": "2026-07-26T07:00:00.000Z"
-      },
-      {
-        "title": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado - TVPerú",
-        "summary": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado &nbsp;&nbsp; TVPerú",
-        "source": "TVPerú",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbS0xd2cxQXI5T0hEOEVrN3M2eER5Y0VTTW0yQzBRWGZteXVCLTRySkZwT3ZYNUJ5OEg4Q2hPZENLZnhSdjdxaWxRZExVMndoSmtWcnVxU09LelpFbERlXzQ2cWdQTlM2WG9YYWJBdmIyOWdzUkI5MWYxOHBkei1aMWZna0Q2a2Vrems2N0RwQklYWGhaY3NyLUlyOTZUbWQweHpHa3VLZGxjaTNEMEpObVNFM1VvMEVkSzU3cDFNOXVIZEl5WGFha0J1UXRRbHBwa1JYeWxjNXNPLUhx?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-17T02:03:59.000Z"
       }
     ],
     "negocios": [
+      {
+        "title": "Emprender no basta: Perú sumó casi 90 mil empresas en tres meses, pero más de 62 mil cesaron actividades - Infobae",
+        "summary": "Emprender no basta: Perú sumó casi 90 mil empresas en tres meses, pero más de 62 mil cesaron actividades &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTUlWSm9PSVNuR2RESE9DV3BpV21DVlhVTHdlQ2dqZHBLR0lOTjlha09aZ0g5MDhGVEl4OE5ZNFVLRmJ4NnBteDluZUFyRVpaX2lZUkdIYlZJTF85M2RKcVNRbUgxVkNidmo3TGQtQ2NYVGRoQW1zektYN291UnA5MW9hdVk2MUhWa29vWjRTT2c2UkpjVUdZN2p4WE5FUnVrYVhTRWlsbFBsQmxkdE9Idl9paDlVYVgtbk1GWk1wWG1FWGwtSTFOaU9ZRENQOVdSRWFZbm1mSGc1Q2fSAfYBQVVfeXFMUERpM0NfRWhYOFAzd3dvN1l1Wjh2RlVjVUR0amNGdGgwVHg5Zk9EMHdWQ0Y3THRxV2Q2blVNcXdab0pMcFdaazdieVVlZmdxTklSaVVnc2d0TnMwbTRiYm4xMlZNV0o5TkFZaC1HOUJfTFpubDRZd1JST2lsSkNyQVZ4dEMycmhQVko0SFV2WmZOa0dTdW55VnAwSHp3d1p5T3FOendOc2FWVWlSeUo1RUNDcG5XY2V1UEtlVUJEQlZuVGYteUQ1LWxYazd2U3R1WnU2TGNfNDZEQnhTRXMtNzhFOHZ2YmFaRFY2eGNDVmpUckp1YkxR?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-28T23:47:00.000Z"
+      },
       {
         "title": "MYPE en Perú: PRODUCE explica cómo apoyar a emprendedores desde la idea hasta la exportación - apnoticias.pe",
         "summary": "MYPE en Perú: PRODUCE explica cómo apoyar a emprendedores desde la idea hasta la exportación &nbsp;&nbsp; apnoticias.pe",
@@ -268,14 +276,6 @@
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
         "image": "",
         "publishedAt": "2026-06-17T07:00:00.000Z"
-      },
-      {
-        "title": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión - Infobae",
-        "summary": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-10T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -285,7 +285,7 @@
         "source": "Gestión",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVElickVobE9LM1B4N242VXhZb3JYX01XVXJFMklfQmNhWFhpdTA2cHZLenJ5SEZiR2hKcVVkWGdZQUIyV3U3MjNCX3pkN0JoX21UUW5Nc0JWSVFkeGZ5Um53bUxlblJLSWRkOXdFYTNFZWQzcVVodno0UUd1X1ljM0ZDck96X0hIeGljN1lHQlpJaVVWdnVBenJ4cERMT2U0Y1ZQcHluaVRkSE0zVWFtcE4xWlZCYVFBOFZXNHhYVmkxc3FMWkdOMVBXZHlmQWNhOHN1TFF0MmZDQjlWZENXWFdhTW9iUXRNS29sMXJSOXVyZw?oc=5",
         "image": "",
-        "publishedAt": "2026-10-02T19:59:37.000Z"
+        "publishedAt": "2026-10-02T20:11:30.000Z"
       },
       {
         "title": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional - Chimbote en Línea",
@@ -304,9 +304,9 @@
         "publishedAt": "2026-09-20T02:36:47.000Z"
       },
       {
-        "title": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras - El Comercio Perú",
-        "summary": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras &nbsp;&nbsp; El Comercio Perú",
-        "source": "El Comercio Perú",
+        "title": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras - elcomercio.pe",
+        "summary": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras &nbsp;&nbsp; elcomercio.pe",
+        "source": "elcomercio.pe",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPREc4YWJQZ2M1eVgwY1ZpdHhWX3FqZDVpTHZMRy16RFBoeF9OMHdPVDlmVU5MLXEtNjlvUnNlcU1VaDN3ekVqWUtJRmJOTFcxYmRlUWRLNnBzVF9fWnd5TFp1SFR6bVFFRV9IQV9zYl9PT3JhMWp0N3J3SVBfRkVlSG53OUdTb1BrUVNJa2loOER2aWpqM0w5c3liMXJDNVVnMUJaeGhOYUtDdmNIMGZHcnZGVjA1c2RRcXN5VlNJRnVJT256TU1pb9IB3AFBVV95cUxQNnNrcTE2TFhqTWpzYmVPM0lOMUFrY2h4cEhEREVwTjNWMnBNZkV0YUtJMUtpZDViZkkzYlhPNXpuaTdGb3pRYTlTWGlZdUVRb0lPaW9rS0xJNk83SDFzaklVTS1vVXJ1M2xaUGJRemNZQm1KWktTU2xuUzdxQ3hNODg3T2FXWlo1NExkVDdlQ2F2dTZELTRYTUFlbWNHQzB1RlhsVTU1TkpQa3UzN2lMbDRLRUJoRm1pVDJZTFhJanpaeXpNRmdCUm1rUUdJR1phbHB1Vzl4Sy1qbzYw?oc=5",
         "image": "",
         "publishedAt": "2026-08-25T07:00:00.000Z"
@@ -346,33 +346,25 @@
     ],
     "ia": [
       {
-        "title": "Perú rechaza solicitud para registrar derechos de autor de tres imágenes creadas con IA - elaragueno.com.ve",
-        "summary": "Perú rechaza solicitud para registrar derechos de autor de tres imágenes creadas con IA &nbsp;&nbsp; elaragueno.com.ve",
-        "source": "elaragueno.com.ve",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdGFvYm55cFAtNm4tOTFBNGdqbG9YR3ZWN3E1TUoxYzRidEJtVEN5NHY4d2o4QkhCU0RibW1MN3lYN2dGZVlzbWZvaEh2bmNiT3hyY0dGVm1ibWpybUlVYkdJUFdycWFPWGhXSUNOOGpYMWFXZVNXX2RfNVN3WmduZEJIRFBUdm5XT1ItOGNYVThNazYtYXdMQXJWOG8teFJVbjNaNHZfOWhyQmdoeTJEVE5PWXg?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-02T12:41:06.000Z"
-      },
-      {
-        "title": "Ingenieros de Perú crean 'Pulso', tecnología con Inteligencia Artificial para rescate humano y ganan concurso de Google - especial.larepublica.pe",
-        "summary": "Ingenieros de Perú crean 'Pulso', tecnología con Inteligencia Artificial para rescate humano y ganan concurso de Google &nbsp;&nbsp; especial.larepublica.pe",
-        "source": "especial.larepublica.pe",
+        "title": "Ingenieros de Perú crean 'Pulso', tecnología con Inteligencia Artificial para rescate humano y ganan concurso de Google - La República",
+        "summary": "Ingenieros de Perú crean 'Pulso', tecnología con Inteligencia Artificial para rescate humano y ganan concurso de Google &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOejlpWFhZZHJTOENlcHlrbG1PZmVxT3hEdHJZR0o0SHQ1QVBCTkMtZl93X0syeHM3U1RGT18xaXFVb2FKWm5USFZDbFVucGgxRThfY296T1JwVmM1Y0Q1eEF1S05ETE1faklDM1d0N254WXdHYVVld3B0ejlaVzRubERfdUdjOWZfdVVtRzFBZWNNMGFxcklKdzFSNmQxYWtHR0VsaFQ2czFaU1pFVGhIZHpmbTIzMVVXTlI0aF9fTUZFSGtrbDEwUE9FYnBLa2pGaldLanJ4Sk9vbUhoSW1Sc2tiQlZRaWVyQk1ETGwxOA?oc=5",
         "image": "",
         "publishedAt": "2026-10-01T23:57:16.000Z"
       },
       {
-        "title": "IA y perforación a 3.000 metros marcan el futuro de la minería peruana - especial.larepublica.pe",
-        "summary": "IA y perforación a 3.000 metros marcan el futuro de la minería peruana &nbsp;&nbsp; especial.larepublica.pe",
-        "source": "especial.larepublica.pe",
+        "title": "IA y perforación a 3.000 metros marcan el futuro de la minería peruana - La República",
+        "summary": "IA y perforación a 3.000 metros marcan el futuro de la minería peruana &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZWNoNjl4clE4WTBIWHU1akJlVFJhRDU0Z0QzSGUteTFLdE5DUVptaTlvU0ZZY3l6Y0g0M2JETk9yV2VMWWJVWlJUY0xaU2o0ZERZYjhOOVZ6emx0T3RkYU9OQ19xMnZUVFlWdjY0VUdBUHVSbjdrOEc0cXRlUU9qRDlsQVRrQmJvVW1mbEdZUWZINFIyWWRhYWNBOXc0UFAzMFh0MjZMRVJFRWo0bTJsWTVkODgtR2FTZll4Q3RzSjJjZ3F1TmZKU25FTDU1N1F4V0Q2eWl4R3pOTExselRQQmdYTkpjZEFRQlFGQkJ1MHVOWkpmajhwNV9UdjZWdjlSdkJz?oc=5",
         "image": "",
         "publishedAt": "2026-10-01T19:41:05.000Z"
       },
       {
-        "title": "Cursos gratis de IA, marketing digital y desarrollo web para jóvenes en Perú: cómo acceder - especial.larepublica.pe",
-        "summary": "Cursos gratis de IA, marketing digital y desarrollo web para jóvenes en Perú: cómo acceder &nbsp;&nbsp; especial.larepublica.pe",
-        "source": "especial.larepublica.pe",
+        "title": "Cursos gratis de IA, marketing digital y desarrollo web para jóvenes en Perú: cómo acceder - La República",
+        "summary": "Cursos gratis de IA, marketing digital y desarrollo web para jóvenes en Perú: cómo acceder &nbsp;&nbsp; La República",
+        "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNc1JIVGlDTV9jSHFsN3VGa2lzZ25YYW5hdkl4OXNZZnYyQkhIbk1vWnlJWTk5S0JBTlluTkpLX3lWMkVRZDZIaVM5Wld4WFdtdEdkcFkyZkYxdDEyTVVQYWJRR1U3b0hNQkRxSV84clozTTRmS3JGN3FncWZJdjJoUTdHc3U2SV9hZUE1ajFoVlI4OUo1S3lfV0dxckxHanV5TFkxcDVGekFQZmtNbk5MSkFkT3pVdHRQNXhObDJGc2JWZ1l1aFFLbG5BY2pSQVJhclpuX0J5UjdsNk5ud0dJVXFEQjFvck1WdHpBZkVB?oc=5",
         "image": "",
         "publishedAt": "2026-10-01T19:38:30.000Z"
@@ -408,13 +400,21 @@
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOEtOSVhSMWE0bklKb1h5QlhNTzF6dXJfMjZ6ckhvX05ScVZJMEtqUWdvaDhiQU0tV1dnVUlxU1ZuQXd2cWs5d20yczdNSmI4cU5vY094X2ZIQWhiMXgzUHdrNDI0emlsTV9JeHNpZUFWQzFsdjdienVQZDY1dFVGZF9CSzhkMkRlb2FzbkpyczJQcVh5YlU0NHZ1V21TLWxBVTdxRjdQVW1vS2pWWUdicmswZm8wdG5HQlBvZE5pbVhuWTlQRUJpSk94LWw5bExUQUNxTXhHb0ZOWEFWaVVEY0VpekUxR0p1UHFF0gGGAkFVX3lxTE03NW5EQUkwQUwycGU1R2h5bjBWXzlFWmppMGUtMUlxcWtER1k1OC12ZEprQ1dSNzNGYmE4aXRvR0NXM0JHYkRmQy1OVDVqTEpCUTQ2cTJMOHA4QklkWGFpR1IzRk9rbUxJcXFIWFBwbVRXUlgtNE1ubkdaOGd2eEtZZ09yc2JXSC14eWphMVJ0TWVtYWFfUHh1MllwZ09na1hCYmRXY1FUX3ZKdzhoU0RXLWFJRUV2QnJnZGJOSGw3bGVDMHg4T0hZVllEVkstNGFiZVJJMHdibVhmZGdIM09RNjZ5WXk3bG9xTV9kVkw3N0ctQXpWSGRKUW1oVVY1Y3FHU3FEYXc?oc=5",
         "image": "",
         "publishedAt": "2026-09-26T01:22:00.000Z"
+      },
+      {
+        "title": "Cumbre Perú Sostenible 2026: la inteligencia artificial redefine las habilidades que necesitará el trabajo - Mercado Negro",
+        "summary": "Cumbre Perú Sostenible 2026: la inteligencia artificial redefine las habilidades que necesitará el trabajo &nbsp;&nbsp; Mercado Negro",
+        "source": "Mercado Negro",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMmY5UmVoQlRiVFZ0cDRQcEh1ZkpySWs5cXBRbmFLQTROWDNRa2QtS0tEdnVXc0V6NENLY2NzSDBtU2xZeFp1bm82anAwTFg4OEFZTGoyQ1hrRGpjc3lfbmN1SG5fS0VzbzlYN0NMWGI3ZnpqVF91N1N6ak13bzdGYzBjNENSaDczMkhURnJBMjRmdFE2SWc?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-24T21:49:46.000Z"
       }
     ],
     "tendencias": [
       {
-        "title": "🛻 ¿Es oficial el Día de regalar ramos de carritos Hot Wheels? Esto se sabe sobre la fecha del 30 de septiembre - El Comercio Perú",
-        "summary": "🛻 ¿Es oficial el Día de regalar ramos de carritos Hot Wheels? Esto se sabe sobre la fecha del 30 de septiembre &nbsp;&nbsp; El Comercio Perú",
-        "source": "El Comercio Perú",
+        "title": "🛻 ¿Es oficial el Día de regalar ramos de carritos Hot Wheels? Esto se sabe sobre la fecha del 30 de septiembre - elcomercio.pe",
+        "summary": "🛻 ¿Es oficial el Día de regalar ramos de carritos Hot Wheels? Esto se sabe sobre la fecha del 30 de septiembre &nbsp;&nbsp; elcomercio.pe",
+        "source": "elcomercio.pe",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbmJIWDBrLXlhS0xEMm1WamtVUmZuQkRLSmNWMVBDLWoyY1pNTG1OMzROZ0RKS21KLWhtbDFYb0dwM2NSVXJjdHY5c1dBcEpEbXVPMnBoUzlHMk03S0FqaktTcVRpMHB1dmthVWZocDZDQmYwRXhwZXVQTEItXzJtWmpEVmpnczdpZDZKVk1nNTNCa1ZWNFo2MFBfS3U2QW9raVMyMkN2T01CLWVvVktZblEzekRVYklISEJPdmZUU0JNTjRpeFN1S1NPdjU5aVM1TEtfNGl6Vjd5MTU5Tm5EakdUdGQ1c1JQUXk2bzl5SnVRTWxFdTBIZNIBjAJBVV95cUxQMExLOFhNVVFSSmRkSUJBNHM0eHoxdjZEM1RkdlNRbWl5dl84TzlPbWluNGhQSE9OYWJ2amVfYk5JQkR6LW9scWxqT0dPQUFCZzU4TUJxOUNxVmUxT3pRR284dTB4dDFqbDh6b2l5NUtlTTZjQ0s0OUNIQ2ZFZE9YU3gzQXdCX0ZaR1lXUVZiX2J1ejJVR2xGRVROTXhuN21kOUJJckVsS3JRMDZsTkI5aUtPaVFBSVUtVVFqNXp4Wkc5MHhRSDd5bFFoQVhIWXlmd0l1LU45ZHk2LWZZRzYzYWpENU52MUJDY1JYaDYyanczRTNWZzVBeFhZaWRvQ1NSWU9DcEh1SFZsbElR?oc=5",
         "image": "",
         "publishedAt": "2026-10-01T00:20:00.000Z"
@@ -436,17 +436,9 @@
         "publishedAt": "2026-09-28T00:21:00.000Z"
       },
       {
-        "title": "Augusto Thorndike se burla de las críticas en su contra tras estallar en vivo contra camarógrafo: “Así que soy tendencia, jojolete” - Infobae",
-        "summary": "Augusto Thorndike se burla de las críticas en su contra tras estallar en vivo contra camarógrafo: “Así que soy tendencia, jojolete” &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZkl0eXcxNEwyUDZrN1hILXpPcXg5NGtQOEw0OEl1bUVRdGY2Y1ZSQjNIbzY0Unk5czQ0MHRoUk9qRHhKQkJsVjVKMGVWLWx3b0wxYTMwM1ZNQ1NGSDA4dWcxTndOOTRuRW9qcU5WbndpaGpiellyQXlDNndLWU4yUkt0Y1NzX1dyNFYtM2xKRTBoTHQ2WHZzWDFBaXRwZzVKdEtIWW9sTVBTLVRWUEpJWGx1c0hUYWtyOWkxdFNkLXA2Tngya0RsUTNWV3I2Nm40LWpRTmF3TTdUX2pHNUg5NDBuUmlxOFVsNFhtUklFSXlLUFJpblMyY1drZ2bSAZcCQVVfeXFMT1o5dDZIVkxkRW9fa05iczBSeUxGUG9OaFlGaVp4ZmNNbkFpUWotS0ZScVdJNkpieG55VllmcUlscFExVHhYVHdfSjlHZm50SGJuNUp1NmFoOHRkeDR6dDdfOTVISXlodGt1MUcyaXRzNUNhc3o2cU1RVjc3amExb2kwZWl1Z3piMW1UYVNORzNZMFVwRmZneThyYW9WNktDX29SR0hGZUYzMm9JeDNWX0dGYjZCVlBKTWNBdnptSGFtZTI4Y0cxeWU4UGI4RGc3WVl5UXFKaXdyeVk3OWpZX0ZGOXZheU40NGg1b09LUksxRW1INjdLb3VtUmNZbUh2RFdQRU5mV2lCNEtEbzZJSGQ1emc1Z21v?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-24T07:00:00.000Z"
-      },
-      {
-        "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - El Comercio Perú",
-        "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; El Comercio Perú",
-        "source": "El Comercio Perú",
+        "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - elcomercio.pe",
+        "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; elcomercio.pe",
+        "source": "elcomercio.pe",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZTlFMnQ1b1pJM1dEbTJaWnpNVGZ0T1g4SWpXZ25rWHBsN1hTdmRVTUVfdG9mQXhQOFZZU3F6X3BkQzRXMnFaejgzcmgzdDZZOFk1VEhBZzJsTmQxS3k3aDRBeHRLRnZBTzR0WFU0cjhNal9QUHVoNHY3czFrNGlxN1NpckM1bGVpSFJfVVdNTlp6YnJsRUxURVh2UXZValZzcEJqSkxxSGI4MjdUN3lFNFg0QzlFUmVWc0lCN3A2VzgyN0d6UXZwSG5Bc0xPejhQYkgycDZlblczUlhzekRGTmVEVDFxU2fSAfsBQVVfeXFMT1BhMjJ1RDBTRjF4WnRMdGxmYm90ZUVBWlVLMVRtVDFvc2tkOTdrbUM0UG54OWNMbHJJTmZ2ZHBHZmVmek1EMkVNeFhaZnJtOEZQdlNVME16WW5KbnJvOFBoUzhOU0tzX0Z3WFN1UG5POEFzZ1ppdGEwcE9ZQ21mYWk5RjA5anNPR0RuSk5sZzFHdmNUdlV1V2VGS2Z3UHpSb21TTDZNRU9KRy03cDd1bGFfbWxQWmRsZTQxX2d5LXJVTzAzRmt2N0xQME9sdkdKNVBhbXVMdGRwMUpTZlZfZXVSdEpvVG1LQ1BtMExkdGtLOHZQeWhGV2dVU0E?oc=5",
         "image": "",
         "publishedAt": "2026-09-12T07:00:00.000Z"
@@ -474,9 +466,25 @@
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOGVnY0xEajd1WjFMWGdqWi1DZmdwRVRtb1R2aHBBLTNORlBJZ0VRb1d5UEdnZGxSdXh6UWZkcThTZTZHb1dwRGtIS3BVT3RFcXRnRkJKOXI4b3NaVGVvN1ZFeS1PWnhoRENyd3V3LXVxWV9jblBfdmpKZElJaHhoY3NkNzlLUlVKd01FenVLaXBZZVFNbUV4czhSTWd3X1MzaTUxLUxjQ1AtZlB6ZTRHQ2dwR1ZQN3RaMk9HVHJjQ2lVc2V2YV9hUkE0ZDlILWl6MjJ4N05Kb0l1Z9IB9AFBVV95cUxNNXRmX2Y0Y2hFbXJjUEFDaHIwRnVwZkw3OUZfcnRod0t6cUE2TW1NRU9Sc3M0ZXhPTDZkVDBfUDMwTjhkazZITTE1dGJaRmVYQ1NuSXN3NzdfcTA0TW55ZVBNWXZzQUIwTHE4VjJQQ1FlR0Z3ZDVxbjFMeFlYR2dLUm1ZaDJyc1BSRlRPMVYwZC1MTXliRlBndHg1anp6cnBQemFzZFNkYk1Wc3NkY0VsOTViN2pSZGEwYjJfWDdLNE1nRzRheHA4eXhCbml5b1VuYk5vMlZrZzk5MUw5alZ0RE9VR2JRZFFER2ZaY0Y4dzlfSXVo?oc=5",
         "image": "",
         "publishedAt": "2026-08-18T07:00:00.000Z"
+      },
+      {
+        "title": "Qué es farmear aura: de qué trata la nueva tendencia de TikTok entre jóvenes y cómo se gana una batalla - Infobae",
+        "summary": "Qué es farmear aura: de qué trata la nueva tendencia de TikTok entre jóvenes y cómo se gana una batalla &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVmN3WHprRm1HX1MtdXhjWk5ZajM2dVZLSjJmY1VVUnN5QUxaUmxBeW81amF5RVY0dXV6clgtUERMZG40bmpBd2txODRnOElyeTEwMlZVZ0ZtcEVlelpKaHdCbl9ZUWhFUVVkbUxWd0k5X2FBd2tJNGM4bFBoakU0RDdOS1NxSmJFbDRGOHZ0UEJ2aXVfM3pmUUROMUloQl9uTFZDa3ZtaUJ5bHIwcW5hMTgwMlNoWk13UGhfZkNwbjZkMndyOHQzQjBsMnF6N2tOeTdlVE1zSXdkWTJDNXVlNTZhTdIB_gFBVV95cUxQNU45c1NZNkFDWjhUYzJxYUxYRGp2Uk9NaF9CbkVfSmRiZW90RGRWRW9BR2FFX1FkRVNySWJhdzVneTNFXzBDSEt5Y3RpeThBYlFfQldWaHZ0ZFRtSlZfaEtNUkpSLU5mOHh6Y2lxbTU2ekhmdC1zNmZMcVQwLVVkam5vV1lzRktaVFdmclp1NlR6RHNpMlYtNzltT29YWXFXR1VUS0w0Q0c4RGlGVEM0NVVlckVqOHR4c0U1UjlMcjRPVW43MjJhYV9hcWRTYmpVTEI4aGpsalFHbFY2LTNKX3ZRNFdLTVg0ZGtoaDdENE54S09xeTVVTElrZTF6UQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-15T07:00:00.000Z"
       }
     ],
     "farandula": [
+      {
+        "title": "Conciertos en Perú 2026: qué artistas vienen, cuándo se presentan y dónde comprar entradas - La República",
+        "summary": "Conciertos en Perú 2026: qué artistas vienen, cuándo se presentan y dónde comprar entradas &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNkhLSXNGS3ZXcWUzcFh5eGpQM3h0ZUxDYXVtRXlXc0pVeVM3c19IU2E2cmdvZ2llZmVXQkxKME9HUkJyMmRsUEdlb3I5dmk0UGhuWWJPRVlSRGlIZGFGVFpSWWxRN2hJazdaaWxXbHpWQjVjNkh1eGFEYm1udEFEWkVTUFR3ZXgxWEVIdUd1QlVPSTZUa3VjREhQUDJ4OE1wS2V3RGxsbHVQWTdRX1gtNV9ibzB5Yk15RkZPZlF0cUlpMF9jcTFKRTdidEtjNXdkOTFvM3p0Z2NyUFI5UEQzcGtPWEJHak13UTRLRWFwVE1NMWdxVEUwWDZ1WnJVY2k2WllXT2U2RlhQbXlYLWYyQlZIQVpPbC05b2wwWUUzb01CYTDSAagCQVVfeXFMTlUyQXAxei13aVQwbmNabDBUdU9QSWM3Tm5CSmNvZVJTRDFzZUxpb3E2M1R5OUFyNXNudDhka2RHNVJ5bE1YS0dWNmFZWVgtSnlWUWR5enRUOTJxaHIzNkNMNkU3Z0llUy1Yb25YOGloZnJCOU5YbmlvMFlwSDA1UUVpLTNUR1NHS3psZzNYenM0NFNrVkotVWtlNWVXekV6Ty02Qngxcy1QX29hMTFPMTBqMkY0VEsyVU9pVl8tMlNNVVByOTR3V2N0YXB3eXdKbjc3cHFHX1hsdWhEYVQ4S0oxdVUtdDk0dlE4SVI3NW5PUzcyUzVSUWhrOVl1a19yWGdlUE9iS3RibHk2REpKNHp6TEdXZUN6aU1pcml3V2dnd2VyTVNPaXg?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-30T20:32:33.000Z"
+      },
       {
         "title": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” - Infobae",
         "summary": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” &nbsp;&nbsp; Infobae",
@@ -532,14 +540,6 @@
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNek1IMmE2Wm9hak5Ob1QyU1dwdDUxVy1aaHVlSlpuMWNDUGJjNVZ2Wno0SGRYTFZuMmxsdWtHaE5yclF6Skh6QjhhXzhULTZxemgzWThVMHppaTlDekhVVWE5VEZyVTNNLXpfWXhfcS1xYVlvemhkdGN0MUs2QkM2c3d3QVFzX0dVUTFQSUZRQWpxVExlR1ZZMnUySDM0b1Y2eXMtS24zc1VVY0FpOUh1b2lTY1pySnBjNEZ4S1djcFNSUFJUTl9uZmpSaWlNUVZL0gHkAUFVX3lxTE01M015cXRLNTBMbHRQcjAwLTRxVjVkMUZyMGhFLWswTy1oWS1ncnJDMHRBNlFlSkpYMVFXdHlDSkNzbE1ZWGhXdktNYWtSN2xubHJ0ekJwX1RkQVhCTWNDajE3U3p4RW5uYU9fSWlRSVROeXlrSUNzRk9RQmstMkJ0U2RPdXJ5RTFnVmtjWjhsRHpmNmVCQVlaczdWTkEwSzhGVnlRQXZyUnNqUGFNWTdFaFNMMTUwZVhaZ3BvRUoxTWFpTWs1RnZRdnNkQVFBOHhKVFc5a0E4eFp4dGxkTHdyUlB3Xw?oc=5",
         "image": "",
         "publishedAt": "2026-08-04T07:00:00.000Z"
-      },
-      {
-        "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - Trome.com",
-        "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHpkRUdJMnV3X2tiUURubVRPZW9NY0Z3UlJIS1NIaG1jVkpPWEYwcVlsSXJBdVliMERjdnlBRkR0LUw2WllJam56RXBUb2tVbFlxZDJOV2xEYTJsczg1elZlclFvREdzUWptcmw3VURlYlhST09TdVpWTmo2Znp3dGJWeDhHN2xILU1aOHBXVkZ5MFhFNnM4SzliOE92VTNOWnMtTk1YaWVUMmdHcGN3a2MxRnJaQXlWdmo2aE5iR1UzbU1QWnVibkZJamZabm9KV01SQ1FfM3TSAewBQVVfeXFMTlJtdHBFeG9XM2lzMnFvRnpMWk5XZGFRblJNdlBTeVNRcGpGR1hOS2RydWh3dTlFQ3BDNkZEMmlXTi1nUW1zUFN6djIxRU5BUDV2V3hkZDREMlRVTmZtRy1IT3dEQXdCMmRLYmg2ZndiNHI5dV9RWmM0bDZmdjBITkpBNzBqWEx6cTJWQTBUV1VBcm9mS3U0YzluUlEwb0ZLT2picG0xNlI1YnVEY2xGYVoxMC1CMlV1NHhzRmtTTVVZaERiTUVZZGR4SjJ6YVpDeGJMY3Aybzg4WUZFV1kyVm1OdEUyUktiVE95OHM?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-30T07:00:00.000Z"
       }
     ],
     "cultura": [
