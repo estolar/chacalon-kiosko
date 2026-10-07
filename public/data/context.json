@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T05:53:56.822Z",
+  "generatedAt": "2026-10-07T13:16:33.931Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,20 +24,44 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
+        "title": "La bancada que jugaba de ‘falso 9’",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/opinion/columnistas/la-bancada-que-jugaba-de-falso-9-por-martin-hidalgo-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/O3MDV7MI7JBVTJCU5HIUT5PY3M.jpeg?auth=9ae24991759673a195278de5c4e80870ea1b72ca49c05be8b288f80283ca092e&smart=true&width=1144&height=802",
+        "publishedAt": "2026-10-07T12:53:23.000Z"
+      },
+      {
         "title": "ONPE resultados al 92.72%: aquí el conteo oficial de las Elecciones Regionales y Municipales 2026",
         "summary": "",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/elecciones/resultados-onpe-elecciones-regionales-y-municipales-2026-en-vivo-conteo-oficial-para-saber-quien-gana-las-elecciones-de-alcaldes-y-gobernadores-en-el-peru-erm-2026-lbposting-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/MNOEUNMADZCZTJOEMZJTPEQSFY.jpg?auth=c7709b7cb30cb4f53ae3cd9363280157fa453086c206d51b5b87cafa1b09ab25&smart=true&width=1200&height=849",
-        "publishedAt": "2026-10-07T05:20:22.000Z"
+        "publishedAt": "2026-10-07T12:37:46.000Z"
       },
       {
-        "title": "En una sesión marcada por el caos, Congreso otorga facultades al Gobierno en seguridad y fenómeno de El Niño",
+        "title": "Senado debate hoy viaje de Keiko Fujimori a El Salvador: ¿qué aspectos del “plan Bukele” quiere conocer la presidenta?",
+        "summary": "La presidenta Keiko Fujimori solicitó al Congreso autorización para salir del país entre el 28 y el 31 de octubre para visitar El Salvador. Tiene previsto reunirse con el mandatario Nayib Bukele y, tal como adelantó El Comercio, conocer el Centro de Confinamiento del Terrorismo (CECOT), una prisión de máxima seguridad ",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-solicita-permiso-al-congreso-para-viajar-a-el-salvador-que-aspectos-del-plan-bukele-quiere-estudiar-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/DFUKTZIWWZBC3AYKYJW7ARYIOU.jpg?auth=1e6ade966323d520f1a86cf919ff51dd4a67faa0ff1785ce5035d7165a347ba1&smart=true&width=700&height=538",
+        "publishedAt": "2026-10-07T12:31:51.000Z"
+      },
+      {
+        "title": "Cámara de Diputados otorga facultades al Gobierno en seguridad y fenómeno de El Niño: los detalles de la sesión",
         "summary": "En una jornada marcada por suspensiones del pleno, reuniones de urgencia de la Junta de Portavoces y sucesivos cambios en los dictámenes, la Cámara de Diputados aprobó otorgar facultades legislativas al Ejecutivo por 90 días, en materia de seguridad ciudadana y para atender el fenómeno de El Niño. La decisión será remi",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/en-una-sesion-marcada-por-el-caos-congreso-otorga-facultades-al-gobierno-en-seguridad-y-fenomeno-de-el-nino-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/2KU34NXTC5C5RCAOCVI45SLOSM.jpg?auth=a6bc39290c27e6bbf666fc9de53e4ebe0dbd0fdef89c5bf743169c64e4a100b0&smart=true&width=1280&height=853",
-        "publishedAt": "2026-10-07T05:01:00.000Z"
+        "publishedAt": "2026-10-07T12:17:00.000Z"
+      },
+      {
+        "title": "Fuerza Popular en las regiones: ¿Qué resultados obtuvieron sus candidatos y qué factores explican la baja votación?",
+        "summary": "En nueve regiones, Fuerza Popular registró una votación menor que la obtenida por Keiko Fujimori en la segunda vuelta presidencial.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/fuerza-popular-y-las-erm-que-resultados-obtuvieron-sus-candidatos-a-regiones-y-que-factores-explican-su-votacion-donde-perdieron-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/2UAJK4DQWBHJXHGYHMN7XGQBII.jpg?auth=b2c5f7610eb7aeb4ddec1c80c61de8d93943f15f8723c79e03737241e25b0210&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-07T11:00:00.000Z"
       },
       {
         "title": "Elección en Lima: ¿Cuánto tiempo le tomará a los JEE resolver las actas observadas e impugnadas?",
@@ -54,96 +78,72 @@
         "url": "https://elcomercio.pe/politica/en-vivo-camara-de-diputados-dictamen-sobre-delegacion-de-facultades-del-ejecutivo-seguridad-ciudadana-fenomeno-de-el-nino-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/OP6CBIJGYVHBJHTLQLJKWGX6EM.jpeg?auth=a77522ddd729e94e0bb11f5db485ea0212e200cc2735b0f4d60b1b9bee8cb490&smart=true&width=2560&height=1706",
         "publishedAt": "2026-10-07T04:42:13.000Z"
-      },
-      {
-        "title": "Elecciones municipales 2026: Casi mil candidatos limeños cambiaron de camiseta política",
-        "summary": "Poner tu bajada aquí",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/elecciones-municipales-2026-casi-mil-candidatos-limenos-cambiaron-de-camiseta-politica-rafael-lopez-aliaga-carlos-bruces-francis-allison-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/MEVF7KANNJBXPJBZ6TFZIK7SDM.jpg?auth=b31ed9a2520d470199d73bb052125f9d2e17d14cdb08ebbbd66cc4906ce2bc98&smart=true&width=1200&height=628",
-        "publishedAt": "2026-10-07T01:07:00.000Z"
-      },
-      {
-        "title": "La dispersión del voto creció en las últimas elecciones municipales en Lima Metropolitana: ¿Cuántos distritos y qué zonas apoyaron a los alcaldes ganadores?",
-        "summary": "El voto en Lima Metropolitana se ha fragmentado con el paso de los años. En las últimas elecciones municipales, celebradas en el 2022, Rafael López Aliaga, de Renovación Popular, se convirtió en alcalde de la capital con poco más de un cuarto de los votos válidos (26,3%), la cifra más baja desde el 2006.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/elecciones-2026-la-dispersion-del-voto-crecio-en-las-ultimas-elecciones-municipales-en-lima-metropolitana-cuantos-distritos-y-que-zonas-apoyaron-a-los-alcaldes-ganadores-rafael-lopez-aliaga-carlos-bruce-francis-allison-onpe-jne-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/QOOJFCDYQJGHXNXBZ6TZP3I27Q.jpg?auth=242e8b6ee7cb83ce4e935e033284dc16b20c9f7538e812f1dc5f965a276fd713&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-07T01:07:00.000Z"
-      },
-      {
-        "title": "Resultados ONPE al 92.72%: sigue el conteo oficial de las Elecciones Regionales y Municipales 2026",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/elecciones/resultados-onpe-en-vivo-sigue-el-conteo-oficial-de-las-elecciones-regionales-y-municipales-2026-lbposting-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/E3KRQYZLKJDRXA5PG67PUFB5FM.jpg?auth=b487c743e0017b92986c26313bfb2b557e40d7cbeb07617e0180977524f34eb4&smart=true&width=1200&height=675",
-        "publishedAt": "2026-10-07T00:12:40.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Delegación de facultades: Diputados dan “luz verde” a versión acotada tras 13 horas de debate",
-        "summary": "En la Comisión de Constitución se había logrado consensuar una propuesta entre cuatro partidos políticos, que fue “revivida” en el Pleno.",
+        "title": "Producción petrolera no frena caída, mientras sector “queda fuera” de pedido de facultades",
+        "summary": "Inversión en exploración por hidrocarburos cayó cerca de 70% en primeros cinco meses de este año y mantiene tendencia declinante de años anteriores",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/delegacion-de-facultades-legislativas-del-gobierno-de-keiko-fujimori-en-pleno-del-senado-asi-va-el-debate-con-hasta-3-propuestas-noticia/",
-        "image": "https://gestion.pe/resizer/v2/DVJPVRWMZFACPEWB7HAGCARFQE.jpg?auth=2403948bd4ea32bd7d15cf61813727adefce0f50f7125f26dba04c34d90d4328&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-10-07T04:49:14.000Z"
+        "url": "https://gestion.pe/economia/petroleo-produccion-en-peru-no-frena-caida-mientras-sector-queda-fuera-de-proyecto-de-facultades-legislativas-delegadas-noticia/",
+        "image": "https://gestion.pe/resizer/v2/TAQVSIFREFET3GNCLJA2EPWSL4.jpg?auth=43a0766f740334787f2d6dca644882ae2e883c6e664ede1095321c05ab29ec05&smart=true&width=1200&height=808",
+        "publishedAt": "2026-10-07T13:00:00.000Z"
       },
       {
-        "title": "Poder Judicial reconoce laudo a favor de Rutas de Lima: ¿cuánto tendría que pagar la MML?",
-        "summary": "El caso se originó en las controversias derivadas del contrato de concesión Vías Nuevas de Lima y, principalmente, en la imposibilidad de operar y recaudar las tarifas correspondientes a la Nueva Unidad de Peaje Chillón. Aquí todos los detalles.",
+        "title": "Perú y Chile tras dos décadas del TLC: los siguientes pasos que podrían dar en conjunto",
+        "summary": "Chile es el segundo socio comercial de Perú en la región y el octavo a nivel mundial. Solo en 2026, a julio, nuestro país le exportó US$ 804 millones (4.5%) de productos no tradicionales, es decir, de mayor valor agregado. Además, importó desde esa economía US$ 873 millones (27.4%).",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/poder-judicial-reconoce-laudo-a-favor-de-rutas-de-lima-cuanto-tendria-que-pagar-la-municipalidad-de-lima-noticia/",
-        "image": "https://gestion.pe/resizer/v2/DHJEATKDQRF7HAJ4GLQLWWCXFM.jpg?auth=436e177ab8848dadb965356ff795dbde32de09fd897542cc460d41ce6116014b&smart=true&width=1280&height=620",
-        "publishedAt": "2026-10-07T04:40:00.000Z"
+        "url": "https://gestion.pe/economia/peru-y-chile-tras-dos-decadas-de-su-acuerdo-comercial-los-siguientes-pasos-que-podrian-dar-estas-economias-en-conjunto-mas-alla-del-tlc-noticia/",
+        "image": "https://gestion.pe/resizer/v2/XWN734NOWNCD5FHQZ5UXSX4BBM.png?auth=c973e5aa0e6c302361c7cb4f5df9404cd79603911a4c3de87cd7e52f163226b7&smart=true&width=1544&height=1019",
+        "publishedAt": "2026-10-07T12:07:30.000Z"
       },
       {
-        "title": "Grupo Lar deja megaproyectos por fases: así será su nueva apuesta inmobiliaria en Lima al 2027",
-        "summary": "Grupo Lar iniciará en noviembre tres obras en La Victoria y el Centro de Lima, con una inversión de S/180 millones, tras un primer semestre de ventas frenadas por las elecciones. Además, dejará los megaproyectos por fases y apostará por desarrollos más cortos.",
+        "title": "ERM 2026: así votaron las zonas más pobres y afectadas por la minería ilegal",
+        "summary": "Resultados elecciones regionales y municipales ONPE 2026: conoce qué partidos lideran en las regiones más pobres del Perú y en las zonas afectadas por la minería ilegal.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/grupo-lar-busca-terrenos-en-san-isidro-lince-y-jesus-maria-invertira-s60-mlls-en-2027-noticia/",
-        "image": "https://gestion.pe/resizer/v2/CSSQ6TXAW5GPLAHI54WBVFVX6Y.jpg?auth=ca7f28cbb2641abccb11c6eb02328d7946326afaeee83652f89de1eabb7c3673&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-07T04:30:00.000Z"
+        "url": "https://gestion.pe/economia/resultados-elecciones-regionales-y-municipales-2026-asi-votaron-las-zonas-mas-pobres-y-afectadas-por-la-mineria-ilegal-noticia/",
+        "image": "https://gestion.pe/resizer/v2/QLSB3SHAKRCH3JAZMEJDJVNQ2M.jpg?auth=2313684bb97f1b666864eead520000de32bdc19d5a706bda23081ac146d412a9&smart=true&width=1280&height=720",
+        "publishedAt": "2026-10-07T12:02:00.000Z"
       },
       {
-        "title": "Nuevo “examen” empresarial: avances en este indicador se respaldan con métricas rigurosas",
-        "summary": "Las empresas peruanas priorizan la capacitación y la medición de impactos antes que comunicar sus avances en sostenibilidad, según estudio de 2026.",
+        "title": "Factoring crece en las mypes y suma S/ 8,500 millones en el año: ¿en qué sectores se usa más?",
+        "summary": "Las micro y pequeñas empresas (MYPE) continúan ganando terreno en el mercado de factoring. Sin embargo, aunque representan una parte significativa de las compañías que recurren a este mecanismo de financiamiento, su participación en el volumen total de recursos movilizados sigue siendo menor.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas-y-su-nuevo-examen-avances-en-sostenibilidad-se-respaldan-con-metricas-rigurosas-segun-apoyo-consultoria-noticia/",
-        "image": "https://gestion.pe/resizer/v2/ISPTYFXJJZH3BOB43IH6G4OI3U.png?auth=1eb264f6bcfd8a4f3fa5b633f5e9f4bf1a62ba679280d9fdd2b156b8a869f55d&smart=true&width=1672&height=941",
-        "publishedAt": "2026-10-07T03:45:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/factoring-crece-en-las-mypes-y-suma-s-8500-millones-en-el-ano-en-que-sectores-se-usa-mas-noticia/",
+        "image": "https://gestion.pe/resizer/v2/AYCNIFIS4RCUTBAHP6WUE7B76I.jpg?auth=104b38f9963cdaddd55d268019922846ea4981cf9eb5491be9e073965f162aae&smart=true&width=1376&height=768",
+        "publishedAt": "2026-10-07T10:58:00.000Z"
       },
       {
-        "title": "Producción de petróleo en Perú llegó a los 39 MBPD en septiembre",
-        "summary": "Producción de petróleo en Perú llegó a los 39 MBPD en septiembre.La Sociedad Peruana de Hidrocarburos informó que pese al ligero repunte mensual la producción de petróleo continúa por debajo de los niveles registrados hace un año.",
+        "title": "Más de 111 mil inversiones se “desactivaron”, pese a millones gastados, ¿qué pasa en Perú?",
+        "summary": "Aunque el Estado ya había gastado recursos en más de 111 mil proyectos, finalmente estos dejaron de formar parte de la cartera activa de inversiones y, en la mayoría de los casos, ya no se reactivarían.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/produccion-de-petroleo-en-peru-llego-a-los-39-mbpd-en-septiembre-noticia/",
-        "image": "https://gestion.pe/resizer/v2/ZXFTQKNWGBA4XNVU6UC5WN6JZM.jpg?auth=2120ebc0a39d6f490eee8182e68f4b57ba0a1d9dc15f090edaada926b1d1cd12&smart=true&width=1200&height=675",
-        "publishedAt": "2026-10-07T02:30:00.000Z"
+        "url": "https://gestion.pe/economia/mas-de-111-mil-proyectos-de-inversion-publica-se-desactivaron-pese-a-millones-gastados-que-pasa-en-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/ZKW67SDEORDYHKKKI2YOXBUD4Q.png?auth=a5502bf3e7d523577cb077b1d453b1fce8575339f01c43fad17969abbf2b487a&smart=true&width=1672&height=941",
+        "publishedAt": "2026-10-07T10:35:15.000Z"
       },
       {
-        "title": "Indecopi impone derechos antidumping a inodoros chinos, ¿cuánto pagarán?",
-        "summary": "Según Indecopi, el aumento de las importaciones chinas contribuyó al deterioro de la producción, ventas, participación de mercado y rentabilidad de la industria peruana. Por ello, se estableció medidas antidumping.",
+        "title": "Mercados e indicadores – Hoy miércoles 7 de octubre",
+        "summary": "Para tomar las decisiones más acertadas de inversión, manténgase diariamente bien informado sobre el desempeño de las acciones de la plaza bursátil, de la variación de las principales variables del mercado financiero, así como de la evolución de los precios de los commodities. La cotización en el mercado de Londres el ",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/indecopi-impone-derechos-antidumping-a-inodoros-chinos-cuanto-pagaran-noticia/",
-        "image": "https://gestion.pe/resizer/v2/4WPOEWXLLZECLHDAETY76YCEPE.jpg?auth=2c197f81de921c0397277c3eda7979bf1a60aed8a5c4c6d482d101e2892f9c8a&smart=true&width=600&height=400",
-        "publishedAt": "2026-10-07T02:02:00.000Z"
+        "url": "https://gestion.pe/economia/mercados/mercados-e-indicadores-miercoles-7-de-octubre-2026-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CKBJCXWQXVCTXHZN5ZAGTM66RE.jpg?auth=c935a9816683dbd514d89311dedaf60293df727aefbd90da56a9830e4813f2eb&smart=true&width=1280&height=720",
+        "publishedAt": "2026-10-07T10:30:00.000Z"
       },
       {
-        "title": "Banco Mundial: Perú crecería 3.2% este año, ¿cómo queda frente al resto de la región?",
-        "summary": "La economía de Perú crecería 3.2% este año, según las nuevas proyecciones del Banco Mundial. Se ubicaría en el top 4 en Sudamérica",
+        "title": "Empresas cambian su oferta laboral para 2027: ¿qué darán además del sueldo?",
+        "summary": "Empresas en Perú amplían su propuesta laboral más allá del sueldo: aguinaldos, flexibilidad, días libres y nuevas condiciones para 2027.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/banco-mundial-economia-de-peru-creceria-32-este-ano-como-queda-frente-al-resto-de-la-region-noticia/",
-        "image": "https://gestion.pe/resizer/v2/YDJ3BUZ5ORH6NI3RZRQ6EKXHUQ.jpg?auth=eb31e48cdbe2c530f1dc01ce3cd3be10785d670f74fd335c504792e423df5585&smart=true&width=1200&height=900",
-        "publishedAt": "2026-10-07T01:52:32.000Z"
+        "url": "https://gestion.pe/economia/empresas/empresas-que-daran-ademas-del-sueldo-en-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/7RSWSDH7RJFHVIDBC427QDQ3HE.jpg?auth=75494b068f9567dc93214415ce879c01671891d13cfc9ac346e0ee79608d33cf&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-07T10:30:00.000Z"
       },
       {
-        "title": "Häagen-Dazs abrirá dos tiendas en Lima en 2027 y busca llevar sus helados premium a provincias",
-        "summary": "Häagen-Dazs prepara dos aperturas en Lima para 2027 y analiza su llegada a Trujillo, Arequipa y Cusco mediante socios operadores.",
+        "title": "De Corea a Perú: la expansión de Minna, la marca peruana que abrirá hasta cinco tiendas K-Beauty",
+        "summary": "La cadena peruana de belleza coreana Minna prepara su expansión para 2027, con hasta cinco nuevas tiendas, foco en provincias y formatos premium.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/haagen-dazs-abrira-dos-nuevas-tiendas-en-2027-y-alista-expansion-de-sus-helados-premium-a-provincias-noticia/",
-        "image": "https://gestion.pe/resizer/v2/SX5VEKSTXZEVVDK26F4CQXKIRE.jpg?auth=598304a82901d847b661023dd5a4504ded90c4a3da34ebc1b246df230f726cd8&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-07T01:45:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/minna-cadena-peruana-de-k-beauty-alista-hasta-cinco-nuevas-tiendas-para-2027-foco-en-provincias-y-formato-premium-noticia/",
+        "image": "https://gestion.pe/resizer/v2/4W6PG56F6VAWPJHCZBXFSOBBPY.jpeg?auth=68fd0b05cfb36607146fde42f45d836ad8069ef761c46d3562ddb245f9e8fea5&smart=true&width=1086&height=645",
+        "publishedAt": "2026-10-07T10:30:00.000Z"
       }
     ],
     "sociedad": [
@@ -154,14 +154,6 @@
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2x4NndiTVA4bUlRNXVjbHlRQVhsZmF6ZVlNTDQ3eFlzLUd1YTFGTDllMFlSOG1kdlllNFFDM3ltcThJbXJVbXJlVWV1amhzV05CTzZTcmxkczg3TlY1bW5JLUVWWVR0UktOWVp0dTcwR3hHSkxBWVFnbC1iTmJ2MlQzcjRJZjBfQkZ5RS12Qm9hVWdQNU4ydExiU2huSDIxVmlYb3BlUjVOZkg3YXhHTVBBQzV2WU1SRmlGbzZnN3l1Y0tPTDdCU0w0S2FxNDVFeGUtcnA4OXk2RlJ3NlVrX9IB-wFBVV95cUxQb3hrbHpSeVhpankxdWdERnpPNlpPOV9MS2ZPZjFKd0w0el9xS25jSld0akJJdkhiZ3BoNFVTME5fOHplb3ZnczdGNXVhSkkwSGhSSk9MZEM0N3lseVc3dVZvUjZRX3dnMUVKTGY4UlhaSk9sZERUMnkwSXo1MkpNdVd0T3ZoeVMxMTN2QVo1S2w1X3Vpa25GU1lEMmRTTHB0T2Y3dm9GUTZVMk9jNmR0UFdiNUVuYldpNEp6dFZoTFpIZVh3Yi1pQy0tWldDYldXbjlFWXlPM2JQVHVxTFZNOTczNzRaT1lHSDFoWUdySWtuR2lsM1FSRzVhOA?oc=5",
         "image": "",
         "publishedAt": "2026-10-04T23:27:00.000Z"
-      },
-      {
-        "title": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN - La República",
-        "summary": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdHlxN3pWUU9DenhObS0temJHTWt6UGoxWThSTEVydk5Sa2U0T0tGZm00VDdEbUJIMnlUQlg4bnR4WEQzME41cnhTUWdYT2VfanpPa3VIS080Q1UycHB6eWtpZEF2ZnM0dDV0bkhmNUtfRzByY202dWt1d2hsWWlrUUdCaGsyZHJNcU1ydWNuOFdPUGcwb2gtSW9TbElROW9nakxmcm03cUFDMEZLT0pXbVpIMlNXdUQ2a0Q2UEw3WkNoVXBjYVc4ZUlFRXRfUVR5alRydkJ1dG5KUkxnQkVEVklGb1RDTWVsMFHSAe8BQVVfeXFMTURTcmlRY1NnMm1abmptUHIwOW1GN2lzc1Z6c29EZFN3bUFUOE50MlQ3MzNSdFhIY2o0X3JveTI2WnRqajNwOEljMU5TblZvbHhZUnMzVk5OaGdNelV6dmp2LWYzQl9ndWNjd0tFWnMyMEIxb2xlMm1nc0s2TEc3SlFrVlIyYTJ2aXl2N2NoZVRNZ1JkcjNhRVJuLWtGeThCQ2hMUUpiYWZfcTZaOEQwcm84TmNwSzlMbGY4dl9ObWNXMVFBbmVpSEdyS05XeG9VLWVGcjNZTDE2Tms1TTVfMWFXWmRrM1l3Tlg1N3JDVmc?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-02T22:57:26.000Z"
       },
       {
         "title": "Trabajadores sociales podrán ejercer en más de 20 campos de intervención según nuevo reglamento - Infobae",
@@ -178,6 +170,14 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPemVNbG80NXl2WFFVVFNUVUtSTWllaGx4bkZVaUcxT01xRmFtTm9tV0lKd2E5ZVQwLWpEb24yWjZtQnZ6NlZ2dFhNQkJRR3dPYnR1MVRVSTlVX0puTjBzMDJRVE5HYnNEaTM1dzVpQVphZFo2WEp1b3pSOEQ1c2x5d1lYWDFKU2M3eTh5Ug?oc=5",
         "image": "",
         "publishedAt": "2026-09-29T11:53:00.000Z"
+      },
+      {
+        "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
+        "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOF96RmlFdGF0MmZNd1M0VXdlM2tlQVU0MHBidWRKZ1ZaYmRYZjQteldIeDRYR0c4aFNENU1ackUzVzZ5Sm5OSU9JVXlhQU9ON0ZoYmt6UWRfX2xNcFd3bmNDbkpyUktwaVl4UUZwdlZIRmZDaldXd3dXRk02ZFZvb2VJNk9WLTZTVXJhQklYcWxGMkFWbmZHUG11OURpRE8xWWdpU3lOOHUxaFotNUJscW9qVUdfdFRkWUhubndPYnRYUUN5RncxVW1qVFMzck41SWJYeWV5eWVLZw?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-07T07:00:00.000Z"
       },
       {
         "title": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud - La República",
@@ -367,7 +367,7 @@
         "source": "Perú Informa",
         "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVjZJeENTb0xLNW1yWEs5Y1p0amlEUjZZNGxIR1lTc1dGV2hCMUpCZ1lrcWNPWDVVVHRkaXh3Wjh6NXZQYnJmV1puRF9oUENFVDRuTF9kWG9iTVFWWVVMa2g2MjNCbFNFNVNhZm9aTVMyRWJacVljV185SWFEMGQyTl90N2xYMUFucXhUQWpSemZWMzZGa0JONGFXRElIX01JVXNoX0hQYWZjNmFIOWpXMnBxNzY2RndFMEU5SzRjeWhhNkNLSlVVLUlPUEpjZXZUQk9mRWp1dm0zci1oV2N5ajZJQV8wMGI1VjZQZ1lWdzByLS1ON0VTR0VaVThoTzdqcjVPdg?oc=5",
         "image": "",
-        "publishedAt": "2026-10-05T20:27:46.000Z"
+        "publishedAt": "2026-10-05T15:19:14.000Z"
       },
       {
         "title": "Ingenieros de Perú crean 'Pulso', tecnología con Inteligencia Artificial para rescate humano y ganan concurso de Google - La República",
@@ -376,6 +376,14 @@
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOejlpWFhZZHJTOENlcHlrbG1PZmVxT3hEdHJZR0o0SHQ1QVBCTkMtZl93X0syeHM3U1RGT18xaXFVb2FKWm5USFZDbFVucGgxRThfY296T1JwVmM1Y0Q1eEF1S05ETE1faklDM1d0N254WXdHYVVld3B0ejlaVzRubERfdUdjOWZfdVVtRzFBZWNNMGFxcklKdzFSNmQxYWtHR0VsaFQ2czFaU1pFVGhIZHpmbTIzMVVXTlI0aF9fTUZFSGtrbDEwUE9FYnBLa2pGaldLanJ4Sk9vbUhoSW1Sc2tiQlZRaWVyQk1ETGwxOA?oc=5",
         "image": "",
         "publishedAt": "2026-10-01T23:57:16.000Z"
+      },
+      {
+        "title": "IA y perforación a 3.000 metros marcan el futuro de la minería peruana - La República",
+        "summary": "IA y perforación a 3.000 metros marcan el futuro de la minería peruana &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZWNoNjl4clE4WTBIWHU1akJlVFJhRDU0Z0QzSGUteTFLdE5DUVptaTlvU0ZZY3l6Y0g0M2JETk9yV2VMWWJVWlJUY0xaU2o0ZERZYjhOOVZ6emx0T3RkYU9OQ19xMnZUVFlWdjY0VUdBUHVSbjdrOEc0cXRlUU9qRDlsQVRrQmJvVW1mbEdZUWZINFIyWWRhYWNBOXc0UFAzMFh0MjZMRVJFRWo0bTJsWTVkODgtR2FTZll4Q3RzSjJjZ3F1TmZKU25FTDU1N1F4V0Q2eWl4R3pOTExselRQQmdYTkpjZEFRQlFGQkJ1MHVOWkpmajhwNV9UdjZWdjlSdkJz?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-01T19:41:05.000Z"
       },
       {
         "title": "Perú mira a la IA como amenaza al empleo: país es el más preocupado de Latam por impacto - Gestión",
@@ -400,14 +408,6 @@
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOEtOSVhSMWE0bklKb1h5QlhNTzF6dXJfMjZ6ckhvX05ScVZJMEtqUWdvaDhiQU0tV1dnVUlxU1ZuQXd2cWs5d20yczdNSmI4cU5vY094X2ZIQWhiMXgzUHdrNDI0emlsTV9JeHNpZUFWQzFsdjdienVQZDY1dFVGZF9CSzhkMkRlb2FzbkpyczJQcVh5YlU0NHZ1V21TLWxBVTdxRjdQVW1vS2pWWUdicmswZm8wdG5HQlBvZE5pbVhuWTlQRUJpSk94LWw5bExUQUNxTXhHb0ZOWEFWaVVEY0VpekUxR0p1UHFF0gGGAkFVX3lxTE03NW5EQUkwQUwycGU1R2h5bjBWXzlFWmppMGUtMUlxcWtER1k1OC12ZEprQ1dSNzNGYmE4aXRvR0NXM0JHYkRmQy1OVDVqTEpCUTQ2cTJMOHA4QklkWGFpR1IzRk9rbUxJcXFIWFBwbVRXUlgtNE1ubkdaOGd2eEtZZ09yc2JXSC14eWphMVJ0TWVtYWFfUHh1MllwZ09na1hCYmRXY1FUX3ZKdzhoU0RXLWFJRUV2QnJnZGJOSGw3bGVDMHg4T0hZVllEVkstNGFiZVJJMHdibVhmZGdIM09RNjZ5WXk3bG9xTV9kVkw3N0ctQXpWSGRKUW1oVVY1Y3FHU3FEYXc?oc=5",
         "image": "",
         "publishedAt": "2026-09-25T07:00:00.000Z"
-      },
-      {
-        "title": "Cumbre Perú Sostenible 2026: la inteligencia artificial redefine las habilidades que necesitará el trabajo - Mercado Negro",
-        "summary": "Cumbre Perú Sostenible 2026: la inteligencia artificial redefine las habilidades que necesitará el trabajo &nbsp;&nbsp; Mercado Negro",
-        "source": "Mercado Negro",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMmY5UmVoQlRiVFZ0cDRQcEh1ZkpySWs5cXBRbmFLQTROWDNRa2QtS0tEdnVXc0V6NENLY2NzSDBtU2xZeFp1bm82anAwTFg4OEFZTGoyQ1hrRGpjc3lfbmN1SG5fS0VzbzlYN0NMWGI3ZnpqVF91N1N6ak13bzdGYzBjNENSaDczMkhURnJBMjRmdFE2SWc?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-24T21:49:46.000Z"
       }
     ],
     "tendencias": [
@@ -510,18 +510,18 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
+        "title": "Falleció Víctor Angobaldo en trágico accidente vehicular en Cañete - Infobae",
+        "summary": "Falleció Víctor Angobaldo en trágico accidente vehicular en Cañete &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeW1uYzV2dTFwMHdMRjlOZ3RRTjhPRU1KWFJvSDdfUTlrNk40bERPdlBaX3NJNkFvZmtDX2tNZlNJdW40cndwcFBtSUM1NTFfUnZ2M2d0SmgtMHlXYnhQQ0V4aC1CdVRKZWJUQkhXUnc4S3doMlNqVVJUbXVQb0dVY3hORUNVZnVEMHhSY2txazNEV0E5cWtTcHZSd0LSAbcBQVVfeXFMTi1KeC1KN0hzYm1PN0dPZDVOQmpQQV9xNWhFXzdzcTliSVg3RVUycUNDT19lbEo4Nm93RkJaNnF3akpQN2c5Zmx1YzZMUmh0WXZ2MHlkV2ZQNVI0QTkwNzhZWXlKVzRXaG1aOF9GM3dQaUtDRFNzdmo5ZmppaDBCNGNMbElNREdreXN6VG1HNXBINTRxWTB1M1diTDNUU0RELXo1TFdDMWVXNWswY25iblNTa2xVeW5R?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-05T07:00:00.000Z"
+      },
+      {
         "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - Trome.com",
         "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHpkRUdJMnV3X2tiUURubVRPZW9NY0Z3UlJIS1NIaG1jVkpPWEYwcVlsSXJBdVliMERjdnlBRkR0LUw2WllJam56RXBUb2tVbFlxZDJOV2xEYTJsczg1elZlclFvREdzUWptcmw3VURlYlhST09TdVpWTmo2Znp3dGJWeDhHN2xILU1aOHBXVkZ5MFhFNnM4SzliOE92VTNOWnMtTk1YaWVUMmdHcGN3a2MxRnJaQXlWdmo2aE5iR1UzbU1QWnVibkZJamZabm9KV01SQ1FfM3TSAewBQVVfeXFMTlJtdHBFeG9XM2lzMnFvRnpMWk5XZGFRblJNdlBTeVNRcGpGR1hOS2RydWh3dTlFQ3BDNkZEMmlXTi1nUW1zUFN6djIxRU5BUDV2V3hkZDREMlRVTmZtRy1IT3dEQXdCMmRLYmg2ZndiNHI5dV9RWmM0bDZmdjBITkpBNzBqWEx6cTJWQTBUV1VBcm9mS3U0YzluUlEwb0ZLT2picG0xNlI1YnVEY2xGYVoxMC1CMlV1NHhzRmtTTVVZaERiTUVZZGR4SjJ6YVpDeGJMY3Aybzg4WUZFV1kyVm1OdEUyUktiVE95OHM?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-30T07:00:00.000Z"
-      },
-      {
-        "title": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión - Infobae",
-        "summary": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFpHYlBfWE5DYjhNXzVvdjhzWEJUU3NRYUxCei13QUhSajlnTWtaNmxCUmRZeFJsU0FQZ2Uxa0hkMHNCanNqd1pPUDlveFZGUXlvU0MyblFibDBMY1pZVHZZczdZNlFpZ0dVU2hwUlJrQjdOY3FMZHloNXY2cXhCVVR4YjVLR1B5NEFhOGJlY2NKZnF2dWpfMWNUYTdGd2U1MWt1RWNpVUw1NXdWWE1SN0dSMm9ldWNqZUM2Z1930gHYAUFVX3lxTE9YYW5mSTRNYXNfWFBBZi0tX1h0S3A1b09TY09zaVFmcWdLTllzMHhtTzRQOHNwaEFOT1ZycS1fNklDamM2Tm4zbGZ0Uk5DTldIMDAxUlhGZVNmV2RvZXdVRERiTGFxV0Jhclc1bERDd3ItWU9yY1dpQjE2d0NnTVZzVDhBTjV4ellKTW5HOUxBWUtOLVNnVGs3Wi1ibF9iNVNMWFlzajFjSzhUSjRKdXBZQUdlbTh0QklnMUxNNFFlVXpTYi1jZXE2Z2dFcklfX2U3Y0VnTUM4Vg?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
