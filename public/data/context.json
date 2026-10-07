@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T23:49:29.893Z",
+  "generatedAt": "2026-10-07T05:53:56.822Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,52 +24,36 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "EN VIVO: Pleno de la Cámara de Diputados reanuda debate sobre pedido de facultades del Gobierno",
+        "title": "ONPE resultados al 92.72%: aquí el conteo oficial de las Elecciones Regionales y Municipales 2026",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/elecciones/resultados-onpe-elecciones-regionales-y-municipales-2026-en-vivo-conteo-oficial-para-saber-quien-gana-las-elecciones-de-alcaldes-y-gobernadores-en-el-peru-erm-2026-lbposting-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/MNOEUNMADZCZTJOEMZJTPEQSFY.jpg?auth=c7709b7cb30cb4f53ae3cd9363280157fa453086c206d51b5b87cafa1b09ab25&smart=true&width=1200&height=849",
+        "publishedAt": "2026-10-07T05:20:22.000Z"
+      },
+      {
+        "title": "En una sesión marcada por el caos, Congreso otorga facultades al Gobierno en seguridad y fenómeno de El Niño",
+        "summary": "En una jornada marcada por suspensiones del pleno, reuniones de urgencia de la Junta de Portavoces y sucesivos cambios en los dictámenes, la Cámara de Diputados aprobó otorgar facultades legislativas al Ejecutivo por 90 días, en materia de seguridad ciudadana y para atender el fenómeno de El Niño. La decisión será remi",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/en-una-sesion-marcada-por-el-caos-congreso-otorga-facultades-al-gobierno-en-seguridad-y-fenomeno-de-el-nino-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/2KU34NXTC5C5RCAOCVI45SLOSM.jpg?auth=a6bc39290c27e6bbf666fc9de53e4ebe0dbd0fdef89c5bf743169c64e4a100b0&smart=true&width=1280&height=853",
+        "publishedAt": "2026-10-07T05:01:00.000Z"
+      },
+      {
+        "title": "Elección en Lima: ¿Cuánto tiempo le tomará a los JEE resolver las actas observadas e impugnadas?",
+        "summary": "Los resultados finales de la elección para la alcaldía de Lima se conocerían en aproximadamente un mes, tras la resolución de las actas observadas e impugnadas por parte de los jurados electorales especial y también del pleno del Jurado Nacional de Elecciones (JNE), en caso haya apelaciones, según estimaron los abogado",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/eleccion-en-lima-cuanto-tiempo-le-tomara-a-los-jee-resolver-las-actas-observadas-e-impugnadas-rafael-lopez-aliaga-francis-allison-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/TG3UZCFITBDXFJNEA4IFBQBKMM.png?auth=472fc783898961a35762c33bc659a5d9c650acfb3d1f3b69f41ba063fc457c98&smart=true&width=1160&height=660",
+        "publishedAt": "2026-10-07T05:01:00.000Z"
+      },
+      {
+        "title": "Pleno de la Cámara de Diputados aprueba otorgar al Gobierno facultades para legislar sobre seguridad ciudadana y Niño",
         "summary": "El pleno de la Cámara de Diputados sesiona este martes, desde las 10 a.m. y tiene en agenda el dictamen en mayoría de la Comisión de Constitución, que otorga facultades al Gobierno pero solo en dos materias: seguridad ciudadana y fenómeno El Niño.",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/en-vivo-camara-de-diputados-dictamen-sobre-delegacion-de-facultades-del-ejecutivo-seguridad-ciudadana-fenomeno-de-el-nino-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/OP6CBIJGYVHBJHTLQLJKWGX6EM.jpeg?auth=a77522ddd729e94e0bb11f5db485ea0212e200cc2735b0f4d60b1b9bee8cb490&smart=true&width=2560&height=1706",
-        "publishedAt": "2026-10-06T23:44:17.000Z"
-      },
-      {
-        "title": "Menos del 4% de votos: el escaso respaldo para la Alcaldía de Lima de cinco de los seis partidos en el Congreso",
-        "summary": "Expertos consultados por este Diario atribuyen el bajo respaldo a estas agrupaciones a decisiones adoptadas por el Congreso pasado y a la baja institucionalización partidaria. Asimismo, advierten que este escenario podría generar un problema para el Ejecutivo.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/cinco-de-los-seis-partidos-en-el-congreso-lograron-menos-del-4-de-votos-en-comicios-para-la-alcaldia-de-lima-las-razones-y-el-impacto-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/VC5THIGR7FAT3D3TOXAFPRADPY.jpg?auth=919edfc20b8cbcb57a9a10ccf83c7704ad562d46fad439e658a6f5436ff31dd3&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-10-06T23:20:37.000Z"
-      },
-      {
-        "title": "¿Cuántos votos separan a López Aliaga de Allison?: las actas observadas e impugnadas definirán la elección en Lima",
-        "summary": "La elección para la Municipalidad de Lima aún no está definida. La Oficina Nacional de Procesos Electoral (ONPE) concluyó este lunes el procesamiento de todas las actas electorales correspondientes a 26,351 mesas de sufragio. No obstante, de esta cantidad, solo 24,427 actas (el 92,699%) fueron contabilizadas.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/elecciones/cuantos-votos-separan-a-rafael-lopez-aliaga-de-francis-allison-las-actas-observadas-e-impugnadas-definiran-la-eleccion-en-lima-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/Z5NP6GYOEFCNZECSNOO2GONZVA.png?auth=cc2336833536a4a6fe6f8a80ce50d9d2c52bd88622668c6a93e5ff17436c53b1&smart=true&width=1160&height=660",
-        "publishedAt": "2026-10-06T23:20:26.000Z"
-      },
-      {
-        "title": "Francis Allison: “Estamos en una posición que podemos revertir esto” |Entrevista",
-        "summary": "El candidato de Avanza País para la alcaldía de Lima, Francis Allison, dice ahora que peleará “hasta el último voto”, luego de que en el conteo rápido de Datum y las cifras de la Oficina Nacional de Procesos Electorales (ONPE), lo ubican a poco más de 44 mil votos de Rafael López Aliaga (Renovación Popular). En entrevi",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/entrevista-francis-allison-estamos-en-una-posicion-que-podemos-revertir-esto-alcaldia-de-lima-rafael-lopez-aliaga-avanza-pais-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/V6GJ5TUZLRA4ZCYAD7ZN7PUQZI.jpg?auth=9dfffbab8b985150b97f558a38e326720463cc390ee6a3c9d7b774fac326d861&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-10-06T23:20:10.000Z"
-      },
-      {
-        "title": "Senado debate este miércoles viaje de Keiko Fujimori a El Salvador: ¿qué aspectos del “plan Bukele” quiere conocer la presidenta?",
-        "summary": "La presidenta Keiko Fujimori solicitó al Congreso autorización para salir del país entre el 28 y el 31 de octubre para visitar El Salvador. Tiene previsto reunirse con el mandatario Nayib Bukele y, tal como adelantó El Comercio, conocer el Centro de Confinamiento del Terrorismo (CECOT), una prisión de máxima seguridad ",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-solicita-permiso-al-congreso-para-viajar-a-el-salvador-que-aspectos-del-plan-bukele-quiere-estudiar-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/DFUKTZIWWZBC3AYKYJW7ARYIOU.jpg?auth=1e6ade966323d520f1a86cf919ff51dd4a67faa0ff1785ce5035d7165a347ba1&smart=true&width=700&height=538",
-        "publishedAt": "2026-10-06T23:19:59.000Z"
-      },
-      {
-        "title": "La dispersión del voto creció en las últimas elecciones municipales en Lima Metropolitana: ¿Cuántos distritos y qué zonas apoyaron a los alcaldes ganadores?",
-        "summary": "El voto en Lima Metropolitana se ha fragmentado con el paso de los años. En las últimas elecciones municipales, celebradas en el 2022, Rafael López Aliaga, de Renovación Popular, se convirtió en alcalde de la capital con poco más de un cuarto de los votos válidos (26,3%), la cifra más baja desde el 2006.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/elecciones-2026-la-dispersion-del-voto-crecio-en-las-ultimas-elecciones-municipales-en-lima-metropolitana-cuantos-distritos-y-que-zonas-apoyaron-a-los-alcaldes-ganadores-rafael-lopez-aliaga-carlos-bruce-francis-allison-onpe-jne-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/QOOJFCDYQJGHXNXBZ6TZP3I27Q.jpg?auth=242e8b6ee7cb83ce4e935e033284dc16b20c9f7538e812f1dc5f965a276fd713&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-06T23:07:39.000Z"
+        "publishedAt": "2026-10-07T04:42:13.000Z"
       },
       {
         "title": "Elecciones municipales 2026: Casi mil candidatos limeños cambiaron de camiseta política",
@@ -77,33 +61,33 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/ecdata/elecciones-municipales-2026-casi-mil-candidatos-limenos-cambiaron-de-camiseta-politica-rafael-lopez-aliaga-carlos-bruces-francis-allison-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/MEVF7KANNJBXPJBZ6TFZIK7SDM.jpg?auth=b31ed9a2520d470199d73bb052125f9d2e17d14cdb08ebbbd66cc4906ce2bc98&smart=true&width=1200&height=628",
-        "publishedAt": "2026-10-06T23:07:22.000Z"
+        "publishedAt": "2026-10-07T01:07:00.000Z"
+      },
+      {
+        "title": "La dispersión del voto creció en las últimas elecciones municipales en Lima Metropolitana: ¿Cuántos distritos y qué zonas apoyaron a los alcaldes ganadores?",
+        "summary": "El voto en Lima Metropolitana se ha fragmentado con el paso de los años. En las últimas elecciones municipales, celebradas en el 2022, Rafael López Aliaga, de Renovación Popular, se convirtió en alcalde de la capital con poco más de un cuarto de los votos válidos (26,3%), la cifra más baja desde el 2006.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/ecdata/elecciones-2026-la-dispersion-del-voto-crecio-en-las-ultimas-elecciones-municipales-en-lima-metropolitana-cuantos-distritos-y-que-zonas-apoyaron-a-los-alcaldes-ganadores-rafael-lopez-aliaga-carlos-bruce-francis-allison-onpe-jne-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/QOOJFCDYQJGHXNXBZ6TZP3I27Q.jpg?auth=242e8b6ee7cb83ce4e935e033284dc16b20c9f7538e812f1dc5f965a276fd713&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-07T01:07:00.000Z"
+      },
+      {
+        "title": "Resultados ONPE al 92.72%: sigue el conteo oficial de las Elecciones Regionales y Municipales 2026",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/elecciones/resultados-onpe-en-vivo-sigue-el-conteo-oficial-de-las-elecciones-regionales-y-municipales-2026-lbposting-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/E3KRQYZLKJDRXA5PG67PUFB5FM.jpg?auth=b487c743e0017b92986c26313bfb2b557e40d7cbeb07617e0180977524f34eb4&smart=true&width=1200&height=675",
+        "publishedAt": "2026-10-07T00:12:40.000Z"
       }
     ],
     "economia": [
       {
-        "title": "RLA y Allison buscan la MML: qué deuda carga el municipio a la espera de conocer a su alcalde",
-        "summary": "El conteo rápido al 100% de Datum Internacional mostró un empate técnico entre Renovación Popular, que no tiene postulante a alcalde, pero sí a López Aliaga como primer regidor; y Avanza País, encabezado por Francis Allison.",
+        "title": "Delegación de facultades: Diputados dan “luz verde” a versión acotada tras 13 horas de debate",
+        "summary": "En la Comisión de Constitución se había logrado consensuar una propuesta entre cuatro partidos políticos, que fue “revivida” en el Pleno.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/mml-proximo-alcalde-seria-rafael-lopez-aliaga-pero-sus-finanzas-estan-debilitadas-que-deuda-carga-el-municipio-noticia/",
-        "image": "https://gestion.pe/resizer/v2/DHGN34K7K5HA5MD2UVMANZJNUM.png?auth=382c3dcbf5c7d0754dc1b27b74d768f49ee3fad606d8e5a58e85b2052c717d35&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-10-06T23:29:00.000Z"
-      },
-      {
-        "title": "Gasto municipal en planillas se triplicó en una década: los millones asignados",
-        "summary": "El gasto de las municipalidades en personal y obligaciones sociales viene ganando peso en la composición de sus presupuestos.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/gasto-municipal-en-planillas-y-obligaciones-sociales-se-triplico-en-una-decada-los-millones-asignados-noticia/",
-        "image": "https://gestion.pe/resizer/v2/OUV36YYZIVAIRKS7KDOZYKBTTU.jpg?auth=56b033ae415ab987ed9a5960394571000b6ee8c5de004a170a418e8d6810624f&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-06T23:15:00.000Z"
-      },
-      {
-        "title": "Puerto de Chancay: EE.UU. y oportunidades, ¿qué les falta a empresas?",
-        "summary": "El puerto de Chancay es clave, incluso más allá del sector exportador, ¿compañías de qué otros rubros están a la expectativa?",
-        "source": "Gestión",
-        "url": "https://gestion.pe/tu-dinero/puerto-de-chancay-eeuu-y-oportunidades-que-les-falta-a-empresas-noticia/",
-        "image": "https://gestion.pe/resizer/v2/A5U2LQOFOVF2HEDXCX3FVFLQFQ.jpg?auth=ea54f0465e5db2608b5d5c6ce8be826b8d5f0ed932307dca023eb1f999b14e0e&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-06T22:58:17.000Z"
+        "url": "https://gestion.pe/economia/delegacion-de-facultades-legislativas-del-gobierno-de-keiko-fujimori-en-pleno-del-senado-asi-va-el-debate-con-hasta-3-propuestas-noticia/",
+        "image": "https://gestion.pe/resizer/v2/DVJPVRWMZFACPEWB7HAGCARFQE.jpg?auth=2403948bd4ea32bd7d15cf61813727adefce0f50f7125f26dba04c34d90d4328&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-10-07T04:49:14.000Z"
       },
       {
         "title": "Poder Judicial reconoce laudo a favor de Rutas de Lima: ¿cuánto tendría que pagar la MML?",
@@ -111,7 +95,23 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/poder-judicial-reconoce-laudo-a-favor-de-rutas-de-lima-cuanto-tendria-que-pagar-la-municipalidad-de-lima-noticia/",
         "image": "https://gestion.pe/resizer/v2/DHJEATKDQRF7HAJ4GLQLWWCXFM.jpg?auth=436e177ab8848dadb965356ff795dbde32de09fd897542cc460d41ce6116014b&smart=true&width=1280&height=620",
-        "publishedAt": "2026-10-06T22:50:26.000Z"
+        "publishedAt": "2026-10-07T04:40:00.000Z"
+      },
+      {
+        "title": "Grupo Lar deja megaproyectos por fases: así será su nueva apuesta inmobiliaria en Lima al 2027",
+        "summary": "Grupo Lar iniciará en noviembre tres obras en La Victoria y el Centro de Lima, con una inversión de S/180 millones, tras un primer semestre de ventas frenadas por las elecciones. Además, dejará los megaproyectos por fases y apostará por desarrollos más cortos.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/grupo-lar-busca-terrenos-en-san-isidro-lince-y-jesus-maria-invertira-s60-mlls-en-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CSSQ6TXAW5GPLAHI54WBVFVX6Y.jpg?auth=ca7f28cbb2641abccb11c6eb02328d7946326afaeee83652f89de1eabb7c3673&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-07T04:30:00.000Z"
+      },
+      {
+        "title": "Nuevo “examen” empresarial: avances en este indicador se respaldan con métricas rigurosas",
+        "summary": "Las empresas peruanas priorizan la capacitación y la medición de impactos antes que comunicar sus avances en sostenibilidad, según estudio de 2026.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas-y-su-nuevo-examen-avances-en-sostenibilidad-se-respaldan-con-metricas-rigurosas-segun-apoyo-consultoria-noticia/",
+        "image": "https://gestion.pe/resizer/v2/ISPTYFXJJZH3BOB43IH6G4OI3U.png?auth=1eb264f6bcfd8a4f3fa5b633f5e9f4bf1a62ba679280d9fdd2b156b8a869f55d&smart=true&width=1672&height=941",
+        "publishedAt": "2026-10-07T03:45:00.000Z"
       },
       {
         "title": "Producción de petróleo en Perú llegó a los 39 MBPD en septiembre",
@@ -119,34 +119,50 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/produccion-de-petroleo-en-peru-llego-a-los-39-mbpd-en-septiembre-noticia/",
         "image": "https://gestion.pe/resizer/v2/ZXFTQKNWGBA4XNVU6UC5WN6JZM.jpg?auth=2120ebc0a39d6f490eee8182e68f4b57ba0a1d9dc15f090edaada926b1d1cd12&smart=true&width=1200&height=675",
-        "publishedAt": "2026-10-06T22:46:05.000Z"
+        "publishedAt": "2026-10-07T02:30:00.000Z"
       },
       {
-        "title": "Parque Industrial de Ancón avanza: empresa china a cargo detalla planes para ser “ciudad”",
-        "summary": "Ye Teng, Gerente General de Lima Industrial Park, firma de capitales chinos, aseguró a Gestión que la primera etapa del Parque Industrial de Ancón estaría operativa máximo en 4 años.",
+        "title": "Indecopi impone derechos antidumping a inodoros chinos, ¿cuánto pagarán?",
+        "summary": "Según Indecopi, el aumento de las importaciones chinas contribuyó al deterioro de la producción, ventas, participación de mercado y rentabilidad de la industria peruana. Por ello, se estableció medidas antidumping.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/parque-industrial-de-ancon-ya-avanza-empresa-china-a-su-cargo-detalla-planes-para-ser-ciudad-noticia/",
-        "image": "https://gestion.pe/resizer/v2/YBXOP6OGZRCLHIF2JW3QIBOXNY.png?auth=d20ae1509f42c50943d285c220bdd2e55eb58248a4d14a9aac30e7a9f0a5c506&smart=true&width=1672&height=941",
-        "publishedAt": "2026-10-06T22:43:21.000Z"
+        "url": "https://gestion.pe/economia/indecopi-impone-derechos-antidumping-a-inodoros-chinos-cuanto-pagaran-noticia/",
+        "image": "https://gestion.pe/resizer/v2/4WPOEWXLLZECLHDAETY76YCEPE.jpg?auth=2c197f81de921c0397277c3eda7979bf1a60aed8a5c4c6d482d101e2892f9c8a&smart=true&width=600&height=400",
+        "publishedAt": "2026-10-07T02:02:00.000Z"
       },
       {
-        "title": "¿Más marcas gastronómicas en el Jorge Chávez? Lagardère prepara dos nuevos espacios",
-        "summary": "La compañía francesa, que opera 13 propuestas gastronómicas y negocios de retail en el Jorge Chávez, prevé sumar nuevos conceptos entre fines de 2027 e inicios de 2028. Además, evalúa oportunidades para llevar su oferta gastronómica y de tiendas de conveniencia a otros aeropuertos del país.",
+        "title": "Banco Mundial: Perú crecería 3.2% este año, ¿cómo queda frente al resto de la región?",
+        "summary": "La economía de Perú crecería 3.2% este año, según las nuevas proyecciones del Banco Mundial. Se ubicaría en el top 4 en Sudamérica",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/lagardere-suma-nuevos-espacios-en-el-jorge-chavez-y-mira-expansion-en-aeropuertos-regionales-noticia/",
-        "image": "https://gestion.pe/resizer/v2/4YWPDCC4VBGEPEPA6W3SG7X3TA.jpg?auth=647e376246e22860614437173640788d886c7c87441dfce1b7b5120af095b92b&smart=true&width=1537&height=1023",
-        "publishedAt": "2026-10-06T22:30:00.000Z"
+        "url": "https://gestion.pe/economia/banco-mundial-economia-de-peru-creceria-32-este-ano-como-queda-frente-al-resto-de-la-region-noticia/",
+        "image": "https://gestion.pe/resizer/v2/YDJ3BUZ5ORH6NI3RZRQ6EKXHUQ.jpg?auth=eb31e48cdbe2c530f1dc01ce3cd3be10785d670f74fd335c504792e423df5585&smart=true&width=1200&height=900",
+        "publishedAt": "2026-10-07T01:52:32.000Z"
       },
       {
-        "title": "Refinería Talara: directorio de Petroperú inspecciona funcionamiento de unidades operativas",
-        "summary": "Funcionarios supervisan avances del proceso de arranque de unidad de flexicoking",
+        "title": "Häagen-Dazs abrirá dos tiendas en Lima en 2027 y busca llevar sus helados premium a provincias",
+        "summary": "Häagen-Dazs prepara dos aperturas en Lima para 2027 y analiza su llegada a Trujillo, Arequipa y Cusco mediante socios operadores.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/refineria-talara-directorio-de-petroperu-inspecciona-funcionamiento-de-unidades-operativas-noticia/",
-        "image": "https://gestion.pe/resizer/v2/NUHRUJDUDNALPJ5XIZFBTO3QRY.jpeg?auth=ff1f5e69ad0b1b2cd6a630a4c56562eadb4f356c661ce6917a0592ad55f8e981&smart=true&width=1024&height=618",
-        "publishedAt": "2026-10-06T22:12:50.000Z"
+        "url": "https://gestion.pe/economia/empresas/haagen-dazs-abrira-dos-nuevas-tiendas-en-2027-y-alista-expansion-de-sus-helados-premium-a-provincias-noticia/",
+        "image": "https://gestion.pe/resizer/v2/SX5VEKSTXZEVVDK26F4CQXKIRE.jpg?auth=598304a82901d847b661023dd5a4504ded90c4a3da34ebc1b246df230f726cd8&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-07T01:45:00.000Z"
       }
     ],
     "sociedad": [
+      {
+        "title": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? - Infobae",
+        "summary": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2x4NndiTVA4bUlRNXVjbHlRQVhsZmF6ZVlNTDQ3eFlzLUd1YTFGTDllMFlSOG1kdlllNFFDM3ltcThJbXJVbXJlVWV1amhzV05CTzZTcmxkczg3TlY1bW5JLUVWWVR0UktOWVp0dTcwR3hHSkxBWVFnbC1iTmJ2MlQzcjRJZjBfQkZ5RS12Qm9hVWdQNU4ydExiU2huSDIxVmlYb3BlUjVOZkg3YXhHTVBBQzV2WU1SRmlGbzZnN3l1Y0tPTDdCU0w0S2FxNDVFeGUtcnA4OXk2RlJ3NlVrX9IB-wFBVV95cUxQb3hrbHpSeVhpankxdWdERnpPNlpPOV9MS2ZPZjFKd0w0el9xS25jSld0akJJdkhiZ3BoNFVTME5fOHplb3ZnczdGNXVhSkkwSGhSSk9MZEM0N3lseVc3dVZvUjZRX3dnMUVKTGY4UlhaSk9sZERUMnkwSXo1MkpNdVd0T3ZoeVMxMTN2QVo1S2w1X3Vpa25GU1lEMmRTTHB0T2Y3dm9GUTZVMk9jNmR0UFdiNUVuYldpNEp6dFZoTFpIZVh3Yi1pQy0tWldDYldXbjlFWXlPM2JQVHVxTFZNOTczNzRaT1lHSDFoWUdySWtuR2lsM1FSRzVhOA?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-04T23:27:00.000Z"
+      },
+      {
+        "title": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN - La República",
+        "summary": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdHlxN3pWUU9DenhObS0temJHTWt6UGoxWThSTEVydk5Sa2U0T0tGZm00VDdEbUJIMnlUQlg4bnR4WEQzME41cnhTUWdYT2VfanpPa3VIS080Q1UycHB6eWtpZEF2ZnM0dDV0bkhmNUtfRzByY202dWt1d2hsWWlrUUdCaGsyZHJNcU1ydWNuOFdPUGcwb2gtSW9TbElROW9nakxmcm03cUFDMEZLT0pXbVpIMlNXdUQ2a0Q2UEw3WkNoVXBjYVc4ZUlFRXRfUVR5alRydkJ1dG5KUkxnQkVEVklGb1RDTWVsMFHSAe8BQVVfeXFMTURTcmlRY1NnMm1abmptUHIwOW1GN2lzc1Z6c29EZFN3bUFUOE50MlQ3MzNSdFhIY2o0X3JveTI2WnRqajNwOEljMU5TblZvbHhZUnMzVk5OaGdNelV6dmp2LWYzQl9ndWNjd0tFWnMyMEIxb2xlMm1nc0s2TEc3SlFrVlIyYTJ2aXl2N2NoZVRNZ1JkcjNhRVJuLWtGeThCQ2hMUUpiYWZfcTZaOEQwcm84TmNwSzlMbGY4dl9ObWNXMVFBbmVpSEdyS05XeG9VLWVGcjNZTDE2Tms1TTVfMWFXWmRrM1l3Tlg1N3JDVmc?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-02T22:57:26.000Z"
+      },
       {
         "title": "Trabajadores sociales podrán ejercer en más de 20 campos de intervención según nuevo reglamento - Infobae",
         "summary": "Trabajadores sociales podrán ejercer en más de 20 campos de intervención según nuevo reglamento &nbsp;&nbsp; Infobae",
@@ -162,14 +178,6 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPemVNbG80NXl2WFFVVFNUVUtSTWllaGx4bkZVaUcxT01xRmFtTm9tV0lKd2E5ZVQwLWpEb24yWjZtQnZ6NlZ2dFhNQkJRR3dPYnR1MVRVSTlVX0puTjBzMDJRVE5HYnNEaTM1dzVpQVphZFo2WEp1b3pSOEQ1c2x5d1lYWDFKU2M3eTh5Ug?oc=5",
         "image": "",
         "publishedAt": "2026-09-29T11:53:00.000Z"
-      },
-      {
-        "title": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? - Infobae",
-        "summary": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2x4NndiTVA4bUlRNXVjbHlRQVhsZmF6ZVlNTDQ3eFlzLUd1YTFGTDllMFlSOG1kdlllNFFDM3ltcThJbXJVbXJlVWV1amhzV05CTzZTcmxkczg3TlY1bW5JLUVWWVR0UktOWVp0dTcwR3hHSkxBWVFnbC1iTmJ2MlQzcjRJZjBfQkZ5RS12Qm9hVWdQNU4ydExiU2huSDIxVmlYb3BlUjVOZkg3YXhHTVBBQzV2WU1SRmlGbzZnN3l1Y0tPTDdCU0w0S2FxNDVFeGUtcnA4OXk2RlJ3NlVrX9IB-wFBVV95cUxQb3hrbHpSeVhpankxdWdERnpPNlpPOV9MS2ZPZjFKd0w0el9xS25jSld0akJJdkhiZ3BoNFVTME5fOHplb3ZnczdGNXVhSkkwSGhSSk9MZEM0N3lseVc3dVZvUjZRX3dnMUVKTGY4UlhaSk9sZERUMnkwSXo1MkpNdVd0T3ZoeVMxMTN2QVo1S2w1X3Vpa25GU1lEMmRTTHB0T2Y3dm9GUTZVMk9jNmR0UFdiNUVuYldpNEp6dFZoTFpIZVh3Yi1pQy0tWldDYldXbjlFWXlPM2JQVHVxTFZNOTczNzRaT1lHSDFoWUdySWtuR2lsM1FSRzVhOA?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
         "title": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud - La República",
@@ -202,14 +210,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUnB3bzVxUmd0OUYtcDl1b01PcVNtVzVac18zZGpEdWxSZTVWUGxiUGY2VHZYSHE1c0VQcG11Zlg3eHZLZkctY1JFSGE2UVRTNE1jcWxiTE9rTXdabGdJUTdsQTlhN2ZKYWxXczRBUGhUYjE0LXlfZElpWTltR2FRVnBCMnZROTU1a3ZxWXZhNlFIaTZVWjlBTWJoT21Tbmd3NmhHLVJGSnlOdjBtUHZ3VGJnelJKeTJaX0hpdWJJeklIR3B1N1dfZ01iZWlFV0xrT1d2bG1mc0JWVG9rRVVkalFxZmNsRkXSAYICQVVfeXFMTVVCcVFOaGV1T3c1U1Q5cFppVFBQZ0hma1ctVDVYbzdFUlBsZ0dETG9tWk1GSWFzRk5zUEtlY3h6SDB3OGhyTUpWVG9qdEdMOVVhUUZTbEFBYS1TZmFBQWpDN2lHN0VMQWdWMnV1NHU4WGNDVlB1eGZrMXNITmxqdmx2M0tYN2lzODdGZDVJVWVUbVhZeXhYNlktV1hkTmJHS0d4NjVEcEhKOTMxUkx0STA3WDYyMWJZc0YwU09lQVlESHkweTBxSmtmZ3BvZzBIS1dlRHJtVG9tQU1sU1kwYVg0cW1pcExDSzgyUS1kMmZvbTVPNXAyX3plMWM5TXNZWE5n?oc=5",
         "image": "",
         "publishedAt": "2026-07-26T07:00:00.000Z"
-      },
-      {
-        "title": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado - TVPerú",
-        "summary": "MEF sustenta crédito suplementario de S/9596 millones para atender inversiones y servicios del Estado &nbsp;&nbsp; TVPerú",
-        "source": "TVPerú",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbS0xd2cxQXI5T0hEOEVrN3M2eER5Y0VTTW0yQzBRWGZteXVCLTRySkZwT3ZYNUJ5OEg4Q2hPZENLZnhSdjdxaWxRZExVMndoSmtWcnVxU09LelpFbERlXzQ2cWdQTlM2WG9YYWJBdmIyOWdzUkI5MWYxOHBkei1aMWZna0Q2a2Vrems2N0RwQklYWGhaY3NyLUlyOTZUbWQweHpHa3VLZGxjaTNEMEpObVNFM1VvMEVkSzU3cDFNOXVIZEl5WGFha0J1UXRRbHBwa1JYeWxjNXNPLUhx?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-17T02:03:59.000Z"
       }
     ],
     "negocios": [
@@ -478,14 +478,6 @@
     ],
     "farandula": [
       {
-        "title": "Conciertos elevan las expectativas del entretenimiento en Perú: sector crecería hasta 8% en 2026 - La República",
-        "summary": "Conciertos elevan las expectativas del entretenimiento en Perú: sector crecería hasta 8% en 2026 &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdjBmOTJrY0FvQ1Y0OEEwTlJQQjdYMzFzWXRINlpmQ0R4YzVzQlZieWpzUVp5WTdVV2RBdF9lSUVjOHh2b2twek1KSVUxaWtHTXZqUmVXZGRfNlJFTUp1emYtMTBRSGxteW0zcUVIb1ktWjNlMmgzWnFaRlotU21rcElfUldDcUMyUWZRc0J0SEdZTTJNbE5UN2pQMXhUUGczTDN4Y01MczZiYWYzX3FhZ1JBX0tVa3N5cWtuQWpfSFFGaVNSWF9VeHM2NlM2MWJ0STY4Y1g4eEhwZm5XQkRDMmlsUExwd9IB6wFBVV95cUxNVWdodTNnWmhWSXZ0TXdBa3NVOFRVbUZrMlhuUGxNQTFvX09hek9Da2hlLU5Yb2txc2I3UklYWE1hLTd1LW00WTd6b0NxdWo1WTRXOTItNWdOLTNmRzVhSkRDblV4YmJDbDdockJ6SVdOZ0VkcXdwOUo1QVlYUDJXN01DZ2FQSXBPbzlNT25KSlRua1ZDRm9jaEdaX2FEcG4zZ1NHQjYybWw0TFRjQkpOWlBhRjhTWUFXM3BhYmxFYWFvWkYwbnU5RTVRWXhRRnRVTGp0Zi1EX28xVldfVDF1T1R6Y0JVclViV3Aw?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-21T07:00:00.000Z"
-      },
-      {
         "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
         "summary": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -540,9 +532,25 @@
         "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQN2IwQ21SMVZrT2VSbVN4QVdqd0prczd1SE1IcmN5djZ1NXp2cE9UTkNrd2o0X2Rwd1ZObW9qWUJzdFRiUGZ6R0tVakQ4V3g4QVVsNHp6VkdFTXJiTy1ubDlDSElzT3lMRVI5WWJHMGFXUzdiOTlWSlFzcl8tcm9PbGVJbERueHUxNnBJNlVfU0dUb21iTGtsM2dkZlphS3JTSGNROUh4M3JteW92ak5iWXNhOExJMGhjanh0al9GNi1RZG1MejNmODZKNG1EWWFMLXFRQkc0TkFLalRKN2RPVUl6ak0zY1RxZVdqdWdZWU01ZlZlRWtlakpxMUxTWktaMzY3clhhRUFwcW04QWfSAagCQVVfeXFMTldmWnBhODVBZ0lfd2tHSTB1N0JEX0JBQ2VuMjZjdHFsZ2dqTldwQ3FSMXFwb0YyZ2hlbUw2N2dDdGJBVUhUbFRwOWF0cEpsUnowaXppQmFjVGQ2RWtnd01SeFJpQks2bF92aG1RV2ZhOEpIN1l4X2Q2amZ5TERVdlV6Sm9LVktmcUw2TDkxdURkeUFOc3VGdVBWcEZDN2FIeHNPaDlyZGFoR1ZCVlRNdXc2YUd6WGQ4VGlBdG1IdkVJS3VNR1A2eGtNMVZYQzZIUEpCdXpPR0lIWGtqcGVOc3VwcnlMelhtdkxnUDJ1c19lY3RYVUR5NjA1Q3pYX1Q2SkNtQjd6cG1ablhFMjdabVkxcWU1WXZWQXcwZGEyQmhhRzRLUFB6bFQ?oc=5",
         "image": "",
         "publishedAt": "2026-07-27T07:00:00.000Z"
+      },
+      {
+        "title": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina - Infobae",
+        "summary": "Quién era ‘La Chocolatita’, mujer vinculada con Pedro Aquino que fue hallada sin vida en La Molina &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOajFsLUtIcVlCbVlEeDJrZERUeklvOU1Hak5IRjdkWWRuTjhuR24zTnRkNDFONDRHelY2RG9QU2FobEYwdUQxRDRYX3N0QTFqenR3aU43NUJPRWlVUnExalVDUlVwZ0d0WFRud2dYNENFRHd6d0JPWTQ3WlNCM3pjNEJ0R0R5dGlwZVJ0Yk90MDNzWlZrZXYwbGd1ekN2NzkxdFB1dThxYjBLSDVBNF96d3VNYS1ZNHNwc21WMWhwSFdCamJtd3FwczY4V0lIcFZaLVHSAewBQVVfeXFMT29fdXdnLWEyMlBwSDlqZEVOT3ViRkhla192bHU0bnh1MzNoVGFMZkttSmlFOURhVmNUeVFqLXZoMXVUVHg2M3JZZXo2SjMxY2dCUGJrUWNMX2l6Zk9GVU9HVjZrUnhDMEpqRmp1bU1vM3lfbTZJZ0VJQnR6QnJZLWJPV081YnNhMXFqOEh0ZTVSMHM3RzkwNDlRSE5XMU4wMHJ0T0VzZU5ZNXdudENQNjQtM2FXM3BIS3RmWUY5SzMyUU5pQ1lEc1FldW1RWlM2cEt1NEtQRFdjNm8zcE8tdi1UeWVpY1NadHNnWTg?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-26T07:00:00.000Z"
       }
     ],
     "cultura": [
+      {
+        "title": "Agenda cultural en Lima 17 al 24 de setiembre: Robbie Williams, 'La Cabaña', 'La mujer de negro' y el Festival de la Luna se imponen - Infobae",
+        "summary": "Agenda cultural en Lima 17 al 24 de setiembre: Robbie Williams, 'La Cabaña', 'La mujer de negro' y el Festival de la Luna se imponen &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOajlpTHJUcnhPRlNzcnlPYV9qbVJJR3pUZ19sN3Z4bWJtZ2xHTkhaWjZPVi14cjE3NHRCQ1ZWeHFWT0w4cnJCbzNwOXFnUWNIOTc5aWpUSy1xdHBZZWVyZzltM1lRTE1ia1kxNVFfRDVDUnFYSGptSjQ1bTdPQ0R3WE15Z1hILVlFV0txS05BaW04dUFqVk05YkVBdmNXTm5xcDFucGk3M29jaF9yUnFxa3cwY0RPUldLaEdxdnNmMVZzR3AxZ2tDU1FPU3o3T3hTcFgxRjVXc1AtQzB6ZWhSUG5jWjAtNng4N0lnQV9JNlZGNlhOcjB5TTlR0gGUAkFVX3lxTE5HY25QVmNINl9QU3c0WHdkTEw5ZWx4SWREOXJ1d3o3N3lORVV0aHZUbnl5X3ZvWEFxbW0ya0tVcmFFejlmWld0NnQ5Qm0xMXE2ckNBVE5FY1VWQ1REdWxlVEtuU0hyNFF1aXIxcnNsa0dfZm9yejM1cXVmcWpYT2hxOTNGeEdGcy1XTThVc1JQdGtFQ0pscHJpSWFqYVFCeVpIbmhodGk1eGtaaGJUODlwTnFMMVhEOHlhU1gzZXgyVF9Wbm10dkxZTERIZXVobnJielZXY3dWVGNoeUh0VnozRDJ0dDdNM0FlOHpYQnhqcG9qN3hDQlB1blN1MFczQ2piQXl2bnI5aDQxYmhFcDIxQTFZZw?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-17T07:00:00.000Z"
+      },
       {
         "title": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA - Infobae",
         "summary": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA &nbsp;&nbsp; Infobae",
@@ -598,14 +606,6 @@
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQempKSjE1ZEJaSUlkTkxKb2ZEb01WelVBMUZpdUMxM1FSR3VlUlZZalFqUnZJMnhWcFc5UUdoZVFMOG1TbWpzc1BqTFUwbTl6MEhWR2NpSW95RmhRQ2tFSFM2NXZsQjFNUXVsY2k5dS1HRUlzU2pJMEN2SGMtSXlBOFhCbVBSVExUWGxFWVV1dTJCbFdtY0Npdmk4UUlFUkxXQi1QRlFCdC1VWG9jR2hxS2xfbGRGb0tGMGl3MzFrNkdvYjVp?oc=5",
         "image": "",
         "publishedAt": "2026-08-19T07:00:00.000Z"
-      },
-      {
-        "title": "Agenda cultural en Lima del 13 al 19 de agosto: lo último del Festival de Cine PUCP, ópera y ballet, salsa, teatro y exposiciones gratuitas - Infobae",
-        "summary": "Agenda cultural en Lima del 13 al 19 de agosto: lo último del Festival de Cine PUCP, ópera y ballet, salsa, teatro y exposiciones gratuitas &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVEN4R0wzbk9BVWZvS0JOOS1TcXR1SkFWTzVHbEhDM0hjYzBaX056STYyZkgybnR1VDc0VEl3WWZjeE01ZkEtUGl4OHZoOWxEcDd0WFdGbnJsanpXS0lNOW1rR0ZPcm9YcHVORFYyRE5PYXpiYVpVdWtOeWFPN1Y5QmJUeGMxSVZ5YWZnb3VoT0VyelEtLUtDM0pRam9zOFlIWEpOZUxUUjFBSl9YZXlUSFJqenRuaE5LR0RqRGQyck50NFdxaV9nMi1KSmRFMVFNZ2c0Z0dhUzd2aU4yOGZyb20wNFQzR0pRaUxtWTZsRkMtbTVzNnhnZk13N3FHNlJlbkdmOXByRdIBogJBVV95cUxNSzdWSFA0MnYyRkhjdGRKRnVsUDlOUzZobWxGUGw2T083NG41MUVmX1ZObGpOZjcyLVRQTGg2NV9ObXJhSUtRQ3VVS2wzRUtxaFdocUozSEJPeHZXc2JabzhENS16QXZFYVVmY0ltS3BocnJTZEFLeVhOMHdXUWY4LWpFc3FzRWU3RndwYjZ5d1FLX09vNFBnemc1aldIN0tyUEE3NzJpZmwxOEN2Wmdpc1RBUU5uVXRVRTZNUzdsMW5oVmVJYUdZc0hLdG00S1o0TVB3NzlsSm8xTC1kMmo0SXNRTVhNUzFYaUYzd1dRRi1OVmprRlVMd1IxcG11Z1JqSElMMGc0QkFKQmxOYVlfUUJOd0IzbWtsa3h4RWNVQTFfdw?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-13T07:00:00.000Z"
       }
     ]
   },
