@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T19:55:14.772Z",
+  "generatedAt": "2026-10-09T00:20:37.053Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,6 +24,46 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
+        "title": "Resultados ONPE al 92.729% de las Elecciones Regionales y Municipales 2026: aquí el conteo oficial",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/elecciones/resultados-onpe-en-vivo-sigue-el-conteo-oficial-de-las-elecciones-regionales-y-municipales-2026-lbposting-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/L7WHRSAL2BHGLDIHU4AJQG4JLM.jpg?auth=23c858397665c5e8ef77843e10abe58f6974d04087dfff5c03fd12d7a08706cd&smart=true&width=1200&height=878",
+        "publishedAt": "2026-10-09T00:11:14.000Z"
+      },
+      {
+        "title": "“Desencanto” y cruce de cuestionamientos: ¿Cómo recibió el gobierno de Keiko Fujimori el recorte de su solicitud de facultades?",
+        "summary": "Tras la aprobación de solo 20 de los 66 puntos de la solicitud de facultades en la cámara de diputados, diferentes representantes del gobierno de Keiko Fujimori cuestionaron que esta instancia del Congreso no haya otorgado “las herramientas más importantes que el país necesita” para frenar al crimen organizado y enfren",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/desencanto-y-cruce-de-cuestionamientos-como-recibio-el-gobierno-de-keiko-fujimori-el-recorte-de-su-solicitud-de-facultades-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/D5VEDX4LHNDQHL3IEHP4QPQ3GE.png?auth=b6381ac3a49c5c1c04445d11a91b103b15850ec5a206b397fbb8128a83e1c50b&smart=true&width=1160&height=660",
+        "publishedAt": "2026-10-08T22:32:28.000Z"
+      },
+      {
+        "title": "Elecciones Lima 2026: ¿Cómo va el avance de las actas observadas y cuándo se aplica el recuento de votos?",
+        "summary": "Solo en Lima Metropolitana, los Jurados Electorales Especiales deberán resolver más de 1.900 actas observadas.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/elecciones-lima-2026-como-va-el-avance-de-las-actas-observadas-y-cuando-se-aplica-el-recuento-de-votos-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/SW4IXWS6EZGXVDW7FLD7IQFMCI.jpg?auth=c815de95fb4713cb3fa790f659ae45c13daf2d80c39f60c5ea444fa3b5658cc2&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-08T22:32:10.000Z"
+      },
+      {
+        "title": "Keiko Fujimori al Congreso sobre pedido de facultades: “¿Podemos dejar de lado las viejas rencillas políticas”",
+        "summary": "La presidenta de la República, Keiko Fujimori, invocó este jueves 8 de octubre el ejemplo del Gran Almirante Miguel Grau para pedir al Congreso que deje de lado las diferencias políticas y otorgue al Ejecutivo las facultades legislativas solicitadas para enfrentar la delincuencia.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-al-congreso-seremos-capaces-de-bajar-nuestras-banderas-partidarias-podremos-dejar-de-lado-viejas-rencillas-politicas-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/FQVY2ETMFZEEJGQ24XLUR2TMZM.png?auth=e16e0a40468ab606513fde7cb5bb0da2f9f168320eff52704289877eccc8301b&smart=true&width=587&height=406",
+        "publishedAt": "2026-10-08T21:03:25.000Z"
+      },
+      {
+        "title": "Senado: Comisión de Constitución convoca a siete ministros para sustentar posición sobre facultades",
+        "summary": "La Comisión de Constitución, Reglamento y Relaciones Exteriores del Senado convocó para este viernes 9 de octubre al presidente del Consejo de Ministros, Luis Fernando Galarreta, y a otros seis ministros para que expongan sobre el pedido de delegación de facultades legislativas solicitado por el Poder Ejecutivo.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/comision-de-constitucion-del-senado-convoca-a-siete-ministros-para-sustentar-facultades-legislativas-este-viernes-9-de-octubre-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/ROQZYCVE4RF5ZFGTD7DTAGPLEI.png?auth=83ed0de91679c8d044933922c955553d4db053eea3360ba68e573c0d6bc8406a&smart=true&width=1200&height=678",
+        "publishedAt": "2026-10-08T20:53:28.000Z"
+      },
+      {
         "title": "Eliane Karp reitera pedido a Keiko Fujimori de gracia presidencial para Alejandro Toledo",
         "summary": "Eliane Karp, esposa del expresidente Alejandro Toledo, reiteró su pedido a la presidenta de la República, Keiko Fujimori, para que otorgue una gracia presidencial a su esposo, quien permanece recluido en el penal de Barbadillo.",
         "source": "El Comercio Perú",
@@ -32,55 +72,63 @@
         "publishedAt": "2026-10-08T19:05:49.000Z"
       },
       {
-        "title": "Keiko Fujimori al Congreso sobre pedido de facultades: “¿Seremos capaces de bajar nuestras banderas partidarias?”",
-        "summary": "La presidenta de la República, Keiko Fujimori, invocó este jueves 8 de octubre el ejemplo del Gran Almirante Miguel Grau para pedir al Congreso que deje de lado las diferencias políticas y otorgue al Ejecutivo las facultades legislativas solicitadas para enfrentar la delincuencia.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-al-congreso-seremos-capaces-de-bajar-nuestras-banderas-partidarias-podremos-dejar-de-lado-viejas-rencillas-politicas-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/FQVY2ETMFZEEJGQ24XLUR2TMZM.png?auth=e16e0a40468ab606513fde7cb5bb0da2f9f168320eff52704289877eccc8301b&smart=true&width=587&height=406",
-        "publishedAt": "2026-10-08T18:11:55.000Z"
-      },
-      {
-        "title": "Resultados ONPE al 92.72% de las Elecciones Regionales y Municipales 2026: aquí el conteo oficial",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/elecciones/resultados-onpe-en-vivo-sigue-el-conteo-oficial-de-las-elecciones-regionales-y-municipales-2026-lbposting-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/L7WHRSAL2BHGLDIHU4AJQG4JLM.jpg?auth=23c858397665c5e8ef77843e10abe58f6974d04087dfff5c03fd12d7a08706cd&smart=true&width=1200&height=878",
-        "publishedAt": "2026-10-08T18:04:58.000Z"
-      },
-      {
-        "title": "“Desencanto” y cruce de cuestionamientos: ¿Cómo recibió el gobierno de Keiko Fujimori el recorte de su solicitud de facultades?",
-        "summary": "Tras la aprobación de solo 20 de los 66 puntos de la solicitud de facultades en la cámara de diputados, diferentes representantes del gobierno de Keiko Fujimori cuestionaron que esta instancia del Congreso no haya otorgado “las herramientas más importantes que el país necesita” para frenar al crimen organizado y enfren",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/desencanto-y-cruce-de-cuestionamientos-como-recibio-el-gobierno-de-keiko-fujimori-el-recorte-de-su-solicitud-de-facultades-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/D5VEDX4LHNDQHL3IEHP4QPQ3GE.png?auth=b6381ac3a49c5c1c04445d11a91b103b15850ec5a206b397fbb8128a83e1c50b&smart=true&width=1160&height=660",
-        "publishedAt": "2026-10-08T17:59:38.000Z"
-      },
-      {
-        "title": "Elecciones Lima 2026: ¿Cómo va el avance de las actas observadas y cuándo se aplica el recuento de votos?",
-        "summary": "Solo en Lima Metropolitana, los Jurados Electorales Especiales deberán resolver más de 1.900 actas observadas.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/elecciones-lima-2026-como-va-el-avance-de-las-actas-observadas-y-cuando-se-aplica-el-recuento-de-votos-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/SW4IXWS6EZGXVDW7FLD7IQFMCI.jpg?auth=c815de95fb4713cb3fa790f659ae45c13daf2d80c39f60c5ea444fa3b5658cc2&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-08T17:59:19.000Z"
-      },
-      {
         "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
         "summary": "Fuerza Popular | Desde que empezó a participar en elecciones subnacionales, el fujimorismo redujo su oferta electoral en más de la mitad.",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/ecdata/en-16-anos-fuerza-popular-solo-ha-ganado-3-gobiernos-regionales-y-no-ha-colocado-un-solo-alcalde-en-lima-metropolitana-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/BXR7EWSJTZENDC5LNBMVD5TD3Y.jpg?auth=0748dd41adc436d0e769c8bb1082b94633e944477d573a7a73e3297d65d94d1c&smart=true&width=1800&height=1199",
         "publishedAt": "2026-10-08T17:54:00.000Z"
-      },
-      {
-        "title": "Senado: Comisión de Constitución convoca a siete ministros para sustentar facultades legislativas este viernes",
-        "summary": "La Comisión de Constitución, Reglamento y Relaciones Exteriores del Senado convocó para este viernes 9 de octubre al presidente del Consejo de Ministros, Luis Fernando Galarreta, y a otros seis ministros para que expongan sobre el pedido de delegación de facultades legislativas solicitado por el Poder Ejecutivo.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/comision-de-constitucion-del-senado-convoca-a-siete-ministros-para-sustentar-facultades-legislativas-este-viernes-9-de-octubre-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/2FMTZH4ACJD3JCX5LAD4B5Z5XY.jpg?auth=285e64ec57ad92ca27cdb0bc46a2e94d3e5800ae39bf142e4a437d389e327a48&smart=true&width=2756&height=2094",
-        "publishedAt": "2026-10-08T17:14:55.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Dos de cada tres ofertas laborales en Perú requieren al menos una habilidad tecnológica",
+        "summary": "Dos de cada tres ofertas laborales publicadas en el Perú requieren al menos una habilidad tecnológica. El dato, correspondiente a agosto de 2026, muestra cómo las competencias digitales ya forman parte de los perfiles que buscan las empresas, aunque su peso cambia según la profesión.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/management-empleo/dos-de-cada-tres-ofertas-laborales-en-peru-requieren-al-menos-una-habilidad-tecnologica-noticia/",
+        "image": "https://gestion.pe/resizer/v2/ROCMZIVRQZCXRCDVF5NUP5UUOA.jpg?auth=f928da7a8aa302251a20b8b40a388d33f9edfb353f5e342a14326a6a70d86497&smart=true&width=1200&height=805",
+        "publishedAt": "2026-10-08T23:44:30.000Z"
+      },
+      {
+        "title": "RLA y Allison buscan la MML: qué deuda carga el municipio a la espera de conocer a su alcalde",
+        "summary": "El conteo rápido al 100% de Datum Internacional mostró un empate técnico entre Renovación Popular, que no tiene postulante a alcalde, pero sí a López Aliaga como primer regidor; y Avanza País, encabezado por Francis Allison.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/mml-proximo-alcalde-seria-rafael-lopez-aliaga-pero-sus-finanzas-estan-debilitadas-que-deuda-carga-el-municipio-noticia/",
+        "image": "https://gestion.pe/resizer/v2/DHGN34K7K5HA5MD2UVMANZJNUM.png?auth=382c3dcbf5c7d0754dc1b27b74d768f49ee3fad606d8e5a58e85b2052c717d35&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-10-08T21:37:00.000Z"
+      },
+      {
+        "title": "Delegación de facultades: Diputados dan “luz verde” a versión acotada tras 13 horas de debate",
+        "summary": "En la Comisión de Constitución se había logrado consensuar una propuesta entre cuatro partidos políticos, que fue “revivida” en el Pleno.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/delegacion-de-facultades-legislativas-del-gobierno-de-keiko-fujimori-en-pleno-del-senado-asi-va-el-debate-con-hasta-3-propuestas-noticia/",
+        "image": "https://gestion.pe/resizer/v2/DVJPVRWMZFACPEWB7HAGCARFQE.jpg?auth=2403948bd4ea32bd7d15cf61813727adefce0f50f7125f26dba04c34d90d4328&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-10-08T21:37:00.000Z"
+      },
+      {
+        "title": "Línea Amarilla: Perú irá al CIADI para defenderse frente a “nueva evidencia” en su contra",
+        "summary": "Perú irá al CIADI para defenderse frente a “nueva evidencia” en su contra en el caso por la Línea Amarilla iniciado por Vinci Highways en 2021.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/linea-amarilla-peru-ira-al-ciadi-para-defenderse-frente-a-nueva-evidencia-en-su-contra-noticia/",
+        "image": "https://gestion.pe/resizer/v2/HHKOFJRCCVCVJM23TJSFWW6SRA.jpg?auth=4f5d428a98cdb57f00fde49fb7ffe91f2c4819176d9a9aeae91af9b8ba771ca0&smart=true&width=6720&height=4480",
+        "publishedAt": "2026-10-08T21:19:00.000Z"
+      },
+      {
+        "title": "Pérdidas tributarias durante pandemia vuelven a debate: se usarían para “reducir” pago del IR",
+        "summary": "Una propuesta busca ampliar hasta diez años el plazo para compensar pérdidas tributarias generadas durante la pandemia. ¿Qué pasaría con las pérdidas de 2020?",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/perdidas-tributarias-durante-pandemia-vuelven-a-debate-proyecto-de-ley-plantea-que-se-usen-para-reducir-pago-del-impuesto-a-la-renta-en-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/DWKTHLLZZJFT3HXJ4ZS55MTXKY.jpg?auth=a08d5b997452653a61e60124c21c50664261f5511952953ea843e2a4ee5e8cf6&smart=true&width=1200&height=927",
+        "publishedAt": "2026-10-08T19:54:19.000Z"
+      },
+      {
+        "title": "Exploración minera: área de búsqueda cae y hay menos proyectos en cartera que hace un año",
+        "summary": "Analistas explican qué pasa con la inversión en esta actividad de la minería. Aquí todos los detalles.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/exploracion-minera-en-peru-area-de-busqueda-cae-y-hay-menos-proyectos-en-cartera-que-hace-un-ano-noticia/",
+        "image": "https://gestion.pe/resizer/v2/C5NULARPU5H6HIAEOEYHJYCSJI.jpeg?auth=046770e76cc6226badb15a71e236fa59d17e1b446c00131e7449940fd12a71ca&smart=true&width=735&height=473",
+        "publishedAt": "2026-10-08T19:52:04.000Z"
+      },
       {
         "title": "¿Canasta, bono o tarjeta? Así está cambiando el aguinaldo de Navidad para los trabajadores",
         "summary": "Las empresas evalúan distintas opciones para el aguinaldo de Navidad 2026. Conoce qué prefieren los trabajadores, cuánto recibieron en 2025 y qué busca cambiar.",
@@ -90,60 +138,12 @@
         "publishedAt": "2026-10-08T19:37:48.000Z"
       },
       {
-        "title": "RLA y Allison buscan la MML: qué deuda carga el municipio a la espera de conocer a su alcalde",
-        "summary": "El conteo rápido al 100% de Datum Internacional mostró un empate técnico entre Renovación Popular, que no tiene postulante a alcalde, pero sí a López Aliaga como primer regidor; y Avanza País, encabezado por Francis Allison.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/mml-proximo-alcalde-seria-rafael-lopez-aliaga-pero-sus-finanzas-estan-debilitadas-que-deuda-carga-el-municipio-noticia/",
-        "image": "https://gestion.pe/resizer/v2/DHGN34K7K5HA5MD2UVMANZJNUM.png?auth=382c3dcbf5c7d0754dc1b27b74d768f49ee3fad606d8e5a58e85b2052c717d35&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-10-08T19:37:26.000Z"
-      },
-      {
-        "title": "Delegación de facultades: Diputados dan “luz verde” a versión acotada tras 13 horas de debate",
-        "summary": "En la Comisión de Constitución se había logrado consensuar una propuesta entre cuatro partidos políticos, que fue “revivida” en el Pleno.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/delegacion-de-facultades-legislativas-del-gobierno-de-keiko-fujimori-en-pleno-del-senado-asi-va-el-debate-con-hasta-3-propuestas-noticia/",
-        "image": "https://gestion.pe/resizer/v2/DVJPVRWMZFACPEWB7HAGCARFQE.jpg?auth=2403948bd4ea32bd7d15cf61813727adefce0f50f7125f26dba04c34d90d4328&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-10-08T19:37:18.000Z"
-      },
-      {
         "title": "Los distritos más económicos para comprar departamento en Lima",
         "summary": "Al momento de adquirir un departamento en Lima, la elección del distrito puede tener un impacto significativo en el presupuesto destinado a la vivienda. No obstante, tomar una decisión basándose únicamente en el precio del metro cuadrado puede ofrecer una visión incompleta del verdadero costo de vivir en determinada zo",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/los-distritos-mas-economicos-para-comprar-departamento-en-lima-segun-el-bcrp-noticia/",
         "image": "https://gestion.pe/resizer/v2/VPWJJX747ZDYBHAHRFAZNEE6EM.jpg?auth=7eccaf220e8f9f0d9331764426c3af8616b8902cefb68ed296ad4f3abf37868b&smart=true&width=1200&height=800",
         "publishedAt": "2026-10-08T18:53:25.000Z"
-      },
-      {
-        "title": "Línea Amarilla: Perú irá al CIADI para defenderse frente a “nueva evidencia” en su contra",
-        "summary": "Perú irá al CIADI para defenderse frente a “nueva evidencia” en su contra en el caso por la Línea Amarilla iniciado por Vinci Highways en 2021.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/linea-amarilla-peru-ira-al-ciadi-para-defenderse-frente-a-nueva-evidencia-en-su-contra-noticia/",
-        "image": "https://gestion.pe/resizer/v2/HHKOFJRCCVCVJM23TJSFWW6SRA.jpg?auth=4f5d428a98cdb57f00fde49fb7ffe91f2c4819176d9a9aeae91af9b8ba771ca0&smart=true&width=6720&height=4480",
-        "publishedAt": "2026-10-08T18:07:41.000Z"
-      },
-      {
-        "title": "Perú y su vínculo comercial con Chile: las nuevas oportunidades acordadas por US$ 5 millones",
-        "summary": "Promperú informó que desarrolló una agenda comercial en Espacio Food Service 2026, realizado del 29 de septiembre al 1 de octubre en Santiago de Chile.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/peru-y-su-vinculo-comercial-con-chile-las-nuevas-oportunidades-acordadas-por-us-5-millones-noticia/",
-        "image": "https://gestion.pe/resizer/v2/7LLFBKSXWNBSRNIYTDSZT6Y2KA.jpg?auth=6ab05f31a0bdbeb657edf858c05a919c421a5ee957c16c1ef4700a027649c6ae&smart=true&width=700&height=395",
-        "publishedAt": "2026-10-08T16:59:18.000Z"
-      },
-      {
-        "title": "Exportaciones peruanas superan los US$ 74 mil millones en el año: ¿qué sectores destacan?",
-        "summary": "El Ministerio de Comercio Exterior y Turismo (Mincetur) informó que las exportaciones peruanas de bienes se incrementaron en un 34% entre enero y agosto del 2026, alcanzando los US$ 74,122 millones.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/exportaciones-peruanas-superan-los-us-74-mil-millones-en-el-ano-que-sectores-destacan-noticia/",
-        "image": "https://gestion.pe/resizer/v2/IBSJ3F2RDFEBNGGSRSGV7GZ4JY.jpg?auth=25928550e812803e262373a26c91809849294e2e859466db9ecceb5bcc67b253&smart=true&width=700&height=395",
-        "publishedAt": "2026-10-08T16:09:36.000Z"
-      },
-      {
-        "title": "Poder Judicial acelera proyecto para garantizar cumplimiento de fallos laborales: ¿cómo?",
-        "summary": "El Poder Judicial (PJ) informó que ha puesto en marcha la segunda fase del proyecto de conversión de órganos jurisdiccionales en juzgados de ejecución laboral.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/poder-judicial-acelera-proyecto-para-garantizar-cumplimiento-de-fallos-laborales-como-noticia/",
-        "image": "https://gestion.pe/resizer/v2/BU667V36FFHH3MGSASLW7KX4LU.jpg?auth=90e167f0a6ce32612535d0f0865543be70ce8fca3a9fb23b5ac7e906447d7513&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-08T15:22:35.000Z"
       }
     ],
     "sociedad": [
@@ -162,14 +162,6 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPemVNbG80NXl2WFFVVFNUVUtSTWllaGx4bkZVaUcxT01xRmFtTm9tV0lKd2E5ZVQwLWpEb24yWjZtQnZ6NlZ2dFhNQkJRR3dPYnR1MVRVSTlVX0puTjBzMDJRVE5HYnNEaTM1dzVpQVphZFo2WEp1b3pSOEQ1c2x5d1lYWDFKU2M3eTh5Ug?oc=5",
         "image": "",
         "publishedAt": "2026-09-29T07:00:00.000Z"
-      },
-      {
-        "title": "Progreso social en Perú: educación y conectividad avanzan, pero salud y derechos retroceden - La República",
-        "summary": "Progreso social en Perú: educación y conectividad avanzan, pero salud y derechos retroceden &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMVA5dUxEdV9TY0lnTFJkOHZWalV5RTJvMkVvcnBUZTh4cV9JYmhLbkU3RDZHallxMnlndEFVSmJZcnkzN1h6MlNUQm5zWl9IR0FfZ3dxZm1NX0IzZHRTTHdZS1VjQm55d2JwZnZJZHd1bm0yczcxdUZYV0c0RDhkTlFqMnY2NFRkeUtlbG9ZMU1wb09oTF9yOW8wU0RTa0lNeEw3WnpITXdSMGViaHRpSFlZNEMyMmhZbVR4aGJlSlYxZTd3NVV3R3R4UDZZWlVjNEE1bUg4a9IB3AFBVV95cUxPMXY1VVpCRUx5MHBpcHRUa0xsaC1XUFZYeURlMlpGd0k5SWNCLVdhbnlZbFR6d0V6MGRlcGFPN0dBSU1IWTY5Ml9lc0xnWHNiWEE2NnRDSDY0azk0dUdZb3J2cGNzYVFCOG5Ucy1ObnhBcS0tNjZZSVJiNkNkZHA2YS0wLXU2RnJPT0tOblpWeXZENFdJMkhGSFNIMGp3VVhwR2Q0RWVYRllJVlNLa0c0SGVsdThtdTVoREhCYmMtTXhKWTdQY0hva1hDaTR4ZnlqX09LV1FmMXlsOER3?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-24T07:00:00.000Z"
       },
       {
         "title": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? - Infobae",
@@ -210,6 +202,14 @@
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWkFuOWxMMWltaDhYUHdWcGZMYW9sSDVlZ1hMYWw0UU0zWjkwR0FqWXZEd1VYTXlCOUpSVndPNXZTelByRGNqbEExRzl1SDNFcDlabEs1ejZUSnNEeHhkdHg4cVNBVXZ5VVdZU1puNjdacXltTWhZbjg5TFc5NDVlalZXMnpTQ1N6V2xMU0JLTWFJcTNmN0ZQOTg3NUtRR3pHSFBIc1VMZ3dWWFkyQjFyVnVtNExKNUtxMWt5cTBMRnpGRDYxbFJJUWxUZUhvakVlWG1F?oc=5",
         "image": "",
         "publishedAt": "2026-09-03T07:00:00.000Z"
+      },
+      {
+        "title": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos - Agencia Andina",
+        "summary": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORDg3MFVjQnE2eHFPRWpXV3RHcFUwQ3NzalN5MTBFNFhNV1ZYNVpkRFBRSlh1QmhCUzhCdXRWWE5xRnNHYWhIMzRwMnQ3Vl9CMWZBalFwTzd4eFI1cW9LYmkwS2toT3RpeC1pZC1paFlhOVlxdXdJUUJYQ3dzT1pGU3NLSVhIaUMzdXZ3QThaTGFMbF9SRFYyOWQtZy0yUE1NWFZtX0hNTUM0ZFZlSDZtck53Nmpqc2tYSkpZN0ZBTl9NbVBBMlAw?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-11T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -592,20 +592,20 @@
         "publishedAt": "2026-08-22T07:00:00.000Z"
       },
       {
-        "title": "Cochinola 2026 con Nicky Jam y Wisin: horarios, apertura de puertas y vías de accesos - Infobae",
-        "summary": "Cochinola 2026 con Nicky Jam y Wisin: horarios, apertura de puertas y vías de accesos &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSm11R1lUbDRJM2U3LTdqaEFMUk4wNXlhekZsWVE2eXB1N2RiaWlSeEJ2WFh6eTdKaGN0OWlUc1NOQlFOUl9kaWhQZ2lEYmVTaEsxam5aUzRCRFdzTjFBWmpLdlhRV2RSTHdtWFk0U0xRcHJYUDZ6MG94QjlqSkRwZ2lCUDRKWWxrd2w3ajMtYmtSMWR2OFNHd3VDaG9sSGM0Q2FtREd2OWEwSUZxaUQ4cjBUNjNJblBvUlZLX2NSTWdwZEprVlR0VdIB4wFBVV95cUxPV3VVd0dJMHdDeXJwVHRGVHZ1dkVhLVgzaVY2X0FqRmNSZm9zOVVtNVBKTXFUUTZZWVBFSGhYdUV5N0QyWVAyUWVWQUZfLTVGamUxU3cyQlZwcjk1b2pkRWthVVJ2bUxGbzRrTGdhMmJ2OFQxVHU4VDNqdHJKXzREQlQxdVBDQjJ0R1k5ZVR0S0Q1eV93b0VsQ0ZyeGVhNkdnV3R4WFF2dWViNi12dFhsRFNiWXhmcVMtXzBOT3A2N3JWaVZEUVF1MWo3MEZ2Qkh3UG9wdW0wSXY3SFVlV2JwYk5BRQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-22T07:00:00.000Z"
-      },
-      {
         "title": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones - Infobae",
         "summary": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTTZDSUpUY3djZ1R3U0lOUzRLVVV6OGFpNGZvRm83N0dTV2VlclhHT3U5YlVzX1NLMUFzdUx4cHZrX2FhdGhDeGtYOWZwZ1VyUnZiZEIxRUw5NmhZUG93WHZJNUFHUzRTMHBtVTRQUE91OFprb1NlMXhsbkF5ZHZINWxweFVsVzRJZlpUcFI2Mks5andzSTgwNVhUZXJsaVl5bUhrMXFLX0JMWDgtNEtWbW92YXVBS19kQ1dYS1hqSEt4YVpnaFNqeFVHQzhqbVBIZnFnUEcyOXdqUnFZNllOZG5aVjlsbUtlV21JZ21aTjRkNlNyOEYwZnVhbnhSdDNadVRZbUNvYjPSAaMCQVVfeXFMT0lVVzhVeG9mNGZBb2diQW9Bd1ItVlppWDFzMmt4eDAyY1ZYMjVQUWpzN2hzMGpfR3RqRGhVS3NGZm04ZlBnaGxsUXozY1o1ZlFkWjl3aElHZjAyaWo0SDR1VU5SM09KSm1HWkRTeDlSa1Z5bGVpZS0yN0s2cVYxRFBvUjRwZHV1eHFnbUx0RlRaLUdSU0JPWmdSY0V2SXE0QUpFbGlCa3JtOE0tOHNCMWlsV19wTi1ienIyLTdubnJCUXQ0T2xkSTluVENhVENBeEcwZVM4NlZjS2IwS3NhbTRNQ3d0cFlLd3JWakw2Wl9YbTBkcGowYkVYU2NKbVl4eXdVa2FNZ3FlVVNpejg4T1FQaUxmZlR2Rk9idk9RLVV4cmtB?oc=5",
         "image": "",
         "publishedAt": "2026-08-21T07:00:00.000Z"
+      },
+      {
+        "title": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto - Blog Joinnus",
+        "summary": "Latin Pet Show 2026 presenta su edición “Comics”: el universo pet y la cultura geek se unen este agosto &nbsp;&nbsp; Blog Joinnus",
+        "source": "Blog Joinnus",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQempKSjE1ZEJaSUlkTkxKb2ZEb01WelVBMUZpdUMxM1FSR3VlUlZZalFqUnZJMnhWcFc5UUdoZVFMOG1TbWpzc1BqTFUwbTl6MEhWR2NpSW95RmhRQ2tFSFM2NXZsQjFNUXVsY2k5dS1HRUlzU2pJMEN2SGMtSXlBOFhCbVBSVExUWGxFWVV1dTJCbFdtY0Npdmk4UUlFUkxXQi1QRlFCdC1VWG9jR2hxS2xfbGRGb0tGMGl3MzFrNkdvYjVp?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-19T07:00:00.000Z"
       }
     ]
   },
