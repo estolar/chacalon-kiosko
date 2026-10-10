@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T17:50:20.331Z",
+  "generatedAt": "2026-10-10T21:39:22.826Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,20 +24,28 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
+        "title": "Senadores de Renovación Popular a favor de llevar a Iber Maraví a Comisión de Ética por incidentes en Comisión de Constitución",
+        "summary": "Senadores de Renovación Popular, incluyendo a Francisco Calisto, protagonista de los incidentes en la Comisión de Constitución, se mostraron a favor de que Iber Maraví afronte un proceso en la Comisión de Ética. Esto por su actitud durante los hechos que ocurrieron este sábado 10 de octubre durante el debate del pedido",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/senadores-de-renovacion-popular-a-favor-de-llevar-a-iber-maravi-a-comision-de-etica-por-incidentes-en-comision-de-constitucion-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/UAIMRZW7E5GOBKSDNQMFTY6PCI.jpeg?auth=e41cfb24a62a82cfa10388840c9313f4c71ed0a3f028a5dc8b5ebf9b1648bb98&smart=true&width=1180&height=788",
+        "publishedAt": "2026-10-10T21:34:20.000Z"
+      },
+      {
+        "title": "Resultados ONPE al 92.869% de las Elecciones Regionales y Municipales 2026: revisa aquí el conteo oficial",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/elecciones/resultados-onpe-en-vivo-sigue-el-conteo-oficial-de-las-elecciones-regionales-y-municipales-2026-lbposting-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/DQVEN76WDZG47ISFYVOOZ6HZSA.jpg?auth=d85ffee93545cab7bf3cf214b2a09ac13eae75e1d7eda36ac5b798593b623aee&smart=true&width=1200&height=675",
+        "publishedAt": "2026-10-10T21:27:53.000Z"
+      },
+      {
         "title": "La dispersión del voto creció en las últimas elecciones municipales en Lima Metropolitana: ¿Cuántos distritos y qué zonas apoyaron a los alcaldes ganadores?",
         "summary": "El voto en Lima Metropolitana se ha fragmentado con el paso de los años. En las últimas elecciones municipales, celebradas en el 2022, Rafael López Aliaga, de Renovación Popular, se convirtió en alcalde de la capital con poco más de un cuarto de los votos válidos (26,3%), la cifra más baja desde el 2006.",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/ecdata/elecciones-2026-la-dispersion-del-voto-crecio-en-las-ultimas-elecciones-municipales-en-lima-metropolitana-cuantos-distritos-y-que-zonas-apoyaron-a-los-alcaldes-ganadores-rafael-lopez-aliaga-carlos-bruce-francis-allison-onpe-jne-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/QOOJFCDYQJGHXNXBZ6TZP3I27Q.jpg?auth=242e8b6ee7cb83ce4e935e033284dc16b20c9f7538e812f1dc5f965a276fd713&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-10T17:20:40.000Z"
-      },
-      {
-        "title": "Elecciones municipales 2026: Casi mil candidatos limeños cambiaron de camiseta política",
-        "summary": "Poner tu bajada aquí",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/elecciones-municipales-2026-casi-mil-candidatos-limenos-cambiaron-de-camiseta-politica-rafael-lopez-aliaga-carlos-bruces-francis-allison-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/MEVF7KANNJBXPJBZ6TFZIK7SDM.jpg?auth=b31ed9a2520d470199d73bb052125f9d2e17d14cdb08ebbbd66cc4906ce2bc98&smart=true&width=1200&height=628",
-        "publishedAt": "2026-10-10T17:20:17.000Z"
+        "publishedAt": "2026-10-10T21:20:00.000Z"
       },
       {
         "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
@@ -45,31 +53,15 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/ecdata/en-16-anos-fuerza-popular-solo-ha-ganado-3-gobiernos-regionales-y-no-ha-colocado-un-solo-alcalde-en-lima-metropolitana-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/BXR7EWSJTZENDC5LNBMVD5TD3Y.jpg?auth=0748dd41adc436d0e769c8bb1082b94633e944477d573a7a73e3297d65d94d1c&smart=true&width=1800&height=1199",
-        "publishedAt": "2026-10-10T17:18:32.000Z"
+        "publishedAt": "2026-10-10T21:18:00.000Z"
       },
       {
-        "title": "Carlos Mesía estima que debate de facultades legislativas llegará al pleno del Senado el lunes 19 de octubre",
-        "summary": "El presidente de la Comisión de Constitución del Senado, Carlos Mesía, estimó que el dictamen sobre facultades legislativas llegará al pleno de la cámara alta el lunes 19 de octubre. La autoridad parlamentaria brindó este anuncio antes de reanudar la sesión del grupo de trabajo.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/carlos-mesia-estima-que-debate-de-facultades-legislativas-llegara-al-pleno-del-senado-el-lunes-19-de-octubre-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/A76CIE2DRVGJRP7Q5MND3TY22E.jpg?auth=12e00de6092118d0e1c8cc78dd60789daa4387ef5e4cea951b67ab96ac6c9b12&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-10-10T16:36:48.000Z"
-      },
-      {
-        "title": "Los bastiones que dieron la espalda a Juntos por el Perú en las ERM",
+        "title": "Los bastiones que dieron la espalda a Juntos por el Perú en las elecciones regionales: ¿los motivos de la derrota?",
         "summary": "Juntos por el Perú, el partido de Roberto Sánchez, no lograría conquistar ningún gobierno regional ni alguna de las 36 alcaldías provinciales en las que presentó candidatos, pese al respaldo obtenido en las elecciones presidenciales de 2026. Su presencia se limitaría a algunos municipios distritales, en medio del retro",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/juntos-por-el-peru-roberto-sanchez-pierde-bastiones-en-las-elecciones-regionales-y-municipales-2026-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/4QY4TBHZKFBRXAZX77HW6VR4RU.jpg?auth=4de47c505422988fe4e59da48ff50af7ec81967e2d161eb529581353402075d7&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-10T15:57:00.000Z"
-      },
-      {
-        "title": "Giannina, la impasible, una crónica de Fernando Vivas sobre la presidenta de la Comisión de Constitución de Diputados",
-        "summary": "La presidenta de la Comisión de Constitución, Giannina Avendaño, de Juntos Por el Perú, sacó de quicio al fujimorismo con su impasible rechazo a aprobar las facultades.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/giannina-la-impasible-cronica-fernando-vivas-presidenta-de-la-comision-de-constitucion-de-diputados-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/JEG74J2YJZAAFNSTCBNVSDBXFE.jpg?auth=1265644bbd74a667a4d9ad61d37d1b6e6c75b293f976c907e8484d954f33e2de&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-10T15:56:00.000Z"
+        "publishedAt": "2026-10-10T20:44:02.000Z"
       },
       {
         "title": "Gobierno pide facultades en inteligencia y declarar “hostiles” a bandas criminales: ¿qué otras medidas solicitó incorporar?",
@@ -77,10 +69,42 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/gobierno-pide-facultades-en-inteligencia-y-declarar-hostiles-a-bandas-criminales-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/6D6XAKALAJE6TAIIPSMBWXCOAU.jpg?auth=a5780d170aaea6e22ee3b2955fa7f03773d228aedaebba06276486a833362718&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-10T15:56:00.000Z"
+        "publishedAt": "2026-10-10T20:40:26.000Z"
+      },
+      {
+        "title": "Giannina, la impasible, una crónica de Fernando Vivas sobre la presidenta de la Comisión de Constitución de Diputados",
+        "summary": "La presidenta de la Comisión de Constitución, Giannina Avendaño, de Juntos Por el Perú, sacó de quicio al fujimorismo con su impasible rechazo a aprobar las facultades.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/giannina-la-impasible-cronica-fernando-vivas-presidenta-de-la-comision-de-constitucion-de-diputados-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/JEG74J2YJZAAFNSTCBNVSDBXFE.jpg?auth=1265644bbd74a667a4d9ad61d37d1b6e6c75b293f976c907e8484d954f33e2de&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-10T20:40:05.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Grupo Inca busca terrenos para restaurantes fuera de Arequipa, pero IGV frena su inversión",
+        "summary": "El Grupo Inca, holding empresarial arequipeño, busca llevar sus restaurantes a Lima, pero el IGV diferenciado frena sus planes.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/grupo-inca-restaurantes-frenan-expansion-a-lima-por-igv-y-colca-lodge-alista-inversion-noticia/",
+        "image": "https://gestion.pe/resizer/v2/DSL6FJCGRVCDDF6SC7C5G7ZODU.jpg?auth=e0ec86347f13c05c74f2284b7573fa7a109c9f2c19d0f220907d7ad13fad5ec8&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-10T21:19:58.000Z"
+      },
+      {
+        "title": "Carretera Central: MTC ya coordina con el MEF recursos para iniciar túnel Pariachi",
+        "summary": "El ministro de Transportes recordó, justamente, que un hito importante del inicio de la Carretera Central es el túnel Pariachi.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/carretera-central-mtc-ya-coordina-con-el-mef-recursos-para-iniciar-tunel-pariachi-noticia/",
+        "image": "https://gestion.pe/resizer/v2/BFKMLVRRZFE7XP7DVRJUS7OSG4.jpeg?auth=a442a4de52be5245b9eb9bf9d27d09cec00706e0ccd218ede55ee01c9d9231da&smart=true&width=1126&height=714",
+        "publishedAt": "2026-10-10T19:29:31.000Z"
+      },
+      {
+        "title": "China Keda proyecta invertir hasta US$ 300 millones en Perú: ¿cuál es el futuro de su planta de vidrio?",
+        "summary": "Keda Perú ya puso en marcha su primera línea de producción de vidrio flotado en Cañete, con una inversión de cerca de US$150 millones. La compañía prevé elevar su producción hasta 600 toneladas diarias y evalúa una segunda fase por otros US$150 millones, además de una tercera etapa enfocada en productos de mayor valor ",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/china-keda-apunta-a-us-300-millones-en-peru-que-viene-tras-su-primera-planta-de-vidrio-noticia/",
+        "image": "https://gestion.pe/resizer/v2/LU22VPRYJZHWZL43ZRPSM6XAHU.jpg?auth=1bcb3fc42bf24be5b8b50dd2e54607a990efee9b123573a85d97b227cd6a8b8c&smart=true&width=1600&height=1200",
+        "publishedAt": "2026-10-10T17:51:35.000Z"
+      },
       {
         "title": "Tendencias en el registro de asistencia: del reloj biométrico hasta sistemas vía WhatsApp",
         "summary": "Los tiempos cambian y también las formas de registrar la jornada laboral. El tradicional reloj biométrico ya no es la única alternativa. Ahora, el celular empieza a ganar espacio como una herramienta para reportar los ingresos y salidas de los trabajadores, incluso a través de WhatsApp.",
@@ -114,36 +138,12 @@
         "publishedAt": "2026-10-10T13:40:35.000Z"
       },
       {
-        "title": "Carretera Central: MTC ya coordina con el MEF recursos para iniciar túnel Pariachi",
-        "summary": "El ministro de Transportes recordó, justamente, que un hito importante del inicio de la Carretera Central es el túnel Pariachi.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/carretera-central-mtc-ya-coordina-con-el-mef-recursos-para-iniciar-tunel-pariachi-noticia/",
-        "image": "https://gestion.pe/resizer/v2/BFKMLVRRZFE7XP7DVRJUS7OSG4.jpeg?auth=a442a4de52be5245b9eb9bf9d27d09cec00706e0ccd218ede55ee01c9d9231da&smart=true&width=1126&height=714",
-        "publishedAt": "2026-10-10T13:18:07.000Z"
-      },
-      {
         "title": "Vistony invierte US$ 15 millones en Ancón y alista ingreso a nuevos mercados de Centroamérica",
         "summary": "Entre el alza del petróleo y El Niño, Vistony sostiene su plan: más capacidad en Ancón y la meta de liderar los lubricantes al 2030.",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/vistony-acelera-la-inversion-en-su-planta-de-ancon-y-pone-la-mira-en-nuevos-mercados-al-2030-noticia/",
         "image": "https://gestion.pe/resizer/v2/A2G2BBBVONABZLXFHOZJJNM6ZU.jpg?auth=26f6127464e0e4fabb788537196813d08560b9a54403f26a2983d75fbd0337c9&smart=true&width=1312&height=826",
         "publishedAt": "2026-10-10T12:00:00.000Z"
-      },
-      {
-        "title": "Grupo Inca busca terrenos para restaurantes fuera de Arequipa, pero IGV frena su inversión",
-        "summary": "El Grupo Inca, holding empresarial arequipeño, busca llevar sus restaurantes a Lima, pero el IGV diferenciado frena sus planes.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/grupo-inca-restaurantes-frenan-expansion-a-lima-por-igv-y-colca-lodge-alista-inversion-noticia/",
-        "image": "https://gestion.pe/resizer/v2/DSL6FJCGRVCDDF6SC7C5G7ZODU.jpg?auth=e0ec86347f13c05c74f2284b7573fa7a109c9f2c19d0f220907d7ad13fad5ec8&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-10T11:00:00.000Z"
-      },
-      {
-        "title": "Fénix espera hasta triplicar su capacidad en Perú y evalúa su cartera de proyectos",
-        "summary": "Fénix Power busca duplicar o triplicar su capacidad instalada en Perú, pero no define inversiones para 2027. Conoce qué pasa con sus proyectos renovables.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/fenix-busca-triplicar-su-capacidad-en-peru-y-evalua-nuevos-proyectos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/2NP3NLV3KJFERORF4B7EJGBJ24.jpeg?auth=1625735c8f280ec861827006fd5b975f6f7296d1feb41edff4edd31cfd23d4fd&smart=true&width=600&height=330",
-        "publishedAt": "2026-10-10T10:45:00.000Z"
       }
     ],
     "sociedad": [
@@ -478,6 +478,14 @@
     ],
     "farandula": [
       {
+        "title": "¡BTS ya está en Perú! Grupo de K-pop arribó para dar sus tres esperados conciertos en el Estadio San Marcos - Trome.com",
+        "summary": "¡BTS ya está en Perú! Grupo de K-pop arribó para dar sus tres esperados conciertos en el Estadio San Marcos &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNmx0Rnc5SWVnVTJKRTVIZmlrcHlaSEJhaDhGcDdxODduSEtDR2Fla2tIZHYyaExOejNKcHdQd2FXbHRRVlFoZlAxN0VGTHpVSWRyMkdkYjhmallqUEg1WmxDa19jNzRwbFhDSHJES0RlU0Q1U0xyRjBTRWZ5SmUzdXVjX1I2Z2NqUGlPMFo3N1VLbDlKUU82M2tmZDQ0c2dWM2xqajdDSmdzMDZNM0tWT3huMUNQNXZFeE1sVm91MmJWZ0V6ZGozNzRkd01CM3gyQ3Rsek5fTUx3TGY1WTFWbW9xMzEwamh10gH8AUFVX3lxTE9lM05WNjM2a2tXRzRLdUJKR3pOMmdxM1NNYUFsRFpWSWEzcjlOZjdyUk4xamNrZjA2TmtDU2NaZHByWDA0dVJ3aWRObFNEOTdCREF0emh1b0tpR2RWOUpyMGR1ZHpwN2RtQXZ5VHl4dEJlazBZUWd5WFhYUDAzOXFPTnloOUdTYi1HTEcwbTVLY3ZFOHZpaUlua3pweWRqRkVPU2VWY1NhTUduVm1zRVlucmhHRDFJRHNSUWRZMkc1UFB0dnhZTEk1STh3SHJ1ZzRHcVhrYXpmWk5KYzlWNWtJcmhqcjZqM0xJTDVmR2ZoblJSQThfRWpOSndZaA?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-06T03:21:52.000Z"
+      },
+      {
         "title": "Robbie Williams vuelve a Perú y confirma concierto: Cuándo, dónde, precio de entradas y su mensaje - Trome.com",
         "summary": "Robbie Williams vuelve a Perú y confirma concierto: Cuándo, dónde, precio de entradas y su mensaje &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
@@ -530,14 +538,6 @@
         "summary": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; Facebook",
         "source": "Facebook",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdFRtVHlGS2ZUeUplTE1XU09ickJVSlBqR0Z3VGR1cjlrTG5NQlNuOFc5Si1OVXVLclh2T3Z1VEhKV1luN09INHpaRHp6U1Z1a2dRWWVjT1NzcG1pSnN2SVJGTnBvMzhzSXFlWnVFVXhKVmZtSUF1Z19rN1Z4U1BqNU02Qjd2dWRnWnZXemlkZlZHeVMxckFPT3pLeTNUek5uVkZOZUM5ZVVGMXFISG1GUEYxTXB2TW1PaUI1QkJsMFFOQ2g3TF9pOXVBdV9UVk95ZGN2M04tNDlLNFFhc2h0UHAzWU9QaC1mOW1Nb1B0U1RGTEs5Y204ZQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-05T07:00:00.000Z"
-      },
-      {
-        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
-        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
-        "source": "Diario Correo",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       }
