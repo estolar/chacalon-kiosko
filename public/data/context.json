@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T00:01:03.673Z",
+  "generatedAt": "2026-10-10T05:47:09.443Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,44 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "ONPE resultados al 92.843% de las Elecciones Regionales y Municipales 2026: revisa aquí el conteo oficial",
+        "title": "Gobierno pide facultades en inteligencia y declarar “hostiles” a bandas criminales: ¿qué otras medidas solicitó incorporar?",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno-pide-facultades-en-inteligencia-y-declarar-hostiles-a-bandas-criminales-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/6D6XAKALAJE6TAIIPSMBWXCOAU.jpg?auth=a5780d170aaea6e22ee3b2955fa7f03773d228aedaebba06276486a833362718&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-10T05:01:00.000Z"
+      },
+      {
+        "title": "ONPE resultados al 92.862% de las Elecciones Regionales y Municipales 2026: revisa aquí el conteo oficial",
         "summary": "",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/elecciones/resultados-onpe-en-vivo-sigue-el-conteo-oficial-de-las-elecciones-regionales-y-municipales-2026-lbposting-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/OHH5IEENHZDM5JXPWYNEX5SD2A.jpeg?auth=d6d46b3bb987be83d50c20eb8c8736a6157f3ab5c038f04d0ec791d31e5c1b23&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-09T22:44:20.000Z"
+        "image": "https://elcomercio.pe/resizer/v2/5IUZACYMLBADRPJZIBPYAXYNYI.jpeg?auth=387b6dec72937b3e22c9438fd0e758f9b72c727359ef976be110e0701ba0a3f7&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-10T03:51:18.000Z"
+      },
+      {
+        "title": "JNJ: Solo un candidato pasa a la siguiente etapa del concurso para nuevo jefe de la ONPE",
+        "summary": "La Junta Nacional de Justicia declaró apto a Carlos Martín Eulalio Loyola Escajadillo como único postulante que superó la evaluación de conocimientos del concurso para jefe de la ONPE.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/actualidad/jnj-solo-un-candidato-pasa-a-la-siguiente-etapa-del-concurso-para-nuevo-jefe-de-la-onpe-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/RED2LCPPS5CJVJ4SRXBMYSKLCI.jpg?auth=a79f60136788bfff585371883fcebe35aef9b3ce4701de7f389f736f91e9b5ec&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-10T01:14:17.000Z"
+      },
+      {
+        "title": "La dispersión del voto creció en las últimas elecciones municipales en Lima Metropolitana: ¿Cuántos distritos y qué zonas apoyaron a los alcaldes ganadores?",
+        "summary": "El voto en Lima Metropolitana se ha fragmentado con el paso de los años. En las últimas elecciones municipales, celebradas en el 2022, Rafael López Aliaga, de Renovación Popular, se convirtió en alcalde de la capital con poco más de un cuarto de los votos válidos (26,3%), la cifra más baja desde el 2006.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/ecdata/elecciones-2026-la-dispersion-del-voto-crecio-en-las-ultimas-elecciones-municipales-en-lima-metropolitana-cuantos-distritos-y-que-zonas-apoyaron-a-los-alcaldes-ganadores-rafael-lopez-aliaga-carlos-bruce-francis-allison-onpe-jne-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/QOOJFCDYQJGHXNXBZ6TZP3I27Q.jpg?auth=242e8b6ee7cb83ce4e935e033284dc16b20c9f7538e812f1dc5f965a276fd713&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-10T00:54:00.000Z"
+      },
+      {
+        "title": "Elecciones municipales 2026: Casi mil candidatos limeños cambiaron de camiseta política",
+        "summary": "Poner tu bajada aquí",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/ecdata/elecciones-municipales-2026-casi-mil-candidatos-limenos-cambiaron-de-camiseta-politica-rafael-lopez-aliaga-carlos-bruces-francis-allison-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/MEVF7KANNJBXPJBZ6TFZIK7SDM.jpg?auth=b31ed9a2520d470199d73bb052125f9d2e17d14cdb08ebbbd66cc4906ce2bc98&smart=true&width=1200&height=628",
+        "publishedAt": "2026-10-10T00:53:00.000Z"
       },
       {
         "title": "ONPE envía actas observadas de Lima Metropolitana a jurados electorales especiales para completar cómputo de votos",
@@ -40,110 +72,78 @@
         "publishedAt": "2026-10-09T21:59:13.000Z"
       },
       {
-        "title": "La dispersión del voto creció en las últimas elecciones municipales en Lima Metropolitana: ¿Cuántos distritos y qué zonas apoyaron a los alcaldes ganadores?",
-        "summary": "El voto en Lima Metropolitana se ha fragmentado con el paso de los años. En las últimas elecciones municipales, celebradas en el 2022, Rafael López Aliaga, de Renovación Popular, se convirtió en alcalde de la capital con poco más de un cuarto de los votos válidos (26,3%), la cifra más baja desde el 2006.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/elecciones-2026-la-dispersion-del-voto-crecio-en-las-ultimas-elecciones-municipales-en-lima-metropolitana-cuantos-distritos-y-que-zonas-apoyaron-a-los-alcaldes-ganadores-rafael-lopez-aliaga-carlos-bruce-francis-allison-onpe-jne-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/QOOJFCDYQJGHXNXBZ6TZP3I27Q.jpg?auth=242e8b6ee7cb83ce4e935e033284dc16b20c9f7538e812f1dc5f965a276fd713&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-09T21:54:34.000Z"
-      },
-      {
-        "title": "Elecciones municipales 2026: Casi mil candidatos limeños cambiaron de camiseta política",
-        "summary": "Poner tu bajada aquí",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/elecciones-municipales-2026-casi-mil-candidatos-limenos-cambiaron-de-camiseta-politica-rafael-lopez-aliaga-carlos-bruces-francis-allison-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/MEVF7KANNJBXPJBZ6TFZIK7SDM.jpg?auth=b31ed9a2520d470199d73bb052125f9d2e17d14cdb08ebbbd66cc4906ce2bc98&smart=true&width=1200&height=628",
-        "publishedAt": "2026-10-09T21:53:42.000Z"
-      },
-      {
         "title": "Luis Galarreta sobre facultades: “Las que no nos otorguen serán proyectos de ley o decretos de urgencia”",
         "summary": "El presidente del Consejo de Ministros, Luis Galarreta, afirmó que el Poder Ejecutivo continuará su labor con proyectos de ley o decretos si el Congreso restringe las facultades legislativas solicitadas. El jefe del Gabinete dijo esto ante la prensa luego de exponer ante la Comisión de Constitución del Senado.",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/congreso/luis-galarreta-sobre-facultades-las-que-no-nos-otorguen-seran-proyectos-de-ley-o-decretos-de-urgencia-apuesplan-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/PGYWIOAJRNHYXHJHJJIU4LPHDU.jpg?auth=5a6c7b2e33f83c20b84d9904b83ee7cb511141ccfbbf8d71469d29d935db61ad&smart=true&width=1172&height=782",
         "publishedAt": "2026-10-09T21:39:13.000Z"
-      },
-      {
-        "title": "¿Qué dijo el JNE sobre la fecha en la que se pronunciarán sobre reelección de alcaldes como primeros regidores?",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/elecciones/que-dijo-el-jne-sobre-la-fecha-en-la-que-se-pronunciaran-sobre-reeleccion-de-alcaldes-como-primeros-regidores-apuesplan-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/UNHIF465ABHM3D5ZILXLRLI77M.jpg?auth=51f633f36aba69943f020144395e3526c59ad5ccf319421cdcf29536af0217c1&smart=true&width=1058&height=614",
-        "publishedAt": "2026-10-09T21:00:28.000Z"
-      },
-      {
-        "title": "Comisión de Constitución del Senado inicia debate sobre facultades legislativas al Gobierno",
-        "summary": "La Comisión de Constitución, Reglamento y Relaciones Exteriores del Senado inicia este viernes el debate del pedido de facultades legislativas del Gobierno. Con ese objetivo, convocó al primer ministro, Luis Galarreta, y a otros miembros de su gabinete para que expongan su posición frente al dictamen del Pleno de la Cá",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/facultades-senado-en-vivo-comision-de-constitucion-convoca-a-siete-ministros-para-exponer-su-posicion-frente-a-pedido-del-gobierno-y-dictamen-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/3G6KOYOBOBBABJSETNEMPVKXQI.jpeg?auth=74499acd29f67cfd0ed009593f0aa211c013a0472a9f5261ffc4e5af939ea350&smart=true&width=1280&height=853",
-        "publishedAt": "2026-10-09T19:59:39.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Pérdidas tributarias durante pandemia vuelven a debate: se usarían para “reducir” pago del IR",
+        "summary": "Una propuesta busca ampliar hasta diez años el plazo para compensar pérdidas tributarias generadas durante la pandemia. ¿Qué pasaría con las pérdidas de 2020?",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/perdidas-tributarias-durante-pandemia-vuelven-a-debate-proyecto-de-ley-plantea-que-se-usen-para-reducir-pago-del-impuesto-a-la-renta-en-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/DWKTHLLZZJFT3HXJ4ZS55MTXKY.jpg?auth=a08d5b997452653a61e60124c21c50664261f5511952953ea843e2a4ee5e8cf6&smart=true&width=1200&height=927",
+        "publishedAt": "2026-10-10T04:43:52.000Z"
+      },
+      {
+        "title": "Carteles en locales comerciales: ¿qué puede realmente regular la municipalidad?",
+        "summary": "¿Pueden multarte por colocar publicidad en la fachada de tu negocio? Conoce cuándo necesitas autorización y qué límites tiene la municipalidad.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/carteles-en-locales-comerciales-que-puede-realmente-regular-la-municipalidad-noticia/",
+        "image": "https://gestion.pe/resizer/v2/KJLK34J73BE6FJDH7TBTLPDZ7Q.png?auth=1ec466b90ad8af39c5abb17aefe2beff763e0cbcc373aad31655781a7389d50c&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-10-10T03:48:26.000Z"
+      },
+      {
+        "title": "La estrategia de Bigbox para multiplicar ocasiones de consumo: ¿adiós al regalo estacional?",
+        "summary": "Bigbox crece cerca de 35% en Perú en 2026 y apunta a cerrar el año con una expansión del 45%, impulsada por el negocio corporativo (75% de sus ventas) y experiencias gastronómicas. La firma amplía precios, suma ocasiones de compra y prepara una nueva línea de negocio enfocada en fidelización.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/la-apuesta-de-bigbox-en-peru-por-comprar-mas-veces-los-regalos-ya-no-solo-por-fechas-noticia/",
+        "image": "https://gestion.pe/resizer/v2/FSNQM2OPZZDWJH4OW2R4ZZBYFQ.jpeg?auth=f999079ce3811cdf376b3e42ac30cc32b215e10107c6c728c06f85f072117712&smart=true&width=1090&height=728",
+        "publishedAt": "2026-10-10T02:31:54.000Z"
+      },
+      {
+        "title": "Grupo Lar deja megaproyectos por fases: así será su nueva apuesta inmobiliaria en Lima al 2027",
+        "summary": "Grupo Lar iniciará en noviembre tres obras en La Victoria y el Centro de Lima, con una inversión de S/180 millones, tras un primer semestre de ventas frenadas por las elecciones. Además, dejará los megaproyectos por fases y apostará por desarrollos más cortos.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/grupo-lar-busca-terrenos-en-san-isidro-lince-y-jesus-maria-invertira-s60-mlls-en-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CSSQ6TXAW5GPLAHI54WBVFVX6Y.jpg?auth=ca7f28cbb2641abccb11c6eb02328d7946326afaeee83652f89de1eabb7c3673&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-10T02:31:51.000Z"
+      },
+      {
+        "title": "Cobre y oro: Panoro va por zona más rica en Cotabambas y apunta a prefactibilidad en 2027",
+        "summary": "Panoro Minerals firmó un acuerdo con la comunidad de Cochapata para perforar el tajo norte de Cotabambas, en Apurímac. La minera prevé tener su estudio de prefactibilidad a fines de 2027.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/panoro-perforara-10000-metros-en-cotabambas-tras-acuerdo-comunal-lo-que-viene-al-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/OYZOMVNMIZDK3P66WQNY5SDK4Q.jpg?auth=e14e561057661a2811568d781cf8cee6d640258a87d361f751f91f5fcdf2253d&smart=true&width=1200&height=780",
+        "publishedAt": "2026-10-10T02:31:30.000Z"
+      },
+      {
+        "title": "Carretera Central: MTC ya coordina con el MEF recursos para iniciar túnel Pariachi",
+        "summary": "",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/carretera-central-mtc-ya-coordina-con-el-mef-recursos-para-iniciar-tunel-pariachi-noticia/",
+        "image": "https://gestion.pe/resizer/v2/BFKMLVRRZFE7XP7DVRJUS7OSG4.jpeg?auth=a442a4de52be5245b9eb9bf9d27d09cec00706e0ccd218ede55ee01c9d9231da&smart=true&width=1126&height=714",
+        "publishedAt": "2026-10-10T02:27:05.000Z"
+      },
+      {
+        "title": "China Keda proyecta invertir hasta US$ 300 millones en Perú: ¿cuál es el futuro de su planta de vidrio?",
+        "summary": "Keda Perú ya puso en marcha su primera línea de producción de vidrio flotado en Cañete, con una inversión de cerca de US$150 millones. La compañía prevé elevar su producción hasta 600 toneladas diarias y evalúa una segunda fase por otros US$150 millones, además de una tercera etapa enfocada en productos de mayor valor ",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/china-keda-apunta-a-us-300-millones-en-peru-que-viene-tras-su-primera-planta-de-vidrio-noticia/",
+        "image": "https://gestion.pe/resizer/v2/LU22VPRYJZHWZL43ZRPSM6XAHU.jpg?auth=1bcb3fc42bf24be5b8b50dd2e54607a990efee9b123573a85d97b227cd6a8b8c&smart=true&width=1600&height=1200",
+        "publishedAt": "2026-10-10T01:45:48.000Z"
+      },
       {
         "title": "MTC alista propuesta para reducir “de manera considerable” la TUUA de conexión internacional",
         "summary": "Vale decir que actualmente la tarifa es de US$ 10.05 por pasajero (sin IGV), pero, recientemente, LAP puso sobre la mesa la opción de que podría reducirla a US$ 6.40.",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/mtc-alista-propuesta-para-reducirla-de-manera-considerable-la-tuua-de-conexion-internacional-del-aeropuerto-jorge-chavez-noticia/",
         "image": "https://gestion.pe/resizer/v2/IZLFZA5NOVDTPFANXUO25QVLUM.png?auth=5034cf646a9a79e678f2bcc7982625efb297a7524486c6b2d8c0d5160449ddf8&smart=true&width=1400&height=800",
-        "publishedAt": "2026-10-09T23:11:39.000Z"
-      },
-      {
-        "title": "Tendencias en el registro de asistencia: del reloj biométrico hasta sistemas vía WhatsApp",
-        "summary": "Los tiempos cambian y también las formas de registrar la jornada laboral. El tradicional reloj biométrico ya no es la única alternativa. Ahora, el celular empieza a ganar espacio como una herramienta para reportar los ingresos y salidas de los trabajadores, incluso a través de WhatsApp.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/tendencias-en-el-registro-de-asistencia-del-reloj-biometrico-hasta-sistemas-via-whatsapp-noticia/",
-        "image": "https://gestion.pe/resizer/v2/MNCRYPHRMRHMDB6BX7M6AD7LAY.jpg?auth=bda9778185081b8bd7fe61ca950465e545045606948930a67e3f1da1aa886a94&smart=true&width=6000&height=4000",
-        "publishedAt": "2026-10-09T23:04:00.000Z"
-      },
-      {
-        "title": "Fenómeno El Niño: tarifas eléctricas no se verán afectadas, asegura ministro Shinno",
-        "summary": "El ministro de Energía y Minas, Guillermo Shinno, sostuvo hoy que el fenómeno El Niño (FEN) no generará afectación en las tarifas eléctricas y que se dictarán las medidas de contingencia y seguridad para reponer con rapidez el servicio de energía si fuera el caso.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/fenomeno-el-nino-tarifas-electricas-no-se-veran-afectadas-asegura-ministro-shinno-noticia/",
-        "image": "https://gestion.pe/resizer/v2/SNXJXEI5FVAIPNRLCDD2UHXJAQ.jpg?auth=a6d06bb1934969dd387c9cfd8930e63810da9c2960d81904bae6450f1ae5afd0&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-09T22:36:41.000Z"
-      },
-      {
-        "title": "IIMP sobre ataque en Pataz: “La minería ilegal es crimen organizado”",
-        "summary": "El Instituto de Ingenieros de Minas del Perú (IIMP) condenó el ataque criminal contra trabajadores mineros en Pataz y advirtió que la violencia vinculada a la minería ilegal no puede normalizarse en el país.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/instituto-de-ingenieros-de-minas-sobre-ataque-en-pataz-la-mineria-ilegal-es-crimen-organizado-noticia/",
-        "image": "https://gestion.pe/resizer/v2/HF7SHE7F7NGMBKDNX7APY5AYPM.jpg?auth=c265faf961b586d6750a61ec7664b7fbe279d7269074afc7fd00926d29ef077c&smart=true&width=4000&height=2252",
-        "publishedAt": "2026-10-09T22:34:27.000Z"
-      },
-      {
-        "title": "Exploración minera: Minem quiere mejorar “primer paso” en trámite de proyectos, ¿cómo?",
-        "summary": "La semana pasada el Minem publicó un proyecto de D.S. que crea la Declaración Jurada Ambiental para Exploración Minera (DJA), como una herramienta complementaria a la aprobación de estas iniciativas, claves para el desarrollo minero del Perú.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/exploracion-minera-en-peru-minem-quiere-mejorar-primer-paso-en-tramite-de-proyectos-como-noticia/",
-        "image": "https://gestion.pe/resizer/v2/4P3UX5P5UJG2DJZRVVIBW54FQU.png?auth=81f6920530b523cc7a9ce6d41eb29bc0582fb201b6e34d6d3a670dbfd09eaa3f&smart=true&width=1672&height=941",
-        "publishedAt": "2026-10-09T22:15:24.000Z"
-      },
-      {
-        "title": "Papa de Perú: 125,000 hectáreas peligran por plaga que anula hasta el 100% de cosecha",
-        "summary": "La plaga de la punta morada amenaza al cultivo de papa en Perú. Estas son las características, el insecto que la transmite y el impacto en los productores.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/papa-de-peru-y-su-produccion-125000-hectareas-peligran-por-plaga-que-anula-hasta-el-100-de-cosecha-noticia/",
-        "image": "https://gestion.pe/resizer/v2/NIEW6ZPA2BAMPBEIPBJATVUGCM.png?auth=c0df01d519120dfbdae088102535f1ffcd191680547eb1c4b0622bc4d77875ca&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-10-09T22:13:20.000Z"
-      },
-      {
-        "title": "Exportaciones peruanas alcanzarían otro récord: MEF apuesta por US$ 100 mil millones en 2026",
-        "summary": "El Perú proyecta alcanzar exportaciones por US$ 100 mil millones al cierre del año, destacó el ministro de Economía y Finanzas (MEF), Elmer Cuba.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/exportaciones-peruanas-alcanzarian-otro-record-mef-apuesta-por-us-100-mil-millones-en-2026-noticia/",
-        "image": "https://gestion.pe/resizer/v2/WVGG53PODZDE3AHWV2FMKSIAMQ.jpeg?auth=0a4b3678ce613f74a0d2d89fc468900f595b82dff39c355abd15f950a5e1be92&smart=true&width=914&height=601",
-        "publishedAt": "2026-10-09T22:13:16.000Z"
-      },
-      {
-        "title": "¿Gobierno sin “objetivo concreto” para infraestructura en Perú? SNCI marca 3 urgencias",
-        "summary": "Gestión conversó con César Candela, presidente de SNCI, que organizará la semana que viene la edición 2026 de la Feria Internacional de Infraestructura & Construcción - Infracon Perú. ¿Cómo analiza la coyuntura?",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/infraestructura-en-peru-gremio-del-sector-snci-pide-a-gobierno-de-keiko-fujimori-objetivo-concreto-y-marca-3-urgencias-noticia/",
-        "image": "https://gestion.pe/resizer/v2/PHTVG2URTBDQZCKZU3JICHCOJE.jpg?auth=96e13368a7a3a97d72e9a2e6f5016dceb4f2d258177632dec727d26c4afc1dde&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-09T21:13:00.000Z"
+        "publishedAt": "2026-10-10T01:11:00.000Z"
       }
     ],
     "sociedad": [
