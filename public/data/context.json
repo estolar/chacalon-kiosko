@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T05:47:09.443Z",
+  "generatedAt": "2026-10-10T12:26:13.971Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,28 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
+        "title": "Los bastiones que dieron la espalda a Juntos por el Perú",
+        "summary": "Juntos por el Perú, el partido de Roberto Sánchez, no lograría conquistar ningún gobierno regional ni alguna de las 36 alcaldías provinciales en las que presentó candidatos, pese al respaldo obtenido en las elecciones presidenciales de 2026. Su presencia se limitaría a algunos municipios distritales, en medio del retro",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/juntos-por-el-peru-roberto-sanchez-pierde-bastiones-en-las-elecciones-regionales-y-municipales-2026-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/4QY4TBHZKFBRXAZX77HW6VR4RU.jpg?auth=4de47c505422988fe4e59da48ff50af7ec81967e2d161eb529581353402075d7&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-10T11:49:15.000Z"
+      },
+      {
         "title": "Gobierno pide facultades en inteligencia y declarar “hostiles” a bandas criminales: ¿qué otras medidas solicitó incorporar?",
         "summary": "",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/gobierno-pide-facultades-en-inteligencia-y-declarar-hostiles-a-bandas-criminales-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/6D6XAKALAJE6TAIIPSMBWXCOAU.jpg?auth=a5780d170aaea6e22ee3b2955fa7f03773d228aedaebba06276486a833362718&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-10T05:01:00.000Z"
+        "publishedAt": "2026-10-10T11:45:46.000Z"
+      },
+      {
+        "title": "Giannina, la impasible, una crónica de Fernando Vivas sobre la presidenta de la Comisión de Constitución de Diputados",
+        "summary": "La presidenta de la Comisión de Constitución, Giannina Avendaño, de Juntos Por el Perú, sacó de quicio al fujimorismo con su impasible rechazo a aprobar las facultades.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/giannina-la-impasible-cronica-fernando-vivas-presidenta-de-la-comision-de-constitucion-de-diputados-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/JEG74J2YJZAAFNSTCBNVSDBXFE.jpg?auth=1265644bbd74a667a4d9ad61d37d1b6e6c75b293f976c907e8484d954f33e2de&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-10T11:45:03.000Z"
       },
       {
         "title": "ONPE resultados al 92.862% de las Elecciones Regionales y Municipales 2026: revisa aquí el conteo oficial",
@@ -62,25 +78,57 @@
         "url": "https://elcomercio.pe/ecdata/elecciones-municipales-2026-casi-mil-candidatos-limenos-cambiaron-de-camiseta-politica-rafael-lopez-aliaga-carlos-bruces-francis-allison-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/MEVF7KANNJBXPJBZ6TFZIK7SDM.jpg?auth=b31ed9a2520d470199d73bb052125f9d2e17d14cdb08ebbbd66cc4906ce2bc98&smart=true&width=1200&height=628",
         "publishedAt": "2026-10-10T00:53:00.000Z"
-      },
-      {
-        "title": "ONPE envía actas observadas de Lima Metropolitana a jurados electorales especiales para completar cómputo de votos",
-        "summary": "La Oficina Nacional de Procesos Electorales (ONPE) remitió a los jurados electorales especiales (JEE) las actas observadas de Lima Metropolitana para su resolución en primera instancia. La entidad electoral remitió los documentos que quedaron fuera del cómputo preliminar por inconsistencias numéricas o pedidos formales",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/elecciones/onpe-envia-actas-observadas-de-lima-metropolitana-a-jurados-electorales-especiales-para-completar-computo-de-votos-apuesplan-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/PMF6UCFNKNHN5CY5O4MRRD5CSE.jpg?auth=ff31d671f379a73e0baea445a076bbed7b1497b897fcec466a6f2b99c3ae3707&smart=true&width=1200&height=898",
-        "publishedAt": "2026-10-09T21:59:13.000Z"
-      },
-      {
-        "title": "Luis Galarreta sobre facultades: “Las que no nos otorguen serán proyectos de ley o decretos de urgencia”",
-        "summary": "El presidente del Consejo de Ministros, Luis Galarreta, afirmó que el Poder Ejecutivo continuará su labor con proyectos de ley o decretos si el Congreso restringe las facultades legislativas solicitadas. El jefe del Gabinete dijo esto ante la prensa luego de exponer ante la Comisión de Constitución del Senado.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/luis-galarreta-sobre-facultades-las-que-no-nos-otorguen-seran-proyectos-de-ley-o-decretos-de-urgencia-apuesplan-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/PGYWIOAJRNHYXHJHJJIU4LPHDU.jpg?auth=5a6c7b2e33f83c20b84d9904b83ee7cb511141ccfbbf8d71469d29d935db61ad&smart=true&width=1172&height=782",
-        "publishedAt": "2026-10-09T21:39:13.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Vistony invierte US$ 15 millones en Ancón y alista ingreso a nuevos mercados de Centroamérica",
+        "summary": "Entre el alza del petróleo y El Niño, Vistony sostiene su plan: más capacidad en Ancón y la meta de liderar los lubricantes al 2030.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/vistony-acelera-la-inversion-en-su-planta-de-ancon-y-pone-la-mira-en-nuevos-mercados-al-2030-noticia/",
+        "image": "https://gestion.pe/resizer/v2/A2G2BBBVONABZLXFHOZJJNM6ZU.jpg?auth=26f6127464e0e4fabb788537196813d08560b9a54403f26a2983d75fbd0337c9&smart=true&width=1312&height=826",
+        "publishedAt": "2026-10-10T12:00:00.000Z"
+      },
+      {
+        "title": "Grupo Inca busca terrenos para restaurantes fuera de Arequipa, pero IGV frena su inversión",
+        "summary": "El Grupo Inca, holding empresarial arequipeño, busca llevar sus restaurantes a Lima, pero el IGV diferenciado frena sus planes.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/grupo-inca-restaurantes-frenan-expansion-a-lima-por-igv-y-colca-lodge-alista-inversion-noticia/",
+        "image": "https://gestion.pe/resizer/v2/DSL6FJCGRVCDDF6SC7C5G7ZODU.jpg?auth=e0ec86347f13c05c74f2284b7573fa7a109c9f2c19d0f220907d7ad13fad5ec8&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-10T11:00:00.000Z"
+      },
+      {
+        "title": "Fénix espera hasta triplicar su capacidad en Perú y evalúa su cartera de proyectos",
+        "summary": "Fénix Power busca duplicar o triplicar su capacidad instalada en Perú, pero no define inversiones para 2027. Conoce qué pasa con sus proyectos renovables.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/fenix-busca-triplicar-su-capacidad-en-peru-y-evalua-nuevos-proyectos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/2NP3NLV3KJFERORF4B7EJGBJ24.jpeg?auth=1625735c8f280ec861827006fd5b975f6f7296d1feb41edff4edd31cfd23d4fd&smart=true&width=600&height=330",
+        "publishedAt": "2026-10-10T10:45:00.000Z"
+      },
+      {
+        "title": "Nissan: Perú ya es su tercer mercado en la región y prepara nueve novedades: ¿más eléctricos?",
+        "summary": "Nissan prepara casi nueve novedades para el mercado peruano en los próximos 12 meses, en un contexto de crecimiento de la demanda y con la electrificación como uno de los ejes de renovación de su portafolio.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/peru-ya-es-el-tercer-mercado-de-nissan-en-la-region-que-traera-la-marca-noticia/",
+        "image": "https://gestion.pe/resizer/v2/MFIVHFIQCVD5PDBRETHSGWORRQ.jpg?auth=66d8db37518cdb88daaf96c4e5133b8e77de5627b592521c4b032d17bf69d661&smart=true&width=1200&height=821",
+        "publishedAt": "2026-10-10T10:30:00.000Z"
+      },
+      {
+        "title": "Azúcar sube y El Niño amenaza con encarecerlo más: ¿qué tan expuesta está la oferta?",
+        "summary": "El azúcar se convirtió en uno de los alimentos que más se encarecieron en el Perú durante septiembre y expertos apuntan a próximas alzas debido a El Niño.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/azucar-sube-y-el-nino-amenaza-con-encarecerlo-mas-que-tan-expuesta-esta-la-oferta-noticia/",
+        "image": "https://gestion.pe/resizer/v2/G7PM6NEY6RGIFE2VRMOWSFEZQQ.jpg?auth=c15e3134f7e1af556e7487ce12b15d245130c6fbb3985a7da7c9b33bdda7cc6c&smart=true&width=1200&height=750",
+        "publishedAt": "2026-10-10T10:29:00.000Z"
+      },
+      {
+        "title": "Boticas Perú, rival de Inkafarma y Mifarma, reordena su red y gira a provincias ¿cuál es su plan?",
+        "summary": "Boticas Perú cierra locales en el país y apuesta por provincias, con la meta de superar los 500 locales en 2027. Además, prepara el ingreso de su marca propia a supermercados y duplicó su stock ante El Niño.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/boticas-peru-duplica-su-stock-por-el-nino-y-reorden-su-red-con-foco-en-provincias-noticia/",
+        "image": "https://gestion.pe/resizer/v2/QT2CIKGVERAZHNLFZ7OBNB76UI.jpeg?auth=be45a06703ab62f2e701f1f15c33342073cca9681f5eb1ba6dac77b86ea5e6b2&smart=true&width=823&height=585",
+        "publishedAt": "2026-10-10T10:03:00.000Z"
+      },
       {
         "title": "Pérdidas tributarias durante pandemia vuelven a debate: se usarían para “reducir” pago del IR",
         "summary": "Una propuesta busca ampliar hasta diez años el plazo para compensar pérdidas tributarias generadas durante la pandemia. ¿Qué pasaría con las pérdidas de 2020?",
@@ -96,65 +144,9 @@
         "url": "https://gestion.pe/economia/carteles-en-locales-comerciales-que-puede-realmente-regular-la-municipalidad-noticia/",
         "image": "https://gestion.pe/resizer/v2/KJLK34J73BE6FJDH7TBTLPDZ7Q.png?auth=1ec466b90ad8af39c5abb17aefe2beff763e0cbcc373aad31655781a7389d50c&smart=true&width=1536&height=1024",
         "publishedAt": "2026-10-10T03:48:26.000Z"
-      },
-      {
-        "title": "La estrategia de Bigbox para multiplicar ocasiones de consumo: ¿adiós al regalo estacional?",
-        "summary": "Bigbox crece cerca de 35% en Perú en 2026 y apunta a cerrar el año con una expansión del 45%, impulsada por el negocio corporativo (75% de sus ventas) y experiencias gastronómicas. La firma amplía precios, suma ocasiones de compra y prepara una nueva línea de negocio enfocada en fidelización.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/la-apuesta-de-bigbox-en-peru-por-comprar-mas-veces-los-regalos-ya-no-solo-por-fechas-noticia/",
-        "image": "https://gestion.pe/resizer/v2/FSNQM2OPZZDWJH4OW2R4ZZBYFQ.jpeg?auth=f999079ce3811cdf376b3e42ac30cc32b215e10107c6c728c06f85f072117712&smart=true&width=1090&height=728",
-        "publishedAt": "2026-10-10T02:31:54.000Z"
-      },
-      {
-        "title": "Grupo Lar deja megaproyectos por fases: así será su nueva apuesta inmobiliaria en Lima al 2027",
-        "summary": "Grupo Lar iniciará en noviembre tres obras en La Victoria y el Centro de Lima, con una inversión de S/180 millones, tras un primer semestre de ventas frenadas por las elecciones. Además, dejará los megaproyectos por fases y apostará por desarrollos más cortos.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/grupo-lar-busca-terrenos-en-san-isidro-lince-y-jesus-maria-invertira-s60-mlls-en-2027-noticia/",
-        "image": "https://gestion.pe/resizer/v2/CSSQ6TXAW5GPLAHI54WBVFVX6Y.jpg?auth=ca7f28cbb2641abccb11c6eb02328d7946326afaeee83652f89de1eabb7c3673&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-10T02:31:51.000Z"
-      },
-      {
-        "title": "Cobre y oro: Panoro va por zona más rica en Cotabambas y apunta a prefactibilidad en 2027",
-        "summary": "Panoro Minerals firmó un acuerdo con la comunidad de Cochapata para perforar el tajo norte de Cotabambas, en Apurímac. La minera prevé tener su estudio de prefactibilidad a fines de 2027.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/panoro-perforara-10000-metros-en-cotabambas-tras-acuerdo-comunal-lo-que-viene-al-2027-noticia/",
-        "image": "https://gestion.pe/resizer/v2/OYZOMVNMIZDK3P66WQNY5SDK4Q.jpg?auth=e14e561057661a2811568d781cf8cee6d640258a87d361f751f91f5fcdf2253d&smart=true&width=1200&height=780",
-        "publishedAt": "2026-10-10T02:31:30.000Z"
-      },
-      {
-        "title": "Carretera Central: MTC ya coordina con el MEF recursos para iniciar túnel Pariachi",
-        "summary": "",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/carretera-central-mtc-ya-coordina-con-el-mef-recursos-para-iniciar-tunel-pariachi-noticia/",
-        "image": "https://gestion.pe/resizer/v2/BFKMLVRRZFE7XP7DVRJUS7OSG4.jpeg?auth=a442a4de52be5245b9eb9bf9d27d09cec00706e0ccd218ede55ee01c9d9231da&smart=true&width=1126&height=714",
-        "publishedAt": "2026-10-10T02:27:05.000Z"
-      },
-      {
-        "title": "China Keda proyecta invertir hasta US$ 300 millones en Perú: ¿cuál es el futuro de su planta de vidrio?",
-        "summary": "Keda Perú ya puso en marcha su primera línea de producción de vidrio flotado en Cañete, con una inversión de cerca de US$150 millones. La compañía prevé elevar su producción hasta 600 toneladas diarias y evalúa una segunda fase por otros US$150 millones, además de una tercera etapa enfocada en productos de mayor valor ",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/china-keda-apunta-a-us-300-millones-en-peru-que-viene-tras-su-primera-planta-de-vidrio-noticia/",
-        "image": "https://gestion.pe/resizer/v2/LU22VPRYJZHWZL43ZRPSM6XAHU.jpg?auth=1bcb3fc42bf24be5b8b50dd2e54607a990efee9b123573a85d97b227cd6a8b8c&smart=true&width=1600&height=1200",
-        "publishedAt": "2026-10-10T01:45:48.000Z"
-      },
-      {
-        "title": "MTC alista propuesta para reducir “de manera considerable” la TUUA de conexión internacional",
-        "summary": "Vale decir que actualmente la tarifa es de US$ 10.05 por pasajero (sin IGV), pero, recientemente, LAP puso sobre la mesa la opción de que podría reducirla a US$ 6.40.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/mtc-alista-propuesta-para-reducirla-de-manera-considerable-la-tuua-de-conexion-internacional-del-aeropuerto-jorge-chavez-noticia/",
-        "image": "https://gestion.pe/resizer/v2/IZLFZA5NOVDTPFANXUO25QVLUM.png?auth=5034cf646a9a79e678f2bcc7982625efb297a7524486c6b2d8c0d5160449ddf8&smart=true&width=1400&height=800",
-        "publishedAt": "2026-10-10T01:11:00.000Z"
       }
     ],
     "sociedad": [
-      {
-        "title": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? - Infobae",
-        "summary": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2x4NndiTVA4bUlRNXVjbHlRQVhsZmF6ZVlNTDQ3eFlzLUd1YTFGTDllMFlSOG1kdlllNFFDM3ltcThJbXJVbXJlVWV1amhzV05CTzZTcmxkczg3TlY1bW5JLUVWWVR0UktOWVp0dTcwR3hHSkxBWVFnbC1iTmJ2MlQzcjRJZjBfQkZ5RS12Qm9hVWdQNU4ydExiU2huSDIxVmlYb3BlUjVOZkg3YXhHTVBBQzV2WU1SRmlGbzZnN3l1Y0tPTDdCU0w0S2FxNDVFeGUtcnA4OXk2RlJ3NlVrX9IB-wFBVV95cUxQb3hrbHpSeVhpankxdWdERnpPNlpPOV9MS2ZPZjFKd0w0el9xS25jSld0akJJdkhiZ3BoNFVTME5fOHplb3ZnczdGNXVhSkkwSGhSSk9MZEM0N3lseVc3dVZvUjZRX3dnMUVKTGY4UlhaSk9sZERUMnkwSXo1MkpNdVd0T3ZoeVMxMTN2QVo1S2w1X3Vpa25GU1lEMmRTTHB0T2Y3dm9GUTZVMk9jNmR0UFdiNUVuYldpNEp6dFZoTFpIZVh3Yi1pQy0tWldDYldXbjlFWXlPM2JQVHVxTFZNOTczNzRaT1lHSDFoWUdySWtuR2lsM1FSRzVhOA?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-04T23:27:00.000Z"
-      },
       {
         "title": "Perú tiene espacio para elevar su competitividad - El Peruano",
         "summary": "Perú tiene espacio para elevar su competitividad &nbsp;&nbsp; El Peruano",
@@ -162,6 +154,14 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPemVNbG80NXl2WFFVVFNUVUtSTWllaGx4bkZVaUcxT01xRmFtTm9tV0lKd2E5ZVQwLWpEb24yWjZtQnZ6NlZ2dFhNQkJRR3dPYnR1MVRVSTlVX0puTjBzMDJRVE5HYnNEaTM1dzVpQVphZFo2WEp1b3pSOEQ1c2x5d1lYWDFKU2M3eTh5Ug?oc=5",
         "image": "",
         "publishedAt": "2026-09-29T07:00:00.000Z"
+      },
+      {
+        "title": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? - Infobae",
+        "summary": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2x4NndiTVA4bUlRNXVjbHlRQVhsZmF6ZVlNTDQ3eFlzLUd1YTFGTDllMFlSOG1kdlllNFFDM3ltcThJbXJVbXJlVWV1amhzV05CTzZTcmxkczg3TlY1bW5JLUVWWVR0UktOWVp0dTcwR3hHSkxBWVFnbC1iTmJ2MlQzcjRJZjBfQkZ5RS12Qm9hVWdQNU4ydExiU2huSDIxVmlYb3BlUjVOZkg3YXhHTVBBQzV2WU1SRmlGbzZnN3l1Y0tPTDdCU0w0S2FxNDVFeGUtcnA4OXk2RlJ3NlVrX9IB-wFBVV95cUxQb3hrbHpSeVhpankxdWdERnpPNlpPOV9MS2ZPZjFKd0w0el9xS25jSld0akJJdkhiZ3BoNFVTME5fOHplb3ZnczdGNXVhSkkwSGhSSk9MZEM0N3lseVc3dVZvUjZRX3dnMUVKTGY4UlhaSk9sZERUMnkwSXo1MkpNdVd0T3ZoeVMxMTN2QVo1S2w1X3Vpa25GU1lEMmRTTHB0T2Y3dm9GUTZVMk9jNmR0UFdiNUVuYldpNEp6dFZoTFpIZVh3Yi1pQy0tWldDYldXbjlFWXlPM2JQVHVxTFZNOTczNzRaT1lHSDFoWUdySWtuR2lsM1FSRzVhOA?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
         "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
@@ -230,6 +230,14 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
+        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - Business Empresarial",
+        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbEpWQWwzZjk1OHUyMXNjdl9taXN3YWtlVkc3WUd6ak1GNTNKTjMwWHhEd0Y4TTF6WU90LTMwTjZSNDVFN29ReWFGQkVvTmtya3pNMG9kSEdjYzRvdnZsTG16M3E1bzZhV09OVVBwWUNCU2ZJVHpfdnlvV1VmVXVLU2FmR3FYeVlIRnl1MVRvWmJlSWU4eVZ4Rkxxd2tZUHBKcWp6Q3BRUkZRMVRkbDRiVWNOdTFNSU5yNjByS2FobmlLdGRrOVJHdU9YOW9VYjZBLTYySHM1cDNhR1pDR0JZ?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-24T07:00:00.000Z"
+      },
+      {
         "title": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión - Infobae",
         "summary": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -268,14 +276,6 @@
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFBQRGNLOWxaMy1mT2RjU0RCNGw4TVNrRmlfX25qei10R09YTWltOXdNX1Fya1g0NEk5S2hhUnQzZmstM3o4bFNJS3QwbkFvUGs3dmx6TktrMDZZSEkzTkJVZ0ZEdmFaa0NUZk9pT1prS1gzNjVDeVMyUzdjWXlNQTNtSThQcnRyRjJ6YlZEWkw1WUF0aTZsQXRTWnJtRnYyX1Z0NDBCYm1PWGlOekJpeGlBS29qLUkzbTBFa1FKMmJnNDNrNDAxeWZn0gHkAUFVX3lxTFB5cjR0aTlsOEl3ZkZEeV9XR05Vb0RHblRDVTRpMFdTZTllMWdRaEpoSlZpSm5JOUZCbzBXc2pic0NMdG9OOGcwQk5fNWF2Wk9FYVp5RnU1WVg4ckU4eTJfT3FEOTN6cURTMjU2d1U5NUJmZ0ZseC1YdllmbEpuZTlnbThqeF9vSlVTb0cxSkZtZFBpTmcwakkzemxzcGJucU9JbFFic2hqNU9jSGVHWkdUTVNuNFFIb0x3S2pTNFBzRXptSF91N0EtSElUMi1kVldUYl9ocmVQLVNSZDY0V25QNV9iRA?oc=5",
         "image": "",
         "publishedAt": "2026-06-18T07:00:00.000Z"
-      },
-      {
-        "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
-        "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-17T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -483,7 +483,7 @@
         "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeDhpck52bTJ5alVWN3U0V1dsVHppWHFQRV82NmlxVTJhZG5WRVgya1RLWGtPSTBXVWpPbGY3ZFNVdksyZ0VvSG14OHFkWmlWc3MwaW9KTVREdFVDZUdYdmNJSXZ0cmY5NkRGZk5KTGVGWlVQdGt2VVY5dk80RG1qcTRYdlBHdFNhbFdaYS1NRmhYQVl6OUt3V3daUzdabWNXcDY2R1pkS3l6OUJTS3ZMZlBrRHBKZ0tKU1Ewc2R0N3FoS1VVU1FTYklVTVZTMW42VjVEbW9MSzE0T1ZJdDctMUVMcVpEUDVHU0NZcUdXSWVKc1g5eUHSAYoCQVVfeXFMTzIyU2Rna3hnazdJN3NlTmc2SU8yM0h6ZV8xaDgtbUx1UWc1aXE5SVA3VXJZVktVQ0ZGckhHREQ0OHVKR0szRnVyM2RpcmhQbGFESzRpcEZiVXM4M2d1b0daeWVmcmNReWpOUFhlcDR6MzR4NTkwOXJDdEdQRmk1NEx4UG91YVJKVGU2YWlDX0FCbUJoUnlUc242cjJkR3d2bk5zbEg3ZU1wd0RlQTJMT3ZZNE5kSlppV09PMWVoRk5pQm9sXzlVbFBKLWRCUWY4SW9FUk5oUGQxcW1ZTHhiUTA4WjdPalo2R201LU91NHA2bm9oR0IyanY4SHFvUFl3b2RpYS1fQVlWTmc?oc=5",
         "image": "",
-        "publishedAt": "2026-10-03T01:42:10.000Z"
+        "publishedAt": "2026-10-02T07:00:00.000Z"
       },
       {
         "title": "Conciertos elevan las expectativas del entretenimiento en Perú: sector crecería hasta 8% en 2026 - La República",
@@ -563,7 +563,7 @@
         "title": "Agenda cultural en Lima del 3 al 10 de setiembre: Ricky Martin, La Tarumba, ‘La Profesora’ y la apertura del nuevo Paradox Park - Infobae",
         "summary": "Agenda cultural en Lima del 3 al 10 de setiembre: Ricky Martin, La Tarumba, ‘La Profesora’ y la apertura del nuevo Paradox Park &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeV9mZEM2dHUwYktIZ1MxTTNvWWtnMmRNTFl0S2VzcUlydTRWQUVlcGJXU3BKZzFDMlk5alR2QklJYXNjMnpmYmd0Sm9nZFIzUG5JazZ3ZU5Lbi05MGlOdVcwNy1ZUEpZUU5mWTdrTHVMSGdVTjctNkdSUmlYaDZ3V25VTzJoa19GU0ZXaFplOGhJT0M3YngwdG9wSkI1U1VCMllpdDdhYkFqVjN4QzhVX0luNUhRRkdxS0c1YTRlSGRKOFVRSW92cjhUdUQyRkpBRFJ2LUhRYlpORlYydzk1QlRrcDRXRHZ0ZEVjWU5BZVgydHRJ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeV9mZEM2dHUwYktIZ1MxTTNvWWtnMmRNTFl0S2VzcUlydTRWQUVlcGJXU3BKZzFDMlk5alR2QklJYXNjMnpmYmd0Sm9nZFIzUG5JazZ3ZU5Lbi05MGlOdVcwNy1ZUEpZUU5mWTdrTHVMSGdVTjctNkdSUmlYaDZ3V25VTzJoa19GU0ZXaFplOGhJT0M3YngwdG9wSkI1U1VCMllpdDdhYkFqVjN4QzhVX0luNUhRRkdxS0c1YTRlSGRKOFVRSW92cjhUdUQyRkpBRFJ2LUhRYlpORlYydzk1QlRrcDRXRHZ0ZEVjWU5BZVgydHRJ0gGPAkFVX3lxTE40dDg2UjlEN0VJczBwVUF2Uk5wVUlORV9oNUg2MEx6QXFFQzM2bHJydGNLZHQ3UTNRc0N4dmExdGZ1NndSOTVKdnlsTHdZQVFzOThBRUhwbGp5c1BYZDg0a3dWYzN4Ty03M0tIRXVZaHBHS0xZU241ODI2UGFKZTZXcGlTSi1CMXhOTmlCNUkyRTBlN1RjMXJhTGMxOThVR0ZhQ3cxY0RwRmFBN0FMVkRFUHEwcVUyaUVkM1I4aGJIMUJvTG5GMjJhN0Vudk9MVjU3QWN1QXNXZUNtOVlIUWNFVkxEMzMxUjZibU5obkhpalA3cERvWFh6bTMzTDhkbnBZdFRNNkh1OHVSQ2tEbEk?oc=5",
         "image": "",
         "publishedAt": "2026-09-05T07:00:00.000Z"
       },
