@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T12:26:13.971Z",
+  "generatedAt": "2026-10-10T17:50:20.331Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,52 +24,12 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Los bastiones que dieron la espalda a Juntos por el Perú",
-        "summary": "Juntos por el Perú, el partido de Roberto Sánchez, no lograría conquistar ningún gobierno regional ni alguna de las 36 alcaldías provinciales en las que presentó candidatos, pese al respaldo obtenido en las elecciones presidenciales de 2026. Su presencia se limitaría a algunos municipios distritales, en medio del retro",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/juntos-por-el-peru-roberto-sanchez-pierde-bastiones-en-las-elecciones-regionales-y-municipales-2026-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/4QY4TBHZKFBRXAZX77HW6VR4RU.jpg?auth=4de47c505422988fe4e59da48ff50af7ec81967e2d161eb529581353402075d7&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-10T11:49:15.000Z"
-      },
-      {
-        "title": "Gobierno pide facultades en inteligencia y declarar “hostiles” a bandas criminales: ¿qué otras medidas solicitó incorporar?",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno-pide-facultades-en-inteligencia-y-declarar-hostiles-a-bandas-criminales-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/6D6XAKALAJE6TAIIPSMBWXCOAU.jpg?auth=a5780d170aaea6e22ee3b2955fa7f03773d228aedaebba06276486a833362718&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-10T11:45:46.000Z"
-      },
-      {
-        "title": "Giannina, la impasible, una crónica de Fernando Vivas sobre la presidenta de la Comisión de Constitución de Diputados",
-        "summary": "La presidenta de la Comisión de Constitución, Giannina Avendaño, de Juntos Por el Perú, sacó de quicio al fujimorismo con su impasible rechazo a aprobar las facultades.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/giannina-la-impasible-cronica-fernando-vivas-presidenta-de-la-comision-de-constitucion-de-diputados-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/JEG74J2YJZAAFNSTCBNVSDBXFE.jpg?auth=1265644bbd74a667a4d9ad61d37d1b6e6c75b293f976c907e8484d954f33e2de&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-10T11:45:03.000Z"
-      },
-      {
-        "title": "ONPE resultados al 92.862% de las Elecciones Regionales y Municipales 2026: revisa aquí el conteo oficial",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/elecciones/resultados-onpe-en-vivo-sigue-el-conteo-oficial-de-las-elecciones-regionales-y-municipales-2026-lbposting-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/5IUZACYMLBADRPJZIBPYAXYNYI.jpeg?auth=387b6dec72937b3e22c9438fd0e758f9b72c727359ef976be110e0701ba0a3f7&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-10T03:51:18.000Z"
-      },
-      {
-        "title": "JNJ: Solo un candidato pasa a la siguiente etapa del concurso para nuevo jefe de la ONPE",
-        "summary": "La Junta Nacional de Justicia declaró apto a Carlos Martín Eulalio Loyola Escajadillo como único postulante que superó la evaluación de conocimientos del concurso para jefe de la ONPE.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/actualidad/jnj-solo-un-candidato-pasa-a-la-siguiente-etapa-del-concurso-para-nuevo-jefe-de-la-onpe-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/RED2LCPPS5CJVJ4SRXBMYSKLCI.jpg?auth=a79f60136788bfff585371883fcebe35aef9b3ce4701de7f389f736f91e9b5ec&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-10T01:14:17.000Z"
-      },
-      {
         "title": "La dispersión del voto creció en las últimas elecciones municipales en Lima Metropolitana: ¿Cuántos distritos y qué zonas apoyaron a los alcaldes ganadores?",
         "summary": "El voto en Lima Metropolitana se ha fragmentado con el paso de los años. En las últimas elecciones municipales, celebradas en el 2022, Rafael López Aliaga, de Renovación Popular, se convirtió en alcalde de la capital con poco más de un cuarto de los votos válidos (26,3%), la cifra más baja desde el 2006.",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/ecdata/elecciones-2026-la-dispersion-del-voto-crecio-en-las-ultimas-elecciones-municipales-en-lima-metropolitana-cuantos-distritos-y-que-zonas-apoyaron-a-los-alcaldes-ganadores-rafael-lopez-aliaga-carlos-bruce-francis-allison-onpe-jne-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/QOOJFCDYQJGHXNXBZ6TZP3I27Q.jpg?auth=242e8b6ee7cb83ce4e935e033284dc16b20c9f7538e812f1dc5f965a276fd713&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-10T00:54:00.000Z"
+        "publishedAt": "2026-10-10T17:20:40.000Z"
       },
       {
         "title": "Elecciones municipales 2026: Casi mil candidatos limeños cambiaron de camiseta política",
@@ -77,10 +37,90 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/ecdata/elecciones-municipales-2026-casi-mil-candidatos-limenos-cambiaron-de-camiseta-politica-rafael-lopez-aliaga-carlos-bruces-francis-allison-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/MEVF7KANNJBXPJBZ6TFZIK7SDM.jpg?auth=b31ed9a2520d470199d73bb052125f9d2e17d14cdb08ebbbd66cc4906ce2bc98&smart=true&width=1200&height=628",
-        "publishedAt": "2026-10-10T00:53:00.000Z"
+        "publishedAt": "2026-10-10T17:20:17.000Z"
+      },
+      {
+        "title": "Fuerza Popular en las elecciones subnacionales: en 16 años, solo ganó 3 gobiernos regionales y ningún alcalde en Lima",
+        "summary": "Fuerza Popular | Desde que empezó a participar en elecciones subnacionales, el fujimorismo redujo su oferta electoral en más de la mitad.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/ecdata/en-16-anos-fuerza-popular-solo-ha-ganado-3-gobiernos-regionales-y-no-ha-colocado-un-solo-alcalde-en-lima-metropolitana-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/BXR7EWSJTZENDC5LNBMVD5TD3Y.jpg?auth=0748dd41adc436d0e769c8bb1082b94633e944477d573a7a73e3297d65d94d1c&smart=true&width=1800&height=1199",
+        "publishedAt": "2026-10-10T17:18:32.000Z"
+      },
+      {
+        "title": "Carlos Mesía estima que debate de facultades legislativas llegará al pleno del Senado el lunes 19 de octubre",
+        "summary": "El presidente de la Comisión de Constitución del Senado, Carlos Mesía, estimó que el dictamen sobre facultades legislativas llegará al pleno de la cámara alta el lunes 19 de octubre. La autoridad parlamentaria brindó este anuncio antes de reanudar la sesión del grupo de trabajo.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/carlos-mesia-estima-que-debate-de-facultades-legislativas-llegara-al-pleno-del-senado-el-lunes-19-de-octubre-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/A76CIE2DRVGJRP7Q5MND3TY22E.jpg?auth=12e00de6092118d0e1c8cc78dd60789daa4387ef5e4cea951b67ab96ac6c9b12&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-10-10T16:36:48.000Z"
+      },
+      {
+        "title": "Los bastiones que dieron la espalda a Juntos por el Perú en las ERM",
+        "summary": "Juntos por el Perú, el partido de Roberto Sánchez, no lograría conquistar ningún gobierno regional ni alguna de las 36 alcaldías provinciales en las que presentó candidatos, pese al respaldo obtenido en las elecciones presidenciales de 2026. Su presencia se limitaría a algunos municipios distritales, en medio del retro",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/juntos-por-el-peru-roberto-sanchez-pierde-bastiones-en-las-elecciones-regionales-y-municipales-2026-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/4QY4TBHZKFBRXAZX77HW6VR4RU.jpg?auth=4de47c505422988fe4e59da48ff50af7ec81967e2d161eb529581353402075d7&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-10T15:57:00.000Z"
+      },
+      {
+        "title": "Giannina, la impasible, una crónica de Fernando Vivas sobre la presidenta de la Comisión de Constitución de Diputados",
+        "summary": "La presidenta de la Comisión de Constitución, Giannina Avendaño, de Juntos Por el Perú, sacó de quicio al fujimorismo con su impasible rechazo a aprobar las facultades.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/giannina-la-impasible-cronica-fernando-vivas-presidenta-de-la-comision-de-constitucion-de-diputados-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/JEG74J2YJZAAFNSTCBNVSDBXFE.jpg?auth=1265644bbd74a667a4d9ad61d37d1b6e6c75b293f976c907e8484d954f33e2de&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-10T15:56:00.000Z"
+      },
+      {
+        "title": "Gobierno pide facultades en inteligencia y declarar “hostiles” a bandas criminales: ¿qué otras medidas solicitó incorporar?",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno-pide-facultades-en-inteligencia-y-declarar-hostiles-a-bandas-criminales-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/6D6XAKALAJE6TAIIPSMBWXCOAU.jpg?auth=a5780d170aaea6e22ee3b2955fa7f03773d228aedaebba06276486a833362718&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-10T15:56:00.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Tendencias en el registro de asistencia: del reloj biométrico hasta sistemas vía WhatsApp",
+        "summary": "Los tiempos cambian y también las formas de registrar la jornada laboral. El tradicional reloj biométrico ya no es la única alternativa. Ahora, el celular empieza a ganar espacio como una herramienta para reportar los ingresos y salidas de los trabajadores, incluso a través de WhatsApp.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/tendencias-en-el-registro-de-asistencia-del-reloj-biometrico-hasta-sistemas-via-whatsapp-noticia/",
+        "image": "https://gestion.pe/resizer/v2/MNCRYPHRMRHMDB6BX7M6AD7LAY.jpg?auth=bda9778185081b8bd7fe61ca950465e545045606948930a67e3f1da1aa886a94&smart=true&width=6000&height=4000",
+        "publishedAt": "2026-10-10T17:43:46.000Z"
+      },
+      {
+        "title": "Azúcar sube y El Niño amenaza con encarecerlo más: ¿qué tan expuesta está la oferta?",
+        "summary": "El azúcar se convirtió en uno de los alimentos que más se encarecieron en el Perú durante septiembre y expertos apuntan a próximas alzas debido a El Niño.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/azucar-sube-y-el-nino-amenaza-con-encarecerlo-mas-que-tan-expuesta-esta-la-oferta-noticia/",
+        "image": "https://gestion.pe/resizer/v2/G7PM6NEY6RGIFE2VRMOWSFEZQQ.jpg?auth=c15e3134f7e1af556e7487ce12b15d245130c6fbb3985a7da7c9b33bdda7cc6c&smart=true&width=1200&height=750",
+        "publishedAt": "2026-10-10T15:39:00.000Z"
+      },
+      {
+        "title": "Nueva Ley MAPE daría hasta fines de 2028 a 30,000 mineros para completar su formalización",
+        "summary": "Minem prevé presentar el proyecto el 15 de octubre. Plantea crear el Formape, habilitar cuentas en el Banco de la Nación y establecer un régimen permanente para los nuevos operadores.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/nueva-ley-mape-daria-hasta-fines-de-2028-a-30000-mineros-para-completar-su-formalizacion-noticia/",
+        "image": "https://gestion.pe/resizer/v2/NURWIDPXJBFETNCNHSVJCCFLP4.jpg?auth=7cfe01a34cd6b13bd885a6cf39b570270f521c75fd66be922a0b0c1b3ca46d7e&smart=true&width=1800&height=1350",
+        "publishedAt": "2026-10-10T13:46:42.000Z"
+      },
+      {
+        "title": "Yanacocha plantea extender hasta 2027 la explotación minera en dos zonas de Cajamarca",
+        "summary": "La minera presentó ante el Senace una propuesta para modificar el plan de explotación en las zonas Katia y Yanacocha Pinos, en el tajo Yanacocha–Etapa 2. Prevé extraer cerca de 19,7 millones de toneladas de mineral durante 2027, que serán destinadas a dos pilas de lixiviación.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/yanacocha-reconfigurara-plan-de-minado-en-dos-zonas-de-cajamarca-hasta-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/K6UJTUEQMREOLMQIFM6E3LOZ4A.jpg?auth=b16227533bf0b69122892ba30fe23ce5788077c04d186619569baf14fb58c5d0&smart=true&width=760&height=507",
+        "publishedAt": "2026-10-10T13:40:35.000Z"
+      },
+      {
+        "title": "Carretera Central: MTC ya coordina con el MEF recursos para iniciar túnel Pariachi",
+        "summary": "El ministro de Transportes recordó, justamente, que un hito importante del inicio de la Carretera Central es el túnel Pariachi.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/carretera-central-mtc-ya-coordina-con-el-mef-recursos-para-iniciar-tunel-pariachi-noticia/",
+        "image": "https://gestion.pe/resizer/v2/BFKMLVRRZFE7XP7DVRJUS7OSG4.jpeg?auth=a442a4de52be5245b9eb9bf9d27d09cec00706e0ccd218ede55ee01c9d9231da&smart=true&width=1126&height=714",
+        "publishedAt": "2026-10-10T13:18:07.000Z"
+      },
       {
         "title": "Vistony invierte US$ 15 millones en Ancón y alista ingreso a nuevos mercados de Centroamérica",
         "summary": "Entre el alza del petróleo y El Niño, Vistony sostiene su plan: más capacidad en Ancón y la meta de liderar los lubricantes al 2030.",
@@ -104,49 +144,25 @@
         "url": "https://gestion.pe/economia/empresas/fenix-busca-triplicar-su-capacidad-en-peru-y-evalua-nuevos-proyectos-noticia/",
         "image": "https://gestion.pe/resizer/v2/2NP3NLV3KJFERORF4B7EJGBJ24.jpeg?auth=1625735c8f280ec861827006fd5b975f6f7296d1feb41edff4edd31cfd23d4fd&smart=true&width=600&height=330",
         "publishedAt": "2026-10-10T10:45:00.000Z"
-      },
-      {
-        "title": "Nissan: Perú ya es su tercer mercado en la región y prepara nueve novedades: ¿más eléctricos?",
-        "summary": "Nissan prepara casi nueve novedades para el mercado peruano en los próximos 12 meses, en un contexto de crecimiento de la demanda y con la electrificación como uno de los ejes de renovación de su portafolio.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/peru-ya-es-el-tercer-mercado-de-nissan-en-la-region-que-traera-la-marca-noticia/",
-        "image": "https://gestion.pe/resizer/v2/MFIVHFIQCVD5PDBRETHSGWORRQ.jpg?auth=66d8db37518cdb88daaf96c4e5133b8e77de5627b592521c4b032d17bf69d661&smart=true&width=1200&height=821",
-        "publishedAt": "2026-10-10T10:30:00.000Z"
-      },
-      {
-        "title": "Azúcar sube y El Niño amenaza con encarecerlo más: ¿qué tan expuesta está la oferta?",
-        "summary": "El azúcar se convirtió en uno de los alimentos que más se encarecieron en el Perú durante septiembre y expertos apuntan a próximas alzas debido a El Niño.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/azucar-sube-y-el-nino-amenaza-con-encarecerlo-mas-que-tan-expuesta-esta-la-oferta-noticia/",
-        "image": "https://gestion.pe/resizer/v2/G7PM6NEY6RGIFE2VRMOWSFEZQQ.jpg?auth=c15e3134f7e1af556e7487ce12b15d245130c6fbb3985a7da7c9b33bdda7cc6c&smart=true&width=1200&height=750",
-        "publishedAt": "2026-10-10T10:29:00.000Z"
-      },
-      {
-        "title": "Boticas Perú, rival de Inkafarma y Mifarma, reordena su red y gira a provincias ¿cuál es su plan?",
-        "summary": "Boticas Perú cierra locales en el país y apuesta por provincias, con la meta de superar los 500 locales en 2027. Además, prepara el ingreso de su marca propia a supermercados y duplicó su stock ante El Niño.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/boticas-peru-duplica-su-stock-por-el-nino-y-reorden-su-red-con-foco-en-provincias-noticia/",
-        "image": "https://gestion.pe/resizer/v2/QT2CIKGVERAZHNLFZ7OBNB76UI.jpeg?auth=be45a06703ab62f2e701f1f15c33342073cca9681f5eb1ba6dac77b86ea5e6b2&smart=true&width=823&height=585",
-        "publishedAt": "2026-10-10T10:03:00.000Z"
-      },
-      {
-        "title": "Pérdidas tributarias durante pandemia vuelven a debate: se usarían para “reducir” pago del IR",
-        "summary": "Una propuesta busca ampliar hasta diez años el plazo para compensar pérdidas tributarias generadas durante la pandemia. ¿Qué pasaría con las pérdidas de 2020?",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/perdidas-tributarias-durante-pandemia-vuelven-a-debate-proyecto-de-ley-plantea-que-se-usen-para-reducir-pago-del-impuesto-a-la-renta-en-peru-noticia/",
-        "image": "https://gestion.pe/resizer/v2/DWKTHLLZZJFT3HXJ4ZS55MTXKY.jpg?auth=a08d5b997452653a61e60124c21c50664261f5511952953ea843e2a4ee5e8cf6&smart=true&width=1200&height=927",
-        "publishedAt": "2026-10-10T04:43:52.000Z"
-      },
-      {
-        "title": "Carteles en locales comerciales: ¿qué puede realmente regular la municipalidad?",
-        "summary": "¿Pueden multarte por colocar publicidad en la fachada de tu negocio? Conoce cuándo necesitas autorización y qué límites tiene la municipalidad.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/carteles-en-locales-comerciales-que-puede-realmente-regular-la-municipalidad-noticia/",
-        "image": "https://gestion.pe/resizer/v2/KJLK34J73BE6FJDH7TBTLPDZ7Q.png?auth=1ec466b90ad8af39c5abb17aefe2beff763e0cbcc373aad31655781a7389d50c&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-10-10T03:48:26.000Z"
       }
     ],
     "sociedad": [
+      {
+        "title": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN - La República",
+        "summary": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdHlxN3pWUU9DenhObS0temJHTWt6UGoxWThSTEVydk5Sa2U0T0tGZm00VDdEbUJIMnlUQlg4bnR4WEQzME41cnhTUWdYT2VfanpPa3VIS080Q1UycHB6eWtpZEF2ZnM0dDV0bkhmNUtfRzByY202dWt1d2hsWWlrUUdCaGsyZHJNcU1ydWNuOFdPUGcwb2gtSW9TbElROW9nakxmcm03cUFDMEZLT0pXbVpIMlNXdUQ2a0Q2UEw3WkNoVXBjYVc4ZUlFRXRfUVR5alRydkJ1dG5KUkxnQkVEVklGb1RDTWVsMFHSAe8BQVVfeXFMTURTcmlRY1NnMm1abmptUHIwOW1GN2lzc1Z6c29EZFN3bUFUOE50MlQ3MzNSdFhIY2o0X3JveTI2WnRqajNwOEljMU5TblZvbHhZUnMzVk5OaGdNelV6dmp2LWYzQl9ndWNjd0tFWnMyMEIxb2xlMm1nc0s2TEc3SlFrVlIyYTJ2aXl2N2NoZVRNZ1JkcjNhRVJuLWtGeThCQ2hMUUpiYWZfcTZaOEQwcm84TmNwSzlMbGY4dl9ObWNXMVFBbmVpSEdyS05XeG9VLWVGcjNZTDE2Tms1TTVfMWFXWmRrM1l3Tlg1N3JDVmc?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-02T22:57:26.000Z"
+      },
+      {
+        "title": "Trabajadores sociales podrán ejercer en más de 20 campos de intervención según nuevo reglamento - Infobae",
+        "summary": "Trabajadores sociales podrán ejercer en más de 20 campos de intervención según nuevo reglamento &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc3hnVnQwRDBOcWFqanlYajZhSmVHOVNUR0UxM2NlYVFtaU4tU2NtSU5WMHM3d0VZS0VrUVRRTUNPNzY1aXBhWndWZ1h2czJ0X3dmRkRyald3a0VYRktaSE5EVmpDU2R4MFRNTE82bG1QTjVjNVA1NW9CSlhtTHlqWEVNdVZoMUdfMWNQcy1Yc0xZRWNQUzZSQWhxZmFDNmQxTVFVcnpvdmtFdDVxWWRZNFRsSExwaG5val9ZbEptUGJ4by14SldZWm5qMzk4YlUxaHfSAewBQVVfeXFMUGZmVEVhN0NORG5ESURKOWpvS2c1Qnppcm5PaVd5SGFUbWRkQUhjMzBjMURnQzF4Yl9Oa01PVHI1c1k4M3FqRlBXUkdoR2g5d3JWdkp4eXllREJkWnFHY3dDOXVmVzhrTUF0ZjA2T0tJRUFhTERvTTV5aGpMdzdkdEpzMTJ6SWYtTEZXaDJmSkZqZ0h6VkpQY0tib3VlWW9oWXV5RWhmSTRLczhpd25UTWNXeWdaRy1KbzRNLW9uM1JQQ1VQdTVXOVNMZzRZLXF0bDBrVEs1YTUyblBreVJzOWJzM1I4a3JUdXE2Nmg?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-30T07:00:00.000Z"
+      },
       {
         "title": "Perú tiene espacio para elevar su competitividad - El Peruano",
         "summary": "Perú tiene espacio para elevar su competitividad &nbsp;&nbsp; El Peruano",
@@ -194,22 +210,6 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-03T07:00:00.000Z"
-      },
-      {
-        "title": "Ministro Elmer Cuba: presupuesto 2027 prioriza los servicios y calidad de vida de la población - TVPerú",
-        "summary": "Ministro Elmer Cuba: presupuesto 2027 prioriza los servicios y calidad de vida de la población &nbsp;&nbsp; TVPerú",
-        "source": "TVPerú",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWkFuOWxMMWltaDhYUHdWcGZMYW9sSDVlZ1hMYWw0UU0zWjkwR0FqWXZEd1VYTXlCOUpSVndPNXZTelByRGNqbEExRzl1SDNFcDlabEs1ejZUSnNEeHhkdHg4cVNBVXZ5VVdZU1puNjdacXltTWhZbjg5TFc5NDVlalZXMnpTQ1N6V2xMU0JLTWFJcTNmN0ZQOTg3NUtRR3pHSFBIc1VMZ3dWWFkyQjFyVnVtNExKNUtxMWt5cTBMRnpGRDYxbFJJUWxUZUhvakVlWG1F?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-03T07:00:00.000Z"
-      },
-      {
-        "title": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos - Agencia Andina",
-        "summary": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORDg3MFVjQnE2eHFPRWpXV3RHcFUwQ3NzalN5MTBFNFhNV1ZYNVpkRFBRSlh1QmhCUzhCdXRWWE5xRnNHYWhIMzRwMnQ3Vl9CMWZBalFwTzd4eFI1cW9LYmkwS2toT3RpeC1pZC1paFlhOVlxdXdJUUJYQ3dzT1pGU3NLSVhIaUMzdXZ3QThaTGFMbF9SRFYyOWQtZy0yUE1NWFZtX0hNTUM0ZFZlSDZtck53Nmpqc2tYSkpZN0ZBTl9NbVBBMlAw?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-11T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -391,7 +391,7 @@
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZWNoNjl4clE4WTBIWHU1akJlVFJhRDU0Z0QzSGUteTFLdE5DUVptaTlvU0ZZY3l6Y0g0M2JETk9yV2VMWWJVWlJUY0xaU2o0ZERZYjhOOVZ6emx0T3RkYU9OQ19xMnZUVFlWdjY0VUdBUHVSbjdrOEc0cXRlUU9qRDlsQVRrQmJvVW1mbEdZUWZINFIyWWRhYWNBOXc0UFAzMFh0MjZMRVJFRWo0bTJsWTVkODgtR2FTZll4Q3RzSjJjZ3F1TmZKU25FTDU1N1F4V0Q2eWl4R3pOTExselRQQmdYTkpjZEFRQlFGQkJ1MHVOWkpmajhwNV9UdjZWdjlSdkJz?oc=5",
         "image": "",
-        "publishedAt": "2026-10-01T19:41:05.000Z"
+        "publishedAt": "2026-10-01T07:00:00.000Z"
       },
       {
         "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - Diario Ahora",
@@ -534,10 +534,10 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
-        "title": "🔴🔵Descansa en paz: 🕊Fallece Víctor Angobaldo, recordado personaje de la farándula peruana👇 - Facebook",
-        "summary": "🔴🔵Descansa en paz: 🕊Fallece Víctor Angobaldo, recordado personaje de la farándula peruana👇 &nbsp;&nbsp; Facebook",
-        "source": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQLWVGbEUwVG85QTkzaU82bVRlX0lJc3hyd1hzbERpS2lvaWZqTE9idmxvUlZwM3JzV3RtM25EamxVZGY1UnNRNVJxaUNNaTU4VU1abExzUHk3Q3RTYjlFcHpXMnpxVF8ySzZvZVZxTUxDWnRrYWgzX3BVazNTNVd3dTBvamE2S1oyRHdiNDNKNC1wX19FbjZ1VnN1S0xaTGdQVy1OY0cwbzVCX0ZFbjI0aDZYVlNhWUFXVFZzNEJkUWMzNE8xVU1PVzcyWklPLU5RQVRueEVuWElRcWdZekJGNFdJbkVobFMtcHMw?oc=5",
+        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
+        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
+        "source": "Diario Correo",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       }
