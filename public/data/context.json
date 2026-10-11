@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T18:51:35.281Z",
+  "generatedAt": "2026-10-11T22:51:18.788Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,20 +24,20 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
+        "title": "Resultados ONPE al 92.919% de las Elecciones Regionales y Municipales 2026: revisa aquí el conteo oficial",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/elecciones/resultados-onpe-en-vivo-sigue-el-conteo-oficial-de-las-elecciones-regionales-y-municipales-2026-lbposting-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/DQVEN76WDZG47ISFYVOOZ6HZSA.jpg?auth=d85ffee93545cab7bf3cf214b2a09ac13eae75e1d7eda36ac5b798593b623aee&smart=true&width=1200&height=675",
+        "publishedAt": "2026-10-11T21:07:37.000Z"
+      },
+      {
         "title": "Ministro Sheput: “Hay una oposición intransigente que, sin haber hecho análisis, ha negado las facultades”",
         "summary": "El ministro Sheput cuestionó la posición de la oposición frente al pedido de facultades legislativas del Gobierno y consideró que la negativa a otorgarlas se produjo sin un análisis previo.",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/gobierno/ministro-juan-sheput-hay-una-oposicion-intransigente-que-sin-haber-hecho-analisis-ha-negado-las-facultades-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/FZCEIDRRF5CY3OHPNPC53K4AOI.jpg?auth=c7a5624b796db98eaa734564c7a22bf6b8ce18a26ef3e0b200d502d9bd6f021a&smart=true&width=1200&height=800",
         "publishedAt": "2026-10-11T18:23:48.000Z"
-      },
-      {
-        "title": "Resultados ONPE al 92.919% de las Elecciones Regionales y Municipales 2026: revisa aquí el conteo oficial",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/elecciones/resultados-onpe-en-vivo-sigue-el-conteo-oficial-de-las-elecciones-regionales-y-municipales-2026-lbposting-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/DQVEN76WDZG47ISFYVOOZ6HZSA.jpg?auth=d85ffee93545cab7bf3cf214b2a09ac13eae75e1d7eda36ac5b798593b623aee&smart=true&width=1200&height=675",
-        "publishedAt": "2026-10-11T17:20:29.000Z"
       },
       {
         "title": "Keiko Fujimori viajará a El Salvador para reunirse con Bukele: ¿Qué puntos contempla su agenda en ese país?",
@@ -82,60 +82,36 @@
     ],
     "economia": [
       {
-        "title": "Exportaciones peruanas vinculadas a la IA crecen más de 16%: qué productos vendemos al mundo",
-        "summary": "Las exportaciones peruanas vinculadas a la inteligencia artificial crecieron 16.6% en 2025. Conoce qué productos vende Perú y cuáles son sus principales destinos.",
+        "title": "Papa de Perú: 125,000 hectáreas peligran por plaga que anula hasta el 100% de cosecha",
+        "summary": "La plaga de la punta morada amenaza al cultivo de papa en Perú. Estas son las características, el insecto que la transmite y el impacto en los productores.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/exportaciones-de-peru-vinculadas-a-la-inteligencia-artificial-crecieron-166-en-2025-noticia/",
-        "image": "https://gestion.pe/resizer/v2/5DKIBRQI2ZCGJACOUXDTKO2M6M.png?auth=2d4054eceba9913fee978dff3fe5971ddcfa94ae91a810bdf01b67869c17c7f7&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-10-11T18:38:40.000Z"
+        "url": "https://gestion.pe/economia/papa-de-peru-y-su-produccion-125000-hectareas-peligran-por-plaga-que-anula-hasta-el-100-de-cosecha-noticia/",
+        "image": "https://gestion.pe/resizer/v2/NIEW6ZPA2BAMPBEIPBJATVUGCM.png?auth=c0df01d519120dfbdae088102535f1ffcd191680547eb1c4b0622bc4d77875ca&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-10-11T22:44:00.000Z"
       },
       {
-        "title": "Déficit hídrico amenaza a 17 regiones en Perú: Gobierno declara en emergencia 707 distritos",
-        "summary": "Gobierno declara estado de emergencia en 707 distritos de 17 regiones por riesgo de déficit hídrico. Conoce qué zonas están incluidas.",
+        "title": "Fénix espera hasta triplicar su capacidad en Perú y evalúa su cartera de proyectos",
+        "summary": "Fénix Power busca duplicar o triplicar su capacidad instalada en Perú, pero no define inversiones para 2027. Conoce qué pasa con sus proyectos renovables.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/riesgo-de-sequia-amenaza-a-17-regiones-en-peru-gobierno-declara-en-emergencia-707-distritos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/GSMZODP65ZFW3IVNDC3FPQQWRQ.jpg?auth=1852f46d401bc15763b0f2935abbbff5d1e7331e2dedeaa73ba42e369adf5393&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-11T16:48:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/fenix-busca-triplicar-su-capacidad-en-peru-y-evalua-nuevos-proyectos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/2NP3NLV3KJFERORF4B7EJGBJ24.jpeg?auth=1625735c8f280ec861827006fd5b975f6f7296d1feb41edff4edd31cfd23d4fd&smart=true&width=600&height=330",
+        "publishedAt": "2026-10-11T22:30:00.000Z"
       },
       {
-        "title": "Perú cambia las reglas para importar derivados bovinos de Argentina: ¿qué exige ahora?",
-        "summary": "Perú aprobó 15 requisitos sanitarios para importar derivados bovinos desde Argentina. Conoce qué deberán cumplir las empresas importadoras.",
+        "title": "Pérdidas tributarias durante pandemia vuelven a debate: se usarían para “reducir” pago del IR",
+        "summary": "Una propuesta busca ampliar hasta diez años el plazo para compensar pérdidas tributarias generadas durante la pandemia. ¿Qué pasaría con las pérdidas de 2020?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/peru-cambia-las-reglas-para-importar-derivados-bovinos-de-argentina-que-exige-ahora-noticia/",
-        "image": "https://gestion.pe/resizer/v2/FWFXUIU3HRGFBDZD5274KQHPR4.jpg?auth=65df193fde74b5a6071628b9dcf75eb52a27ba16d515278f2ad811adb906445e&smart=true&width=1600&height=1066",
-        "publishedAt": "2026-10-11T15:22:43.000Z"
+        "url": "https://gestion.pe/economia/perdidas-tributarias-durante-pandemia-vuelven-a-debate-proyecto-de-ley-plantea-que-se-usen-para-reducir-pago-del-impuesto-a-la-renta-en-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/DWKTHLLZZJFT3HXJ4ZS55MTXKY.jpg?auth=a08d5b997452653a61e60124c21c50664261f5511952953ea843e2a4ee5e8cf6&smart=true&width=1200&height=927",
+        "publishedAt": "2026-10-11T22:15:00.000Z"
       },
       {
-        "title": "Silver X frena su ritmo en Huancavelica: la apuesta detrás de la caída de su producción",
-        "summary": "Silver X amplía su planta en Huancavelica y su producción se resiente frente al trimestre previo. ¿Cuándo espera recuperar el ritmo y qué metas tiene al 2029?",
+        "title": "Diésel en el centro de las miradas mundiales, ¿Perú debe preocuparse?",
+        "summary": "Para los expertos consultados por Gestión una eventual restricción de las exportaciones de diésel de Estados Unidos implicaría alzas de precios, problemas de abastecimiento y complicaciones para diversas industrias.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/silver-x-acumula-mineral-en-huancavelica-a-la-espera-de-su-planta-ampliada-que-cambia-noticia/",
-        "image": "https://gestion.pe/resizer/v2/WG677XRVYJGSRGRAXTGNO2ISUY.jpg?auth=0aedac7ed3c56764924af360facd91d5b3691b605db1f4c8f3d4e1c5912d2fe1&smart=true&width=1200&height=750",
-        "publishedAt": "2026-10-11T15:10:47.000Z"
-      },
-      {
-        "title": "Grupo Lar alista S/ 60 mlls. con giro a proyectos ‘más cortos’ en 2027: ¿En qué distritos?",
-        "summary": "Grupo Lar iniciará en noviembre tres obras en La Victoria y el Centro de Lima, con una inversión de S/180 millones, tras un primer semestre de ventas frenadas por las elecciones. Además, dejará los megaproyectos por fases y apostará por desarrollos más cortos.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/grupo-lar-busca-terrenos-en-san-isidro-lince-y-jesus-maria-invertira-s60-mlls-en-2027-noticia/",
-        "image": "https://gestion.pe/resizer/v2/IEDOLLNCONA33DMJAUOXARGE6A.jpg?auth=459ab874128d1e8139b98c6b7b9ddb7a666faf7a0e22fc884415f89f2a4217e9&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-11T12:00:00.000Z"
-      },
-      {
-        "title": "Bigbox evalúa segundo punto de venta en Lima y alista nueva línea de negocio en Perú",
-        "summary": "Bigbox crece cerca de 35% en Perú en 2026 y apunta a cerrar el año con una expansión del 45%, impulsada por el negocio corporativo (75% de sus ventas) y experiencias gastronómicas. La firma amplía precios, suma ocasiones de compra y prepara una nueva línea de negocio enfocada en fidelización.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/la-apuesta-de-bigbox-en-peru-por-comprar-mas-veces-los-regalos-ya-no-solo-por-fechas-noticia/",
-        "image": "https://gestion.pe/resizer/v2/FQ5QWBPRC5HQ7EGMJMGQZGZJ3E.jpg?auth=3e833ec27cf71085b4f7acff4267d3c10d776c05766b19d36f542a851a35a452&smart=true&width=1048&height=698",
-        "publishedAt": "2026-10-11T12:00:00.000Z"
-      },
-      {
-        "title": "Cobre en Apurímac: acuerdo comunal abre paso a nueva perforación de Panoro en Cotabambas",
-        "summary": "Panoro Minerals firmó un acuerdo con la comunidad de Cochapata para perforar el tajo norte de Cotabambas, en Apurímac. La minera prevé tener su estudio de prefactibilidad a fines de 2027.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/panoro-perforara-10000-metros-en-cotabambas-tras-acuerdo-comunal-lo-que-viene-al-2027-noticia/",
-        "image": "https://gestion.pe/resizer/v2/JDKVGJEY4JC4HLZECGEIAYJ4IM.jpg?auth=06517d25761c3f733b523751345641b7f91ec148b78d767e0761cbf53c34c31b&smart=true&width=1280&height=720",
-        "publishedAt": "2026-10-11T11:00:00.000Z"
+        "url": "https://gestion.pe/economia/diesel-en-el-centro-de-las-miradas-mundiales-tras-anuncios-de-estados-unidos-peru-debe-preocuparse-noticia/",
+        "image": "https://gestion.pe/resizer/v2/HP7KU6KN3BBDVBWMAKIS4T6IAY.jpg?auth=b6096996a2dfe7358c878054d2648d1cffd38a103151a098b59673f21cc6df1e&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-11T21:22:23.000Z"
       },
       {
         "title": "Jubilación después del despido: ¿qué ocurre si la justicia ordena el regreso del trabajador?",
@@ -143,7 +119,31 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/management-empleo/jubilacion-despues-del-despido-que-ocurre-si-la-justicia-ordena-el-regreso-del-trabajador-noticia/",
         "image": "https://gestion.pe/resizer/v2/6I2DA34NXVAM5JGH6PXK2OQT7M.jpg?auth=3cb954a4c5052eb3134ebc1b18c916e21307f04d0b72e150108377a7e04af7cb&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-11T10:31:00.000Z"
+        "publishedAt": "2026-10-11T21:00:25.000Z"
+      },
+      {
+        "title": "Primera empresa condenada por lavado de activos vuelve a juicio: ¿qué deberá probarse ahora?",
+        "summary": "Alpha Consult, primera empresa condenada bajo la Ley 30424 por lavado de activos, volverá a juicio. ¿Qué deberá probar la Fiscalía para responsabilizarla?",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/primera-empresa-condenada-por-lavado-de-activos-en-peru-vuelve-a-juicio-que-debera-probarse-ahora-noticia/",
+        "image": "https://gestion.pe/resizer/v2/TJEVJRZK4VC3TGS55KXFRZSB2M.png?auth=eb7e04c4d8f53d5723063f6fe42b1fd6c3e81585b7dc41f3e9ad46f126a2f476&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-10-11T21:00:10.000Z"
+      },
+      {
+        "title": "Carteles en locales comerciales: ¿qué puede realmente regular la municipalidad?",
+        "summary": "¿Pueden multarte por colocar publicidad en la fachada de tu negocio? Conoce cuándo necesitas autorización y qué límites tiene la municipalidad.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/carteles-en-locales-comerciales-que-puede-realmente-regular-la-municipalidad-noticia/",
+        "image": "https://gestion.pe/resizer/v2/KJLK34J73BE6FJDH7TBTLPDZ7Q.png?auth=1ec466b90ad8af39c5abb17aefe2beff763e0cbcc373aad31655781a7389d50c&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-10-11T20:45:00.000Z"
+      },
+      {
+        "title": "Perú y Chile evalúan interconexión eléctrica de US$ 550 millones",
+        "summary": "El ministro de Energía y Minas, Guillermo Shinno, señaló que el Gobierno busca avanzar en la conexión eléctrica con Chile, una iniciativa que contempla una línea de 500 kV y 1,000 MW de capacidad.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/peru-y-chile-evaluan-interconexion-electrica-de-us-550-millones-segun-el-ministro-del-minem-guillermo-shinno-noticia/",
+        "image": "https://gestion.pe/resizer/v2/RNAGEIEGC5HINHNS7PEP7OPKTM.jpg?auth=2ff980d3454861b9de40d86f9ede3a203442d9cd3df1a24ea16606d819091954&smart=true&width=619&height=347",
+        "publishedAt": "2026-10-11T20:40:10.000Z"
       }
     ],
     "sociedad": [
@@ -238,14 +238,6 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
-        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - Business Empresarial",
-        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbEpWQWwzZjk1OHUyMXNjdl9taXN3YWtlVkc3WUd6ak1GNTNKTjMwWHhEd0Y4TTF6WU90LTMwTjZSNDVFN29ReWFGQkVvTmtya3pNMG9kSEdjYzRvdnZsTG16M3E1bzZhV09OVVBwWUNCU2ZJVHpfdnlvV1VmVXVLU2FmR3FYeVlIRnl1MVRvWmJlSWU4eVZ4Rkxxd2tZUHBKcWp6Q3BRUkZRMVRkbDRiVWNOdTFNSU5yNjByS2FobmlLdGRrOVJHdU9YOW9VYjZBLTYySHM1cDNhR1pDR0JZ?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-24T07:00:00.000Z"
-      },
-      {
         "title": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión - Infobae",
         "summary": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -268,6 +260,14 @@
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVFwSXZrS2lPelhLNUlzRXRMZmM1WDhBVkptN0QyQ2dqSTQteTJaQVpnb2pUQldrSEJ2QjNpQWJZMC1lNmxtSjRQWUQ1N2JxcEhIcGY3M0xUdWdfV0YwYXBONWItcTlMVzlsekVJMW85VVRRN3Bmc2NjR0hlTlVVYmowYkprdDVwSTZ4T25tWnc0RDkzVUhRVUV4U1ZtQW9idWtuX0RqelF1TkpCbWxyQVQtUXJrMlRsLTg5SlFEQ0k5RS02Wkgw?oc=5",
         "image": "",
         "publishedAt": "2026-06-26T07:00:00.000Z"
+      },
+      {
+        "title": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups - Business Empresarial",
+        "summary": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmtHemFxbzkzZVNVajZWNmstMk9YSDJHejFFbjVDaE5sYWNsT0JRZkxJUjBoa1hmMU5hdTNqclFvbDcxWl9nZUcxRlp4cHdPWGk4SE1oVWlTbW5iNzdwUXNWYWh4WUQzSEY4TmVSbnozMDVmS3BPd1ZUYllacXNOQVpUMFhqR215X1FOSk04Q1p5ZVJseXdrYm5DdkM0SDZpVHc0ZVR1MUNhX1dSRnRPa0dzdkxqS29xdTc5aGw3U2RxRzR0cmNsVGRkS2ota2s0aWFUZjJMc1FvRnlVaUF3Z3Nn?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-25T07:00:00.000Z"
       },
       {
         "title": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 - Infobae",
@@ -336,12 +336,12 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
-        "title": "Innovación en Perú 1 de cada 3 jóvenes tiene ideas para mejorar su comunidad pero no son implementadas - RPP Noticias",
-        "summary": "Innovación en Perú 1 de cada 3 jóvenes tiene ideas para mejorar su comunidad pero no son implementadas &nbsp;&nbsp; RPP Noticias",
-        "source": "RPP Noticias",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMWlYMVlRZ3N4QmdNR0hiTmVDbTlRUFdDVUo5bG45Y1daTndzUUJfT18tTkdLQW5rQ2tBRmJyTnBRX0ZId25tZkJNcDIyNnd5eFhZZjBJVXhQQnQ1Vi1qV2hDYTFGMzhpa0tBc2lfeXZJQU5sY3dxcUdybVNRbWUwbjA2VndrX29rNWxvQnN2ZzBQOVJZN2lFSmtwb1JvX0cyVmE5U1JYQnVFaEFEZnFhM2lWNmtrMS01a1VzMExqa0NOMFFCeEw2eVV5bkRRNzFiRmFna0o4QkVnanB5TG96amJPS3hrZw?oc=5",
+        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - Revista Minería & Energía",
+        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; Revista Minería & Energía",
+        "source": "Revista Minería & Energía",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNGRFXzc5Skp6cnFkd0Zfbmt3NVpwcC04eXJaekp6Z094a096R013M29yQ3hTUlFzRFF6eTE5SUZ0VHhLQjVEdTFIRlIyUERGM09nTzVZZHNXdmFVR3RITDF3X2RTeUdNb3FnT2otTUlBeGh0TUtKQWFzcURMY1JCMEhSdzM3cnpuUnBrUkh2TEpJOWZOMGY3bkkzTmE3RlY2YjJ3S0dZdVRqdFRBcDN3RFl4blQxeGVuTnM5WHVDRjdmUG1JZExSam9hLU8?oc=5",
         "image": "",
-        "publishedAt": "2026-08-12T07:00:00.000Z"
+        "publishedAt": "2026-07-30T07:00:00.000Z"
       }
     ],
     "ia": [
@@ -510,18 +510,18 @@
         "publishedAt": "2026-08-26T07:00:00.000Z"
       },
       {
-        "title": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más informació",
-        "summary": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; Facebook",
-        "source": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdFRtVHlGS2ZUeUplTE1XU09ickJVSlBqR0Z3VGR1cjlrTG5NQlNuOFc5Si1OVXVLclh2T3Z1VEhKV1luN09INHpaRHp6U1Z1a2dRWWVjT1NzcG1pSnN2SVJGTnBvMzhzSXFlWnVFVXhKVmZtSUF1Z19rN1Z4U1BqNU02Qjd2dWRnWnZXemlkZlZHeVMxckFPT3pLeTNUek5uVkZOZUM5ZVVGMXFISG1GUEYxTXB2TW1PaUI1QkJsMFFOQ2g3TF9pOXVBdV9UVk95ZGN2M04tNDlLNFFhc2h0UHAzWU9QaC1mOW1Nb1B0U1RGTEs5Y204ZQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-05T07:00:00.000Z"
-      },
-      {
         "title": "🔴🔵Descansa en paz: 🕊Fallece Víctor Angobaldo, recordado personaje de la farándula peruana👇 - Facebook",
         "summary": "🔴🔵Descansa en paz: 🕊Fallece Víctor Angobaldo, recordado personaje de la farándula peruana👇 &nbsp;&nbsp; Facebook",
         "source": "Facebook",
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQLWVGbEUwVG85QTkzaU82bVRlX0lJc3hyd1hzbERpS2lvaWZqTE9idmxvUlZwM3JzV3RtM25EamxVZGY1UnNRNVJxaUNNaTU4VU1abExzUHk3Q3RTYjlFcHpXMnpxVF8ySzZvZVZxTUxDWnRrYWgzX3BVazNTNVd3dTBvamE2S1oyRHdiNDNKNC1wX19FbjZ1VnN1S0xaTGdQVy1OY0cwbzVCX0ZFbjI0aDZYVlNhWUFXVFZzNEJkUWMzNE8xVU1PVzcyWklPLU5RQVRueEVuWElRcWdZekJGNFdJbkVobFMtcHMw?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-05T07:00:00.000Z"
+      },
+      {
+        "title": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más informació",
+        "summary": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; Facebook",
+        "source": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdFRtVHlGS2ZUeUplTE1XU09ickJVSlBqR0Z3VGR1cjlrTG5NQlNuOFc5Si1OVXVLclh2T3Z1VEhKV1luN09INHpaRHp6U1Z1a2dRWWVjT1NzcG1pSnN2SVJGTnBvMzhzSXFlWnVFVXhKVmZtSUF1Z19rN1Z4U1BqNU02Qjd2dWRnWnZXemlkZlZHeVMxckFPT3pLeTNUek5uVkZOZUM5ZVVGMXFISG1GUEYxTXB2TW1PaUI1QkJsMFFOQ2g3TF9pOXVBdV9UVk95ZGN2M04tNDlLNFFhc2h0UHAzWU9QaC1mOW1Nb1B0U1RGTEs5Y204ZQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
@@ -534,10 +534,10 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
-        "title": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión - Infobae",
-        "summary": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFpHYlBfWE5DYjhNXzVvdjhzWEJUU3NRYUxCei13QUhSajlnTWtaNmxCUmRZeFJsU0FQZ2Uxa0hkMHNCanNqd1pPUDlveFZGUXlvU0MyblFibDBMY1pZVHZZczdZNlFpZ0dVU2hwUlJrQjdOY3FMZHloNXY2cXhCVVR4YjVLR1B5NEFhOGJlY2NKZnF2dWpfMWNUYTdGd2U1MWt1RWNpVUw1NXdWWE1SN0dSMm9ldWNqZUM2Z1930gHYAUFVX3lxTE9YYW5mSTRNYXNfWFBBZi0tX1h0S3A1b09TY09zaVFmcWdLTllzMHhtTzRQOHNwaEFOT1ZycS1fNklDamM2Tm4zbGZ0Uk5DTldIMDAxUlhGZVNmV2RvZXdVRERiTGFxV0Jhclc1bERDd3ItWU9yY1dpQjE2d0NnTVZzVDhBTjV4ellKTW5HOUxBWUtOLVNnVGs3Wi1ibF9iNVNMWFlzajFjSzhUSjRKdXBZQUdlbTh0QklnMUxNNFFlVXpTYi1jZXE2Z2dFcklfX2U3Y0VnTUM4Vg?oc=5",
+        "title": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora - Trome.com",
+        "summary": "Del éxito en la TV a la cárcel: qué pasó con Malú Costa y a qué se dedica ahora &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHpkRUdJMnV3X2tiUURubVRPZW9NY0Z3UlJIS1NIaG1jVkpPWEYwcVlsSXJBdVliMERjdnlBRkR0LUw2WllJam56RXBUb2tVbFlxZDJOV2xEYTJsczg1elZlclFvREdzUWptcmw3VURlYlhST09TdVpWTmo2Znp3dGJWeDhHN2xILU1aOHBXVkZ5MFhFNnM4SzliOE92VTNOWnMtTk1YaWVUMmdHcGN3a2MxRnJaQXlWdmo2aE5iR1UzbU1QWnVibkZJamZabm9KV01SQ1FfM3TSAewBQVVfeXFMTlJtdHBFeG9XM2lzMnFvRnpMWk5XZGFRblJNdlBTeVNRcGpGR1hOS2RydWh3dTlFQ3BDNkZEMmlXTi1nUW1zUFN6djIxRU5BUDV2V3hkZDREMlRVTmZtRy1IT3dEQXdCMmRLYmg2ZndiNHI5dV9RWmM0bDZmdjBITkpBNzBqWEx6cTJWQTBUV1VBcm9mS3U0YzluUlEwb0ZLT2picG0xNlI1YnVEY2xGYVoxMC1CMlV1NHhzRmtTTVVZaERiTUVZZGR4SjJ6YVpDeGJMY3Aybzg4WUZFV1kyVm1OdEUyUktiVE95OHM?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       }
@@ -600,12 +600,12 @@
         "publishedAt": "2026-08-22T07:00:00.000Z"
       },
       {
-        "title": "Cochinola 2026 con Nicky Jam y Wisin: horarios, apertura de puertas y vías de accesos - Infobae",
-        "summary": "Cochinola 2026 con Nicky Jam y Wisin: horarios, apertura de puertas y vías de accesos &nbsp;&nbsp; Infobae",
+        "title": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones - Infobae",
+        "summary": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSm11R1lUbDRJM2U3LTdqaEFMUk4wNXlhekZsWVE2eXB1N2RiaWlSeEJ2WFh6eTdKaGN0OWlUc1NOQlFOUl9kaWhQZ2lEYmVTaEsxam5aUzRCRFdzTjFBWmpLdlhRV2RSTHdtWFk0U0xRcHJYUDZ6MG94QjlqSkRwZ2lCUDRKWWxrd2w3ajMtYmtSMWR2OFNHd3VDaG9sSGM0Q2FtREd2OWEwSUZxaUQ4cjBUNjNJblBvUlZLX2NSTWdwZEprVlR0VdIB4wFBVV95cUxPV3VVd0dJMHdDeXJwVHRGVHZ1dkVhLVgzaVY2X0FqRmNSZm9zOVVtNVBKTXFUUTZZWVBFSGhYdUV5N0QyWVAyUWVWQUZfLTVGamUxU3cyQlZwcjk1b2pkRWthVVJ2bUxGbzRrTGdhMmJ2OFQxVHU4VDNqdHJKXzREQlQxdVBDQjJ0R1k5ZVR0S0Q1eV93b0VsQ0ZyeGVhNkdnV3R4WFF2dWViNi12dFhsRFNiWXhmcVMtXzBOT3A2N3JWaVZEUVF1MWo3MEZ2Qkh3UG9wdW0wSXY3SFVlV2JwYk5BRQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTTZDSUpUY3djZ1R3U0lOUzRLVVV6OGFpNGZvRm83N0dTV2VlclhHT3U5YlVzX1NLMUFzdUx4cHZrX2FhdGhDeGtYOWZwZ1VyUnZiZEIxRUw5NmhZUG93WHZJNUFHUzRTMHBtVTRQUE91OFprb1NlMXhsbkF5ZHZINWxweFVsVzRJZlpUcFI2Mks5andzSTgwNVhUZXJsaVl5bUhrMXFLX0JMWDgtNEtWbW92YXVBS19kQ1dYS1hqSEt4YVpnaFNqeFVHQzhqbVBIZnFnUEcyOXdqUnFZNllOZG5aVjlsbUtlV21JZ21aTjRkNlNyOEYwZnVhbnhSdDNadVRZbUNvYjPSAaMCQVVfeXFMT0lVVzhVeG9mNGZBb2diQW9Bd1ItVlppWDFzMmt4eDAyY1ZYMjVQUWpzN2hzMGpfR3RqRGhVS3NGZm04ZlBnaGxsUXozY1o1ZlFkWjl3aElHZjAyaWo0SDR1VU5SM09KSm1HWkRTeDlSa1Z5bGVpZS0yN0s2cVYxRFBvUjRwZHV1eHFnbUx0RlRaLUdSU0JPWmdSY0V2SXE0QUpFbGlCa3JtOE0tOHNCMWlsV19wTi1ienIyLTdubnJCUXQ0T2xkSTluVENhVENBeEcwZVM4NlZjS2IwS3NhbTRNQ3d0cFlLd3JWakw2Wl9YbTBkcGowYkVYU2NKbVl4eXdVa2FNZ3FlVVNpejg4T1FQaUxmZlR2Rk9idk9RLVV4cmtB?oc=5",
         "image": "",
-        "publishedAt": "2026-08-22T07:00:00.000Z"
+        "publishedAt": "2026-08-21T07:00:00.000Z"
       }
     ]
   },
