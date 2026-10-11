@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T00:59:14.038Z",
+  "generatedAt": "2026-10-11T07:09:16.092Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,28 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Keiko Fujimori sobre Astudillo: “Le expreso mi total respaldo y gratitud por su valentía. Ministro, los perros ladran es una señal que estamos avanzando”",
-        "summary": "La presidenta Keiko Fujimori expresó su respaldo al ministro del Interior, César Astudillo, tras el enfrentamiento verbal que protagonizó con el senador Iber Maraví en la Comisión de Constitución. La discusión interrumpió durante unos diez minutos el debate sobre las facultades legislativas en el Senado.",
+        "title": "La primera pulseada",
+        "summary": "Fuerza Popular sufrió su primera derrota en este nuevo sistema bicameral. Pidió legislar en 66 materias durante 120 días y se llevó 20 por 90. Fue una sesión caótica, suspendida hasta tres veces, en la que el texto consensuado cayó primero, también con el voto fujimorista, y tuvo que rescatarse por reconsideración.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/keiko-fujimori-sobre-cesar-astudillo-le-expreso-mi-total-respaldo-y-gratitud-por-su-valentia-ministro-los-perros-ladran-es-una-senal-que-estamos-avanzando-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/XSYC4G5TNVHYPK4RXCMJPAJHLI.jpg?auth=936cbbeb5c30c98869e75657a5a644112d5d97814e7ba78c464b02933ba34e74&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-10T23:18:03.000Z"
+        "url": "https://elcomercio.pe/opinion/columnistas/la-primera-pulseada-por-mabel-huertas-delegacion-de-facultades-legislativas-gobierno-de-keiko-fujimori-congreso-senado-camara-de-diputados-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/JQVA5JWLE5HXZOTLZIBQ7WCBA4.jpg?auth=700f88dfc6b3f3a350336a3206ffde17839624a11724b37be1d0f3c58012d33e&smart=true&width=680&height=522",
+        "publishedAt": "2026-10-11T05:30:00.000Z"
+      },
+      {
+        "title": "Tenso altercado en plena sesión del Senado: Así se desarrolló el incidente entre Iber Maraví y el ministro Astudillo",
+        "summary": "Un tenso altercado se registró ayer en la Comisión de Constitución, donde el senador Iber Maraví (Juntos por el Perú) y el ministro César Astudillo (Interior) protagonizaron uno de los primeros enfrentamientos verbales del Senado.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/tenso-altercado-en-plena-sesion-del-senado-asi-se-desarrollo-el-enfrentamiento-entre-iber-maravi-y-el-ministro-astudillo-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/ECUG7OBR3JCONFNCTVUCLE4AF4.jpg?auth=bd8d975660e0383b013ca701c8d457e90857dec73c24bbb5193acf36a07f3af0&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-11T05:01:00.000Z"
+      },
+      {
+        "title": "Miguel Torres sobre incidentes en el Congreso entre Maraví y ministro Astudillo: “Ningún senador tiene licencia para insultar a un funcionario”",
+        "summary": "El presidente del Congreso de la República agregó que lo ocurrido hoy en la Comisión de Constitución es “inaceptable”.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/miguel-torres-sobre-incidentes-en-el-congreso-entre-iber-maravi-y-ministro-cesar-astudillo-ningun-senador-tiene-licencia-para-insultar-a-un-funcionario-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/FBZNFYRAWZGBNHIX5YLQOFEAIY.jpg?auth=4fa305735c4b2100f8843eabaed5c6056bce3bf4d4c04d1ef4b327a535e93bb5&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-11T04:35:00.000Z"
       },
       {
         "title": "Resultados ONPE al 92.919% de las Elecciones Regionales y Municipales 2026: revisa aquí el conteo oficial",
@@ -37,7 +53,15 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/elecciones/resultados-onpe-en-vivo-sigue-el-conteo-oficial-de-las-elecciones-regionales-y-municipales-2026-lbposting-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/DQVEN76WDZG47ISFYVOOZ6HZSA.jpg?auth=d85ffee93545cab7bf3cf214b2a09ac13eae75e1d7eda36ac5b798593b623aee&smart=true&width=1200&height=675",
-        "publishedAt": "2026-10-10T23:02:04.000Z"
+        "publishedAt": "2026-10-11T03:08:30.000Z"
+      },
+      {
+        "title": "Keiko Fujimori sobre Astudillo: “Le expreso mi total respaldo y gratitud por su valentía. Ministro, los perros ladran es una señal que estamos avanzando”",
+        "summary": "La presidenta Keiko Fujimori expresó su respaldo al ministro del Interior, César Astudillo, tras el enfrentamiento verbal que protagonizó con el senador Iber Maraví en la Comisión de Constitución. La discusión interrumpió durante unos diez minutos el debate sobre las facultades legislativas en el Senado.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/keiko-fujimori-sobre-cesar-astudillo-le-expreso-mi-total-respaldo-y-gratitud-por-su-valentia-ministro-los-perros-ladran-es-una-senal-que-estamos-avanzando-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/XSYC4G5TNVHYPK4RXCMJPAJHLI.jpg?auth=936cbbeb5c30c98869e75657a5a644112d5d97814e7ba78c464b02933ba34e74&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-10T23:18:03.000Z"
       },
       {
         "title": "Los bastiones que dieron la espalda a Juntos por el Perú en las elecciones regionales: ¿los motivos de la derrota?",
@@ -48,39 +72,31 @@
         "publishedAt": "2026-10-10T22:44:00.000Z"
       },
       {
-        "title": "Giannina, la impasible, una crónica de Fernando Vivas sobre la presidenta de la Comisión de Constitución de Diputados",
-        "summary": "La presidenta de la Comisión de Constitución, Giannina Avendaño, de Juntos Por el Perú, sacó de quicio al fujimorismo con su impasible rechazo a aprobar las facultades.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/giannina-la-impasible-cronica-fernando-vivas-presidenta-de-la-comision-de-constitucion-de-diputados-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/JEG74J2YJZAAFNSTCBNVSDBXFE.jpg?auth=1265644bbd74a667a4d9ad61d37d1b6e6c75b293f976c907e8484d954f33e2de&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-10T22:40:00.000Z"
-      },
-      {
         "title": "Gobierno pide facultades en inteligencia y declarar “hostiles” a bandas criminales: ¿qué otras medidas solicitó incorporar?",
         "summary": "",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/gobierno-pide-facultades-en-inteligencia-y-declarar-hostiles-a-bandas-criminales-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/6D6XAKALAJE6TAIIPSMBWXCOAU.jpg?auth=a5780d170aaea6e22ee3b2955fa7f03773d228aedaebba06276486a833362718&smart=true&width=1200&height=647",
         "publishedAt": "2026-10-10T22:40:00.000Z"
-      },
-      {
-        "title": "Elecciones municipales 2026: Casi mil candidatos limeños cambiaron de camiseta política",
-        "summary": "Poner tu bajada aquí",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/elecciones-municipales-2026-casi-mil-candidatos-limenos-cambiaron-de-camiseta-politica-rafael-lopez-aliaga-carlos-bruces-francis-allison-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/MEVF7KANNJBXPJBZ6TFZIK7SDM.jpg?auth=b31ed9a2520d470199d73bb052125f9d2e17d14cdb08ebbbd66cc4906ce2bc98&smart=true&width=1200&height=628",
-        "publishedAt": "2026-10-10T22:20:00.000Z"
-      },
-      {
-        "title": "Senadores de Renovación Popular a favor de llevar a Iber Maraví a Comisión de Ética por incidentes en Comisión de Constitución",
-        "summary": "Senadores de Renovación Popular, incluyendo a Francisco Calisto, protagonista de los incidentes en la Comisión de Constitución, se mostraron a favor de que Iber Maraví afronte un proceso en la Comisión de Ética. Esto por su actitud durante los hechos que ocurrieron este sábado 10 de octubre durante el debate del pedido",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/senadores-de-renovacion-popular-a-favor-de-llevar-a-iber-maravi-a-comision-de-etica-por-incidentes-en-comision-de-constitucion-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/UAIMRZW7E5GOBKSDNQMFTY6PCI.jpeg?auth=e41cfb24a62a82cfa10388840c9313f4c71ed0a3f028a5dc8b5ebf9b1648bb98&smart=true&width=1180&height=788",
-        "publishedAt": "2026-10-10T21:34:20.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Boticas Perú, rival de Inkafarma y Mifarma, reordena su red y gira a provincias ¿cuál es su plan?",
+        "summary": "Boticas Perú cierra locales en el país y apuesta por provincias, con la meta de superar los 500 locales en 2027. Además, prepara el ingreso de su marca propia a supermercados y duplicó su stock ante El Niño.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/boticas-peru-duplica-su-stock-por-el-nino-y-reorden-su-red-con-foco-en-provincias-noticia/",
+        "image": "https://gestion.pe/resizer/v2/QT2CIKGVERAZHNLFZ7OBNB76UI.jpeg?auth=be45a06703ab62f2e701f1f15c33342073cca9681f5eb1ba6dac77b86ea5e6b2&smart=true&width=823&height=585",
+        "publishedAt": "2026-10-11T02:29:00.000Z"
+      },
+      {
+        "title": "Nissan: Perú ya es su tercer mercado en la región y prepara nueve novedades: ¿más eléctricos?",
+        "summary": "Nissan prepara casi nueve novedades para el mercado peruano en los próximos 12 meses, en un contexto de crecimiento de la demanda y con la electrificación como uno de los ejes de renovación de su portafolio.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/peru-ya-es-el-tercer-mercado-de-nissan-en-la-region-que-traera-la-marca-noticia/",
+        "image": "https://gestion.pe/resizer/v2/MFIVHFIQCVD5PDBRETHSGWORRQ.jpg?auth=66d8db37518cdb88daaf96c4e5133b8e77de5627b592521c4b032d17bf69d661&smart=true&width=1200&height=821",
+        "publishedAt": "2026-10-11T01:34:00.000Z"
+      },
       {
         "title": "Fénix espera hasta triplicar su capacidad en Perú y evalúa su cartera de proyectos",
         "summary": "Fénix Power busca duplicar o triplicar su capacidad instalada en Perú, pero no define inversiones para 2027. Conoce qué pasa con sus proyectos renovables.",
@@ -128,22 +144,6 @@
         "url": "https://gestion.pe/economia/empresas/tendencias-en-el-registro-de-asistencia-del-reloj-biometrico-hasta-sistemas-via-whatsapp-noticia/",
         "image": "https://gestion.pe/resizer/v2/MNCRYPHRMRHMDB6BX7M6AD7LAY.jpg?auth=bda9778185081b8bd7fe61ca950465e545045606948930a67e3f1da1aa886a94&smart=true&width=6000&height=4000",
         "publishedAt": "2026-10-10T17:43:46.000Z"
-      },
-      {
-        "title": "Azúcar sube y El Niño amenaza con encarecerlo más: ¿qué tan expuesta está la oferta?",
-        "summary": "El azúcar se convirtió en uno de los alimentos que más se encarecieron en el Perú durante septiembre y expertos apuntan a próximas alzas debido a El Niño.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/azucar-sube-y-el-nino-amenaza-con-encarecerlo-mas-que-tan-expuesta-esta-la-oferta-noticia/",
-        "image": "https://gestion.pe/resizer/v2/G7PM6NEY6RGIFE2VRMOWSFEZQQ.jpg?auth=c15e3134f7e1af556e7487ce12b15d245130c6fbb3985a7da7c9b33bdda7cc6c&smart=true&width=1200&height=750",
-        "publishedAt": "2026-10-10T15:39:00.000Z"
-      },
-      {
-        "title": "Nueva Ley MAPE daría hasta fines de 2028 a 30,000 mineros para completar su formalización",
-        "summary": "Minem prevé presentar el proyecto el 15 de octubre. Plantea crear el Formape, habilitar cuentas en el Banco de la Nación y establecer un régimen permanente para los nuevos operadores.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/nueva-ley-mape-daria-hasta-fines-de-2028-a-30000-mineros-para-completar-su-formalizacion-noticia/",
-        "image": "https://gestion.pe/resizer/v2/NURWIDPXJBFETNCNHSVJCCFLP4.jpg?auth=7cfe01a34cd6b13bd885a6cf39b570270f521c75fd66be922a0b0c1b3ca46d7e&smart=true&width=1800&height=1350",
-        "publishedAt": "2026-10-10T13:46:42.000Z"
       }
     ],
     "sociedad": [
@@ -180,14 +180,6 @@
         "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
-        "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
-        "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOF96RmlFdGF0MmZNd1M0VXdlM2tlQVU0MHBidWRKZ1ZaYmRYZjQteldIeDRYR0c4aFNENU1ackUzVzZ5Sm5OSU9JVXlhQU9ON0ZoYmt6UWRfX2xNcFd3bmNDbkpyUktwaVl4UUZwdlZIRmZDaldXd3dXRk02ZFZvb2VJNk9WLTZTVXJhQklYcWxGMkFWbmZHUG11OURpRE8xWWdpU3lOOHUxaFotNUJscW9qVUdfdFRkWUhubndPYnRYUUN5RncxVW1qVFMzck41SWJYeWV5eWVLZw?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-07T07:00:00.000Z"
-      },
-      {
         "title": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud - La República",
         "summary": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud &nbsp;&nbsp; La República",
         "source": "La República",
@@ -208,6 +200,14 @@
         "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; El Peruano",
         "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-03T07:00:00.000Z"
+      },
+      {
+        "title": "Ministro Elmer Cuba: presupuesto 2027 prioriza los servicios y calidad de vida de la población - TVPerú",
+        "summary": "Ministro Elmer Cuba: presupuesto 2027 prioriza los servicios y calidad de vida de la población &nbsp;&nbsp; TVPerú",
+        "source": "TVPerú",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWkFuOWxMMWltaDhYUHdWcGZMYW9sSDVlZ1hMYWw0UU0zWjkwR0FqWXZEd1VYTXlCOUpSVndPNXZTelByRGNqbEExRzl1SDNFcDlabEs1ejZUSnNEeHhkdHg4cVNBVXZ5VVdZU1puNjdacXltTWhZbjg5TFc5NDVlalZXMnpTQ1N6V2xMU0JLTWFJcTNmN0ZQOTg3NUtRR3pHSFBIc1VMZ3dWWFkyQjFyVnVtNExKNUtxMWt5cTBMRnpGRDYxbFJJUWxUZUhvakVlWG1F?oc=5",
         "image": "",
         "publishedAt": "2026-09-03T07:00:00.000Z"
       }
@@ -526,18 +526,18 @@
         "publishedAt": "2026-08-26T07:00:00.000Z"
       },
       {
-        "title": "¿Quién fue Víctor Angobaldo, el recordado personaje de la farándula y expareja de Shirley Cherres que falleció en un accidente de tránsito? - Infobae",
-        "summary": "¿Quién fue Víctor Angobaldo, el recordado personaje de la farándula y expareja de Shirley Cherres que falleció en un accidente de tránsito? &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOR1NDdF9mS0J6YWhSQTJhRFpYVzFQbHMxMWNtVzJ5eGVfcmRwRS1vWTNiV0tpSGJEaXdPNE4tYkMzM0tobF9yMkV4dTR6NDJ4dXZ4bFR1al80cVVrOUVqbUF3UDBKNHVPVTVhak5VTUhJalJvZUE5aFRQTldJU3JDdm9HLTZDNVBxUE0xZDA4VWVqa3hXWnBhLTkwUlBsTmVuS0p6WHpmQ0tVNkhBWWhGQ1RXcTZPZGs2S2Qwc0hJVlpJWlFTcFI0ZGZ6OXZhLXJzZFRMZ1J3MFMtZS1ueEZLYWNlQWIxQ3RzN3pvVFM1Qi1TTXZsSmRsZXFhbVRNd0JOZkFjWXlsSnbSAaMCQVVfeXFMTXliQkJBdndLUUhLNE92NFA4NlVOQzFCMDhqM2RKNzJWWHM3YV83bnhKTGdHTFFFcHpQckhiOUlPTnpSejNodzRyTElBaFVzNlV5V09wdElvbHdORU84TlRjY2I0dS1SQlFpekZuVlhDcDQyR3hRMW8wZUxNV1dWclhJUDYwTVVlMXFOVHpFWl8zVHAyTloyVUJ5bkVMWW1ZTG9WX0p3X28tQm9Cd0ZZVkQzS05NZ25fSmk1Z1NFbUd3Uy1MSWM3cDBvbnRmTzI5S0VFLWZSdFREQTdMV1BPREQwU2doTVVhTmNWaUgyeHpUbmJvNVprUElyV0tKVk5HR3VMQkNVVTcxUmJJNkh2MUg4TkZFUU9ZcXZZM2FVLWFTOWlv?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-06T07:00:00.000Z"
-      },
-      {
         "title": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más informació",
         "summary": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; Facebook",
         "source": "Facebook",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdFRtVHlGS2ZUeUplTE1XU09ickJVSlBqR0Z3VGR1cjlrTG5NQlNuOFc5Si1OVXVLclh2T3Z1VEhKV1luN09INHpaRHp6U1Z1a2dRWWVjT1NzcG1pSnN2SVJGTnBvMzhzSXFlWnVFVXhKVmZtSUF1Z19rN1Z4U1BqNU02Qjd2dWRnWnZXemlkZlZHeVMxckFPT3pLeTNUek5uVkZOZUM5ZVVGMXFISG1GUEYxTXB2TW1PaUI1QkJsMFFOQ2g3TF9pOXVBdV9UVk95ZGN2M04tNDlLNFFhc2h0UHAzWU9QaC1mOW1Nb1B0U1RGTEs5Y204ZQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-05T07:00:00.000Z"
+      },
+      {
+        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
+        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
+        "source": "Diario Correo",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       }
