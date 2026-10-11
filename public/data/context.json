@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T07:09:16.092Z",
+  "generatedAt": "2026-10-11T14:00:12.648Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,6 +24,46 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
+        "title": "Tenso altercado en plena sesión del Senado: Así se desarrolló el incidente entre Iber Maraví y el ministro Astudillo",
+        "summary": "Un tenso altercado se registró ayer en la Comisión de Constitución, donde el senador Iber Maraví (Juntos por el Perú) y el ministro César Astudillo (Interior) protagonizaron uno de los primeros enfrentamientos verbales del Senado.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/tenso-altercado-en-plena-sesion-del-senado-asi-se-desarrollo-el-enfrentamiento-entre-iber-maravi-y-el-ministro-astudillo-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/ECUG7OBR3JCONFNCTVUCLE4AF4.jpg?auth=bd8d975660e0383b013ca701c8d457e90857dec73c24bbb5193acf36a07f3af0&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-11T12:15:45.000Z"
+      },
+      {
+        "title": "Domingo García Belaunde: “La gente que está en Diputados está perdida en el espacio, no conoce el juego parlamentario”",
+        "summary": "Domingo García Belaunde habla sobre los límites del Senado para modificar la delegación de facultades, la crisis política en el Congreso, la cifra repartidora y la controversia por Rafael López Aliaga.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/domingo-garcia-belaunde-la-gente-que-esta-en-diputados-esta-perdida-en-el-espacio-no-conoce-el-juego-parlamentario-delegacion-de-facultades-limites-del-senado-rafael-lopez-aliaga-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/T5IKEVM5LZCFHLNREIHK34GLDU.jpeg?auth=6b679d2b42e29b8f346d3dde7d292d4bc5853b81c03c3e4a1811652e20718502&smart=true&width=1600&height=1147",
+        "publishedAt": "2026-10-11T12:10:32.000Z"
+      },
+      {
+        "title": "Las regiones no lloran, una crónica de Fernando Vivas sobre el nuevo mapa regional",
+        "summary": "Con los conteos de la ONPE bastante avanzados, podemos asegurar que ningún candidato de Fuerza Popular ganó en primera vuelta en alguna de las 25 regiones.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/las-regiones-no-lloran-una-cronica-de-fernando-vivas-sobre-el-nuevo-mapa-regional-erm-2026-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/CUUYIVVIUZCWZPWLIWICGSXIUQ.jpg?auth=cee77340e23cc56a145f4933f567f9c086d3a579e318b48b4ac3beeaf56c1e11&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-11T11:59:09.000Z"
+      },
+      {
+        "title": "Los distritos claves para López Aliaga y Allison: el mapa de Lima entre la dispersión del voto y el arrastre inverso",
+        "summary": "Rafael López Aliaga tuvo como clave a los distritos de Los Olivos y Surco, mientras que Francis Allison se vio beneficiado por el arrastre distrital en Ate.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/los-distritos-claves-rafael-lopez-aliaga-y-francis-allison-el-mapa-electoral-de-lima-elecciones-regionales-y-municipales-2026-onpe-jne-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/AK2SGXEPENHL7MXACSKGWAHDWY.png?auth=e7c142456e333b26b64addc7ab384ed53a84c4e5f0f6f7bdcd3c5e48648cd5ea&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-10-11T11:00:01.000Z"
+      },
+      {
+        "title": "Juntos por el Perú impulsa Proposiciones Legislativas que figuran en acuerdo firmado con el Fenatep",
+        "summary": "Más de cinco propuestas legislativas, que figuran figuran en el acuerdo que el líder de Juntos por el Perú y excandidato presidencial, Roberto Sánchez, firmó con el grupo vinculado al Movadef, fueron presentados por diputados de JP.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/la-bancada-de-juntos-por-el-peru-del-congreso-bicameral-impulsa-proposiciones-legislativas-cuyos-temas-figuran-en-el-acuerdo-firmado-con-el-fenatep-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/PO7NJCSGFRBJNBELTS4IHMIISE.png?auth=cfea00a3af931cd19bd0f567b1c9f126067a192bb87a037fc8dc170869708c65&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-11T11:00:01.000Z"
+      },
+      {
         "title": "La primera pulseada",
         "summary": "Fuerza Popular sufrió su primera derrota en este nuevo sistema bicameral. Pidió legislar en 66 materias durante 120 días y se llevó 20 por 90. Fue una sesión caótica, suspendida hasta tres veces, en la que el texto consensuado cayó primero, también con el voto fujimorista, y tuvo que rescatarse por reconsideración.",
         "source": "El Comercio Perú",
@@ -32,118 +72,78 @@
         "publishedAt": "2026-10-11T05:30:00.000Z"
       },
       {
-        "title": "Tenso altercado en plena sesión del Senado: Así se desarrolló el incidente entre Iber Maraví y el ministro Astudillo",
-        "summary": "Un tenso altercado se registró ayer en la Comisión de Constitución, donde el senador Iber Maraví (Juntos por el Perú) y el ministro César Astudillo (Interior) protagonizaron uno de los primeros enfrentamientos verbales del Senado.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/tenso-altercado-en-plena-sesion-del-senado-asi-se-desarrollo-el-enfrentamiento-entre-iber-maravi-y-el-ministro-astudillo-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/ECUG7OBR3JCONFNCTVUCLE4AF4.jpg?auth=bd8d975660e0383b013ca701c8d457e90857dec73c24bbb5193acf36a07f3af0&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-11T05:01:00.000Z"
-      },
-      {
         "title": "Miguel Torres sobre incidentes en el Congreso entre Maraví y ministro Astudillo: “Ningún senador tiene licencia para insultar a un funcionario”",
         "summary": "El presidente del Congreso de la República agregó que lo ocurrido hoy en la Comisión de Constitución es “inaceptable”.",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/miguel-torres-sobre-incidentes-en-el-congreso-entre-iber-maravi-y-ministro-cesar-astudillo-ningun-senador-tiene-licencia-para-insultar-a-un-funcionario-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/FBZNFYRAWZGBNHIX5YLQOFEAIY.jpg?auth=4fa305735c4b2100f8843eabaed5c6056bce3bf4d4c04d1ef4b327a535e93bb5&smart=true&width=1200&height=800",
         "publishedAt": "2026-10-11T04:35:00.000Z"
-      },
-      {
-        "title": "Resultados ONPE al 92.919% de las Elecciones Regionales y Municipales 2026: revisa aquí el conteo oficial",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/elecciones/resultados-onpe-en-vivo-sigue-el-conteo-oficial-de-las-elecciones-regionales-y-municipales-2026-lbposting-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/DQVEN76WDZG47ISFYVOOZ6HZSA.jpg?auth=d85ffee93545cab7bf3cf214b2a09ac13eae75e1d7eda36ac5b798593b623aee&smart=true&width=1200&height=675",
-        "publishedAt": "2026-10-11T03:08:30.000Z"
-      },
-      {
-        "title": "Keiko Fujimori sobre Astudillo: “Le expreso mi total respaldo y gratitud por su valentía. Ministro, los perros ladran es una señal que estamos avanzando”",
-        "summary": "La presidenta Keiko Fujimori expresó su respaldo al ministro del Interior, César Astudillo, tras el enfrentamiento verbal que protagonizó con el senador Iber Maraví en la Comisión de Constitución. La discusión interrumpió durante unos diez minutos el debate sobre las facultades legislativas en el Senado.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/keiko-fujimori-sobre-cesar-astudillo-le-expreso-mi-total-respaldo-y-gratitud-por-su-valentia-ministro-los-perros-ladran-es-una-senal-que-estamos-avanzando-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/XSYC4G5TNVHYPK4RXCMJPAJHLI.jpg?auth=936cbbeb5c30c98869e75657a5a644112d5d97814e7ba78c464b02933ba34e74&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-10T23:18:03.000Z"
-      },
-      {
-        "title": "Los bastiones que dieron la espalda a Juntos por el Perú en las elecciones regionales: ¿los motivos de la derrota?",
-        "summary": "Juntos por el Perú, el partido de Roberto Sánchez, no lograría conquistar ningún gobierno regional ni alguna de las 36 alcaldías provinciales en las que presentó candidatos, pese al respaldo obtenido en las elecciones presidenciales de 2026. Su presencia se limitaría a algunos municipios distritales, en medio del retro",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/juntos-por-el-peru-roberto-sanchez-pierde-bastiones-en-las-elecciones-regionales-y-municipales-2026-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/4QY4TBHZKFBRXAZX77HW6VR4RU.jpg?auth=4de47c505422988fe4e59da48ff50af7ec81967e2d161eb529581353402075d7&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-10T22:44:00.000Z"
-      },
-      {
-        "title": "Gobierno pide facultades en inteligencia y declarar “hostiles” a bandas criminales: ¿qué otras medidas solicitó incorporar?",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno-pide-facultades-en-inteligencia-y-declarar-hostiles-a-bandas-criminales-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/6D6XAKALAJE6TAIIPSMBWXCOAU.jpg?auth=a5780d170aaea6e22ee3b2955fa7f03773d228aedaebba06276486a833362718&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-10T22:40:00.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Boticas Perú, rival de Inkafarma y Mifarma, reordena su red y gira a provincias ¿cuál es su plan?",
-        "summary": "Boticas Perú cierra locales en el país y apuesta por provincias, con la meta de superar los 500 locales en 2027. Además, prepara el ingreso de su marca propia a supermercados y duplicó su stock ante El Niño.",
+        "title": "Bigbox evalúa segundo punto de venta en Lima y alista nueva línea de negocio en Perú",
+        "summary": "Bigbox crece cerca de 35% en Perú en 2026 y apunta a cerrar el año con una expansión del 45%, impulsada por el negocio corporativo (75% de sus ventas) y experiencias gastronómicas. La firma amplía precios, suma ocasiones de compra y prepara una nueva línea de negocio enfocada en fidelización.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/boticas-peru-duplica-su-stock-por-el-nino-y-reorden-su-red-con-foco-en-provincias-noticia/",
-        "image": "https://gestion.pe/resizer/v2/QT2CIKGVERAZHNLFZ7OBNB76UI.jpeg?auth=be45a06703ab62f2e701f1f15c33342073cca9681f5eb1ba6dac77b86ea5e6b2&smart=true&width=823&height=585",
-        "publishedAt": "2026-10-11T02:29:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/la-apuesta-de-bigbox-en-peru-por-comprar-mas-veces-los-regalos-ya-no-solo-por-fechas-noticia/",
+        "image": "https://gestion.pe/resizer/v2/FQ5QWBPRC5HQ7EGMJMGQZGZJ3E.jpg?auth=3e833ec27cf71085b4f7acff4267d3c10d776c05766b19d36f542a851a35a452&smart=true&width=1048&height=698",
+        "publishedAt": "2026-10-11T12:00:00.000Z"
       },
       {
-        "title": "Nissan: Perú ya es su tercer mercado en la región y prepara nueve novedades: ¿más eléctricos?",
-        "summary": "Nissan prepara casi nueve novedades para el mercado peruano en los próximos 12 meses, en un contexto de crecimiento de la demanda y con la electrificación como uno de los ejes de renovación de su portafolio.",
+        "title": "Grupo Lar alista S/ 60 mlls. con giro a proyectos ‘más cortos’ en 2027: ¿En qué distritos?",
+        "summary": "Grupo Lar iniciará en noviembre tres obras en La Victoria y el Centro de Lima, con una inversión de S/180 millones, tras un primer semestre de ventas frenadas por las elecciones. Además, dejará los megaproyectos por fases y apostará por desarrollos más cortos.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/peru-ya-es-el-tercer-mercado-de-nissan-en-la-region-que-traera-la-marca-noticia/",
-        "image": "https://gestion.pe/resizer/v2/MFIVHFIQCVD5PDBRETHSGWORRQ.jpg?auth=66d8db37518cdb88daaf96c4e5133b8e77de5627b592521c4b032d17bf69d661&smart=true&width=1200&height=821",
-        "publishedAt": "2026-10-11T01:34:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/grupo-lar-busca-terrenos-en-san-isidro-lince-y-jesus-maria-invertira-s60-mlls-en-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/IEDOLLNCONA33DMJAUOXARGE6A.jpg?auth=459ab874128d1e8139b98c6b7b9ddb7a666faf7a0e22fc884415f89f2a4217e9&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-11T12:00:00.000Z"
       },
       {
-        "title": "Fénix espera hasta triplicar su capacidad en Perú y evalúa su cartera de proyectos",
-        "summary": "Fénix Power busca duplicar o triplicar su capacidad instalada en Perú, pero no define inversiones para 2027. Conoce qué pasa con sus proyectos renovables.",
+        "title": "Cobre en Apurímac: acuerdo comunal abre paso a nueva perforación de Panoro en Cotabambas",
+        "summary": "Panoro Minerals firmó un acuerdo con la comunidad de Cochapata para perforar el tajo norte de Cotabambas, en Apurímac. La minera prevé tener su estudio de prefactibilidad a fines de 2027.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/fenix-busca-triplicar-su-capacidad-en-peru-y-evalua-nuevos-proyectos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/2NP3NLV3KJFERORF4B7EJGBJ24.jpeg?auth=1625735c8f280ec861827006fd5b975f6f7296d1feb41edff4edd31cfd23d4fd&smart=true&width=600&height=330",
-        "publishedAt": "2026-10-11T00:27:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/panoro-perforara-10000-metros-en-cotabambas-tras-acuerdo-comunal-lo-que-viene-al-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/JDKVGJEY4JC4HLZECGEIAYJ4IM.jpg?auth=06517d25761c3f733b523751345641b7f91ec148b78d767e0761cbf53c34c31b&smart=true&width=1280&height=720",
+        "publishedAt": "2026-10-11T11:00:00.000Z"
       },
       {
-        "title": "Vistony invierte US$ 15 millones en Ancón y alista ingreso a nuevos mercados de Centroamérica",
-        "summary": "Entre el alza del petróleo y El Niño, Vistony sostiene su plan: más capacidad en Ancón y la meta de liderar los lubricantes al 2030.",
+        "title": "Jubilación después del despido: ¿qué ocurre si la justicia ordena el regreso del trabajador?",
+        "summary": "La Corte Suprema analizó si la jubilación puede extinguir el vínculo laboral antes de los 70 años. Abogados explican el alcance y los límites del fallo.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/vistony-acelera-la-inversion-en-su-planta-de-ancon-y-pone-la-mira-en-nuevos-mercados-al-2030-noticia/",
-        "image": "https://gestion.pe/resizer/v2/A2G2BBBVONABZLXFHOZJJNM6ZU.jpg?auth=26f6127464e0e4fabb788537196813d08560b9a54403f26a2983d75fbd0337c9&smart=true&width=1312&height=826",
-        "publishedAt": "2026-10-10T23:26:59.000Z"
+        "url": "https://gestion.pe/economia/management-empleo/jubilacion-despues-del-despido-que-ocurre-si-la-justicia-ordena-el-regreso-del-trabajador-noticia/",
+        "image": "https://gestion.pe/resizer/v2/6I2DA34NXVAM5JGH6PXK2OQT7M.jpg?auth=3cb954a4c5052eb3134ebc1b18c916e21307f04d0b72e150108377a7e04af7cb&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-11T10:31:00.000Z"
       },
       {
-        "title": "Grupo Inca busca terrenos para restaurantes fuera de Arequipa, pero IGV frena su inversión",
-        "summary": "El Grupo Inca, holding empresarial arequipeño, busca llevar sus restaurantes a Lima, pero el IGV diferenciado frena sus planes.",
+        "title": "Grupo Andino: Cosmos e Infinia miran más allá del Callao: ¿qué negocio buscan construir?",
+        "summary": "Tras la fusión de sus subsidiarias, Cosmos Global Logistics prevé cerrar el 2026 con ventas cercanas a US$ 55 millones y crecer entre 20% y 25% en sus servicios logísticos terrestres en 2027. La compañía también busca más que duplicar su capacidad instalada en el Callao y duplicar el tamaño de su negocio en cinco años.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/grupo-inca-restaurantes-frenan-expansion-a-lima-por-igv-y-colca-lodge-alista-inversion-noticia/",
-        "image": "https://gestion.pe/resizer/v2/DSL6FJCGRVCDDF6SC7C5G7ZODU.jpg?auth=e0ec86347f13c05c74f2284b7573fa7a109c9f2c19d0f220907d7ad13fad5ec8&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-10T21:19:58.000Z"
+        "url": "https://gestion.pe/economia/empresas/cosmos-e-infinia-del-grupo-andino-la-meta-de-crecer-y-duplicar-su-negocio-en-cinco-anos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/ZK35B5TL45HJDDKVVGL2P4NB44.jpg?auth=8be24216cf4432d5c7d09188a7faf511d65336ec6d8e2827b4e4dda0ac30d57f&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-11T10:30:00.000Z"
       },
       {
-        "title": "Carretera Central: MTC ya coordina con el MEF recursos para iniciar túnel Pariachi",
-        "summary": "El ministro de Transportes recordó, justamente, que un hito importante del inicio de la Carretera Central es el túnel Pariachi.",
+        "title": "Primera empresa condenada por lavado de activos vuelve a juicio: ¿qué deberá probarse ahora?",
+        "summary": "Alpha Consult, primera empresa condenada bajo la Ley 30424 por lavado de activos, volverá a juicio. ¿Qué deberá probar la Fiscalía para responsabilizarla?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/carretera-central-mtc-ya-coordina-con-el-mef-recursos-para-iniciar-tunel-pariachi-noticia/",
-        "image": "https://gestion.pe/resizer/v2/BFKMLVRRZFE7XP7DVRJUS7OSG4.jpeg?auth=a442a4de52be5245b9eb9bf9d27d09cec00706e0ccd218ede55ee01c9d9231da&smart=true&width=1126&height=714",
-        "publishedAt": "2026-10-10T19:29:31.000Z"
+        "url": "https://gestion.pe/economia/primera-empresa-condenada-por-lavado-de-activos-en-peru-vuelve-a-juicio-que-debera-probarse-ahora-noticia/",
+        "image": "https://gestion.pe/resizer/v2/TJEVJRZK4VC3TGS55KXFRZSB2M.png?auth=eb7e04c4d8f53d5723063f6fe42b1fd6c3e81585b7dc41f3e9ad46f126a2f476&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-10-11T10:29:00.000Z"
       },
       {
-        "title": "China Keda proyecta invertir hasta US$ 300 millones en Perú: ¿cuál es el futuro de su planta de vidrio?",
-        "summary": "Keda Perú ya puso en marcha su primera línea de producción de vidrio flotado en Cañete, con una inversión de cerca de US$150 millones. La compañía prevé elevar su producción hasta 600 toneladas diarias y evalúa una segunda fase por otros US$150 millones, además de una tercera etapa enfocada en productos de mayor valor ",
+        "title": "Diésel en el centro de las miradas mundiales, ¿Perú debe preocuparse?",
+        "summary": "Para los expertos consultados por Gestión una eventual restricción de las exportaciones de diésel de Estados Unidos implicaría alzas de precios, problemas de abastecimiento y complicaciones para diversas industrias.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/china-keda-apunta-a-us-300-millones-en-peru-que-viene-tras-su-primera-planta-de-vidrio-noticia/",
-        "image": "https://gestion.pe/resizer/v2/LU22VPRYJZHWZL43ZRPSM6XAHU.jpg?auth=1bcb3fc42bf24be5b8b50dd2e54607a990efee9b123573a85d97b227cd6a8b8c&smart=true&width=1600&height=1200",
-        "publishedAt": "2026-10-10T17:51:35.000Z"
+        "url": "https://gestion.pe/economia/diesel-en-el-centro-de-las-miradas-mundiales-tras-anuncios-de-estados-unidos-peru-debe-preocuparse-noticia/",
+        "image": "https://gestion.pe/resizer/v2/HP7KU6KN3BBDVBWMAKIS4T6IAY.jpg?auth=b6096996a2dfe7358c878054d2648d1cffd38a103151a098b59673f21cc6df1e&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-11T10:13:00.000Z"
       },
       {
-        "title": "Tendencias en el registro de asistencia: del reloj biométrico hasta sistemas vía WhatsApp",
-        "summary": "Los tiempos cambian y también las formas de registrar la jornada laboral. El tradicional reloj biométrico ya no es la única alternativa. Ahora, el celular empieza a ganar espacio como una herramienta para reportar los ingresos y salidas de los trabajadores, incluso a través de WhatsApp.",
+        "title": "IA atrae cada vez más inversión pero genera incertidumbre sobre burbuja, ¿qué ve Credicorp?",
+        "summary": "Credicorp Capital destaca el impacto que está teniendo la IA sobre la economía estadounidense.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/tendencias-en-el-registro-de-asistencia-del-reloj-biometrico-hasta-sistemas-via-whatsapp-noticia/",
-        "image": "https://gestion.pe/resizer/v2/MNCRYPHRMRHMDB6BX7M6AD7LAY.jpg?auth=bda9778185081b8bd7fe61ca950465e545045606948930a67e3f1da1aa886a94&smart=true&width=6000&height=4000",
-        "publishedAt": "2026-10-10T17:43:46.000Z"
+        "url": "https://gestion.pe/economia/mercados/ia-atrae-cada-vez-mas-inversion-pero-genera-incertidumbre-sobre-burbuja-que-ve-credicorp-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CSWXAC2ICRGQRLX74BNYAYFF3I.png?auth=6fb484c4dfa09922eb0f03ad8ae35cafdff5c242e1f9713c4ed8928945d06584&smart=true&width=1389&height=926",
+        "publishedAt": "2026-10-11T10:10:00.000Z"
       }
     ],
     "sociedad": [
@@ -153,7 +153,7 @@
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdHlxN3pWUU9DenhObS0temJHTWt6UGoxWThSTEVydk5Sa2U0T0tGZm00VDdEbUJIMnlUQlg4bnR4WEQzME41cnhTUWdYT2VfanpPa3VIS080Q1UycHB6eWtpZEF2ZnM0dDV0bkhmNUtfRzByY202dWt1d2hsWWlrUUdCaGsyZHJNcU1ydWNuOFdPUGcwb2gtSW9TbElROW9nakxmcm03cUFDMEZLT0pXbVpIMlNXdUQ2a0Q2UEw3WkNoVXBjYVc4ZUlFRXRfUVR5alRydkJ1dG5KUkxnQkVEVklGb1RDTWVsMFHSAe8BQVVfeXFMTURTcmlRY1NnMm1abmptUHIwOW1GN2lzc1Z6c29EZFN3bUFUOE50MlQ3MzNSdFhIY2o0X3JveTI2WnRqajNwOEljMU5TblZvbHhZUnMzVk5OaGdNelV6dmp2LWYzQl9ndWNjd0tFWnMyMEIxb2xlMm1nc0s2TEc3SlFrVlIyYTJ2aXl2N2NoZVRNZ1JkcjNhRVJuLWtGeThCQ2hMUUpiYWZfcTZaOEQwcm84TmNwSzlMbGY4dl9ObWNXMVFBbmVpSEdyS05XeG9VLWVGcjNZTDE2Tms1TTVfMWFXWmRrM1l3Tlg1N3JDVmc?oc=5",
         "image": "",
-        "publishedAt": "2026-10-02T22:57:26.000Z"
+        "publishedAt": "2026-10-02T07:00:00.000Z"
       },
       {
         "title": "Trabajadores sociales podrán ejercer en más de 20 campos de intervención según nuevo reglamento - Infobae",
@@ -262,20 +262,20 @@
         "publishedAt": "2026-06-26T07:00:00.000Z"
       },
       {
+        "title": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups - Business Empresarial",
+        "summary": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmtHemFxbzkzZVNVajZWNmstMk9YSDJHejFFbjVDaE5sYWNsT0JRZkxJUjBoa1hmMU5hdTNqclFvbDcxWl9nZUcxRlp4cHdPWGk4SE1oVWlTbW5iNzdwUXNWYWh4WUQzSEY4TmVSbnozMDVmS3BPd1ZUYllacXNOQVpUMFhqR215X1FOSk04Q1p5ZVJseXdrYm5DdkM0SDZpVHc0ZVR1MUNhX1dSRnRPa0dzdkxqS29xdTc5aGw3U2RxRzR0cmNsVGRkS2ota2s0aWFUZjJMc1FvRnlVaUF3Z3Nn?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-25T07:00:00.000Z"
+      },
+      {
         "title": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 - Infobae",
         "summary": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFBQRGNLOWxaMy1mT2RjU0RCNGw4TVNrRmlfX25qei10R09YTWltOXdNX1Fya1g0NEk5S2hhUnQzZmstM3o4bFNJS3QwbkFvUGs3dmx6TktrMDZZSEkzTkJVZ0ZEdmFaa0NUZk9pT1prS1gzNjVDeVMyUzdjWXlNQTNtSThQcnRyRjJ6YlZEWkw1WUF0aTZsQXRTWnJtRnYyX1Z0NDBCYm1PWGlOekJpeGlBS29qLUkzbTBFa1FKMmJnNDNrNDAxeWZn0gHkAUFVX3lxTFB5cjR0aTlsOEl3ZkZEeV9XR05Vb0RHblRDVTRpMFdTZTllMWdRaEpoSlZpSm5JOUZCbzBXc2pic0NMdG9OOGcwQk5fNWF2Wk9FYVp5RnU1WVg4ckU4eTJfT3FEOTN6cURTMjU2d1U5NUJmZ0ZseC1YdllmbEpuZTlnbThqeF9vSlVTb0cxSkZtZFBpTmcwakkzemxzcGJucU9JbFFic2hqNU9jSGVHWkdUTVNuNFFIb0x3S2pTNFBzRXptSF91N0EtSElUMi1kVldUYl9ocmVQLVNSZDY0V25QNV9iRA?oc=5",
         "image": "",
         "publishedAt": "2026-06-18T07:00:00.000Z"
-      },
-      {
-        "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
-        "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-17T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -494,14 +494,6 @@
         "publishedAt": "2026-10-02T07:00:00.000Z"
       },
       {
-        "title": "Conciertos elevan las expectativas del entretenimiento en Perú: sector crecería hasta 8% en 2026 - La República",
-        "summary": "Conciertos elevan las expectativas del entretenimiento en Perú: sector crecería hasta 8% en 2026 &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdjBmOTJrY0FvQ1Y0OEEwTlJQQjdYMzFzWXRINlpmQ0R4YzVzQlZieWpzUVp5WTdVV2RBdF9lSUVjOHh2b2twek1KSVUxaWtHTXZqUmVXZGRfNlJFTUp1emYtMTBRSGxteW0zcUVIb1ktWjNlMmgzWnFaRlotU21rcElfUldDcUMyUWZRc0J0SEdZTTJNbE5UN2pQMXhUUGczTDN4Y01MczZiYWYzX3FhZ1JBX0tVa3N5cWtuQWpfSFFGaVNSWF9VeHM2NlM2MWJ0STY4Y1g4eEhwZm5XQkRDMmlsUExwd9IB6wFBVV95cUxNVWdodTNnWmhWSXZ0TXdBa3NVOFRVbUZrMlhuUGxNQTFvX09hek9Da2hlLU5Yb2txc2I3UklYWE1hLTd1LW00WTd6b0NxdWo1WTRXOTItNWdOLTNmRzVhSkRDblV4YmJDbDdockJ6SVdOZ0VkcXdwOUo1QVlYUDJXN01DZ2FQSXBPbzlNT25KSlRua1ZDRm9jaEdaX2FEcG4zZ1NHQjYybWw0TFRjQkpOWlBhRjhTWUFXM3BhYmxFYWFvWkYwbnU5RTVRWXhRRnRVTGp0Zi1EX28xVldfVDF1T1R6Y0JVclViV3Aw?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-21T07:00:00.000Z"
-      },
-      {
         "title": "Conciertos en Lima para septiembre 2026: todos los eventos con fechas y precios de entradas - La República",
         "summary": "Conciertos en Lima para septiembre 2026: todos los eventos con fechas y precios de entradas &nbsp;&nbsp; La República",
         "source": "La República",
@@ -530,6 +522,14 @@
         "summary": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; Facebook",
         "source": "Facebook",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdFRtVHlGS2ZUeUplTE1XU09ickJVSlBqR0Z3VGR1cjlrTG5NQlNuOFc5Si1OVXVLclh2T3Z1VEhKV1luN09INHpaRHp6U1Z1a2dRWWVjT1NzcG1pSnN2SVJGTnBvMzhzSXFlWnVFVXhKVmZtSUF1Z19rN1Z4U1BqNU02Qjd2dWRnWnZXemlkZlZHeVMxckFPT3pLeTNUek5uVkZOZUM5ZVVGMXFISG1GUEYxTXB2TW1PaUI1QkJsMFFOQ2g3TF9pOXVBdV9UVk95ZGN2M04tNDlLNFFhc2h0UHAzWU9QaC1mOW1Nb1B0U1RGTEs5Y204ZQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-05T07:00:00.000Z"
+      },
+      {
+        "title": "🔴🔵Descansa en paz: 🕊Fallece Víctor Angobaldo, recordado personaje de la farándula peruana👇 - Facebook",
+        "summary": "🔴🔵Descansa en paz: 🕊Fallece Víctor Angobaldo, recordado personaje de la farándula peruana👇 &nbsp;&nbsp; Facebook",
+        "source": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQLWVGbEUwVG85QTkzaU82bVRlX0lJc3hyd1hzbERpS2lvaWZqTE9idmxvUlZwM3JzV3RtM25EamxVZGY1UnNRNVJxaUNNaTU4VU1abExzUHk3Q3RTYjlFcHpXMnpxVF8ySzZvZVZxTUxDWnRrYWgzX3BVazNTNVd3dTBvamE2S1oyRHdiNDNKNC1wX19FbjZ1VnN1S0xaTGdQVy1OY0cwbzVCX0ZFbjI0aDZYVlNhWUFXVFZzNEJkUWMzNE8xVU1PVzcyWklPLU5RQVRueEVuWElRcWdZekJGNFdJbkVobFMtcHMw?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
