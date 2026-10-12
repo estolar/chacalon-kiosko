@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T22:51:18.788Z",
+  "generatedAt": "2026-10-12T02:21:24.513Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,44 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Resultados ONPE al 92.919% de las Elecciones Regionales y Municipales 2026: revisa aquí el conteo oficial",
+        "title": "Juntos por el Perú impulsa Proposiciones Legislativas que figuran en acuerdo firmado con el Fenatep",
+        "summary": "Más de cinco propuestas legislativas, que figuran figuran en el acuerdo que el líder de Juntos por el Perú y excandidato presidencial, Roberto Sánchez, firmó con el grupo vinculado al Movadef, fueron presentados por diputados de JP.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/la-bancada-de-juntos-por-el-peru-del-congreso-bicameral-impulsa-proposiciones-legislativas-cuyos-temas-figuran-en-el-acuerdo-firmado-con-el-fenatep-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/PO7NJCSGFRBJNBELTS4IHMIISE.png?auth=cfea00a3af931cd19bd0f567b1c9f126067a192bb87a037fc8dc170869708c65&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-12T02:07:00.000Z"
+      },
+      {
+        "title": "Revelan que el Congreso destinó casi S/3 millones a la remodelación de sus comedores para parlamentarios y trabajadores",
+        "summary": "El Congreso de la República destinó casi S/3 millones del erario nacional a la remodelación de sus comedores para parlamentarios y trabajadores, dejando de lado el ambiente convencional que funcionó hasta mayo de este año, según reveló “Cuarto Poder”.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/congreso-revelan-que-destino-casi-3-millones-de-soles-a-la-remodelacion-de-sus-comedores-para-parlamentarios-y-trabajadores-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/UMYHG5GIHFFZ5OG2UPX3QPR7JI.jpg?auth=0ef1d50b56de9b2f49319683a89ebaa9d7efc352b6ea241c7d0692cbec293f43&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-12T02:05:23.000Z"
+      },
+      {
+        "title": "Resultados ONPE al 92.919% de las Elecciones Regionales y Municipales 2026: mira aquí el conteo oficial",
         "summary": "",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/elecciones/resultados-onpe-en-vivo-sigue-el-conteo-oficial-de-las-elecciones-regionales-y-municipales-2026-lbposting-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/DQVEN76WDZG47ISFYVOOZ6HZSA.jpg?auth=d85ffee93545cab7bf3cf214b2a09ac13eae75e1d7eda36ac5b798593b623aee&smart=true&width=1200&height=675",
-        "publishedAt": "2026-10-11T21:07:37.000Z"
+        "publishedAt": "2026-10-12T01:22:31.000Z"
+      },
+      {
+        "title": "Congreso: Este lunes 12 se inicia la semana de representación para senadores y diputados",
+        "summary": "Este lunes 12 de octubre se iniciará la semana de representación para los senadores y diputados del actual Congreso bicameral 2026-2031, quienes se trasladarán a las regiones por las cuales fueron elegidos.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/congreso-este-lunes-12-se-inicia-la-semana-de-representacion-para-senadores-y-diputados-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/2OETYLYCXVDMFPBVK3QCM5YHBA.jpg?auth=6711901d9dd77295f3b3085d528d7303a20c69931ce23fcb7de1a4f52213bc99&smart=true&width=1200&height=821",
+        "publishedAt": "2026-10-12T00:51:03.000Z"
+      },
+      {
+        "title": "Tenso altercado en plena sesión del Senado: Así se desarrolló el incidente entre Iber Maraví y el ministro Astudillo",
+        "summary": "Un tenso altercado se registró ayer en la Comisión de Constitución, donde el senador Iber Maraví (Juntos por el Perú) y el ministro César Astudillo (Interior) protagonizaron uno de los primeros enfrentamientos verbales del Senado.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/tenso-altercado-en-plena-sesion-del-senado-asi-se-desarrollo-el-enfrentamiento-entre-iber-maravi-y-el-ministro-astudillo-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/ECUG7OBR3JCONFNCTVUCLE4AF4.jpg?auth=bd8d975660e0383b013ca701c8d457e90857dec73c24bbb5193acf36a07f3af0&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-12T00:06:23.000Z"
       },
       {
         "title": "Ministro Sheput: “Hay una oposición intransigente que, sin haber hecho análisis, ha negado las facultades”",
@@ -46,72 +78,40 @@
         "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-solicita-permiso-al-congreso-para-viajar-a-el-salvador-que-aspectos-del-plan-bukele-quiere-estudiar-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/DFUKTZIWWZBC3AYKYJW7ARYIOU.jpg?auth=1e6ade966323d520f1a86cf919ff51dd4a67faa0ff1785ce5035d7165a347ba1&smart=true&width=700&height=538",
         "publishedAt": "2026-10-11T16:50:00.000Z"
-      },
-      {
-        "title": "Keiko Fujimori expresa solidaridad con el papa León XIV y pide por su pronta recuperación: “Nuestras oraciones lo acompañan”",
-        "summary": "La presidenta Keiko Fujimori expresó su solidaridad con el papa León XIV, quien será sometido a una intervención médica para extirparle un nódulo localizado en el pulmón, y manifestó su deseo de que pueda recuperarse plenamente y concretar su visita al Perú.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-expresa-solidaridad-con-el-papa-leon-xiv-y-pide-por-su-pronta-recuperacion-nuestras-oraciones-lo-acompanan-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/7IT3B5YSHFEB3AJ6DK2RL7HSJM.jpg?auth=e8fee0c7db8f8499121f8f5329fb94f8a65e6d25c44364f2fb912844c0d13d28&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-11T16:43:05.000Z"
-      },
-      {
-        "title": "Piden al JEE y a ONPE celeridad para definir resultados de la elección por la Alcaldía de Lima",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/elecciones-lima-piden-celeridad-a-la-onpe-y-al-jee-en-resultados-de-las-elecciones-para-la-alcaldia-de-lima-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/7SVUPK37EVBL5CP2RZ22IK7WZA.jpg?auth=5da0385ee043b33e95689f990c350ff661f34342e1222d3b7967e377c4601d6e&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-11T16:30:00.000Z"
-      },
-      {
-        "title": "Giannina, la impasible, una crónica de Fernando Vivas sobre la presidenta de la Comisión de Constitución de Diputados",
-        "summary": "La presidenta de la Comisión de Constitución, Giannina Avendaño, de Juntos Por el Perú, sacó de quicio al fujimorismo con su impasible rechazo a aprobar las facultades.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/giannina-la-impasible-cronica-fernando-vivas-presidenta-de-la-comision-de-constitucion-de-diputados-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/JEG74J2YJZAAFNSTCBNVSDBXFE.jpg?auth=1265644bbd74a667a4d9ad61d37d1b6e6c75b293f976c907e8484d954f33e2de&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-11T16:20:00.000Z"
-      },
-      {
-        "title": "Domingo García Belaunde: “La gente que está en Diputados está perdida en el espacio, no conoce el juego parlamentario”",
-        "summary": "Domingo García Belaunde habla sobre los límites del Senado para modificar la delegación de facultades, la crisis política en el Congreso, la cifra repartidora y la controversia por Rafael López Aliaga.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/domingo-garcia-belaunde-la-gente-que-esta-en-diputados-esta-perdida-en-el-espacio-no-conoce-el-juego-parlamentario-delegacion-de-facultades-limites-del-senado-rafael-lopez-aliaga-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/T5IKEVM5LZCFHLNREIHK34GLDU.jpeg?auth=6b679d2b42e29b8f346d3dde7d292d4bc5853b81c03c3e4a1811652e20718502&smart=true&width=1600&height=1147",
-        "publishedAt": "2026-10-11T16:10:00.000Z"
       }
     ],
     "economia": [
-      {
-        "title": "Papa de Perú: 125,000 hectáreas peligran por plaga que anula hasta el 100% de cosecha",
-        "summary": "La plaga de la punta morada amenaza al cultivo de papa en Perú. Estas son las características, el insecto que la transmite y el impacto en los productores.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/papa-de-peru-y-su-produccion-125000-hectareas-peligran-por-plaga-que-anula-hasta-el-100-de-cosecha-noticia/",
-        "image": "https://gestion.pe/resizer/v2/NIEW6ZPA2BAMPBEIPBJATVUGCM.png?auth=c0df01d519120dfbdae088102535f1ffcd191680547eb1c4b0622bc4d77875ca&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-10-11T22:44:00.000Z"
-      },
       {
         "title": "Fénix espera hasta triplicar su capacidad en Perú y evalúa su cartera de proyectos",
         "summary": "Fénix Power busca duplicar o triplicar su capacidad instalada en Perú, pero no define inversiones para 2027. Conoce qué pasa con sus proyectos renovables.",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/fenix-busca-triplicar-su-capacidad-en-peru-y-evalua-nuevos-proyectos-noticia/",
         "image": "https://gestion.pe/resizer/v2/2NP3NLV3KJFERORF4B7EJGBJ24.jpeg?auth=1625735c8f280ec861827006fd5b975f6f7296d1feb41edff4edd31cfd23d4fd&smart=true&width=600&height=330",
-        "publishedAt": "2026-10-11T22:30:00.000Z"
+        "publishedAt": "2026-10-12T02:16:43.000Z"
       },
       {
-        "title": "Pérdidas tributarias durante pandemia vuelven a debate: se usarían para “reducir” pago del IR",
-        "summary": "Una propuesta busca ampliar hasta diez años el plazo para compensar pérdidas tributarias generadas durante la pandemia. ¿Qué pasaría con las pérdidas de 2020?",
+        "title": "Vistony invierte US$ 15 millones en Ancón y alista ingreso a nuevos mercados de Centroamérica",
+        "summary": "Entre el alza del petróleo y El Niño, Vistony sostiene su plan: más capacidad en Ancón y la meta de liderar los lubricantes al 2030.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/perdidas-tributarias-durante-pandemia-vuelven-a-debate-proyecto-de-ley-plantea-que-se-usen-para-reducir-pago-del-impuesto-a-la-renta-en-peru-noticia/",
-        "image": "https://gestion.pe/resizer/v2/DWKTHLLZZJFT3HXJ4ZS55MTXKY.jpg?auth=a08d5b997452653a61e60124c21c50664261f5511952953ea843e2a4ee5e8cf6&smart=true&width=1200&height=927",
-        "publishedAt": "2026-10-11T22:15:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/vistony-acelera-la-inversion-en-su-planta-de-ancon-y-pone-la-mira-en-nuevos-mercados-al-2030-noticia/",
+        "image": "https://gestion.pe/resizer/v2/A2G2BBBVONABZLXFHOZJJNM6ZU.jpg?auth=26f6127464e0e4fabb788537196813d08560b9a54403f26a2983d75fbd0337c9&smart=true&width=1312&height=826",
+        "publishedAt": "2026-10-12T01:00:00.000Z"
       },
       {
-        "title": "Diésel en el centro de las miradas mundiales, ¿Perú debe preocuparse?",
-        "summary": "Para los expertos consultados por Gestión una eventual restricción de las exportaciones de diésel de Estados Unidos implicaría alzas de precios, problemas de abastecimiento y complicaciones para diversas industrias.",
+        "title": "Déficit hídrico amenaza a 17 regiones en Perú: Gobierno declara en emergencia 707 distritos",
+        "summary": "Gobierno declara estado de emergencia en 707 distritos de 17 regiones por riesgo de déficit hídrico. Conoce qué zonas están incluidas.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/diesel-en-el-centro-de-las-miradas-mundiales-tras-anuncios-de-estados-unidos-peru-debe-preocuparse-noticia/",
-        "image": "https://gestion.pe/resizer/v2/HP7KU6KN3BBDVBWMAKIS4T6IAY.jpg?auth=b6096996a2dfe7358c878054d2648d1cffd38a103151a098b59673f21cc6df1e&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-11T21:22:23.000Z"
+        "url": "https://gestion.pe/economia/riesgo-de-sequia-amenaza-a-17-regiones-en-peru-gobierno-declara-en-emergencia-707-distritos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/GSMZODP65ZFW3IVNDC3FPQQWRQ.jpg?auth=1852f46d401bc15763b0f2935abbbff5d1e7331e2dedeaa73ba42e369adf5393&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-12T00:08:15.000Z"
+      },
+      {
+        "title": "Fenómeno de El Niño: seis medidas clave para que las pymes protejan su negocio",
+        "summary": "Las pequeñas y medianas empresas (pymes) suelen ser las más vulnerables cuando fenómenos climáticos como El Niño (FEN) afectan la infraestructura, el transporte, el abastecimiento o el acceso a servicios básicos. Por ello, los especialistas recomiendan que los negocios no esperen a que ocurra una emergencia para tomar ",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/fenomeno-de-el-nino-seis-medidas-clave-para-que-las-pymes-protejan-su-negocio-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CX6PIEVFQJC6HDD3VD3W7FBU2Q.jpg?auth=b3ba127b44f1adb9207a69d3dab90aa5ddf3a54fd1891f3e3209fc136dc34bda&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-12T00:03:05.000Z"
       },
       {
         "title": "Jubilación después del despido: ¿qué ocurre si la justicia ordena el regreso del trabajador?",
@@ -119,23 +119,15 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/management-empleo/jubilacion-despues-del-despido-que-ocurre-si-la-justicia-ordena-el-regreso-del-trabajador-noticia/",
         "image": "https://gestion.pe/resizer/v2/6I2DA34NXVAM5JGH6PXK2OQT7M.jpg?auth=3cb954a4c5052eb3134ebc1b18c916e21307f04d0b72e150108377a7e04af7cb&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-11T21:00:25.000Z"
+        "publishedAt": "2026-10-12T00:00:00.000Z"
       },
       {
-        "title": "Primera empresa condenada por lavado de activos vuelve a juicio: ¿qué deberá probarse ahora?",
-        "summary": "Alpha Consult, primera empresa condenada bajo la Ley 30424 por lavado de activos, volverá a juicio. ¿Qué deberá probar la Fiscalía para responsabilizarla?",
+        "title": "Yanacocha plantea extender hasta 2027 la explotación minera en dos zonas de Cajamarca",
+        "summary": "La minera presentó ante el Senace una propuesta para modificar el plan de explotación en las zonas Katia y Yanacocha Pinos, en el tajo Yanacocha–Etapa 2. Prevé extraer cerca de 19,7 millones de toneladas de mineral durante 2027, que serán destinadas a dos pilas de lixiviación.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/primera-empresa-condenada-por-lavado-de-activos-en-peru-vuelve-a-juicio-que-debera-probarse-ahora-noticia/",
-        "image": "https://gestion.pe/resizer/v2/TJEVJRZK4VC3TGS55KXFRZSB2M.png?auth=eb7e04c4d8f53d5723063f6fe42b1fd6c3e81585b7dc41f3e9ad46f126a2f476&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-10-11T21:00:10.000Z"
-      },
-      {
-        "title": "Carteles en locales comerciales: ¿qué puede realmente regular la municipalidad?",
-        "summary": "¿Pueden multarte por colocar publicidad en la fachada de tu negocio? Conoce cuándo necesitas autorización y qué límites tiene la municipalidad.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/carteles-en-locales-comerciales-que-puede-realmente-regular-la-municipalidad-noticia/",
-        "image": "https://gestion.pe/resizer/v2/KJLK34J73BE6FJDH7TBTLPDZ7Q.png?auth=1ec466b90ad8af39c5abb17aefe2beff763e0cbcc373aad31655781a7389d50c&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-10-11T20:45:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/yanacocha-reconfigurara-plan-de-minado-en-dos-zonas-de-cajamarca-hasta-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/K6UJTUEQMREOLMQIFM6E3LOZ4A.jpg?auth=b16227533bf0b69122892ba30fe23ce5788077c04d186619569baf14fb58c5d0&smart=true&width=760&height=507",
+        "publishedAt": "2026-10-11T23:45:00.000Z"
       },
       {
         "title": "Perú y Chile evalúan interconexión eléctrica de US$ 550 millones",
@@ -143,7 +135,15 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/peru-y-chile-evaluan-interconexion-electrica-de-us-550-millones-segun-el-ministro-del-minem-guillermo-shinno-noticia/",
         "image": "https://gestion.pe/resizer/v2/RNAGEIEGC5HINHNS7PEP7OPKTM.jpg?auth=2ff980d3454861b9de40d86f9ede3a203442d9cd3df1a24ea16606d819091954&smart=true&width=619&height=347",
-        "publishedAt": "2026-10-11T20:40:10.000Z"
+        "publishedAt": "2026-10-11T23:42:26.000Z"
+      },
+      {
+        "title": "Tendencias en el registro de asistencia: del reloj biométrico hasta sistemas vía WhatsApp",
+        "summary": "Los tiempos cambian y también las formas de registrar la jornada laboral. El tradicional reloj biométrico ya no es la única alternativa. Ahora, el celular empieza a ganar espacio como una herramienta para reportar los ingresos y salidas de los trabajadores, incluso a través de WhatsApp.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/tendencias-en-el-registro-de-asistencia-del-reloj-biometrico-hasta-sistemas-via-whatsapp-noticia/",
+        "image": "https://gestion.pe/resizer/v2/MNCRYPHRMRHMDB6BX7M6AD7LAY.jpg?auth=bda9778185081b8bd7fe61ca950465e545045606948930a67e3f1da1aa886a94&smart=true&width=6000&height=4000",
+        "publishedAt": "2026-10-11T23:30:00.000Z"
       }
     ],
     "sociedad": [
@@ -346,6 +346,14 @@
     ],
     "ia": [
       {
+        "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - Diario Ahora",
+        "summary": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú &nbsp;&nbsp; Diario Ahora",
+        "source": "Diario Ahora",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUwwRm5ROVRhYTJuX0RCWEVaNW4yU1lQU0k0anlPcFRITnJEZTItWXJnVDF5MkYxODhCSV9sSWRJelduRjFLRnNYTDZGVG15WVdDQTJkRUpBVFd4V2FZazA2Q3ZvNGgxV2M3Z2FlcEl5cHJESEZoRWwyM0VPQ2MwWlpBc3BSakN3N25NTi1UNU1rWEhwejBONjQ1dTdUS3Y5Y1RUc0Y4dkpOZzFvTFJsWnZJREZGMmpwb2tPeFpyRnpha1Q5MWRlQw?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-11T10:10:33.000Z"
+      },
+      {
         "title": "Uso de IA crece en empresas, pero solo 30% reporta políticas de seguridad - La República",
         "summary": "Uso de IA crece en empresas, pero solo 30% reporta políticas de seguridad &nbsp;&nbsp; La República",
         "source": "La República",
@@ -392,14 +400,6 @@
         "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZWNoNjl4clE4WTBIWHU1akJlVFJhRDU0Z0QzSGUteTFLdE5DUVptaTlvU0ZZY3l6Y0g0M2JETk9yV2VMWWJVWlJUY0xaU2o0ZERZYjhOOVZ6emx0T3RkYU9OQ19xMnZUVFlWdjY0VUdBUHVSbjdrOEc0cXRlUU9qRDlsQVRrQmJvVW1mbEdZUWZINFIyWWRhYWNBOXc0UFAzMFh0MjZMRVJFRWo0bTJsWTVkODgtR2FTZll4Q3RzSjJjZ3F1TmZKU25FTDU1N1F4V0Q2eWl4R3pOTExselRQQmdYTkpjZEFRQlFGQkJ1MHVOWkpmajhwNV9UdjZWdjlSdkJz?oc=5",
         "image": "",
         "publishedAt": "2026-10-01T07:00:00.000Z"
-      },
-      {
-        "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - Diario Ahora",
-        "summary": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú &nbsp;&nbsp; Diario Ahora",
-        "source": "Diario Ahora",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUwwRm5ROVRhYTJuX0RCWEVaNW4yU1lQU0k0anlPcFRITnJEZTItWXJnVDF5MkYxODhCSV9sSWRJelduRjFLRnNYTDZGVG15WVdDQTJkRUpBVFd4V2FZazA2Q3ZvNGgxV2M3Z2FlcEl5cHJESEZoRWwyM0VPQ2MwWlpBc3BSakN3N25NTi1UNU1rWEhwejBONjQ1dTdUS3Y5Y1RUc0Y4dkpOZzFvTFJsWnZJREZGMmpwb2tPeFpyRnpha1Q5MWRlQw?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-28T09:50:46.000Z"
       },
       {
         "title": "El 24,1% de la fuerza laboral en Perú está altamente expuesta a la IA generativa: ¿qué significa para los trabajadores? - Infobae",
