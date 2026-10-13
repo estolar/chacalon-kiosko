@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T17:34:33.745Z",
+  "generatedAt": "2026-10-13T22:41:02.646Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,28 +24,20 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "EN VIVO | Senado: Comisión de Constitución reanuda su sesión sobre delegación de facultades",
-        "summary": "La Comisión de Constitución, Reglamento y Relaciones Exteriores del Senado reanudará su primera sesión no ordinaria este martes 13 de octubre, donde seguirá abordando la sustentación de la delegación de facultades que quedaron excluidas del dictamen aprobado por la Cámara de Diputados.",
+        "title": "La dispersión del voto creció en las últimas elecciones municipales en Lima Metropolitana: ¿Cuántos distritos y qué zonas apoyaron a los alcaldes ganadores?",
+        "summary": "El voto en Lima Metropolitana se ha fragmentado con el paso de los años. En las últimas elecciones municipales, celebradas en el 2022, Rafael López Aliaga, de Renovación Popular, se convirtió en alcalde de la capital con poco más de un cuarto de los votos válidos (26,3%), la cifra más baja desde el 2006.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/senado-comision-de-constitucion-reanuda-su-sesion-este-martes-13-sobre-delegacion-de-facultades-apuesplan-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/A76CIE2DRVGJRP7Q5MND3TY22E.jpg?auth=12e00de6092118d0e1c8cc78dd60789daa4387ef5e4cea951b67ab96ac6c9b12&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-10-13T16:49:05.000Z"
+        "url": "https://elcomercio.pe/ecdata/elecciones-2026-la-dispersion-del-voto-crecio-en-las-ultimas-elecciones-municipales-en-lima-metropolitana-cuantos-distritos-y-que-zonas-apoyaron-a-los-alcaldes-ganadores-rafael-lopez-aliaga-carlos-bruce-francis-allison-onpe-jne-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/QOOJFCDYQJGHXNXBZ6TZP3I27Q.jpg?auth=242e8b6ee7cb83ce4e935e033284dc16b20c9f7538e812f1dc5f965a276fd713&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-13T21:53:33.000Z"
       },
       {
-        "title": "Graciela Chipana trató de evitar juicio por discriminación a menor: ¿Por qué el Poder Judicial rechazó recurso de diputada de JP?",
-        "summary": "La Diputada de Juntos Por el Perú (JP), Graciela Chicana, es acusada por haber ejercido discriminación agravada contra un menor con habilidades especiales, cuando se desempeñaba como profesora de un colegio inicial en Moquegua.",
+        "title": "Elecciones municipales 2026: Casi mil candidatos limeños cambiaron de camiseta política",
+        "summary": "Poner tu bajada aquí",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/graciela-chipana-trato-de-evitar-juicio-por-discriminacion-a-menor-por-que-el-poder-judicial-rechazo-recurso-de-diputada-de-jp-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/7HGNTG3NM5AHFAPRSAWRQER7V4.png?auth=c0f8e92d1fd19c8b0bc6fbb76f5f519a355c3426d5131517cd97b16e7e392e6d&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-13T16:18:57.000Z"
-      },
-      {
-        "title": "Las nuevas bancadas ‘cascarón’: Votaciones en temas oficialistas muestran fisuras en grupos del Congreso",
-        "summary": "Los debates sobre la delegación de facultades en Diputados y los viajes presidenciales en Senado muestran discrepancias en la interna de bancadas como Juntos por el Perú, Ahora Nación y Obras.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/las-nuevas-bancadas-cascaron-votaciones-en-temas-oficialistas-muestran-fisuras-en-grupos-del-congreso-juntos-por-el-peru-obras-ahora-nacion-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/BBNDXE4F3REQXMPNUXPIX6CPQI.png?auth=4804f724a0d0996f3084bc82f1eb21d61d05734a6a393fde390b244ff6f24378&smart=true&width=1160&height=660",
-        "publishedAt": "2026-10-13T15:55:00.000Z"
+        "url": "https://elcomercio.pe/ecdata/elecciones-municipales-2026-casi-mil-candidatos-limenos-cambiaron-de-camiseta-politica-rafael-lopez-aliaga-carlos-bruces-francis-allison-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/MEVF7KANNJBXPJBZ6TFZIK7SDM.jpg?auth=b31ed9a2520d470199d73bb052125f9d2e17d14cdb08ebbbd66cc4906ce2bc98&smart=true&width=1200&height=628",
+        "publishedAt": "2026-10-13T21:53:14.000Z"
       },
       {
         "title": "¿Lima puede elegir a su alcalde en segunda vuelta? Esto tendría que cambiar para aplicar en el futuro propuesta de Francis Allison",
@@ -53,15 +45,15 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/elecciones/lima-puede-elegir-a-su-alcalde-en-segunda-vuelta-esto-tendria-que-cambiar-para-aplicar-propuesta-de-francis-allison-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/U557BKETIRDXPMADX772MSLMJA.jpg?auth=330ffc0acf2549f1345d4a7fe6fd6efa358a3744e4f8e6c0a1609f7fa5ea0458&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-13T15:47:05.000Z"
+        "publishedAt": "2026-10-13T21:06:58.000Z"
       },
       {
-        "title": "Miguel Torres: “Dejemos atrás los enfrentamientos y continuemos con el debate de las facultades legislativas”",
-        "summary": "",
+        "title": "Graciela Chipana trató de evitar juicio por discriminación a menor: ¿Por qué el Poder Judicial rechazó recurso de diputada de JP?",
+        "summary": "La Diputada de Juntos Por el Perú (JP), Graciela Chicana, es acusada por haber ejercido discriminación agravada contra un menor con habilidades especiales, cuando se desempeñaba como profesora de un colegio inicial en Moquegua.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/miguel-torres-dejemos-atras-los-enfrentamientos-y-continuemos-con-el-debate-de-las-facultades-legislativas-ultimas-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/SR2RYHT5QZFDNCI536SA2IY3SQ.jpg?auth=1292a2339a05065fe6802f5a1394a3c6eb4c6fbc2668655589f99789a0c068c0&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-13T15:45:58.000Z"
+        "url": "https://elcomercio.pe/politica/graciela-chipana-trato-de-evitar-juicio-por-discriminacion-a-menor-por-que-el-poder-judicial-rechazo-recurso-de-diputada-de-jp-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/7HGNTG3NM5AHFAPRSAWRQER7V4.png?auth=c0f8e92d1fd19c8b0bc6fbb76f5f519a355c3426d5131517cd97b16e7e392e6d&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-13T20:57:34.000Z"
       },
       {
         "title": "Los distritos claves para López Aliaga y Allison: el mapa de Lima entre la dispersión del voto y el arrastre inverso",
@@ -69,49 +61,41 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/los-distritos-claves-rafael-lopez-aliaga-y-francis-allison-el-mapa-electoral-de-lima-elecciones-regionales-y-municipales-2026-onpe-jne-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/AK2SGXEPENHL7MXACSKGWAHDWY.png?auth=e7c142456e333b26b64addc7ab384ed53a84c4e5f0f6f7bdcd3c5e48648cd5ea&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-10-13T15:45:00.000Z"
+        "publishedAt": "2026-10-13T20:50:00.000Z"
       },
       {
-        "title": "Carlos Mesía: dictamen sobre facultades legislativas se debatirá el jueves en Comisión de Constitución y el lunes en el pleno del Senado",
-        "summary": "La Comisión de Constitución del Senado debatirá este jueves el dictamen sobre la delegación de facultades legislativas solicitada por el Ejecutivo, mientras que el lunes el tema será abordado en el pleno de la Cámara Alta, informó Carlos Mesía, presidente de dicho grupo de trabajo.",
+        "title": "Los bastiones que dieron la espalda a Juntos por el Perú en las elecciones regionales: ¿los motivos de la derrota?",
+        "summary": "Juntos por el Perú, el partido de Roberto Sánchez, no lograría conquistar ningún gobierno regional ni alguna de las 36 alcaldías provinciales en las que presentó candidatos, pese al respaldo obtenido en las elecciones presidenciales de 2026. Su presencia se limitaría a algunos municipios distritales, en medio del retro",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/carlos-mesia-dictamen-sobre-facultades-legislativas-se-debatira-el-jueves-en-comision-de-constitucion-y-el-lunes-en-el-pleno-del-senado-ultimas-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/CHPG3FXQDFBXJICZ6EWZU3N55E.jpg?auth=c02282001be56f79246f2afd76488dc2e8e95ffdc8967f978e8aff3f1c376e76&smart=true&width=1240&height=828",
-        "publishedAt": "2026-10-13T15:23:11.000Z"
+        "url": "https://elcomercio.pe/politica/juntos-por-el-peru-roberto-sanchez-pierde-bastiones-en-las-elecciones-regionales-y-municipales-2026-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/4QY4TBHZKFBRXAZX77HW6VR4RU.jpg?auth=4de47c505422988fe4e59da48ff50af7ec81967e2d161eb529581353402075d7&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-13T20:48:34.000Z"
+      },
+      {
+        "title": "Arturo Alegría: “De partido de Buen Gobierno no tiene nada, es un anexo de Juntos por el Perú”",
+        "summary": "El diputado Arturo Alegría, portavoz de Fuerza Popular en la cámara baja, consideró que no existe un centro en el Congreso, al criticar la cercanía del Partido del Bueno Gobierno con Juntos por el Perú. También respaldó al ministro del Interior, César Astudillo, tras el altercado que protagonizó el último sábado con el",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/arturo-alegria-de-partido-de-buen-gobierno-no-tiene-nada-es-un-anexo-de-juntos-por-el-peru-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/DSGRMC6WGNHUNIA3RGQMNUFCBQ.jpg?auth=128e7a306961c5eb1b1e7aba8c474e1aedd85543d4419f26a28d4d22d716a101&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-10-13T20:15:00.000Z"
       }
     ],
     "economia": [
       {
-        "title": "De EE.UU. a Asia: la mira de LimaTours en nuevos turistas y destinos vírgenes en Perú",
-        "summary": "El turismo receptivo peruano sigue en recuperación, pero con cierta desaceleración en el esperado despegue, teniendo a Machu Picchu como cuello de botella por la venta de entradas. En ese contexto, LimaTours —con operación propia en el circuito del sur peruano y con una red de 150 hoteles conectados en línea— avanza co",
+        "title": "Exportación peruana de confecciones cae 5.7% y el sector apunta a los aranceles de EE. UU.",
+        "summary": "Las exportaciones peruanas de confecciones cayeron 5.7% hasta agosto de 2026 por el impacto de los aranceles de Estados Unidos, informó ADEX.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/machu-picchu-y-el-turismo-mas-alla-del-cusco-el-plan-de-limatours-tras-nuevos-turistas-y-destinos-virgenes-en-peru-noticia/",
-        "image": "https://gestion.pe/resizer/v2/B7FOJJLGQFCCDLJZZXB2B74SJQ.jpg?auth=6a1f0796b509dc0772cd02e777c52d570f5e7e42099a371302e995e055c2c2b3&smart=true&width=1214&height=697",
-        "publishedAt": "2026-10-13T17:23:47.000Z"
+        "url": "https://gestion.pe/economia/textil-exportacion-peruana-de-confecciones-cae-57-y-el-sector-apunta-a-los-aranceles-de-estados-unidos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/FCSTRE7OMRDZ7GC5RKCLSL7MWA.jpg?auth=8982edfecf70934a1c2abc78c4752b28be11d5150a046307bc6c1cc0379220bd&smart=true&width=1200&height=793",
+        "publishedAt": "2026-10-13T22:10:47.000Z"
       },
       {
-        "title": "Mercados e indicadores – Hoy martes 13 de octubre",
-        "summary": "Para tomar las decisiones más acertadas de inversión, manténgase diariamente bien informado sobre el desempeño de las acciones de la plaza bursátil, de la variación de las principales variables del mercado financiero, así como de la evolución de los precios de los commodities. La cotización en el mercado de Londres el ",
+        "title": "Perú y su bóveda sin lingotes: el tesoro que “vale” más que el oro",
+        "summary": "La bóveda del BCRP guarda mucho más que una historia sobre el oro. Conoce las piezas históricas que preservan la memoria económica y cultural del Perú.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/mercados/mercados-e-indicadores-hoy-martes-13-de-octubre-noticia/",
-        "image": "https://gestion.pe/resizer/v2/CKBJCXWQXVCTXHZN5ZAGTM66RE.jpg?auth=c935a9816683dbd514d89311dedaf60293df727aefbd90da56a9830e4813f2eb&smart=true&width=1280&height=720",
-        "publishedAt": "2026-10-13T17:14:26.000Z"
-      },
-      {
-        "title": "Alza de la RMV en S/ 100: los efectos adicionales al sueldo básico",
-        "summary": "A fines de setiembre, la presidenta Keiko Fujimori anunció el incremento de la Remuneración Mínima Vital (RMV), que pasará de S/1,130 a S/1,230. Para las micro y pequeñas empresas que tienen entre 2 y 10 trabajadores, el Gobierno contempla además un bono extraordinario de S/100.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/alza-de-la-rmv-en-s-100-los-efectos-adicionales-al-sueldo-basico-noticia/",
-        "image": "https://gestion.pe/resizer/v2/OAjQAvcMFL38cuYBxD2voRJ3mu8=/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/WI6725QJRFGBVF4Q5KPKGIVP54.jpg",
-        "publishedAt": "2026-10-13T16:53:00.000Z"
-      },
-      {
-        "title": "Netflix compró los derechos de transmisión del Mundial 2030",
-        "summary": "Netflix adquirió los derechos exclusivos para transmitir el Mundial de 2030 en la coanfitriona España, en un acuerdo que permite que una emisora pública en abierto muestre partidos cada día, incluido el campeón defensor.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/netflix-compra-derechos-de-transmision-del-mundial-2030-noticia/",
-        "image": "https://gestion.pe/resizer/v2/ZWRICYEYLRDWDC7FNDFHD4FSUM.jpg?auth=79ce17c84198dd3e721bc72875cf3da707a94b360584dd2060fa0b298778554b&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-13T16:33:02.000Z"
+        "url": "https://gestion.pe/economia/peru-y-su-boveda-sin-lingotes-el-tesoro-que-vale-mas-que-el-oro-en-el-bcrp-noticia/",
+        "image": "https://gestion.pe/resizer/v2/6NX7NHDY5REHHBWAYHNPCZW7J4.png?auth=95af48182cc77f9cb9511993fce6c4bb528a5955cf045fe2cd20be78cdf2bbcb&smart=true&width=1303&height=868",
+        "publishedAt": "2026-10-13T22:09:00.000Z"
       },
       {
         "title": "Corío apunta a ser una “ciudad puerto”: todo lo que traería el proyecto dentro de 10 años",
@@ -119,23 +103,31 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/corio-apunta-a-ser-una-ciudad-puerto-todo-lo-que-traeria-el-proyecto-en-minimo-10-anos-noticia/",
         "image": "https://gestion.pe/resizer/v2/ZTMWCFT37FA6RIIM5WVCZK2R34.png?auth=f0ae4758190e8af8201cea2f7235f51f91097facb68b0c44e4225cdf234a374e&smart=true&width=1672&height=941",
-        "publishedAt": "2026-10-13T16:11:00.000Z"
+        "publishedAt": "2026-10-13T22:00:00.000Z"
       },
       {
-        "title": "Fenómeno de El Niño: envíos de arándanos peruanos caerían 31% en las próximas semanas",
-        "summary": "Proarándanos recortó por segunda vez su proyección y estima que el Perú exportará unas 366,000 toneladas de arándanos en la campaña 2026/27, 4.4% menos que el año pasado, pese a tener 15% más de hectáreas en producción.",
+        "title": "Consumidores de gas preocupados por extensión de concesión a TGP",
+        "summary": "Gremio de usuarios señala que concesionaria del transporte de gas natural no habría subsanado incumplimientos",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/arandanos-el-nino-golpea-exportaciones-y-peru-cerraria-campana-por-debajo-del-ano-pasado-noticia/",
-        "image": "https://gestion.pe/resizer/v2/X6ZJNRCTRZBSBFSC7O2WLPIVY4.jpeg?auth=86ccfc6f7a4c39a47c1ca382f5d9c41d1f933471aeb361622a53883bc656a74e&smart=true&width=1600&height=1069",
-        "publishedAt": "2026-10-13T16:06:39.000Z"
+        "url": "https://gestion.pe/economia/consumidores-de-gas-preocupados-por-extencion-de-concesion-a-tgp-noticia/",
+        "image": "https://gestion.pe/resizer/v2/I57PQLMVWVC6LHLHHEFVNUKHKE.jpeg?auth=d01e41ea2d413848253c71bf37810c7ac8cefc4e3539a18d8fca8d78216e0890&smart=true&width=1280&height=960",
+        "publishedAt": "2026-10-13T21:55:30.000Z"
       },
       {
-        "title": "Entidades públicas acumulan deudas millonarias con EsSalud y ONP: las que más deben",
-        "summary": "La Contraloría General de la República alertó que 337 entidades públicas mantienen deudas ante la Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat) por S/ 587.4 millones, correspondientes a aportaciones no pagadas al Seguro Social de Salud del Perú (EsSalud) y/o retenciones de la Oficina de No",
+        "title": "¿Control de precios de medicamentos? polémico proyecto de ley inició debate en el Congreso",
+        "summary": "Congresista de Fuerza Popular sustentó proyecto en la Comisión de Salud de la Cámara de Diputados. Sepa los detalles. Busca regular el precio de los medicamentos.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/entidades-publicas-acumulan-deudas-millonarias-con-essalud-y-onp-las-que-mas-deben-segun-contraloria-noticia/",
-        "image": "https://gestion.pe/resizer/v2/AO7IDXHSUVDXNLDP52WQZTJRXU.jpeg?auth=cda26259dd33250513cd69c65b4ac3c4452a2f83c6e12589815dc50c4e90c194&smart=true&width=656&height=370",
-        "publishedAt": "2026-10-13T15:57:33.000Z"
+        "url": "https://gestion.pe/economia/control-de-precios-de-medicamentos-polemico-proyecto-de-ley-inicio-debate-en-el-congreso-noticia/",
+        "image": "https://gestion.pe/resizer/v2/VY52PZCPW5BGXKO4VSV3LOK6SQ.jpg?auth=52f71209dbc199b49dbefea9fcec0f8defd3b8111cec519cd60762127cb42dc2&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-10-13T21:49:00.000Z"
+      },
+      {
+        "title": "FMI eleva proyección de crecimiento para Perú en 2026, ¿a cuánto y con qué advertencias?",
+        "summary": "El Fondo Monetario Internacional (FMI) elevó su proyección de crecimiento para la economía del Perú este año. Así lo reveló la edición más reciente de su World Economic Outlook, con datos a octubre.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/fmi-eleva-proyeccion-de-crecimiento-de-peru-para-2026-a-cuanto-y-con-que-advertencias-noticia/",
+        "image": "https://gestion.pe/resizer/v2/NABJ3XY25ZHCNO4HAIWUZBPCPE.jpg?auth=949e3df901a5e339b7175d3f194600472079baaa664dc00735301aa85059791e&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-13T21:45:12.000Z"
       },
       {
         "title": "Mercado eléctrico minorista de Perú: 7 de cada 10 productos incumplen normativa",
@@ -143,10 +135,26 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/mercado-electrico-minorista-de-peru-7-de-cada-10-productos-incumplen-normativa-nacional-noticia/",
         "image": "https://gestion.pe/resizer/v2/64TTXRIU25G6LE3XF4VFX6GMIA.jpg?auth=98aa8f976229717a76dc523ce093eeb2f1891799e89288551d33defad6383af6&smart=true&width=3800&height=2537",
-        "publishedAt": "2026-10-13T15:51:57.000Z"
+        "publishedAt": "2026-10-13T21:45:00.000Z"
+      },
+      {
+        "title": "El Niño pone en riesgo más de 110 hidroeléctricas en Perú: ¿subirán tarifas y habría apagones?",
+        "summary": "El peligro viene por la caída de huaicos e inundaciones, sin contar los efectos de la sequía que también puede golpear la generación hidráulica.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/el-nino-pone-en-riesgo-alto-y-muy-alto-a-149-hidroelectricas-en-el-peru-habra-apagones-noticia/",
+        "image": "https://gestion.pe/resizer/v2/I5ONYB44DRGG5OLQHJWRJJMMFQ.jpg?auth=243b27ca39c2793c4316a16f6da1f3e009a006ec062cd540c4d13c3c545e60e3&smart=true&width=800&height=547",
+        "publishedAt": "2026-10-13T21:30:00.000Z"
       }
     ],
     "sociedad": [
+      {
+        "title": "Del encuentro con Francisco a una red internacional para prevenir el narcotráfico - Infobae",
+        "summary": "Del encuentro con Francisco a una red internacional para prevenir el narcotráfico &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ0x4ZTF4RHdDRjFtek5hU0pnTkl4Z0huWmRYUF9tUEk0RlltWUQyODhoWkdCZzgwNVVXdFBNX1J1dmM3TENQaUNYWHR5VzJ4MEQ3LWdpaFFzemVObXJiTjh0cDk0dmpySmxZcTdBWnB4ZjFaVGp5OWNSRU55UVlqZGt0RzF4cjRlNkRkZk9GVUEySWsxZXJrbnhpbjQ0dW1FOHVfSmJXMHlfRWptZ3VmSHdEdkN6SjZ2Y1V3WUNZZlhpTjTSAd4BQVVfeXFMT08wS1ozb0h5T2VwVjdaUmJyczhxc3VBa19TakFpZGZGUUR0ODZEMWd5aXBsUzhxeGFfeWk2NUZheTlYTDk2QWJLNlE3a0V3SmtzcU0zbWV1Tk9UcXNpRmYzNkhqaGpyX1hrTW5ray1tZHNGNE15dURPTzBLaTlCQ2pvb1JldTNjNmoxcDRzZmh4dUIwNjlwQ2NReWdwcnJFY2ZxWE9MRHlpTFVrU3I3ekJGQW45dHBpTkt4YlZPZXJZdGdmbmVhNDh3ZGw3Zlk5Q3Z4RTRoVjhLdkwwMEpR?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-13T19:02:05.000Z"
+      },
       {
         "title": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN - La República",
         "summary": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN &nbsp;&nbsp; La República",
@@ -202,14 +210,6 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-03T07:00:00.000Z"
-      },
-      {
-        "title": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos - Agencia Andina",
-        "summary": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos &nbsp;&nbsp; Agencia Andina",
-        "source": "Agencia Andina",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORDg3MFVjQnE2eHFPRWpXV3RHcFUwQ3NzalN5MTBFNFhNV1ZYNVpkRFBRSlh1QmhCUzhCdXRWWE5xRnNHYWhIMzRwMnQ3Vl9CMWZBalFwTzd4eFI1cW9LYmkwS2toT3RpeC1pZC1paFlhOVlxdXdJUUJYQ3dzT1pGU3NLSVhIaUMzdXZ3QThaTGFMbF9SRFYyOWQtZy0yUE1NWFZtX0hNTUM0ZFZlSDZtck53Nmpqc2tYSkpZN0ZBTl9NbVBBMlAw?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-11T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -236,14 +236,6 @@
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNakhVY04xTW1nZFRxMHA4d3F1ZHBObE5qczdBVERnX1FoQ1otSldfaEQwS0hvQ3BRRkszWHZ1TmtheFJHdzVSNzRieFJRTUpwUzhvUjJXYzJUc2EweUt3RlBTOTc5eEhmMGpjTHVqMWRjOFhvODlsX0hWdWt4V0Uza0oySDEwS3lidm9TMFhBcWR2QVRRWVZETUJGb0s1V1FPdExnYmJSOVFiZmN5OVpVdWEyYzY1R0FXa2thSFZYbUxvOF9sSklzdDhQYW9FMEJHNTNXMXIxWlpPb1o2N1JldE5WNTRvdXpxOWY0MExfTWJ0cU1hUGfSAZACQVVfeXFMTXV2X3NuaHg2bm5KcEtseVRyUEpPUnVfTlQ1V0l0M29uY2N3cUdhQ2gyeGIzSGlGNEgtckw0RlZvYVZGaVFpY2szWlFwVTJZaUJjUE13a3p1ZU13WHJEU183aTVYdW1RYWFkXzVmR0dieGNpTGctM09ITW85WkxvQlMtRF9WbXE4YktObWI5RVpwQTU2UkpxSHBtUkg5T2kyOHgxUEh4dXk0OGR3cUhKdGVNYnkteDBQT29DSGhteXNVenB2UHRYWWhTZkgtQ0ZqUEl2SU53blJIeENETE1pOEVUOU1RMzRXd3JUYk1tQ3VuZThRQldtUllVVEFlb0V2VzJTTnFhRmMxZTVsT1Boa24?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
-      },
-      {
-        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - Business Empresarial",
-        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbEpWQWwzZjk1OHUyMXNjdl9taXN3YWtlVkc3WUd6ak1GNTNKTjMwWHhEd0Y4TTF6WU90LTMwTjZSNDVFN29ReWFGQkVvTmtya3pNMG9kSEdjYzRvdnZsTG16M3E1bzZhV09OVVBwWUNCU2ZJVHpfdnlvV1VmVXVLU2FmR3FYeVlIRnl1MVRvWmJlSWU4eVZ4Rkxxd2tZUHBKcWp6Q3BRUkZRMVRkbDRiVWNOdTFNSU5yNjByS2FobmlLdGRrOVJHdU9YOW9VYjZBLTYySHM1cDNhR1pDR0JZ?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-24T07:00:00.000Z"
       },
       {
         "title": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión - Infobae",
@@ -276,6 +268,14 @@
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmtHemFxbzkzZVNVajZWNmstMk9YSDJHejFFbjVDaE5sYWNsT0JRZkxJUjBoa1hmMU5hdTNqclFvbDcxWl9nZUcxRlp4cHdPWGk4SE1oVWlTbW5iNzdwUXNWYWh4WUQzSEY4TmVSbnozMDVmS3BPd1ZUYllacXNOQVpUMFhqR215X1FOSk04Q1p5ZVJseXdrYm5DdkM0SDZpVHc0ZVR1MUNhX1dSRnRPa0dzdkxqS29xdTc5aGw3U2RxRzR0cmNsVGRkS2ota2s0aWFUZjJMc1FvRnlVaUF3Z3Nn?oc=5",
         "image": "",
         "publishedAt": "2026-06-25T07:00:00.000Z"
+      },
+      {
+        "title": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 - Infobae",
+        "summary": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFBQRGNLOWxaMy1mT2RjU0RCNGw4TVNrRmlfX25qei10R09YTWltOXdNX1Fya1g0NEk5S2hhUnQzZmstM3o4bFNJS3QwbkFvUGs3dmx6TktrMDZZSEkzTkJVZ0ZEdmFaa0NUZk9pT1prS1gzNjVDeVMyUzdjWXlNQTNtSThQcnRyRjJ6YlZEWkw1WUF0aTZsQXRTWnJtRnYyX1Z0NDBCYm1PWGlOekJpeGlBS29qLUkzbTBFa1FKMmJnNDNrNDAxeWZn0gHkAUFVX3lxTFB5cjR0aTlsOEl3ZkZEeV9XR05Vb0RHblRDVTRpMFdTZTllMWdRaEpoSlZpSm5JOUZCbzBXc2pic0NMdG9OOGcwQk5fNWF2Wk9FYVp5RnU1WVg4ckU4eTJfT3FEOTN6cURTMjU2d1U5NUJmZ0ZseC1YdllmbEpuZTlnbThqeF9vSlVTb0cxSkZtZFBpTmcwakkzemxzcGJucU9JbFFic2hqNU9jSGVHWkdUTVNuNFFIb0x3S2pTNFBzRXptSF91N0EtSElUMi1kVldUYl9ocmVQLVNSZDY0V25QNV9iRA?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-18T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -294,14 +294,6 @@
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbWF3b3BKVzVGQnBzc3pqSjA0WDdyRVVJck9leFc0MUotRGpwRVRrYm1UV0ZQaVpjWHNsaHpob2RISUZCcDJxSHQ5a2ZJNkhHZmxSaGNHMV91aXdua0g4SWdxbTVETGJlR1NKVUNCMXVhLU9iVEUtYzRsVmFrZGp3UFZEZkdMcVNCcVBYWVctdTFpendYb3JQSnUxdERQOFNTQUc0QzNCT1k1bTBFOGZId2MzTEYwbnVoanF5QXd5ZnoycEQtY0VraVI3RFdzWHo4Zzl6VzY0R0dXS2Y4TW5zdEFRemJscWQxQ3NjU0p3ZW80cFhuQUE?oc=5",
         "image": "",
         "publishedAt": "2026-09-21T07:00:00.000Z"
-      },
-      {
-        "title": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional - diariouno.pe",
-        "summary": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; diariouno.pe",
-        "source": "diariouno.pe",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjYxUUxNV1dqcXRBRzRyY1BNcm5UZE5abG00MVNLSWNWd2xkMVVhUkhTQVMyQ3U1dEFKeWdyTG5NX1hRRlJiTXJjRWppU2hmMnFKdXJkZHVKNW5GZWR4V1ZfZ2pBZW56T0d4Yk4zR3FJSHZEU1hYblNoZm1VQXFUYUN4RFpoRTloVF84OEt0VEtNcjBwM3JjemdQTnQtQ1dpa2tDZ0haTjg3OHNrNmtsMXdaaVBwaFpfUWhRbS04UWRFRFo5UDF2UjZGNGd4WFEwYkJLWW5GUzE?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-20T02:36:47.000Z"
       },
       {
         "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - Forbes Perú",
@@ -342,6 +334,14 @@
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNGRFXzc5Skp6cnFkd0Zfbmt3NVpwcC04eXJaekp6Z094a096R013M29yQ3hTUlFzRFF6eTE5SUZ0VHhLQjVEdTFIRlIyUERGM09nTzVZZHNXdmFVR3RITDF3X2RTeUdNb3FnT2otTUlBeGh0TUtKQWFzcURMY1JCMEhSdzM3cnpuUnBrUkh2TEpJOWZOMGY3bkkzTmE3RlY2YjJ3S0dZdVRqdFRBcDN3RFl4blQxeGVuTnM5WHVDRjdmUG1JZExSam9hLU8?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
+      },
+      {
+        "title": "Perú da un paso adelante en la seguridad energética con el uranio y litio % - La Razón",
+        "summary": "Perú da un paso adelante en la seguridad energética con el uranio y litio % &nbsp;&nbsp; La Razón",
+        "source": "La Razón",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYVU3eHAwN19tVTd6YlI0dE44dXc2cm96bmVxOEktWnBQbndNcVQzY0xqRkhVbE9rM2hVUXJEcm5CdXVxdTRYXzVMb1ptLU9IUWc1X3Q4UjNjZ0UzRkl0WmR4RTN6Ym5MXzU3SVFCbFB2QjZqZXBVVmMzMnFyajdfS2xrR2ptZ0Y2cXUyVzlHTFgxaC1iNmZPWg?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-09T07:00:00.000Z"
       }
     ],
     "ia": [
@@ -359,7 +359,7 @@
         "source": "Diario Ahora",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUwwRm5ROVRhYTJuX0RCWEVaNW4yU1lQU0k0anlPcFRITnJEZTItWXJnVDF5MkYxODhCSV9sSWRJelduRjFLRnNYTDZGVG15WVdDQTJkRUpBVFd4V2FZazA2Q3ZvNGgxV2M3Z2FlcEl5cHJESEZoRWwyM0VPQ2MwWlpBc3BSakN3N25NTi1UNU1rWEhwejBONjQ1dTdUS3Y5Y1RUc0Y4dkpOZzFvTFJsWnZJREZGMmpwb2tPeFpyRnpha1Q5MWRlQw?oc=5",
         "image": "",
-        "publishedAt": "2026-10-11T10:10:33.000Z"
+        "publishedAt": "2026-10-11T03:25:12.000Z"
       },
       {
         "title": "Uso de IA crece en empresas, pero solo 30% reporta políticas de seguridad - La República",
