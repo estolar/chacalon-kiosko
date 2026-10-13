@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T02:01:30.812Z",
+  "generatedAt": "2026-10-13T09:22:06.910Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -22,6 +22,30 @@
         "url": "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
         "image": "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
         "publishedAt": "2026-09-01T00:00:00.000Z"
+      },
+      {
+        "title": "Congreso: ¿Hay consenso en el Senado para incorporar cambios al pedido de facultades legislativas?",
+        "summary": "La Comisión de Constitución del Senado volverá a sesionar este martes 13 para evaluar el dictamen de la Cámara de Diputados.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso-hay-consenso-en-el-senado-para-incorporar-cambios-al-pedido-de-facultades-legislativas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/T3MTCMOVDNEHTEZCIOXT3L2RC4.jpg?auth=534dfb82ece2975b08a905c7e6df7322fc2cfb8340e116f3d5b0e0836369aebc&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-13T05:05:00.000Z"
+      },
+      {
+        "title": "Ministro César Astudillo tras incidente en la Comisión de Constitución del Senado: “De mi parte esto ya ha sido superado”",
+        "summary": "El ministro del Interior, César Astudillo, aseguró que de su parte, el incidente ocurrido durante la sesión de la Comisión de Constitución del Senado, donde se sustentó la delegación de facultades que quedaron excluidas del dictamen aprobado por la Cámara de Diputados, el último sábado 10, “ya ha sido superado”.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/ministro-cesar-astudillo-tras-incidente-en-la-comision-de-constitucion-del-senado-de-mi-parte-esto-ya-ha-sido-superado-delegacion-de-facultades-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/7HLS6EU7GBACXDGV4ZI4WMIZ7A.jpg?auth=d8a54923987fa7a8e37aa334cbc3f6ad01537ea482d706b46d1573be6b7b6b24&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-10-13T03:43:15.000Z"
+      },
+      {
+        "title": "Flavio Figallo sobre facultades legislativas en el Senado: “No creemos que se deban incluir cosas nuevas”",
+        "summary": "El senador Flavio Figallo (Partido del Buen Gobierno) consideró que no se deben incluir “cosas nuevas” en el proyecto de facultades legislativas aprobado y enviado por la Cámara de Diputados a esa instancia del Poder Legislativo.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/flavio-figallo-sobre-facultades-legislativas-en-el-senado-no-creemos-que-se-deban-incluir-cosas-nuevas-buen-gobierno-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/O732ZNJSBNCXZGANEIUZGLDACY.jpeg?auth=a63cb312fbddacdfa6e951710820ca2c0c837444320c5b897db4ec0f740d7565&smart=true&width=477&height=318",
+        "publishedAt": "2026-10-13T03:01:11.000Z"
       },
       {
         "title": "Ministro Guillermo Shinno presenta propuesta de nueva Ley Mape para formalización de mineros pequeños y artesanales",
@@ -54,40 +78,40 @@
         "url": "https://elcomercio.pe/politica/gobierno/ministerio-de-la-mujer-rechaza-todo-acto-discriminatorio-tras-conocer-caso-de-diputada-graciela-chipana-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/7FKU5VGNBJF5ZOZGXJTWQE6R7Y.png?auth=199479d681f284397e0891520b5c3a985d22230a16b9cecf65d83a5848e27d80&smart=true&width=2048&height=2048",
         "publishedAt": "2026-10-12T23:27:46.000Z"
-      },
-      {
-        "title": "Presidenta de México propone nueva embajadora en Perú tras restablecer relaciones diplomáticas",
-        "summary": "El Gobierno de México propuso este lunes 12 de octubre a Lydia Antonio de la Garza como nueva embajadora en Perú, un paso más hacia la normalización de las relaciones diplomáticas entre ambos países, restablecidas en agosto tras casi un año de ruptura diplomática.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/internacional/presidenta-de-mexico-propone-nueva-embajadora-en-peru-tras-restablecer-relaciones-diplomaticas-claudia-sheinbaum-keiko-fujimori-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/4WT27OUUEBD2NCM5DVFI7JNEUU.jpg?auth=76cb283351c73dd14412160b9c044499c8c1cf9bbbea6e4666a07f8c2d766fbe&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-12T22:53:19.000Z"
-      },
-      {
-        "title": "Las nuevas bancadas ‘cascarón’: Votaciones en temas oficialistas muestran fisuras en grupos del Congreso",
-        "summary": "Los debates sobre la delegación de facultades en Diputados y los viajes presidenciales en Senado muestran discrepancias en la interna de bancadas como Juntos por el Perú, Ahora Nación y Obras.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/las-nuevas-bancadas-cascaron-votaciones-en-temas-oficialistas-muestran-fisuras-en-grupos-del-congreso-juntos-por-el-peru-obras-ahora-nacion-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/BBNDXE4F3REQXMPNUXPIX6CPQI.png?auth=4804f724a0d0996f3084bc82f1eb21d61d05734a6a393fde390b244ff6f24378&smart=true&width=1160&height=660",
-        "publishedAt": "2026-10-12T22:45:00.000Z"
-      },
-      {
-        "title": "Carlos Mesía: “En dos semanas debe estar debatiéndose [el dictamen de facultades] en el pleno del Senado”",
-        "summary": "El presidente de la Comisión de Constitución del Senado, Carlos Mesía (Fuerza Popular), sostuvo que la cámara alta será respetuosa de la Carta Magna y del reglamento, al momento de abordar el dictamen sobre la solicitud de facultades del Ejecutivo. “Está de más lo que dice él [Óscar Reto], es un deseo de figuración, de",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/carlos-mesia-presidente-de-la-comision-de-constitucion-del-senado-en-dos-semanas-debe-estar-debatiendose-el-dictamen-de-facultades-en-el-pleno-del-senado-y-si-puede-ser-antes-mejor-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/YTNEFLJT5RBJPPVA5Y6VENGOJE.jpg?auth=209ae649807d490d1157730cb7abb040dd38ee31cb443f491a8bd2f20f882ab0&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-10-12T22:44:00.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Puerto de Corío: ProInversión firma convenio clave para “captar” inversionistas interesados",
-        "summary": "ProInversión informó que hoy firmó un Convenio de Colaboración Interinstitucional con el Gobierno Regional de Arequipa para la promoción de Ciudad - Puerto Corio con el objetivo de promover, difundir y posicionarla como un ámbito estratégico para la inversión nacional y extranjera.",
+        "title": "LATAM pone a Perú entre sus opciones para expandir aviones de la nueva generación de Embraer",
+        "summary": "LATAM evalúa operar sus nuevos Embraer E195-E2 en Perú y Chile tras iniciar la incorporación de 24 aviones en Brasil. Conoce sus planes de expansión, las condiciones para llegar al mercado peruano y el impacto de estas aeronaves en los costos y pasajes aéreos.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/puerto-de-corio-proinversion-firma-convenio-clave-para-captar-inversionistas-interesados-noticia/",
-        "image": "https://gestion.pe/resizer/v2/7IF54Z7PVBGJLOPSVTMO3XANSU.jpg?auth=99ff6276b1de62028b7c81de205a2d8fbce572488b7c3b91b44c1c60411cdcbd&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-13T01:19:05.000Z"
+        "url": "https://gestion.pe/economia/empresas/latam-pone-a-peru-entre-sus-opciones-para-expandir-flota-de-aviones-embraer-tras-historica-compra-noticia/",
+        "image": "https://gestion.pe/resizer/v2/QDI7O4CKQ5FG7HNJPNHFMYYMI4.jpg?auth=7c5c0acd5106a4dad73f7829a3de2b78844c616803fbc881a26bf58e22ca10bb&smart=true&width=1600&height=1200",
+        "publishedAt": "2026-10-13T09:01:00.000Z"
+      },
+      {
+        "title": "Unión Europea: “Creemos que Perú es clave y es el momento para elevar nuestra ambición”",
+        "summary": "Solo desde el 2014, la inversión acumulada europea en Perú es de más de US$ 30 mil millones. Con ello se generaron más de 113 mil puestos de trabajo director.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/union-europea-creemos-que-peru-es-clave-y-es-el-momento-para-elevar-nuestra-ambicion-noticia/",
+        "image": "https://gestion.pe/resizer/v2/XRBWADKNNFHM3I677OAVTAB4MQ.jpg?auth=20f3e6e8c41dd4e50097b72c42aeb6682c775357826306ea086658ab1d131b0b&smart=true&width=1600&height=1066",
+        "publishedAt": "2026-10-13T07:00:00.000Z"
+      },
+      {
+        "title": "Perú y su bóveda sin lingotes: el tesoro que “vale” más que el oro",
+        "summary": "La bóveda del BCRP guarda mucho más que una historia sobre el oro. Conoce las piezas históricas que preservan la memoria económica y cultural del Perú.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/peru-y-su-boveda-sin-lingotes-el-tesoro-que-vale-mas-que-el-oro-en-el-bcrp-noticia/",
+        "image": "https://gestion.pe/resizer/v2/6NX7NHDY5REHHBWAYHNPCZW7J4.png?auth=95af48182cc77f9cb9511993fce6c4bb528a5955cf045fe2cd20be78cdf2bbcb&smart=true&width=1303&height=868",
+        "publishedAt": "2026-10-13T06:00:00.000Z"
+      },
+      {
+        "title": "AMSAC adjudica proyecto Quiulacocha a Cerro de Pasco Resources del Perú",
+        "summary": "La empresa pública Activos Mineros S.A.C. (AMSAC) adjudicó la buena pro de la subasta pública para el reaprovechamiento de los relaves del Proyecto Quiulacocha a Cerro de Pasco Resources del Perú S.A.C. (CPR).",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/amsac-adjudica-proyecto-quiulacocha-a-cerro-de-pasco-resources-del-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/HZ6ZNLYVRNH6TIUZX2SU4BJM7E.jpg?auth=002b6ecce4847b2cb08906efd7cfd850ac5fca873f70419c43e4994ee2db9784&smart=true&width=1280&height=852",
+        "publishedAt": "2026-10-13T04:16:00.000Z"
       },
       {
         "title": "Importación de cemento se dispara en septiembre, ¿cuánto creció frente a la producción nacional?",
@@ -95,7 +119,15 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/importacion-de-cemento-se-dispara-en-septiembre-cuanto-crecio-frente-a-la-produccion-nacional-noticia/",
         "image": "https://gestion.pe/resizer/v2/WDJOOHT3EJBPRIAJX4KXGHWGBU.jpg?auth=165377b640c99dc1a7a2e6f755dfe5bae49fd89d932d44a7a052b7c782639ced&smart=true&width=1800&height=1188",
-        "publishedAt": "2026-10-13T00:49:37.000Z"
+        "publishedAt": "2026-10-13T03:49:00.000Z"
+      },
+      {
+        "title": "Puerto de Corío: ProInversión firma convenio clave para “captar” inversionistas interesados",
+        "summary": "ProInversión informó que hoy firmó un Convenio de Colaboración Interinstitucional con el Gobierno Regional de Arequipa para la promoción de Ciudad - Puerto Corio con el objetivo de promover, difundir y posicionarla como un ámbito estratégico para la inversión nacional y extranjera.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/puerto-de-corio-proinversion-firma-convenio-clave-para-captar-inversionistas-interesados-noticia/",
+        "image": "https://gestion.pe/resizer/v2/7IF54Z7PVBGJLOPSVTMO3XANSU.jpg?auth=99ff6276b1de62028b7c81de205a2d8fbce572488b7c3b91b44c1c60411cdcbd&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-13T03:19:00.000Z"
       },
       {
         "title": "López Chau propone debate sobre los fondos soberanos de riqueza",
@@ -106,44 +138,12 @@
         "publishedAt": "2026-10-13T00:41:00.000Z"
       },
       {
-        "title": "AMSAC adjudica proyecto Quiulacocha a Cerro de Pasco Resources del Perú",
-        "summary": "La empresa pública Activos Mineros S.A.C. (AMSAC) adjudicó la buena pro de la subasta pública para el reaprovechamiento de los relaves del Proyecto Quiulacocha a Cerro de Pasco Resources del Perú S.A.C. (CPR).",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/amsac-adjudica-proyecto-quiulacocha-a-cerro-de-pasco-resources-del-peru-noticia/",
-        "image": "https://gestion.pe/resizer/v2/HZ6ZNLYVRNH6TIUZX2SU4BJM7E.jpg?auth=002b6ecce4847b2cb08906efd7cfd850ac5fca873f70419c43e4994ee2db9784&smart=true&width=1280&height=852",
-        "publishedAt": "2026-10-13T00:03:24.000Z"
-      },
-      {
         "title": "Cerro de Pasco Resources gana subasta por relaves mineros de Quiulacocha",
         "summary": "La minera canadiense Cerro de Pasco Resources ganó la subasta pública convocada por Activos Mineros (AMSAC) para obtener los relaves del depósito de Quiulacocha, en Pasco, y avanzar con su proyecto de recuperación de minerales polimetálicos. La adjudicación fue otorgada el 12 de octubre a su subsidiaria peruana, Cerro ",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/cerro-de-pasco-resources-gana-subasta-de-amsac-por-relaves-mineros-de-quiulacocha-en-pasco-noticia/",
         "image": "https://gestion.pe/resizer/v2/W7RKS6F73FGB3NPH3W5IAHI62Q.jpeg?auth=0a873153f876cc5b802a24797f4c70613d1980da9827df14dab2caf1473479a9&smart=true&width=1600&height=1192",
         "publishedAt": "2026-10-12T23:52:10.000Z"
-      },
-      {
-        "title": "Conciertos de BTS generaron más de S/5.8 millones en ventas de alimentos, bebidas y merchandising",
-        "summary": "Los tres conciertos de BTS en Perú generaron ingresos superiores a los S/ 5.8 millones por la venta de merchandising, alimentos y bebidas dentro del Estadio San Marcos, según informó la Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat), que desplegó un operativo de fiscalización durante las pr",
-        "source": "Gestión",
-        "url": "https://gestion.pe/peru/conciertos-de-bts-generaron-mas-de-s58-millones-en-ventas-de-alimentos-bebidas-y-merchandising-noticia/",
-        "image": "https://gestion.pe/resizer/v2/YYEFUVN6PBGILLTUH3LX3UFEUA.jpg?auth=c0609f302274a3a32fe62b796022b474ab9a66df6e184d3b905446abce6c8179&smart=true&width=1200&height=801",
-        "publishedAt": "2026-10-12T23:45:00.000Z"
-      },
-      {
-        "title": "Waldo Mendoza: “El Gobierno está subestimando fenómeno El Niño”",
-        "summary": "El exministro Waldo Mendoza aseguró que el gobierno está que subestima el impacto del fenomeno El Niño en la actividad productiva nacional. Pidió que se apuesten por decretos de urgencia en vez de esperar las facultades.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/waldo-mendoza-el-gobierno-esta-subestimando-fenomeno-el-nino-noticia/",
-        "image": "https://gestion.pe/resizer/v2/4UA6HXQ7XZGXHLOIIL37CLXJOY.jpg?auth=32ea510465595a7f110951bdaf7335870326c5025d7455a618a1a7d37147c174&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-12T23:30:00.000Z"
-      },
-      {
-        "title": "Unión Europea: “Creemos que Perú es clave y es el momento para elevar nuestra ambición”",
-        "summary": "Solo desde el 2014, la inversión acumulada europea en Perú es de más de US$ 30 mil millones. Con ello se generaron más de 113 mil puestos de trabajo director.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/union-europea-creemos-que-peru-es-clave-y-es-el-momento-para-elevar-nuestra-ambicion-noticia/",
-        "image": "https://gestion.pe/resizer/v2/XRBWADKNNFHM3I677OAVTAB4MQ.jpg?auth=20f3e6e8c41dd4e50097b72c42aeb6682c775357826306ea086658ab1d131b0b&smart=true&width=1600&height=1066",
-        "publishedAt": "2026-10-12T23:15:00.000Z"
       }
     ],
     "sociedad": [
@@ -246,14 +246,6 @@
         "publishedAt": "2026-07-21T07:00:00.000Z"
       },
       {
-        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - Business Empresarial",
-        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOclpab3k5dms5U3JOSXdvUU1pSnFnUnYzWDY3QUtyeU9ob2NhZnI5U092N3QxY19kVUtUX1JPR0tzUElTTXVlMGdUbV9tclI0Y0JQcU11QWhJQkkxalNIR3R3VmdGSHdMY0NJUVE1V09Tel9OX3R5eUVKV3owZnJ2VjJ0VVRlNFowbWZyVUl4SDAwc2lYUzZKcTZtTDhEUlV0LTJMY2hnSGJkQ0c5U1AwRkVGVm5qQXk3XzI0ZEZ3ZTE4RjBtbTcwTG15MVdKX1F3Y3VGby1IdVNrd0pB?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-04T07:00:00.000Z"
-      },
-      {
         "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - Business Empresarial",
         "summary": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores &nbsp;&nbsp; Business Empresarial",
         "source": "Business Empresarial",
@@ -276,6 +268,14 @@
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFBQRGNLOWxaMy1mT2RjU0RCNGw4TVNrRmlfX25qei10R09YTWltOXdNX1Fya1g0NEk5S2hhUnQzZmstM3o4bFNJS3QwbkFvUGs3dmx6TktrMDZZSEkzTkJVZ0ZEdmFaa0NUZk9pT1prS1gzNjVDeVMyUzdjWXlNQTNtSThQcnRyRjJ6YlZEWkw1WUF0aTZsQXRTWnJtRnYyX1Z0NDBCYm1PWGlOekJpeGlBS29qLUkzbTBFa1FKMmJnNDNrNDAxeWZn0gHkAUFVX3lxTFB5cjR0aTlsOEl3ZkZEeV9XR05Vb0RHblRDVTRpMFdTZTllMWdRaEpoSlZpSm5JOUZCbzBXc2pic0NMdG9OOGcwQk5fNWF2Wk9FYVp5RnU1WVg4ckU4eTJfT3FEOTN6cURTMjU2d1U5NUJmZ0ZseC1YdllmbEpuZTlnbThqeF9vSlVTb0cxSkZtZFBpTmcwakkzemxzcGJucU9JbFFic2hqNU9jSGVHWkdUTVNuNFFIb0x3S2pTNFBzRXptSF91N0EtSElUMi1kVldUYl9ocmVQLVNSZDY0V25QNV9iRA?oc=5",
         "image": "",
         "publishedAt": "2026-06-18T07:00:00.000Z"
+      },
+      {
+        "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
+        "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-17T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -359,7 +359,7 @@
         "source": "Diario Ahora",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUwwRm5ROVRhYTJuX0RCWEVaNW4yU1lQU0k0anlPcFRITnJEZTItWXJnVDF5MkYxODhCSV9sSWRJelduRjFLRnNYTDZGVG15WVdDQTJkRUpBVFd4V2FZazA2Q3ZvNGgxV2M3Z2FlcEl5cHJESEZoRWwyM0VPQ2MwWlpBc3BSakN3N25NTi1UNU1rWEhwejBONjQ1dTdUS3Y5Y1RUc0Y4dkpOZzFvTFJsWnZJREZGMmpwb2tPeFpyRnpha1Q5MWRlQw?oc=5",
         "image": "",
-        "publishedAt": "2026-10-11T10:10:33.000Z"
+        "publishedAt": "2026-10-11T03:25:12.000Z"
       },
       {
         "title": "Uso de IA crece en empresas, pero solo 30% reporta políticas de seguridad - La República",
@@ -386,20 +386,20 @@
         "publishedAt": "2026-10-06T17:37:46.000Z"
       },
       {
+        "title": "Perú mira a la IA como amenaza al empleo: país es el más preocupado de Latam por impacto - Revista Minería & Energía",
+        "summary": "Perú mira a la IA como amenaza al empleo: país es el más preocupado de Latam por impacto &nbsp;&nbsp; Revista Minería & Energía",
+        "source": "Revista Minería & Energía",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGVPQVJ4SUJNQ3NQZERmUVJjdmN4ZGhBSHV2Zms3M0ZJVnRsRzEtM3BOQkpJTkhqM0RtVmNKSnJ5YWRIOVZPOUtnTDB6RC1rbmRQSHI1MU8zRVVqMEhkT1JmSzRzYU5xME5zMGRVTVdKekZPZUJZdHMzQmFvSU5ER2JIdTZBTGR3cU5hN1BUcXJDMGpwcExqZ0p2OUQ5OWJVU29vQWpfNXFacF9PUGk3cXVQNEVBUQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-02T21:37:40.000Z"
+      },
+      {
         "title": "Ingenieros de Perú crean 'Pulso', tecnología con Inteligencia Artificial para rescate humano y ganan concurso de Google - La República",
         "summary": "Ingenieros de Perú crean 'Pulso', tecnología con Inteligencia Artificial para rescate humano y ganan concurso de Google &nbsp;&nbsp; La República",
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOejlpWFhZZHJTOENlcHlrbG1PZmVxT3hEdHJZR0o0SHQ1QVBCTkMtZl93X0syeHM3U1RGT18xaXFVb2FKWm5USFZDbFVucGgxRThfY296T1JwVmM1Y0Q1eEF1S05ETE1faklDM1d0N254WXdHYVVld3B0ejlaVzRubERfdUdjOWZfdVVtRzFBZWNNMGFxcklKdzFSNmQxYWtHR0VsaFQ2czFaU1pFVGhIZHpmbTIzMVVXTlI0aF9fTUZFSGtrbDEwUE9FYnBLa2pGaldLanJ4Sk9vbUhoSW1Sc2tiQlZRaWVyQk1ETGwxOA?oc=5",
         "image": "",
         "publishedAt": "2026-10-01T23:57:16.000Z"
-      },
-      {
-        "title": "IA y perforación a 3.000 metros marcan el futuro de la minería peruana - La República",
-        "summary": "IA y perforación a 3.000 metros marcan el futuro de la minería peruana &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZWNoNjl4clE4WTBIWHU1akJlVFJhRDU0Z0QzSGUteTFLdE5DUVptaTlvU0ZZY3l6Y0g0M2JETk9yV2VMWWJVWlJUY0xaU2o0ZERZYjhOOVZ6emx0T3RkYU9OQ19xMnZUVFlWdjY0VUdBUHVSbjdrOEc0cXRlUU9qRDlsQVRrQmJvVW1mbEdZUWZINFIyWWRhYWNBOXc0UFAzMFh0MjZMRVJFRWo0bTJsWTVkODgtR2FTZll4Q3RzSjJjZ3F1TmZKU25FTDU1N1F4V0Q2eWl4R3pOTExselRQQmdYTkpjZEFRQlFGQkJ1MHVOWkpmajhwNV9UdjZWdjlSdkJz?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-01T07:00:00.000Z"
       },
       {
         "title": "El 24,1% de la fuerza laboral en Perú está altamente expuesta a la IA generativa: ¿qué significa para los trabajadores? - Infobae",
@@ -534,10 +534,10 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
-        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
-        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
-        "source": "Diario Correo",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
+        "title": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más informació",
+        "summary": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; Facebook",
+        "source": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdFRtVHlGS2ZUeUplTE1XU09ickJVSlBqR0Z3VGR1cjlrTG5NQlNuOFc5Si1OVXVLclh2T3Z1VEhKV1luN09INHpaRHp6U1Z1a2dRWWVjT1NzcG1pSnN2SVJGTnBvMzhzSXFlWnVFVXhKVmZtSUF1Z19rN1Z4U1BqNU02Qjd2dWRnWnZXemlkZlZHeVMxckFPT3pLeTNUek5uVkZOZUM5ZVVGMXFISG1GUEYxTXB2TW1PaUI1QkJsMFFOQ2g3TF9pOXVBdV9UVk95ZGN2M04tNDlLNFFhc2h0UHAzWU9QaC1mOW1Nb1B0U1RGTEs5Y204ZQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       }
@@ -548,6 +548,14 @@
         "summary": "Agenda cultural en Lima 17 al 24 de setiembre: Robbie Williams, 'La Cabaña', 'La mujer de negro' y el Festival de la Luna se imponen &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOajlpTHJUcnhPRlNzcnlPYV9qbVJJR3pUZ19sN3Z4bWJtZ2xHTkhaWjZPVi14cjE3NHRCQ1ZWeHFWT0w4cnJCbzNwOXFnUWNIOTc5aWpUSy1xdHBZZWVyZzltM1lRTE1ia1kxNVFfRDVDUnFYSGptSjQ1bTdPQ0R3WE15Z1hILVlFV0txS05BaW04dUFqVk05YkVBdmNXTm5xcDFucGk3M29jaF9yUnFxa3cwY0RPUldLaEdxdnNmMVZzR3AxZ2tDU1FPU3o3T3hTcFgxRjVXc1AtQzB6ZWhSUG5jWjAtNng4N0lnQV9JNlZGNlhOcjB5TTlR0gGUAkFVX3lxTE5HY25QVmNINl9QU3c0WHdkTEw5ZWx4SWREOXJ1d3o3N3lORVV0aHZUbnl5X3ZvWEFxbW0ya0tVcmFFejlmWld0NnQ5Qm0xMXE2ckNBVE5FY1VWQ1REdWxlVEtuU0hyNFF1aXIxcnNsa0dfZm9yejM1cXVmcWpYT2hxOTNGeEdGcy1XTThVc1JQdGtFQ0pscHJpSWFqYVFCeVpIbmhodGk1eGtaaGJUODlwTnFMMVhEOHlhU1gzZXgyVF9Wbm10dkxZTERIZXVobnJielZXY3dWVGNoeUh0VnozRDJ0dDdNM0FlOHpYQnhqcG9qN3hDQlB1blN1MFczQ2piQXl2bnI5aDQxYmhFcDIxQTFZZw?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-17T07:00:00.000Z"
+      },
+      {
+        "title": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales - La República",
+        "summary": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdUdGMXlJY2xDbGJKMklhSXdTUVhaV051cWliMm5VNkE3RlRBdnJWS1lGVzN1bVBWRHAwUmZMR2VLTUI1VG43TUhabEFUZThmRUEyZ29pUkFuNVI3QzRoVFoyQ3hvLU92ek1abjItSGtyNUhLT2g2Q3BMMUxuTnJsLWdVMWQtUmlTUzJ6eTlNZ1puSnZ1SUZKT01oWkp3YlFTeU9HSWtZZXI0U0NLNUFSVG9zaXN3Nl9EZi10STlhVFA3RWRfUFRCV2J4VWVvb0tha3VNb0VBOHE2cWpnaHFlSzAwMU84QVJNOTc0Z2o4MWZyR0FGenYyckU5VGM5MzVaeUJ3YVZpTU5BODNKc1FqUHpSeTUxZ9IBmwJBVV95cUxNQnVtd2xlRmNOTVEwY1pVOG83NzZpckN6VWY3eTZPZGk1YmdMS041aERIcE9lS2htWU5hZktLOVpTa25Hd1FLUHg5clRrcklXNVk2alVhS0l4OG9FVW9Ic2JBaGE4SDN5ZWt6Y0RjOFFrU3pRdEhrUWJaR183X2xYVnVFWlZqRzBVZGFmZzB4V2U2R0JPRllXeG1ZTkhCN0dXZzNXNnNtdDBSNjBZeVlQaVFXTm85N2pPSnRuSmxfMGJUbklnRjh4bUhWb0E2eGZWOVFZYV9JUVVlOGUzX3NGN2Q4dzlLUFlUdlc1OGNVRVp2UjF0NjVvQzg1Wi1sMEY5OEdMWFpKNmwzc2ZNU05MUFpUcWROeENQMjZv?oc=5",
         "image": "",
         "publishedAt": "2026-09-17T07:00:00.000Z"
       },
@@ -598,14 +606,6 @@
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX1B1eWRBSmdmWWdwWUZydjEwUEM0bk5uWVFrUkluandJX25FdE1rYVJUWFZlMm5vYXpHa2pZZ0ZGVi1LbFpBWFhmREJlVUdUR1dwdjAtM2tuYlNUVzA4NGpEMmZxUy1wcVhLRWRiLVBwdkMwNVlpa0ZnSlJIb0dFcExOdWdFM0xkYW5UM1hhY2RQS3kwam5PWXVTaUoxZzNuZUhlVkltWEVJYUh0ZGpsNmFveFJnOHlhSGJaaDgyWkJoVlJ0NDNMaXdB?oc=5",
         "image": "",
         "publishedAt": "2026-08-22T07:00:00.000Z"
-      },
-      {
-        "title": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones - Infobae",
-        "summary": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTTZDSUpUY3djZ1R3U0lOUzRLVVV6OGFpNGZvRm83N0dTV2VlclhHT3U5YlVzX1NLMUFzdUx4cHZrX2FhdGhDeGtYOWZwZ1VyUnZiZEIxRUw5NmhZUG93WHZJNUFHUzRTMHBtVTRQUE91OFprb1NlMXhsbkF5ZHZINWxweFVsVzRJZlpUcFI2Mks5andzSTgwNVhUZXJsaVl5bUhrMXFLX0JMWDgtNEtWbW92YXVBS19kQ1dYS1hqSEt4YVpnaFNqeFVHQzhqbVBIZnFnUEcyOXdqUnFZNllOZG5aVjlsbUtlV21JZ21aTjRkNlNyOEYwZnVhbnhSdDNadVRZbUNvYjPSAaMCQVVfeXFMT0lVVzhVeG9mNGZBb2diQW9Bd1ItVlppWDFzMmt4eDAyY1ZYMjVQUWpzN2hzMGpfR3RqRGhVS3NGZm04ZlBnaGxsUXozY1o1ZlFkWjl3aElHZjAyaWo0SDR1VU5SM09KSm1HWkRTeDlSa1Z5bGVpZS0yN0s2cVYxRFBvUjRwZHV1eHFnbUx0RlRaLUdSU0JPWmdSY0V2SXE0QUpFbGlCa3JtOE0tOHNCMWlsV19wTi1ienIyLTdubnJCUXQ0T2xkSTluVENhVENBeEcwZVM4NlZjS2IwS3NhbTRNQ3d0cFlLd3JWakw2Wl9YbTBkcGowYkVYU2NKbVl4eXdVa2FNZ3FlVVNpejg4T1FQaUxmZlR2Rk9idk9RLVV4cmtB?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-21T07:00:00.000Z"
       }
     ]
   },
