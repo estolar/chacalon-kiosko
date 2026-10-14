@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T07:33:22.900Z",
+  "generatedAt": "2026-10-14T13:40:42.386Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,20 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Ley MAPE: Minem prevé presentar propuesta este jueves, ¿qué plantea y qué advierten los expertos sobre el Reinfo?",
-        "summary": "El Minem presentará al Congreso su propuesta de nueva Ley MAPE a casi dos meses del vencimiento del Reinfo, previsto para el 31 de diciembre de 2026. Conoce qué plantea el proyecto sobre la formalización minera, el régimen de consolidación hasta el 2028 y las críticas de especialistas y dirigentes de la minería informa",
+        "title": "Álvaro Vargas Llosa es nombrado embajador del Perú en Estados Unidos",
+        "summary": "",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/ley-mape-minem-preve-presentar-propuesta-este-jueves-que-plantea-y-que-advierten-los-expertos-sobre-el-reinfo-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/VYCFQ4QXIREMDEM5IJHHZZG53U.jpg?auth=cbb7ee0301522b3a991d8ec76b0512fd9b7a139da404d67cb23ec4518cdc7e0e&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-14T05:01:00.000Z"
+        "url": "https://elcomercio.pe/politica/actualidad/alvaro-vargas-llosa-es-nombrado-oficialmente-como-embajador-del-peru-en-estados-unidos-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/SKN77JHHXZH2XOWIVTQL7KJFFM.jpg?auth=badcf32e2193b91c32f1fd14b73df087714c4492a012e8ea19e0f96179d69c6a&smart=true&width=758&height=618",
+        "publishedAt": "2026-10-14T13:36:47.000Z"
+      },
+      {
+        "title": "¿Lima puede elegir a su alcalde en segunda vuelta? Esto tendría que cambiar para aplicar en el futuro propuesta de Francis Allison",
+        "summary": "La posibilidad de que Lima Metropolitana elija a su alcalde en una segunda vuelta no está contemplada en la legislación vigente. No obstante, la propuesta del candidato Francis Allison, de Avanza País, de evaluar esa opción puso sobre la mesa una discusión que trasciende su disputa electoral con Rafael López Aliaga, de",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/elecciones/lima-puede-elegir-a-su-alcalde-en-segunda-vuelta-esto-tendria-que-cambiar-para-aplicar-propuesta-de-francis-allison-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/U557BKETIRDXPMADX772MSLMJA.jpg?auth=330ffc0acf2549f1345d4a7fe6fd6efa358a3744e4f8e6c0a1609f7fa5ea0458&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-14T12:44:17.000Z"
       },
       {
         "title": "Comisión de Constitución: ¿Cómo avanza el pedido de facultades en el Senado?",
@@ -37,7 +45,31 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/comision-de-constitucion-como-avanza-el-pedido-de-facultades-en-el-senado-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/UYPWG4NCOBCDFGY2ZDBO3CFRBA.jpeg?auth=c11ef85610360b789d91b74d15b526fa737f14345fff97c69955cf65dffe8958&smart=true&width=1600&height=1062",
-        "publishedAt": "2026-10-14T05:01:00.000Z"
+        "publishedAt": "2026-10-14T12:30:19.000Z"
+      },
+      {
+        "title": "Ley MAPE: Minem prevé presentar propuesta este jueves, ¿qué plantea y qué advierten los expertos sobre el Reinfo?",
+        "summary": "El Minem presentará al Congreso su propuesta de nueva Ley MAPE a casi dos meses del vencimiento del Reinfo, previsto para el 31 de diciembre de 2026. Conoce qué plantea el proyecto sobre la formalización minera, el régimen de consolidación hasta el 2028 y las críticas de especialistas y dirigentes de la minería informa",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/ley-mape-minem-preve-presentar-propuesta-este-jueves-que-plantea-y-que-advierten-los-expertos-sobre-el-reinfo-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/VYCFQ4QXIREMDEM5IJHHZZG53U.jpg?auth=cbb7ee0301522b3a991d8ec76b0512fd9b7a139da404d67cb23ec4518cdc7e0e&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-14T12:29:58.000Z"
+      },
+      {
+        "title": "¿Quiénes son los congresistas que viajaron a China durante la semana de representación y cuál es su agenda?",
+        "summary": "La delegación partió el 11 de octubre y tiene previsto retornar el 21. Los parlamentarios precisaron que el periplo ha sido promovido y financiado por el Gobierno chino.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/quienes-son-los-congresistas-que-viajaron-a-china-durante-la-semana-de-representacion-y-cual-es-su-agenda-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/GVKJMR3DMZFHDLEIRVLC65D5ZE.jpg?auth=c33d40e99990d2219e48ea22e2db2b84af9780bcdf57ac611a4014d3e7e8e48f&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-14T11:02:07.000Z"
+      },
+      {
+        "title": "Una conferencia legislativa",
+        "summary": "El debate sobre la delegación de facultades ha sido la primera muestra de la poca voluntad de consenso que existe en el Congreso, tanto en Diputados como en el Senado. Hasta la fecha, la discusión sobre el proyecto de Poder Ejecutivo ha sido más política que técnica, y son pocos los parlamentarios a los que parece inte",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/opinion/columnistas/una-conferencia-legislativa-por-martin-hidalgo-noticia/",
+        "image": "",
+        "publishedAt": "2026-10-14T11:00:01.000Z"
       },
       {
         "title": "Senador Daniel Barragán afirma que Obras está dispuesto a apoyar incluir más temas en facultades",
@@ -46,41 +78,33 @@
         "url": "https://elcomercio.pe/politica/congreso/senador-daniel-barragan-afirma-que-obras-esta-dispuesto-a-apoyar-incluir-mas-temas-en-delegacion-de-facultades-congreso-apuesplan-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/PHTAEN44X5GKFDDKGEL5OIDXTI.jpg?auth=5fd4bf66c33762922333387e6004fa03dd809272d135efdf4ce6f144ae471bfe&smart=true&width=760&height=507",
         "publishedAt": "2026-10-14T03:38:21.000Z"
-      },
-      {
-        "title": "Miguel Torres: “Nos unimos en oración por la pronta recuperación del papa León XIV”",
-        "summary": "El presidente del Congreso, Miguel Torres (Fuerza Popular), afirmó que el país se une en oración por la pronta recuperación del papa León XIV, quien ha sido diagnosticado con cáncer al pulmón.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/miguel-torres-nos-unimos-en-oracion-por-la-pronta-recuperacion-del-papa-leon-xiv-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/CP64OGFKZ5HJZLAG4L4CFBTS5I.jpg?auth=92867f8f45da552a32328b404358c1c0984977f4cc2dbb1ecc95cb1a9459cfff&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-10-14T02:45:47.000Z"
-      },
-      {
-        "title": "¿Lima puede elegir a su alcalde en segunda vuelta? Esto tendría que cambiar para aplicar en el futuro propuesta de Francis Allison",
-        "summary": "La posibilidad de que Lima Metropolitana elija a su alcalde en una segunda vuelta no está contemplada en la legislación vigente. No obstante, la propuesta del candidato Francis Allison, de Avanza País, de evaluar esa opción puso sobre la mesa una discusión que trasciende su disputa electoral con Rafael López Aliaga, de",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/elecciones/lima-puede-elegir-a-su-alcalde-en-segunda-vuelta-esto-tendria-que-cambiar-para-aplicar-propuesta-de-francis-allison-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/U557BKETIRDXPMADX772MSLMJA.jpg?auth=330ffc0acf2549f1345d4a7fe6fd6efa358a3744e4f8e6c0a1609f7fa5ea0458&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-14T02:43:00.000Z"
-      },
-      {
-        "title": "Más de mil actas observadas siguen en trámite y extienden definición por la Alcaldía de Lima",
-        "summary": "Elecciones municipales 2026 en Lima. Más de 1.000 expedientes por actas observadas siguen en trámite ante los Jurados Electorales Especiales (JEE) y 116 actas pasarán a recuento de votos para la elección de la Alcaldía de Lima. Renovación Popular aventaja a Avanza País por más de 46.000 votos, mientras continúa la revi",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-francis-allison-mas-de-mil-actas-observadas-siguen-en-tramite-y-extienden-definicion-por-la-alcaldia-de-lima-entre-renovacion-popular-y-avanza-pais-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/INK32I6RJZBSBFARYZ6B2SJO7U.jpg?auth=c670069346d85a371159f82241477e2c63c560f7337df3f9ed71f7a238e45bc0&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-14T02:04:37.000Z"
-      },
-      {
-        "title": "Graciela Chipana trató de evitar juicio por discriminación a menor: ¿Por qué el Poder Judicial rechazó recurso de diputada de JP?",
-        "summary": "La Diputada de Juntos Por el Perú (JP), Graciela Chicana, es acusada por haber ejercido discriminación agravada contra un menor con habilidades especiales, cuando se desempeñaba como profesora de un colegio inicial en Moquegua.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/graciela-chipana-trato-de-evitar-juicio-por-discriminacion-a-menor-por-que-el-poder-judicial-rechazo-recurso-de-diputada-de-jp-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/7HGNTG3NM5AHFAPRSAWRQER7V4.png?auth=c0f8e92d1fd19c8b0bc6fbb76f5f519a355c3426d5131517cd97b16e7e392e6d&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-14T02:04:20.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Tarjetas de alimentación: Pluxee lanza nuevo método de pago y ‘estrategia virtual’ en 2027",
+        "summary": "Pluxee Perú ya suma 4,000 empresas clientes y apunta a emitir 400,000 tarjetas de Navidad, con pago QR y una versión virtual que se entrega en seis horas. Pese a El Niño, no ve señales de contracción en la demanda.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/tarjetas-de-alimentacion-los-planes-de-pluxee-para-llevarlas-al-qr-y-crecer-en-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/UK5U73SRDJAGXOSE5J6IO4OOMQ.PNG?auth=f70cf6c53d23d8e9f648c7c1ad984edf08b634df588adad734ab260d2ece3bce&smart=true&width=1681&height=935",
+        "publishedAt": "2026-10-14T13:30:00.000Z"
+      },
+      {
+        "title": "Perú urbano: casi 8 de cada 10 viviendas se construyen sin asistencia técnica",
+        "summary": "La vulnerabilidad de las viviendas en Perú se cruza con sismos, eventos climáticos extremos como el FEN, autoconstrucción, pobreza y brechas de infraestructura. Aquí, el informe.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/peru-urbano-frente-al-fenomeno-el-nino-7-de-cada-10-viviendas-se-construyen-sin-asistencia-tecnica-noticia/",
+        "image": "https://gestion.pe/resizer/v2/M2EHOBN4SVFHHHHXAY5KMF4QRU.jpg?auth=5fb926241a8a5672da2ef19b5722538444968983120dfef9a474f04417417a3c&smart=true&width=1800&height=1200",
+        "publishedAt": "2026-10-14T13:14:48.000Z"
+      },
+      {
+        "title": "“Rebote” económico de 2027 no llegaría por igual a todas las regiones y tendría 3 riesgos",
+        "summary": "La economía peruana crecería 3.2% en 2027 tras El Niño. Lima lideraría la recuperación, mientras el norte y el sur avanzarían a distintos ritmos.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/rebote-economico-de-peru-en-2027-no-llegaria-por-igual-a-las-regiones-y-tendria-3-riesgos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/GHIM5JREYVCUBPDFT5WNJ7ZXME.jpg?auth=43f02151a88a561f6790ac9bfd3fef042fd9cdf6a52b05401b0b158f26f4fba9&smart=true&width=4364&height=2905",
+        "publishedAt": "2026-10-14T13:13:10.000Z"
+      },
       {
         "title": "Negocios regionales vs. grandes empresas: 7 de cada 10 peruanos en provincias ya eligieron bando",
         "summary": "El estudio Destape Regional 2026, elaborado por la consultora de estrategia e insights culturales Consumer Truth, reveló que el 71% de los peruanos confía más en un emprendedor o marca de su propia región que en una gran corporación tradicional. Según la investigación, durante décadas existió la premisa de que una fuer",
@@ -90,60 +114,36 @@
         "publishedAt": "2026-10-14T11:00:00.000Z"
       },
       {
-        "title": "Aranceles en EE.UU. llevan al grupo Rocío a diversificar mercados con la uva de mesa",
-        "summary": "Talsa Grape Farms, la operación de uva de mesa de Talsa, empresa del Grupo Rocío, prevé adelantar entre 15 y 20 días el inicio de la cosecha en sus campos de Ica para la campaña 2026/2027. La compañía espera comenzar la vendimia durante la segunda quincena de noviembre.",
+        "title": "Talento femenino en tecnología: ¿qué perfiles concentran hoy la demanda?",
+        "summary": "La transformación digital y la adopción de inteligencia artificial están elevando la demanda por profesionales especializados en tecnología. Sin embargo, mientras las empresas buscan cubrir posiciones vinculadas con Data, Ciberseguridad, IA, Machine Learning y Cloud, la participación femenina todavía enfrenta una brech",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/talsa-grape-farms-del-grupo-rocio-adelanta-cosecha-de-uva-en-ica-y-busca-diversificar-mercados-ante-arancel-de-eeuu-noticia/",
-        "image": "https://gestion.pe/resizer/v2/ZKQSN5M6HJCD3AOTIV5GPQYJWA.jpg?auth=64caac93c51207507a58f017d723b98ae09a4c74506ddfae54473b3242d60d72&smart=true&width=1800&height=1200",
-        "publishedAt": "2026-10-14T04:50:00.000Z"
+        "url": "https://gestion.pe/peru/talento-femenino-en-tecnologia-que-perfiles-concentran-hoy-la-demanda-noticia/",
+        "image": "https://gestion.pe/resizer/v2/DTHYLLRJ2RHR5DK5Y7FUFWPRBQ.png?auth=68bbd008e87345d9ee52f74a6e4f61ad8d63cc115bc0b3a5ec5d33027dc41d22&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-14T10:46:00.000Z"
       },
       {
-        "title": "Apple, Google y startups ‘gringas’: ¿qué lugar ocupa el talento peruano en Silicon Valley?",
-        "summary": "Víctor Cadenas, cofundador de PerúSV, estima que actualmente entre 300 y 400 profesionales peruanos trabajan activamente en Silicon Valley. La comunidad incluye perfiles de ingeniería, marketing, legal, diseño, gestión de productos y otras áreas, con profesionales que llegan tras cursar estudios en Estados Unidos.",
+        "title": "Scania apunta a incorporar su primer camión eléctrico en Perú: ¿qué condiciones necesita?",
+        "summary": "La compañía sueca espera cerrar el 2026 con cerca de 1,400 unidades vendidas y evalúa incorporar su primer camión eléctrico al mercado peruano el próximo año. Además, busca ampliar su cobertura nacional y fortalecer el liderazgo de las mujeres vinculadas con el transporte pesado a través de su iniciativa Queen of the R",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/peruanos-en-silicon-valley-ya-son-hasta-400-profesionales-y-no-todos-trabajan-en-tecnologia-noticia/",
-        "image": "https://gestion.pe/resizer/v2/CA5SJUGGGJBVNBTSRJDV3PCCK4.jpg?auth=53c550f881d4c57bd8b2dbde135ccf1b264ed11d1a62cbc08cc3c4711fcd1162&smart=true&width=1376&height=768",
-        "publishedAt": "2026-10-14T04:32:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/scania-traera-su-primer-camion-electrico-al-peru-en-2027-que-falta-para-hacerlo-realidad-noticia/",
+        "image": "https://gestion.pe/resizer/v2/KC4A4K6MHBFWBFGOABXGZTHKUY.jpg?auth=053245b6592946db98928b913bd0744d86ed2c7d99d021eff0ee152e8bff4765&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-14T10:45:00.000Z"
       },
       {
-        "title": "¿Control de precios de medicamentos? polémico proyecto de ley inició debate en el Congreso",
-        "summary": "Congresista de Fuerza Popular sustentó proyecto en la Comisión de Salud de la Cámara de Diputados. Sepa los detalles. Busca regular el precio de los medicamentos.",
+        "title": "¿Ceviche en riesgo por El Niño? cultivo de limón en el norte tendría hasta triple impacto",
+        "summary": "Existe posibilidad muy alta de que inundaciones golpeen más del 80% de las áreas de cultivo en la región Piura.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/control-de-precios-de-medicamentos-polemico-proyecto-de-ley-inicio-debate-en-el-congreso-noticia/",
-        "image": "https://gestion.pe/resizer/v2/VY52PZCPW5BGXKO4VSV3LOK6SQ.jpg?auth=52f71209dbc199b49dbefea9fcec0f8defd3b8111cec519cd60762127cb42dc2&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-10-14T04:16:00.000Z"
+        "url": "https://gestion.pe/economia/limon-el-nino-podria-tener-triple-impacto-en-su-cultivo-en-el-norte-del-pais-noticia/",
+        "image": "https://gestion.pe/resizer/v2/JB2YN4LBURGHJD7FKE6I4FDEG4.jpg?auth=5798edfe2a8e14ef06dcefa25a6cc9d9718ae10e8293a820de580e5b69194ac0&smart=true&width=1800&height=1200",
+        "publishedAt": "2026-10-14T10:37:00.000Z"
       },
       {
-        "title": "Grupo Man Pan, enfocado en panificación ahora quiere llegar a Bolivia y va por nuevas industrias",
-        "summary": "Grupo Man Pan amplía su presencia en el norte y sur del Perú, consolida su operación en Bolivia y evalúa nuevos mercados internacionales, mientras apuesta por minería y agroindustria.",
+        "title": "Mercados e indicadores – Hoy miércoles 14 de octubre",
+        "summary": "Para tomar las decisiones más acertadas de inversión, manténgase diariamente bien informado sobre el desempeño de las acciones de la plaza bursátil, de la variación de las principales variables del mercado financiero, así como de la evolución de los precios de los commodities. La cotización en el mercado de Londres el ",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/grupo-man-pan-acelera-expansion-en-peru-y-entra-a-bolivia-nuevos-planes-en-mineria-y-agroindustria-noticia/",
-        "image": "https://gestion.pe/resizer/v2/2AI662QXRJFPDCYP76KQJZCM6I.jpg?auth=19d4d19c50b8bee4707441222d4df6761818c8a23eae77835e3c58683967244d&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-14T03:51:20.000Z"
-      },
-      {
-        "title": "FMI eleva proyección de crecimiento para Perú en 2026, ¿a cuánto y con qué advertencias?",
-        "summary": "El Fondo Monetario Internacional (FMI) elevó su proyección de crecimiento para la economía del Perú este año. Así lo reveló la edición más reciente de su World Economic Outlook, con datos a octubre.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/fmi-eleva-proyeccion-de-crecimiento-de-peru-para-2026-a-cuanto-y-con-que-advertencias-noticia/",
-        "image": "https://gestion.pe/resizer/v2/NABJ3XY25ZHCNO4HAIWUZBPCPE.jpg?auth=949e3df901a5e339b7175d3f194600472079baaa664dc00735301aa85059791e&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-14T03:30:00.000Z"
-      },
-      {
-        "title": "De EE.UU. a Asia: la mira de LimaTours en nuevos turistas y destinos vírgenes en Perú",
-        "summary": "El turismo receptivo peruano sigue en recuperación, pero con cierta desaceleración en el esperado despegue, teniendo a Machu Picchu como cuello de botella por la venta de entradas. En ese contexto, LimaTours —con operación propia en el circuito del sur peruano y con una red de 150 hoteles conectados en línea— avanza co",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/machu-picchu-y-el-turismo-mas-alla-del-cusco-el-plan-de-limatours-tras-nuevos-turistas-y-destinos-virgenes-en-peru-noticia/",
-        "image": "https://gestion.pe/resizer/v2/B7FOJJLGQFCCDLJZZXB2B74SJQ.jpg?auth=6a1f0796b509dc0772cd02e777c52d570f5e7e42099a371302e995e055c2c2b3&smart=true&width=1214&height=697",
-        "publishedAt": "2026-10-14T03:15:00.000Z"
-      },
-      {
-        "title": "Netflix compró los derechos de transmisión del Mundial 2030",
-        "summary": "Netflix adquirió los derechos exclusivos para transmitir el Mundial de 2030 en la coanfitriona España, en un acuerdo que permite que una emisora pública en abierto muestre partidos cada día, incluido el campeón defensor.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/netflix-compra-derechos-de-transmision-del-mundial-2030-noticia/",
-        "image": "https://gestion.pe/resizer/v2/ZWRICYEYLRDWDC7FNDFHD4FSUM.jpg?auth=79ce17c84198dd3e721bc72875cf3da707a94b360584dd2060fa0b298778554b&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-14T03:15:00.000Z"
+        "url": "https://gestion.pe/economia/mercados/mercados-e-indicadores-miercoles-14-de-octubre-2026-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CKBJCXWQXVCTXHZN5ZAGTM66RE.jpg?auth=c935a9816683dbd514d89311dedaf60293df727aefbd90da56a9830e4813f2eb&smart=true&width=1280&height=720",
+        "publishedAt": "2026-10-14T10:30:00.000Z"
       }
     ],
     "sociedad": [
@@ -230,14 +230,6 @@
         "publishedAt": "2026-10-10T04:40:00.000Z"
       },
       {
-        "title": "Innovación culinaria y emprendimiento: El nuevo motor de transformación en la cocina del Perú - Business Empresarial",
-        "summary": "Innovación culinaria y emprendimiento: El nuevo motor de transformación en la cocina del Perú &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUG9EaTNDSnZfVzY0YTQzQU1kOHVrMmNqeE1CZ09KekYwVHpTR0c4TTBHNTd6V2JvVnRQaFE5R0x0N0hPdXBndk11TzRpVzZyTWd3dXV2ZlMzQjJIQVUwRS03RVhNT0pWRWNSd2dyNlZndXBkNTBiVXUtdzJQMXhyUi01ck9DRUNhd2F2ckJuQURmYWdkVkxyal9EbnE5OUFmRkxaSEJaNXJ1ZXF0alpWX2g3cVNjckE2Z3lQTGdaVkVKdm81NUpEU0V2V2I?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-13T07:00:00.000Z"
-      },
-      {
         "title": "El 44,9% de peruanos no emprende por miedo al fracaso: solo dos de cada 10 planean abrir un negocio en los próximos tres años - Infobae",
         "summary": "El 44,9% de peruanos no emprende por miedo al fracaso: solo dos de cada 10 planean abrir un negocio en los próximos tres años &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -252,6 +244,14 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOczV0aHBxeXJTcnQ2eUR5UWh5LUVNaU9UUUd1eGFETGpiUTF4cXBCXzZGVWFSM2hWR0c4a2tTMTNhZVVvWTJOWTNyQTB0VFdFWE50WmtxQXpIaFhHd1VrdERmeGl1eFlEZm94ZWNwMGVLNWJ5TXNreHFwWU8tWEZONVctOVRQc2VGeVJkNGdHcFJXSFZBLXIwalotRVFuWmJSYjBVSDJLVkp2emw1ZzlCNEpadzVoSExUM0RYSXJWZlgxNXp5a255LUN4QXJ5V25ISUpuUS1ORElpaTNxb1B1dFp5UTdRZ9IBgAJBVV95cUxQbzBRUy1EZnc5ZnhzandnWFd5T0oyODQ4akMteWVWcnJqaFNYZHpTTG5fZUxFU0tFUTR6c04zNEIzRThldVllMGFjVlFybzdFeHZsam1KR1Y5TkZIV2lxcGFsLVpVa1loWk9qdy14N3p0Ql9oRnhBSUU4MExjYzVTR2FhYTVJQWV4aGJlQl84NExEVUV0SThfUTZpb1FCQ0duUUJ3QXZWd1QxcDNzRERBR0tpMnhfTE5VQzV5dWhPbFJMTWpiZ2EtbENla0dKb1Z5U1FydmZUeUdLYnVVRG1sNTl3TEZtN0MtM0VmcHJUOW1sSlFLdGlKSlJfT0JuOFY0?oc=5",
         "image": "",
         "publishedAt": "2026-07-21T07:00:00.000Z"
+      },
+      {
+        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - Business Empresarial",
+        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOclpab3k5dms5U3JOSXdvUU1pSnFnUnYzWDY3QUtyeU9ob2NhZnI5U092N3QxY19kVUtUX1JPR0tzUElTTXVlMGdUbV9tclI0Y0JQcU11QWhJQkkxalNIR3R3VmdGSHdMY0NJUVE1V09Tel9OX3R5eUVKV3owZnJ2VjJ0VVRlNFowbWZyVUl4SDAwc2lYUzZKcTZtTDhEUlV0LTJMY2hnSGJkQ0c5U1AwRkVGVm5qQXk3XzI0ZEZ3ZTE4RjBtbTcwTG15MVdKX1F3Y3VGby1IdVNrd0pB?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-04T07:00:00.000Z"
       },
       {
         "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - Business Empresarial",
@@ -502,14 +502,6 @@
         "publishedAt": "2026-10-02T07:00:00.000Z"
       },
       {
-        "title": "Conciertos en Lima para septiembre 2026: todos los eventos con fechas y precios de entradas - La República",
-        "summary": "Conciertos en Lima para septiembre 2026: todos los eventos con fechas y precios de entradas &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQN2t3dE0wQVRpT09kN3dmQktaTDViMEhxXzI5eDQyVWxTZ3FDNmlVMF9rVHhUejRQRkt1SHA1bmZYdWxzSnFuNzhEZUhQWGVFdE1QbjlGV3N0RG1LWTZrRm02Y0w3dTlCc0JPWjRTdHBBaFpEYndHYUNGdjc4aERId000UzdkdTBmWUF1cC1DWG1vdTVxSDdPaDJ5MzVhaDU0WUViellhX2NEUlJQdFR2RzJqNXM3V3psWUQwVk9HRmczejFzUFBxTkxaS0Y1Z0drVnEyRWFHSEtoUVlOTEdKUUExRDlkejI2ck1mLXVDcFRsLTlIWWdOVTg4SThqTndpSzVjTmNkZFE2QXR6cW9LVm1BUdIBmAJBVV95cUxNZVBScnpMYUdFeGdXck5BcWNUTGRfcG9rMEx2UHY2VDZXaFhLeFc4RzhmNzRWN1BFck4zM0RkMGxNSHlBTVFnN0RVMUdWZTM0Y29nbE1fSjBabk1DNFMwbFJRMFJBUzhEYWxkV2V4bm94VUxwY3JmVXlSRXo2NkQ2OGpBUzhCclU5ZnpWYU0tMDlNWFMySWx6dmQxSDVmTGVKTmdVMWVEOGw5TEh4OW9PLTFyWWtNYzEydHFrRVAtOWREdlFCOVh6YlB5TFNfRlRPcGpCQXVMYmpsbTRnSW5xMnA5MUN3LS13bHczalozcVdUV2tiVDZieHI4ZVoybllCZEtCek5QTXJKTmNxV3lBaHZHYXFBYjBT?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-17T07:00:00.000Z"
-      },
-      {
         "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
         "summary": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -540,9 +532,25 @@
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQLWVGbEUwVG85QTkzaU82bVRlX0lJc3hyd1hzbERpS2lvaWZqTE9idmxvUlZwM3JzV3RtM25EamxVZGY1UnNRNVJxaUNNaTU4VU1abExzUHk3Q3RTYjlFcHpXMnpxVF8ySzZvZVZxTUxDWnRrYWgzX3BVazNTNVd3dTBvamE2S1oyRHdiNDNKNC1wX19FbjZ1VnN1S0xaTGdQVy1OY0cwbzVCX0ZFbjI0aDZYVlNhWUFXVFZzNEJkUWMzNE8xVU1PVzcyWklPLU5RQVRueEVuWElRcWdZekJGNFdJbkVobFMtcHMw?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
+      },
+      {
+        "title": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más informació",
+        "summary": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; Facebook",
+        "source": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdFRtVHlGS2ZUeUplTE1XU09ickJVSlBqR0Z3VGR1cjlrTG5NQlNuOFc5Si1OVXVLclh2T3Z1VEhKV1luN09INHpaRHp6U1Z1a2dRWWVjT1NzcG1pSnN2SVJGTnBvMzhzSXFlWnVFVXhKVmZtSUF1Z19rN1Z4U1BqNU02Qjd2dWRnWnZXemlkZlZHeVMxckFPT3pLeTNUek5uVkZOZUM5ZVVGMXFISG1GUEYxTXB2TW1PaUI1QkJsMFFOQ2g3TF9pOXVBdV9UVk95ZGN2M04tNDlLNFFhc2h0UHAzWU9QaC1mOW1Nb1B0U1RGTEs5Y204ZQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-05T07:00:00.000Z"
       }
     ],
     "cultura": [
+      {
+        "title": "Agenda cultural en Lima 17 al 24 de setiembre: Robbie Williams, 'La Cabaña', 'La mujer de negro' y el Festival de la Luna se imponen - Infobae",
+        "summary": "Agenda cultural en Lima 17 al 24 de setiembre: Robbie Williams, 'La Cabaña', 'La mujer de negro' y el Festival de la Luna se imponen &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOajlpTHJUcnhPRlNzcnlPYV9qbVJJR3pUZ19sN3Z4bWJtZ2xHTkhaWjZPVi14cjE3NHRCQ1ZWeHFWT0w4cnJCbzNwOXFnUWNIOTc5aWpUSy1xdHBZZWVyZzltM1lRTE1ia1kxNVFfRDVDUnFYSGptSjQ1bTdPQ0R3WE15Z1hILVlFV0txS05BaW04dUFqVk05YkVBdmNXTm5xcDFucGk3M29jaF9yUnFxa3cwY0RPUldLaEdxdnNmMVZzR3AxZ2tDU1FPU3o3T3hTcFgxRjVXc1AtQzB6ZWhSUG5jWjAtNng4N0lnQV9JNlZGNlhOcjB5TTlR0gGUAkFVX3lxTE5HY25QVmNINl9QU3c0WHdkTEw5ZWx4SWREOXJ1d3o3N3lORVV0aHZUbnl5X3ZvWEFxbW0ya0tVcmFFejlmWld0NnQ5Qm0xMXE2ckNBVE5FY1VWQ1REdWxlVEtuU0hyNFF1aXIxcnNsa0dfZm9yejM1cXVmcWpYT2hxOTNGeEdGcy1XTThVc1JQdGtFQ0pscHJpSWFqYVFCeVpIbmhodGk1eGtaaGJUODlwTnFMMVhEOHlhU1gzZXgyVF9Wbm10dkxZTERIZXVobnJielZXY3dWVGNoeUh0VnozRDJ0dDdNM0FlOHpYQnhqcG9qN3hDQlB1blN1MFczQ2piQXl2bnI5aDQxYmhFcDIxQTFZZw?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-17T07:00:00.000Z"
+      },
       {
         "title": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA - Infobae",
         "summary": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA &nbsp;&nbsp; Infobae",
@@ -598,14 +606,6 @@
         "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTTZDSUpUY3djZ1R3U0lOUzRLVVV6OGFpNGZvRm83N0dTV2VlclhHT3U5YlVzX1NLMUFzdUx4cHZrX2FhdGhDeGtYOWZwZ1VyUnZiZEIxRUw5NmhZUG93WHZJNUFHUzRTMHBtVTRQUE91OFprb1NlMXhsbkF5ZHZINWxweFVsVzRJZlpUcFI2Mks5andzSTgwNVhUZXJsaVl5bUhrMXFLX0JMWDgtNEtWbW92YXVBS19kQ1dYS1hqSEt4YVpnaFNqeFVHQzhqbVBIZnFnUEcyOXdqUnFZNllOZG5aVjlsbUtlV21JZ21aTjRkNlNyOEYwZnVhbnhSdDNadVRZbUNvYjPSAaMCQVVfeXFMT0lVVzhVeG9mNGZBb2diQW9Bd1ItVlppWDFzMmt4eDAyY1ZYMjVQUWpzN2hzMGpfR3RqRGhVS3NGZm04ZlBnaGxsUXozY1o1ZlFkWjl3aElHZjAyaWo0SDR1VU5SM09KSm1HWkRTeDlSa1Z5bGVpZS0yN0s2cVYxRFBvUjRwZHV1eHFnbUx0RlRaLUdSU0JPWmdSY0V2SXE0QUpFbGlCa3JtOE0tOHNCMWlsV19wTi1ienIyLTdubnJCUXQ0T2xkSTluVENhVENBeEcwZVM4NlZjS2IwS3NhbTRNQ3d0cFlLd3JWakw2Wl9YbTBkcGowYkVYU2NKbVl4eXdVa2FNZ3FlVVNpejg4T1FQaUxmZlR2Rk9idk9RLVV4cmtB?oc=5",
         "image": "",
         "publishedAt": "2026-08-21T07:00:00.000Z"
-      },
-      {
-        "title": "Agenda cultural en Lima del 13 al 19 de agosto: lo último del Festival de Cine PUCP, ópera y ballet, salsa, teatro y exposiciones gratuitas - Infobae",
-        "summary": "Agenda cultural en Lima del 13 al 19 de agosto: lo último del Festival de Cine PUCP, ópera y ballet, salsa, teatro y exposiciones gratuitas &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVEN4R0wzbk9BVWZvS0JOOS1TcXR1SkFWTzVHbEhDM0hjYzBaX056STYyZkgybnR1VDc0VEl3WWZjeE01ZkEtUGl4OHZoOWxEcDd0WFdGbnJsanpXS0lNOW1rR0ZPcm9YcHVORFYyRE5PYXpiYVpVdWtOeWFPN1Y5QmJUeGMxSVZ5YWZnb3VoT0VyelEtLUtDM0pRam9zOFlIWEpOZUxUUjFBSl9YZXlUSFJqenRuaE5LR0RqRGQyck50NFdxaV9nMi1KSmRFMVFNZ2c0Z0dhUzd2aU4yOGZyb20wNFQzR0pRaUxtWTZsRkMtbTVzNnhnZk13N3FHNlJlbkdmOXByRdIBogJBVV95cUxNSzdWSFA0MnYyRkhjdGRKRnVsUDlOUzZobWxGUGw2T083NG41MUVmX1ZObGpOZjcyLVRQTGg2NV9ObXJhSUtRQ3VVS2wzRUtxaFdocUozSEJPeHZXc2JabzhENS16QXZFYVVmY0ltS3BocnJTZEFLeVhOMHdXUWY4LWpFc3FzRWU3RndwYjZ5d1FLX09vNFBnemc1aldIN0tyUEE3NzJpZmwxOEN2Wmdpc1RBUU5uVXRVRTZNUzdsMW5oVmVJYUdZc0hLdG00S1o0TVB3NzlsSm8xTC1kMmo0SXNRTVhNUzFYaUYzd1dRRi1OVmprRlVMd1IxcG11Z1JqSElMMGc0QkFKQmxOYVlfUUJOd0IzbWtsa3h4RWNVQTFfdw?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-13T07:00:00.000Z"
       }
     ]
   },
