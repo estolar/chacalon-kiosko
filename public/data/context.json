@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T11:22:46.800Z",
+  "generatedAt": "2026-10-15T16:56:24.101Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,36 +24,20 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
+        "title": "EN VIVO | Comisión del Senado debate predictamen que incorpora ocho puntos a pedido de facultades",
+        "summary": "La Comisión de Constitución del Senado, que preside Carlos Mesía (Fuerza Popular) debate y votar este jueves el nuevo predictamen sobre el pedido del Gobierno de facultades especiales para legislar. El texto incorpora 8 puntos, entre elos agrega la denominación de “grupos hostiles” a organizaciones criminales y el fort",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/actualidad/en-vivo-comision-del-senado-dictamen-sobre-pedido-de-facultades-del-gobierno-que-incorpora-ocho-puntos-votacion-incidentes-detalles-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/4WFIRCEJBZEJPP6H3KPDR5BTRM.jpg?auth=5d9435f0c082285664e64c3949027fe22c8a8ac0123bd69bffa89982a53cdc42&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-10-15T16:47:11.000Z"
+      },
+      {
         "title": "Diputados proponen crear, en promedio, una comisión investigadora por semana desde el inicio de sus funciones: ¿cuánto le costarían al Congreso?",
         "summary": "Desde el inicio de sus funciones, en julio pasado, los diputados han presentado 12 mociones para crear comisiones investigadoras, a un ritmo promedio de una por semana. Los pedidos están pendientes de aprobación por el pleno; sin embargo, especialistas consultados por El Comercio coinciden en que estos grupos de trabaj",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/congreso/diputados-proponen-crear-en-promedio-una-comision-investigadora-por-semana-desde-el-inicio-de-sus-funciones-cuanto-le-costarian-al-congreso-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/YAFNUZ26FZFDJP7ZDGISJS4RZY.jpg?auth=fdb06445096d8ad7dadb78c472841afb626293315377f85139542977d2e94e51&smart=true&width=748&height=655",
-        "publishedAt": "2026-10-15T11:00:00.000Z"
-      },
-      {
-        "title": "Comisión del Senado debate hoy predictamen que incorpora ocho puntos a pedido de facultades",
-        "summary": "La Comisión de Constitución del Senado, que preside Carlos Mesía (Fuerza Popular) debate y votar este jueves el nuevo predictamen sobre el pedido del Gobierno de facultades especiales para legislar. El texto incorpora 8 puntos, entre elos agrega la denominación de “grupos hostiles” a organizaciones criminales y el fort",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/actualidad/en-vivo-comision-del-senado-dictamen-sobre-pedido-de-facultades-del-gobierno-que-incorpora-ocho-puntos-votacion-incidentes-detalles-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/4WFIRCEJBZEJPP6H3KPDR5BTRM.jpg?auth=5d9435f0c082285664e64c3949027fe22c8a8ac0123bd69bffa89982a53cdc42&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-10-15T10:59:00.000Z"
-      },
-      {
-        "title": "Álvaro Vargas Llosa es nombrado embajador del Perú en EE.UU.: ¿Cuáles serán las prioridades de su agenda?",
-        "summary": "En entrevista con El Comercio, el flamante embajador Álvaro Vargas Llosa señaló que su gestión buscará dar un nuevo impulso a la relación bilateral.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/alvaro-vargas-llosa-es-nombrado-embajador-del-peru-en-eeuu-cuales-seran-las-prioridades-de-su-agenda-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/IQ4ZY5OCYBFXZMZ56NKRW3TRHE.jpg?auth=caf1496150cf57784cb341cba57b2c9282ffcb2db2b4c8a29502d12e8c5b1bf8&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-15T10:30:00.000Z"
-      },
-      {
-        "title": "César Astudillo detalla medidas en seguridad que fueron excluidas de predictamen que será visto en el Senado",
-        "summary": "El ministro del Interior, César Astudillo, precisó dos iniciativas del Poder Ejecutivo en materia de seguridad que no fueron consideradas en el predictamen de la Cámara de Diputados sobre delegación de facultades legislativas que será evaluado por la Comisión de Constitución del Senado.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/cesar-astudillo-detalla-medidas-en-materia-de-seguridad-que-fueron-excluidas-de-predictamen-que-sera-visto-en-el-senado-ultimas-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/7HLS6EU7GBACXDGV4ZI4WMIZ7A.jpg?auth=d8a54923987fa7a8e37aa334cbc3f6ad01537ea482d706b46d1573be6b7b6b24&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-10-15T02:44:06.000Z"
+        "publishedAt": "2026-10-15T16:38:57.000Z"
       },
       {
         "title": "“Grupos hostiles”, el factor DINI y otras acciones: estos son los puntos que incorpora el predictamen del Senado",
@@ -61,89 +45,105 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/grupos-hostiles-mecanismos-antiterroristas-y-el-factor-dini-estos-son-los-nuevos-puntos-que-incluye-predictamen-del-senado-sobre-facultades-especiales-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/HGSZQ3TWKJGQLMKCDV6KSIFD3A.jpg?auth=6043d773ba9af2a6f19314bd31a0c9ab4a20d0ea564695c82eb50e15403cdb6f&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-15T02:41:59.000Z"
+        "publishedAt": "2026-10-15T16:38:03.000Z"
       },
       {
-        "title": "Juan Sheput: “El Congreso ha apostado por la coyuntura y no por las reformas de fondo” | Entrevista",
-        "summary": "El ministro de Trabajo y Promoción del Empleo, Juan Sheput, sostuvo que, si el Congreso no aprueba ni la mitad de los puntos planteados por el gobierno en su solicitud de facultades, sería “un fracaso” para el Parlamento, sobre todo de la cámara de diputados. Agregó que esta instancia, prácticamente, “mutiló” la propue",
+        "title": "Álvaro Vargas Llosa es nombrado embajador del Perú en EE.UU.: ¿Cuáles serán las prioridades de su agenda?",
+        "summary": "En entrevista con El Comercio, el flamante embajador Álvaro Vargas Llosa señaló que su gestión buscará dar un nuevo impulso a la relación bilateral.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/juan-sheput-el-congreso-ha-apostado-por-la-coyuntura-y-no-por-las-reformas-de-fondo-entrevista-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/RVBQTZLWSNGWJLZT67FGCO7GAU.jpg?auth=bfb06108975aa7641710189aaf3a58cd7d69a1ee862ea7a136a43307f5db5e7c&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-10-15T01:36:45.000Z"
+        "url": "https://elcomercio.pe/politica/alvaro-vargas-llosa-es-nombrado-embajador-del-peru-en-eeuu-cuales-seran-las-prioridades-de-su-agenda-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/IQ4ZY5OCYBFXZMZ56NKRW3TRHE.jpg?auth=caf1496150cf57784cb341cba57b2c9282ffcb2db2b4c8a29502d12e8c5b1bf8&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-15T16:37:38.000Z"
       },
       {
-        "title": "Francis Allison afirma que está “peleando actas” y pide al JNE y los JEE un trabajo “pulcro”",
-        "summary": "Francis Allison afirmó que se encuentra a la espera del conteo de las actas electorales pendientes y pidió al Jurado Nacional de Elecciones (JNE) y a los Jurados Electorales Especiales (JEE) realizar un trabajo “pulcro”, sin que los candidatos deban asumir elevados costos para impugnar actas.",
+        "title": "César Acuña anuncia su retiro: “Chau política, dedicado a tiempo completo a formar a mis jóvenes”",
+        "summary": "El líder de Alianza para el Progreso (APP), César Acuña, anunció su retiro de la política y señaló que se dedicará a tiempo completo a la formación de jóvenes y a su universidad.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/elecciones/francis-allison-afirma-que-esta-peleando-actas-y-pide-al-jne-y-los-jee-un-trabajo-pulcro-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/FT2ZIL7525HG7C5SHQQ6FTBRVM.jpeg?auth=5e03435cf73b4e8fa0c02dc6f6b020ca5f76cc9beea0fa36ab69e4f875346c63&smart=true&width=1280&height=854",
-        "publishedAt": "2026-10-15T01:36:06.000Z"
+        "url": "https://elcomercio.pe/politica/actualidad/cesar-acuna-anuncia-su-retiro-chau-politica-dedicado-a-tiempo-completo-a-formar-a-mis-jovenes-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/E5YJ7XYFQVFOPJUNNGU5WPBWUQ.jpg?auth=f1c87bb644d897595bb2494469136766eb54a0ad996a934362126325f07c1a8b&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-15T16:03:10.000Z"
+      },
+      {
+        "title": "Perú asume la presidencia de la RANDOT de la OEA para el periodo 2026–2028",
+        "summary": "El Perú fue elegido por por unanimidad como presidente de las Reuniones de Autoridades Nacionales en Materia de Delincuencia Organizada Transnacional (RANDOT) de la OEA para el periodo 2026–2028. La designación oficial ocurrió el 14 de octubre durante la Quinta Reunión de este mecanismo hemisférico tras una propuesta c",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/peru-asume-la-presidencia-de-la-randot-de-la-oea-para-el-periodo-20262028-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/IMYY3HKC4NETLJXZYHASM254LI.jpg?auth=1064cab46fa5960a6a7dcf63d0ed9f9b09b192b883c080ff8e321fe9e24effbc&smart=true&width=1000&height=750",
+        "publishedAt": "2026-10-15T15:56:23.000Z"
+      },
+      {
+        "title": "PerúCheck: ¿La Constitución establece un marco de acción específico sobre organizaciones terroristas?",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/perucheck-la-constitucion-establece-un-marco-de-accion-especifico-sobre-organizaciones-terroristas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/SXHZLUJP2VBKRFHL4CF3ZWMMJE.jpg?auth=a95de1371c8b83e3186c8201d913c0c3ae8cace013a506d6d8970fe3ed9a7f93&smart=true&width=836&height=448",
+        "publishedAt": "2026-10-15T15:53:14.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Expansión china: del centro de Lima a periferias, ¿nuevos clusters de importación?",
+        "title": "Empleo perdió impulso en el tercer trimestre, ¿cuánto creció?",
+        "summary": "La generación de empleo en Lima creció 6% entre julio y septiembre, su menor resultado en cinco meses.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empleo-perdio-impulso-en-el-tercer-trimestre-cuanto-crecio-noticia/",
+        "image": "https://gestion.pe/resizer/v2/N3AVO3OL65ATVOC3MQITOQKXLI.jpg?auth=fad6d92acd5353312208118a2051e15569667ff8b916017cfaf294d596c9f305&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-15T16:44:00.000Z"
+      },
+      {
+        "title": "MTC confirma que recorte a TUUA de transferencia internacional será de“no menos del 50%”",
+        "summary": "El MTC indicó que el porcentaje de reducción de la TUUA de Transferencia Internacional no sería menos del 50%.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/mtc-confirma-que-recorte-a-tuua-de-transferencia-internacional-sera-deno-menos-del-50-noticia/",
+        "image": "https://gestion.pe/resizer/v2/QBCM47GINZDGPDEXVOLFKCC4AI.jpg?auth=29b93776695ffe35f1b9c18be7aa931eebc4f0df81e245af8448af2ef0c0a279&smart=true&width=700&height=455",
+        "publishedAt": "2026-10-15T16:39:53.000Z"
+      },
+      {
+        "title": "Indecopi multa a Civa por no incluir información obligatoria en sus boletos de viaje",
+        "summary": "En segunda y última instancia administrativa, la Sala Especializada en Protección al Consumidor del Indecopi confirmó tres multas que en total suman 20,67 UIT (S/ 113,685) impuestas a la empresa de transporte Turismo Civa S.A.C.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/indecopi-multa-a-civa-por-no-incluir-informacion-obligatoria-en-sus-boletos-de-viaje-noticia/",
+        "image": "https://gestion.pe/resizer/v2/52GKCA33EBH5FLX7ECVXTO2MEY.jpg?auth=d779cc0c893a5d739e2ba271035721f52a7a8650e8926e50fb88665e7677f81e&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-15T16:36:25.000Z"
+      },
+      {
+        "title": "Mall del Sur amplía su sexto nivel: ¿cuánto invirtió Corporación E. Wong en su nueva Zona Telco?",
+        "summary": "En el año de su décimo aniversario, Mall del Sur inauguró una nueva zona comercial de 1,550 m² dedicada a empresas de telefonía y telecomunicaciones. El espacio forma parte del proyecto de ampliación de sus pisos quinto y sexto, para el cual Corporación E. Wong estimó una inversión de entre S/ 4.5 millones y S/ 5 millo",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/mall-del-sur-amplia-su-sexto-nivel-asi-luce-la-nueva-zona-que-reune-a-claro-movistar-entel-y-bitel-noticia/",
+        "image": "https://gestion.pe/resizer/v2/7GZYDPJKCZFPNJKLGFCTXESQMU.JPG?auth=466777257b85b2e43f94065ba7a2801ab99e2fbac8bb7d6b7db9a5d168a663a6&smart=true&width=721&height=484",
+        "publishedAt": "2026-10-15T16:34:46.000Z"
+      },
+      {
+        "title": "Bolsa peruana con mejores fundamentos para invertir de cara al 2027: las acciones que destacan",
+        "summary": "Perú llegaría al 2027 con una ventaja frente a otros mercados bursátiles de la región andina. La rentabilidad de sus empresas, el dinamismo de la inversión privada y el ciclo favorable de los metales favorecerían este resultado; sin embargo, el avance registrado por la bolsa y las restricciones de liquidez en varias ac",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/mercados/bolsa-peruana-con-mejores-fundamentos-para-invertir-de-cara-al-2027-las-acciones-que-destacan-noticia/",
+        "image": "https://gestion.pe/resizer/v2/TWAE7RTMWZFKTFPAATUVXR6Z7A.jpg?auth=7255ae0b519f3d2977816570d596806d9fbdacb1b76c4ff6638180d95bbaae44&smart=true&width=1960&height=1056",
+        "publishedAt": "2026-10-15T16:32:00.000Z"
+      },
+      {
+        "title": "Gobernadores y alcaldes electos promoverían 12 nuevos megaproyectos al 2030: ¿cuáles?",
+        "summary": "Según la cartera actual de ProInversión, hay 12 proyectos de Asociaciones Público-Privadas (APP) y Proyectos en Activos (PA), que 7 gobiernos subnacionales deberán adjudicar al 2030, año en el que culminarían sus mandatos.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/gobernadores-y-alcaldes-electos-promoverian-12-nuevos-megaproyectos-al-2030-cuales-noticia/",
+        "image": "https://gestion.pe/resizer/v2/H7FPSQLGJVGHVMR4AGDTZIPB7Y.png?auth=3dfcad441d681c0d2b5fb5d7ba9f5081e1e97c9f1c7cbe80c408908d9d070812&smart=true&width=1672&height=941",
+        "publishedAt": "2026-10-15T16:20:00.000Z"
+      },
+      {
+        "title": "Tipo de cambio baja hoy en Perú: ¿cuánto está el dólar este jueves 15 de octubre?",
+        "summary": "El jueves 15 de octubre, el dólar en Perú comenzó el día con un descenso, mientras la atención de los inversionistas se concentra en los últimos datos de inflación de Estados Unidos.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-jueves-15-de-octubre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
+        "image": "https://gestion.pe/resizer/v2/B4QXBKMWHVBFRFS3AEELVANZNM.jpg?auth=ef70704c70706b76dd4fb51ae17560324d5a6f16f4be64f7cf3706cc344147e6&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-15T16:03:45.000Z"
+      },
+      {
+        "title": "Productos chinos: nacen dos nuevos clústeres fuera del Centro de Lima, ¿dónde?",
         "summary": "Mientras las galerías y tiendas en Lima desarrollan la fugaz campaña de Halloween, los importadores y comerciantes ya trabajan en silencio y contra el reloj en los almacenes para la principal temporada del año. Es octubre y en el conglomerado de Mesa Redonda ya se vive la Navidad en los escritorios y cuentas de los emp",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/venta-de-juguetes-en-navidad-tendria-50-menos-de-stock-y-precios-subirian-mientras-importadores-traen-productos-de-bts-noticia/",
-        "image": "https://gestion.pe/resizer/v2/TDA3ZPG4EVFDDA32Z4LCMRAKRA.jpg?auth=5ea9abda1e00a473c141d5c429681be12eae752030c72487f657a00a33b2d062&smart=true&width=1118&height=746",
-        "publishedAt": "2026-10-15T11:00:00.000Z"
-      },
-      {
-        "title": "Lotes petroleros: Minem busca nuevo “límite” para acabar sus concesiones, ¿qué busca?",
-        "summary": "El Ministerio de Energía y Minas (Minem) analiza nuevos cambios para agilizar y potenciar las inversiones en hidrocarburos en el país. Así lo reveló la viceministra de Hidrocarburos, Iris Cárdenas, durante su participación en la presentación del XII INGEPET, organizado por Perupetro.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/lotes-petroleros-minem-busca-que-plazo-de-contratos-se-extienda-hasta-su-limite-economico-noticia/",
-        "image": "https://gestion.pe/resizer/v2/AMAIQJLCEBC6JPXJPPZLINWUJQ.jpg?auth=54ee7ed15aabb9a831242295e4c89d7611645a38a3f34bb9ac2fb22924845488&smart=true&width=1800&height=1200",
-        "publishedAt": "2026-10-15T10:55:00.000Z"
-      },
-      {
-        "title": "¿Nueva competencia para Alicorp y Nestlé?: dueño de Plaza Vea mira al negocio de cereales",
-        "summary": "Bimbo, Supermercados Peruanos y Mifarma avanzan con nuevas marcas para cereales, snacks, vitaminas y suplementos en el mercado peruano.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/que-preparan-bimbo-plaza-vea-y-mifarma-las-nuevas-marcas-que-apuntan-a-cereales-snacks-y-suplementos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/E7WNDXDQTRCM7KX2TYYCMYJQLI.png?auth=6bbb8034ec1cce3169f572be4e0af13609a1cd7f88e0aa40f2a9c0e906051996&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-10-15T10:45:00.000Z"
-      },
-      {
-        "title": "Mercados e indicadores – Hoy jueves 15 de octubre",
-        "summary": "Para tomar las decisiones más acertadas de inversión, manténgase diariamente bien informado sobre el desempeño de las acciones de la plaza bursátil, de la variación de las principales variables del mercado financiero, así como de la evolución de los precios de los commodities. La cotización en el mercado de Londres el ",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/mercados/mercados-e-indicadores-jueves-15-de-octubre-2026-noticia/",
-        "image": "https://gestion.pe/resizer/v2/CKBJCXWQXVCTXHZN5ZAGTM66RE.jpg?auth=c935a9816683dbd514d89311dedaf60293df727aefbd90da56a9830e4813f2eb&smart=true&width=1280&height=720",
-        "publishedAt": "2026-10-15T10:30:00.000Z"
-      },
-      {
-        "title": "De energía a más rubros: Perú y hub de Chancay atraen más de 80 empresas de Colombia",
-        "summary": "Para las relaciones entre Perú y Colombia, el 2026 marca un nuevo comienzo y el vínculo empresarial entra en una fase de aceleración. Tras el cambio de Gobierno en ambos países, también se decidió el restablecimiento de embajadores en cada nación, lo cual es visto por el Consejo Empresarial Colombiano (CEC) como un nue",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/peru-atrae-mas-de-80-nuevas-empresas-de-colombia-en-diversos-rubros-y-chancay-es-visto-como-hub-comercial-noticia/",
-        "image": "https://gestion.pe/resizer/v2/2SRR2V3CHNBFRGYNGA5BQKI4LY.jpg?auth=1e8b97e9712fbd4a2aec3c9ca1e67c1d134f2b2b67fc11ec60e32e9baa875ada&smart=true&width=1153&height=649",
-        "publishedAt": "2026-10-15T10:30:00.000Z"
-      },
-      {
-        "title": "AlaCena de Alicorp apunta a crecer a doble dígito y ya capta el 50% del mercado",
-        "summary": "La marca renovó su identidad tras 25 años y busca sostener su crecimiento con innovaciones en mayonesas, ketchup y picantes, mientras apunta a duplicar el consumo per cápita de salsas en Perú.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/alacena-alista-nuevas-salsas-y-formatos-para-ampliar-su-portafolio-hacia-2027-noticia/",
-        "image": "https://gestion.pe/resizer/v2/BPSBBNHL6VFKXJDTTESWO2CUGY.jpg?auth=f41027eda15f39539228034fbfc168ad23c5356c0363d7312c81134af1dbf6b8&smart=true&width=1500&height=844",
-        "publishedAt": "2026-10-15T10:30:00.000Z"
-      },
-      {
-        "title": "San Juan de Lurigancho: abundan empresas en el distrito, pero “temor” al crimen las frena",
-        "summary": "SJL concentra el 7.6% de las empresas de Lima, pero la inseguridad limita su capacidad para crecer y atraer nuevas inversiones.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/san-juan-de-lurigancho-abundan-empresas-en-el-distrito-pero-temor-al-crimen-las-frena-noticia/",
-        "image": "https://gestion.pe/resizer/v2/2J62I3TEAFBBPJSTN3HWG5OYUY.jpg?auth=da7cda34243fcfe2e35b58e86e2acc0f602ad2e806865aeee26fd16cfef83114&smart=true&width=872&height=578",
-        "publishedAt": "2026-10-15T10:30:00.000Z"
-      },
-      {
-        "title": "Crecimiento no es igual que desarrollo: ¿hay “dos Perús” buscando cumplir con los ODS?",
-        "summary": "El índice de los ODS 2026 revela que Perú obtiene 60.2 puntos sobre 100. ¿Cuáles son las desigualdades que dividen al país?",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/crecimiento-no-es-igual-que-desarrollo-hay-dos-perus-buscando-cumplir-con-los-ods-noticia/",
-        "image": "https://gestion.pe/resizer/v2/OW2I67DSAVGUNKP4Q74DMI3HC4.jpg?auth=561b781dbd8cf605be1c9b00b5b1fdaff56a19bc12c43e866babb3ac5308101b&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-15T10:20:00.000Z"
+        "image": "https://gestion.pe/resizer/v2/MQNOZ7GSGJDMJF5BGA4WDITEWY.jpg?auth=e528b95c75ed06fec16545ae67cfaeea687de0f3f5661c2d65981d311059cebe&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-15T16:03:01.000Z"
       }
     ],
     "sociedad": [
@@ -238,6 +238,14 @@
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
+        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - Business Empresarial",
+        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbEpWQWwzZjk1OHUyMXNjdl9taXN3YWtlVkc3WUd6ak1GNTNKTjMwWHhEd0Y4TTF6WU90LTMwTjZSNDVFN29ReWFGQkVvTmtya3pNMG9kSEdjYzRvdnZsTG16M3E1bzZhV09OVVBwWUNCU2ZJVHpfdnlvV1VmVXVLU2FmR3FYeVlIRnl1MVRvWmJlSWU4eVZ4Rkxxd2tZUHBKcWp6Q3BRUkZRMVRkbDRiVWNOdTFNSU5yNjByS2FobmlLdGRrOVJHdU9YOW9VYjZBLTYySHM1cDNhR1pDR0JZ?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-24T07:00:00.000Z"
+      },
+      {
         "title": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión - Infobae",
         "summary": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -268,14 +276,6 @@
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmtHemFxbzkzZVNVajZWNmstMk9YSDJHejFFbjVDaE5sYWNsT0JRZkxJUjBoa1hmMU5hdTNqclFvbDcxWl9nZUcxRlp4cHdPWGk4SE1oVWlTbW5iNzdwUXNWYWh4WUQzSEY4TmVSbnozMDVmS3BPd1ZUYllacXNOQVpUMFhqR215X1FOSk04Q1p5ZVJseXdrYm5DdkM0SDZpVHc0ZVR1MUNhX1dSRnRPa0dzdkxqS29xdTc5aGw3U2RxRzR0cmNsVGRkS2ota2s0aWFUZjJMc1FvRnlVaUF3Z3Nn?oc=5",
         "image": "",
         "publishedAt": "2026-06-25T07:00:00.000Z"
-      },
-      {
-        "title": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 - Infobae",
-        "summary": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFBQRGNLOWxaMy1mT2RjU0RCNGw4TVNrRmlfX25qei10R09YTWltOXdNX1Fya1g0NEk5S2hhUnQzZmstM3o4bFNJS3QwbkFvUGs3dmx6TktrMDZZSEkzTkJVZ0ZEdmFaa0NUZk9pT1prS1gzNjVDeVMyUzdjWXlNQTNtSThQcnRyRjJ6YlZEWkw1WUF0aTZsQXRTWnJtRnYyX1Z0NDBCYm1PWGlOekJpeGlBS29qLUkzbTBFa1FKMmJnNDNrNDAxeWZn0gHkAUFVX3lxTFB5cjR0aTlsOEl3ZkZEeV9XR05Vb0RHblRDVTRpMFdTZTllMWdRaEpoSlZpSm5JOUZCbzBXc2pic0NMdG9OOGcwQk5fNWF2Wk9FYVp5RnU1WVg4ckU4eTJfT3FEOTN6cURTMjU2d1U5NUJmZ0ZseC1YdllmbEpuZTlnbThqeF9vSlVTb0cxSkZtZFBpTmcwakkzemxzcGJucU9JbFFic2hqNU9jSGVHWkdUTVNuNFFIb0x3S2pTNFBzRXptSF91N0EtSElUMi1kVldUYl9ocmVQLVNSZDY0V25QNV9iRA?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-18T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -288,12 +288,12 @@
         "publishedAt": "2026-10-05T07:00:00.000Z"
       },
       {
-        "title": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional - Chimbote en Línea",
-        "summary": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; Chimbote en Línea",
-        "source": "Chimbote en Línea",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdUlfZ2hfaXNHTGtPY0RiYTFSLU9hOGp6UFpJb1JmLTBoLUlISTFoNlFDN1Vpc2pfVFhfNFpveDV3WVE3Q2lpRmZfdXZZRmVQRkhqYkw2OW9mMXRCWGJacjAzczhkOTVtc083b0djalZpUnNkOFdVdExpb3NkNjdrMDlBNFNkMDZnVEotZzM5eHZlM251TE5VbE9YVWFkSGJxVkhDcHhLaVpjbkdCc205bHRyVjFmMkNuNEhVOGlOVU5PTVZmeU5Dc09uRmxpMUpMbzdvVVNjaE9GdmpVczdfVUZpVDc0c01u?oc=5",
+        "title": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional - Diario UNO",
+        "summary": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; Diario UNO",
+        "source": "Diario UNO",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjYxUUxNV1dqcXRBRzRyY1BNcm5UZE5abG00MVNLSWNWd2xkMVVhUkhTQVMyQ3U1dEFKeWdyTG5NX1hRRlJiTXJjRWppU2hmMnFKdXJkZHVKNW5GZWR4V1ZfZ2pBZW56T0d4Yk4zR3FJSHZEU1hYblNoZm1VQXFUYUN4RFpoRTloVF84OEt0VEtNcjBwM3JjemdQTnQtQ1dpa2tDZ0haTjg3OHNrNmtsMXdaaVBwaFpfUWhRbS04UWRFRFo5UDF2UjZGNGd4WFEwYkJLWW5GUzE?oc=5",
         "image": "",
-        "publishedAt": "2026-09-21T07:00:00.000Z"
+        "publishedAt": "2026-09-19T07:00:00.000Z"
       },
       {
         "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - Forbes Perú",
@@ -483,7 +483,7 @@
         "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNekRuOHA2bzF2M0J2S21oMWpfOXlGaTR4LUFycU9xQ2ZXeUt2YmxJcmFZUk9WV3dUUTFIVUE5Tml3amdpNFo1OGNVY3pGcHVkREc5LU1fd3h4MDhNdFRfSG9JZnpnUmtlTXJHanBqUTNlUnhwWVphUkhvN1NtQ1h1TXB5NHJNNGJ1dTJzRGtlaWh5VExHZGRmR0RKRE1XeEZxeF9qLW9RRzZ0MU9mMTRQNWEzUEU4Zmk3NVhvWTItakZVdFczWjlHRDJINUFabERhTzhSN21ZN1ZZMnNXZmlib1JRUnJMdnotN1dFQkQ1V1l2NHhYX1ppdTlLbWVzUkZHRHNCU0ZTSGphSm1D0gGgAkFVX3lxTE9ueEZ2d3Jnbll2cVVyaGVuTGNfQkxpd2VLY1hqd0dXeThZM01wczNfcFBoWXYxSjVnYXNqQS1aZVFYTG9oYnVBTzdSZFhqeld6czVrV01QZlU2blUzYURQQm5zR1RBQUIza1V3NkVkSlBlZzF2cjRPZkxzMGR0M0ZWaHluSGRVdEsxUzdmaEVXX0NZZHUzMFZUYWZva2g4Vll6SmwyeDNlN2lUVlFYTXVqdmdEbzFFUDhzY1F1LVN4QkM2MEE4dHJBYzFvT21pNHBjZGpJT2d1QjhROUw2TVZBdzFFRVJxdHBuNE9BelM0eW03c1k1bnZWVzY3Z2VZUjhvdlB5dHQtZEJzdlZVUmE5MUxReG9xWWY4TThoWHY5MQ?oc=5",
         "image": "",
-        "publishedAt": "2026-10-07T22:55:23.000Z"
+        "publishedAt": "2026-10-07T07:00:00.000Z"
       },
       {
         "title": "¡BTS ya está en Perú! Grupo de K-pop arribó para dar sus tres esperados conciertos en el Estadio San Marcos - Trome.com",
@@ -502,20 +502,20 @@
         "publishedAt": "2026-10-02T07:00:00.000Z"
       },
       {
-        "title": "Conciertos elevan las expectativas del entretenimiento en Perú: sector crecería hasta 8% en 2026 - La República",
-        "summary": "Conciertos elevan las expectativas del entretenimiento en Perú: sector crecería hasta 8% en 2026 &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdjBmOTJrY0FvQ1Y0OEEwTlJQQjdYMzFzWXRINlpmQ0R4YzVzQlZieWpzUVp5WTdVV2RBdF9lSUVjOHh2b2twek1KSVUxaWtHTXZqUmVXZGRfNlJFTUp1emYtMTBRSGxteW0zcUVIb1ktWjNlMmgzWnFaRlotU21rcElfUldDcUMyUWZRc0J0SEdZTTJNbE5UN2pQMXhUUGczTDN4Y01MczZiYWYzX3FhZ1JBX0tVa3N5cWtuQWpfSFFGaVNSWF9VeHM2NlM2MWJ0STY4Y1g4eEhwZm5XQkRDMmlsUExwd9IB6wFBVV95cUxNVWdodTNnWmhWSXZ0TXdBa3NVOFRVbUZrMlhuUGxNQTFvX09hek9Da2hlLU5Yb2txc2I3UklYWE1hLTd1LW00WTd6b0NxdWo1WTRXOTItNWdOLTNmRzVhSkRDblV4YmJDbDdockJ6SVdOZ0VkcXdwOUo1QVlYUDJXN01DZ2FQSXBPbzlNT25KSlRua1ZDRm9jaEdaX2FEcG4zZ1NHQjYybWw0TFRjQkpOWlBhRjhTWUFXM3BhYmxFYWFvWkYwbnU5RTVRWXhRRnRVTGp0Zi1EX28xVldfVDF1T1R6Y0JVclViV3Aw?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-21T07:00:00.000Z"
-      },
-      {
         "title": "Conciertos en Lima para septiembre 2026: todos los eventos con fechas y precios de entradas - La República",
         "summary": "Conciertos en Lima para septiembre 2026: todos los eventos con fechas y precios de entradas &nbsp;&nbsp; La República",
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQN2t3dE0wQVRpT09kN3dmQktaTDViMEhxXzI5eDQyVWxTZ3FDNmlVMF9rVHhUejRQRkt1SHA1bmZYdWxzSnFuNzhEZUhQWGVFdE1QbjlGV3N0RG1LWTZrRm02Y0w3dTlCc0JPWjRTdHBBaFpEYndHYUNGdjc4aERId000UzdkdTBmWUF1cC1DWG1vdTVxSDdPaDJ5MzVhaDU0WUViellhX2NEUlJQdFR2RzJqNXM3V3psWUQwVk9HRmczejFzUFBxTkxaS0Y1Z0drVnEyRWFHSEtoUVlOTEdKUUExRDlkejI2ck1mLXVDcFRsLTlIWWdOVTg4SThqTndpSzVjTmNkZFE2QXR6cW9LVm1BUdIBmAJBVV95cUxNZVBScnpMYUdFeGdXck5BcWNUTGRfcG9rMEx2UHY2VDZXaFhLeFc4RzhmNzRWN1BFck4zM0RkMGxNSHlBTVFnN0RVMUdWZTM0Y29nbE1fSjBabk1DNFMwbFJRMFJBUzhEYWxkV2V4bm94VUxwY3JmVXlSRXo2NkQ2OGpBUzhCclU5ZnpWYU0tMDlNWFMySWx6dmQxSDVmTGVKTmdVMWVEOGw5TEh4OW9PLTFyWWtNYzEydHFrRVAtOWREdlFCOVh6YlB5TFNfRlRPcGpCQXVMYmpsbTRnSW5xMnA5MUN3LS13bHczalozcVdUV2tiVDZieHI4ZVoybllCZEtCek5QTXJKTmNxV3lBaHZHYXFBYjBT?oc=5",
         "image": "",
         "publishedAt": "2026-09-17T07:00:00.000Z"
+      },
+      {
+        "title": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” - Infobae",
+        "summary": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZFRYakI4T1o2cXhXN2pKSzc2bXBiLVlUZ1R1VFAxSWtDRW10LUl1TnNZaWJLRXpXSlBEZmJzN2lZdGF1SG5NUDBWQXUzZXp3VTlnbXlTODd1clZtRXZQUENXWlRydS0ydkhyWFg3SHJScVdKZ1VlU1l2cWpBM2RJcndGYjNWRVJNblpCa29EOHpXRGlnRVVCb0JOd0s4allqdVVjS0FEMGZXU2c5OXB4S214NUhIb1FFRWlaNVc3OHA0Uk0xcmpVbGFkdW1Kb1laTXZTSzZNY0J1WkFNM3BCRkRqdVNsV185WEdkSGtmMjZhLU00eW9mcExBdkvSAZcCQVVfeXFMTUlaaHZOVlluQ2hONUZIY1Y0bnBXNDVmN2tYNXFvbjNBVFBSR3RRUXNYOWVJdU9oQ0dHbUExc3FwTkEzWFM4UkVMTmFjX1dRdVR4VFRncThQWXFFV2pNUmhGZDBFRHZyUnZXcDVBWnhneG9fSklpMDFScE9nZlNjMzQ4aFI4MnNBTmtiTnM4SkhzRGFWWVZSai1IYnV4QkFsU1FSUGZXU1V4SGNlSjYtNUY1UFNiSXVDWEtEV3VjaXljZDZkdFEyMFJhenFNaXB3VVhRcTNEWTJzU2prTm1MMzkzOTdPT3laQV9sNkItOGRoWFo2SXZzRmZNTU9UYjhuYjd0VnZWTVY5WmNoRktEczI5b3dKbGVr?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-09T07:00:00.000Z"
       },
       {
         "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
@@ -543,6 +543,14 @@
       }
     ],
     "cultura": [
+      {
+        "title": "Agenda cultural en Lima 17 al 24 de setiembre: Robbie Williams, 'La Cabaña', 'La mujer de negro' y el Festival de la Luna se imponen - Infobae",
+        "summary": "Agenda cultural en Lima 17 al 24 de setiembre: Robbie Williams, 'La Cabaña', 'La mujer de negro' y el Festival de la Luna se imponen &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOajlpTHJUcnhPRlNzcnlPYV9qbVJJR3pUZ19sN3Z4bWJtZ2xHTkhaWjZPVi14cjE3NHRCQ1ZWeHFWT0w4cnJCbzNwOXFnUWNIOTc5aWpUSy1xdHBZZWVyZzltM1lRTE1ia1kxNVFfRDVDUnFYSGptSjQ1bTdPQ0R3WE15Z1hILVlFV0txS05BaW04dUFqVk05YkVBdmNXTm5xcDFucGk3M29jaF9yUnFxa3cwY0RPUldLaEdxdnNmMVZzR3AxZ2tDU1FPU3o3T3hTcFgxRjVXc1AtQzB6ZWhSUG5jWjAtNng4N0lnQV9JNlZGNlhOcjB5TTlR0gGUAkFVX3lxTE5HY25QVmNINl9QU3c0WHdkTEw5ZWx4SWREOXJ1d3o3N3lORVV0aHZUbnl5X3ZvWEFxbW0ya0tVcmFFejlmWld0NnQ5Qm0xMXE2ckNBVE5FY1VWQ1REdWxlVEtuU0hyNFF1aXIxcnNsa0dfZm9yejM1cXVmcWpYT2hxOTNGeEdGcy1XTThVc1JQdGtFQ0pscHJpSWFqYVFCeVpIbmhodGk1eGtaaGJUODlwTnFMMVhEOHlhU1gzZXgyVF9Wbm10dkxZTERIZXVobnJielZXY3dWVGNoeUh0VnozRDJ0dDdNM0FlOHpYQnhqcG9qN3hDQlB1blN1MFczQ2piQXl2bnI5aDQxYmhFcDIxQTFZZw?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-17T07:00:00.000Z"
+      },
       {
         "title": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA - Infobae",
         "summary": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA &nbsp;&nbsp; Infobae",
@@ -598,14 +606,6 @@
         "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTTZDSUpUY3djZ1R3U0lOUzRLVVV6OGFpNGZvRm83N0dTV2VlclhHT3U5YlVzX1NLMUFzdUx4cHZrX2FhdGhDeGtYOWZwZ1VyUnZiZEIxRUw5NmhZUG93WHZJNUFHUzRTMHBtVTRQUE91OFprb1NlMXhsbkF5ZHZINWxweFVsVzRJZlpUcFI2Mks5andzSTgwNVhUZXJsaVl5bUhrMXFLX0JMWDgtNEtWbW92YXVBS19kQ1dYS1hqSEt4YVpnaFNqeFVHQzhqbVBIZnFnUEcyOXdqUnFZNllOZG5aVjlsbUtlV21JZ21aTjRkNlNyOEYwZnVhbnhSdDNadVRZbUNvYjM?oc=5",
         "image": "",
         "publishedAt": "2026-08-21T07:00:00.000Z"
-      },
-      {
-        "title": "Agenda cultural en Lima del 13 al 19 de agosto: lo último del Festival de Cine PUCP, ópera y ballet, salsa, teatro y exposiciones gratuitas - Infobae",
-        "summary": "Agenda cultural en Lima del 13 al 19 de agosto: lo último del Festival de Cine PUCP, ópera y ballet, salsa, teatro y exposiciones gratuitas &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVEN4R0wzbk9BVWZvS0JOOS1TcXR1SkFWTzVHbEhDM0hjYzBaX056STYyZkgybnR1VDc0VEl3WWZjeE01ZkEtUGl4OHZoOWxEcDd0WFdGbnJsanpXS0lNOW1rR0ZPcm9YcHVORFYyRE5PYXpiYVpVdWtOeWFPN1Y5QmJUeGMxSVZ5YWZnb3VoT0VyelEtLUtDM0pRam9zOFlIWEpOZUxUUjFBSl9YZXlUSFJqenRuaE5LR0RqRGQyck50NFdxaV9nMi1KSmRFMVFNZ2c0Z0dhUzd2aU4yOGZyb20wNFQzR0pRaUxtWTZsRkMtbTVzNnhnZk13N3FHNlJlbkdmOXByRdIBogJBVV95cUxNSzdWSFA0MnYyRkhjdGRKRnVsUDlOUzZobWxGUGw2T083NG41MUVmX1ZObGpOZjcyLVRQTGg2NV9ObXJhSUtRQ3VVS2wzRUtxaFdocUozSEJPeHZXc2JabzhENS16QXZFYVVmY0ltS3BocnJTZEFLeVhOMHdXUWY4LWpFc3FzRWU3RndwYjZ5d1FLX09vNFBnemc1aldIN0tyUEE3NzJpZmwxOEN2Wmdpc1RBUU5uVXRVRTZNUzdsMW5oVmVJYUdZc0hLdG00S1o0TVB3NzlsSm8xTC1kMmo0SXNRTVhNUzFYaUYzd1dRRi1OVmprRlVMd1IxcG11Z1JqSElMMGc0QkFKQmxOYVlfUUJOd0IzbWtsa3h4RWNVQTFfdw?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-13T07:00:00.000Z"
       }
     ]
   },
