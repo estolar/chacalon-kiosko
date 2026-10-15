@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T22:16:16.881Z",
+  "generatedAt": "2026-10-15T00:32:35.422Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -29,7 +29,39 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/grupos-hostiles-mecanismos-antiterroristas-y-el-factor-dini-estos-son-los-nuevos-puntos-que-incluye-predictamen-del-senado-sobre-facultades-especiales-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/HGSZQ3TWKJGQLMKCDV6KSIFD3A.jpg?auth=6043d773ba9af2a6f19314bd31a0c9ab4a20d0ea564695c82eb50e15403cdb6f&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-14T21:50:10.000Z"
+        "publishedAt": "2026-10-15T00:04:14.000Z"
+      },
+      {
+        "title": "Ernesto Álvarez sobre lucha contra la extorsión: “Este delito no se combate con presencia policial en la calle ni tanquetas del Ejército sino con inteligencia”",
+        "summary": "El ministro de Justicia y Derechos Humanos, Ernesto Álvarez, afirmó que la lucha contra la extorsión y el sicariato requiere fortalecer la inteligencia y la investigación criminal, en lugar de centrarse únicamente en el despliegue de efectivos policiales en las calles o de tanquetas del Ejército.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/ernesto-alvarez-sobre-lucha-contra-la-extorsion-este-delito-no-se-combate-con-presencia-policial-en-la-calle-ni-tanquetas-del-ejercito-sino-con-inteligencia-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/PTR54K3GKREHDI6CGEYZFDMF64.jpg?auth=5b237901ac44746396a8dfae00496d56892b53483e21a5ed93b73488f9f0d1c5&smart=true&width=1200&height=675",
+        "publishedAt": "2026-10-14T23:55:10.000Z"
+      },
+      {
+        "title": "Keiko Fujimori ratifica su respaldo al ministro César Astudillo y al jefe de la PNP Fredy López",
+        "summary": "Keiko Fujimori ratificó su respaldo al ministro de Defensa, César Astudillo, y al comandante general de la Policía Nacional del Perú (PNP), Fredy López, durante una ceremonia de ascenso de cinco suboficiales reconocidos por su destacada labor en la lucha contra la delincuencia.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-ratifica-su-respaldo-al-ministro-cesar-astudillo-y-al-jefe-de-la-pnp-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/73LSXDB37RDZ5JQ3BFGF2THM4U.jpeg?auth=c73eaed471be1dfc502f6f5b3d9d49be0cd62bd2cd2d4076a620f55cadfefa83&smart=true&width=1280&height=853",
+        "publishedAt": "2026-10-14T23:42:12.000Z"
+      },
+      {
+        "title": "Ejecutivo, Poder Judicial y Fiscalía implementan Subsistema Especializado contra la Extorsión y sus Delitos Conexos en La Libertad",
+        "summary": "El Poder Ejecutivo, el Poder Judicial y el Ministerio Público implementaron en Trujillo el Subsistema Especializado contra la Extorsión y sus Delitos Conexos, que dará atención prioritaria a la investigación y el juzgamiento de casos de extorsión, sicariato, secuestro, marcaje y reglaje en el distrito judicial de La Li",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/actualidad/ejecutivo-poder-judicial-y-fiscalia-implementan-subsistema-especializado-contra-la-extorsion-en-la-libertad-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/5O5PTEFSIFG7VHBCRZAKWWKSKU.jpg?auth=1a508a0c6a070bef3780b3b36de99d97ad32ca36279eb8f039cbf173a533395c&smart=true&width=1280&height=885",
+        "publishedAt": "2026-10-14T23:25:17.000Z"
+      },
+      {
+        "title": "Juan Sheput: “El Congreso ha apostado por la coyuntura y no por las reformas de fondo” | Entrevista",
+        "summary": "El ministro de Trabajo y Promoción del Empleo, Juan Sheput, sostuvo que, si el Congreso no aprueba ni la mitad de los puntos planteados por el gobierno en su solicitud de facultades, sería “un fracaso” para el Parlamento, sobre todo de la cámara de diputados. Agregó que esta instancia, prácticamente, “mutiló” la propue",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/juan-sheput-el-congreso-ha-apostado-por-la-coyuntura-y-no-por-las-reformas-de-fondo-entrevista-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/RVBQTZLWSNGWJLZT67FGCO7GAU.jpg?auth=bfb06108975aa7641710189aaf3a58cd7d69a1ee862ea7a136a43307f5db5e7c&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-10-14T22:24:00.000Z"
       },
       {
         "title": "Senadora Milagros Jáuregui a favor de analizar una segunda vuelta para la Alcaldía de Lima, pero no para el actual proceso",
@@ -46,104 +78,72 @@
         "url": "https://elcomercio.pe/politica/ley-mape-minem-preve-presentar-propuesta-este-jueves-que-plantea-y-que-advierten-los-expertos-sobre-el-reinfo-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/VYCFQ4QXIREMDEM5IJHHZZG53U.jpg?auth=cbb7ee0301522b3a991d8ec76b0512fd9b7a139da404d67cb23ec4518cdc7e0e&smart=true&width=1200&height=647",
         "publishedAt": "2026-10-14T20:25:55.000Z"
-      },
-      {
-        "title": "¿Quiénes son los congresistas que viajaron a China durante la semana de representación y cuál es su agenda?",
-        "summary": "La delegación partió el 11 de octubre y tiene previsto retornar el 21. Los parlamentarios precisaron que el periplo ha sido promovido y financiado por el Gobierno chino.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/quienes-son-los-congresistas-que-viajaron-a-china-durante-la-semana-de-representacion-y-cual-es-su-agenda-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/GVKJMR3DMZFHDLEIRVLC65D5ZE.jpg?auth=c33d40e99990d2219e48ea22e2db2b84af9780bcdf57ac611a4014d3e7e8e48f&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-14T20:25:46.000Z"
-      },
-      {
-        "title": "Juan Sheput: “El Congreso ha apostado por la coyuntura y no por las reformas de fondo” | Entrevista",
-        "summary": "El ministro de Trabajo y Promoción del Empleo, Juan Sheput, sostuvo que, si el Congreso no aprueba ni la mitad de los puntos planteados por el gobierno en su solicitud de facultades, sería “un fracaso” para el Parlamento, sobre todo de la cámara de diputados. Agregó que esta instancia, prácticamente, “mutiló” la propue",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/juan-sheput-el-congreso-ha-apostado-por-la-coyuntura-y-no-por-las-reformas-de-fondo-entrevista-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/RVBQTZLWSNGWJLZT67FGCO7GAU.jpg?auth=bfb06108975aa7641710189aaf3a58cd7d69a1ee862ea7a136a43307f5db5e7c&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-10-14T20:24:42.000Z"
-      },
-      {
-        "title": "Reinfo: Decano del Colegio de Abogados de Loreto afirma que Ejecutivo y Congreso no responden demanda contra ampliación",
-        "summary": "El decano del Colegio de Abogados de Loreto, Erick Salas, afirmó que el Ejecutivo y el Congreso de la República aún no responden la demanda presentada por su institución ante el Tribunal Constitucional (TC) contra la ampliación del Registro Integral de Formalización Minera (Reinfo).",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/actualidad/decano-del-colegio-de-abogados-de-loreto-afirma-que-el-ejecutivo-y-congreso-no-responden-demanda-presentada-ante-el-tribunal-constitucional-contra-ampliacion-del-reinfo-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/NTDAOUSRJBCW3G5ON3CUR3A2M4.jpg?auth=6791a740f5630c7026f3e4cf3df1757b2839f215bd1b1c668f0ce2cae1a9d24d&smart=true&width=1200&height=675",
-        "publishedAt": "2026-10-14T20:00:38.000Z"
-      },
-      {
-        "title": "La dispersión del voto creció en las últimas elecciones municipales en Lima Metropolitana: ¿Cuántos distritos y qué zonas apoyaron a los alcaldes ganadores?",
-        "summary": "El voto en Lima Metropolitana se ha fragmentado con el paso de los años. En las últimas elecciones municipales, celebradas en el 2022, Rafael López Aliaga, de Renovación Popular, se convirtió en alcalde de la capital con poco más de un cuarto de los votos válidos (26,3%), la cifra más baja desde el 2006.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/elecciones-2026-la-dispersion-del-voto-crecio-en-las-ultimas-elecciones-municipales-en-lima-metropolitana-cuantos-distritos-y-que-zonas-apoyaron-a-los-alcaldes-ganadores-rafael-lopez-aliaga-carlos-bruce-francis-allison-onpe-jne-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/QOOJFCDYQJGHXNXBZ6TZP3I27Q.jpg?auth=242e8b6ee7cb83ce4e935e033284dc16b20c9f7538e812f1dc5f965a276fd713&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-14T19:05:00.000Z"
       }
     ],
     "economia": [
       {
-        "title": "De Apple a Google y las startups de EE.UU.: ¿cómo se abren paso los peruanos en Silicon Valley?",
-        "summary": "Víctor Cadenas, cofundador de PerúSV, estima que actualmente entre 300 y 400 profesionales peruanos trabajan activamente en Silicon Valley. La comunidad incluye perfiles de ingeniería, marketing, legal, diseño, gestión de productos y otras áreas, con profesionales que llegan tras cursar estudios en Estados Unidos.",
+        "title": "¿Ceviche en riesgo por El Niño? cultivo de limón en el norte tendría hasta triple impacto",
+        "summary": "Existe posibilidad muy alta de que inundaciones golpeen más del 80% de las áreas de cultivo en la región Piura.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/peruanos-en-silicon-valley-ya-son-hasta-400-profesionales-y-no-todos-trabajan-en-tecnologia-noticia/",
-        "image": "https://gestion.pe/resizer/v2/CA5SJUGGGJBVNBTSRJDV3PCCK4.jpg?auth=53c550f881d4c57bd8b2dbde135ccf1b264ed11d1a62cbc08cc3c4711fcd1162&smart=true&width=1376&height=768",
-        "publishedAt": "2026-10-14T21:52:43.000Z"
+        "url": "https://gestion.pe/economia/limon-el-nino-podria-tener-triple-impacto-en-su-cultivo-en-el-norte-del-pais-noticia/",
+        "image": "https://gestion.pe/resizer/v2/JB2YN4LBURGHJD7FKE6I4FDEG4.jpg?auth=5798edfe2a8e14ef06dcefa25a6cc9d9718ae10e8293a820de580e5b69194ac0&smart=true&width=1800&height=1200",
+        "publishedAt": "2026-10-14T23:58:00.000Z"
       },
       {
-        "title": "Tipo de cambio hoy en Perú: ¿en cuánto cerró el dólar este miércoles 14 de octubre?",
-        "summary": "El miércoles 14 de octubre, el dólar en Perú comenzó el día sin variación ante la expectativa de que la Reserva Federal (Fed) mantenga una postura monetaria restrictiva ante las nuevas señales de presión inflacionaria en Estados Unidos.",
+        "title": "Empresa peruana de carnes proyecta ventas por S/ 70 millones y alista nuevos puntos de venta",
+        "summary": "Zedina Alimentos proyecta ventas por S/70 millones en 2026 y evalúa invertir hasta S/4 millones en nuevos proyectos y puntos de venta en 2027.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-miercoles-14-de-octubre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
-        "image": "https://gestion.pe/resizer/v2/NWL2Y3LF5ZGOZIMDLZBOPNVHM4.jpg?auth=1fde8f5f79945b95d458a4126aee80671330550373a99409bbb9b968fb8c5558&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-14T21:30:54.000Z"
+        "url": "https://gestion.pe/economia/empresas/zedina-alimentos-proyecta-ventas-por-s-70-millones-y-nuevos-puntos-de-venta-noticia/",
+        "image": "https://gestion.pe/resizer/v2/M7M5WKDDFBBANONGRCIBETIT6I.jpeg?auth=b2eedf915d9c175e6aa30531f79661146f809a2004bf5fdb17f2a720e7a8a4df&smart=true&width=2048&height=1366",
+        "publishedAt": "2026-10-14T23:50:00.000Z"
       },
       {
-        "title": "Términos de intercambio crecieron 14.3% interanual en agosto, afirma BCR",
-        "summary": "Los términos de intercambio, índice que mide la relación entre los precios de exportaciones e importaciones, aumentaron en un 14.3% interanual en agosto y alcanzaron los 186 puntos, informó el Banco Central de Reserva (BCR).",
+        "title": "Gobierno designa presidenta del directorio y directora ejecutiva del Fonafe",
+        "summary": "El Ministerio de Economía y Finanzas (MEF) designó presidenta del directorio del Fondo Nacional de Financiamiento de la Actividad Empresarial del Estado (Fonafe) a Brigitt Bruna Bencich Aguilar, tras la renuncia de Fredy Jordán Medina.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/terminos-de-intercambio-crecieron-143-interanual-en-agosto-afirma-bcr-noticia/",
-        "image": "https://gestion.pe/resizer/v2/7Q3CTYVMIVGHHN5T5XPBM6DSRE.jpg?auth=83936cb109dd6494ca8d50abe842ad131f76b5b3282530076ab1ffbd183246fc&smart=true&width=924&height=530",
-        "publishedAt": "2026-10-14T20:56:21.000Z"
+        "url": "https://gestion.pe/economia/gobierno-de-keiko-fujimori-designa-presidenta-del-directorio-y-directora-ejecutiva-del-fonafe-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CCPS7YBYLFC6BPFU2T2IXEWEEM.jpg?auth=e8da1f0b40cc6002932f26a63eb4351f038bf7d1b9390ff5eae5016da3756511&smart=true&width=1800&height=1200",
+        "publishedAt": "2026-10-14T23:36:00.000Z"
       },
       {
-        "title": "Pequeña minería: ¿modelo chileno podría ayudar a formalización en Perú? esto dice gremio",
-        "summary": "La presidenta de la Sociedad de Fomento Fabril de Chile (Sofofa), Rosario Navarro, señaló que la experiencia chilena podría servir de referencia para avanzar en la formalización en Perú y reducir los espacios de acción del crimen organizado.",
+        "title": "Mercados e indicadores – Hoy miércoles 14 de octubre",
+        "summary": "Para tomar las decisiones más acertadas de inversión, manténgase diariamente bien informado sobre el desempeño de las acciones de la plaza bursátil, de la variación de las principales variables del mercado financiero, así como de la evolución de los precios de los commodities. La cotización en el mercado de Londres el ",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/pequena-mineria-modelo-de-chile-podria-ayudar-a-formalizacion-en-peru-esto-dice-gremio-noticia/",
-        "image": "https://gestion.pe/resizer/v2/CFSDZTHG7VAZPLFCY5QENJPOOI.jpg?auth=91c8a01b3260ca7cc3c6f40b96a0d58e071622a03900eafb16cc1588bbdb1bee&smart=true&width=611&height=458",
-        "publishedAt": "2026-10-14T20:42:49.000Z"
+        "url": "https://gestion.pe/economia/mercados/mercados-e-indicadores-miercoles-14-de-octubre-2026-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CKBJCXWQXVCTXHZN5ZAGTM66RE.jpg?auth=c935a9816683dbd514d89311dedaf60293df727aefbd90da56a9830e4813f2eb&smart=true&width=1280&height=720",
+        "publishedAt": "2026-10-14T23:27:00.000Z"
       },
       {
-        "title": "Gasto de hogares con tarjetas perdió impulso en septiembre: ¿en qué gastaron los peruanos?",
-        "summary": "El consumo de los hogares peruanos siguió creciendo en septiembre, aunque a un menor ritmo que el mes previo.",
+        "title": "Naviera taiwanesa Wan Hai refuerza su operación portuaria en Perú con buques de más de 13,000 TEU",
+        "summary": "La naviera taiwanesa Wan Hai Lines busca reforzar su operación en Perú en medio de la competencia por transportar productos agroexportadores hacia Asia. La compañía está renovando su flota con buques de más de 13,000 TEU de capacidad y cuenta con conexiones desde los puertos de Paita, Callao y Chancay, según explicó Lu",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/consumo-de-hogares-perdio-impulso-en-septiembre-en-que-gastaron-los-peruanos-con-tarjetas-noticia/",
-        "image": "https://gestion.pe/resizer/v2/OFEAO357VFHVHFUS564ITR4664.jpg?auth=8c86b6722b517a68a7ef123ce68c165da798cb212de108bb165f0b89bcd4b83c&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-14T20:37:37.000Z"
+        "url": "https://gestion.pe/economia/empresas/naviera-taiwanesa-wan-hai-refuerza-su-operacion-portuaria-en-peru-con-buques-de-mas-de-13000-teu-para-agroexportaciones-hacia-asia-noticia/",
+        "image": "https://gestion.pe/resizer/v2/AASGNOJJHRBFTANSJCVRFHSF2Q.jpg?auth=8ceebe8f0ae3d86c3592f9c9cbfb4a68833c98c57344dd0013aacf7fa6b7f848&smart=true&width=1200&height=669",
+        "publishedAt": "2026-10-14T23:26:00.000Z"
       },
       {
-        "title": "Minem: empleo en minería alcanza niveles históricos, ¿cuántos puestos de trabajo genera?",
-        "summary": "El empleo directo generado por la actividad minera en el Perú alcanzó un nuevo hito histórico al registrar 293,742 puestos de trabajo durante el mes de julio, informó el Ministerio de Energía y Minas (Minem).",
+        "title": "Confiep: “Entrampamiento” entre Gobierno y Congreso deterioran expectativas de inversión",
+        "summary": "La Confiep consideró que se esperaban avances en la desregulación y la reforma del Estado, pero varias medidas económicas quedaron fuera de las facultades legislativas aprobadas por la Cámara de Diputados.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/minem-empleo-en-mineria-alcanza-niveles-historicos-cuantos-puestos-de-trabajo-genera-el-sector-noticia/",
-        "image": "https://gestion.pe/resizer/v2/E5QZLHIUXFGPRBB6SIIM6GQYHA.jpeg?auth=4adc7f5234d828c1cfdbc8a42ea11911c35d813b5d39b226baf64115372bc539&smart=true&width=1600&height=1066",
-        "publishedAt": "2026-10-14T20:22:25.000Z"
+        "url": "https://gestion.pe/economia/confiep-entrampamiento-entre-gobierno-y-congreso-deterioran-expectativas-de-inversion-noticia/",
+        "image": "https://gestion.pe/resizer/v2/UF4LKN5RFFFAHCZZYPBVQMZRXM.jpeg?auth=8261a06c08cc60d67ec7c0ceb0f4735b2641393f83dd9073d2491b5d1f4f85fb&smart=true&width=906&height=599",
+        "publishedAt": "2026-10-14T23:24:30.000Z"
       },
       {
-        "title": "Perú urbano: casi 8 de cada 10 viviendas se construyen sin asistencia técnica",
-        "summary": "La vulnerabilidad de las viviendas en Perú se cruza con sismos, eventos climáticos extremos como el FEN, autoconstrucción, pobreza y brechas de infraestructura. Aquí, el informe.",
+        "title": "Edificios corporativos de San Isidro incorporarán 16 locales comerciales: ¿cuánto costará el m²?",
+        "summary": "Entre el cierre de 2026 y 2028, el distrito incorporará nuevos espacios comerciales en siete edificios corporativos. Las rentas mensuales oscilan entre US$ 15 y US$ 32 por m², según la zona.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/peru-urbano-frente-al-fenomeno-el-nino-7-de-cada-10-viviendas-se-construyen-sin-asistencia-tecnica-noticia/",
-        "image": "https://gestion.pe/resizer/v2/M2EHOBN4SVFHHHHXAY5KMF4QRU.jpg?auth=5fb926241a8a5672da2ef19b5722538444968983120dfef9a474f04417417a3c&smart=true&width=1800&height=1200",
-        "publishedAt": "2026-10-14T20:06:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/san-isidro-sumara-16-locales-comerciales-en-edificios-corporativos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/X57BZOGWQFHNPLLYTLNMBPOEOA.jpg?auth=045e51706970da2cf078abfb2518809375278dc2dd248246713130cbb39f11d6&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-14T23:23:50.000Z"
       },
       {
-        "title": "“Rebote” económico de 2027 no llegaría por igual a todas las regiones y tendría 3 riesgos",
-        "summary": "La economía peruana crecería 3.2% en 2027 tras El Niño. Lima lideraría la recuperación, mientras el norte y el sur avanzarían a distintos ritmos.",
+        "title": "Mallplaza abre nuevo premium outlet Atocongo tras invertir US$ 6.1 millones: ¿qué marcas llegan?",
+        "summary": "El nuevo formato, ubicado en Atocongo, contempla cerca de 25 marcas y descuentos de hasta 60%. La operadora prevé completar ocho aperturas pendientes antes de finalizar el año y apunta a elevar a doble dígito las ventas y el tráfico del establecimiento.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/rebote-economico-de-peru-en-2027-no-llegaria-por-igual-a-las-regiones-y-tendria-3-riesgos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/GHIM5JREYVCUBPDFT5WNJ7ZXME.jpg?auth=43f02151a88a561f6790ac9bfd3fef042fd9cdf6a52b05401b0b158f26f4fba9&smart=true&width=4364&height=2905",
-        "publishedAt": "2026-10-14T20:04:16.000Z"
+        "url": "https://gestion.pe/economia/empresas/mallplaza-invierte-us-61-millones-en-su-primer-premium-outlet-en-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/UQPAENCRFJFTPGWTPCLTAPYS4M.jpg?auth=2a591360c42d364a0d83f9322302a2832fb43ce449e3fddb101fd706d987be45&smart=true&width=1600&height=1200",
+        "publishedAt": "2026-10-14T23:19:15.000Z"
       }
     ],
     "sociedad": [
@@ -170,14 +170,6 @@
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc3hnVnQwRDBOcWFqanlYajZhSmVHOVNUR0UxM2NlYVFtaU4tU2NtSU5WMHM3d0VZS0VrUVRRTUNPNzY1aXBhWndWZ1h2czJ0X3dmRkRyald3a0VYRktaSE5EVmpDU2R4MFRNTE82bG1QTjVjNVA1NW9CSlhtTHlqWEVNdVZoMUdfMWNQcy1Yc0xZRWNQUzZSQWhxZmFDNmQxTVFVcnpvdmtFdDVxWWRZNFRsSExwaG5val9ZbEptUGJ4by14SldZWm5qMzk4YlUxaHfSAewBQVVfeXFMUGZmVEVhN0NORG5ESURKOWpvS2c1Qnppcm5PaVd5SGFUbWRkQUhjMzBjMURnQzF4Yl9Oa01PVHI1c1k4M3FqRlBXUkdoR2g5d3JWdkp4eXllREJkWnFHY3dDOXVmVzhrTUF0ZjA2T0tJRUFhTERvTTV5aGpMdzdkdEpzMTJ6SWYtTEZXaDJmSkZqZ0h6VkpQY0tib3VlWW9oWXV5RWhmSTRLczhpd25UTWNXeWdaRy1KbzRNLW9uM1JQQ1VQdTVXOVNMZzRZLXF0bDBrVEs1YTUyblBreVJzOWJzM1I4a3JUdXE2Nmg?oc=5",
         "image": "",
         "publishedAt": "2026-09-30T07:00:00.000Z"
-      },
-      {
-        "title": "Perú tiene espacio para elevar su competitividad - El Peruano",
-        "summary": "Perú tiene espacio para elevar su competitividad &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPemVNbG80NXl2WFFVVFNUVUtSTWllaGx4bkZVaUcxT01xRmFtTm9tV0lKd2E5ZVQwLWpEb24yWjZtQnZ6NlZ2dFhNQkJRR3dPYnR1MVRVSTlVX0puTjBzMDJRVE5HYnNEaTM1dzVpQVphZFo2WEp1b3pSOEQ1c2x5d1lYWDFKU2M3eTh5Ug?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-29T07:00:00.000Z"
       },
       {
         "title": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? - Infobae",
@@ -210,6 +202,14 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-03T07:00:00.000Z"
+      },
+      {
+        "title": "Restricción a prestaciones de salud que propone borrador de reforma de seguridad divide al gobierno y alerta a partidos - La Tercera",
+        "summary": "Restricción a prestaciones de salud que propone borrador de reforma de seguridad divide al gobierno y alerta a partidos &nbsp;&nbsp; La Tercera",
+        "source": "La Tercera",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRlNLMFZqSDFPaXdOQTY4bDFzc0N2ejIxbGhXWUtEaWdtOWl0UTYyNE40NGxXVHBHMENXeWZ1U1dCUm1nSk1sZV9QenRKTVhFU0pEZlY0RXlGYzNENjVSeVFxTk4xb0VUWWdUc2dCN056bVhsbUpJVjJmcDV2Yzl3Tkw4U3EyTHJXem1BTzA1S0R1TUoxUU5JSlpyd29ySmNzdmhZS21uOWduQWFPSzJ0SmVHVmxla1BQc0JvZXdDMkxzMkZ4VE5aRFRfQlRmaEZZZXltNndLSjBfLUlyR2JmenJRVUt5TXFUb09MbVpRdkZSQWQtU2fSAZcCQVVfeXFMTmxERjV3VXNHRFpyYkh1TUo1cE1RT0Z4WG1ZTkVmOVFVTE1rMkhWS1ZmSWdOZmdCWDd2dEt1RUg2WVA2MlZvMXYtRmxlZEQxQjhsdFJ2ZmQ0cngxTEw1ZlIwb2VtcEpsZzJDVGdKTGRHUVdqQmhkcjhaQ3RrZ2lsM2RNZzZlZ29zOVdOWnZqX211R3dDb0Joa3cxcjFiZ0xHWE51VkVCV00ySWpEUmdzNXByZzFqN0tKVnJfcWdsQzg4ZXdYbnpHV09XNGlkdDRKNW1ZaVFFRWFiQnR5RnlRUF9MclJrSnhsaGktNU1id2xyNEppdVlrb2JTNlNuUUZReFlLa2Y3UktPOUtUV29zbW9iV0V0cnQ4?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-13T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -246,14 +246,6 @@
         "publishedAt": "2026-07-21T07:00:00.000Z"
       },
       {
-        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - Business Empresarial",
-        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOclpab3k5dms5U3JOSXdvUU1pSnFnUnYzWDY3QUtyeU9ob2NhZnI5U092N3QxY19kVUtUX1JPR0tzUElTTXVlMGdUbV9tclI0Y0JQcU11QWhJQkkxalNIR3R3VmdGSHdMY0NJUVE1V09Tel9OX3R5eUVKV3owZnJ2VjJ0VVRlNFowbWZyVUl4SDAwc2lYUzZKcTZtTDhEUlV0LTJMY2hnSGJkQ0c5U1AwRkVGVm5qQXk3XzI0ZEZ3ZTE4RjBtbTcwTG15MVdKX1F3Y3VGby1IdVNrd0pB?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-04T07:00:00.000Z"
-      },
-      {
         "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - Business Empresarial",
         "summary": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores &nbsp;&nbsp; Business Empresarial",
         "source": "Business Empresarial",
@@ -276,6 +268,14 @@
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFBQRGNLOWxaMy1mT2RjU0RCNGw4TVNrRmlfX25qei10R09YTWltOXdNX1Fya1g0NEk5S2hhUnQzZmstM3o4bFNJS3QwbkFvUGs3dmx6TktrMDZZSEkzTkJVZ0ZEdmFaa0NUZk9pT1prS1gzNjVDeVMyUzdjWXlNQTNtSThQcnRyRjJ6YlZEWkw1WUF0aTZsQXRTWnJtRnYyX1Z0NDBCYm1PWGlOekJpeGlBS29qLUkzbTBFa1FKMmJnNDNrNDAxeWZn0gHkAUFVX3lxTFB5cjR0aTlsOEl3ZkZEeV9XR05Vb0RHblRDVTRpMFdTZTllMWdRaEpoSlZpSm5JOUZCbzBXc2pic0NMdG9OOGcwQk5fNWF2Wk9FYVp5RnU1WVg4ckU4eTJfT3FEOTN6cURTMjU2d1U5NUJmZ0ZseC1YdllmbEpuZTlnbThqeF9vSlVTb0cxSkZtZFBpTmcwakkzemxzcGJucU9JbFFic2hqNU9jSGVHWkdUTVNuNFFIb0x3S2pTNFBzRXptSF91N0EtSElUMi1kVldUYl9ocmVQLVNSZDY0V25QNV9iRA?oc=5",
         "image": "",
         "publishedAt": "2026-06-18T07:00:00.000Z"
+      },
+      {
+        "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
+        "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-17T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -534,10 +534,10 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
-        "title": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más informació",
-        "summary": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; Facebook",
-        "source": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdFRtVHlGS2ZUeUplTE1XU09ickJVSlBqR0Z3VGR1cjlrTG5NQlNuOFc5Si1OVXVLclh2T3Z1VEhKV1luN09INHpaRHp6U1Z1a2dRWWVjT1NzcG1pSnN2SVJGTnBvMzhzSXFlWnVFVXhKVmZtSUF1Z19rN1Z4U1BqNU02Qjd2dWRnWnZXemlkZlZHeVMxckFPT3pLeTNUek5uVkZOZUM5ZVVGMXFISG1GUEYxTXB2TW1PaUI1QkJsMFFOQ2g3TF9pOXVBdV9UVk95ZGN2M04tNDlLNFFhc2h0UHAzWU9QaC1mOW1Nb1B0U1RGTEs5Y204ZQ?oc=5",
+        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
+        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
+        "source": "Diario Correo",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       }
