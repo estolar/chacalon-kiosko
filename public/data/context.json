@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T16:56:24.101Z",
+  "generatedAt": "2026-10-15T20:19:24.513Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,20 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "EN VIVO | Comisión del Senado debate predictamen que incorpora ocho puntos a pedido de facultades",
-        "summary": "La Comisión de Constitución del Senado, que preside Carlos Mesía (Fuerza Popular) debate y votar este jueves el nuevo predictamen sobre el pedido del Gobierno de facultades especiales para legislar. El texto incorpora 8 puntos, entre elos agrega la denominación de “grupos hostiles” a organizaciones criminales y el fort",
+        "title": "Daniel Barragán cuestiona conducción de Carlos Mesía en Comisión de Constitución del Senado: “El Congreso está para debatir”",
+        "summary": "Tras la abrupta suspensión de la sesión de la Comisión de Constitución del Senado, el senador de Partido Cívico Obras, Daniel Barragán, cuestionó la conducción de Carlos Mesía al frente de dicho grupo de trabajo y reclamó que se permita debatir la cuestión de orden presentada.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/actualidad/en-vivo-comision-del-senado-dictamen-sobre-pedido-de-facultades-del-gobierno-que-incorpora-ocho-puntos-votacion-incidentes-detalles-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/4WFIRCEJBZEJPP6H3KPDR5BTRM.jpg?auth=5d9435f0c082285664e64c3949027fe22c8a8ac0123bd69bffa89982a53cdc42&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-10-15T16:47:11.000Z"
+        "url": "https://elcomercio.pe/politica/congreso/daniel-barragan-cuestiona-conduccion-de-carlos-mesia-en-comision-de-constitucion-del-senado-el-congreso-esta-para-debatir-ultimas-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/3NPOWJ3XXVDANNA6WMJS5PRGDM.jpg?auth=dded97923d525d1de6ab66ac20f3c0352387dbb837796ca3912947efce8c73a5&smart=true&width=1000&height=587",
+        "publishedAt": "2026-10-15T19:10:44.000Z"
+      },
+      {
+        "title": "Lourdes Alcorta tras suspensión de Comisión de Constitución: “Están buscando es cualquier situación para encrispar el ambiente”",
+        "summary": "La senadora de Renovación Popular, Lourdes Alcorta, rechazó votar las facultades legislativas en la Comisión de Constitución del Senado sin la presencia de los parlamentarios de oposición. La legisladora también criticó a los representantes de las bancadas que dejaron la sesión porque así paralizaron el debate del pred",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/lourdes-alcorta-tras-suspension-de-comision-de-constitucion-estan-buscando-es-cualquier-situacion-para-encrispar-el-ambiente-apuesplan-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/3DTZNFF3DBBCNFRHOP3H56BIXA.jpg?auth=a3f17289c08275c5044bf728cf82b936ba2993f341cb495c07825c601932b7df&smart=true&width=1200&height=854",
+        "publishedAt": "2026-10-15T18:56:40.000Z"
       },
       {
         "title": "Diputados proponen crear, en promedio, una comisión investigadora por semana desde el inicio de sus funciones: ¿cuánto le costarían al Congreso?",
@@ -37,7 +45,7 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/congreso/diputados-proponen-crear-en-promedio-una-comision-investigadora-por-semana-desde-el-inicio-de-sus-funciones-cuanto-le-costarian-al-congreso-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/YAFNUZ26FZFDJP7ZDGISJS4RZY.jpg?auth=fdb06445096d8ad7dadb78c472841afb626293315377f85139542977d2e94e51&smart=true&width=748&height=655",
-        "publishedAt": "2026-10-15T16:38:57.000Z"
+        "publishedAt": "2026-10-15T18:39:00.000Z"
       },
       {
         "title": "“Grupos hostiles”, el factor DINI y otras acciones: estos son los puntos que incorpora el predictamen del Senado",
@@ -45,7 +53,7 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/grupos-hostiles-mecanismos-antiterroristas-y-el-factor-dini-estos-son-los-nuevos-puntos-que-incluye-predictamen-del-senado-sobre-facultades-especiales-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/HGSZQ3TWKJGQLMKCDV6KSIFD3A.jpg?auth=6043d773ba9af2a6f19314bd31a0c9ab4a20d0ea564695c82eb50e15403cdb6f&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-15T16:38:03.000Z"
+        "publishedAt": "2026-10-15T18:38:00.000Z"
       },
       {
         "title": "Álvaro Vargas Llosa es nombrado embajador del Perú en EE.UU.: ¿Cuáles serán las prioridades de su agenda?",
@@ -53,7 +61,15 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/alvaro-vargas-llosa-es-nombrado-embajador-del-peru-en-eeuu-cuales-seran-las-prioridades-de-su-agenda-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/IQ4ZY5OCYBFXZMZ56NKRW3TRHE.jpg?auth=caf1496150cf57784cb341cba57b2c9282ffcb2db2b4c8a29502d12e8c5b1bf8&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-15T16:37:38.000Z"
+        "publishedAt": "2026-10-15T18:37:00.000Z"
+      },
+      {
+        "title": "Facultades delegadas: Comisión de Constitución del Senado suspende sesión tras retiro de senadores de izquierda",
+        "summary": "La Comisión de Constitución del Senado, que preside Carlos Mesía (Fuerza Popular) debate y votar este jueves el nuevo predictamen sobre el pedido del Gobierno de facultades especiales para legislar. El texto incorpora 8 puntos, entre elos agrega la denominación de “grupos hostiles” a organizaciones criminales y el fort",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/actualidad/en-vivo-comision-del-senado-dictamen-sobre-pedido-de-facultades-del-gobierno-que-incorpora-ocho-puntos-votacion-incidentes-detalles-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/4WFIRCEJBZEJPP6H3KPDR5BTRM.jpg?auth=5d9435f0c082285664e64c3949027fe22c8a8ac0123bd69bffa89982a53cdc42&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-10-15T18:17:52.000Z"
       },
       {
         "title": "César Acuña anuncia su retiro: “Chau política, dedicado a tiempo completo a formar a mis jóvenes”",
@@ -62,56 +78,32 @@
         "url": "https://elcomercio.pe/politica/actualidad/cesar-acuna-anuncia-su-retiro-chau-politica-dedicado-a-tiempo-completo-a-formar-a-mis-jovenes-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/E5YJ7XYFQVFOPJUNNGU5WPBWUQ.jpg?auth=f1c87bb644d897595bb2494469136766eb54a0ad996a934362126325f07c1a8b&smart=true&width=1200&height=800",
         "publishedAt": "2026-10-15T16:03:10.000Z"
-      },
-      {
-        "title": "Perú asume la presidencia de la RANDOT de la OEA para el periodo 2026–2028",
-        "summary": "El Perú fue elegido por por unanimidad como presidente de las Reuniones de Autoridades Nacionales en Materia de Delincuencia Organizada Transnacional (RANDOT) de la OEA para el periodo 2026–2028. La designación oficial ocurrió el 14 de octubre durante la Quinta Reunión de este mecanismo hemisférico tras una propuesta c",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/peru-asume-la-presidencia-de-la-randot-de-la-oea-para-el-periodo-20262028-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/IMYY3HKC4NETLJXZYHASM254LI.jpg?auth=1064cab46fa5960a6a7dcf63d0ed9f9b09b192b883c080ff8e321fe9e24effbc&smart=true&width=1000&height=750",
-        "publishedAt": "2026-10-15T15:56:23.000Z"
-      },
-      {
-        "title": "PerúCheck: ¿La Constitución establece un marco de acción específico sobre organizaciones terroristas?",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/perucheck-la-constitucion-establece-un-marco-de-accion-especifico-sobre-organizaciones-terroristas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/SXHZLUJP2VBKRFHL4CF3ZWMMJE.jpg?auth=a95de1371c8b83e3186c8201d913c0c3ae8cace013a506d6d8970fe3ed9a7f93&smart=true&width=836&height=448",
-        "publishedAt": "2026-10-15T15:53:14.000Z"
       }
     ],
     "economia": [
-      {
-        "title": "Empleo perdió impulso en el tercer trimestre, ¿cuánto creció?",
-        "summary": "La generación de empleo en Lima creció 6% entre julio y septiembre, su menor resultado en cinco meses.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empleo-perdio-impulso-en-el-tercer-trimestre-cuanto-crecio-noticia/",
-        "image": "https://gestion.pe/resizer/v2/N3AVO3OL65ATVOC3MQITOQKXLI.jpg?auth=fad6d92acd5353312208118a2051e15569667ff8b916017cfaf294d596c9f305&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-15T16:44:00.000Z"
-      },
       {
         "title": "MTC confirma que recorte a TUUA de transferencia internacional será de“no menos del 50%”",
         "summary": "El MTC indicó que el porcentaje de reducción de la TUUA de Transferencia Internacional no sería menos del 50%.",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/mtc-confirma-que-recorte-a-tuua-de-transferencia-internacional-sera-deno-menos-del-50-noticia/",
         "image": "https://gestion.pe/resizer/v2/QBCM47GINZDGPDEXVOLFKCC4AI.jpg?auth=29b93776695ffe35f1b9c18be7aa931eebc4f0df81e245af8448af2ef0c0a279&smart=true&width=700&height=455",
-        "publishedAt": "2026-10-15T16:39:53.000Z"
+        "publishedAt": "2026-10-15T20:12:56.000Z"
       },
       {
-        "title": "Indecopi multa a Civa por no incluir información obligatoria en sus boletos de viaje",
-        "summary": "En segunda y última instancia administrativa, la Sala Especializada en Protección al Consumidor del Indecopi confirmó tres multas que en total suman 20,67 UIT (S/ 113,685) impuestas a la empresa de transporte Turismo Civa S.A.C.",
+        "title": "Subsidio a mototaxistas de la selva: destinan S/ 16.2 millones para subvención de combustible",
+        "summary": "El Ministerio de Economía y Finanzas (MEF) autorizó una transferencia de S/ 16.2 millones para financiar la implementación del Decreto de Urgencia 011-2026, que establece un subsidio económico temporal para los conductores de mototaxis en los departamentos de Loreto, Ucayali y Madre de Dios.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/indecopi-multa-a-civa-por-no-incluir-informacion-obligatoria-en-sus-boletos-de-viaje-noticia/",
-        "image": "https://gestion.pe/resizer/v2/52GKCA33EBH5FLX7ECVXTO2MEY.jpg?auth=d779cc0c893a5d739e2ba271035721f52a7a8650e8926e50fb88665e7677f81e&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-15T16:36:25.000Z"
+        "url": "https://gestion.pe/economia/subsidio-de-combustibles-mef-destina-s-162-millones-para-subvencion-a-mototaxistas-de-loreto-ucayali-y-madre-de-dios-noticia/",
+        "image": "https://gestion.pe/resizer/v2/ZXHMQXA5K5EQDLAGDNWBJ2QVHI.jpg?auth=2885a341fc65ec585b531fc554c938e978d661e18f3c90eb264ccc187b05adf6&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-10-15T19:58:00.000Z"
       },
       {
-        "title": "Mall del Sur amplía su sexto nivel: ¿cuánto invirtió Corporación E. Wong en su nueva Zona Telco?",
-        "summary": "En el año de su décimo aniversario, Mall del Sur inauguró una nueva zona comercial de 1,550 m² dedicada a empresas de telefonía y telecomunicaciones. El espacio forma parte del proyecto de ampliación de sus pisos quinto y sexto, para el cual Corporación E. Wong estimó una inversión de entre S/ 4.5 millones y S/ 5 millo",
+        "title": "Empleo perdió impulso en el tercer trimestre, ¿cuánto creció?",
+        "summary": "La generación de empleo en Lima creció 6% entre julio y septiembre, su menor resultado en cinco meses.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/mall-del-sur-amplia-su-sexto-nivel-asi-luce-la-nueva-zona-que-reune-a-claro-movistar-entel-y-bitel-noticia/",
-        "image": "https://gestion.pe/resizer/v2/7GZYDPJKCZFPNJKLGFCTXESQMU.JPG?auth=466777257b85b2e43f94065ba7a2801ab99e2fbac8bb7d6b7db9a5d168a663a6&smart=true&width=721&height=484",
-        "publishedAt": "2026-10-15T16:34:46.000Z"
+        "url": "https://gestion.pe/economia/empleo-perdio-impulso-en-el-tercer-trimestre-cuanto-crecio-noticia/",
+        "image": "https://gestion.pe/resizer/v2/N3AVO3OL65ATVOC3MQITOQKXLI.jpg?auth=fad6d92acd5353312208118a2051e15569667ff8b916017cfaf294d596c9f305&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-15T19:57:15.000Z"
       },
       {
         "title": "Bolsa peruana con mejores fundamentos para invertir de cara al 2027: las acciones que destacan",
@@ -119,23 +111,15 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/mercados/bolsa-peruana-con-mejores-fundamentos-para-invertir-de-cara-al-2027-las-acciones-que-destacan-noticia/",
         "image": "https://gestion.pe/resizer/v2/TWAE7RTMWZFKTFPAATUVXR6Z7A.jpg?auth=7255ae0b519f3d2977816570d596806d9fbdacb1b76c4ff6638180d95bbaae44&smart=true&width=1960&height=1056",
-        "publishedAt": "2026-10-15T16:32:00.000Z"
+        "publishedAt": "2026-10-15T19:55:53.000Z"
       },
       {
-        "title": "Gobernadores y alcaldes electos promoverían 12 nuevos megaproyectos al 2030: ¿cuáles?",
-        "summary": "Según la cartera actual de ProInversión, hay 12 proyectos de Asociaciones Público-Privadas (APP) y Proyectos en Activos (PA), que 7 gobiernos subnacionales deberán adjudicar al 2030, año en el que culminarían sus mandatos.",
+        "title": "PBI de Perú se desaceleró en agosto, ¿qué impidió un mayor avance?",
+        "summary": "La economía peruana alcanzó un crecimiento de 3.14% entre enero y agosto, informó el INEI.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/gobernadores-y-alcaldes-electos-promoverian-12-nuevos-megaproyectos-al-2030-cuales-noticia/",
-        "image": "https://gestion.pe/resizer/v2/H7FPSQLGJVGHVMR4AGDTZIPB7Y.png?auth=3dfcad441d681c0d2b5fb5d7ba9f5081e1e97c9f1c7cbe80c408908d9d070812&smart=true&width=1672&height=941",
-        "publishedAt": "2026-10-15T16:20:00.000Z"
-      },
-      {
-        "title": "Tipo de cambio baja hoy en Perú: ¿cuánto está el dólar este jueves 15 de octubre?",
-        "summary": "El jueves 15 de octubre, el dólar en Perú comenzó el día con un descenso, mientras la atención de los inversionistas se concentra en los últimos datos de inflación de Estados Unidos.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-jueves-15-de-octubre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
-        "image": "https://gestion.pe/resizer/v2/B4QXBKMWHVBFRFS3AEELVANZNM.jpg?auth=ef70704c70706b76dd4fb51ae17560324d5a6f16f4be64f7cf3706cc344147e6&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-15T16:03:45.000Z"
+        "url": "https://gestion.pe/economia/pbi-se-desacelero-en-agosto-que-impidio-un-mayor-avance-noticia/",
+        "image": "https://gestion.pe/resizer/v2/UFW4XBUEI5DA3MFF757BFMYU4I.jpeg?auth=f2f1a74683481885db0a080ec444f0fd248bd5be727b0aa9b33d767c5abb4f1c&smart=true&width=909&height=591",
+        "publishedAt": "2026-10-15T19:49:32.000Z"
       },
       {
         "title": "Productos chinos: nacen dos nuevos clústeres fuera del Centro de Lima, ¿dónde?",
@@ -143,7 +127,23 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/venta-de-juguetes-en-navidad-tendria-50-menos-de-stock-y-precios-subirian-mientras-importadores-traen-productos-de-bts-noticia/",
         "image": "https://gestion.pe/resizer/v2/MQNOZ7GSGJDMJF5BGA4WDITEWY.jpg?auth=e528b95c75ed06fec16545ae67cfaeea687de0f3f5661c2d65981d311059cebe&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-15T16:03:01.000Z"
+        "publishedAt": "2026-10-15T19:44:18.000Z"
+      },
+      {
+        "title": "Primos Chicken alista su séptimo local y replantea su chifa Kou Xin: su plan para 2027",
+        "summary": "Primos Chicken abrirá en diciembre su séptimo local, sobre la av. Benavides, y concentra en Miraflores el desarrollo de su chifa Kou Xin. ¿Cuánto proyecta crecer en 2027 y cómo se prepara ante El Niño?",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/primos-chicken-abrira-nueva-polleria-en-miraflores-y-replantea-estrategia-de-kou-xin-noticia/",
+        "image": "https://gestion.pe/resizer/v2/RIP6ZEPBVFBH5L4TTZAOMMSLHU.jpg?auth=9ba82760a783ccb400a09c5a416979a5a0dfcc657de9611944df22404edad802&smart=true&width=1440&height=934",
+        "publishedAt": "2026-10-15T19:10:34.000Z"
+      },
+      {
+        "title": "¿Fin del vale de pavo? Pluxee apuesta por tarjeta virtual y QR para la campaña navideña",
+        "summary": "Pluxee Perú ya suma 4,000 empresas clientes y apunta a emitir 400,000 tarjetas de Navidad, con pago QR y una versión virtual que se entrega en seis horas. Pese a El Niño, no ve señales de contracción en la demanda.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/tarjetas-de-alimentacion-los-planes-de-pluxee-para-llevarlas-al-qr-y-crecer-en-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/DH5BCL2IAZAWJMXKEDGK6WPGTY.jpg?auth=8b23827da9bf19bb2e63091ef9ac08f6a7e1ce7fcbc7c9c7c02ce63a96d433cd&smart=true&width=1702&height=1135",
+        "publishedAt": "2026-10-15T19:10:14.000Z"
       }
     ],
     "sociedad": [
@@ -288,12 +288,12 @@
         "publishedAt": "2026-10-05T07:00:00.000Z"
       },
       {
-        "title": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional - Diario UNO",
-        "summary": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; Diario UNO",
-        "source": "Diario UNO",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjYxUUxNV1dqcXRBRzRyY1BNcm5UZE5abG00MVNLSWNWd2xkMVVhUkhTQVMyQ3U1dEFKeWdyTG5NX1hRRlJiTXJjRWppU2hmMnFKdXJkZHVKNW5GZWR4V1ZfZ2pBZW56T0d4Yk4zR3FJSHZEU1hYblNoZm1VQXFUYUN4RFpoRTloVF84OEt0VEtNcjBwM3JjemdQTnQtQ1dpa2tDZ0haTjg3OHNrNmtsMXdaaVBwaFpfUWhRbS04UWRFRFo5UDF2UjZGNGd4WFEwYkJLWW5GUzE?oc=5",
+        "title": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional - Chimbote en Línea",
+        "summary": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; Chimbote en Línea",
+        "source": "Chimbote en Línea",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdUlfZ2hfaXNHTGtPY0RiYTFSLU9hOGp6UFpJb1JmLTBoLUlISTFoNlFDN1Vpc2pfVFhfNFpveDV3WVE3Q2lpRmZfdXZZRmVQRkhqYkw2OW9mMXRCWGJacjAzczhkOTVtc083b0djalZpUnNkOFdVdExpb3NkNjdrMDlBNFNkMDZnVEotZzM5eHZlM251TE5VbE9YVWFkSGJxVkhDcHhLaVpjbkdCc205bHRyVjFmMkNuNEhVOGlOVU5PTVZmeU5Dc09uRmxpMUpMbzdvVVNjaE9GdmpVczdfVUZpVDc0c01u?oc=5",
         "image": "",
-        "publishedAt": "2026-09-19T07:00:00.000Z"
+        "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
         "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - Forbes Perú",
@@ -402,12 +402,12 @@
         "publishedAt": "2026-10-01T23:57:16.000Z"
       },
       {
-        "title": "El 24,1% de la fuerza laboral en Perú está altamente expuesta a la IA generativa: ¿qué significa para los trabajadores? - Infobae",
-        "summary": "El 24,1% de la fuerza laboral en Perú está altamente expuesta a la IA generativa: ¿qué significa para los trabajadores? &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOEtOSVhSMWE0bklKb1h5QlhNTzF6dXJfMjZ6ckhvX05ScVZJMEtqUWdvaDhiQU0tV1dnVUlxU1ZuQXd2cWs5d20yczdNSmI4cU5vY094X2ZIQWhiMXgzUHdrNDI0emlsTV9JeHNpZUFWQzFsdjdienVQZDY1dFVGZF9CSzhkMkRlb2FzbkpyczJQcVh5YlU0NHZ1V21TLWxBVTdxRjdQVW1vS2pWWUdicmswZm8wdG5HQlBvZE5pbVhuWTlQRUJpSk94LWw5bExUQUNxTXhHb0ZOWEFWaVVEY0VpekUxR0p1UHFF0gGGAkFVX3lxTE03NW5EQUkwQUwycGU1R2h5bjBWXzlFWmppMGUtMUlxcWtER1k1OC12ZEprQ1dSNzNGYmE4aXRvR0NXM0JHYkRmQy1OVDVqTEpCUTQ2cTJMOHA4QklkWGFpR1IzRk9rbUxJcXFIWFBwbVRXUlgtNE1ubkdaOGd2eEtZZ09yc2JXSC14eWphMVJ0TWVtYWFfUHh1MllwZ09na1hCYmRXY1FUX3ZKdzhoU0RXLWFJRUV2QnJnZGJOSGw3bGVDMHg4T0hZVllEVkstNGFiZVJJMHdibVhmZGdIM09RNjZ5WXk3bG9xTV9kVkw3N0ctQXpWSGRKUW1oVVY1Y3FHU3FEYXc?oc=5",
+        "title": "Líderes y los 4 mitos a desaprender sobre IA: las claves para transformar sus empresas - Gestión",
+        "summary": "Líderes y los 4 mitos a desaprender sobre IA: las claves para transformar sus empresas &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQX3Y5WVhJMENjVU5TSTkzRkR0UTllckE4SFdRUktHQzhYXzBrTHJRVXI0djh2cUN5OTdPa3hEQkdjNHFXQWI5aTNCd0hva3UxeUJBdWRfbkItempMYkVPZHVWYm9nNk12VVZ1THBuUDkzeld3LXFvMW12MDl2MFdmTEdmWnJBckxtTjdjanNRWjR3UklwZndxNlZNblpvM29yNnBpcC1icU5id1B1WTZ0X3Bjdlg5SzJTam85RnZTM1lMRkRhMTd0XzhTVEdtUGlZTk1GVlhLT3E2ZWNFU2JNS0ZBWDBmTkFySk9BUi1GZ0hXeEhDWkRmZjZSbnFPWWRNQjE0SFdWa0JqeGJUUmJrQg?oc=5",
         "image": "",
-        "publishedAt": "2026-09-25T07:00:00.000Z"
+        "publishedAt": "2026-10-01T07:00:00.000Z"
       }
     ],
     "tendencias": [
