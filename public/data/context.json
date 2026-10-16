@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T23:40:33.577Z",
+  "generatedAt": "2026-10-16T04:26:23.404Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,6 +24,46 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
+        "title": "Ministro Ernesto Álvarez acusa a las bancadas de izquierda de obstruir al Gobierno",
+        "summary": "El ministro de Justicia y Derechos Humanos, Ernesto Álvarez, acusó a las bancadas de izquierda de obstruir al Gobierno con el tema de la delegación de facultades legislativas, cuyo debate en la Comisión de Constitución del Senado fue suspendido “hasta nuevo aviso”.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/ministro-ernesto-alvarez-acusa-a-las-bancadas-de-izquierda-de-obstruir-al-gobierno-delegacion-de-facultades-comision-de-constitucion-senado-apuesplan-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/PTR54K3GKREHDI6CGEYZFDMF64.jpg?auth=5b237901ac44746396a8dfae00496d56892b53483e21a5ed93b73488f9f0d1c5&smart=true&width=1200&height=675",
+        "publishedAt": "2026-10-16T02:17:35.000Z"
+      },
+      {
+        "title": "Senadores de cuatro bancadas esperan nueva citación de la Comisión de Constitución que garantice “debate democrático”",
+        "summary": "Senadores de las bancadas Juntos por el Perú (JP), Partido del Buen Gobierno, Obras y Ahora Nación afirmaron que están a la espera de una nueva citación de la Comisión de Constitución que garantice un “debate democrático” sobre la delegación de facultades solicitada por el Poder Ejecutivo.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/delegacion-de-facultades-senadores-de-cuatro-bancadas-esperan-nueva-citacion-de-la-comision-de-constitucion-que-garantice-debate-democratico-apuesplan-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/QOBK74OBLVE2BADWH2YRGI72OY.jpg?auth=39ea340708e3d4031fb903ecb0d40fa32715037c316f8ecf0a2a1a6eb1afd40a&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-10-16T02:03:33.000Z"
+      },
+      {
+        "title": "Senador Alfonso López Chau tras suspensión de sesión en Comisión de Constitución: “Salidas hay cuando se quiere”",
+        "summary": "El senador Alfonso López Chau (Ahora Nación) se pronunció tras la suspensión de la sesión de la Comisión de Constitución de la cámara alta, donde se debatía un dictamen sobre la delegación de facultades al Ejecutivo, y consideró que “salidas hay cuando se quiere”.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/senador-alfonso-lopez-chau-tras-suspension-de-sesion-en-comision-de-constitucion-salidas-hay-cuando-se-quiere-delegacion-de-facultades-apuesplan-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/WJLOJ4IUBBBGPEVCNHFAHMGLHQ.jpg?auth=f0e641df58d22b59a5be0a27fd80c4eb1017b0e24492523c3ec144fb1b5d7218&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-16T01:25:31.000Z"
+      },
+      {
+        "title": "María Corina Machado felicita a Álvaro Vargas Llosa por su designación como embajador en Estados Unidos",
+        "summary": "La lideresa de la oposición venezolana, María Corina Machado, felicitó al escritor y periodista Álvaro Vargas Llosa, hijo del Premio Nobel de Literatura Mario Vargas Llosa, por su reciente designación como embajador del Perú en Estados Unidos.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/internacional/maria-corina-machado-felicita-a-alvaro-vargas-llosa-por-su-designacion-como-embajador-en-estados-unidos-keiko-fujimori-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/DLIHVPBS3NAR3MLLE4DG7A2COU.jpg?auth=abae808392c624046424f80c706322b9f11f0b475840999e59d0d16cac513905&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-16T00:41:37.000Z"
+      },
+      {
+        "title": "“Grupos hostiles”, el factor DINI y otras acciones: estos son los puntos que incorpora el predictamen del Senado",
+        "summary": "El Senado debatirá el pedido de facultades legislativas del Ejecutivo. El predictamen incorpora ocho puntos al texto aprobado por Diputados, con medidas sobre grupos hostiles, herramientas antiterroristas y fortalecimiento de la DINI.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/grupos-hostiles-mecanismos-antiterroristas-y-el-factor-dini-estos-son-los-nuevos-puntos-que-incluye-predictamen-del-senado-sobre-facultades-especiales-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/HGSZQ3TWKJGQLMKCDV6KSIFD3A.jpg?auth=6043d773ba9af2a6f19314bd31a0c9ab4a20d0ea564695c82eb50e15403cdb6f&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-16T00:03:00.000Z"
+      },
+      {
         "title": "Comisión del Senado suspende sesión “hasta nuevo aviso” tras ausencia de legisladores de izquierda",
         "summary": "La Comisión de Constitución del Senado, que preside Carlos Mesía (Fuerza Popular) debate y votar este jueves el nuevo predictamen sobre el pedido del Gobierno de facultades especiales para legislar. El texto incorpora 8 puntos, entre elos agrega la denominación de “grupos hostiles” a organizaciones criminales y el fort",
         "source": "El Comercio Perú",
@@ -38,112 +78,72 @@
         "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-sobre-incidentes-en-comision-de-constitucion-por-delegacion-de-facultades-voy-a-esperar-con-prudencia-para-ver-que-define-el-senado-apuesplan-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/NNQI4CIS2RDVVL4BIN44C4CJUU.jpg?auth=e86315865ff240616ad26a4e5486c1b8d6778fdd2935fff45307dfdcc771da4f&smart=true&width=2048&height=1365",
         "publishedAt": "2026-10-15T22:19:03.000Z"
-      },
-      {
-        "title": "Municipalidad de Lima y JNE discrepan sobre los alcances del fallo por las demoras electorales",
-        "summary": "La Municipalidad Metropolitana de Lima y el Jurado Nacional de Elecciones (JNE) expusieron posiciones distintas sobre los alcances de la Resolución N.° 8 del Quinto Juzgado Constitucional de Lima, que abordó las demoras registradas durante las elecciones generales del pasado 12 de abril. El pronunciamiento judicial est",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/justicia/municipalidad-de-lima-y-jne-discrepan-sobre-los-alcances-del-fallo-por-las-demoras-electorales-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/V6XGB7D2ZFF4BHFXEVLRE26Q3U.jpg?auth=4c8c27a00fb9c33cc6a9ab933de6ff8f8eb0d45c29141d3bff7bcd72db8c6ccd&smart=true&width=880&height=497",
-        "publishedAt": "2026-10-15T22:10:18.000Z"
-      },
-      {
-        "title": "“Grupos hostiles”, el factor DINI y otras acciones: estos son los puntos que incorpora el predictamen del Senado",
-        "summary": "El Senado debatirá el pedido de facultades legislativas del Ejecutivo. El predictamen incorpora ocho puntos al texto aprobado por Diputados, con medidas sobre grupos hostiles, herramientas antiterroristas y fortalecimiento de la DINI.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/grupos-hostiles-mecanismos-antiterroristas-y-el-factor-dini-estos-son-los-nuevos-puntos-que-incluye-predictamen-del-senado-sobre-facultades-especiales-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/HGSZQ3TWKJGQLMKCDV6KSIFD3A.jpg?auth=6043d773ba9af2a6f19314bd31a0c9ab4a20d0ea564695c82eb50e15403cdb6f&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-15T22:03:48.000Z"
-      },
-      {
-        "title": "Perú es elegido para liderar foro internacional sobre cooperación para el desarrollo",
-        "summary": "El Perú fue elegido para asumir, junto con Canadá, la Copresidencia del Foro Internacional del Apoyo Oficial Total para el Desarrollo Sostenible (IFT, por sus siglas en inglés), un espacio que reúne a países y organismos internacionales para fortalecer la transparencia y mejorar la medición de los recursos destinados a",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/internacional/peru-es-elegido-para-liderar-foro-internacional-sobre-cooperacion-para-el-desarrollo-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/I2BMBGORGJG67I7ASGEM2BORUI.jpg?auth=044da9efa53d3477848d09b376436d58a02274e161a4f6c89b7154d584e8ab6c&smart=true&width=1600&height=905",
-        "publishedAt": "2026-10-15T21:23:28.000Z"
-      },
-      {
-        "title": "Keiko Fujimori anuncia coordinación con Delcy Rodríguez para expulsar a venezolanos indocumentados del Perú",
-        "summary": "Keiko Fujimori, lideresa de Fuerza Popular, anunció que sostuvo una llamada telefónica con la presidenta de Venezuela, Delcy Rodríguez, para coordinar acciones de cooperación entre ambos países, entre ellas la expulsión del Perú de ciudadanos venezolanos indocumentados.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/internacional/keiko-fujimori-anuncia-coordinacion-con-delcy-rodriguez-para-expulsar-a-venezolanos-indocumentados-del-peru-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/STFOVP6RCZGRHDKRZ2GHACKZ7Y.jpg?auth=3d5a1db0a82addf2ae72ace1ee142e93609adf03e5675ab69bbcea7c604e9412&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-15T20:48:09.000Z"
-      },
-      {
-        "title": "Daniel Barragán cuestiona conducción de Carlos Mesía en Comisión de Constitución del Senado: “El Congreso está para debatir”",
-        "summary": "Tras la abrupta suspensión de la sesión de la Comisión de Constitución del Senado, el senador de Partido Cívico Obras, Daniel Barragán, cuestionó la conducción de Carlos Mesía al frente de dicho grupo de trabajo y reclamó que se permita debatir la cuestión de orden presentada.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/daniel-barragan-cuestiona-conduccion-de-carlos-mesia-en-comision-de-constitucion-del-senado-el-congreso-esta-para-debatir-ultimas-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/3NPOWJ3XXVDANNA6WMJS5PRGDM.jpg?auth=dded97923d525d1de6ab66ac20f3c0352387dbb837796ca3912947efce8c73a5&smart=true&width=1000&height=587",
-        "publishedAt": "2026-10-15T19:10:44.000Z"
       }
     ],
     "economia": [
       {
-        "title": "La red social X suspende 13,000 cuentas por influir en la política de EE.UU.",
-        "summary": "La red social X anunció este miércoles la suspensión de más de 13,000 cuentas que atribuye a tres presuntas operaciones de influencia extranjera vinculadas a Irán, Rusia y China, dirigidas a intervenir en la conversación política de Estados Unidos antes de las elecciones legislativas de medio mandato del próximo 3 de n",
+        "title": "Parque Industrial de Ancón “despegaría” en segundo semestre de 2027: ¿por qué?",
+        "summary": "El minisro de la Producción también indicó que esta semana se conocerá si habrá nueva temporada de pesca de anchoveta. ¿Qué información preliminar se tiene?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/la-red-social-x-suspende-13000-cuentas-vinculadas-a-iran-rusia-y-china-por-influir-en-la-politica-de-eeuu-noticia/",
-        "image": "https://gestion.pe/resizer/v2/J53QEEJHA5AW5KVHPCXXRHF2GM.jpg?auth=8c4dba37856e58ba58408fd29582ee92ba160b0c97343f181cc1ce4a754f79b6&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-15T23:06:00.000Z"
+        "url": "https://gestion.pe/economia/parque-industrial-de-ancon-proxima-fecha-clave-sera-en-segunda-parte-de-2027-por-que-noticia/",
+        "image": "https://gestion.pe/resizer/v2/MB2VG4H5R5HVBEHJU4EJAO2SB4.jpg?auth=4f7d30aabd470c840f8ab71b787ccd028ea756b8d29a1db5c079a164735ed9c9&smart=true&width=2610&height=1672",
+        "publishedAt": "2026-10-16T03:25:00.000Z"
       },
       {
-        "title": "Mincetur propone ampliar espacios y modelo de visita en Machu Picchu: ¿qué cambiaría?",
-        "summary": "El ministro de Comercio Exterior y Turismo, Rogers Valencia, adelantó a Gestión que se busca ampliar los espacios y modelos de visita en Machu Picchu, a fin de atender la alta demanda en la maravilla del mundo.",
+        "title": "MEF alista política fiscal contracíclica para evitar desaceleración frente a “tres choques”",
+        "summary": "El ministro de Economía y Finanzas, Elmer Cuba, indicó que el Poder Ejecutivo viene preparando una política fiscal contracíclica con el objetivo de evitar que la economía peruana se desacelere ante eventos externos y climáticos.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/machu-picchu-mincetur-propone-ampliar-espacios-y-modelo-de-visita-que-cambiaria-noticia/",
-        "image": "https://gestion.pe/resizer/v2/VNRKEWYFYZATNOA7UQQEBHWMDI.jpg?auth=e4610568d73b6a58f2822a408a9bd47694840ed397d6210db5db8a2d317a28a2&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-15T22:54:41.000Z"
+        "url": "https://gestion.pe/economia/mef-alista-con-keiko-fujimori-politica-fiscal-contraciclica-para-evitar-desaceleracion-de-la-economia-frente-a-tres-choques-noticia/",
+        "image": "https://gestion.pe/resizer/v2/6T3LIYHROVALHJ5F6SECPWP5EU.jpg?auth=ff7e81e9d7063d8494572ccd1b18fc7ed2c7588d9ad95493d9cf9b9752e1cabd&smart=true&width=1600&height=1064",
+        "publishedAt": "2026-10-16T02:37:41.000Z"
       },
       {
-        "title": "Línea 2 del Metro de Lima: adelantarían puesta en servicio de tres nuevas estaciones",
-        "summary": "MTC coordina con la concesionaria del megaproyecto de tren eléctrico subterráneo",
+        "title": "Imarpe: suscriben convenio para fortalecer su capacidad científica",
+        "summary": "El acuerdo fue suscrito por el Produce, el Imarpe y la Sociedad Nacional de Pesquería (SNP) para optimizar las áreas tecnológicas y de investigación de los recursos pesqueros.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/linea-2-del-metro-de-lima-adelantarian-puesta-en-servicio-de-tres-nuevas-estaciones-noticia/",
-        "image": "https://gestion.pe/resizer/v2/5PIJ3HDNGFBBVA2QAAL3G7SDAA.jpg?auth=993019f04b30a3a300efb96f86784b93ea93af273d90d9e65558b1424f449bdc&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-15T22:25:25.000Z"
+        "url": "https://gestion.pe/economia/imarpe-suscriben-convenio-para-fortalecer-su-capacidad-cientifica-noticia/",
+        "image": "https://gestion.pe/resizer/v2/ZFTP7IAKJFBTRA2DI4AP2NGILA.jpg?auth=5cacb046c22666df0a679866005efa01f8d4a24c463330086a5c4db1862ca26c&smart=true&width=1800&height=1199",
+        "publishedAt": "2026-10-16T02:03:08.000Z"
       },
       {
-        "title": "CNN y Google firman una alianza para probar la IA generativa en el periodismo",
-        "summary": "La cadena de televisión estadounidense CNN anunció este jueves un acuerdo con la compañía tecnológica Google para integrar tecnologías de inteligencia artificial generativa en las plataformas informativas del medio.",
+        "title": "Gerente general: ¿cuándo puede perder sus bienes por errores de la empresa?",
+        "summary": "La separación entre el patrimonio de una empresa y el de sus directivos no impide que el gerente general asuma responsabilidad personal por sus decisiones u omisiones cuando estas tienen relevancia legal.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/cnn-y-google-firman-una-alianza-para-probar-la-ia-generativa-en-el-periodismo-noticia/",
-        "image": "https://gestion.pe/resizer/v2/XTHEXYE4K5AV7BDL5GQ2L5WGVE.jpg?auth=1e1662ee99fa5cdff9eda29ae715f0a27905770ac4e2098ec66efe699f241aaa&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-15T22:03:43.000Z"
+        "url": "https://gestion.pe/economia/empresas/gerente-general-cuando-puede-perder-sus-bienes-por-errores-de-la-empresa-noticia/",
+        "image": "https://gestion.pe/resizer/v2/O3ZHMTNP45D2VJGQ7PZOTW4JPE.jpg?auth=93fc501f5bdfbce95d86df636f8d455e07f6bb3c0383c9c64b14b8836642a181&smart=true&width=6000&height=4000",
+        "publishedAt": "2026-10-16T01:54:43.000Z"
       },
       {
-        "title": "MTC confirma que recorte a TUUA de transferencia internacional será de “no menos del 50%”",
-        "summary": "El MTC indicó que el porcentaje de reducción de la TUUA de Transferencia Internacional no sería menos del 50%.",
+        "title": "Petroperú subastará 8 casas de playa en Punta Sal y otra en El Olivar de 2,000 m²: ¿cuándo?",
+        "summary": "Desde ProInversión detallaron lo que será la segunda convocatoria a subasta de activos no estratégicos de Petroperú. ¿Habrán más este año?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/mtc-confirma-que-recorte-a-tuua-de-transferencia-internacional-sera-deno-menos-del-50-noticia/",
-        "image": "https://gestion.pe/resizer/v2/QBCM47GINZDGPDEXVOLFKCC4AI.jpg?auth=29b93776695ffe35f1b9c18be7aa931eebc4f0df81e245af8448af2ef0c0a279&smart=true&width=700&height=455",
-        "publishedAt": "2026-10-15T21:58:14.000Z"
+        "url": "https://gestion.pe/economia/petroperu-subastara-8-casas-de-playa-en-punta-sal-y-otra-en-el-olivar-de-2000-m-cuando-noticia/",
+        "image": "https://gestion.pe/resizer/v2/264S7GQCNRDOJGVURUBWEV4TMI.png?auth=4351d0f53a665c2a7f64ee8e0863acbe5098436e3a7163dd78df1e2fd1287e68&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-10-16T01:21:27.000Z"
       },
       {
-        "title": "Reino Unido: “Todo el mundo quiere que el Gobierno peruano pueda aprovechar más estabilidad”",
-        "summary": "La embajadora del Reino Unido en el Perú, Su-Lin Garbett-Shiels, indicó que no ha variado su ánimo alrededor del Corredor Minero del Norte, donde varios proyectos tienen capitales de su país.",
+        "title": "Puno: MTC destraba proyecto de carretera clave para la región tras resolver arbitraje",
+        "summary": "El Ministerio de Transportes y Comunicaciones (MTC), a través de Provías Nacional, obtuvo un resultado favorable en el proceso arbitral relacionado con el proyecto de mejoramiento de la carretera Checca–Mazocruz, en la región Puno.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/reino-unido-todo-el-mundo-quiere-que-el-gobierno-peruano-aproveche-mas-estabilidad-noticia/",
-        "image": "https://gestion.pe/resizer/v2/UF4LKN5RFFFAHCZZYPBVQMZRXM.jpeg?auth=8261a06c08cc60d67ec7c0ceb0f4735b2641393f83dd9073d2491b5d1f4f85fb&smart=true&width=906&height=599",
-        "publishedAt": "2026-10-15T21:17:43.000Z"
+        "url": "https://gestion.pe/economia/puno-mtc-destraba-proyecto-de-carretera-clave-para-la-region-tras-resolver-arbitraje-noticia/",
+        "image": "https://gestion.pe/resizer/v2/PBUF5XRAXZEZBISPE6OE3DBB2M.jpeg?auth=ee5c4cf0a6f884a409e3a6bd62c516dd7753d901bb02a2e40aa94d958ac15511&smart=true&width=480&height=270",
+        "publishedAt": "2026-10-16T01:13:57.000Z"
       },
       {
-        "title": "Subsidio a mototaxistas de la selva: destinan S/ 16.2 millones para subvención de combustible",
-        "summary": "El Ministerio de Economía y Finanzas (MEF) autorizó una transferencia de S/ 16.2 millones para financiar la implementación del Decreto de Urgencia 011-2026, que establece un subsidio económico temporal para los conductores de mototaxis en los departamentos de Loreto, Ucayali y Madre de Dios.",
+        "title": "Petroperú cerraría acuerdo para recibir US$ 2,000 millones este mes: detalles del proceso",
+        "summary": "“Hay trámites que se están desarrollando, principalmente, en Nueva York, que es donde se estructura este financiamiento”, indicaron desde ProInversión.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/subsidio-de-combustibles-mef-destina-s-162-millones-para-subvencion-a-mototaxistas-de-loreto-ucayali-y-madre-de-dios-noticia/",
-        "image": "https://gestion.pe/resizer/v2/ZXHMQXA5K5EQDLAGDNWBJ2QVHI.jpg?auth=2885a341fc65ec585b531fc554c938e978d661e18f3c90eb264ccc187b05adf6&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-10-15T19:58:00.000Z"
+        "url": "https://gestion.pe/economia/petroperu-cerraria-acuerdo-para-recibir-us-2000-millones-este-mes-detalles-del-proceso-noticia/",
+        "image": "https://gestion.pe/resizer/v2/R3Q6T73X25AS7H7I5GT2BD6V6E.jpg?auth=edd34ecbd78af93f649e0f9afbd9bf9e1787ef631f516bd03e078c50f0612a13&smart=true&width=1200&height=675",
+        "publishedAt": "2026-10-16T01:02:22.000Z"
       },
       {
-        "title": "Empleo perdió impulso en el tercer trimestre, ¿cuánto creció?",
-        "summary": "La generación de empleo en Lima creció 6% entre julio y septiembre, su menor resultado en cinco meses.",
+        "title": "Buenaventura reduce proyección de producción de oro de San Gabriel para 2026",
+        "summary": "Compañía de Minas Buenaventura redujo su proyección de producción para la mina de oro San Gabriel (Moquegua) en 2026 a un rango de entre 15,000 y 20,000 onzas. La compañía atribuyó el ajuste a las restricciones temporales en el procesamiento de mineral durante la puesta en marcha de la operación.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empleo-perdio-impulso-en-el-tercer-trimestre-cuanto-crecio-noticia/",
-        "image": "https://gestion.pe/resizer/v2/N3AVO3OL65ATVOC3MQITOQKXLI.jpg?auth=fad6d92acd5353312208118a2051e15569667ff8b916017cfaf294d596c9f305&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-15T19:57:15.000Z"
+        "url": "https://gestion.pe/economia/empresas/buenaventura-ajusta-perspectiva-de-produccion-de-oro-de-san-gabriel-para-2026-noticia/",
+        "image": "https://gestion.pe/resizer/v2/KSETDDPF6JATFDQAKNRNYMDK3E.jpg?auth=4760a8296f91fa02cb2d35e284eb8297623478d66fd1d3352e03b0d3f45c9e56&smart=true&width=1170&height=702",
+        "publishedAt": "2026-10-15T23:39:37.000Z"
       }
     ],
     "sociedad": [
@@ -172,6 +172,14 @@
         "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
+        "title": "Lista de los 13 candidatos a la alcaldía de Cusco en las Elecciones regionales 2026: perfiles y planes de gobierno - Infobae",
+        "summary": "Lista de los 13 candidatos a la alcaldía de Cusco en las Elecciones regionales 2026: perfiles y planes de gobierno &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeTRJcTk0dkpWMnZIN3R6TVczVVhLYndLeHpReVRpNFNqSEJJUDhiTURnaUNHUG81MUMzRzFFeWpDSExkZGVsYzNPMWNvMHl6VVAzYVMtVHV1TjhsWHBqSThBVTFrU0w3Q0x2OXpTZkp1YkVEQ2w4cm1QT05fcGRtUDV3NjRqVUxzSk5RYkxmcERyckxfc1N0NmVHaXd2Nk1EMDlSUXlBVWZfVy1YWFRPaFYxczVTZzViWUdHeFQ5MXJfUFNXZTRxSFlDd3dLRHFaUU9ORDY5aG14dEV5ZU02N2R0SjkwWC1PMUHSAYQCQVVfeXFMTTNiLTJPQU1NYkdka3VjWXlad1FCSHdhTzZpcmc1Vk42VHdPWXBBU3Vubm9pMXN6eVlvUHZyMTRQLU9OYWp3SldkODlfY2t3a1Q1R1I5M25LWXA5T0lKQmJVVzRqM19ES1lGREVSOVp1TUFMSnRwYWN6dnFmX1pGUldSTUU1LU9JU3BCYWV5UUYwWGhXaDhPTDQ0TGh1SFFJQW5Va1BjbUdMenVyVnl4c3d1MjVySDNIVDhmaDJQSjN3cEdQZXV4UDlpMzE0M1dMcGlfTXcyUjBrOW9maVRyS3o3VlctcGxCRUpTNUZmOEFIUWo2bnJqUXJLMTg2OFVFMjBQLVI?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-20T07:00:00.000Z"
+      },
+      {
         "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
         "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; El Peruano",
         "source": "El Peruano",
@@ -194,14 +202,6 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-03T07:00:00.000Z"
-      },
-      {
-        "title": "Restricción a prestaciones de salud que propone borrador de reforma de seguridad divide al gobierno y alerta a partidos - La Tercera",
-        "summary": "Restricción a prestaciones de salud que propone borrador de reforma de seguridad divide al gobierno y alerta a partidos &nbsp;&nbsp; La Tercera",
-        "source": "La Tercera",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRlNLMFZqSDFPaXdOQTY4bDFzc0N2ejIxbGhXWUtEaWdtOWl0UTYyNE40NGxXVHBHMENXeWZ1U1dCUm1nSk1sZV9QenRKTVhFU0pEZlY0RXlGYzNENjVSeVFxTk4xb0VUWWdUc2dCN056bVhsbUpJVjJmcDV2Yzl3Tkw4U3EyTHJXem1BTzA1S0R1TUoxUU5JSlpyd29ySmNzdmhZS21uOWduQWFPSzJ0SmVHVmxla1BQc0JvZXdDMkxzMkZ4VE5aRFRfQlRmaEZZZXltNndLSjBfLUlyR2JmenJRVUt5TXFUb09MbVpRdkZSQWQtU2fSAZcCQVVfeXFMTmxERjV3VXNHRFpyYkh1TUo1cE1RT0Z4WG1ZTkVmOVFVTE1rMkhWS1ZmSWdOZmdCWDd2dEt1RUg2WVA2MlZvMXYtRmxlZEQxQjhsdFJ2ZmQ0cngxTEw1ZlIwb2VtcEpsZzJDVGdKTGRHUVdqQmhkcjhaQ3RrZ2lsM2RNZzZlZ29zOVdOWnZqX211R3dDb0Joa3cxcjFiZ0xHWE51VkVCV00ySWpEUmdzNXByZzFqN0tKVnJfcWdsQzg4ZXdYbnpHV09XNGlkdDRKNW1ZaVFFRWFiQnR5RnlRUF9MclJrSnhsaGktNU1id2xyNEppdVlrb2JTNlNuUUZReFlLa2Y3UktPOUtUV29zbW9iV0V0cnQ4?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
         "title": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos - Agencia Andina",
@@ -354,14 +354,6 @@
         "publishedAt": "2026-10-12T18:29:00.000Z"
       },
       {
-        "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - Diario Ahora",
-        "summary": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú &nbsp;&nbsp; Diario Ahora",
-        "source": "Diario Ahora",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUwwRm5ROVRhYTJuX0RCWEVaNW4yU1lQU0k0anlPcFRITnJEZTItWXJnVDF5MkYxODhCSV9sSWRJelduRjFLRnNYTDZGVG15WVdDQTJkRUpBVFd4V2FZazA2Q3ZvNGgxV2M3Z2FlcEl5cHJESEZoRWwyM0VPQ2MwWlpBc3BSakN3N25NTi1UNU1rWEhwejBONjQ1dTdUS3Y5Y1RUc0Y4dkpOZzFvTFJsWnZJREZGMmpwb2tPeFpyRnpha1Q5MWRlQw?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-11T03:25:12.000Z"
-      },
-      {
         "title": "Uso de IA crece en empresas, pero solo 30% reporta políticas de seguridad - La República",
         "summary": "Uso de IA crece en empresas, pero solo 30% reporta políticas de seguridad &nbsp;&nbsp; La República",
         "source": "La República",
@@ -408,6 +400,14 @@
         "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQX3Y5WVhJMENjVU5TSTkzRkR0UTllckE4SFdRUktHQzhYXzBrTHJRVXI0djh2cUN5OTdPa3hEQkdjNHFXQWI5aTNCd0hva3UxeUJBdWRfbkItempMYkVPZHVWYm9nNk12VVZ1THBuUDkzeld3LXFvMW12MDl2MFdmTEdmWnJBckxtTjdjanNRWjR3UklwZndxNlZNblpvM29yNnBpcC1icU5id1B1WTZ0X3Bjdlg5SzJTam85RnZTM1lMRkRhMTd0XzhTVEdtUGlZTk1GVlhLT3E2ZWNFU2JNS0ZBWDBmTkFySk9BUi1GZ0hXeEhDWkRmZjZSbnFPWWRNQjE0SFdWa0JqeGJUUmJrQg?oc=5",
         "image": "",
         "publishedAt": "2026-10-01T07:00:00.000Z"
+      },
+      {
+        "title": "El 24,1% de la fuerza laboral en Perú está altamente expuesta a la IA generativa: ¿qué significa para los trabajadores? - Infobae",
+        "summary": "El 24,1% de la fuerza laboral en Perú está altamente expuesta a la IA generativa: ¿qué significa para los trabajadores? &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOEtOSVhSMWE0bklKb1h5QlhNTzF6dXJfMjZ6ckhvX05ScVZJMEtqUWdvaDhiQU0tV1dnVUlxU1ZuQXd2cWs5d20yczdNSmI4cU5vY094X2ZIQWhiMXgzUHdrNDI0emlsTV9JeHNpZUFWQzFsdjdienVQZDY1dFVGZF9CSzhkMkRlb2FzbkpyczJQcVh5YlU0NHZ1V21TLWxBVTdxRjdQVW1vS2pWWUdicmswZm8wdG5HQlBvZE5pbVhuWTlQRUJpSk94LWw5bExUQUNxTXhHb0ZOWEFWaVVEY0VpekUxR0p1UHFF0gGGAkFVX3lxTE03NW5EQUkwQUwycGU1R2h5bjBWXzlFWmppMGUtMUlxcWtER1k1OC12ZEprQ1dSNzNGYmE4aXRvR0NXM0JHYkRmQy1OVDVqTEpCUTQ2cTJMOHA4QklkWGFpR1IzRk9rbUxJcXFIWFBwbVRXUlgtNE1ubkdaOGd2eEtZZ09yc2JXSC14eWphMVJ0TWVtYWFfUHh1MllwZ09na1hCYmRXY1FUX3ZKdzhoU0RXLWFJRUV2QnJnZGJOSGw3bGVDMHg4T0hZVllEVkstNGFiZVJJMHdibVhmZGdIM09RNjZ5WXk3bG9xTV9kVkw3N0ctQXpWSGRKUW1oVVY1Y3FHU3FEYXc?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-25T07:00:00.000Z"
       }
     ],
     "tendencias": [
