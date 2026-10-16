@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T09:44:56.115Z",
+  "generatedAt": "2026-10-16T14:48:45.009Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,36 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
+        "title": "María Corina Machado felicita a Álvaro Vargas Llosa por su designación como embajador en Estados Unidos",
+        "summary": "La lideresa de la oposición venezolana, María Corina Machado, felicitó al escritor y periodista Álvaro Vargas Llosa, hijo del Premio Nobel de Literatura Mario Vargas Llosa, por su reciente designación como embajador del Perú en Estados Unidos.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/internacional/maria-corina-machado-felicita-a-alvaro-vargas-llosa-por-su-designacion-como-embajador-en-estados-unidos-keiko-fujimori-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/DLIHVPBS3NAR3MLLE4DG7A2COU.jpg?auth=abae808392c624046424f80c706322b9f11f0b475840999e59d0d16cac513905&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-16T14:39:39.000Z"
+      },
+      {
         "title": "César Acuña anuncia su retiro de la política: ¿qué factores impulsarían su decisión?",
         "summary": "“Les doy una buena noticia: chau, política”, anunció el jueves César Acuña, excandidato presidencial y líder de Alianza para el Progreso (APP), al comunicar su retiro de la actividad política tras el fracaso obtenido por su partido en las elecciones generales y los malos resultados en las regionales y municipales de es",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/partidos/cesar-acuna-anuncia-su-retiro-de-la-politica-que-factores-impulsarian-su-decision-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/E5YJ7XYFQVFOPJUNNGU5WPBWUQ.jpg?auth=f1c87bb644d897595bb2494469136766eb54a0ad996a934362126325f07c1a8b&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-16T05:01:00.000Z"
+        "publishedAt": "2026-10-16T13:29:27.000Z"
+      },
+      {
+        "title": "“Amarrando la chiva”",
+        "summary": "El hablar piurano no solo es rico en entonaciones, sino en esa maravillosa habilidad de tener dichos y frases únicas, como el famoso “amarrar la chiva”, que no es otra cosa que ‘demorar algo intencionalmente’ o fingir que estás ocupado para no recibir ningún encargo.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/opinion/columnistas/amarrandola-chiva-por-diana-seminario-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/256QEJDYJFG4NOZ6DVMQ6PXSBM.png?auth=8cceaf0d45472af70fe0bf9256781113be4b3da17782794a9d5d340dfd117173&smart=true&width=1200&height=649",
+        "publishedAt": "2026-10-16T13:27:10.000Z"
+      },
+      {
+        "title": "Proyecto de Ley MAPE del gobierno propone que plantas de beneficio sean fiscalizadas ¿que otras medidas incluye?",
+        "summary": "A dos meses y medio para que concluya el Reinfo, el gobierno de Keiko Fujimori está por presentar ante el Congreso bicameral su propuesta para la nueva Ley de la Pequeña Minería y Minería Artesanal (Ley MAPE). En el texto, el Ministerio de Energía y Minas (MINEM) plantea que las plantas de beneficio sean objeto de fisc",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/el-proyecto-de-ley-mape-del-gobierno-desde-la-fiscalizacion-a-las-plantas-al-ingreso-de-mineros-informales-al-sistema-bancario-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/MH4ANCPCNNBCHLXEGA2BXHWCGA.png?auth=dfe973b0d4354bb0cd6100300e5497c0e17fcd6504ab988711141cf2cda6426d&smart=true&width=1160&height=660",
+        "publishedAt": "2026-10-16T13:16:27.000Z"
       },
       {
         "title": "Ausencia de senadores de izquierda y aliados frustra debate y votación de facultades: los entretelones de la sesión",
@@ -37,113 +61,89 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/bancadas-de-izquierda-y-aliados-frustan-debate-y-votacion-de-facultades-los-entretelones-de-la-sesion-de-la-comision-de-constitucion-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/IWEWNH2AJZHCHBW67BFPYNHNOM.jpeg?auth=48e99da0e735eb820b9f8f1f091902afa6673d381ddb525c9829aeadfa46e061&smart=true&width=1280&height=853",
-        "publishedAt": "2026-10-16T05:01:00.000Z"
+        "publishedAt": "2026-10-16T12:49:17.000Z"
       },
       {
-        "title": "Ministro Ernesto Álvarez acusa a las bancadas de izquierda de obstruir al Gobierno",
-        "summary": "El ministro de Justicia y Derechos Humanos, Ernesto Álvarez, acusó a las bancadas de izquierda de obstruir al Gobierno con el tema de la delegación de facultades legislativas, cuyo debate en la Comisión de Constitución del Senado fue suspendido “hasta nuevo aviso”.",
+        "title": "La dispersión del voto creció en las últimas elecciones municipales en Lima Metropolitana: ¿Cuántos distritos y qué zonas apoyaron a los alcaldes ganadores?",
+        "summary": "El voto en Lima Metropolitana se ha fragmentado con el paso de los años. En las últimas elecciones municipales, celebradas en el 2022, Rafael López Aliaga, de Renovación Popular, se convirtió en alcalde de la capital con poco más de un cuarto de los votos válidos (26,3%), la cifra más baja desde el 2006.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/ministro-ernesto-alvarez-acusa-a-las-bancadas-de-izquierda-de-obstruir-al-gobierno-delegacion-de-facultades-comision-de-constitucion-senado-apuesplan-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/PTR54K3GKREHDI6CGEYZFDMF64.jpg?auth=5b237901ac44746396a8dfae00496d56892b53483e21a5ed93b73488f9f0d1c5&smart=true&width=1200&height=675",
-        "publishedAt": "2026-10-16T02:17:35.000Z"
+        "url": "https://elcomercio.pe/ecdata/elecciones-2026-la-dispersion-del-voto-crecio-en-las-ultimas-elecciones-municipales-en-lima-metropolitana-cuantos-distritos-y-que-zonas-apoyaron-a-los-alcaldes-ganadores-rafael-lopez-aliaga-carlos-bruce-francis-allison-onpe-jne-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/QOOJFCDYQJGHXNXBZ6TZP3I27Q.jpg?auth=242e8b6ee7cb83ce4e935e033284dc16b20c9f7538e812f1dc5f965a276fd713&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-16T11:01:34.000Z"
       },
       {
-        "title": "Senadores de cuatro bancadas esperan nueva citación de la Comisión de Constitución que garantice “debate democrático”",
-        "summary": "Senadores de las bancadas Juntos por el Perú (JP), Partido del Buen Gobierno, Obras y Ahora Nación afirmaron que están a la espera de una nueva citación de la Comisión de Constitución que garantice un “debate democrático” sobre la delegación de facultades solicitada por el Poder Ejecutivo.",
+        "title": "Viceministra de Minas: “Estamos estableciendo un plazo de 18 meses y no abrimos la puerta a una nueva ampliación”",
+        "summary": "La viceministra de Minas, Mayra Figueroa, defiende el proyecto de Ley MAPE del gobierno y detalla que el plazo que tendrán los mineros informales para concluir el proceso de formalización será de 18 meses y ya no de dos años.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/delegacion-de-facultades-senadores-de-cuatro-bancadas-esperan-nueva-citacion-de-la-comision-de-constitucion-que-garantice-debate-democratico-apuesplan-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/QOBK74OBLVE2BADWH2YRGI72OY.jpg?auth=39ea340708e3d4031fb903ecb0d40fa32715037c316f8ecf0a2a1a6eb1afd40a&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-10-16T02:03:33.000Z"
-      },
-      {
-        "title": "Senador Alfonso López Chau tras suspensión de sesión en Comisión de Constitución: “Salidas hay cuando se quiere”",
-        "summary": "El senador Alfonso López Chau (Ahora Nación) se pronunció tras la suspensión de la sesión de la Comisión de Constitución de la cámara alta, donde se debatía un dictamen sobre la delegación de facultades al Ejecutivo, y consideró que “salidas hay cuando se quiere”.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/senador-alfonso-lopez-chau-tras-suspension-de-sesion-en-comision-de-constitucion-salidas-hay-cuando-se-quiere-delegacion-de-facultades-apuesplan-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/WJLOJ4IUBBBGPEVCNHFAHMGLHQ.jpg?auth=f0e641df58d22b59a5be0a27fd80c4eb1017b0e24492523c3ec144fb1b5d7218&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-16T01:25:31.000Z"
-      },
-      {
-        "title": "María Corina Machado felicita a Álvaro Vargas Llosa por su designación como embajador en Estados Unidos",
-        "summary": "La lideresa de la oposición venezolana, María Corina Machado, felicitó al escritor y periodista Álvaro Vargas Llosa, hijo del Premio Nobel de Literatura Mario Vargas Llosa, por su reciente designación como embajador del Perú en Estados Unidos.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/internacional/maria-corina-machado-felicita-a-alvaro-vargas-llosa-por-su-designacion-como-embajador-en-estados-unidos-keiko-fujimori-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/DLIHVPBS3NAR3MLLE4DG7A2COU.jpg?auth=abae808392c624046424f80c706322b9f11f0b475840999e59d0d16cac513905&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-16T00:41:37.000Z"
-      },
-      {
-        "title": "“Grupos hostiles”, el factor DINI y otras acciones: estos son los puntos que incorpora el predictamen del Senado",
-        "summary": "El Senado debatirá el pedido de facultades legislativas del Ejecutivo. El predictamen incorpora ocho puntos al texto aprobado por Diputados, con medidas sobre grupos hostiles, herramientas antiterroristas y fortalecimiento de la DINI.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/grupos-hostiles-mecanismos-antiterroristas-y-el-factor-dini-estos-son-los-nuevos-puntos-que-incluye-predictamen-del-senado-sobre-facultades-especiales-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/HGSZQ3TWKJGQLMKCDV6KSIFD3A.jpg?auth=6043d773ba9af2a6f19314bd31a0c9ab4a20d0ea564695c82eb50e15403cdb6f&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-16T00:03:00.000Z"
+        "url": "https://elcomercio.pe/politica/gobierno/entrevista-ley-mape-viceministra-de-minas-estamos-estableciendo-un-plazo-de-18-meses-y-no-abrimos-la-puerta-a-una-nueva-ampliacion-entrevista-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/JT2ZG3TPLNAR7B47GI5VJV3ZW4.jpg?auth=e18a227b811e25ca3381a347e6a5fc379f76b4531ccfcff92653b7c23d9f8ebe&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-10-16T11:00:00.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Talento femenino en tecnología: ¿qué perfiles concentran hoy la demanda?",
-        "summary": "La transformación digital y la adopción de inteligencia artificial están elevando la demanda por profesionales especializados en tecnología. Sin embargo, mientras las empresas buscan cubrir posiciones vinculadas con Data, Ciberseguridad, IA, Machine Learning y Cloud, la participación femenina todavía enfrenta una brech",
+        "title": "Álvaro Vargas Llosa: “Que Estados Unidos quiere ganar algo en Perú no nos hará daño”",
+        "summary": "Álvaro Vargas Llosa, recientemente nombrado embajador de Perú en Estados Unidos (EE.UU.) consideró que nuestro país puede sacar provecho del reciente interés del Gobierno de Donald Trump en América Latina.",
         "source": "Gestión",
-        "url": "https://gestion.pe/peru/talento-femenino-en-tecnologia-que-perfiles-concentran-hoy-la-demanda-noticia/",
-        "image": "https://gestion.pe/resizer/v2/DTHYLLRJ2RHR5DK5Y7FUFWPRBQ.png?auth=68bbd008e87345d9ee52f74a6e4f61ad8d63cc115bc0b3a5ec5d33027dc41d22&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-16T04:32:00.000Z"
+        "url": "https://gestion.pe/economia/alvaro-vargas-llosa-que-estados-unidos-quiere-ganar-algo-en-peru-no-nos-hara-dano-noticia/",
+        "image": "https://gestion.pe/resizer/v2/OWCRNMOWRVEV5NGZTWM7LNK7DM.jpg?auth=69abc5f4f661a14c7c59c9a49a073308645e474eaa907e0adcbd8626ea8d6423&smart=true&width=1200&height=870",
+        "publishedAt": "2026-10-16T14:19:43.000Z"
       },
       {
-        "title": "Parque Industrial de Ancón “despegaría” en segundo semestre de 2027: ¿por qué?",
-        "summary": "El minisro de la Producción también indicó que esta semana se conocerá si habrá nueva temporada de pesca de anchoveta. ¿Qué información preliminar se tiene?",
+        "title": "Sol de Olmos estima una reducción de más del 40% en sus cultivos por el clima",
+        "summary": "Sol de Olmos estima mermas superiores al 40% en sus cultivos y reporta precios bajos para el ajo peruano ante la competencia del producto chino.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/parque-industrial-de-ancon-proxima-fecha-clave-sera-en-segunda-parte-de-2027-por-que-noticia/",
-        "image": "https://gestion.pe/resizer/v2/MB2VG4H5R5HVBEHJU4EJAO2SB4.jpg?auth=4f7d30aabd470c840f8ab71b787ccd028ea756b8d29a1db5c079a164735ed9c9&smart=true&width=2610&height=1672",
-        "publishedAt": "2026-10-16T03:25:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/fenomeno-de-el-nino-agroexportadora-sol-de-olmos-afirma-que-precios-del-ajo-se-estan-impactando-noticia/",
+        "image": "https://gestion.pe/resizer/v2/2EEOV6QXIZFQRAFED7BF5IENVU.jpeg?auth=f634b0edec556c3b685c516a4359d11945ca19e943702800fc30f19a0255c488&smart=true&width=1276&height=862",
+        "publishedAt": "2026-10-16T14:16:51.000Z"
       },
       {
-        "title": "MEF alista política fiscal contracíclica para evitar desaceleración frente a “tres choques”",
-        "summary": "El ministro de Economía y Finanzas, Elmer Cuba, indicó que el Poder Ejecutivo viene preparando una política fiscal contracíclica con el objetivo de evitar que la economía peruana se desacelere ante eventos externos y climáticos.",
+        "title": "Primos Chicken alista su séptimo local y replantea su chifa Kou Xin: su plan para 2027",
+        "summary": "Primos Chicken abrirá en diciembre su séptimo local, sobre la av. Benavides, y concentra en Miraflores el desarrollo de su chifa Kou Xin. ¿Cuánto proyecta crecer en 2027 y cómo se prepara ante El Niño?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/mef-alista-con-keiko-fujimori-politica-fiscal-contraciclica-para-evitar-desaceleracion-de-la-economia-frente-a-tres-choques-noticia/",
-        "image": "https://gestion.pe/resizer/v2/6T3LIYHROVALHJ5F6SECPWP5EU.jpg?auth=ff7e81e9d7063d8494572ccd1b18fc7ed2c7588d9ad95493d9cf9b9752e1cabd&smart=true&width=1600&height=1064",
-        "publishedAt": "2026-10-16T02:37:41.000Z"
+        "url": "https://gestion.pe/economia/empresas/primos-chicken-abrira-nueva-polleria-en-miraflores-y-replantea-estrategia-de-kou-xin-noticia/",
+        "image": "https://gestion.pe/resizer/v2/RIP6ZEPBVFBH5L4TTZAOMMSLHU.jpg?auth=9ba82760a783ccb400a09c5a416979a5a0dfcc657de9611944df22404edad802&smart=true&width=1440&height=934",
+        "publishedAt": "2026-10-16T11:42:51.000Z"
       },
       {
-        "title": "Imarpe: suscriben convenio para fortalecer su capacidad científica",
-        "summary": "El acuerdo fue suscrito por el Produce, el Imarpe y la Sociedad Nacional de Pesquería (SNP) para optimizar las áreas tecnológicas y de investigación de los recursos pesqueros.",
+        "title": "¿Fin del vale de pavo? Pluxee apuesta por tarjeta virtual y QR para la campaña navideña",
+        "summary": "Pluxee Perú ya suma 4,000 empresas clientes y apunta a emitir 400,000 tarjetas de Navidad, con pago QR y una versión virtual que se entrega en seis horas. Pese a El Niño, no ve señales de contracción en la demanda.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/imarpe-suscriben-convenio-para-fortalecer-su-capacidad-cientifica-noticia/",
-        "image": "https://gestion.pe/resizer/v2/ZFTP7IAKJFBTRA2DI4AP2NGILA.jpg?auth=5cacb046c22666df0a679866005efa01f8d4a24c463330086a5c4db1862ca26c&smart=true&width=1800&height=1199",
-        "publishedAt": "2026-10-16T02:03:08.000Z"
+        "url": "https://gestion.pe/economia/empresas/tarjetas-de-alimentacion-los-planes-de-pluxee-para-llevarlas-al-qr-y-crecer-en-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/DH5BCL2IAZAWJMXKEDGK6WPGTY.jpg?auth=8b23827da9bf19bb2e63091ef9ac08f6a7e1ce7fcbc7c9c7c02ce63a96d433cd&smart=true&width=1702&height=1135",
+        "publishedAt": "2026-10-16T11:42:17.000Z"
       },
       {
-        "title": "Gerente general: ¿cuándo puede perder sus bienes por errores de la empresa?",
-        "summary": "La separación entre el patrimonio de una empresa y el de sus directivos no impide que el gerente general asuma responsabilidad personal por sus decisiones u omisiones cuando estas tienen relevancia legal.",
+        "title": "La Patona: planta de oro de Nativo en Arequipa ya tiene fondos, ¿cuándo empezará a operar?",
+        "summary": "Nativo Resources aseguró US$ 3.5 millones para terminar su planta de oro La Patona, en Arequipa. A cambio, cederá una regalía sobre su producción a Chancery Royalty. ¿Cuándo empezará a operar?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/gerente-general-cuando-puede-perder-sus-bienes-por-errores-de-la-empresa-noticia/",
-        "image": "https://gestion.pe/resizer/v2/O3ZHMTNP45D2VJGQ7PZOTW4JPE.jpg?auth=93fc501f5bdfbce95d86df636f8d455e07f6bb3c0383c9c64b14b8836642a181&smart=true&width=6000&height=4000",
-        "publishedAt": "2026-10-16T01:54:43.000Z"
+        "url": "https://gestion.pe/economia/empresas/oro-en-arequipa-la-planta-la-patona-ya-tiene-fondos-y-fecha-para-iniciar-operaciones-noticia/",
+        "image": "https://gestion.pe/resizer/v2/EQPX7LSHLRCRHD3LGMYYUP4CBU.jpg?auth=b5ce1e9cb5cf68fe22d473377f17d3fe2972103d8e5f4c8c1f37f4dc0e506364&smart=true&width=729&height=421",
+        "publishedAt": "2026-10-16T11:41:39.000Z"
       },
       {
-        "title": "Petroperú subastará 8 casas de playa en Punta Sal y otra en El Olivar de 2,000 m²: ¿cuándo?",
-        "summary": "Desde ProInversión detallaron lo que será la segunda convocatoria a subasta de activos no estratégicos de Petroperú. ¿Habrán más este año?",
+        "title": "Empleo en Lima creció más gracias a empresas grandes, ¿pero con puestos de “baja calidad”?",
+        "summary": "Lima Metropolitana sigue sumando trabajadores, especialmente en empresas grandes,pero el mercado laboral empieza a mostrar señales menos favorables.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/petroperu-subastara-8-casas-de-playa-en-punta-sal-y-otra-en-el-olivar-de-2000-m-cuando-noticia/",
-        "image": "https://gestion.pe/resizer/v2/264S7GQCNRDOJGVURUBWEV4TMI.png?auth=4351d0f53a665c2a7f64ee8e0863acbe5098436e3a7163dd78df1e2fd1287e68&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-10-16T01:21:27.000Z"
+        "url": "https://gestion.pe/economia/empleo-en-lima-crecio-mas-gracias-a-empresas-grandes-pero-con-puestos-de-baja-calidad-noticia/",
+        "image": "https://gestion.pe/resizer/v2/KS3FQEZ63VFPPIZFVLOST2ICZI.jpg?auth=05e54bab1303463bf9268f8ff7bc0e0718a8fac0e3f3fd2db3b654e49f95c702&smart=true&width=1242&height=699",
+        "publishedAt": "2026-10-16T10:40:00.000Z"
       },
       {
-        "title": "Puno: MTC destraba proyecto de carretera clave para la región tras resolver arbitraje",
-        "summary": "El Ministerio de Transportes y Comunicaciones (MTC), a través de Provías Nacional, obtuvo un resultado favorable en el proceso arbitral relacionado con el proyecto de mejoramiento de la carretera Checca–Mazocruz, en la región Puno.",
+        "title": "Mercados e indicadores – Hoy viernes 16 de octubre",
+        "summary": "Para tomar las decisiones más acertadas de inversión, manténgase diariamente bien informado sobre el desempeño de las acciones de la plaza bursátil, de la variación de las principales variables del mercado financiero, así como de la evolución de los precios de los commodities. La cotización en el mercado de Londres el ",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/puno-mtc-destraba-proyecto-de-carretera-clave-para-la-region-tras-resolver-arbitraje-noticia/",
-        "image": "https://gestion.pe/resizer/v2/PBUF5XRAXZEZBISPE6OE3DBB2M.jpeg?auth=ee5c4cf0a6f884a409e3a6bd62c516dd7753d901bb02a2e40aa94d958ac15511&smart=true&width=480&height=270",
-        "publishedAt": "2026-10-16T01:13:57.000Z"
+        "url": "https://gestion.pe/economia/mercados/mercados-e-indicadores-viernes-16-de-octubre-2026-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CKBJCXWQXVCTXHZN5ZAGTM66RE.jpg?auth=c935a9816683dbd514d89311dedaf60293df727aefbd90da56a9830e4813f2eb&smart=true&width=1280&height=720",
+        "publishedAt": "2026-10-16T10:30:00.000Z"
       },
       {
-        "title": "Petroperú cerraría acuerdo para recibir US$ 2,000 millones este mes: detalles del proceso",
-        "summary": "“Hay trámites que se están desarrollando, principalmente, en Nueva York, que es donde se estructura este financiamiento”, indicaron desde ProInversión.",
+        "title": "Minem compensaría a eléctricas por mejorar alumbrado público, ¿por “silencio” de Osinergmin?",
+        "summary": "El Poder Ejecutivo aprobó un Decreto de Urgencia que apunta a mejorar la iluminación pública impulsando las inversiones en tecnologías eficientes que puedan realizar las empresas concesionarias del servicio de distribución de electricidad a nivel nacional, con el fin de fortalecer la seguridad ciudadana.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/petroperu-cerraria-acuerdo-para-recibir-us-2000-millones-este-mes-detalles-del-proceso-noticia/",
-        "image": "https://gestion.pe/resizer/v2/R3Q6T73X25AS7H7I5GT2BD6V6E.jpg?auth=edd34ecbd78af93f649e0f9afbd9bf9e1787ef631f516bd03e078c50f0612a13&smart=true&width=1200&height=675",
-        "publishedAt": "2026-10-16T01:02:22.000Z"
+        "url": "https://gestion.pe/economia/minem-busca-asegurar-compensacion-a-electricas-por-mejorar-alumbrado-publico-noticia/",
+        "image": "https://gestion.pe/resizer/v2/4V3P2ZLZ3FB6RLFENNVNXHXK64.jpg?auth=4aee5270c335ad89e61f71ecb62a9c2e3734dd6937f4fa880cb04e202e7b4941&smart=true&width=630&height=355",
+        "publishedAt": "2026-10-16T10:30:00.000Z"
       }
     ],
     "sociedad": [
@@ -526,18 +526,18 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
-        "title": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más informació",
-        "summary": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; Facebook",
-        "source": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdFRtVHlGS2ZUeUplTE1XU09ickJVSlBqR0Z3VGR1cjlrTG5NQlNuOFc5Si1OVXVLclh2T3Z1VEhKV1luN09INHpaRHp6U1Z1a2dRWWVjT1NzcG1pSnN2SVJGTnBvMzhzSXFlWnVFVXhKVmZtSUF1Z19rN1Z4U1BqNU02Qjd2dWRnWnZXemlkZlZHeVMxckFPT3pLeTNUek5uVkZOZUM5ZVVGMXFISG1GUEYxTXB2TW1PaUI1QkJsMFFOQ2g3TF9pOXVBdV9UVk95ZGN2M04tNDlLNFFhc2h0UHAzWU9QaC1mOW1Nb1B0U1RGTEs5Y204ZQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-05T07:00:00.000Z"
-      },
-      {
         "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
         "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
         "source": "Diario Correo",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-05T07:00:00.000Z"
+      },
+      {
+        "title": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más informació",
+        "summary": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; Facebook",
+        "source": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdFRtVHlGS2ZUeUplTE1XU09ickJVSlBqR0Z3VGR1cjlrTG5NQlNuOFc5Si1OVXVLclh2T3Z1VEhKV1luN09INHpaRHp6U1Z1a2dRWWVjT1NzcG1pSnN2SVJGTnBvMzhzSXFlWnVFVXhKVmZtSUF1Z19rN1Z4U1BqNU02Qjd2dWRnWnZXemlkZlZHeVMxckFPT3pLeTNUek5uVkZOZUM5ZVVGMXFISG1GUEYxTXB2TW1PaUI1QkJsMFFOQ2g3TF9pOXVBdV9UVk95ZGN2M04tNDlLNFFhc2h0UHAzWU9QaC1mOW1Nb1B0U1RGTEs5Y204ZQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       }
