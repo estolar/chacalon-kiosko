@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T00:26:12.443Z",
+  "generatedAt": "2026-10-17T05:33:58.948Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -22,6 +22,22 @@
         "url": "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
         "image": "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
         "publishedAt": "2026-09-01T00:00:00.000Z"
+      },
+      {
+        "title": "Renovación Popular se declara en reorganización partidaria: ¿A qué se debe y cuáles son los alcances de la decisión?",
+        "summary": "La medida deja sin efecto las credenciales de los coordinadores regionales, provinciales y distritales, cuyos desempeños serán evaluados tras las elecciones de 2026.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/renovacion-popular-se-declara-en-reorganizacion-partidaria-a-que-se-debe-y-cuales-son-los-alcances-de-la-decision-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/ML4TNTIFKNGJ3DCHTGK4MZUFRU.jpg?auth=227d635dceec7864ac15b79745256bdcf0358e365a88a2b5949b47353b340ae2&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-17T05:01:00.000Z"
+      },
+      {
+        "title": "Facultades legislativas: Senado sigue sin alcanzar consenso y debate continúa entrampado",
+        "summary": "El pedido de facultades legislativas del Ejecutivo continúa entrampado en el Senado por falta de consenso. La Comisión de Constitución, presidida por Carlos Mesía, busca una salida tras la falta de quórum y las discrepancias sobre los cambios al predictamen. El Gobierno insiste en que las 20 facultades aprobadas por la",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/facultades-legislativas-senado-sigue-sin-alcanzar-consenso-y-debate-continua-entrampado-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/A76CIE2DRVGJRP7Q5MND3TY22E.jpg?auth=12e00de6092118d0e1c8cc78dd60789daa4387ef5e4cea951b67ab96ac6c9b12&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-10-17T05:01:00.000Z"
       },
       {
         "title": "Viceministra de Minas: “Estamos estableciendo un plazo de 18 meses y no abrimos la puerta a una nueva ampliación”",
@@ -62,32 +78,24 @@
         "url": "https://elcomercio.pe/ecdata/elecciones-2026-la-dispersion-del-voto-crecio-en-las-ultimas-elecciones-municipales-en-lima-metropolitana-cuantos-distritos-y-que-zonas-apoyaron-a-los-alcaldes-ganadores-rafael-lopez-aliaga-carlos-bruce-francis-allison-onpe-jne-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/QOOJFCDYQJGHXNXBZ6TZP3I27Q.jpg?auth=242e8b6ee7cb83ce4e935e033284dc16b20c9f7538e812f1dc5f965a276fd713&smart=true&width=1200&height=800",
         "publishedAt": "2026-10-16T19:30:00.000Z"
-      },
-      {
-        "title": "Ausencia de senadores de izquierda y aliados frustra debate y votación de facultades: los entretelones de la sesión",
-        "summary": "Una nueva y accidentada sesión de la Comisión de Constitución del Senado se vio frustrada este jueves luego de que representantes de las bancadas Juntos por el Perú, Ahora Nación, el Buen Gobierno y Obras abandonaran la sala Miguel Grau cuando estaba previsto debatir y votar el predictamen que delega facultades al Ejec",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/bancadas-de-izquierda-y-aliados-frustan-debate-y-votacion-de-facultades-los-entretelones-de-la-sesion-de-la-comision-de-constitucion-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/IWEWNH2AJZHCHBW67BFPYNHNOM.jpeg?auth=48e99da0e735eb820b9f8f1f091902afa6673d381ddb525c9829aeadfa46e061&smart=true&width=1280&height=853",
-        "publishedAt": "2026-10-16T18:32:36.000Z"
-      },
-      {
-        "title": "Keiko Fujimori pide unidad ante fenómeno El Niño: “Esperemos que este mensaje llegue también al Congreso de la República”",
-        "summary": "La presidenta de la República, Keiko Fujimori, hizo un llamado a trabajar en unidad para prevenir los daños que generará la llegada del fenómeno El Niño. Estas declaraciones ocurren en medio de la expectativa en el Senado sobre el reinicio del debate sobre el pedido de facultades legislativas con reclamos de la oposici",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-la-unica-manera-en-la-que-vamos-a-poder-salir-adelante-es-trabajando-unidos-fenomeno-el-nino-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/EDQSMQRBQBFL5GGB657OZ2FSZA.jpg?auth=9faa08d8316d0593096612d7d8fcdcbdcf7d685b79bcafe2d2e287c81174ae27&smart=true&width=800&height=592",
-        "publishedAt": "2026-10-16T17:53:21.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Sunat va tras S/ 1,060 millones de deuda tributaria: ¿a quiénes interviene en Lima?",
+        "summary": "La Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat) inició una campaña de cobranza coactiva para recuperar S/ 1,060 millones en deudas tributarias pendientes de 1,354 contribuyentes con domicilio fiscal declarado en Lima.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/sunat-va-tras-s-1060-millones-de-deuda-tributaria-a-quienes-interviene-en-lima-noticia/",
+        "image": "https://gestion.pe/resizer/v2/G4N5SQZ3YZELREVHOXNZ5XGDAU.jpeg?auth=11097346cdf754c3a1cc3fe9422648712fcd35dc29de2ecc01e170a4997b05fe&smart=true&width=1600&height=1361",
+        "publishedAt": "2026-10-17T04:28:00.000Z"
+      },
       {
         "title": "Primos Chicken abrirá nueva pollería en Miraflores y replantea estrategia de Kou Xin",
         "summary": "Primos Chicken abrirá en diciembre su séptimo local, sobre la av. Benavides, y concentra en Miraflores el desarrollo de su chifa Kou Xin. ¿Cuánto proyecta crecer en 2027 y cómo se prepara ante El Niño?",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/primos-chicken-abrira-nueva-polleria-en-miraflores-y-replantea-estrategia-de-kou-xin-noticia/",
         "image": "https://gestion.pe/resizer/v2/NDNIYXWMNNHMVHOKQWQK32LH4Q.jpg?auth=41b0e7635a3f8891856392923af223b79ec226bef9d3a3074f441b1b47328960&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-16T23:51:14.000Z"
+        "publishedAt": "2026-10-17T03:31:43.000Z"
       },
       {
         "title": "Tarjetas de alimentación: los planes de Pluxee para llevarlas al QR y crecer en 2027",
@@ -95,7 +103,7 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/tarjetas-de-alimentacion-los-planes-de-pluxee-para-llevarlas-al-qr-y-crecer-en-2027-noticia/",
         "image": "https://gestion.pe/resizer/v2/ZPSNC72WANBH7F6QMJFCEWCNGA.jpg?auth=b6080af2ec6ac5d03d1cc32b19308b0f1b7f63789e2b9e1f3c88f56bbd1e2692&smart=true&width=864&height=460",
-        "publishedAt": "2026-10-16T23:50:25.000Z"
+        "publishedAt": "2026-10-17T03:31:20.000Z"
       },
       {
         "title": "Oro en Arequipa: la planta La Patona ya tiene fondos y fecha para iniciar operaciones",
@@ -103,7 +111,7 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/oro-en-arequipa-la-planta-la-patona-ya-tiene-fondos-y-fecha-para-iniciar-operaciones-noticia/",
         "image": "https://gestion.pe/resizer/v2/YYEHPXI3S5A3RBLDQINPY7X5SM.jpg?auth=e5e9ad6797e7d334231c73d9aad62dd870f56818997570f141e7867ba3ad64c0&smart=true&width=738&height=414",
-        "publishedAt": "2026-10-16T23:50:13.000Z"
+        "publishedAt": "2026-10-17T03:30:54.000Z"
       },
       {
         "title": "¿Marcar asistencia por WhatsApp?: la firma que crece 50% y ya entró a universidades en Perú",
@@ -111,7 +119,7 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/marcar-asistencia-por-whatsapp-la-firma-que-crece-50-y-ya-entro-a-las-universidades-en-peru-noticia/",
         "image": "https://gestion.pe/resizer/v2/KC7GJFHNNJBZTHUIV4BRYE4ZNA.jpg?auth=c63495fde0bc84d3e62436db1bb52f3608b257a529226219ced7f3eaa046e028&smart=true&width=738&height=414",
-        "publishedAt": "2026-10-16T23:50:01.000Z"
+        "publishedAt": "2026-10-17T03:30:36.000Z"
       },
       {
         "title": "Boticas Perú llevará su marca propia a Wong y Metro: el plan de la cadena para 2027",
@@ -119,7 +127,7 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/boticas-peru-duplica-su-stock-por-el-nino-y-reorden-su-red-con-foco-en-provincias-noticia/",
         "image": "https://gestion.pe/resizer/v2/M3LUGQ3N6NBKRIPE5SQZOX3LGQ.jpg?auth=c43c2cdfa971cba97dfd227adf2d61ff5fcf8db8e30f4ebe9b024d4d51e15101&smart=true&width=640&height=480",
-        "publishedAt": "2026-10-16T23:49:45.000Z"
+        "publishedAt": "2026-10-17T03:30:08.000Z"
       },
       {
         "title": "SBS Librería se blinda ante El Niño: así prepara la campaña escolar 2027 y su expansión",
@@ -127,23 +135,15 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/sbs-libreria-internacional-se-prepara-ante-el-nino-y-alista-su-expansion-para-2027-noticia/",
         "image": "https://gestion.pe/resizer/v2/ODPVIAMRXJG2NI3Q4GJZ33RRDM.jpg?auth=2cbff8c7bfd9b2b2837b5f2a25179f123bf2f283e241c456ef0d93722aeff0c2&smart=true&width=683&height=400",
-        "publishedAt": "2026-10-16T23:49:30.000Z"
+        "publishedAt": "2026-10-17T03:29:49.000Z"
       },
       {
-        "title": "Sunat va tras S/ 1,060 millones de deuda tributaria: ¿a quiénes interviene en Lima?",
-        "summary": "La Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat) inició una campaña de cobranza coactiva para recuperar S/ 1,060 millones en deudas tributarias pendientes de 1,354 contribuyentes con domicilio fiscal declarado en Lima.",
+        "title": "La IA impulsa el comercio mundial: productos tecnológicos explican el 76% del crecimiento",
+        "summary": "Durante el primer trimestre de 2026, los productos vinculados a la infraestructura de inteligencia artificial (IA), como los semiconductores y los equipos de transmisión de datos, explicaron el 76% del crecimiento del intercambio global, frente al 42% registrado un año antes.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/sunat-va-tras-s-1060-millones-de-deuda-tributaria-a-quienes-interviene-en-lima-noticia/",
-        "image": "https://gestion.pe/resizer/v2/G4N5SQZ3YZELREVHOXNZ5XGDAU.jpeg?auth=11097346cdf754c3a1cc3fe9422648712fcd35dc29de2ecc01e170a4997b05fe&smart=true&width=1600&height=1361",
-        "publishedAt": "2026-10-16T23:28:30.000Z"
-      },
-      {
-        "title": "Minem compensaría a eléctricas por mejorar alumbrado público, ¿por “silencio” de Osinergmin?",
-        "summary": "El Poder Ejecutivo aprobó un Decreto de Urgencia que apunta a mejorar la iluminación pública impulsando las inversiones en tecnologías eficientes que puedan realizar las empresas concesionarias del servicio de distribución de electricidad a nivel nacional, con el fin de fortalecer la seguridad ciudadana.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/minem-busca-asegurar-compensacion-a-electricas-por-mejorar-alumbrado-publico-noticia/",
-        "image": "https://gestion.pe/resizer/v2/4V3P2ZLZ3FB6RLFENNVNXHXK64.jpg?auth=4aee5270c335ad89e61f71ecb62a9c2e3734dd6937f4fa880cb04e202e7b4941&smart=true&width=630&height=355",
-        "publishedAt": "2026-10-16T22:52:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/la-ia-impulsa-el-comercio-mundial-productos-tecnologicos-explican-el-76-del-crecimiento-noticia/",
+        "image": "https://gestion.pe/resizer/v2/OWKSKV46OFFCZKBXH65XYK3ZXY.jpeg?auth=94356b5d9c6a71ba9b7c2e486fb7f0d31cf0fd4732927bf8bacc10640bb5daee&smart=true&width=1440&height=962",
+        "publishedAt": "2026-10-17T03:20:00.000Z"
       }
     ],
     "sociedad": [
@@ -336,15 +336,39 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
-        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - Revista Minería & Energía",
-        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; Revista Minería & Energía",
-        "source": "Revista Minería & Energía",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNGRFXzc5Skp6cnFkd0Zfbmt3NVpwcC04eXJaekp6Z094a096R013M29yQ3hTUlFzRFF6eTE5SUZ0VHhLQjVEdTFIRlIyUERGM09nTzVZZHNXdmFVR3RITDF3X2RTeUdNb3FnT2otTUlBeGh0TUtKQWFzcURMY1JCMEhSdzM3cnpuUnBrUkh2TEpJOWZOMGY3bkkzTmE3RlY2YjJ3S0dZdVRqdFRBcDN3RFl4blQxeGVuTnM5WHVDRjdmUG1JZExSam9hLU8?oc=5",
+        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - Instituto de Ingenieros de Minas del Perú - IIMP",
+        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; Instituto de Ingenieros de Minas del Perú - IIMP",
+        "source": "Instituto de Ingenieros de Minas del Perú - IIMP",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRE5fZ3JJNF84QkRUbkg3dVFHbWlZbER1STBIYXZMdlU4VnUtYlo5MnROakM2RE1JNC1CbGswOVUyZG1iUWxDeTAtRzY0aEJLY1d3bFdRMlJ1elE5Qmp1UGx0S2I4LWdlSF9SQi1ZSVFveEJwRE1iakhBVTMtUEthOXZyVU1TdlM1dFNNR3ljb3hrR0pBNWpJWTlHUWFzbU1jNWtXVndDclN0Ul9RNGZwSHh6aVpxWWRtNWRnUk1xMHhIVU10NWx3RTQ3QXVyc3BIYm4zTDJXbl8?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       }
     ],
     "ia": [
+      {
+        "title": "Cancillería presentó agenda de APEC sobre inteligencia artificial en evento tecnológico - notiecuador",
+        "summary": "Cancillería presentó agenda de APEC sobre inteligencia artificial en evento tecnológico &nbsp;&nbsp; notiecuador",
+        "source": "notiecuador",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWk4xTl9jLWtueGRnNXQ1NVpBaElYMDBYQkJtM2thT2FXMGUyMUxWRDIwQmhyWklrNl95RlB2MUxYbDVGa1F2dlBFbEY3eE9Ia2JrdWJ3T3R3T3NuaGxad2VVWEUzd1RiVWJqOUxydEIxekc0SWczd0I4U3U1WGNRdUhDbzJJZE1TYmdZQUxxSWZFeGQzZm80cU9UTnBUOUNHRjZsd1JMcDRRdktCYVpQTDJQN1MzZ085ZTEzRmw3UzBkVE1qX1RmbEhmc2czTUpWOUt1YWdsZ3E?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-17T01:45:32.000Z"
+      },
+      {
+        "title": "Gemini 4 Argon, la nueva IA de Google: ¿cuáles son sus funciones? - La República",
+        "summary": "Gemini 4 Argon, la nueva IA de Google: ¿cuáles son sus funciones? &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNGhnZXlzNzRRWHBfdlV2V0VvWnBTdXVSX2wzZk8wdTlOSGxMLTRId1hleEYxSFNWSGF6VTdMUmpUMmZqa1FrSUxJeDRUWkdVRTBocTRVd3hYZ2EydlZMSUx4bG1XdlZZMDJsc3hzTmpZZGtkZ0pPdVQtYVRjb1pwMmp2aHVRMEtBbEc3cVpsRHBXWExnMzRzN2t0cHNrSFYyQzk1YTAwQ1Zuc1Y1Y1FyV3VnQTFiMnRwbUx2MjU4RnUyQ2prNGRZWkM3d3FpTkwtdWhJZExCbTJxVVE?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-16T23:32:08.000Z"
+      },
+      {
+        "title": "Huancayo tendrá festival tecnológico gratuito con talleres de inteligencia artificial y programación - La República",
+        "summary": "Huancayo tendrá festival tecnológico gratuito con talleres de inteligencia artificial y programación &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM2R2b2RpV0tsVHB0dDZUT3FMYzVLQWFDT3B4WllLeDRRLVM3QkY2cUZBZkNiZEdmQ2w5UDExLUk2T3JNbFNNd2xwcFpoY3lZV1dsN2QxbDhrZzJhTEl0eURuNmpnT1NPRjFXeF9QQ0VveEhqN2NjaFNPTXlFWllVYnozeVdnMHo4TFNTTWptMWxVSGlueGxEY0NRODI2T0lfRGV4NFF6eUNKSnVRMXliUmlWbmRwNFk4dWtDMWJrdHJKNUZ0emlTY01oLWxnQmdhX0VqYjgtMDA5QmowdTdsalM3bkc5T293S1hHYy1PRmpTOGV5OVo3MTV3eVBTYm5KUVlnOXpyd296ZGFpVWU2QVM3TF80RXpv?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-16T18:41:00.000Z"
+      },
       {
         "title": "Un coach de IA para cada profesor: así llega Muyu Education a Perú tras el retroceso en PISA 2025 - altavoz.pe",
         "summary": "Un coach de IA para cada profesor: así llega Muyu Education a Perú tras el retroceso en PISA 2025 &nbsp;&nbsp; altavoz.pe",
@@ -384,30 +408,6 @@
         "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQbW0tdEdqMHU1VjFvLVl5TURURUhDSnI0Q0thbjJCOTc2TGRzMTcwMW1wazlIcUREQ1RsaTA2SUN2bVlwVWdQdUNEUkFFYlBOdDhkcElzTFFzVWZBRDAyUHJFVEN4b0tzbE5KMmM4eGdURVJ5U2s4QVZFUXUycVlHODYtUFJMckZIUHoyU2p3NGNwZ0hQa09BQXhKaUVvdUJ0OUtVcWlMdHZJeXlaaWJxZEd3SlgyMmt3T2E3X0pYdGMtZEp3SDJvWEtvUHd5T3YtWUlNWHdYT0VBRmlsVTBJbi04amdTeHdPbC1GcTM5c3MxdXFEV1hPbHpydThOcHJCRDRBaXAzdUxqUQ?oc=5",
         "image": "",
         "publishedAt": "2026-10-07T07:00:00.000Z"
-      },
-      {
-        "title": "La IA llega al café peruano: reduce 77% el tiempo para evaluar la calidad del grano - AgroLatam",
-        "summary": "La IA llega al café peruano: reduce 77% el tiempo para evaluar la calidad del grano &nbsp;&nbsp; AgroLatam",
-        "source": "AgroLatam",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeVREdGhkSk9WZGYtMGZpS003Yk1rU3ZOYUY0Wk5lN01YUi03X1ZxcU1PZnNEYnRfMEtyOTVpVjdlMVIySEtuMU0ycVVPREIzazkwWllvZzZwQzcyclpESWZvUnFnYUdhd0hqd1c4QW81ZUFlbG5vc2R3YTZaYldvYVJSdXdFa3FnZWszaFNZVTFxanhkczdyRmFfWVRITi1uNHExY05pZ19wd19BQmRjd1VwcDNVcXdNZHRUU1dRSXVnLWVhUlFOMA?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-06T17:37:46.000Z"
-      },
-      {
-        "title": "Perú mira a la IA como amenaza al empleo: país es el más preocupado de Latam por impacto - Revista Minería & Energía",
-        "summary": "Perú mira a la IA como amenaza al empleo: país es el más preocupado de Latam por impacto &nbsp;&nbsp; Revista Minería & Energía",
-        "source": "Revista Minería & Energía",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGVPQVJ4SUJNQ3NQZERmUVJjdmN4ZGhBSHV2Zms3M0ZJVnRsRzEtM3BOQkpJTkhqM0RtVmNKSnJ5YWRIOVZPOUtnTDB6RC1rbmRQSHI1MU8zRVVqMEhkT1JmSzRzYU5xME5zMGRVTVdKekZPZUJZdHMzQmFvSU5ER2JIdTZBTGR3cU5hN1BUcXJDMGpwcExqZ0p2OUQ5OWJVU29vQWpfNXFacF9PUGk3cXVQNEVBUQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-02T21:37:40.000Z"
-      },
-      {
-        "title": "Ingenieros de Perú crean 'Pulso', tecnología con Inteligencia Artificial para rescate humano y ganan concurso de Google - La República",
-        "summary": "Ingenieros de Perú crean 'Pulso', tecnología con Inteligencia Artificial para rescate humano y ganan concurso de Google &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOejlpWFhZZHJTOENlcHlrbG1PZmVxT3hEdHJZR0o0SHQ1QVBCTkMtZl93X0syeHM3U1RGT18xaXFVb2FKWm5USFZDbFVucGgxRThfY296T1JwVmM1Y0Q1eEF1S05ETE1faklDM1d0N254WXdHYVVld3B0ejlaVzRubERfdUdjOWZfdVVtRzFBZWNNMGFxcklKdzFSNmQxYWtHR0VsaFQ2czFaU1pFVGhIZHpmbTIzMVVXTlI0aF9fTUZFSGtrbDEwUE9FYnBLa2pGaldLanJ4Sk9vbUhoSW1Sc2tiQlZRaWVyQk1ETGwxOA?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-01T23:57:16.000Z"
       }
     ],
     "tendencias": [
@@ -478,6 +478,14 @@
     ],
     "farandula": [
       {
+        "title": "Conciertos en Perú 2026: lista de artistas que llegarán a Lima, fechas y dónde comprar entradas - La República",
+        "summary": "Conciertos en Perú 2026: lista de artistas que llegarán a Lima, fechas y dónde comprar entradas &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNkhLSXNGS3ZXcWUzcFh5eGpQM3h0ZUxDYXVtRXlXc0pVeVM3c19IU2E2cmdvZ2llZmVXQkxKME9HUkJyMmRsUEdlb3I5dmk0UGhuWWJPRVlSRGlIZGFGVFpSWWxRN2hJazdaaWxXbHpWQjVjNkh1eGFEYm1udEFEWkVTUFR3ZXgxWEVIdUd1QlVPSTZUa3VjREhQUDJ4OE1wS2V3RGxsbHVQWTdRX1gtNV9ibzB5Yk15RkZPZlF0cUlpMF9jcTFKRTdidEtjNXdkOTFvM3p0Z2NyUFI5UEQzcGtPWEJHak13UTRLRWFwVE1NMWdxVEUwWDZ1WnJVY2k2WllXT2U2RlhQbXlYLWYyQlZIQVpPbC05b2wwWUUzb01CYTDSAagCQVVfeXFMTlUyQXAxei13aVQwbmNabDBUdU9QSWM3Tm5CSmNvZVJTRDFzZUxpb3E2M1R5OUFyNXNudDhka2RHNVJ5bE1YS0dWNmFZWVgtSnlWUWR5enRUOTJxaHIzNkNMNkU3Z0llUy1Yb25YOGloZnJCOU5YbmlvMFlwSDA1UUVpLTNUR1NHS3psZzNYenM0NFNrVkotVWtlNWVXekV6Ty02Qngxcy1QX29hMTFPMTBqMkY0VEsyVU9pVl8tMlNNVVByOTR3V2N0YXB3eXdKbjc3cHFHX1hsdWhEYVQ4S0oxdVUtdDk0dlE4SVI3NW5PUzcyUzVSUWhrOVl1a19yWGdlUE9iS3RibHk2REpKNHp6TEdXZUN6aU1pcml3V2dnd2VyTVNPaXg?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-14T16:57:31.000Z"
+      },
+      {
         "title": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS - Trome.com",
         "summary": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
@@ -532,17 +540,17 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
-      },
-      {
-        "title": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más informació",
-        "summary": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; Facebook",
-        "source": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdFRtVHlGS2ZUeUplTE1XU09ickJVSlBqR0Z3VGR1cjlrTG5NQlNuOFc5Si1OVXVLclh2T3Z1VEhKV1luN09INHpaRHp6U1Z1a2dRWWVjT1NzcG1pSnN2SVJGTnBvMzhzSXFlWnVFVXhKVmZtSUF1Z19rN1Z4U1BqNU02Qjd2dWRnWnZXemlkZlZHeVMxckFPT3pLeTNUek5uVkZOZUM5ZVVGMXFISG1GUEYxTXB2TW1PaUI1QkJsMFFOQ2g3TF9pOXVBdV9UVk95ZGN2M04tNDlLNFFhc2h0UHAzWU9QaC1mOW1Nb1B0U1RGTEs5Y204ZQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-05T07:00:00.000Z"
       }
     ],
     "cultura": [
+      {
+        "title": "Agenda cultural en Lima 17 al 24 de setiembre: Robbie Williams, 'La Cabaña', 'La mujer de negro' y el Festival de la Luna se imponen - Infobae",
+        "summary": "Agenda cultural en Lima 17 al 24 de setiembre: Robbie Williams, 'La Cabaña', 'La mujer de negro' y el Festival de la Luna se imponen &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOajlpTHJUcnhPRlNzcnlPYV9qbVJJR3pUZ19sN3Z4bWJtZ2xHTkhaWjZPVi14cjE3NHRCQ1ZWeHFWT0w4cnJCbzNwOXFnUWNIOTc5aWpUSy1xdHBZZWVyZzltM1lRTE1ia1kxNVFfRDVDUnFYSGptSjQ1bTdPQ0R3WE15Z1hILVlFV0txS05BaW04dUFqVk05YkVBdmNXTm5xcDFucGk3M29jaF9yUnFxa3cwY0RPUldLaEdxdnNmMVZzR3AxZ2tDU1FPU3o3T3hTcFgxRjVXc1AtQzB6ZWhSUG5jWjAtNng4N0lnQV9JNlZGNlhOcjB5TTlR0gGUAkFVX3lxTE5HY25QVmNINl9QU3c0WHdkTEw5ZWx4SWREOXJ1d3o3N3lORVV0aHZUbnl5X3ZvWEFxbW0ya0tVcmFFejlmWld0NnQ5Qm0xMXE2ckNBVE5FY1VWQ1REdWxlVEtuU0hyNFF1aXIxcnNsa0dfZm9yejM1cXVmcWpYT2hxOTNGeEdGcy1XTThVc1JQdGtFQ0pscHJpSWFqYVFCeVpIbmhodGk1eGtaaGJUODlwTnFMMVhEOHlhU1gzZXgyVF9Wbm10dkxZTERIZXVobnJielZXY3dWVGNoeUh0VnozRDJ0dDdNM0FlOHpYQnhqcG9qN3hDQlB1blN1MFczQ2piQXl2bnI5aDQxYmhFcDIxQTFZZw?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-17T07:00:00.000Z"
+      },
       {
         "title": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA - Infobae",
         "summary": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA &nbsp;&nbsp; Infobae",
@@ -598,14 +606,6 @@
         "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTTZDSUpUY3djZ1R3U0lOUzRLVVV6OGFpNGZvRm83N0dTV2VlclhHT3U5YlVzX1NLMUFzdUx4cHZrX2FhdGhDeGtYOWZwZ1VyUnZiZEIxRUw5NmhZUG93WHZJNUFHUzRTMHBtVTRQUE91OFprb1NlMXhsbkF5ZHZINWxweFVsVzRJZlpUcFI2Mks5andzSTgwNVhUZXJsaVl5bUhrMXFLX0JMWDgtNEtWbW92YXVBS19kQ1dYS1hqSEt4YVpnaFNqeFVHQzhqbVBIZnFnUEcyOXdqUnFZNllOZG5aVjlsbUtlV21JZ21aTjRkNlNyOEYwZnVhbnhSdDNadVRZbUNvYjPSAaMCQVVfeXFMT0lVVzhVeG9mNGZBb2diQW9Bd1ItVlppWDFzMmt4eDAyY1ZYMjVQUWpzN2hzMGpfR3RqRGhVS3NGZm04ZlBnaGxsUXozY1o1ZlFkWjl3aElHZjAyaWo0SDR1VU5SM09KSm1HWkRTeDlSa1Z5bGVpZS0yN0s2cVYxRFBvUjRwZHV1eHFnbUx0RlRaLUdSU0JPWmdSY0V2SXE0QUpFbGlCa3JtOE0tOHNCMWlsV19wTi1ienIyLTdubnJCUXQ0T2xkSTluVENhVENBeEcwZVM4NlZjS2IwS3NhbTRNQ3d0cFlLd3JWakw2Wl9YbTBkcGowYkVYU2NKbVl4eXdVa2FNZ3FlVVNpejg4T1FQaUxmZlR2Rk9idk9RLVV4cmtB?oc=5",
         "image": "",
         "publishedAt": "2026-08-21T07:00:00.000Z"
-      },
-      {
-        "title": "Agenda cultural en Lima del 13 al 19 de agosto: lo último del Festival de Cine PUCP, ópera y ballet, salsa, teatro y exposiciones gratuitas - Infobae",
-        "summary": "Agenda cultural en Lima del 13 al 19 de agosto: lo último del Festival de Cine PUCP, ópera y ballet, salsa, teatro y exposiciones gratuitas &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVEN4R0wzbk9BVWZvS0JOOS1TcXR1SkFWTzVHbEhDM0hjYzBaX056STYyZkgybnR1VDc0VEl3WWZjeE01ZkEtUGl4OHZoOWxEcDd0WFdGbnJsanpXS0lNOW1rR0ZPcm9YcHVORFYyRE5PYXpiYVpVdWtOeWFPN1Y5QmJUeGMxSVZ5YWZnb3VoT0VyelEtLUtDM0pRam9zOFlIWEpOZUxUUjFBSl9YZXlUSFJqenRuaE5LR0RqRGQyck50NFdxaV9nMi1KSmRFMVFNZ2c0Z0dhUzd2aU4yOGZyb20wNFQzR0pRaUxtWTZsRkMtbTVzNnhnZk13N3FHNlJlbkdmOXByRdIBogJBVV95cUxNSzdWSFA0MnYyRkhjdGRKRnVsUDlOUzZobWxGUGw2T083NG41MUVmX1ZObGpOZjcyLVRQTGg2NV9ObXJhSUtRQ3VVS2wzRUtxaFdocUozSEJPeHZXc2JabzhENS16QXZFYVVmY0ltS3BocnJTZEFLeVhOMHdXUWY4LWpFc3FzRWU3RndwYjZ5d1FLX09vNFBnemc1aldIN0tyUEE3NzJpZmwxOEN2Wmdpc1RBUU5uVXRVRTZNUzdsMW5oVmVJYUdZc0hLdG00S1o0TVB3NzlsSm8xTC1kMmo0SXNRTVhNUzFYaUYzd1dRRi1OVmprRlVMd1IxcG11Z1JqSElMMGc0QkFKQmxOYVlfUUJOd0IzbWtsa3h4RWNVQTFfdw?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-13T07:00:00.000Z"
       }
     ]
   },
