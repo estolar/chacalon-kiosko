@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T14:11:09.620Z",
+  "generatedAt": "2026-10-17T17:07:24.340Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,12 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Alfonso, ¿ahora qué?, una crónica de Fernando Vivas sobre López-Chau, líder de Ahora Nación",
-        "summary": "El líder de Ahora Nación y portavoz de su bancada de senadores, Alfonso López-Chau, quiere contentar a todos. Su bancada, con fuertes personalidades divergentes, suele votar partida.",
+        "title": "De Gregorio Santos a “El lunarejo”: más de 8 mil condenados solicitaron el indulto presidencial en época electoral",
+        "summary": "Entre los solicitantes se encuentra Gregorio Santos, exgobernador de Cajamarca, condenado a 19 años de prisión por corrupción. El exlíder del Movimiento de Afirmación Social (MAS) presentó su solictud este año y actualmente se encuentra en trámite. Este Diario se comunicó con su abogada, la doctora Cyntia Cornejo Arist",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/alfonso-ahora-que-una-cronica-de-fernando-vivas-sobre-lopez-chau-lider-de-ahora-nacion-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/HS7GG6BZKNAYFHKCBZ3EU5DF6U.jpg?auth=7a89aca952d4d218802a7d1d04116c333390814798413765388c92e0b3a0bfba&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-10-17T12:58:33.000Z"
+        "url": "https://elcomercio.pe/politica/indultos-presidenciales-lista-gracias-presidenciales-keiko-fujimori-gregorio-santos-walter-aduviri-abencia-meza-fernando-zevallos-lunarejo-inpe-comision-de-gracias-presidenciales-minjus-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/DIXXQCEFGFHJVAZEI3EXZ2MFAQ.jpeg?auth=2eaac9022d83a1211fccc7209bcdce5f523f99d51cf0884552739741aee2d398&smart=true&width=5000&height=2696",
+        "publishedAt": "2026-10-17T15:11:17.000Z"
       },
       {
         "title": "Renovación Popular se declara en reorganización partidaria: ¿A qué se debe y cuáles son los alcances de la decisión?",
@@ -37,7 +37,15 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/renovacion-popular-se-declara-en-reorganizacion-partidaria-a-que-se-debe-y-cuales-son-los-alcances-de-la-decision-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/ML4TNTIFKNGJ3DCHTGK4MZUFRU.jpg?auth=227d635dceec7864ac15b79745256bdcf0358e365a88a2b5949b47353b340ae2&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-17T12:58:03.000Z"
+        "publishedAt": "2026-10-17T15:11:04.000Z"
+      },
+      {
+        "title": "Alfonso, ¿ahora qué?, una crónica de Fernando Vivas sobre López-Chau, líder de Ahora Nación",
+        "summary": "El líder de Ahora Nación y portavoz de su bancada de senadores, Alfonso López-Chau, quiere contentar a todos. Su bancada, con fuertes personalidades divergentes, suele votar partida.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/alfonso-ahora-que-una-cronica-de-fernando-vivas-sobre-lopez-chau-lider-de-ahora-nacion-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/HS7GG6BZKNAYFHKCBZ3EU5DF6U.jpg?auth=7a89aca952d4d218802a7d1d04116c333390814798413765388c92e0b3a0bfba&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-10-17T14:58:00.000Z"
       },
       {
         "title": "Facultades legislativas: Senado sigue sin alcanzar consenso y debate continúa entrampado",
@@ -45,15 +53,7 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/facultades-legislativas-senado-sigue-sin-alcanzar-consenso-y-debate-continua-entrampado-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/A76CIE2DRVGJRP7Q5MND3TY22E.jpg?auth=12e00de6092118d0e1c8cc78dd60789daa4387ef5e4cea951b67ab96ac6c9b12&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-10-17T12:57:42.000Z"
-      },
-      {
-        "title": "De Gregorio Santos a “El lunarejo”: más de 8 mil condenados solicitaron el indulto presidencial en época electoral",
-        "summary": "Entre los solicitantes se encuentra Gregorio Santos, exgobernador de Cajamarca, condenado a 19 años de prisión por corrupción. El exlíder del Movimiento de Afirmación Social (MAS) presentó su solictud este año y actualmente se encuentra en trámite. Este Diario se comunicó con su abogada, la doctora Cyntia Cornejo Arist",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/indultos-presidenciales-lista-gracias-presidenciales-keiko-fujimori-gregorio-santos-walter-aduviri-abencia-meza-fernando-zevallos-lunarejo-inpe-comision-de-gracias-presidenciales-minjus-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/DIXXQCEFGFHJVAZEI3EXZ2MFAQ.jpeg?auth=2eaac9022d83a1211fccc7209bcdce5f523f99d51cf0884552739741aee2d398&smart=true&width=5000&height=2696",
-        "publishedAt": "2026-10-17T11:55:48.000Z"
+        "publishedAt": "2026-10-17T14:57:00.000Z"
       },
       {
         "title": "La dispersión del voto creció en las últimas elecciones municipales en Lima Metropolitana: ¿Cuántos distritos y qué zonas apoyaron a los alcaldes ganadores?",
@@ -82,28 +82,20 @@
     ],
     "economia": [
       {
-        "title": "No habrá segunda temporada de pesca de anchoveta: advierten paralización hasta 2027",
-        "summary": "El Ministerio de la Producción (Produce) descartó autorizar una segunda temporada de pesca de anchoveta en la zona norte-centro del litoral peruano, tras una evaluación científica que determinó condiciones biológicas y oceanográficas desfavorables para la extracción del recurso.",
+        "title": "Perú: 1 de cada 5 “profes” de secundaria tiene 55 años, ¿hay personal listo para el relevo?",
+        "summary": "El 20% de los profesores de secundaria en Perú supera los 55 años. ¿Está preparado el sistema educativo para el relevo generacional?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/produce-descarta-segunda-temporada-de-pesca-de-anchoveta-snp-advierte-paralizacion-hasta-2027-noticia/",
-        "image": "https://gestion.pe/resizer/v2/7MXJECC4JREEBBRS3TYPYEE7PY.jpg?auth=a01d5b8edcdc81a394e1d86893e397eda2a6c9b7b3e26cd952080189791c484c&smart=true&width=1080&height=720",
-        "publishedAt": "2026-10-17T13:54:28.000Z"
+        "url": "https://gestion.pe/economia/peru-1-de-cada-5-profesores-de-secundaria-tiene-55-anos-hay-personal-listo-para-el-relevo-noticia/",
+        "image": "https://gestion.pe/resizer/v2/NBVHDA6OOZE4JBEJLTFBTTUTWI.png?auth=c3b8b1dcb36611701b3ed1215c00cd86800ab80fb2e61f4a27b054570b9d74a8&smart=true&width=1529&height=1029",
+        "publishedAt": "2026-10-17T16:55:47.000Z"
       },
       {
-        "title": "Norky’s le sube el fuego a su expansión: abrirá en el Rímac y apunta a estas tres regiones",
-        "summary": "Tras un 2026 que superó sus proyecciones, la cadena de pollerías Norky’s ya tiene fecha para su próxima apertura en Lima. Estos son sus planes para 2027 dentro y fuera del Perú.",
+        "title": "Petroperú volverá a tener el 100% del Lote 192 en Loreto, tras salida de Altamesa",
+        "summary": "Petroperú volverá a tener el control del 100% del Lote 192, en Loreto, tras la aprobación de la transferencia de la participación que mantenía Altamesa Energy Perú.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/pollerias-en-lima-norkys-alista-su-regreso-a-la-expansion-y-prueba-un-nuevo-formato-de-atencion-noticia/",
-        "image": "https://gestion.pe/resizer/v2/DEWCO6AAGJHV5ACMUGK35XJKOQ.jpeg?auth=90fde525cfeb1a6477d9f6842d1a9e6f81149f1ed63bfca523c80a6a3070c232&smart=true&width=1280&height=853",
-        "publishedAt": "2026-10-17T13:30:00.000Z"
-      },
-      {
-        "title": "Sunat va tras S/ 1,060 millones de deuda tributaria: ¿a quiénes interviene en Lima?",
-        "summary": "La Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat) inició una campaña de cobranza coactiva para recuperar S/ 1,060 millones en deudas tributarias pendientes de 1,354 contribuyentes con domicilio fiscal declarado en Lima.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/sunat-va-tras-s-1060-millones-de-deuda-tributaria-a-quienes-interviene-en-lima-noticia/",
-        "image": "https://gestion.pe/resizer/v2/G4N5SQZ3YZELREVHOXNZ5XGDAU.jpeg?auth=11097346cdf754c3a1cc3fe9422648712fcd35dc29de2ecc01e170a4997b05fe&smart=true&width=1600&height=1361",
-        "publishedAt": "2026-10-17T13:23:04.000Z"
+        "url": "https://gestion.pe/economia/empresas/petroperu-volvera-a-tener-el-100-del-lote-192-en-loreto-tras-salida-de-altamesa-noticia/",
+        "image": "https://gestion.pe/resizer/v2/6V3NM4ZHYZHEXEZKVOPGQWPJWI.jpg?auth=d306b60534b197f26a75daf41e1bfd123f87053630e67926c4b38845d83b8015&smart=true&width=1200&height=669",
+        "publishedAt": "2026-10-17T16:35:44.000Z"
       },
       {
         "title": "Camposol entra a la palta de México: la jugada del Grupo DC para abastecer todo el año",
@@ -111,39 +103,47 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/camposol-entra-a-la-palta-de-mexico-la-jugada-del-grupo-dc-para-abastecer-todo-el-ano-noticia/",
         "image": "https://gestion.pe/resizer/v2/P2POVF4LSZBQNLBXLBQHP574W4.jpg?auth=e447bc9008e7744f4df5d27b0d23925f50d6046c40d93b100561f25fed17afe0&smart=true&width=1200&height=799",
-        "publishedAt": "2026-10-17T13:05:26.000Z"
+        "publishedAt": "2026-10-17T16:05:00.000Z"
       },
       {
-        "title": "Marcaje de asistencia por WhatsApp: la apuesta de GeoVictoria para captar pymes en Perú",
-        "summary": "GeoVictoria dejó de vender su control de asistencia solo a recursos humanos y salió a buscar al gerente de operaciones: hoy tiene clientes que casi duplicaron lo que le facturaban. La firma chilena crece cerca de 50% en el Perú y ahora prepara su expansión en regiones.",
+        "title": "BTS: el secreto de la logística detrás de la banda que paralizó Lima por seis días",
+        "summary": "BTS: el secreto de la logística de la banda que paralizó Lima por seis días. Una de las piezas del engranaje que permitió que los concietos de BTS se llevaran sin contratiempos fue la empresa de servicios aeroportuarios Talma.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/marcar-asistencia-por-whatsapp-la-firma-que-crece-50-y-ya-entro-a-las-universidades-en-peru-noticia/",
-        "image": "https://gestion.pe/resizer/v2/XAOLJFWBENFHNOKX7CZSBRRRHI.jpeg?auth=7fb945f4c124ab3cae96b4fc981a79f3017e57b48d29b6a36ddd3faccc8853b3&smart=true&width=782&height=499",
-        "publishedAt": "2026-10-17T12:30:00.000Z"
+        "url": "https://gestion.pe/tendencias/bts-talma-revela-el-secreto-de-la-logistica-detras-de-la-banda-que-paralizo-lima-por-seis-dias-noticia/",
+        "image": "https://gestion.pe/resizer/v2/X62SDBHNE5BUJA3OS4MOILYDQU.jpg?auth=e0c6d84781291d7b022cc1e8b6b0b229378d291d6b852737cbc0bf842618dee8&smart=true&width=1214&height=800",
+        "publishedAt": "2026-10-17T15:12:13.000Z"
       },
       {
-        "title": "De Xiaomi a Oppo: el plan de Grupo QTC con tiendas de marcas y la mira en Centroamérica",
-        "summary": "Detrás de cada tienda de Xiaomi, Honor u OPPO, hay un mismo operador silencioso moviéndose en un mercado de productos tecnológicos en el cual las importaciones sumaron US$1,709 millones entre enero y julio de 2026, creciendo en 46% frente al mismo periodo de 2025. La operación retail en referencia está a cargo del Grup",
+        "title": "Mercados e indicadores – viernes 16 de octubre",
+        "summary": "Para tomar las decisiones más acertadas de inversión, manténgase diariamente bien informado sobre el desempeño de las acciones de la plaza bursátil, de la variación de las principales variables del mercado financiero, así como de la evolución de los precios de los commodities. La cotización en el mercado de Londres el ",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/grupo-qtc-operador-de-las-tiendas-de-xiaomi-y-oppo-sumara-10-marcas-mas-y-se-expandira-a-centroamerica-noticia/",
-        "image": "https://gestion.pe/resizer/v2/F2MJ775AMVB6RMVTQTREFWFZDU.jpeg?auth=1989ae25b2dc795dc9d463caa7901befec3d2a1a668e36824a70e5365a04beee&smart=true&width=1000&height=563",
-        "publishedAt": "2026-10-17T12:15:00.000Z"
+        "url": "https://gestion.pe/economia/mercados/mercados-e-indicadores-viernes-16-de-octubre-2026-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CKBJCXWQXVCTXHZN5ZAGTM66RE.jpg?auth=c935a9816683dbd514d89311dedaf60293df727aefbd90da56a9830e4813f2eb&smart=true&width=1280&height=720",
+        "publishedAt": "2026-10-17T15:00:00.000Z"
       },
       {
-        "title": "SBS Librería adelanta importaciones por El Niño para no perder la campaña escolar 2027",
-        "summary": "SBS Librería Internacional adelanta su stock a regiones para que El Niño no frene la campaña escolar 2027. En paralelo, alista nuevas librerías y un cambio en su negocio con colegios: ¿cuál es su plan?",
+        "title": "Aeropuerto de Chinchero: crece interés para operarlo, ¿qué falta para adjudicar el terminal?",
+        "summary": "ProInversión recibió cuatro cartas de intención de operadores internacionales de alto nivel interesados en desarrollar el Aeropuerto Internacional de Chinchero bajo una concesión APP.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/sbs-libreria-internacional-se-prepara-ante-el-nino-y-alista-su-expansion-para-2027-noticia/",
-        "image": "https://gestion.pe/resizer/v2/JOU2X2MLPZBWLJOLTBPFGGX2YQ.jpeg?auth=228d8102a7a5303c92e25f62cbf17b0e66e01bac69e99ff82c8bed3da521899c&smart=true&width=5184&height=3456",
-        "publishedAt": "2026-10-17T12:00:00.000Z"
+        "url": "https://gestion.pe/economia/aeropuerto-de-chinchero-en-cusco-4-operadores-internacionales-buscan-participar-bajo-el-esquema-app-noticia/",
+        "image": "https://gestion.pe/resizer/v2/EDFFUPSP2RFDHDRAHRYLG7OYMA.jpg?auth=e4066933d3d71720068cf38b2573dc0020eb48d054ffee030330e4c3da7b861a&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-17T14:53:58.000Z"
       },
       {
-        "title": "La tercera cadena de boticas tras Inkafarma y Mifarma llevará marca propia a Wong y Metro",
-        "summary": "Boticas Perú cierra locales en el país y apuesta por provincias, con la meta de superar los 500 locales en 2027. Además, prepara el ingreso de su marca propia a supermercados y duplicó su stock ante El Niño.",
+        "title": "Indecopi eliminó 4,619 barreras burocráticas el primer semestre",
+        "summary": "El Indecopi consiguió la eliminación o inaplicación de 4,619 barreras burocráticas ilegales o carentes de razonabilidad durante el primer semestre del año. Según la entidad, estas medidas generaron un ahorro estimado de más de S/29 millones para ciudadanos y empresas.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/boticas-peru-duplica-su-stock-por-el-nino-y-reorden-su-red-con-foco-en-provincias-noticia/",
-        "image": "https://gestion.pe/resizer/v2/6JUBUNXPDVA2BNW3CASGJ62OYA.jpeg?auth=d2a01d305dae41ec4c87368ffaa79a6b655c12526e92b011b3fa1ce706e4b875&smart=true&width=901&height=633",
-        "publishedAt": "2026-10-17T11:30:00.000Z"
+        "url": "https://gestion.pe/economia/indecopi-elimino-4619-barreras-burocraticas-el-primer-semestre-noticia/",
+        "image": "https://gestion.pe/resizer/v2/Y6ILSDD2GZD3TIB7D6NU4ZMKKQ.jpg?auth=8a207fe2d93c072badb14ead293fc410786325ec97fcd6736ef06dc10f290f89&smart=true&width=3960&height=2228",
+        "publishedAt": "2026-10-17T14:32:47.000Z"
+      },
+      {
+        "title": "Bolsa peruana con mejores fundamentos para invertir de cara al 2027: las acciones que destacan",
+        "summary": "Perú llegaría al 2027 con una ventaja frente a otros mercados bursátiles de la región andina. La rentabilidad de sus empresas, el dinamismo de la inversión privada y el ciclo favorable de los metales favorecerían este resultado; sin embargo, el avance registrado por la bolsa y las restricciones de liquidez en varias ac",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/mercados/bolsa-peruana-con-mejores-fundamentos-para-invertir-de-cara-al-2027-las-acciones-que-destacan-noticia/",
+        "image": "https://gestion.pe/resizer/v2/TWAE7RTMWZFKTFPAATUVXR6Z7A.jpg?auth=7255ae0b519f3d2977816570d596806d9fbdacb1b76c4ff6638180d95bbaae44&smart=true&width=1960&height=1056",
+        "publishedAt": "2026-10-17T14:11:36.000Z"
       }
     ],
     "sociedad": [
@@ -227,7 +227,7 @@
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSHllRDRMOGRoQzh2R0E1UEJ6VVBVWFlMOTVxM0dFQjdSblpNQ3NhQUkxQjB1TjRRV216UHFMbk42NVB6b2NMUnlJODZpX3lNWGdKRkd6bVZYbno1VnRqN250eXlYWXdSZDlrb3hDeENSRDVxdFdvcVVFZDhlNWZBUGRuUHNocnBkV1Q2OU1iem95SEZ6VFIzWHM0N2xvUk5jLWh0U2RSakhzcXhWWnhha3JINm5QYUg0cW1VYXVPWFg0bFZFTFlFaGlvOElnNlNRRTRMdmpaeEVFRkll0gH3AUFVX3lxTFB2U0JzMldwQ0NwalFlME5FSWZjRl85Y29ZQW5ZNmJBTWRCY2FFb193M1BUekd0RzE0MGkzeUgtaVpBUWFnSVVOR1FraEExNlFabTJuVWRnTWI2cy16ZEc1NV9XWG90WE9QZ29BTC1qVVJid01NN2lRSFdxUl9weDZvQmd6M3lWT3NNOGlQQ0ozYmZGRTdXdUFwYzhKUk1fQXJmRjNUTVNMV2stV0ROdmxUaTIyZ21mT21ISnZrc1RmWk51Qlh4YTFLbnhTMHd0NXRKMTE1dGVqeFBSUjVURGhENFB5cnozV25tYnp2enBULThQNlVhSWs?oc=5",
         "image": "",
-        "publishedAt": "2026-10-10T04:40:00.000Z"
+        "publishedAt": "2026-10-09T07:00:00.000Z"
       },
       {
         "title": "El 44,9% de peruanos no emprende por miedo al fracaso: solo dos de cada 10 planean abrir un negocio en los próximos tres años - Infobae",
@@ -304,6 +304,14 @@
         "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
+        "title": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional - Diario UNO",
+        "summary": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; Diario UNO",
+        "source": "Diario UNO",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjYxUUxNV1dqcXRBRzRyY1BNcm5UZE5abG00MVNLSWNWd2xkMVVhUkhTQVMyQ3U1dEFKeWdyTG5NX1hRRlJiTXJjRWppU2hmMnFKdXJkZHVKNW5GZWR4V1ZfZ2pBZW56T0d4Yk4zR3FJSHZEU1hYblNoZm1VQXFUYUN4RFpoRTloVF84OEt0VEtNcjBwM3JjemdQTnQtQ1dpa2tDZ0haTjg3OHNrNmtsMXdaaVBwaFpfUWhRbS04UWRFRFo5UDF2UjZGNGd4WFEwYkJLWW5GUzE?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-19T07:00:00.000Z"
+      },
+      {
         "title": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica - Forbes Perú",
         "summary": "¿País de innovadores?: Solo el 49% de peruanos lleva sus ideas a la práctica &nbsp;&nbsp; Forbes Perú",
         "source": "Forbes Perú",
@@ -334,14 +342,6 @@
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMDFmcVlvTGlkbFlZREt2amE5d0kxcmdCY3RMV2ZZOW83RE5YcWdWazZNMW1GQ2xoWk5ZaDZpVkp0SERHZ1dJbHZiQ2FGbVVKcHJlbDNyZVJsZDdEa0NvQWJXazhhbVJqRVM1enF4YU14dmFYalI5b0dkQ1VRRnQtTTZXVjkxZXhIcXBjR05rbVBKSkFnNkE5Y0t3M2JJYkJOU1duWHhNMzQ4WFNycUR1V3RkS09vaGFJYnJMUElVeEFYTERCTTRZWWFzTzZWUE5GV1NjeXFoU3Q2bzVaSDJZ0gH6AUFVX3lxTFBJTUgzQmVkeHk5OXR4ckFiX1VJRUljT3FJeVRuWnQ4c21XTUc5dXZxU2NyblExLUVMN1IzbVdUVlhjWWZGcjlySzRmMTluTXNYSHZGSlliTDhmYllHQkhWWF8tZmRFNlpUV2Ftb0VUdnpmLVNUTmE1eUYxcmwzQVRqU3NEeDZYRjRFTkxlM21YVGZETnRYWDRzOF9IbFFHRWo5RExWdzFRLUlMZ1BLaXMzY1E5WFVreUE0QlA0elRSN29TOXh1ZlRhZ1pTUXhNT09wUU1qTnZsbnM5WWRad3Jhd1JsUk1LTl9teE1hMk5jY09qTlp3WXBQTmc?oc=5",
         "image": "",
         "publishedAt": "2026-08-13T07:00:00.000Z"
-      },
-      {
-        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - Instituto de Ingenieros de Minas del Perú - IIMP",
-        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; Instituto de Ingenieros de Minas del Perú - IIMP",
-        "source": "Instituto de Ingenieros de Minas del Perú - IIMP",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRE5fZ3JJNF84QkRUbkg3dVFHbWlZbER1STBIYXZMdlU4VnUtYlo5MnROakM2RE1JNC1CbGswOVUyZG1iUWxDeTAtRzY0aEJLY1d3bFdRMlJ1elE5Qmp1UGx0S2I4LWdlSF9SQi1ZSVFveEJwRE1iakhBVTMtUEthOXZyVU1TdlM1dFNNR3ljb3hrR0pBNWpJWTlHUWFzbU1jNWtXVndDclN0Ul9RNGZwSHh6aVpxWWRtNWRnUk1xMHhIVU10NWx3RTQ3QXVyc3BIYm4zTDJXbl8?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-30T07:00:00.000Z"
       }
     ],
     "ia": [
@@ -510,6 +510,14 @@
         "publishedAt": "2026-10-02T07:00:00.000Z"
       },
       {
+        "title": "Conciertos elevan las expectativas del entretenimiento en Perú: sector crecería hasta 8% en 2026 - La República",
+        "summary": "Conciertos elevan las expectativas del entretenimiento en Perú: sector crecería hasta 8% en 2026 &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdjBmOTJrY0FvQ1Y0OEEwTlJQQjdYMzFzWXRINlpmQ0R4YzVzQlZieWpzUVp5WTdVV2RBdF9lSUVjOHh2b2twek1KSVUxaWtHTXZqUmVXZGRfNlJFTUp1emYtMTBRSGxteW0zcUVIb1ktWjNlMmgzWnFaRlotU21rcElfUldDcUMyUWZRc0J0SEdZTTJNbE5UN2pQMXhUUGczTDN4Y01MczZiYWYzX3FhZ1JBX0tVa3N5cWtuQWpfSFFGaVNSWF9VeHM2NlM2MWJ0STY4Y1g4eEhwZm5XQkRDMmlsUExwd9IB6wFBVV95cUxNVWdodTNnWmhWSXZ0TXdBa3NVOFRVbUZrMlhuUGxNQTFvX09hek9Da2hlLU5Yb2txc2I3UklYWE1hLTd1LW00WTd6b0NxdWo1WTRXOTItNWdOLTNmRzVhSkRDblV4YmJDbDdockJ6SVdOZ0VkcXdwOUo1QVlYUDJXN01DZ2FQSXBPbzlNT25KSlRua1ZDRm9jaEdaX2FEcG4zZ1NHQjYybWw0TFRjQkpOWlBhRjhTWUFXM3BhYmxFYWFvWkYwbnU5RTVRWXhRRnRVTGp0Zi1EX28xVldfVDF1T1R6Y0JVclViV3Aw?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-21T07:00:00.000Z"
+      },
+      {
         "title": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” - Infobae",
         "summary": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -532,14 +540,6 @@
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0ZKVXhOaUNRMF9DMldlUXBKT1hQdXFHRlc0cnpUUWRLdmJFZFFOV3h3eTA5QnlraDZNSGN6bWFjNHJiOVVuSDcxSHlKTWdYY2hSY0VvWDhWb0lJVDhZeWJQb3Q3eWhTdG1qTEJJWVJTdmdCUUU4Q2hpODRQYjQ1NUw5OEJ2aUxNeFRxVHpVZVdMZThWanlrTUE5X2RpSVNMenBEaUdXSzkyczJ0UXVVdGdoc0hXejDSAcsBQVVfeXFMT1NEd25TWlFTdmhlR040dk1hWTkzNzR1eWJGUE12ZU9QQUw4UGU5Y0R1MjVWNE1uRGh3TUJIWTBiaFVOYi1pVlNwZEV2NVRkUzROTDlqLUtIM2liMzcyM1lWdWZBX1RTZUhSLW1xTGprT1pNTHZtRWRLR0s2LXA5dXBwUzBYS0JCTWNNam5IeG1ZTDFKYUhua2xMaWNCajBra0dOWlpTR2h6Yk1rYVp2djU3aGlhN0JodVB4MlhnY0lPdGRmX090c0RZTmM?oc=5",
         "image": "",
         "publishedAt": "2026-08-26T07:00:00.000Z"
-      },
-      {
-        "title": "Conciertos de agosto 2026 en Lima: artistas confirmados, fechas y dónde comprar entradas - La República",
-        "summary": "Conciertos de agosto 2026 en Lima: artistas confirmados, fechas y dónde comprar entradas &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNbDdUUzFReHVHcXFsQS1lREJxNnptLWtaTmxxdFE0VWZ0d3NfaDcxc1p6NmZhRFB1YUFyeEF5Tnh6NnRWcl9UTmNzNG1YV3N0bXpINXFnTS11SzVZakdVcGRYWFlnOTVfZmNONEVwZ0JhY1JFYUM2dndRcXIzUGpuSDJmU2U1V0RtbXZ2Ni1QMDZENVB2U0U4YlNCcjRKZkhIeWEwQzNGT1AtSUp3N3I0QV9TbnQya0FtWHViYUFsX0NZalhiM0ZCRGhnS1RXODg3MTc0aFkxY2JVcGlwQTlCdFRfNHFVNUxEeFNkX0pHX3pBbkJzdUNZWVcyTDlwV0tzYjlXTk03aTlFanItaU5vajVRaGZpamNTVUxB0gGgAkFVX3lxTFBoN3JZNXR1bGN1V1UxT2dNWmxuOXh1OU1mWE8zLXBKVGFZMmE4RC1vNGVKVXFjQ0ZySUQ1b2h4c3Zhc1FOQmM0RWVwWEMwajhBa3JnUXNZelpzLWFzdi00dGpFY0ZNNVplQlotN1NlNWM2aDdVSjhBTUZRTzg2OXo2amZaMDd2d2s0NkV6VjlzNld0UFZNb2NXSXV1ZXFxRGc1Ny00SEZEcXZ5SEtlNmR3czlRcXE0TVNCMDBjVU0zZUpXNTZYUndMa2FfS2RrOWpfaUpFdHlaUWlFczdncUZ0Y3IwTzRlVTY2Nk9QbmNQQXlOR3N2LU84VnhQUTJMYVFBQmpLcDJNQzZQQ3Jka2FDUXh5M2ZJaFF1dXRPNjhRYw?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-18T07:00:00.000Z"
       }
     ],
     "cultura": [
