@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T00:03:08.660Z",
+  "generatedAt": "2026-10-18T04:26:03.317Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -90,6 +90,38 @@
         "publishedAt": "2026-10-18T21:47:00.000Z"
       },
       {
+        "title": "La tercera cadena de boticas tras Inkafarma y Mifarma llevará marca propia a Wong y Metro",
+        "summary": "Boticas Perú cierra locales en el país y apuesta por provincias, con la meta de superar los 500 locales en 2027. Además, prepara el ingreso de su marca propia a supermercados y duplicó su stock ante El Niño.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/boticas-peru-duplica-su-stock-por-el-nino-y-reorden-su-red-con-foco-en-provincias-noticia/",
+        "image": "https://gestion.pe/resizer/v2/6JUBUNXPDVA2BNW3CASGJ62OYA.jpeg?auth=d2a01d305dae41ec4c87368ffaa79a6b655c12526e92b011b3fa1ce706e4b875&smart=true&width=901&height=633",
+        "publishedAt": "2026-10-18T02:32:00.000Z"
+      },
+      {
+        "title": "BTS: el secreto de la logística detrás de la banda que paralizó Lima por seis días",
+        "summary": "BTS: el secreto de la logística de la banda que paralizó Lima por seis días. Una de las piezas del engranaje que permitió que los concietos de BTS se llevaran sin contratiempos fue la empresa de servicios aeroportuarios Talma.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/tendencias/bts-talma-revela-el-secreto-de-la-logistica-detras-de-la-banda-que-paralizo-lima-por-seis-dias-noticia/",
+        "image": "https://gestion.pe/resizer/v2/X62SDBHNE5BUJA3OS4MOILYDQU.jpg?auth=e0c6d84781291d7b022cc1e8b6b0b229378d291d6b852737cbc0bf842618dee8&smart=true&width=1214&height=800",
+        "publishedAt": "2026-10-18T02:07:00.000Z"
+      },
+      {
+        "title": "No habrá segunda temporada de pesca de anchoveta: advierten paralización hasta 2027",
+        "summary": "El Ministerio de la Producción (Produce) descartó autorizar una segunda temporada de pesca de anchoveta en la zona norte-centro del litoral peruano, tras una evaluación científica que determinó condiciones biológicas y oceanográficas desfavorables para la extracción del recurso.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/produce-descarta-segunda-temporada-de-pesca-de-anchoveta-snp-advierte-paralizacion-hasta-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/7MXJECC4JREEBBRS3TYPYEE7PY.jpg?auth=a01d5b8edcdc81a394e1d86893e397eda2a6c9b7b3e26cd952080189791c484c&smart=true&width=1080&height=720",
+        "publishedAt": "2026-10-18T01:31:00.000Z"
+      },
+      {
+        "title": "Educación online: negocio impulsado por IA ya mueve cerca de US$ 300 millones en Perú",
+        "summary": "El mercado peruano de plataformas de educación online deja atrás el auge de la pandemia y apuesta por la inteligencia artificial, el modelo B2B y la capacitación especializada para sostener su crecimiento.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/plataformas-de-educacion-online-como-evoluciona-el-negocio-en-peru-impulsado-por-la-inteligencia-artificial-edtech-noticia/",
+        "image": "https://gestion.pe/resizer/v2/3MDLVNUPGZHMDIAFYLQZXJA34M.jpeg?auth=99bc082a872d3ff4426cdd5dd35dbce01649b65a734b72607601f6e4fd029d40&smart=true&width=1280&height=853",
+        "publishedAt": "2026-10-18T00:31:00.000Z"
+      },
+      {
         "title": "Bosques de Perú para generar negocios: se invirtieron S/ 92 millones en 18 departamentos",
         "summary": "Serfor promueve inversiones por más de S/92 millones en el sector forestal, ¿qué cultivos se benefician más?",
         "source": "Gestión",
@@ -112,38 +144,6 @@
         "url": "https://gestion.pe/economia/alvaro-vargas-llosa-que-estados-unidos-quiere-ganar-algo-en-peru-no-nos-hara-dano-noticia/",
         "image": "https://gestion.pe/resizer/v2/OWCRNMOWRVEV5NGZTWM7LNK7DM.jpg?auth=69abc5f4f661a14c7c59c9a49a073308645e474eaa907e0adcbd8626ea8d6423&smart=true&width=1200&height=870",
         "publishedAt": "2026-10-17T20:06:00.000Z"
-      },
-      {
-        "title": "Sunat va tras S/ 1,060 millones de deuda tributaria: ¿a quiénes interviene en Lima?",
-        "summary": "La Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat) inició una campaña de cobranza coactiva para recuperar S/ 1,060 millones en deudas tributarias pendientes de 1,354 contribuyentes con domicilio fiscal declarado en Lima.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/sunat-va-tras-s-1060-millones-de-deuda-tributaria-a-quienes-interviene-en-lima-noticia/",
-        "image": "https://gestion.pe/resizer/v2/G4N5SQZ3YZELREVHOXNZ5XGDAU.jpeg?auth=11097346cdf754c3a1cc3fe9422648712fcd35dc29de2ecc01e170a4997b05fe&smart=true&width=1600&height=1361",
-        "publishedAt": "2026-10-17T19:24:00.000Z"
-      },
-      {
-        "title": "Perú: 1 de cada 5 “profes” de secundaria tiene 55 años, ¿hay personal listo para el relevo?",
-        "summary": "El 20% de los profesores de secundaria en Perú supera los 55 años. ¿Está preparado el sistema educativo para el relevo generacional?",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/peru-1-de-cada-5-profesores-de-secundaria-tiene-55-anos-hay-personal-listo-para-el-relevo-noticia/",
-        "image": "https://gestion.pe/resizer/v2/NBVHDA6OOZE4JBEJLTFBTTUTWI.png?auth=c3b8b1dcb36611701b3ed1215c00cd86800ab80fb2e61f4a27b054570b9d74a8&smart=true&width=1529&height=1029",
-        "publishedAt": "2026-10-17T16:55:47.000Z"
-      },
-      {
-        "title": "Petroperú volverá a tener el 100% del Lote 192 en Loreto, tras salida de Altamesa",
-        "summary": "Petroperú volverá a tener el control del 100% del Lote 192, en Loreto, tras la aprobación de la transferencia de la participación que mantenía Altamesa Energy Perú.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/petroperu-volvera-a-tener-el-100-del-lote-192-en-loreto-tras-salida-de-altamesa-noticia/",
-        "image": "https://gestion.pe/resizer/v2/6V3NM4ZHYZHEXEZKVOPGQWPJWI.jpg?auth=d306b60534b197f26a75daf41e1bfd123f87053630e67926c4b38845d83b8015&smart=true&width=1200&height=669",
-        "publishedAt": "2026-10-17T16:35:44.000Z"
-      },
-      {
-        "title": "BTS: el secreto de la logística detrás de la banda que paralizó Lima por seis días",
-        "summary": "BTS: el secreto de la logística de la banda que paralizó Lima por seis días. Una de las piezas del engranaje que permitió que los concietos de BTS se llevaran sin contratiempos fue la empresa de servicios aeroportuarios Talma.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/tendencias/bts-talma-revela-el-secreto-de-la-logistica-detras-de-la-banda-que-paralizo-lima-por-seis-dias-noticia/",
-        "image": "https://gestion.pe/resizer/v2/X62SDBHNE5BUJA3OS4MOILYDQU.jpg?auth=e0c6d84781291d7b022cc1e8b6b0b229378d291d6b852737cbc0bf842618dee8&smart=true&width=1214&height=800",
-        "publishedAt": "2026-10-17T15:12:13.000Z"
       }
     ],
     "sociedad": [
@@ -162,6 +162,14 @@
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2x4NndiTVA4bUlRNXVjbHlRQVhsZmF6ZVlNTDQ3eFlzLUd1YTFGTDllMFlSOG1kdlllNFFDM3ltcThJbXJVbXJlVWV1amhzV05CTzZTcmxkczg3TlY1bW5JLUVWWVR0UktOWVp0dTcwR3hHSkxBWVFnbC1iTmJ2MlQzcjRJZjBfQkZ5RS12Qm9hVWdQNU4ydExiU2huSDIxVmlYb3BlUjVOZkg3YXhHTVBBQzV2WU1SRmlGbzZnN3l1Y0tPTDdCU0w0S2FxNDVFeGUtcnA4OXk2RlJ3NlVrX9IB-wFBVV95cUxQb3hrbHpSeVhpankxdWdERnpPNlpPOV9MS2ZPZjFKd0w0el9xS25jSld0akJJdkhiZ3BoNFVTME5fOHplb3ZnczdGNXVhSkkwSGhSSk9MZEM0N3lseVc3dVZvUjZRX3dnMUVKTGY4UlhaSk9sZERUMnkwSXo1MkpNdVd0T3ZoeVMxMTN2QVo1S2w1X3Vpa25GU1lEMmRTTHB0T2Y3dm9GUTZVMk9jNmR0UFdiNUVuYldpNEp6dFZoTFpIZVh3Yi1pQy0tWldDYldXbjlFWXlPM2JQVHVxTFZNOTczNzRaT1lHSDFoWUdySWtuR2lsM1FSRzVhOA?oc=5",
         "image": "",
         "publishedAt": "2026-10-04T07:00:00.000Z"
+      },
+      {
+        "title": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN - La República",
+        "summary": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdHlxN3pWUU9DenhObS0temJHTWt6UGoxWThSTEVydk5Sa2U0T0tGZm00VDdEbUJIMnlUQlg4bnR4WEQzME41cnhTUWdYT2VfanpPa3VIS080Q1UycHB6eWtpZEF2ZnM0dDV0bkhmNUtfRzByY202dWt1d2hsWWlrUUdCaGsyZHJNcU1ydWNuOFdPUGcwb2gtSW9TbElROW9nakxmcm03cUFDMEZLT0pXbVpIMlNXdUQ2a0Q2UEw3WkNoVXBjYVc4ZUlFRXRfUVR5alRydkJ1dG5KUkxnQkVEVklGb1RDTWVsMFHSAe8BQVVfeXFMTURTcmlRY1NnMm1abmptUHIwOW1GN2lzc1Z6c29EZFN3bUFUOE50MlQ3MzNSdFhIY2o0X3JveTI2WnRqajNwOEljMU5TblZvbHhZUnMzVk5OaGdNelV6dmp2LWYzQl9ndWNjd0tFWnMyMEIxb2xlMm1nc0s2TEc3SlFrVlIyYTJ2aXl2N2NoZVRNZ1JkcjNhRVJuLWtGeThCQ2hMUUpiYWZfcTZaOEQwcm84TmNwSzlMbGY4dl9ObWNXMVFBbmVpSEdyS05XeG9VLWVGcjNZTDE2Tms1TTVfMWFXWmRrM1l3Tlg1N3JDVmc?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-02T07:00:00.000Z"
       },
       {
         "title": "Trabajadores sociales podrán ejercer en más de 20 campos de intervención según nuevo reglamento - Infobae",
@@ -202,14 +210,6 @@
         "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcXVYRHNkcFVTRXlocG5ySVlLRzZJSzNKWEJXRldLWkJHQUpkeFBHWFJSNzVNVFhrTS1WTnliRHBhbmlZTDBCSEVLWjRkSHB0TTd3S3E3bGFucVQ3c0ZoeVJiSkRsRHltQWx0UWlncnNTaUhOcmZpcEUtbWdoR0ZFS2pJczljLUpyR0ZRS1VyTFF4SXBEODlfWG5aVzhsOXF6eGxQYnRPMlpaRHN6TG1hNHZKbzFhZElxOUd2TUNndXJDTHJubmNXM1pMUkNYRkI5eHpaMUNlT0NjYVQzSHh5U2h3c3pUZ2c0TWd5QTRJYWh4bDhuT1g3SHVNQmZ0OHfSAYQCQVVfeXFMTmktbXh4RFU1eWJvVkw4SFRHV2dDbm1rLTRiVU41TW9ONV9tS1pUUmFWcFExb3lfTWYyczVGSjJWLUJBSHRuTDE5RlVBRHhxQ19OdHpvcEtLNEdBcjZNZzZhS3kwRkxBdmxFZUhWZkZWTXRheEQ0U21ZWEV0ZHA1MTBoWWJ3R0VDa3pXQWFpVDlSclVsSUtLT1VtREFId0JXeFpEU3Z0ZmxyclIzcEZSSUFXME5seENxRU9uWVhwVURIWjlTa3JXSTRjd09QMExqeGhNVXpYa0Rzb0d6elRjRGNDMVZES1E2b202dHBrNVZMRW11YURrOGdYY0tuU3dOSFRKZnM?oc=5",
         "image": "",
         "publishedAt": "2026-09-04T07:00:00.000Z"
-      },
-      {
-        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - El Peruano",
-        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-03T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -478,14 +478,6 @@
     ],
     "farandula": [
       {
-        "title": "Conciertos en Perú 2026: lista de artistas que llegarán a Lima, fechas y dónde comprar entradas - La República",
-        "summary": "Conciertos en Perú 2026: lista de artistas que llegarán a Lima, fechas y dónde comprar entradas &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNkhLSXNGS3ZXcWUzcFh5eGpQM3h0ZUxDYXVtRXlXc0pVeVM3c19IU2E2cmdvZ2llZmVXQkxKME9HUkJyMmRsUEdlb3I5dmk0UGhuWWJPRVlSRGlIZGFGVFpSWWxRN2hJazdaaWxXbHpWQjVjNkh1eGFEYm1udEFEWkVTUFR3ZXgxWEVIdUd1QlVPSTZUa3VjREhQUDJ4OE1wS2V3RGxsbHVQWTdRX1gtNV9ibzB5Yk15RkZPZlF0cUlpMF9jcTFKRTdidEtjNXdkOTFvM3p0Z2NyUFI5UEQzcGtPWEJHak13UTRLRWFwVE1NMWdxVEUwWDZ1WnJVY2k2WllXT2U2RlhQbXlYLWYyQlZIQVpPbC05b2wwWUUzb01CYTDSAagCQVVfeXFMTlUyQXAxei13aVQwbmNabDBUdU9QSWM3Tm5CSmNvZVJTRDFzZUxpb3E2M1R5OUFyNXNudDhka2RHNVJ5bE1YS0dWNmFZWVgtSnlWUWR5enRUOTJxaHIzNkNMNkU3Z0llUy1Yb25YOGloZnJCOU5YbmlvMFlwSDA1UUVpLTNUR1NHS3psZzNYenM0NFNrVkotVWtlNWVXekV6Ty02Qngxcy1QX29hMTFPMTBqMkY0VEsyVU9pVl8tMlNNVVByOTR3V2N0YXB3eXdKbjc3cHFHX1hsdWhEYVQ4S0oxdVUtdDk0dlE4SVI3NW5PUzcyUzVSUWhrOVl1a19yWGdlUE9iS3RibHk2REpKNHp6TEdXZUN6aU1pcml3V2dnd2VyTVNPaXg?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-14T16:57:31.000Z"
-      },
-      {
         "title": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS - Trome.com",
         "summary": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
@@ -516,6 +508,14 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdjBmOTJrY0FvQ1Y0OEEwTlJQQjdYMzFzWXRINlpmQ0R4YzVzQlZieWpzUVp5WTdVV2RBdF9lSUVjOHh2b2twek1KSVUxaWtHTXZqUmVXZGRfNlJFTUp1emYtMTBRSGxteW0zcUVIb1ktWjNlMmgzWnFaRlotU21rcElfUldDcUMyUWZRc0J0SEdZTTJNbE5UN2pQMXhUUGczTDN4Y01MczZiYWYzX3FhZ1JBX0tVa3N5cWtuQWpfSFFGaVNSWF9VeHM2NlM2MWJ0STY4Y1g4eEhwZm5XQkRDMmlsUExwd9IB6wFBVV95cUxNVWdodTNnWmhWSXZ0TXdBa3NVOFRVbUZrMlhuUGxNQTFvX09hek9Da2hlLU5Yb2txc2I3UklYWE1hLTd1LW00WTd6b0NxdWo1WTRXOTItNWdOLTNmRzVhSkRDblV4YmJDbDdockJ6SVdOZ0VkcXdwOUo1QVlYUDJXN01DZ2FQSXBPbzlNT25KSlRua1ZDRm9jaEdaX2FEcG4zZ1NHQjYybWw0TFRjQkpOWlBhRjhTWUFXM3BhYmxFYWFvWkYwbnU5RTVRWXhRRnRVTGp0Zi1EX28xVldfVDF1T1R6Y0JVclViV3Aw?oc=5",
         "image": "",
         "publishedAt": "2026-09-21T07:00:00.000Z"
+      },
+      {
+        "title": "Conciertos en Lima para septiembre 2026: todos los eventos con fechas y precios de entradas - La República",
+        "summary": "Conciertos en Lima para septiembre 2026: todos los eventos con fechas y precios de entradas &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQN2t3dE0wQVRpT09kN3dmQktaTDViMEhxXzI5eDQyVWxTZ3FDNmlVMF9rVHhUejRQRkt1SHA1bmZYdWxzSnFuNzhEZUhQWGVFdE1QbjlGV3N0RG1LWTZrRm02Y0w3dTlCc0JPWjRTdHBBaFpEYndHYUNGdjc4aERId000UzdkdTBmWUF1cC1DWG1vdTVxSDdPaDJ5MzVhaDU0WUViellhX2NEUlJQdFR2RzJqNXM3V3psWUQwVk9HRmczejFzUFBxTkxaS0Y1Z0drVnEyRWFHSEtoUVlOTEdKUUExRDlkejI2ck1mLXVDcFRsLTlIWWdOVTg4SThqTndpSzVjTmNkZFE2QXR6cW9LVm1BUdIBmAJBVV95cUxNZVBScnpMYUdFeGdXck5BcWNUTGRfcG9rMEx2UHY2VDZXaFhLeFc4RzhmNzRWN1BFck4zM0RkMGxNSHlBTVFnN0RVMUdWZTM0Y29nbE1fSjBabk1DNFMwbFJRMFJBUzhEYWxkV2V4bm94VUxwY3JmVXlSRXo2NkQ2OGpBUzhCclU5ZnpWYU0tMDlNWFMySWx6dmQxSDVmTGVKTmdVMWVEOGw5TEh4OW9PLTFyWWtNYzEydHFrRVAtOWREdlFCOVh6YlB5TFNfRlRPcGpCQXVMYmpsbTRnSW5xMnA5MUN3LS13bHczalozcVdUV2tiVDZieHI4ZVoybllCZEtCek5QTXJKTmNxV3lBaHZHYXFBYjBT?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-17T07:00:00.000Z"
       },
       {
         "title": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” - Infobae",
