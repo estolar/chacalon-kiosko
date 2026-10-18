@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T17:19:47.947Z",
+  "generatedAt": "2026-10-18T20:37:25.987Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -22,6 +22,14 @@
         "url": "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
         "image": "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
         "publishedAt": "2026-09-01T00:00:00.000Z"
+      },
+      {
+        "title": "Jorge Nieto dice que se reunió con el Ejecutivo: “Aprobemos los 20 puntos y hágannos llegar como proyecto de ley los otros 7”",
+        "summary": "Jorge Nieto, líder del Partido del Buen Gobierno, reveló que sostuvo una reunión con “altos niveles del Ejecutivo”, para presentar una propuesta que permita destrabar las discrepancias en torno a la aprobación de las facultades legislativas. Según indicó, el encuentro tuvo una respuesta favorable y permitió alcanzar un",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/jorge-nieto-dice-que-se-reunio-con-el-ejecutivo-aprobemos-los-20-puntos-y-hagannos-llegar-como-proyecto-de-ley-los-otros-7-puntos-que-consideran-imprescindibles-ultimas-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/IJWUUDUHPFBG3ON3SOUSTUKT6M.jpg?auth=61ef5b8932cae7f15ff3417a696a8a8d7bed4afde3652769baf6955f4e74eb91&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-18T18:50:25.000Z"
       },
       {
         "title": "Álvaro Vargas Llosa: “EE.UU. nos está ayudando a recuperar la soberanía que las mafias ponen en peligro”",
@@ -70,14 +78,6 @@
         "url": "https://elcomercio.pe/politica/diputados-informe-recomienda-suspender-por-120-dias-a-julian-perez-mallqui-por-agresion-a-su-expareja-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/B3A7QPZQ5RBPFFAHEZZNVK5JDA.jpg?auth=84349bda3f3ad12a6f504639536aa27dbd68f046cd0a9d580c53a73b069536f1&smart=true&width=1200&height=798",
         "publishedAt": "2026-10-18T15:50:00.000Z"
-      },
-      {
-        "title": "Fiscalía pide cadena perpetua contra hermanos Quispe Palomino por atentados terroristas en el Vraem",
-        "summary": "La Fiscalía solicitó cadena perpetua para Víctor Quispe Palomino, alias “José”, y Jorge Quispe Palomino, conocido como “Raúl”, por la dirección del Militarizado Partido Comunista del Perú (MPCP), organización terrorista que operó en el Valle de los Ríos Apurímac, Ene y Mantaro (Vraem) entre 2002 y 2018.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/fiscalia-pide-cadena-perpetua-contra-hermanos-quispe-palomino-por-atentados-terroristas-en-el-vraem-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/PPKZWLBOXZDXXAH66GSVPV2Q7A.webp?auth=3a79e4e4a1d419894ee1004d827230bac97b61148a3c01b020f9ed262a5cb60a&smart=true&width=450&height=324",
-        "publishedAt": "2026-10-18T14:52:55.000Z"
       }
     ],
     "economia": [
@@ -87,7 +87,31 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/camposol-entra-a-la-palta-de-mexico-la-jugada-del-grupo-dc-para-abastecer-todo-el-ano-noticia/",
         "image": "https://gestion.pe/resizer/v2/P2POVF4LSZBQNLBXLBQHP574W4.jpg?auth=e447bc9008e7744f4df5d27b0d23925f50d6046c40d93b100561f25fed17afe0&smart=true&width=1200&height=799",
-        "publishedAt": "2026-10-18T21:47:00.000Z"
+        "publishedAt": "2026-10-18T19:46:00.000Z"
+      },
+      {
+        "title": "El Niño dejaría “a cuentagotas” a Sedapal y otras empresas de agua potable: los riesgos",
+        "summary": "El fenómeno El Niño este año podría causar un desabastecimiento de agua aún mayor que el de 2017 en Lima, según expertos. El agua en los reservorios del Perú ya empezó a caer.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/el-nino-pondria-en-riesgo-a-la-mayor-parte-de-empresas-de-agua-potable-del-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/5UQNKQ6KFBGQBOPM2J7IUR5H2E.jpg?auth=9cd165bdbfa3ae0a573b53dc73d03906bf79ec47833749c0b764d1ea82898ccc&smart=true&width=1200&height=798",
+        "publishedAt": "2026-10-18T19:15:00.000Z"
+      },
+      {
+        "title": "Deuda tributaria en cobranza coactiva supera los S/ 13,000 millones, ¿quiénes deben al Estado?",
+        "summary": "Hay una deuda tributaria de S/13,051 millones en cobranza coactiva concentrada por 8,833 contribuyentes, indica un informe de ComexPerú.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/deuda-tributaria-en-cobranza-coactiva-supera-los-s-13000-millones-que-empresas-le-deben-al-estado-noticia/",
+        "image": "https://gestion.pe/resizer/v2/VKE5JOC26NHN3CVUEB4PWLIMOQ.jpg?auth=36645316df81edca5344076fcac25169256de48ae339169672a07a76ae06ebed&smart=true&width=1200&height=677",
+        "publishedAt": "2026-10-18T18:34:19.000Z"
+      },
+      {
+        "title": "Petroperú subastará casa en San Isidro de 2,000 m² y también 8 de playa en Punta Sal: ¿cuándo?",
+        "summary": "Desde ProInversión detallaron lo que será la segunda convocatoria a subasta de activos no estratégicos de Petroperú. ¿Habrán más este año?",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/petroperu-subastara-8-casas-de-playa-en-punta-sal-y-otra-en-el-olivar-de-2000-m-cuando-noticia/",
+        "image": "https://gestion.pe/resizer/v2/264S7GQCNRDOJGVURUBWEV4TMI.png?auth=4351d0f53a665c2a7f64ee8e0863acbe5098436e3a7163dd78df1e2fd1287e68&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-10-18T17:48:46.000Z"
       },
       {
         "title": "Papa León XIV reapareció en el Vaticano tras operación",
@@ -120,41 +144,9 @@
         "url": "https://gestion.pe/economia/establecen-nuevas-reglas-para-la-operacion-de-sistemas-electricos-aislados-noticia/",
         "image": "https://gestion.pe/resizer/v2/6LGAUOODMZEBXAT424CHAYHJHQ.jpg?auth=f49a2cd8d9855c35f2b5a3f23a926717cac4533da554e2b29f7273d2c9c514a6&smart=true&width=1800&height=1198",
         "publishedAt": "2026-10-18T14:24:51.000Z"
-      },
-      {
-        "title": "Virgilio Martínez: nuevas líneas de negocios con Central en Perú y otro proyecto en Asia",
-        "summary": "Virgilio Martínez busca ampliar la experiencia de Central más allá del menú, impulsa proyectos de Grupo Mater en Barranco y prepara una nueva iniciativa en Japón.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/virgilio-martinez-central-mater-y-nuevo-proyecto-en-japon-noticia/",
-        "image": "https://gestion.pe/resizer/v2/SDY4OKSFJFBNVLJUJ4KJOTUKMY.jpg?auth=ce0c63510aa66b815c2d762315288a074c301bc0c178d333734908382aa21499&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-18T14:00:00.000Z"
-      },
-      {
-        "title": "Primos Chicken abrirá nueva pollería en Miraflores y reordena su chifa Kou Xin",
-        "summary": "Primos Chicken abrirá en diciembre su séptimo local, sobre la av. Benavides, y concentra en Miraflores el desarrollo de su chifa Kou Xin. ¿Cuánto proyecta crecer en 2027 y cómo se prepara ante El Niño?",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/primos-chicken-abrira-nueva-polleria-en-miraflores-y-replantea-estrategia-de-kou-xin-noticia/",
-        "image": "https://gestion.pe/resizer/v2/THDQNW5LOVDITORA7GKQNSF5UE.jpg?auth=b02190233f75529ef8944d41a1b3d646091f50594239fa208a31564a9fa4b648&smart=true&width=1638&height=1088",
-        "publishedAt": "2026-10-18T12:30:00.000Z"
-      },
-      {
-        "title": "Pluxee crece 15% en pymes y alista pago QR para su tarjeta de alimentación en Perú",
-        "summary": "Pluxee Perú ya suma 4,000 empresas clientes y apunta a emitir 400,000 tarjetas de Navidad, con pago QR y una versión virtual que se entrega en seis horas. Pese a El Niño, no ve señales de contracción en la demanda.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/tarjetas-de-alimentacion-los-planes-de-pluxee-para-llevarlas-al-qr-y-crecer-en-2027-noticia/",
-        "image": "https://gestion.pe/resizer/v2/JIUFXC52ZVBBBOHX5JUDLP5VN4.jpeg?auth=c8c4c55bab0d036160f0c8ece93a445795d987e86bf74b9d90205a5ea5938711&smart=true&width=930&height=600",
-        "publishedAt": "2026-10-18T12:00:00.000Z"
       }
     ],
     "sociedad": [
-      {
-        "title": "Del encuentro con Francisco a una red internacional para prevenir el narcotráfico - Infobae",
-        "summary": "Del encuentro con Francisco a una red internacional para prevenir el narcotráfico &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ0x4ZTF4RHdDRjFtek5hU0pnTkl4Z0huWmRYUF9tUEk0RlltWUQyODhoWkdCZzgwNVVXdFBNX1J1dmM3TENQaUNYWHR5VzJ4MEQ3LWdpaFFzemVObXJiTjh0cDk0dmpySmxZcTdBWnB4ZjFaVGp5OWNSRU55UVlqZGt0RzF4cjRlNkRkZk9GVUEySWsxZXJrbnhpbjQ0dW1FOHVfSmJXMHlfRWptZ3VmSHdEdkN6SjZ2Y1V3WUNZZlhpTjTSAd4BQVVfeXFMT08wS1ozb0h5T2VwVjdaUmJyczhxc3VBa19TakFpZGZGUUR0ODZEMWd5aXBsUzhxeGFfeWk2NUZheTlYTDk2QWJLNlE3a0V3SmtzcU0zbWV1Tk9UcXNpRmYzNkhqaGpyX1hrTW5ray1tZHNGNE15dURPTzBLaTlCQ2pvb1JldTNjNmoxcDRzZmh4dUIwNjlwQ2NReWdwcnJFY2ZxWE9MRHlpTFVrU3I3ekJGQW45dHBpTkt4YlZPZXJZdGdmbmVhNDh3ZGw3Zlk5Q3Z4RTRoVjhLdkwwMEpR?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-13T19:57:00.000Z"
-      },
       {
         "title": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN - La República",
         "summary": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN &nbsp;&nbsp; La República",
@@ -180,18 +172,10 @@
         "publishedAt": "2026-09-29T07:00:00.000Z"
       },
       {
-        "title": "Progreso social en Perú: educación y conectividad avanzan, pero salud y derechos retroceden - La República",
-        "summary": "Progreso social en Perú: educación y conectividad avanzan, pero salud y derechos retroceden &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMVA5dUxEdV9TY0lnTFJkOHZWalV5RTJvMkVvcnBUZTh4cV9JYmhLbkU3RDZHallxMnlndEFVSmJZcnkzN1h6MlNUQm5zWl9IR0FfZ3dxZm1NX0IzZHRTTHdZS1VjQm55d2JwZnZJZHd1bm0yczcxdUZYV0c0RDhkTlFqMnY2NFRkeUtlbG9ZMU1wb09oTF9yOW8wU0RTa0lNeEw3WnpITXdSMGViaHRpSFlZNEMyMmhZbVR4aGJlSlYxZTd3NVV3R3R4UDZZWlVjNEE1bUg4a9IB3AFBVV95cUxPMXY1VVpCRUx5MHBpcHRUa0xsaC1XUFZYeURlMlpGd0k5SWNCLVdhbnlZbFR6d0V6MGRlcGFPN0dBSU1IWTY5Ml9lc0xnWHNiWEE2NnRDSDY0azk0dUdZb3J2cGNzYVFCOG5Ucy1ObnhBcS0tNjZZSVJiNkNkZHA2YS0wLXU2RnJPT0tOblpWeXZENFdJMkhGSFNIMGp3VVhwR2Q0RWVYRllJVlNLa0c0SGVsdThtdTVoREhCYmMtTXhKWTdQY0hva1hDaTR4ZnlqX09LV1FmMXlsOER3?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-24T07:00:00.000Z"
-      },
-      {
         "title": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? - Infobae",
         "summary": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2x4NndiTVA4bUlRNXVjbHlRQVhsZmF6ZVlNTDQ3eFlzLUd1YTFGTDllMFlSOG1kdlllNFFDM3ltcThJbXJVbXJlVWV1amhzV05CTzZTcmxkczg3TlY1bW5JLUVWWVR0UktOWVp0dTcwR3hHSkxBWVFnbC1iTmJ2MlQzcjRJZjBfQkZ5RS12Qm9hVWdQNU4ydExiU2huSDIxVmlYb3BlUjVOZkg3YXhHTVBBQzV2WU1SRmlGbzZnN3l1Y0tPTDdCU0w0S2FxNDVFeGUtcnA4OXk2RlJ3NlVrX9IB-wFBVV95cUxQb3hrbHpSeVhpankxdWdERnpPNlpPOV9MS2ZPZjFKd0w0el9xS25jSld0akJJdkhiZ3BoNFVTME5fOHplb3ZnczdGNXVhSkkwSGhSSk9MZEM0N3lseVc3dVZvUjZRX3dnMUVKTGY4UlhaSk9sZERUMnkwSXo1MkpNdVd0T3ZoeVMxMTN2QVo1S2w1X3Vpa25GU1lEMmRTTHB0T2Y3dm9GUTZVMk9jNmR0UFdiNUVuYldpNEp6dFZoTFpIZVh3Yi1pQy0tWldDYldXbjlFWXlPM2JQVHVxTFZNOTczNzRaT1lHSDFoWUdySWtuR2lsM1FSRzVhOA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2x4NndiTVA4bUlRNXVjbHlRQVhsZmF6ZVlNTDQ3eFlzLUd1YTFGTDllMFlSOG1kdlllNFFDM3ltcThJbXJVbXJlVWV1amhzV05CTzZTcmxkczg3TlY1bW5JLUVWWVR0UktOWVp0dTcwR3hHSkxBWVFnbC1iTmJ2MlQzcjRJZjBfQkZ5RS12Qm9hVWdQNU4ydExiU2huSDIxVmlYb3BlUjVOZkg3YXhHTVBBQzV2WU1SRmlGbzZnN3l1Y0tPTDdCU0w0S2FxNDVFeGUtcnA4OXk2RlJ3NlVrXw?oc=5",
         "image": "",
         "publishedAt": "2026-09-21T07:00:00.000Z"
       },
@@ -210,6 +194,22 @@
         "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcXVYRHNkcFVTRXlocG5ySVlLRzZJSzNKWEJXRldLWkJHQUpkeFBHWFJSNzVNVFhrTS1WTnliRHBhbmlZTDBCSEVLWjRkSHB0TTd3S3E3bGFucVQ3c0ZoeVJiSkRsRHltQWx0UWlncnNTaUhOcmZpcEUtbWdoR0ZFS2pJczljLUpyR0ZRS1VyTFF4SXBEODlfWG5aVzhsOXF6eGxQYnRPMlpaRHN6TG1hNHZKbzFhZElxOUd2TUNndXJDTHJubmNXM1pMUkNYRkI5eHpaMUNlT0NjYVQzSHh5U2h3c3pUZ2c0TWd5QTRJYWh4bDhuT1g3SHVNQmZ0OHfSAYQCQVVfeXFMTmktbXh4RFU1eWJvVkw4SFRHV2dDbm1rLTRiVU41TW9ONV9tS1pUUmFWcFExb3lfTWYyczVGSjJWLUJBSHRuTDE5RlVBRHhxQ19OdHpvcEtLNEdBcjZNZzZhS3kwRkxBdmxFZUhWZkZWTXRheEQ0U21ZWEV0ZHA1MTBoWWJ3R0VDa3pXQWFpVDlSclVsSUtLT1VtREFId0JXeFpEU3Z0ZmxyclIzcEZSSUFXME5seENxRU9uWVhwVURIWjlTa3JXSTRjd09QMExqeGhNVXpYa0Rzb0d6elRjRGNDMVZES1E2b202dHBrNVZMRW11YURrOGdYY0tuU3dOSFRKZnM?oc=5",
         "image": "",
         "publishedAt": "2026-09-04T07:00:00.000Z"
+      },
+      {
+        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - El Peruano",
+        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-03T07:00:00.000Z"
+      },
+      {
+        "title": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos - Agencia Andina",
+        "summary": "Contraloría ejecutó operativo de control en Tumbes para impulsar reactivación de proyectos &nbsp;&nbsp; Agencia Andina",
+        "source": "Agencia Andina",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORDg3MFVjQnE2eHFPRWpXV3RHcFUwQ3NzalN5MTBFNFhNV1ZYNVpkRFBRSlh1QmhCUzhCdXRWWE5xRnNHYWhIMzRwMnQ3Vl9CMWZBalFwTzd4eFI1cW9LYmkwS2toT3RpeC1pZC1paFlhOVlxdXdJUUJYQ3dzT1pGU3NLSVhIaUMzdXZ3QThaTGFMbF9SRFYyOWQtZy0yUE1NWFZtX0hNTUM0ZFZlSDZtck53Nmpqc2tYSkpZN0ZBTl9NbVBBMlAw?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-11T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -220,6 +220,14 @@
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVFJjYzhEVGVBdGJDdUdsaGMwa2FmT3RNeDdyanh2UVI5VG5Scko0ay0weGFwY1FnZGpPOGxOYTk5UXRFWHd2ZnRjWmJYOHRBTUdSWjd4TFdZenI4Nkd0ZEYtSW9yM3F3Vi1rRDV5MXZydW1nb2FnTVBac0lqWWRQbkFCX0RXUkczcFNoamtfWXFRVndkWDUwUDFQOHRVUWdDNVJTNGlwb1RSNDR0VUd6d29ScHh3R25MNEZraHl4alUzb0dXVFpxaXNGMThCV2dlQVh2WWpyY0FVbU9wb2c?oc=5",
         "image": "",
         "publishedAt": "2026-10-13T21:45:15.000Z"
+      },
+      {
+        "title": "Perú Business Fest 2026: cómo acceder a financiamiento, asesoría y tecnología para hacer crecer tu negocio - Trome.com",
+        "summary": "Perú Business Fest 2026: cómo acceder a financiamiento, asesoría y tecnología para hacer crecer tu negocio &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORk04NFNkNFAzWTFTRTBmaXBPZ3VTY3pSelpWRjF0Rnh4Y3dJbDl2RVB2U05CSmdBcnJDdUE5U2tqVVpNQmxTMjJUbmNHdm1nem1EYUdMWlRvNEhGU2d0Q3lvUExOZ29CSVMyM01KSEwxak5GazBzekl2cTF5dXI5YmZ0RFFDWW1iOGgzaGUxaFVrQmM3RE9vWVQyOVRibDNvRHphYkpjVjNWWXpzS05VRnV2czExNXdoRTVaMlViWjJvMnJoRkNQTGRTbzQySjBLWXM0WVQ3al9xSkJrdU96OE9yVlQ0NVdfamZHUzc5cXluR0hfLWfSAYoCQVVfeXFMTlB6cm0wQnFpcnl6NTRqdS1hME1DV2lOSUsxSzYzWUV0LUxNU0NPZFJYTG1VdkVmTGxOd1FKaHlGTjctSnlKdWF1c1liZjdYdHJKeU0xZUhxYWY1Z3FoZTZQV2pxQ1Mwak0teXg4S3E4QW9LVkROdzg2cllCeWhoS1EyQzhjTDdvdEJTc2ZLVXpHUFZDQjc3ekYxUVQtcDYtd0wzRkpORnBoY0FoLVhhSVQ1SEdxWmtMbU5wdDR2aGd6T3pNaC1wUm5uX2hOa1dkeU1wejR0dWNwRm56eVcxS1g2bDdkeVFHZmRHRTFaR2dpMXMxc2M5SmU2aWFxbFRWMnZMeDdJTkxjdHc?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-13T12:57:24.000Z"
       },
       {
         "title": "Perú emprende, pero le cuesta escalar: por qué pocas empresas logran dar el salto y crecer fuera del país - Infobae",
@@ -236,14 +244,6 @@
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNakhVY04xTW1nZFRxMHA4d3F1ZHBObE5qczdBVERnX1FoQ1otSldfaEQwS0hvQ3BRRkszWHZ1TmtheFJHdzVSNzRieFJRTUpwUzhvUjJXYzJUc2EweUt3RlBTOTc5eEhmMGpjTHVqMWRjOFhvODlsX0hWdWt4V0Uza0oySDEwS3lidm9TMFhBcWR2QVRRWVZETUJGb0s1V1FPdExnYmJSOVFiZmN5OVpVdWEyYzY1R0FXa2thSFZYbUxvOF9sSklzdDhQYW9FMEJHNTNXMXIxWlpPb1o2N1JldE5WNTRvdXpxOWY0MExfTWJ0cU1hUGfSAZACQVVfeXFMTXV2X3NuaHg2bm5KcEtseVRyUEpPUnVfTlQ1V0l0M29uY2N3cUdhQ2gyeGIzSGlGNEgtckw0RlZvYVZGaVFpY2szWlFwVTJZaUJjUE13a3p1ZU13WHJEU183aTVYdW1RYWFkXzVmR0dieGNpTGctM09ITW85WkxvQlMtRF9WbXE4YktObWI5RVpwQTU2UkpxSHBtUkg5T2kyOHgxUEh4dXk0OGR3cUhKdGVNYnkteDBQT29DSGhteXNVenB2UHRYWWhTZkgtQ0ZqUEl2SU53blJIeENETE1pOEVUOU1RMzRXd3JUYk1tQ3VuZThRQldtUllVVEFlb0V2VzJTTnFhRmMxZTVsT1Boa24?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
-      },
-      {
-        "title": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio - Business Empresarial",
-        "summary": "1 de cada 4 mujeres se capacita en Inteligencia Artificial para impulsar su negocio &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbEpWQWwzZjk1OHUyMXNjdl9taXN3YWtlVkc3WUd6ak1GNTNKTjMwWHhEd0Y4TTF6WU90LTMwTjZSNDVFN29ReWFGQkVvTmtya3pNMG9kSEdjYzRvdnZsTG16M3E1bzZhV09OVVBwWUNCU2ZJVHpfdnlvV1VmVXVLU2FmR3FYeVlIRnl1MVRvWmJlSWU4eVZ4Rkxxd2tZUHBKcWp6Q3BRUkZRMVRkbDRiVWNOdTFNSU5yNjByS2FobmlLdGRrOVJHdU9YOW9VYjZBLTYySHM1cDNhR1pDR0JZ?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-24T07:00:00.000Z"
       },
       {
         "title": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión - Infobae",
@@ -526,31 +526,23 @@
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
-        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
-        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
-        "source": "Diario Correo",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-05T07:00:00.000Z"
-      },
-      {
         "title": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más informació",
         "summary": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; Facebook",
         "source": "Facebook",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdFRtVHlGS2ZUeUplTE1XU09ickJVSlBqR0Z3VGR1cjlrTG5NQlNuOFc5Si1OVXVLclh2T3Z1VEhKV1luN09INHpaRHp6U1Z1a2dRWWVjT1NzcG1pSnN2SVJGTnBvMzhzSXFlWnVFVXhKVmZtSUF1Z19rN1Z4U1BqNU02Qjd2dWRnWnZXemlkZlZHeVMxckFPT3pLeTNUek5uVkZOZUM5ZVVGMXFISG1GUEYxTXB2TW1PaUI1QkJsMFFOQ2g3TF9pOXVBdV9UVk95ZGN2M04tNDlLNFFhc2h0UHAzWU9QaC1mOW1Nb1B0U1RGTEs5Y204ZQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
+      },
+      {
+        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
+        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
+        "source": "Diario Correo",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-05T07:00:00.000Z"
       }
     ],
     "cultura": [
-      {
-        "title": "Agenda cultural en Lima 17 al 24 de setiembre: Robbie Williams, 'La Cabaña', 'La mujer de negro' y el Festival de la Luna se imponen - Infobae",
-        "summary": "Agenda cultural en Lima 17 al 24 de setiembre: Robbie Williams, 'La Cabaña', 'La mujer de negro' y el Festival de la Luna se imponen &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOajlpTHJUcnhPRlNzcnlPYV9qbVJJR3pUZ19sN3Z4bWJtZ2xHTkhaWjZPVi14cjE3NHRCQ1ZWeHFWT0w4cnJCbzNwOXFnUWNIOTc5aWpUSy1xdHBZZWVyZzltM1lRTE1ia1kxNVFfRDVDUnFYSGptSjQ1bTdPQ0R3WE15Z1hILVlFV0txS05BaW04dUFqVk05YkVBdmNXTm5xcDFucGk3M29jaF9yUnFxa3cwY0RPUldLaEdxdnNmMVZzR3AxZ2tDU1FPU3o3T3hTcFgxRjVXc1AtQzB6ZWhSUG5jWjAtNng4N0lnQV9JNlZGNlhOcjB5TTlR0gGUAkFVX3lxTE5HY25QVmNINl9QU3c0WHdkTEw5ZWx4SWREOXJ1d3o3N3lORVV0aHZUbnl5X3ZvWEFxbW0ya0tVcmFFejlmWld0NnQ5Qm0xMXE2ckNBVE5FY1VWQ1REdWxlVEtuU0hyNFF1aXIxcnNsa0dfZm9yejM1cXVmcWpYT2hxOTNGeEdGcy1XTThVc1JQdGtFQ0pscHJpSWFqYVFCeVpIbmhodGk1eGtaaGJUODlwTnFMMVhEOHlhU1gzZXgyVF9Wbm10dkxZTERIZXVobnJielZXY3dWVGNoeUh0VnozRDJ0dDdNM0FlOHpYQnhqcG9qN3hDQlB1blN1MFczQ2piQXl2bnI5aDQxYmhFcDIxQTFZZw?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-17T07:00:00.000Z"
-      },
       {
         "title": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA - Infobae",
         "summary": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA &nbsp;&nbsp; Infobae",
@@ -606,6 +598,14 @@
         "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTTZDSUpUY3djZ1R3U0lOUzRLVVV6OGFpNGZvRm83N0dTV2VlclhHT3U5YlVzX1NLMUFzdUx4cHZrX2FhdGhDeGtYOWZwZ1VyUnZiZEIxRUw5NmhZUG93WHZJNUFHUzRTMHBtVTRQUE91OFprb1NlMXhsbkF5ZHZINWxweFVsVzRJZlpUcFI2Mks5andzSTgwNVhUZXJsaVl5bUhrMXFLX0JMWDgtNEtWbW92YXVBS19kQ1dYS1hqSEt4YVpnaFNqeFVHQzhqbVBIZnFnUEcyOXdqUnFZNllOZG5aVjlsbUtlV21JZ21aTjRkNlNyOEYwZnVhbnhSdDNadVRZbUNvYjPSAaMCQVVfeXFMT0lVVzhVeG9mNGZBb2diQW9Bd1ItVlppWDFzMmt4eDAyY1ZYMjVQUWpzN2hzMGpfR3RqRGhVS3NGZm04ZlBnaGxsUXozY1o1ZlFkWjl3aElHZjAyaWo0SDR1VU5SM09KSm1HWkRTeDlSa1Z5bGVpZS0yN0s2cVYxRFBvUjRwZHV1eHFnbUx0RlRaLUdSU0JPWmdSY0V2SXE0QUpFbGlCa3JtOE0tOHNCMWlsV19wTi1ienIyLTdubnJCUXQ0T2xkSTluVENhVENBeEcwZVM4NlZjS2IwS3NhbTRNQ3d0cFlLd3JWakw2Wl9YbTBkcGowYkVYU2NKbVl4eXdVa2FNZ3FlVVNpejg4T1FQaUxmZlR2Rk9idk9RLVV4cmtB?oc=5",
         "image": "",
         "publishedAt": "2026-08-21T07:00:00.000Z"
+      },
+      {
+        "title": "Agenda cultural en Lima del 13 al 19 de agosto: lo último del Festival de Cine PUCP, ópera y ballet, salsa, teatro y exposiciones gratuitas - Infobae",
+        "summary": "Agenda cultural en Lima del 13 al 19 de agosto: lo último del Festival de Cine PUCP, ópera y ballet, salsa, teatro y exposiciones gratuitas &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVEN4R0wzbk9BVWZvS0JOOS1TcXR1SkFWTzVHbEhDM0hjYzBaX056STYyZkgybnR1VDc0VEl3WWZjeE01ZkEtUGl4OHZoOWxEcDd0WFdGbnJsanpXS0lNOW1rR0ZPcm9YcHVORFYyRE5PYXpiYVpVdWtOeWFPN1Y5QmJUeGMxSVZ5YWZnb3VoT0VyelEtLUtDM0pRam9zOFlIWEpOZUxUUjFBSl9YZXlUSFJqenRuaE5LR0RqRGQyck50NFdxaV9nMi1KSmRFMVFNZ2c0Z0dhUzd2aU4yOGZyb20wNFQzR0pRaUxtWTZsRkMtbTVzNnhnZk13N3FHNlJlbkdmOXByRdIBogJBVV95cUxNSzdWSFA0MnYyRkhjdGRKRnVsUDlOUzZobWxGUGw2T083NG41MUVmX1ZObGpOZjcyLVRQTGg2NV9ObXJhSUtRQ3VVS2wzRUtxaFdocUozSEJPeHZXc2JabzhENS16QXZFYVVmY0ltS3BocnJTZEFLeVhOMHdXUWY4LWpFc3FzRWU3RndwYjZ5d1FLX09vNFBnemc1aldIN0tyUEE3NzJpZmwxOEN2Wmdpc1RBUU5uVXRVRTZNUzdsMW5oVmVJYUdZc0hLdG00S1o0TVB3NzlsSm8xTC1kMmo0SXNRTVhNUzFYaUYzd1dRRi1OVmprRlVMd1IxcG11Z1JqSElMMGc0QkFKQmxOYVlfUUJOd0IzbWtsa3h4RWNVQTFfdw?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-13T07:00:00.000Z"
       }
     ]
   },
