@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T13:58:51.235Z",
+  "generatedAt": "2026-10-18T17:19:47.947Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -29,15 +29,7 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/alvaro-vargas-llosa-eeuu-embajador-del-peru-en-estados-unidos-entrevista-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/YKAG3YKNXRCCDPNA43T4B7ZGIM.jpg?auth=39127236e6815e3cb1d4ccf045f56da7316244a4e6feeaefd6e95a25ff225173&smart=true&width=4535&height=3023",
-        "publishedAt": "2026-10-18T11:42:39.000Z"
-      },
-      {
-        "title": "Comisión de Constitución del Senado reanuda este lunes debate sobre el pedido de facultades legislativas",
-        "summary": "La Comisión de Constitución del Senado continuará este lunes con la sesión extraordinaria en la que se debatía la delegación de facultades legislativas al Ejecutivo en las materias de fenómeno El Niño y Seguridad Ciudadana.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/comision-de-constitucion-del-senado-reanuda-este-lunes-debate-sobre-facultades-al-ejecutivo-en-seguridad-y-fen-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/JINUQTITRNCRDARGV3WM2TLN3U.jpeg?auth=ab8ab02829bce4c6f85cfab730d0aae04bdbfe8aaddc43a839187a21b01218c6&smart=true&width=1280&height=853",
-        "publishedAt": "2026-10-18T11:41:01.000Z"
+        "publishedAt": "2026-10-18T16:50:00.000Z"
       },
       {
         "title": "El Senado también se la juega, una crónica de Fernando Vivas sobre la pugna por las facultades legislativas",
@@ -45,7 +37,7 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/el-senado-tambien-se-la-juega-una-cronica-de-fernando-vivas-congreso-facultades-legislativas-keiko-fujimori-gobierno-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/RNAJLOLTDNHQVFEYTKP5BI6LLA.jpg?auth=12559d90190ad414716dfc99db325f28ff1cbcf3239a681271f18e3338891467&smart=true&width=1732&height=1154",
-        "publishedAt": "2026-10-18T11:38:58.000Z"
+        "publishedAt": "2026-10-18T16:39:00.000Z"
       },
       {
         "title": "El voto 31: Este es el escenario que muestra el peso de Obras para el fujimorismo en la delegación de facultades",
@@ -53,7 +45,15 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/el-voto-31-este-es-el-escenario-que-muestra-el-peso-de-obras-para-el-fujimorismo-en-la-delegacion-de-facultades-congreso-keiko-fujimori-senado-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/6ZEY44TZKVGZLC32X2SY7XUAPI.png?auth=050992c89c28e9d1d80154afb2d752f6814fda804557c4feab4c13f6fb4167c4&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-10-18T11:37:38.000Z"
+        "publishedAt": "2026-10-18T16:35:00.000Z"
+      },
+      {
+        "title": "Comisión de Constitución del Senado reanuda este lunes debate sobre el pedido de facultades legislativas",
+        "summary": "La Comisión de Constitución del Senado continuará este lunes con la sesión extraordinaria en la que se debatía la delegación de facultades legislativas al Ejecutivo en las materias de fenómeno El Niño y Seguridad Ciudadana.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/comision-de-constitucion-del-senado-reanuda-este-lunes-debate-sobre-facultades-al-ejecutivo-en-seguridad-y-fen-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/JINUQTITRNCRDARGV3WM2TLN3U.jpeg?auth=ab8ab02829bce4c6f85cfab730d0aae04bdbfe8aaddc43a839187a21b01218c6&smart=true&width=1280&height=853",
+        "publishedAt": "2026-10-18T16:31:43.000Z"
       },
       {
         "title": "Campañas del “No a la Revocatoria” y Reelección Municipal: Caso contra Susana Villarán se encamina a los diez años sin sentencia",
@@ -61,23 +61,23 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/susana-villaran-caso-contra-exalcaldesa-por-presuntas-irregularidades-en-las-campanas-del-no-a-la-revocatoria-y-la-reeleccion-municipal-se-enrumba-a-los-diez-anos-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/BRPYLE22ENFTTKWJXMP4NOBFFQ.png?auth=ca99843771121aeeefa8ac0c8d8a87605505f690dc28d08dc11cc489ea2e3e77&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-18T11:00:01.000Z"
+        "publishedAt": "2026-10-18T16:15:00.000Z"
       },
       {
-        "title": "Cómo entender el Congreso peruano",
-        "summary": "Cada vez que intento explicar el funcionamiento de la política peruana a un extranjero, le sugiero partir de la siguiente premisa: las dos características principales de los políticos peruanos son la traición y el amateurismo. Estos suelen traicionarse entre sí: un vicepresidente complota contra su titular para reempla",
+        "title": "Diputados: Informe recomienda suspender por 120 días a Julián Pérez Mallqui por agresión a su expareja",
+        "summary": "La situación del diputado Julián Pérez Mallqui (Juntos por el Perú) se complica. La Comisión de Ética Parlamentaria de la Cámara Baja concluyó la investigación en su contra y recomendó al pleno suspenderlo por 120 días del ejercicio de sus funciones por la agresión física y emocional contra su expareja en una comisaría",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/opinion/columnistas/como-entender-el-congreso-peruano-por-carlos-melendez-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/KESQUIBBTNHY3B2APDBVOISS6A.jpg?auth=2770e1ee43228360bf4dd154c305798b10fdebf6c3fb17e255180178785a7f4e&smart=true&width=1204&height=650",
-        "publishedAt": "2026-10-18T05:32:00.000Z"
+        "url": "https://elcomercio.pe/politica/diputados-informe-recomienda-suspender-por-120-dias-a-julian-perez-mallqui-por-agresion-a-su-expareja-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/B3A7QPZQ5RBPFFAHEZZNVK5JDA.jpg?auth=84349bda3f3ad12a6f504639536aa27dbd68f046cd0a9d580c53a73b069536f1&smart=true&width=1200&height=798",
+        "publishedAt": "2026-10-18T15:50:00.000Z"
       },
       {
-        "title": "Empiecen a gobernar",
-        "summary": "La presidente Keiko Fujimori anunció esta semana la creación de una comisión multisectorial, como parte de la lucha contra la inseguridad ciudadana. Hace bien la jefe del Estado en fijarse en este problema. Hace mal en anunciar una comisión en vez de acciones concretas.",
+        "title": "Fiscalía pide cadena perpetua contra hermanos Quispe Palomino por atentados terroristas en el Vraem",
+        "summary": "La Fiscalía solicitó cadena perpetua para Víctor Quispe Palomino, alias “José”, y Jorge Quispe Palomino, conocido como “Raúl”, por la dirección del Militarizado Partido Comunista del Perú (MPCP), organización terrorista que operó en el Valle de los Ríos Apurímac, Ene y Mantaro (Vraem) entre 2002 y 2018.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/opinion/columnistas/empiecen-a-gobernar-por-federico-salazar-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/NGBUVYQB3FDTVISEL6ZNLZWZQQ.jpg?auth=79d2acc4b48da966ce392daa465639cfecb4a13d4b0f893e3f373f32e952ef3b&smart=true&width=1204&height=649",
-        "publishedAt": "2026-10-18T05:30:00.000Z"
+        "url": "https://elcomercio.pe/politica/fiscalia-pide-cadena-perpetua-contra-hermanos-quispe-palomino-por-atentados-terroristas-en-el-vraem-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/PPKZWLBOXZDXXAH66GSVPV2Q7A.webp?auth=3a79e4e4a1d419894ee1004d827230bac97b61148a3c01b020f9ed262a5cb60a&smart=true&width=450&height=324",
+        "publishedAt": "2026-10-18T14:52:55.000Z"
       }
     ],
     "economia": [
@@ -88,6 +88,46 @@
         "url": "https://gestion.pe/economia/empresas/camposol-entra-a-la-palta-de-mexico-la-jugada-del-grupo-dc-para-abastecer-todo-el-ano-noticia/",
         "image": "https://gestion.pe/resizer/v2/P2POVF4LSZBQNLBXLBQHP574W4.jpg?auth=e447bc9008e7744f4df5d27b0d23925f50d6046c40d93b100561f25fed17afe0&smart=true&width=1200&height=799",
         "publishedAt": "2026-10-18T21:47:00.000Z"
+      },
+      {
+        "title": "Papa León XIV reapareció en el Vaticano tras operación",
+        "summary": "El papa León XIV fue operado el martes en Roma y recibió el alta médica el sábado. Su cirujano señaló que evoluciona de manera satisfactoria.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/papa-leon-xiv-reaparecio-en-el-vaticano-tras-operacion-noticia/",
+        "image": "https://gestion.pe/resizer/v2/T4PLLV5Q3JGMFE2NDSWXQJBSNA.jpeg?auth=15b16c3839aa827cc90d00a795205bb4906074a4f59c6e274df4365f1b20f20b&smart=true&width=750&height=422",
+        "publishedAt": "2026-10-18T16:33:41.000Z"
+      },
+      {
+        "title": "Gobierno transfiere S/ 12.4 millones a Ministerio de Defensa para pago de impuestos",
+        "summary": "El MEF aprobó otorgar recursos al Mindef, los cuales serán destinados al pago del IGV y del Impuesto a la Renta.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/gobierno-transfiere-s-124-millones-a-ministerio-de-defensa-para-pago-de-impuestos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/6O45KGIRKREHFBENJUASNCKOJ4.jpeg?auth=397822b53c1436bbbdd9351c26d3508cc051a051787622b4787c57fcff3fe9d4&smart=true&width=1302&height=728",
+        "publishedAt": "2026-10-18T15:56:41.000Z"
+      },
+      {
+        "title": "Produce: Cambiarán criterio para asignar cuota de pesca del jurel",
+        "summary": "El Ministerio de la Producción (Produce) modifica las reglas que regulan la pesca de la cuota de jurel otorgada en el Perú.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/produce-cambiaran-criterio-para-asignar-cuota-de-pesca-del-jurel-noticia/",
+        "image": "https://gestion.pe/resizer/v2/VQUANAZ2ORDBRCFC5FRBEMV2RQ.webp?auth=90533c7b02e6df132caaf7ca7af350afa51a9235797276d889c17057eb96284f&smart=true&width=1800&height=1042",
+        "publishedAt": "2026-10-18T15:16:39.000Z"
+      },
+      {
+        "title": "Establecen nuevas reglas para la operación de sistemas eléctricos aislados",
+        "summary": "El Gobierno aprobó reglas para coordinar la operación de sistemas eléctricos aislados.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/establecen-nuevas-reglas-para-la-operacion-de-sistemas-electricos-aislados-noticia/",
+        "image": "https://gestion.pe/resizer/v2/6LGAUOODMZEBXAT424CHAYHJHQ.jpg?auth=f49a2cd8d9855c35f2b5a3f23a926717cac4533da554e2b29f7273d2c9c514a6&smart=true&width=1800&height=1198",
+        "publishedAt": "2026-10-18T14:24:51.000Z"
+      },
+      {
+        "title": "Virgilio Martínez: nuevas líneas de negocios con Central en Perú y otro proyecto en Asia",
+        "summary": "Virgilio Martínez busca ampliar la experiencia de Central más allá del menú, impulsa proyectos de Grupo Mater en Barranco y prepara una nueva iniciativa en Japón.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/virgilio-martinez-central-mater-y-nuevo-proyecto-en-japon-noticia/",
+        "image": "https://gestion.pe/resizer/v2/SDY4OKSFJFBNVLJUJ4KJOTUKMY.jpg?auth=ce0c63510aa66b815c2d762315288a074c301bc0c178d333734908382aa21499&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-18T14:00:00.000Z"
       },
       {
         "title": "Primos Chicken abrirá nueva pollería en Miraflores y reordena su chifa Kou Xin",
@@ -104,46 +144,6 @@
         "url": "https://gestion.pe/economia/empresas/tarjetas-de-alimentacion-los-planes-de-pluxee-para-llevarlas-al-qr-y-crecer-en-2027-noticia/",
         "image": "https://gestion.pe/resizer/v2/JIUFXC52ZVBBBOHX5JUDLP5VN4.jpeg?auth=c8c4c55bab0d036160f0c8ece93a445795d987e86bf74b9d90205a5ea5938711&smart=true&width=930&height=600",
         "publishedAt": "2026-10-18T12:00:00.000Z"
-      },
-      {
-        "title": "Nativo Resources cierra financiamiento por regalía para arrancar planta de oro en Arequipa",
-        "summary": "Nativo Resources aseguró US$ 3.5 millones para terminar su planta de oro La Patona, en Arequipa. A cambio, cederá una regalía sobre su producción a Chancery Royalty. ¿Cuándo empezará a operar?",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/oro-en-arequipa-la-planta-la-patona-ya-tiene-fondos-y-fecha-para-iniciar-operaciones-noticia/",
-        "image": "https://gestion.pe/resizer/v2/7B34JTGPQZHZNKJD6XQVRM2R6Q.jpeg?auth=80ba047c2d24e4a73c7067f35b1575f49345a351e98771c2b89c6f4cad4a482b&smart=true&width=1415&height=1000",
-        "publishedAt": "2026-10-18T11:00:00.000Z"
-      },
-      {
-        "title": "Coworking en expansión: Swiss Rents mira Arequipa y fija su meta de sedes al 2030",
-        "summary": "Swiss Rents, el brazo inmobiliario de Swiss Capitals Group, alista una nueva sede de Swiss Office en San Isidro, donde ya tiene 100% de ocupación, y busca sumar hasta 5,000 m2 de coworking en Lima en el 2027. Ese mismo año llegará a Ciudad de México y evalúa a Arequipa como su primer destino en regiones.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/swiss-rents-fija-cuantas-sedes-de-coworking-quiere-al-2030-y-alista-expansion-en-lima-noticia/",
-        "image": "https://gestion.pe/resizer/v2/UPN4HNJKLNHHDGMTXV6NXWRSGM.jpeg?auth=a6ca3d70a4e7ea3b3ff3b829fc59dede6ffabc909ca9e84839be03aa0f7bb76e&smart=true&width=1080&height=720",
-        "publishedAt": "2026-10-18T10:30:00.000Z"
-      },
-      {
-        "title": "Kion busca entrar al “top 10” de la agroexportación para 2027: ¿a quiénes debe “vencer”?",
-        "summary": "El kion de Perú busca escalar posiciones en las agroexportaciones. ¿Qué tan cerca está del top 10 y qué factores impulsan sus perspectivas para 2027?",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/kion-busca-entrar-al-top-10-de-la-agroexportacion-para-2027-a-quienes-debe-vencer-noticia/",
-        "image": "https://gestion.pe/resizer/v2/6XLCGZF2A5HWXKVJDWHES4DKMA.jpg?auth=59c5b2a06f059e9c7c3c894c3011197da0788aff02ca154076a93b12cd214be4&smart=true&width=10000&height=7500",
-        "publishedAt": "2026-10-18T10:20:00.000Z"
-      },
-      {
-        "title": "Bolsa de Lima lidera mercado andino, pero las mejores acciones enfrentan un obstáculo",
-        "summary": "El índice MSCI Nuam Peru Select registra una subida cercana al 36% en dólares durante 2026.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/mercados/bolsa-de-lima-lidera-mercado-andino-pero-las-mejores-acciones-enfrentan-un-obstaculo-noticia/",
-        "image": "https://gestion.pe/resizer/v2/RRFUAIRHABCL3HXSATWDQYWVBI.jpg?auth=e28a5f8bfd7e8a53f3ebdf448baf92157be55ac5cec4d8b9f03bb512a4e19b1a&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-18T10:10:00.000Z"
-      },
-      {
-        "title": "El Niño dejaría “a cuentagotas” a Sedapal y otras empresas de agua potable: los riesgos",
-        "summary": "El fenómeno El Niño este año podría causar un desabastecimiento de agua aún mayor que el de 2017 en Lima, según expertos. El agua en los reservorios del Perú ya empezó a caer.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/el-nino-pondria-en-riesgo-a-la-mayor-parte-de-empresas-de-agua-potable-del-peru-noticia/",
-        "image": "https://gestion.pe/resizer/v2/5UQNKQ6KFBGQBOPM2J7IUR5H2E.jpg?auth=9cd165bdbfa3ae0a573b53dc73d03906bf79ec47833749c0b764d1ea82898ccc&smart=true&width=1200&height=798",
-        "publishedAt": "2026-10-18T10:10:00.000Z"
       }
     ],
     "sociedad": [
@@ -370,14 +370,6 @@
         "publishedAt": "2026-10-15T23:09:39.000Z"
       },
       {
-        "title": "Inteligencia artificial y pensamiento crítico: las habilidades que marcarán el futuro del marketing - Perú 21",
-        "summary": "Inteligencia artificial y pensamiento crítico: las habilidades que marcarán el futuro del marketing &nbsp;&nbsp; Perú 21",
-        "source": "Perú 21",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQWpPYzFZMUlKdDFmMWUzeUNFenVKdzZBNVRIUDB2ZVlMNkpDN3c4Mk9aRVduSmFmZDFjS1VBdXlfMTFVTVprcEo2OGw1T0ZCalpxVlo0QVhGMUszUkVZQlJibUFVdVFwQVp5cnBJMUotZnE0T2xWMTlGMVJvT0xUVU8tZWFHcnlPVnNONlljd29YWGthR0NuZmplY2YwMko5aXJqNVNQNzJIRVBQVjZsT05zRHlxQUhnQnQ1Zkdya0luTy1nblFz?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-14T23:23:02.000Z"
-      },
-      {
         "title": "Inteligencia artificial en Perú alcanza adopción de 17.3% y Microsoft ve potencial de crecimiento - El Peruano",
         "summary": "Inteligencia artificial en Perú alcanza adopción de 17.3% y Microsoft ve potencial de crecimiento &nbsp;&nbsp; El Peruano",
         "source": "El Peruano",
@@ -408,6 +400,14 @@
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeVREdGhkSk9WZGYtMGZpS003Yk1rU3ZOYUY0Wk5lN01YUi03X1ZxcU1PZnNEYnRfMEtyOTVpVjdlMVIySEtuMU0ycVVPREIzazkwWllvZzZwQzcyclpESWZvUnFnYUdhd0hqd1c4QW81ZUFlbG5vc2R3YTZaYldvYVJSdXdFa3FnZWszaFNZVTFxanhkczdyRmFfWVRITi1uNHExY05pZ19wd19BQmRjd1VwcDNVcXdNZHRUU1dRSXVnLWVhUlFOMA?oc=5",
         "image": "",
         "publishedAt": "2026-10-06T17:37:46.000Z"
+      },
+      {
+        "title": "Líderes y los 4 mitos a desaprender sobre IA: las claves para transformar sus empresas - Gestión",
+        "summary": "Líderes y los 4 mitos a desaprender sobre IA: las claves para transformar sus empresas &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQX3Y5WVhJMENjVU5TSTkzRkR0UTllckE4SFdRUktHQzhYXzBrTHJRVXI0djh2cUN5OTdPa3hEQkdjNHFXQWI5aTNCd0hva3UxeUJBdWRfbkItempMYkVPZHVWYm9nNk12VVZ1THBuUDkzeld3LXFvMW12MDl2MFdmTEdmWnJBckxtTjdjanNRWjR3UklwZndxNlZNblpvM29yNnBpcC1icU5id1B1WTZ0X3Bjdlg5SzJTam85RnZTM1lMRkRhMTd0XzhTVEdtUGlZTk1GVlhLT3E2ZWNFU2JNS0ZBWDBmTkFySk9BUi1GZ0hXeEhDWkRmZjZSbnFPWWRNQjE0SFdWa0JqeGJUUmJrQg?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-01T07:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -502,14 +502,6 @@
         "publishedAt": "2026-10-02T07:00:00.000Z"
       },
       {
-        "title": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” - Infobae",
-        "summary": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZFRYakI4T1o2cXhXN2pKSzc2bXBiLVlUZ1R1VFAxSWtDRW10LUl1TnNZaWJLRXpXSlBEZmJzN2lZdGF1SG5NUDBWQXUzZXp3VTlnbXlTODd1clZtRXZQUENXWlRydS0ydkhyWFg3SHJScVdKZ1VlU1l2cWpBM2RJcndGYjNWRVJNblpCa29EOHpXRGlnRVVCb0JOd0s4allqdVVjS0FEMGZXU2c5OXB4S214NUhIb1FFRWlaNVc3OHA0Uk0xcmpVbGFkdW1Kb1laTXZTSzZNY0J1WkFNM3BCRkRqdVNsV185WEdkSGtmMjZhLU00eW9mcExBdkvSAZcCQVVfeXFMTUlaaHZOVlluQ2hONUZIY1Y0bnBXNDVmN2tYNXFvbjNBVFBSR3RRUXNYOWVJdU9oQ0dHbUExc3FwTkEzWFM4UkVMTmFjX1dRdVR4VFRncThQWXFFV2pNUmhGZDBFRHZyUnZXcDVBWnhneG9fSklpMDFScE9nZlNjMzQ4aFI4MnNBTmtiTnM4SkhzRGFWWVZSai1IYnV4QkFsU1FSUGZXU1V4SGNlSjYtNUY1UFNiSXVDWEtEV3VjaXljZDZkdFEyMFJhenFNaXB3VVhRcTNEWTJzU2prTm1MMzkzOTdPT3laQV9sNkItOGRoWFo2SXZzRmZNTU9UYjhuYjd0VnZWTVY5WmNoRktEczI5b3dKbGVr?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-09T07:00:00.000Z"
-      },
-      {
         "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
         "summary": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -538,6 +530,14 @@
         "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
         "source": "Diario Correo",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-05T07:00:00.000Z"
+      },
+      {
+        "title": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más informació",
+        "summary": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; Facebook",
+        "source": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdFRtVHlGS2ZUeUplTE1XU09ickJVSlBqR0Z3VGR1cjlrTG5NQlNuOFc5Si1OVXVLclh2T3Z1VEhKV1luN09INHpaRHp6U1Z1a2dRWWVjT1NzcG1pSnN2SVJGTnBvMzhzSXFlWnVFVXhKVmZtSUF1Z19rN1Z4U1BqNU02Qjd2dWRnWnZXemlkZlZHeVMxckFPT3pLeTNUek5uVkZOZUM5ZVVGMXFISG1GUEYxTXB2TW1PaUI1QkJsMFFOQ2g3TF9pOXVBdV9UVk95ZGN2M04tNDlLNFFhc2h0UHAzWU9QaC1mOW1Nb1B0U1RGTEs5Y204ZQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       }
