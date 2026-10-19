@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T23:08:26.912Z",
+  "generatedAt": "2026-10-19T01:12:56.581Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,63 +24,103 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
+        "title": "Viceministra de Minas: “Estamos estableciendo un plazo de 18 meses y no abrimos la puerta a una nueva ampliación”",
+        "summary": "La viceministra de Minas, Mayra Figueroa, defiende el proyecto de Ley MAPE del gobierno y detalla que el plazo que tendrán los mineros informales para concluir el proceso de formalización será de 18 meses y ya no de dos años.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/entrevista-ley-mape-viceministra-de-minas-estamos-estableciendo-un-plazo-de-18-meses-y-no-abrimos-la-puerta-a-una-nueva-ampliacion-entrevista-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/JT2ZG3TPLNAR7B47GI5VJV3ZW4.jpg?auth=e18a227b811e25ca3381a347e6a5fc379f76b4531ccfcff92653b7c23d9f8ebe&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-10-19T00:45:00.000Z"
+      },
+      {
+        "title": "Proyecto de Ley MAPE del gobierno propone que plantas de beneficio sean fiscalizadas ¿que otras medidas incluye?",
+        "summary": "A dos meses y medio para que concluya el Reinfo, el gobierno de Keiko Fujimori está por presentar ante el Congreso bicameral su propuesta para la nueva Ley de la Pequeña Minería y Minería Artesanal (Ley MAPE). En el texto, el Ministerio de Energía y Minas (MINEM) plantea que las plantas de beneficio sean objeto de fisc",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/el-proyecto-de-ley-mape-del-gobierno-desde-la-fiscalizacion-a-las-plantas-al-ingreso-de-mineros-informales-al-sistema-bancario-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/MH4ANCPCNNBCHLXEGA2BXHWCGA.png?auth=dfe973b0d4354bb0cd6100300e5497c0e17fcd6504ab988711141cf2cda6426d&smart=true&width=1160&height=660",
+        "publishedAt": "2026-10-19T00:30:00.000Z"
+      },
+      {
+        "title": "César Acuña anuncia su retiro de la política: ¿qué factores impulsarían su decisión?",
+        "summary": "“Les doy una buena noticia: chau, política”, anunció el jueves César Acuña, excandidato presidencial y líder de Alianza para el Progreso (APP), al comunicar su retiro de la actividad política tras el fracaso obtenido por su partido en las elecciones generales y los malos resultados en las regionales y municipales de es",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/partidos/cesar-acuna-anuncia-su-retiro-de-la-politica-que-factores-impulsarian-su-decision-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/E5YJ7XYFQVFOPJUNNGU5WPBWUQ.jpg?auth=f1c87bb644d897595bb2494469136766eb54a0ad996a934362126325f07c1a8b&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-19T00:15:00.000Z"
+      },
+      {
+        "title": "De Gregorio Santos a “El lunarejo”: más de 8 mil condenados solicitaron el indulto presidencial en época electoral",
+        "summary": "Entre los solicitantes se encuentra Gregorio Santos, exgobernador de Cajamarca, condenado a 19 años de prisión por corrupción. El exlíder del Movimiento de Afirmación Social (MAS) presentó su solictud este año y actualmente se encuentra en trámite. Este Diario se comunicó con su abogada, la doctora Cyntia Cornejo Arist",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/indultos-presidenciales-lista-gracias-presidenciales-keiko-fujimori-gregorio-santos-walter-aduviri-abencia-meza-fernando-zevallos-lunarejo-inpe-comision-de-gracias-presidenciales-minjus-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/DIXXQCEFGFHJVAZEI3EXZ2MFAQ.jpeg?auth=2eaac9022d83a1211fccc7209bcdce5f523f99d51cf0884552739741aee2d398&smart=true&width=5000&height=2696",
+        "publishedAt": "2026-10-18T23:55:00.000Z"
+      },
+      {
         "title": "Comisión de Constitución del Senado reanuda este lunes debate sobre el pedido de facultades legislativas",
         "summary": "La Comisión de Constitución del Senado continuará este lunes con la sesión extraordinaria en la que se debatía la delegación de facultades legislativas al Ejecutivo en las materias de fenómeno El Niño y Seguridad Ciudadana.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/comision-de-constitucion-del-senado-reanuda-este-lunes-debate-sobre-facultades-al-ejecutivo-en-seguridad-y-fen-apuesplan-noticia/",
+        "url": "https://elcomercio.pe/politica/facultades-delegadas-en-vivo-comision-de-constitucion-del-senado-predictamen-pedido-del-gobierno-para-legislat-detalles-debate-incidentes-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/JINUQTITRNCRDARGV3WM2TLN3U.jpeg?auth=ab8ab02829bce4c6f85cfab730d0aae04bdbfe8aaddc43a839187a21b01218c6&smart=true&width=1280&height=853",
-        "publishedAt": "2026-10-18T22:55:00.000Z"
+        "publishedAt": "2026-10-18T23:52:17.000Z"
       },
       {
-        "title": "Diputados: Informe recomienda suspender por 120 días a Julián Pérez Mallqui por agresión a su expareja",
-        "summary": "La situación del diputado Julián Pérez Mallqui (Juntos por el Perú) se complica. La Comisión de Ética Parlamentaria de la Cámara Baja concluyó la investigación en su contra y recomendó al pleno suspenderlo por 120 días del ejercicio de sus funciones por la agresión física y emocional contra su expareja en una comisaría",
+        "title": "Alfonso, ¿ahora qué?, una crónica de Fernando Vivas sobre López-Chau, líder de Ahora Nación",
+        "summary": "El líder de Ahora Nación y portavoz de su bancada de senadores, Alfonso López-Chau, quiere contentar a todos. Su bancada, con fuertes personalidades divergentes, suele votar partida.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/diputados-informe-recomienda-suspender-por-120-dias-a-julian-perez-mallqui-por-agresion-a-su-expareja-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/B3A7QPZQ5RBPFFAHEZZNVK5JDA.jpg?auth=84349bda3f3ad12a6f504639536aa27dbd68f046cd0a9d580c53a73b069536f1&smart=true&width=1200&height=798",
-        "publishedAt": "2026-10-18T22:35:00.000Z"
+        "url": "https://elcomercio.pe/politica/alfonso-ahora-que-una-cronica-de-fernando-vivas-sobre-lopez-chau-lider-de-ahora-nacion-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/HS7GG6BZKNAYFHKCBZ3EU5DF6U.jpg?auth=7a89aca952d4d218802a7d1d04116c333390814798413765388c92e0b3a0bfba&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-10-18T23:30:00.000Z"
       },
       {
-        "title": "Campañas del “No a la Revocatoria” y Reelección Municipal: Caso contra Susana Villarán se encamina a los diez años sin sentencia",
-        "summary": "El caso seguido contra la exalcaldesa de Lima, Susana Villarán, por la presunta recepción de dinero ilícito para sus Campañas del “No a la Revocatoria” en el 2013 y la Campaña de Reelección Municipal del 2014, se encamina a cumplir diez años sin sentencia.",
+        "title": "Renovación Popular se declara en reorganización partidaria: ¿A qué se debe y cuáles son los alcances de la decisión?",
+        "summary": "La medida deja sin efecto las credenciales de los coordinadores regionales, provinciales y distritales, cuyos desempeños serán evaluados tras las elecciones de 2026.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/susana-villaran-caso-contra-exalcaldesa-por-presuntas-irregularidades-en-las-campanas-del-no-a-la-revocatoria-y-la-reeleccion-municipal-se-enrumba-a-los-diez-anos-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/BRPYLE22ENFTTKWJXMP4NOBFFQ.png?auth=ca99843771121aeeefa8ac0c8d8a87605505f690dc28d08dc11cc489ea2e3e77&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-18T22:30:00.000Z"
-      },
-      {
-        "title": "Álvaro Vargas Llosa: “EE.UU. nos está ayudando a recuperar la soberanía que las mafias ponen en peligro”",
-        "summary": "Álvaro Vargas Llosa Asumirá el cargo el 16 de noviembre, pero en esta conversación adelanta lo que serán varias claves de su gestión. También hace una lectura sobre la manera que tiene la administración Trump de aproximarse al Perú, la relación comercial y el factor geopolítico.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/alvaro-vargas-llosa-eeuu-embajador-del-peru-en-estados-unidos-entrevista-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/YKAG3YKNXRCCDPNA43T4B7ZGIM.jpg?auth=39127236e6815e3cb1d4ccf045f56da7316244a4e6feeaefd6e95a25ff225173&smart=true&width=4535&height=3023",
-        "publishedAt": "2026-10-18T22:10:00.000Z"
-      },
-      {
-        "title": "El Senado también se la juega, una crónica de Fernando Vivas sobre la pugna por las facultades legislativas",
-        "summary": "Tras la agónica aprobación de facultades acotadas en Diputados, con Fuerza Popular apostando al todo o nada; en el senado también se la siguen jugando por reponer algo de lo acotado.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/el-senado-tambien-se-la-juega-una-cronica-de-fernando-vivas-congreso-facultades-legislativas-keiko-fujimori-gobierno-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/RNAJLOLTDNHQVFEYTKP5BI6LLA.jpg?auth=12559d90190ad414716dfc99db325f28ff1cbcf3239a681271f18e3338891467&smart=true&width=1732&height=1154",
-        "publishedAt": "2026-10-18T21:45:00.000Z"
-      },
-      {
-        "title": "Alejandro Aguinaga sobre su ausencia en debate de facultades por viajar a congreso médico: No puedo señalar cuál era más importante",
-        "summary": "El senador Alejandro Aguinaga se pronunció sobre su viaje a Argentina durante el debate de las facultades legislativas solicitadas por el Ejecutivo y evitó establecer cuál de las dos actividades tenía mayor importancia. “En los dos eventos he estado, yo no te puedo señalar ahorita cuál era el más importante o no”, decl",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/alejandro-aguinaga-sobre-su-ausencia-en-debate-de-facultades-por-asistir-a-congreso-medico-en-argentina-no-sabria-decir-cual-era-mas-importante-ultimas-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/VCW3657B5JHBXNXXWDMDSBRNBY.jpg?auth=df8b616614d98a6dfa47078a19e34850257c873624c64546a1bcb0cbf47db66c&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-18T21:41:39.000Z"
-      },
-      {
-        "title": "El voto 31: Este es el escenario que muestra el peso de Obras para el fujimorismo en la delegación de facultades",
-        "summary": "Los cinco senadores del partido de Ricardo Belmont serán piezas clave si es que se insiste con la modificación del texto de delegación de facultades recibido desde la Cámara de Diputados.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/el-voto-31-este-es-el-escenario-que-muestra-el-peso-de-obras-para-el-fujimorismo-en-la-delegacion-de-facultades-congreso-keiko-fujimori-senado-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/6ZEY44TZKVGZLC32X2SY7XUAPI.png?auth=050992c89c28e9d1d80154afb2d752f6814fda804557c4feab4c13f6fb4167c4&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-10-18T21:20:00.000Z"
+        "url": "https://elcomercio.pe/politica/renovacion-popular-se-declara-en-reorganizacion-partidaria-a-que-se-debe-y-cuales-son-los-alcances-de-la-decision-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/ML4TNTIFKNGJ3DCHTGK4MZUFRU.jpg?auth=227d635dceec7864ac15b79745256bdcf0358e365a88a2b5949b47353b340ae2&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-18T23:15:00.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Educación online: negocio impulsado por IA ya mueve cerca de US$ 300 millones en Perú",
+        "summary": "El mercado peruano de plataformas de educación online deja atrás el auge de la pandemia y apuesta por la inteligencia artificial, el modelo B2B y la capacitación especializada para sostener su crecimiento.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/plataformas-de-educacion-online-como-evoluciona-el-negocio-en-peru-impulsado-por-la-inteligencia-artificial-edtech-noticia/",
+        "image": "https://gestion.pe/resizer/v2/3MDLVNUPGZHMDIAFYLQZXJA34M.jpeg?auth=99bc082a872d3ff4426cdd5dd35dbce01649b65a734b72607601f6e4fd029d40&smart=true&width=1280&height=853",
+        "publishedAt": "2026-10-19T01:01:00.000Z"
+      },
+      {
+        "title": "FMI y Banco Mundial advierten sobre los riesgos de la IA y el aumento de la deuda",
+        "summary": "Los organismos mundiales cerraron su reunión anual con nuevas advertencias sobre el impacto de la inteligencia artificial, la inflación y los elevados niveles de endeudamiento de las principales economías.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/mundo/internacional/fmi-y-banco-mundial-advierten-sobre-los-riesgos-de-la-ia-y-el-aumento-de-la-deuda-noticia/",
+        "image": "https://gestion.pe/resizer/v2/NSF5JVMKP5B5PDEONIFNI32NCY.jpg?auth=4a4aeb64c2dc9c5636cf59e41060f684e08789cfc5e79c69076e6aee688b2d8c&smart=true&width=1200&height=628",
+        "publishedAt": "2026-10-19T00:15:00.000Z"
+      },
+      {
+        "title": "BTS: el secreto de la logística detrás de la banda que paralizó Lima por seis días",
+        "summary": "BTS: el secreto de la logística de la banda que paralizó Lima por seis días. Una de las piezas del engranaje que permitió que los concietos de BTS se llevaran sin contratiempos fue la empresa de servicios aeroportuarios Talma.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/tendencias/bts-talma-revela-el-secreto-de-la-logistica-detras-de-la-banda-que-paralizo-lima-por-seis-dias-noticia/",
+        "image": "https://gestion.pe/resizer/v2/X62SDBHNE5BUJA3OS4MOILYDQU.jpg?auth=e0c6d84781291d7b022cc1e8b6b0b229378d291d6b852737cbc0bf842618dee8&smart=true&width=1214&height=800",
+        "publishedAt": "2026-10-19T00:07:00.000Z"
+      },
+      {
+        "title": "Gobierno transfiere S/ 12.4 millones a Ministerio de Defensa para pago de impuestos",
+        "summary": "El MEF aprobó otorgar recursos al Mindef, los cuales serán destinados al pago del IGV y del Impuesto a la Renta.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/gobierno-transfiere-s-124-millones-a-ministerio-de-defensa-para-pago-de-impuestos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/6O45KGIRKREHFBENJUASNCKOJ4.jpeg?auth=397822b53c1436bbbdd9351c26d3508cc051a051787622b4787c57fcff3fe9d4&smart=true&width=1302&height=728",
+        "publishedAt": "2026-10-18T23:31:11.000Z"
+      },
+      {
+        "title": "Kion busca entrar al “top 10” de la agroexportación para 2027: ¿a quiénes debe “vencer”?",
+        "summary": "El kion de Perú busca escalar posiciones en las agroexportaciones. ¿Qué tan cerca está del top 10 y qué factores impulsan sus perspectivas para 2027?",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/kion-busca-entrar-al-top-10-de-la-agroexportacion-para-2027-a-quienes-debe-vencer-noticia/",
+        "image": "https://gestion.pe/resizer/v2/6XLCGZF2A5HWXKVJDWHES4DKMA.jpg?auth=59c5b2a06f059e9c7c3c894c3011197da0788aff02ca154076a93b12cd214be4&smart=true&width=10000&height=7500",
+        "publishedAt": "2026-10-18T23:29:56.000Z"
+      },
       {
         "title": "Perú: 1 de cada 5 “profes” de secundaria tiene 55 años, ¿hay personal listo para el relevo?",
         "summary": "El 20% de los profesores de secundaria en Perú supera los 55 años. ¿Está preparado el sistema educativo para el relevo generacional?",
@@ -104,46 +144,6 @@
         "url": "https://gestion.pe/economia/ositran-alerta-que-11-contratos-de-concesion-estan-proximos-a-vencer-noticia/",
         "image": "https://gestion.pe/resizer/v2/LBGX4IJXWRBFVPFMPVZ633ZM3I.jpg?auth=c3cb7b9fd8161ffdf15af0255b4313e6a5ed1208055de6c7e6ab12001e1f7062&smart=true&width=1200&height=799",
         "publishedAt": "2026-10-18T21:54:29.000Z"
-      },
-      {
-        "title": "BTS: el secreto de la logística detrás de la banda que paralizó Lima por seis días",
-        "summary": "BTS: el secreto de la logística de la banda que paralizó Lima por seis días. Una de las piezas del engranaje que permitió que los concietos de BTS se llevaran sin contratiempos fue la empresa de servicios aeroportuarios Talma.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/tendencias/bts-talma-revela-el-secreto-de-la-logistica-detras-de-la-banda-que-paralizo-lima-por-seis-dias-noticia/",
-        "image": "https://gestion.pe/resizer/v2/X62SDBHNE5BUJA3OS4MOILYDQU.jpg?auth=e0c6d84781291d7b022cc1e8b6b0b229378d291d6b852737cbc0bf842618dee8&smart=true&width=1214&height=800",
-        "publishedAt": "2026-10-18T21:52:32.000Z"
-      },
-      {
-        "title": "FMI y Banco Mundial advierten sobre los riesgos de la IA y el aumento de la deuda",
-        "summary": "Los organismos mundiales cerraron su reunión anual con nuevas advertencias sobre el impacto de la inteligencia artificial, la inflación y los elevados niveles de endeudamiento de las principales economías.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/mundo/internacional/fmi-y-banco-mundial-advierten-sobre-los-riesgos-de-la-ia-y-el-aumento-de-la-deuda-noticia/",
-        "image": "https://gestion.pe/resizer/v2/NSF5JVMKP5B5PDEONIFNI32NCY.jpg?auth=4a4aeb64c2dc9c5636cf59e41060f684e08789cfc5e79c69076e6aee688b2d8c&smart=true&width=1200&height=628",
-        "publishedAt": "2026-10-18T21:15:15.000Z"
-      },
-      {
-        "title": "Coworking en expansión: Swiss Rents mira Arequipa y fija su meta de sedes al 2030",
-        "summary": "Swiss Rents, el brazo inmobiliario de Swiss Capitals Group, alista una nueva sede de Swiss Office en San Isidro, donde ya tiene 100% de ocupación, y busca sumar hasta 5,000 m2 de coworking en Lima en el 2027. Ese mismo año llegará a Ciudad de México y evalúa a Arequipa como su primer destino en regiones.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/swiss-rents-fija-cuantas-sedes-de-coworking-quiere-al-2030-y-alista-expansion-en-lima-noticia/",
-        "image": "https://gestion.pe/resizer/v2/UPN4HNJKLNHHDGMTXV6NXWRSGM.jpeg?auth=a6ca3d70a4e7ea3b3ff3b829fc59dede6ffabc909ca9e84839be03aa0f7bb76e&smart=true&width=1080&height=720",
-        "publishedAt": "2026-10-18T21:00:00.000Z"
-      },
-      {
-        "title": "Petroperú subastará casa en San Isidro de 2,000 m² y también 8 de playa en Punta Sal: ¿cuándo?",
-        "summary": "Desde ProInversión detallaron lo que será la segunda convocatoria a subasta de activos no estratégicos de Petroperú. ¿Habrán más este año?",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/petroperu-subastara-8-casas-de-playa-en-punta-sal-y-otra-en-el-olivar-de-2000-m-cuando-noticia/",
-        "image": "https://gestion.pe/resizer/v2/264S7GQCNRDOJGVURUBWEV4TMI.png?auth=4351d0f53a665c2a7f64ee8e0863acbe5098436e3a7163dd78df1e2fd1287e68&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-10-18T20:48:00.000Z"
-      },
-      {
-        "title": "Kion busca entrar al “top 10” de la agroexportación para 2027: ¿a quiénes debe “vencer”?",
-        "summary": "El kion de Perú busca escalar posiciones en las agroexportaciones. ¿Qué tan cerca está del top 10 y qué factores impulsan sus perspectivas para 2027?",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/kion-busca-entrar-al-top-10-de-la-agroexportacion-para-2027-a-quienes-debe-vencer-noticia/",
-        "image": "https://gestion.pe/resizer/v2/6XLCGZF2A5HWXKVJDWHES4DKMA.jpg?auth=59c5b2a06f059e9c7c3c894c3011197da0788aff02ca154076a93b12cd214be4&smart=true&width=10000&height=7500",
-        "publishedAt": "2026-10-18T20:45:00.000Z"
       }
     ],
     "sociedad": [
@@ -175,7 +175,7 @@
         "title": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? - Infobae",
         "summary": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2x4NndiTVA4bUlRNXVjbHlRQVhsZmF6ZVlNTDQ3eFlzLUd1YTFGTDllMFlSOG1kdlllNFFDM3ltcThJbXJVbXJlVWV1amhzV05CTzZTcmxkczg3TlY1bW5JLUVWWVR0UktOWVp0dTcwR3hHSkxBWVFnbC1iTmJ2MlQzcjRJZjBfQkZ5RS12Qm9hVWdQNU4ydExiU2huSDIxVmlYb3BlUjVOZkg3YXhHTVBBQzV2WU1SRmlGbzZnN3l1Y0tPTDdCU0w0S2FxNDVFeGUtcnA4OXk2RlJ3NlVrXw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2x4NndiTVA4bUlRNXVjbHlRQVhsZmF6ZVlNTDQ3eFlzLUd1YTFGTDllMFlSOG1kdlllNFFDM3ltcThJbXJVbXJlVWV1amhzV05CTzZTcmxkczg3TlY1bW5JLUVWWVR0UktOWVp0dTcwR3hHSkxBWVFnbC1iTmJ2MlQzcjRJZjBfQkZ5RS12Qm9hVWdQNU4ydExiU2huSDIxVmlYb3BlUjVOZkg3YXhHTVBBQzV2WU1SRmlGbzZnN3l1Y0tPTDdCU0w0S2FxNDVFeGUtcnA4OXk2RlJ3NlVrX9IB-wFBVV95cUxQb3hrbHpSeVhpankxdWdERnpPNlpPOV9MS2ZPZjFKd0w0el9xS25jSld0akJJdkhiZ3BoNFVTME5fOHplb3ZnczdGNXVhSkkwSGhSSk9MZEM0N3lseVc3dVZvUjZRX3dnMUVKTGY4UlhaSk9sZERUMnkwSXo1MkpNdVd0T3ZoeVMxMTN2QVo1S2w1X3Vpa25GU1lEMmRTTHB0T2Y3dm9GUTZVMk9jNmR0UFdiNUVuYldpNEp6dFZoTFpIZVh3Yi1pQy0tWldDYldXbjlFWXlPM2JQVHVxTFZNOTczNzRaT1lHSDFoWUdySWtuR2lsM1FSRzVhOA?oc=5",
         "image": "",
         "publishedAt": "2026-09-21T07:00:00.000Z"
       },
@@ -270,12 +270,12 @@
         "publishedAt": "2026-06-26T07:00:00.000Z"
       },
       {
-        "title": "Cinco consejos para emprendedores que quieren hacer crecer su negocio sin poner en riesgo su patrimonio - Business Empresarial",
-        "summary": "Cinco consejos para emprendedores que quieren hacer crecer su negocio sin poner en riesgo su patrimonio &nbsp;&nbsp; Business Empresarial",
+        "title": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups - Business Empresarial",
+        "summary": "COFIDE anuncia plataforma para acercar IA, servicios, financiamiento y asesoría empresarial a PYMEs y startups &nbsp;&nbsp; Business Empresarial",
         "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONjJuRlg3UTRITXRKYUJwSDU1RzU0cURfLXl1WFQyd2pPVTdnTnJfMU1JMW5Pb3hMc3lOaXlIT0xHdkVqN3VwR1JQYzZJd3lzaUpUVFAzSEpjOWlNNV9tbEE2MUctWnFHTnFsOFo5dVNpVWtsTEt5dkxhRmtLV1ZhQmUtM0g0RVoxdDNDWjl3Vk1zV1M2SHZkY29aNkJZWkFhV2M4cl9wMXpWZzRzQVJMdWtSc2ZJY250ekRxekc0cUw3dGFXYm81SkxjREYxLXFtTS13TkphejBrQ1VQY2Nfc05QMUxnVDFfZ0M2RmRieS04djY1amZxdU0wSjY4QWhOZUE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYmtHemFxbzkzZVNVajZWNmstMk9YSDJHejFFbjVDaE5sYWNsT0JRZkxJUjBoa1hmMU5hdTNqclFvbDcxWl9nZUcxRlp4cHdPWGk4SE1oVWlTbW5iNzdwUXNWYWh4WUQzSEY4TmVSbnozMDVmS3BPd1ZUYllacXNOQVpUMFhqR215X1FOSk04Q1p5ZVJseXdrYm5DdkM0SDZpVHc0ZVR1MUNhX1dSRnRPa0dzdkxqS29xdTc5aGw3U2RxRzR0cmNsVGRkS2ota2s0aWFUZjJMc1FvRnlVaUF3Z3Nn?oc=5",
         "image": "",
-        "publishedAt": "2026-06-26T07:00:00.000Z"
+        "publishedAt": "2026-06-25T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -328,10 +328,10 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
-        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - Instituto de Ingenieros de Minas del Perú - IIMP",
-        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; Instituto de Ingenieros de Minas del Perú - IIMP",
-        "source": "Instituto de Ingenieros de Minas del Perú - IIMP",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRE5fZ3JJNF84QkRUbkg3dVFHbWlZbER1STBIYXZMdlU4VnUtYlo5MnROakM2RE1JNC1CbGswOVUyZG1iUWxDeTAtRzY0aEJLY1d3bFdRMlJ1elE5Qmp1UGx0S2I4LWdlSF9SQi1ZSVFveEJwRE1iakhBVTMtUEthOXZyVU1TdlM1dFNNR3ljb3hrR0pBNWpJWTlHUWFzbU1jNWtXVndDclN0Ul9RNGZwSHh6aVpxWWRtNWRnUk1xMHhIVU10NWx3RTQ3QXVyc3BIYm4zTDJXbl8?oc=5",
+        "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - Revista Minería & Energía",
+        "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; Revista Minería & Energía",
+        "source": "Revista Minería & Energía",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNGRFXzc5Skp6cnFkd0Zfbmt3NVpwcC04eXJaekp6Z094a096R013M29yQ3hTUlFzRFF6eTE5SUZ0VHhLQjVEdTFIRlIyUERGM09nTzVZZHNXdmFVR3RITDF3X2RTeUdNb3FnT2otTUlBeGh0TUtKQWFzcURMY1JCMEhSdzM3cnpuUnBrUkh2TEpJOWZOMGY3bkkzTmE3RlY2YjJ3S0dZdVRqdFRBcDN3RFl4blQxeGVuTnM5WHVDRjdmUG1JZExSam9hLU8?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
       },
@@ -345,6 +345,14 @@
       }
     ],
     "ia": [
+      {
+        "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - Diario Ahora",
+        "summary": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú &nbsp;&nbsp; Diario Ahora",
+        "source": "Diario Ahora",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUwwRm5ROVRhYTJuX0RCWEVaNW4yU1lQU0k0anlPcFRITnJEZTItWXJnVDF5MkYxODhCSV9sSWRJelduRjFLRnNYTDZGVG15WVdDQTJkRUpBVFd4V2FZazA2Q3ZvNGgxV2M3Z2FlcEl5cHJESEZoRWwyM0VPQ2MwWlpBc3BSakN3N25NTi1UNU1rWEhwejBONjQ1dTdUS3Y5Y1RUc0Y4dkpOZzFvTFJsWnZJREZGMmpwb2tPeFpyRnpha1Q5MWRlQw?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-18T06:30:52.000Z"
+      },
       {
         "title": "Del buscador al carrito de compras: el consumidor peruano aprueba la IA que lo ayuda a elegir - altavoz.pe",
         "summary": "Del buscador al carrito de compras: el consumidor peruano aprueba la IA que lo ayuda a elegir &nbsp;&nbsp; altavoz.pe",
@@ -400,14 +408,6 @@
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeVREdGhkSk9WZGYtMGZpS003Yk1rU3ZOYUY0Wk5lN01YUi03X1ZxcU1PZnNEYnRfMEtyOTVpVjdlMVIySEtuMU0ycVVPREIzazkwWllvZzZwQzcyclpESWZvUnFnYUdhd0hqd1c4QW81ZUFlbG5vc2R3YTZaYldvYVJSdXdFa3FnZWszaFNZVTFxanhkczdyRmFfWVRITi1uNHExY05pZ19wd19BQmRjd1VwcDNVcXdNZHRUU1dRSXVnLWVhUlFOMA?oc=5",
         "image": "",
         "publishedAt": "2026-10-06T17:37:46.000Z"
-      },
-      {
-        "title": "Líderes y los 4 mitos a desaprender sobre IA: las claves para transformar sus empresas - Gestión",
-        "summary": "Líderes y los 4 mitos a desaprender sobre IA: las claves para transformar sus empresas &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQX3Y5WVhJMENjVU5TSTkzRkR0UTllckE4SFdRUktHQzhYXzBrTHJRVXI0djh2cUN5OTdPa3hEQkdjNHFXQWI5aTNCd0hva3UxeUJBdWRfbkItempMYkVPZHVWYm9nNk12VVZ1THBuUDkzeld3LXFvMW12MDl2MFdmTEdmWnJBckxtTjdjanNRWjR3UklwZndxNlZNblpvM29yNnBpcC1icU5id1B1WTZ0X3Bjdlg5SzJTam85RnZTM1lMRkRhMTd0XzhTVEdtUGlZTk1GVlhLT3E2ZWNFU2JNS0ZBWDBmTkFySk9BUi1GZ0hXeEhDWkRmZjZSbnFPWWRNQjE0SFdWa0JqeGJUUmJrQg?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-01T07:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -552,14 +552,6 @@
         "publishedAt": "2026-09-10T07:00:00.000Z"
       },
       {
-        "title": "Agenda cultural en Lima del 3 al 10 de setiembre: Ricky Martin, La Tarumba, ‘La Profesora’ y la apertura del nuevo Paradox Park - Infobae",
-        "summary": "Agenda cultural en Lima del 3 al 10 de setiembre: Ricky Martin, La Tarumba, ‘La Profesora’ y la apertura del nuevo Paradox Park &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeV9mZEM2dHUwYktIZ1MxTTNvWWtnMmRNTFl0S2VzcUlydTRWQUVlcGJXU3BKZzFDMlk5alR2QklJYXNjMnpmYmd0Sm9nZFIzUG5JazZ3ZU5Lbi05MGlOdVcwNy1ZUEpZUU5mWTdrTHVMSGdVTjctNkdSUmlYaDZ3V25VTzJoa19GU0ZXaFplOGhJT0M3YngwdG9wSkI1U1VCMllpdDdhYkFqVjN4QzhVX0luNUhRRkdxS0c1YTRlSGRKOFVRSW92cjhUdUQyRkpBRFJ2LUhRYlpORlYydzk1QlRrcDRXRHZ0ZEVjWU5BZVgydHRJ0gGPAkFVX3lxTE40dDg2UjlEN0VJczBwVUF2Uk5wVUlORV9oNUg2MEx6QXFFQzM2bHJydGNLZHQ3UTNRc0N4dmExdGZ1NndSOTVKdnlsTHdZQVFzOThBRUhwbGp5c1BYZDg0a3dWYzN4Ty03M0tIRXVZaHBHS0xZU241ODI2UGFKZTZXcGlTSi1CMXhOTmlCNUkyRTBlN1RjMXJhTGMxOThVR0ZhQ3cxY0RwRmFBN0FMVkRFUHEwcVUyaUVkM1I4aGJIMUJvTG5GMjJhN0Vudk9MVjU3QWN1QXNXZUNtOVlIUWNFVkxEMzMxUjZibU5obkhpalA3cERvWFh6bTMzTDhkbnBZdFRNNkh1OHVSQ2tEbEk?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-05T07:00:00.000Z"
-      },
-      {
         "title": "Agenda cultural en Lima del 27 de agosto al 2 de setiembre: Black Eyed Peas, Paulo Londra, Animatissimo y el Festival Escape del MALI - Infobae",
         "summary": "Agenda cultural en Lima del 27 de agosto al 2 de setiembre: Black Eyed Peas, Paulo Londra, Animatissimo y el Festival Escape del MALI &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -606,6 +598,14 @@
         "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVEN4R0wzbk9BVWZvS0JOOS1TcXR1SkFWTzVHbEhDM0hjYzBaX056STYyZkgybnR1VDc0VEl3WWZjeE01ZkEtUGl4OHZoOWxEcDd0WFdGbnJsanpXS0lNOW1rR0ZPcm9YcHVORFYyRE5PYXpiYVpVdWtOeWFPN1Y5QmJUeGMxSVZ5YWZnb3VoT0VyelEtLUtDM0pRam9zOFlIWEpOZUxUUjFBSl9YZXlUSFJqenRuaE5LR0RqRGQyck50NFdxaV9nMi1KSmRFMVFNZ2c0Z0dhUzd2aU4yOGZyb20wNFQzR0pRaUxtWTZsRkMtbTVzNnhnZk13N3FHNlJlbkdmOXByRdIBogJBVV95cUxNSzdWSFA0MnYyRkhjdGRKRnVsUDlOUzZobWxGUGw2T083NG41MUVmX1ZObGpOZjcyLVRQTGg2NV9ObXJhSUtRQ3VVS2wzRUtxaFdocUozSEJPeHZXc2JabzhENS16QXZFYVVmY0ltS3BocnJTZEFLeVhOMHdXUWY4LWpFc3FzRWU3RndwYjZ5d1FLX09vNFBnemc1aldIN0tyUEE3NzJpZmwxOEN2Wmdpc1RBUU5uVXRVRTZNUzdsMW5oVmVJYUdZc0hLdG00S1o0TVB3NzlsSm8xTC1kMmo0SXNRTVhNUzFYaUYzd1dRRi1OVmprRlVMd1IxcG11Z1JqSElMMGc0QkFKQmxOYVlfUUJOd0IzbWtsa3h4RWNVQTFfdw?oc=5",
         "image": "",
         "publishedAt": "2026-08-13T07:00:00.000Z"
+      },
+      {
+        "title": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO - Ticketmaster Peru Blog",
+        "summary": "EVENTOS EN LIMA EN AGOSTO: LOS MEJORES PLANES PARA VIVIR LA EMOCIÓN EN VIVO &nbsp;&nbsp; Ticketmaster Peru Blog",
+        "source": "Ticketmaster Peru Blog",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVJKaExOenRRZmxzRzVVZWxoanFOaE1fTFdEZmpiRUV0X3FYcFAtTjVwMGo1R1hoUUo2dUhQVVNIZEl5eDhMSlBSdE1jWWZ3YUJXZncxM3J1d2tCUVJvUnNULS1lMEoxZlZkZ0tBbFpFZGxwYm5TSUYyd1RUZmt2VU1JN2thUl94dHduXzdKRWJGOUxQLUp1cWs4U0NMcEhDLVJrVWdVODJDSjJlYjNZODFmY0I0b3NuS2Jn?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-08T07:00:00.000Z"
       }
     ]
   },
