@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T19:12:15.052Z",
+  "generatedAt": "2026-10-20T22:16:03.174Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,6 +24,46 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
+        "title": "Susana Villarán: Caso por campañas del “No a la Revocatoria” y Reelección Municipal se encamina a los 10 años sin sentencia",
+        "summary": "El caso seguido contra la exalcaldesa de Lima, Susana Villarán, por la presunta recepción de dinero ilícito para sus Campañas del “No a la Revocatoria” en el 2013 y la Campaña de Reelección Municipal del 2014, se encamina a cumplir diez años sin sentencia.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/susana-villaran-caso-contra-exalcaldesa-por-presuntas-irregularidades-en-las-campanas-del-no-a-la-revocatoria-y-la-reeleccion-municipal-se-enrumba-a-los-diez-anos-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/BRPYLE22ENFTTKWJXMP4NOBFFQ.png?auth=ca99843771121aeeefa8ac0c8d8a87605505f690dc28d08dc11cc489ea2e3e77&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-20T21:12:12.000Z"
+      },
+      {
+        "title": "Pedido de facultades: ¿El oficialismo tiene los votos en el Senado? ¿Cuál es el ánimo de las bancadas?",
+        "summary": "Para que el Gobierno de Keiko Fujimori obtenga las facultades legislativas, necesita 31 votos en el Senado.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/pedido-de-facultades-el-oficialismo-tiene-los-votos-en-el-senado-cual-es-el-animo-de-las-bancadas-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/CSFUWAFKGBEYXM6H7AOYO6NQI4.jpg?auth=a9ec57630f3e2827718079bd80415a0e2ed84959b71e1bf6ea7953466cd3b16f&smart=true&width=888&height=450",
+        "publishedAt": "2026-10-20T20:36:28.000Z"
+      },
+      {
+        "title": "Canciller de Ecuador: “Tenemos desafíos en la seguridad fronteriza, donde combatimos a grupos de delincuencia organizada”",
+        "summary": "El ministro de Relaciones Exteriores y Movilidad Humana de Ecuador, Roberto Kury Pesantes, afirmó que los presidentes Daniel Noboa y Keiko Fujimori “comparten una misma visión de país” y que esto ha hecho que la relación bilateral entre Quito y Lima sea “más fluida”.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/internacional/entrevista-roberto-kury-pesantes-canciller-de-ecuador-tenemos-desafios-en-la-seguridad-fronteriza-donde-combatimos-a-grupos-de-delincuencia-organizada-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/GC55C2HGSFEIRBZBVYGSCLLA64.jpg?auth=a805b75fb9466286b5609e6790ff8d1998e3e180435a84d54ac1015b734e9c9a&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-10-20T19:44:00.000Z"
+      },
+      {
+        "title": "Gobierno presenta propuesta de Ley Mape al Congreso: lo que plantea y lo que se viene",
+        "summary": "El Ejecutivo presentó al Congreso la propuesta de nueva Ley MAPE, que reduce de dos años a 18 meses el plazo del régimen de consolidación para los inscritos en el Reinfo. La iniciativa también plantea cambios en la fiscalización de las plantas de beneficio y la apertura de cuentas en el Banco de la Nación.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/ley-mape-gobierno-presenta-propuesta-de-ley-al-congreso-cambios-en-el-reinfo-fiscalizacion-a-plantas-de-beneficio-y-banco-de-la-nacion-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/HW52PGWCVNCJ3EDPAM6Q4GCA2Q.jpg?auth=88b561b0f4f9784a9f45d1d0aff2ecc9b11d1c56b2596f43e4cc4f8999538ffe&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-20T19:43:00.000Z"
+      },
+      {
+        "title": "Facultades delegadas: ¿qué modificaciones se incorporaron al dictamen y cómo se desarrolló el debate?",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/facultades-delegadas-que-modificaciones-se-incorporaron-al-dictamen-y-como-se-desarrollo-el-debate-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/YNHXSJHLAJDO3C2ZIQBFG55OXY.jpeg?auth=b6bce4d6df3bfe68352246a517f527267013412422aa8f39209a61ade57700d5&smart=true&width=1280&height=853",
+        "publishedAt": "2026-10-20T19:43:00.000Z"
+      },
+      {
         "title": "Martín Vizcarra: INPE informa que fue trasladado a Hospital de Vitarte",
         "summary": "El expresidente Martín Vizcarra Cornejo fue trasladado de emergencia este martes 20 de octubre desde el Establecimiento Penitenciario de Barbadillo al Hospital Lima Este – Vitarte, informó el Instituto Nacional Penitenciario (INPE).",
         "source": "El Comercio Perú",
@@ -38,104 +78,56 @@
         "url": "https://elcomercio.pe/politica/en-vivo-keiko-fujimori-y-daniel-noboa-se-reunen-este-martes-y-se-desarrolla-gabinete-binacional-peru-ecuador-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/GPFX7E4RWBGSRKA4Z47ASFB2DE.jpeg?auth=5505a71f94cddcb7991fc14ef3d49b318a9e32c2eb0355de5ccef0f9bddb0017&smart=true&width=1280&height=854",
         "publishedAt": "2026-10-20T18:52:57.000Z"
-      },
-      {
-        "title": "Pleno de la Cámara de Diputados debate el 29 de octubre denuncia constitucional contra Pedro Castillo y Walter Ayala",
-        "summary": "El Pleno de la Cámara de Diputados debatirá el jueves 29 de octubre, a las 3:00 p. m., el informe final de la Denuncia Constitucional 12 (antes 403) contra el expresidente Pedro Castillo y el exministro de Defensa Walter Ayala. Así lo acordó la Junta de Portavoces de dicha cámara parlamentaria.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/pleno-de-la-camara-de-diputados-debate-este-jueves-denuncia-constitucional-contra-pedro-castillo-y-walter-ayala-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/VLFOJ47MXZHXLOGHUKXSTSPF4U.jpg?auth=c2155cd8e0cac5206e5d0fedf647551ff27e9ee570727c121bc2f10932fb1950&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-20T18:30:02.000Z"
-      },
-      {
-        "title": "Pedido de facultades: ¿El oficialismo tiene los votos en el Senado? ¿Cuál es el ánimo de las bancadas?",
-        "summary": "Para que el Gobierno de Keiko Fujimori obtenga las facultades legislativas, necesita 31 votos en el Senado.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/pedido-de-facultades-el-oficialismo-tiene-los-votos-en-el-senado-cual-es-el-animo-de-las-bancadas-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/CSFUWAFKGBEYXM6H7AOYO6NQI4.jpg?auth=a9ec57630f3e2827718079bd80415a0e2ed84959b71e1bf6ea7953466cd3b16f&smart=true&width=888&height=450",
-        "publishedAt": "2026-10-20T18:23:35.000Z"
-      },
-      {
-        "title": "Pleno del Senado debate este miércoles dictamen que delega facultades legislativas al Gobierno",
-        "summary": "El pleno del Senado de la República debate este miércoles, desde las 10 de la mañana, el dictamen de la Comisión de Constitución que delegada facultades especiales al Gobierno para legislar en 27 materias referidas a la lucha contra la criminalidad y al fenómeno El Niño.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/en-vivo-pleno-del-senado-dictamen-sobre-delegacion-de-facultades-legislativas-al-gobierno-sobre-seguridad-ciudadana-y-fenomeno-el-nino-detalles-votacion-incidentes-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/C7RI2JRG3BDAHCS5X4WPIIFPME.jpg?auth=4def772096a2b943071fa0d2751f5a872de167798a6a47d460683c6e42b4f06a&smart=true&width=4096&height=2730",
-        "publishedAt": "2026-10-20T17:59:44.000Z"
-      },
-      {
-        "title": "Viceministra de Energía y Minas, Mayra Figueroa ratifica que Reinfo culmina el 31 de diciembre de 2026",
-        "summary": "La viceministra de Energía y Minas, Mayra Figueroa, ratificó que el proceso del Registro Integral de Formalización Minera (Reinfo) culminará el 31 de diciembre de 2026, tal como establece el cronograma del Ejecutivo. La funcionaria explicó que el proyecto de Ley de la Pequeña Minería y Minería Artesanal (MAPE) busca es",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/actualidad/viceministra-de-energia-y-minas-mayra-figueroa-ratifica-que-reinfo-culmina-el-31-de-diciembre-de-2026-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/F7MF6WCKDJES7DRLFIBKB2TAJA.jpeg?auth=2ff8a414a73f57da4135acab0e5f95969086ad1f6b6966a98d11b7dadf3da216&smart=true&width=724&height=457",
-        "publishedAt": "2026-10-20T17:53:15.000Z"
-      },
-      {
-        "title": "Canciller de Ecuador: “Tenemos desafíos en la seguridad fronteriza, donde combatimos a grupos de delincuencia organizada”",
-        "summary": "El ministro de Relaciones Exteriores y Movilidad Humana de Ecuador, Roberto Kury Pesantes, afirmó que los presidentes Daniel Noboa y Keiko Fujimori “comparten una misma visión de país” y que esto ha hecho que la relación bilateral entre Quito y Lima sea “más fluida”.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/internacional/entrevista-roberto-kury-pesantes-canciller-de-ecuador-tenemos-desafios-en-la-seguridad-fronteriza-donde-combatimos-a-grupos-de-delincuencia-organizada-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/GC55C2HGSFEIRBZBVYGSCLLA64.jpg?auth=a805b75fb9466286b5609e6790ff8d1998e3e180435a84d54ac1015b734e9c9a&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-10-20T17:44:12.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Hogares de Perú sacrificaron “gustos” por cubrir gastos en últimos 9 años: ¿seguirá en 2026?",
+        "summary": "El presupuesto de los hogares peruanos cambió entre 2016 y 2025: vivienda ganó participación y comer fuera perdió terreno. ¿Qué pasará en 2026?",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/hogares-de-peru-sacrificaron-gustos-por-cubrir-gastos-en-ultimos-9-anos-seguira-en-2026-noticia/",
+        "image": "https://gestion.pe/resizer/v2/LSOLTV2MYZGTVJQ56PWH56LOTQ.jpg?auth=a9a41664302c7088470afe4c13f74ca1141c674a9325aeba2a8a8526f3b87c15&smart=true&width=6240&height=4160",
+        "publishedAt": "2026-10-20T23:31:00.000Z"
+      },
+      {
+        "title": "El Niño en Lima y Callao: Sedapal asegura continuidad del abastecimiento de agua potable",
+        "summary": "La EPS informó sobre la implementación de medidas para proteger las plantas de tratamiento, fortalecer las fuentes de agua subterránea, entre otros.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/el-nino-en-lima-y-callao-sedapal-asegura-continuidad-del-abastecimiento-de-agua-potable-noticia/",
+        "image": "https://gestion.pe/resizer/v2/ID5AQ63BKRBPRNTVV3ELI32BWQ.jpg?auth=4022d43c07a4026925d8c4f2953074379ac559ea8a9e4d196f8d6032ef8de7ae&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-20T22:00:17.000Z"
+      },
+      {
+        "title": "Sunass: en zonas en riesgo de sequía prioridad del agua será el consumo humano",
+        "summary": "Regulador trabaja estrategia para área de operación de empresas de saneamiento donde habrá déficit hídrico",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/sunass-en-zonas-en-riesgo-de-sequia-prioridad-del-agua-sera-el-consumo-humano-noticia/",
+        "image": "https://gestion.pe/resizer/v2/HGSLFKU3EZF7VMR2JQFBLLCMRQ.png?auth=3ac222ee8c60f69f45a2253b1722f31500756ae45db5efafe402e713bcd6dc24&smart=true&width=1115&height=672",
+        "publishedAt": "2026-10-20T21:55:15.000Z"
+      },
       {
         "title": "Envejecimiento acelerado en Perú pone “en jaque” a Essalud: ¿qué riesgos aparecen?",
         "summary": "Los adultos mayores requieren el doble de consultas que el promedio de asegurados. Pese a que la actual capacidadad operativa es limitada, el escenario en unos años se posiciona más adverso. Los detalles aquí.",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/envejecimiento-acelerado-en-peru-pone-en-jaque-a-essalud-que-riesgos-aparecen-noticia/",
         "image": "https://gestion.pe/resizer/v2/5PNKZPUKQJCVTNESIH4KZNSFOU.jpg?auth=2502ad53043fef00b0b5883b2c796303cc01f31710e9707cbf62bd4a8d0dfb8c&smart=true&width=1200&height=802",
-        "publishedAt": "2026-10-20T18:54:44.000Z"
+        "publishedAt": "2026-10-20T21:54:00.000Z"
       },
       {
-        "title": "Electroperú y UNOPS movilizarán más de US$ 200 millones para modernizar complejo Mantaro",
-        "summary": "La modernización de la infraestructura energética es uno de los frentes de desarrollo de la Empresa de Electricidad del Perú (Electroperú), que busca fortalecer la confiabilidad operativa de sus instalaciones. En esa línea, la compañía amplía su trabajo conjunto con la Oficina de las Naciones Unidas de Servicios para P",
+        "title": "CCL cuestiona pena de hasta cinco años por demoras en bloqueo de celulares vinculados a delitos",
+        "summary": "La Cámara de Comercio de Lima (CCL) expresó su rechazo al proyecto de ley que propone penas de entre tres y cinco años de cárcel para directivos y funcionarios de empresas operadoras móviles que omitan dolosamente bloquear líneas o equipos vinculados a delitos dentro de un plazo máximo de un día calendario.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/electroperu-y-unops-alistan-nuevas-intervenciones-en-complejo-de-mantaro-en-el-marco-de-inversiones-por-mas-de-us-200-millones-noticia/",
-        "image": "https://gestion.pe/resizer/v2/L3ICXPNDKJHT3BMXCM5RBLASRM.jpg?auth=3f7604b65fff85a6f82efc7a58916a18b95e6269bd209ed45deb3f68a7adeecc&smart=true&width=954&height=549",
-        "publishedAt": "2026-10-20T18:46:19.000Z"
+        "url": "https://gestion.pe/economia/empresas/ccl-cuestiona-pena-de-hasta-cinco-anos-por-demoras-en-bloqueo-de-celulares-vinculados-a-delitos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/4BYLX3FWARFGHJ666FKGEQLMBI.jpg?auth=a7d5a55b59fb43b1768274814de56d19e6d7d853aac29ceb89f8584c70a0daa1&smart=true&width=1200&height=797",
+        "publishedAt": "2026-10-20T21:47:25.000Z"
       },
       {
-        "title": "El Niño pone en riesgo más de 100 infraestructuras de agua potable en el norte, alerta Sunass",
-        "summary": "Son más de 2.2 millones de personas en el ámbito de las EPS con mayor nivel de peligro que pueden verse afectadas.",
+        "title": "Suplementos: empresa de capital suizo adelanta stock por El Niño y alista su plan al 2027",
+        "summary": "Vitador, empresa de capitales suizos detrás de Vitagel, apuesta por las gomitas vitamínicas con una marca española. Estos son sus lanzamientos y planes de expansión para lo que resta del 2026 y el 2027.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/el-nino-pone-en-riesgo-mas-de-100-infraestructuras-de-agua-potable-en-el-norte-alerta-sunass-noticia/",
-        "image": "https://gestion.pe/resizer/v2/UZLYRPV55VGNZDR2TKPFAK5X2E.jpg?auth=c6ba9acd4fdbf3ecdcf6b84b4c649a2c6cdc44baa7adf5fa4fc18e68ad2502ef&smart=true&width=3000&height=2000",
-        "publishedAt": "2026-10-20T18:39:29.000Z"
-      },
-      {
-        "title": "Anchoveta blanca: Autorizan a Imarpe inicio de su pesca exploratoria",
-        "summary": "El Ministerio de la Producción autoriza a Imarpe la ejecución de la pesca exploratoria de anchoveta blanca.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/anchoveta-autorizan-a-imarpe-inicio-de-su-pesca-exploratoria-noticia/",
-        "image": "https://gestion.pe/resizer/v2/ZFTP7IAKJFBTRA2DI4AP2NGILA.jpg?auth=5cacb046c22666df0a679866005efa01f8d4a24c463330086a5c4db1862ca26c&smart=true&width=1800&height=1199",
-        "publishedAt": "2026-10-20T18:18:37.000Z"
-      },
-      {
-        "title": "Mercados e indicadores – Hoy martes 20 de octubre",
-        "summary": "Para tomar las decisiones más acertadas de inversión, manténgase diariamente bien informado sobre el desempeño de las acciones de la plaza bursátil, de la variación de las principales variables del mercado financiero, así como de la evolución de los precios de los commodities. La cotización en el mercado de Londres el ",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/mercados/mercados-e-indicadores-hoy-martes-20-de-octubre-noticia/",
-        "image": "https://gestion.pe/resizer/v2/CKBJCXWQXVCTXHZN5ZAGTM66RE.jpg?auth=c935a9816683dbd514d89311dedaf60293df727aefbd90da56a9830e4813f2eb&smart=true&width=1280&height=720",
-        "publishedAt": "2026-10-20T17:02:09.000Z"
-      },
-      {
-        "title": "SNP pide al Gobierno dar alivio tributario a pesqueras frente a “Mega Niño”: ¿qué buscan?",
-        "summary": "Jessica Luna, presidenta de la Sociedad Nacional de Pesquería (SNP), pide al Gobierno de Keiko Fujimori acoger sus medidas tributarias para el sector pesquero, que ya padece el efecto del Fenómeno El Niño.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/snp-pide-al-gobierno-dar-alivio-tributario-a-pesqueras-frente-a-mega-el-nino-que-buscan-noticia/",
-        "image": "https://gestion.pe/resizer/v2/S3RR5IDKMJA5DOUZZQRAHC4RTE.png?auth=88cd0ff0504b746ea4b3a8cfcb4b3d9d6c3262d63843687c5fce7609e57aa400&smart=true&width=1671&height=941",
-        "publishedAt": "2026-10-20T16:30:00.000Z"
-      },
-      {
-        "title": "Dulcefina apunta a Europa con tortas y amplía tienda-estudio en Surquillo",
-        "summary": "Una torta artesanal puede requerir varios días de trabajo, desde el diseño hasta los detalles de su decoración. En Dulcefina, la pastelería premium de Rosalyn Picón, ese trabajo se combina con una tienda-estudio en Surquillo y pedidos personalizados desde fuera de Perú.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/dulcefina-mira-a-europa-como-mercado-para-pasteleria-fina-y-amplia-tienda-estudio-en-surquillo-noticia/",
-        "image": "https://gestion.pe/resizer/v2/KPF64YC37REKNBMNPMPMMG2TNU.jpeg?auth=98ba9d7958d224e5a72c95001bf4d88f0415c6bc9346232b4761df80494e77fb&smart=true&width=8098&height=5399",
-        "publishedAt": "2026-10-20T15:52:47.000Z"
+        "url": "https://gestion.pe/economia/empresas/suplementos-en-peru-empresa-de-capital-suizo-adelanta-stock-por-el-nino-y-alista-lanzamientos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/ESKIFLMX7ZEM5I37G2I4SMCE7A.jpg?auth=9fff4223561aa43f3bed36d0485eeae7d15140649b3d153d7a17d0965eabe6ca&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-20T21:44:00.000Z"
       },
       {
         "title": "Amura Inmobiliaria entra al negocio de Airbnb y mira nuevos distritos de Lima",
@@ -143,7 +135,15 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/amura-inmobiliaria-apuesta-por-airbnb-y-mira-nuevos-distritos-de-lima-para-expandirse-noticia/",
         "image": "https://gestion.pe/resizer/v2/EAJSABZZIFATPD4P3IF2XYXVWE.jpeg?auth=4fee6b53e968aee6f8ab832628285f8aebf11ea44edaecb8cfd8b38d81729f79&smart=true&width=7000&height=3938",
-        "publishedAt": "2026-10-20T14:45:31.000Z"
+        "publishedAt": "2026-10-20T21:30:00.000Z"
+      },
+      {
+        "title": "Puerto de Paracas: MSC estrena buque y abre primera temporada de uva bajo control de TIL",
+        "summary": "El Puerto de Paracas inició la temporada de uva 2026-2027, la primera desde que pasó a manos del brazo portuario de MSC. La naviera estrenó un buque en el terminal de Pisco: ¿qué movilizó en esta primera operación?",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/puerto-de-paracas-en-manos-de-til-asi-arranco-su-primera-temporada-de-uva-noticia/",
+        "image": "https://gestion.pe/resizer/v2/DMOVBNNYHRAZZDC3OEO5A6OYUY.jpg?auth=c7f0f2d9cc52487adb4f87584f8b40732174dcb6a8b09886a54e533cd2166d77&smart=true&width=700&height=395",
+        "publishedAt": "2026-10-20T21:15:00.000Z"
       }
     ],
     "sociedad": [
@@ -367,7 +367,7 @@
         "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVmRsM2lCcVpqUFBBaTYtemZrTllMVTNSQ0NWd2ZmZzlfa1NGOV9zY0w1VE1DZ1hwZDREYWNVaUtzbkwxNENoa1NVSWxrR0I0YVZJMnhMVzdYQWR4WEVQb1k0cGNpLTZucVpoMGEtclZZM3lkZnlSNW56TDUxRk0wYmIwc1lLTjFEMDM5aVdScG1zVjQxZGJBV1V4OGg4aFNhRUQzd1o4WmhDbXJFazRTYnBkTUtnWDlOUkxIUXVyQ0NRUE5ld3YzalF5UQ?oc=5",
         "image": "",
-        "publishedAt": "2026-10-12T18:29:00.000Z"
+        "publishedAt": "2026-10-12T07:00:00.000Z"
       },
       {
         "title": "Uso de IA crece en empresas, pero solo 30% reporta políticas de seguridad - La República",
@@ -376,6 +376,14 @@
         "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPb0FkVUtxcW5KQUxGN1ByR2EzWEYwVmJ0V0ZQVExrMUlWSnpxc0laT0RfR3ZOMFJYRjlhamlDbDlwVnplYVNoUzRvWnFYeUVwMDlkd3FvUjBWTVRZcE9oRU0xcWRuanlTVHZZUDB2QXdTTThZWTZzTloxYzFiSTNNLTdfU1pibHBmLTRuMHBPSU96MkVRemlJLTN2anRPQnNpbWJUTGJaQ2JaWW1lRkhURlpQNHplZkRqaVFZZThHYnk5VWR5TUNrOGZHRGZXdmJQemF1THN5dTFzemk0cm9MYWpHTnN5bDJmU0hlR0ZrT21ib25VNTNfckZCU0xSRVRxampiZDRQRUpidw?oc=5",
         "image": "",
         "publishedAt": "2026-10-09T04:48:13.000Z"
+      },
+      {
+        "title": "Inteligencia artificial: cómo puede reducir el consumo de energía - La República",
+        "summary": "Inteligencia artificial: cómo puede reducir el consumo de energía &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORlpGTEJnYlE0VlFjaDZwQkIzTUUzMkhYTFVIcDA1NlpaSWdsM1BaYVR3MVFWN19LSVpDekpoU0dYb1FCdGI0bXVGYTljQ0JRTmRuc1owZkp5Z0d2TkpERkpyNi1PekhackRHOUNRQ3Zmb0VKRktjXzVHcjZ6b0F3STlvUlVPLU1LNlQ4UmxBZHFVREJPNGRSNXh2alphd19iYS1HbTNDRExIejVHNzFEMkhJLUV6RDZkYkw5LUNSLUM5aDFfTzZCbnp6YTRwVC1heTVJbm1qX0Jqd3gtR3c?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-08T07:00:00.000Z"
       },
       {
         "title": "Perú, el más preocupado de Latam por impacto de la IA en el empleo, ¿riesgo real? - Gestión",
@@ -394,20 +402,12 @@
         "publishedAt": "2026-10-06T17:37:46.000Z"
       },
       {
-        "title": "Líderes y los 4 mitos a desaprender sobre IA: las claves para transformar sus empresas - Gestión",
-        "summary": "Líderes y los 4 mitos a desaprender sobre IA: las claves para transformar sus empresas &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQX3Y5WVhJMENjVU5TSTkzRkR0UTllckE4SFdRUktHQzhYXzBrTHJRVXI0djh2cUN5OTdPa3hEQkdjNHFXQWI5aTNCd0hva3UxeUJBdWRfbkItempMYkVPZHVWYm9nNk12VVZ1THBuUDkzeld3LXFvMW12MDl2MFdmTEdmWnJBckxtTjdjanNRWjR3UklwZndxNlZNblpvM29yNnBpcC1icU5id1B1WTZ0X3Bjdlg5SzJTam85RnZTM1lMRkRhMTd0XzhTVEdtUGlZTk1GVlhLT3E2ZWNFU2JNS0ZBWDBmTkFySk9BUi1GZ0hXeEhDWkRmZjZSbnFPWWRNQjE0SFdWa0JqeGJUUmJrQg?oc=5",
+        "title": "Cámara Peruana de Inteligencia Artificial y PBS Group Perú establecen alianza estratégica para adopción responsable de la IA en empresas peruanas - Perú Informa",
+        "summary": "Cámara Peruana de Inteligencia Artificial y PBS Group Perú establecen alianza estratégica para adopción responsable de la IA en empresas peruanas &nbsp;&nbsp; Perú Informa",
+        "source": "Perú Informa",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVjZJeENTb0xLNW1yWEs5Y1p0amlEUjZZNGxIR1lTc1dGV2hCMUpCZ1lrcWNPWDVVVHRkaXh3Wjh6NXZQYnJmV1puRF9oUENFVDRuTF9kWG9iTVFWWVVMa2g2MjNCbFNFNVNhZm9aTVMyRWJacVljV185SWFEMGQyTl90N2xYMUFucXhUQWpSemZWMzZGa0JONGFXRElIX01JVXNoX0hQYWZjNmFIOWpXMnBxNzY2RndFMEU5SzRjeWhhNkNLSlVVLUlPUEpjZXZUQk9mRWp1dm0zci1oV2N5ajZJQV8wMGI1VjZQZ1lWdzByLS1ON0VTR0VaVThoTzdqcjVPdg?oc=5",
         "image": "",
-        "publishedAt": "2026-10-01T07:00:00.000Z"
-      },
-      {
-        "title": "Ingenieros de Perú crean 'Pulso', tecnología con Inteligencia Artificial para rescate humano y ganan concurso de Google - La República",
-        "summary": "Ingenieros de Perú crean 'Pulso', tecnología con Inteligencia Artificial para rescate humano y ganan concurso de Google &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOejlpWFhZZHJTOENlcHlrbG1PZmVxT3hEdHJZR0o0SHQ1QVBCTkMtZl93X0syeHM3U1RGT18xaXFVb2FKWm5USFZDbFVucGgxRThfY296T1JwVmM1Y0Q1eEF1S05ETE1faklDM1d0N254WXdHYVVld3B0ejlaVzRubERfdUdjOWZfdVVtRzFBZWNNMGFxcklKdzFSNmQxYWtHR0VsaFQ2czFaU1pFVGhIZHpmbTIzMVVXTlI0aF9fTUZFSGtrbDEwUE9FYnBLa2pGaldLanJ4Sk9vbUhoSW1Sc2tiQlZRaWVyQk1ETGwxOA?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-01T07:00:00.000Z"
+        "publishedAt": "2026-10-05T15:19:43.000Z"
       }
     ],
     "tendencias": [
@@ -502,14 +502,6 @@
         "publishedAt": "2026-10-02T07:00:00.000Z"
       },
       {
-        "title": "Conciertos en Lima para septiembre 2026: todos los eventos con fechas y precios de entradas - La República",
-        "summary": "Conciertos en Lima para septiembre 2026: todos los eventos con fechas y precios de entradas &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQN2t3dE0wQVRpT09kN3dmQktaTDViMEhxXzI5eDQyVWxTZ3FDNmlVMF9rVHhUejRQRkt1SHA1bmZYdWxzSnFuNzhEZUhQWGVFdE1QbjlGV3N0RG1LWTZrRm02Y0w3dTlCc0JPWjRTdHBBaFpEYndHYUNGdjc4aERId000UzdkdTBmWUF1cC1DWG1vdTVxSDdPaDJ5MzVhaDU0WUViellhX2NEUlJQdFR2RzJqNXM3V3psWUQwVk9HRmczejFzUFBxTkxaS0Y1Z0drVnEyRWFHSEtoUVlOTEdKUUExRDlkejI2ck1mLXVDcFRsLTlIWWdOVTg4SThqTndpSzVjTmNkZFE2QXR6cW9LVm1BUdIBmAJBVV95cUxNZVBScnpMYUdFeGdXck5BcWNUTGRfcG9rMEx2UHY2VDZXaFhLeFc4RzhmNzRWN1BFck4zM0RkMGxNSHlBTVFnN0RVMUdWZTM0Y29nbE1fSjBabk1DNFMwbFJRMFJBUzhEYWxkV2V4bm94VUxwY3JmVXlSRXo2NkQ2OGpBUzhCclU5ZnpWYU0tMDlNWFMySWx6dmQxSDVmTGVKTmdVMWVEOGw5TEh4OW9PLTFyWWtNYzEydHFrRVAtOWREdlFCOVh6YlB5TFNfRlRPcGpCQXVMYmpsbTRnSW5xMnA5MUN3LS13bHczalozcVdUV2tiVDZieHI4ZVoybllCZEtCek5QTXJKTmNxV3lBaHZHYXFBYjBT?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-17T07:00:00.000Z"
-      },
-      {
         "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
         "summary": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -540,6 +532,14 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
+      },
+      {
+        "title": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión - Infobae",
+        "summary": "Malú Costa reaparece e impacta con radical cambio de vida que lleva tras dejar la televisión &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFpHYlBfWE5DYjhNXzVvdjhzWEJUU3NRYUxCei13QUhSajlnTWtaNmxCUmRZeFJsU0FQZ2Uxa0hkMHNCanNqd1pPUDlveFZGUXlvU0MyblFibDBMY1pZVHZZczdZNlFpZ0dVU2hwUlJrQjdOY3FMZHloNXY2cXhCVVR4YjVLR1B5NEFhOGJlY2NKZnF2dWpfMWNUYTdGd2U1MWt1RWNpVUw1NXdWWE1SN0dSMm9ldWNqZUM2Z1930gHYAUFVX3lxTE9YYW5mSTRNYXNfWFBBZi0tX1h0S3A1b09TY09zaVFmcWdLTllzMHhtTzRQOHNwaEFOT1ZycS1fNklDamM2Tm4zbGZ0Uk5DTldIMDAxUlhGZVNmV2RvZXdVRERiTGFxV0Jhclc1bERDd3ItWU9yY1dpQjE2d0NnTVZzVDhBTjV4ellKTW5HOUxBWUtOLVNnVGs3Wi1ibF9iNVNMWFlzajFjSzhUSjRKdXBZQUdlbTh0QklnMUxNNFFlVXpTYi1jZXE2Z2dFcklfX2U3Y0VnTUM4Vg?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-30T07:00:00.000Z"
       }
     ],
     "cultura": [
