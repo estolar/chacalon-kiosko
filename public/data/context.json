@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T04:44:03.713Z",
+  "generatedAt": "2026-10-20T10:00:07.215Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -22,6 +22,14 @@
         "url": "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
         "image": "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
         "publishedAt": "2026-09-01T00:00:00.000Z"
+      },
+      {
+        "title": "Facultades delegadas: ¿qué modificaciones se incorporaron al dictamen y cómo se desarrolló el debate?",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/facultades-delegadas-que-modificaciones-se-incorporaron-al-dictamen-y-como-se-desarrollo-el-debate-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/YNHXSJHLAJDO3C2ZIQBFG55OXY.jpeg?auth=b6bce4d6df3bfe68352246a517f527267013412422aa8f39209a61ade57700d5&smart=true&width=1280&height=853",
+        "publishedAt": "2026-10-20T05:01:00.000Z"
       },
       {
         "title": "Ricardo Belmont sobre apoyo de Obras en delegación de facultades: “No es un partido obstruccionista”",
@@ -70,17 +78,33 @@
         "url": "https://elcomercio.pe/ecdata/elecciones-2026-la-dispersion-del-voto-crecio-en-las-ultimas-elecciones-municipales-en-lima-metropolitana-cuantos-distritos-y-que-zonas-apoyaron-a-los-alcaldes-ganadores-rafael-lopez-aliaga-carlos-bruce-francis-allison-onpe-jne-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/QOOJFCDYQJGHXNXBZ6TZP3I27Q.jpg?auth=242e8b6ee7cb83ce4e935e033284dc16b20c9f7538e812f1dc5f965a276fd713&smart=true&width=1200&height=800",
         "publishedAt": "2026-10-19T23:44:00.000Z"
-      },
-      {
-        "title": "Ética aprueba informe que recomienda suspender por 120 días a Pérez Mallqui por agredir a su expareja",
-        "summary": "La situación del diputado Julián Pérez Mallqui (Juntos por el Perú) se complica. La Comisión de Ética Parlamentaria de la Cámara Baja concluyó la investigación en su contra y recomendó al pleno suspenderlo por 120 días del ejercicio de sus funciones por la agresión física y emocional contra su expareja en una comisaría",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/diputados-informe-recomienda-suspender-por-120-dias-a-julian-perez-mallqui-por-agresion-a-su-expareja-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/CHPBMN7YC5ER5NMWCAAEJH7DBI.png?auth=3bbb4b5ba1dda398997e9f036141014d4b7eb6d7d35b9e4f8836c0848e612ece&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-19T23:31:24.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Empresa austriaca de teleféricos buscan abrirse paso en Perú: Puno, Cusco y Lima en la mira",
+        "summary": "Doppelmayr busca participar en Choquequirao y otros proyectos de teleféricos en Perú, desde iniciativas turísticas en Cusco hasta la red urbana de Lima y Callao.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/doppelmayr-en-peru-los-telefericos-que-busca-impulsar-en-cusco-puno-y-lima-noticia/",
+        "image": "https://gestion.pe/resizer/v2/2TUKOEYQKNHLBMSEPRJQEHEK3E.png?auth=5a560aeb4f1a7b4ce8ce9e22bdcfd354d9abdfd103a6e76043bf885e462f6ecb&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-10-20T09:00:00.000Z"
+      },
+      {
+        "title": "Déficit fiscal en su nivel más bajo en 4 años: ¿se cumplirá regla en 2026 pese a “Mega Niño”?",
+        "summary": "La propia presidenta Keiko Fujimori ha reconocido que el fenómeno climático será el más fuerte de la historia para el Perú. ¿Las cuentas fiscales están preparadas? Acá la respuesta.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/deficit-fiscal-en-su-nivel-mas-bajo-en-4-anos-mega-el-nino-evitara-cumplir-regla-2026-noticia/",
+        "image": "https://gestion.pe/resizer/v2/7E7GBJMG5BG75J7B5ADDC6Y6T4.png?auth=f957e97bd21d10581a72a8da1ca0b8409b0b92d26ef90e67002f7c6f0f6ddf8c&smart=true&width=1672&height=941",
+        "publishedAt": "2026-10-20T07:00:00.000Z"
+      },
+      {
+        "title": "¿El primer piso vale más que las oficinas? El atractivo comercial de los edificios de San Isidro",
+        "summary": "Entre el cierre de 2026 y 2028, el distrito incorporará nuevos espacios comerciales en siete edificios corporativos. Las rentas mensuales oscilan entre US$ 15 y US$ 32 por m², según la zona.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/san-isidro-sumara-16-locales-comerciales-en-edificios-corporativos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/YBVVFZAV65D75A2ZGNGZA44ZEU.jpg?auth=f1775a9ea80f4cacaef2b68dd5eba70766aa5a2af9e2324a68549705782ab9b6&smart=true&width=1920&height=1280",
+        "publishedAt": "2026-10-20T06:00:00.000Z"
+      },
       {
         "title": "Norky’s le sube el fuego a su expansión: abrirá en el Rímac y apunta a estas tres regiones",
         "summary": "Tras un 2026 que superó sus proyecciones, la cadena de pollerías Norky’s ya tiene fecha para su próxima apertura en Lima. Estos son sus planes para 2027 dentro y fuera del Perú.",
@@ -120,33 +144,17 @@
         "url": "https://gestion.pe/economia/petroperu-subastara-8-casas-de-playa-en-punta-sal-y-otra-en-el-olivar-de-2000-m-cuando-noticia/",
         "image": "https://gestion.pe/resizer/v2/264S7GQCNRDOJGVURUBWEV4TMI.png?auth=4351d0f53a665c2a7f64ee8e0863acbe5098436e3a7163dd78df1e2fd1287e68&smart=true&width=1536&height=1024",
         "publishedAt": "2026-10-20T03:00:00.000Z"
-      },
-      {
-        "title": "Latam tras incendio en ala de avión de vuelo Lima-Piura: se coordina la reubicación de pasajeros",
-        "summary": "Una de las alas de un avión de la aerolínea Latam se incidió esta mañana poco antes de despegar desde el aeropuerto internacional Jorge Chávez, en el Callao, rumbo a Piura, tras lo cual la empresa aérea activó sus protocolos de seguridad para resguardar la seguridad de los pasajeros.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/latam-airlines-se-pronuncia-tras-incendio-de-ala-de-avion-de-vuelo-lima-piura-noticia/",
-        "image": "https://gestion.pe/resizer/v2/2GQGWOWNGBGLVHV7VRFYVJ7PDY.PNG?auth=00ad53cc6013b18a225c7b55b538635b3294134b339c4a7a75ad18750ccea3af&smart=true&width=753&height=494",
-        "publishedAt": "2026-10-20T02:45:00.000Z"
-      },
-      {
-        "title": "Empleo en Lima creció más gracias a empresas grandes, ¿pero con puestos de “baja calidad”?",
-        "summary": "Lima Metropolitana sigue sumando trabajadores, especialmente en empresas grandes,pero el mercado laboral empieza a mostrar señales menos favorables.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empleo-en-lima-crecio-mas-gracias-a-empresas-grandes-pero-con-puestos-de-baja-calidad-noticia/",
-        "image": "https://gestion.pe/resizer/v2/KS3FQEZ63VFPPIZFVLOST2ICZI.jpg?auth=05e54bab1303463bf9268f8ff7bc0e0718a8fac0e3f3fd2db3b654e49f95c702&smart=true&width=1242&height=699",
-        "publishedAt": "2026-10-20T02:30:00.000Z"
-      },
-      {
-        "title": "SNCI: Gobierno debe desplegar capacitaciones a nuevas autoridades para obras ante El Niño",
-        "summary": "El vicepresidente de la Sociedad Nacional de Construcción e Infraestructura (SNCI), César Candela, señaló que hay hasta tres retos urgentes ante el fenómeno climático que durará hasta el otoño del 2027.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/snci-gobierno-debe-desplegar-capacitaciones-a-nuevos-alcaldes-y-gobernadores-para-obras-ante-el-nino-noticia/",
-        "image": "https://gestion.pe/resizer/v2/NJPTUN345BEL5PRP54EXGHXNOY.jpg?auth=5ad651ab1773e51a388a88eec5a90fba01d5dfb047007096eaf4fa4ee9b37615&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-20T02:16:00.000Z"
       }
     ],
     "sociedad": [
+      {
+        "title": "Del encuentro con Francisco a una red internacional para prevenir el narcotráfico - Infobae",
+        "summary": "Del encuentro con Francisco a una red internacional para prevenir el narcotráfico &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ0x4ZTF4RHdDRjFtek5hU0pnTkl4Z0huWmRYUF9tUEk0RlltWUQyODhoWkdCZzgwNVVXdFBNX1J1dmM3TENQaUNYWHR5VzJ4MEQ3LWdpaFFzemVObXJiTjh0cDk0dmpySmxZcTdBWnB4ZjFaVGp5OWNSRU55UVlqZGt0RzF4cjRlNkRkZk9GVUEySWsxZXJrbnhpbjQ0dW1FOHVfSmJXMHlfRWptZ3VmSHdEdkN6SjZ2Y1V3WUNZZlhpTjTSAd4BQVVfeXFMT08wS1ozb0h5T2VwVjdaUmJyczhxc3VBa19TakFpZGZGUUR0ODZEMWd5aXBsUzhxeGFfeWk2NUZheTlYTDk2QWJLNlE3a0V3SmtzcU0zbWV1Tk9UcXNpRmYzNkhqaGpyX1hrTW5ray1tZHNGNE15dURPTzBLaTlCQ2pvb1JldTNjNmoxcDRzZmh4dUIwNjlwQ2NReWdwcnJFY2ZxWE9MRHlpTFVrU3I3ekJGQW45dHBpTkt4YlZPZXJZdGdmbmVhNDh3ZGw3Zlk5Q3Z4RTRoVjhLdkwwMEpR?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-13T19:57:00.000Z"
+      },
       {
         "title": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN - La República",
         "summary": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN &nbsp;&nbsp; La República",
@@ -202,14 +210,6 @@
         "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcXVYRHNkcFVTRXlocG5ySVlLRzZJSzNKWEJXRldLWkJHQUpkeFBHWFJSNzVNVFhrTS1WTnliRHBhbmlZTDBCSEVLWjRkSHB0TTd3S3E3bGFucVQ3c0ZoeVJiSkRsRHltQWx0UWlncnNTaUhOcmZpcEUtbWdoR0ZFS2pJczljLUpyR0ZRS1VyTFF4SXBEODlfWG5aVzhsOXF6eGxQYnRPMlpaRHN6TG1hNHZKbzFhZElxOUd2TUNndXJDTHJubmNXM1pMUkNYRkI5eHpaMUNlT0NjYVQzSHh5U2h3c3pUZ2c0TWd5QTRJYWh4bDhuT1g3SHVNQmZ0OHfSAYQCQVVfeXFMTmktbXh4RFU1eWJvVkw4SFRHV2dDbm1rLTRiVU41TW9ONV9tS1pUUmFWcFExb3lfTWYyczVGSjJWLUJBSHRuTDE5RlVBRHhxQ19OdHpvcEtLNEdBcjZNZzZhS3kwRkxBdmxFZUhWZkZWTXRheEQ0U21ZWEV0ZHA1MTBoWWJ3R0VDa3pXQWFpVDlSclVsSUtLT1VtREFId0JXeFpEU3Z0ZmxyclIzcEZSSUFXME5seENxRU9uWVhwVURIWjlTa3JXSTRjd09QMExqeGhNVXpYa0Rzb0d6elRjRGNDMVZES1E2b202dHBrNVZMRW11YURrOGdYY0tuU3dOSFRKZnM?oc=5",
         "image": "",
         "publishedAt": "2026-09-04T07:00:00.000Z"
-      },
-      {
-        "title": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento - El Peruano",
-        "summary": "Galarreta: Presupuesto 2027 marcará un punto de inflexión hacia el crecimiento &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWnZLVmM5cHl5MnZKdC02dHd0eUxvZ0dfQ3hzUUhoTU80b3RieW9BQm9PX3VNYjByUWRYQm81U1FWeXA2NzlwWDlSTmVZblhBZEpRMks3MGoxYXg1amJTaVRGVTBlSDlWN0JtdldfN3oxVkljbnNsRDFoN0VOc3BoUmNCYlNyWG1vMFAtWHktTlNoNnVvamZhNFFVdW1paUhpQmRQYUNjZncwNTN5N05MeTRxRQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-03T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -526,10 +526,10 @@
         "publishedAt": "2026-08-26T07:00:00.000Z"
       },
       {
-        "title": "🔴🔵Descansa en paz: 🕊Fallece Víctor Angobaldo, recordado personaje de la farándula peruana👇 - Facebook",
-        "summary": "🔴🔵Descansa en paz: 🕊Fallece Víctor Angobaldo, recordado personaje de la farándula peruana👇 &nbsp;&nbsp; Facebook",
+        "title": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más informació",
+        "summary": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; Facebook",
         "source": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQLWVGbEUwVG85QTkzaU82bVRlX0lJc3hyd1hzbERpS2lvaWZqTE9idmxvUlZwM3JzV3RtM25EamxVZGY1UnNRNVJxaUNNaTU4VU1abExzUHk3Q3RTYjlFcHpXMnpxVF8ySzZvZVZxTUxDWnRrYWgzX3BVazNTNVd3dTBvamE2S1oyRHdiNDNKNC1wX19FbjZ1VnN1S0xaTGdQVy1OY0cwbzVCX0ZFbjI0aDZYVlNhWUFXVFZzNEJkUWMzNE8xVU1PVzcyWklPLU5RQVRueEVuWElRcWdZekJGNFdJbkVobFMtcHMw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdFRtVHlGS2ZUeUplTE1XU09ickJVSlBqR0Z3VGR1cjlrTG5NQlNuOFc5Si1OVXVLclh2T3Z1VEhKV1luN09INHpaRHp6U1Z1a2dRWWVjT1NzcG1pSnN2SVJGTnBvMzhzSXFlWnVFVXhKVmZtSUF1Z19rN1Z4U1BqNU02Qjd2dWRnWnZXemlkZlZHeVMxckFPT3pLeTNUek5uVkZOZUM5ZVVGMXFISG1GUEYxTXB2TW1PaUI1QkJsMFFOQ2g3TF9pOXVBdV9UVk95ZGN2M04tNDlLNFFhc2h0UHAzWU9QaC1mOW1Nb1B0U1RGTEs5Y204ZQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       },
