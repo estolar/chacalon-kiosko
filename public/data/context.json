@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T10:00:07.215Z",
+  "generatedAt": "2026-10-20T15:01:45.528Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,20 +24,36 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
+        "title": "EN VIVO: Keiko Fujimori y Daniel Noboa se reúnen en Lima en el marco del XVII Gabinete Binacional Perú - Ecuador",
+        "summary": "Previamente, los cancilleres de Perú y Ecuador, Carlos Espá y Roberto Kury Pesantes, encabezaron la instalación de la XVIII Comisión de Vecindad Peruano-Ecuatoriana en el Palacio de Torre Tagle.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/en-vivo-keiko-fujimori-y-daniel-noboa-se-reunen-este-martes-y-se-desarrolla-gabinete-binacional-peru-ecuador-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/CNIEU7GXKNFO3GLYEK5HIGYWAI.jpg?auth=d41704cff30d372af40be10b871995ea111858b85d665f4a5db1f1e565b08ec0&smart=true&width=1280&height=853",
+        "publishedAt": "2026-10-20T14:46:42.000Z"
+      },
+      {
         "title": "Facultades delegadas: ¿qué modificaciones se incorporaron al dictamen y cómo se desarrolló el debate?",
         "summary": "",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/facultades-delegadas-que-modificaciones-se-incorporaron-al-dictamen-y-como-se-desarrollo-el-debate-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/YNHXSJHLAJDO3C2ZIQBFG55OXY.jpeg?auth=b6bce4d6df3bfe68352246a517f527267013412422aa8f39209a61ade57700d5&smart=true&width=1280&height=853",
-        "publishedAt": "2026-10-20T05:01:00.000Z"
+        "publishedAt": "2026-10-20T14:29:00.000Z"
       },
       {
-        "title": "Ricardo Belmont sobre apoyo de Obras en delegación de facultades: “No es un partido obstruccionista”",
-        "summary": "El líder del partido Obras, Ricardo Belmont, afirmó que el apoyo de su bancada al Poder Ejecutivo en la delegación de facultades en el Senado busca demostrar que no es “obstruccionista”, sino una organización política con “valores, filosofía y principios”.",
+        "title": "Pleno del Senado debate este miércoles dictamen que delega facultades legislativas al Gobierno",
+        "summary": "El pleno del Senado de la República debate este miércoles, desde las 10 de la mañana, el dictamen de la Comisión de Constitución que delegada facultades especiales al Gobierno para legislar en 27 materias referidas a la lucha contra la criminalidad y al fenómeno El Niño.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/actualidad/ricardo-belmont-sobre-apoyo-de-obras-en-delegacion-de-facultades-no-es-un-partido-obstruccionista-comision-de-constitucion-senado-apuesplan-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/SAPG25CCSJFEDKQSGGES6KHBGA.jpg?auth=82b4d824261c8c268cad1d7f11bf2912308078353efca1e0aa9036f82e434f42&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-20T03:32:40.000Z"
+        "url": "https://elcomercio.pe/politica/en-vivo-pleno-del-senado-dictamen-sobre-delegacion-de-facultades-legislativas-al-gobierno-sobre-seguridad-ciudadana-y-fenomeno-el-nino-detalles-votacion-incidentes-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/C7RI2JRG3BDAHCS5X4WPIIFPME.jpg?auth=4def772096a2b943071fa0d2751f5a872de167798a6a47d460683c6e42b4f06a&smart=true&width=4096&height=2730",
+        "publishedAt": "2026-10-20T13:51:26.000Z"
+      },
+      {
+        "title": "Marleny Arminta, diputada de Ahora Nación: “Considero que sí se debió haber dado las facultades y no esperar tanto tiempo”",
+        "summary": "La diputada de Ahora Nación Marleny Arminta expresó su respaldo, a título personal, al otorgamiento de facultades legislativas al Poder Ejecutivo en materia de seguridad ciudadana y prevención ante el fenómeno de El Niño. Además, cuestionó las demoras que se produjeron durante el debate de la delegación de facultades e",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/marleny-arminta-diputada-de-ahora-nacion-considero-que-si-se-debio-haber-dado-las-facultades-y-no-esperar-tanto-tiempo-ultimas-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/XFRJ4GZ4VJDDXCMBBPEPEK63FI.jpg?auth=c241f49716a06ab9895e2a197f0dc84e75bb966d9051f9cd02dc7811def1d824&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-10-20T12:49:39.000Z"
       },
       {
         "title": "Canciller de Ecuador: “Tenemos desafíos en la seguridad fronteriza, donde combatimos a grupos de delincuencia organizada”",
@@ -45,105 +61,89 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/internacional/entrevista-roberto-kury-pesantes-canciller-de-ecuador-tenemos-desafios-en-la-seguridad-fronteriza-donde-combatimos-a-grupos-de-delincuencia-organizada-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/GC55C2HGSFEIRBZBVYGSCLLA64.jpg?auth=a805b75fb9466286b5609e6790ff8d1998e3e180435a84d54ac1015b734e9c9a&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-10-20T01:48:02.000Z"
+        "publishedAt": "2026-10-20T12:30:17.000Z"
       },
       {
-        "title": "Keiko Fujimori y Daniel Noboa se reúnen este martes en el marco del XVII Gabinete Binacional Perú - Ecuador",
-        "summary": "Previamente, los cancilleres de Perú y Ecuador, Carlos Espá y Roberto Kury Pesantes, encabezaron la instalación de la XVIII Comisión de Vecindad Peruano-Ecuatoriana en el Palacio de Torre Tagle.",
+        "title": "Gobierno presenta propuesta de Ley Mape al Congreso: lo que plantea y lo que se viene",
+        "summary": "El Ejecutivo presentó al Congreso la propuesta de nueva Ley MAPE, que reduce de dos años a 18 meses el plazo del régimen de consolidación para los inscritos en el Reinfo. La iniciativa también plantea cambios en la fiscalización de las plantas de beneficio y la apertura de cuentas en el Banco de la Nación.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/en-vivo-keiko-fujimori-y-daniel-noboa-se-reunen-este-martes-y-se-desarrolla-gabinete-binacional-peru-ecuador-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/CNIEU7GXKNFO3GLYEK5HIGYWAI.jpg?auth=d41704cff30d372af40be10b871995ea111858b85d665f4a5db1f1e565b08ec0&smart=true&width=1280&height=853",
-        "publishedAt": "2026-10-20T01:12:02.000Z"
+        "url": "https://elcomercio.pe/politica/ley-mape-gobierno-presenta-propuesta-de-ley-al-congreso-cambios-en-el-reinfo-fiscalizacion-a-plantas-de-beneficio-y-banco-de-la-nacion-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/HW52PGWCVNCJ3EDPAM6Q4GCA2Q.jpg?auth=88b561b0f4f9784a9f45d1d0aff2ecc9b11d1c56b2596f43e4cc4f8999538ffe&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-20T11:00:01.000Z"
       },
       {
-        "title": "Catherin Palomino: Comisión de Ética aprueba iniciar investigación contra diputada de Juntos por el Perú",
-        "summary": "La Comisión de Ética aprobó este lunes 19 de octubre iniciar una investigación contra la diputada Catherin Palomino, de Juntos por el Perú, por presunta vulneración al ejercicio inadecuado de su investidura y de su función parlamentaria.",
+        "title": "El dilema de irse de la política",
+        "summary": "Que César Acuña le haya dicho “chau” a la política no significa que este adiós alcance necesariamente a Alianza para el Progreso.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/catherin-palomino-comision-de-etica-aprueba-iniciar-investigacion-contra-diputada-de-juntos-por-el-peru-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/AZC6YHWCVRFLBGCYE63RYL2VZE.jpg?auth=7696457fb5250fc94eae6fdf28416722e1b24a62fd609cf71bd141f3550caf52&smart=true&width=1600&height=1066",
-        "publishedAt": "2026-10-20T01:10:36.000Z"
-      },
-      {
-        "title": "Pedro Pablo Kuczynski fue trasladado a una clínica por una “emergencia” que ya se controló, confirma su abogado",
-        "summary": "El expresidente Pedro Pablo Kuczynski (PPK) fue trasladado a una clínica privada del distrito de San Isidro por una “emergencia estomacal”, según confirmó su abogado, Julio Midolo, a El Comercio.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/actualidad/pedro-pablo-kuczynski-fue-trasladado-a-una-clinica-por-una-emergencia-estomacal-informo-su-abogado-julio-midolo-ppk-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/5SYRVCKG65GRZCAAYG33PQ3NXM.jpg?auth=d89ae56ba6e2839303bdf73937f4ab955cb903fedcb1e74423ad0356a2a018a2&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-20T00:49:28.000Z"
-      },
-      {
-        "title": "La dispersión del voto creció en las últimas elecciones municipales en Lima Metropolitana: ¿Cuántos distritos y qué zonas apoyaron a los alcaldes ganadores?",
-        "summary": "El voto en Lima Metropolitana se ha fragmentado con el paso de los años. En las últimas elecciones municipales, celebradas en el 2022, Rafael López Aliaga, de Renovación Popular, se convirtió en alcalde de la capital con poco más de un cuarto de los votos válidos (26,3%), la cifra más baja desde el 2006.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/ecdata/elecciones-2026-la-dispersion-del-voto-crecio-en-las-ultimas-elecciones-municipales-en-lima-metropolitana-cuantos-distritos-y-que-zonas-apoyaron-a-los-alcaldes-ganadores-rafael-lopez-aliaga-carlos-bruce-francis-allison-onpe-jne-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/QOOJFCDYQJGHXNXBZ6TZP3I27Q.jpg?auth=242e8b6ee7cb83ce4e935e033284dc16b20c9f7538e812f1dc5f965a276fd713&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-19T23:44:00.000Z"
+        "url": "https://elcomercio.pe/opinion/columnistas/el-dilema-de-irse-de-la-politica-por-ivan-arenas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/LYLUTD2SDVDJTKXCS6WY5GHETQ.jpg?auth=15e120f3a597ab8c735de407b8b53c38fcffb95733d1ce465f4e1a614fe39630&smart=true&width=1200&height=675",
+        "publishedAt": "2026-10-20T11:00:01.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Empresa austriaca de teleféricos buscan abrirse paso en Perú: Puno, Cusco y Lima en la mira",
-        "summary": "Doppelmayr busca participar en Choquequirao y otros proyectos de teleféricos en Perú, desde iniciativas turísticas en Cusco hasta la red urbana de Lima y Callao.",
+        "title": "Amura Inmobiliaria entra al negocio de Airbnb y mira nuevos distritos de Lima",
+        "summary": "Amura Inmobiliaria alista inversiones por US$ 35 millones en nuevos proyectos, incursiona en el negocio de alquileres temporales y evalúa terrenos en distritos como Lince y Jesús María para ampliar su presencia en Lima.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/doppelmayr-en-peru-los-telefericos-que-busca-impulsar-en-cusco-puno-y-lima-noticia/",
-        "image": "https://gestion.pe/resizer/v2/2TUKOEYQKNHLBMSEPRJQEHEK3E.png?auth=5a560aeb4f1a7b4ce8ce9e22bdcfd354d9abdfd103a6e76043bf885e462f6ecb&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-10-20T09:00:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/amura-inmobiliaria-apuesta-por-airbnb-y-mira-nuevos-distritos-de-lima-para-expandirse-noticia/",
+        "image": "https://gestion.pe/resizer/v2/EAJSABZZIFATPD4P3IF2XYXVWE.jpeg?auth=4fee6b53e968aee6f8ab832628285f8aebf11ea44edaecb8cfd8b38d81729f79&smart=true&width=7000&height=3938",
+        "publishedAt": "2026-10-20T14:45:31.000Z"
       },
       {
-        "title": "Déficit fiscal en su nivel más bajo en 4 años: ¿se cumplirá regla en 2026 pese a “Mega Niño”?",
-        "summary": "La propia presidenta Keiko Fujimori ha reconocido que el fenómeno climático será el más fuerte de la historia para el Perú. ¿Las cuentas fiscales están preparadas? Acá la respuesta.",
+        "title": "Suplementos: empresa de capital suizo adelanta stock por El Niño y alista su plan al 2027",
+        "summary": "Vitador, empresa de capitales suizos detrás de Vitagel, apuesta por las gomitas vitamínicas con una marca española. Estos son sus lanzamientos y planes de expansión para lo que resta del 2026 y el 2027.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/deficit-fiscal-en-su-nivel-mas-bajo-en-4-anos-mega-el-nino-evitara-cumplir-regla-2026-noticia/",
-        "image": "https://gestion.pe/resizer/v2/7E7GBJMG5BG75J7B5ADDC6Y6T4.png?auth=f957e97bd21d10581a72a8da1ca0b8409b0b92d26ef90e67002f7c6f0f6ddf8c&smart=true&width=1672&height=941",
-        "publishedAt": "2026-10-20T07:00:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/suplementos-en-peru-empresa-de-capital-suizo-adelanta-stock-por-el-nino-y-alista-lanzamientos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/ESKIFLMX7ZEM5I37G2I4SMCE7A.jpg?auth=9fff4223561aa43f3bed36d0485eeae7d15140649b3d153d7a17d0965eabe6ca&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-20T14:30:00.000Z"
       },
       {
-        "title": "¿El primer piso vale más que las oficinas? El atractivo comercial de los edificios de San Isidro",
-        "summary": "Entre el cierre de 2026 y 2028, el distrito incorporará nuevos espacios comerciales en siete edificios corporativos. Las rentas mensuales oscilan entre US$ 15 y US$ 32 por m², según la zona.",
+        "title": "Riesgo de bonos franceses supera nivel clave tras protestas por costo de vida",
+        "summary": "",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/san-isidro-sumara-16-locales-comerciales-en-edificios-corporativos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/YBVVFZAV65D75A2ZGNGZA44ZEU.jpg?auth=f1775a9ea80f4cacaef2b68dd5eba70766aa5a2af9e2324a68549705782ab9b6&smart=true&width=1920&height=1280",
-        "publishedAt": "2026-10-20T06:00:00.000Z"
+        "url": "https://gestion.pe/mundo/internacional/riesgo-de-bonos-franceses-supera-nivel-clave-tras-protestas-en-francia-noticia/",
+        "image": "https://gestion.pe/resizer/v2/6FWZZHWWXZGJ5IVY4DUEPNFURU.jpg?auth=dd40543ee85c3724466e48ebc84ef310d5ae501535a71c908221992ee6599200&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-20T14:24:27.000Z"
       },
       {
-        "title": "Norky’s le sube el fuego a su expansión: abrirá en el Rímac y apunta a estas tres regiones",
-        "summary": "Tras un 2026 que superó sus proyecciones, la cadena de pollerías Norky’s ya tiene fecha para su próxima apertura en Lima. Estos son sus planes para 2027 dentro y fuera del Perú.",
+        "title": "SNP pide al Gobierno dar alivio tributario a pesqueras frente a “Mega Niño”: ¿qué buscan?",
+        "summary": "Jessica Luna, presidenta de la Sociedad Nacional de Pesquería (SNP), pide al Gobierno de Keiko Fujimori acoger sus medidas tributarias para el sector pesquero, que ya padece el efecto del Fenómeno El Niño.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/pollerias-en-lima-norkys-alista-su-regreso-a-la-expansion-y-prueba-un-nuevo-formato-de-atencion-noticia/",
-        "image": "https://gestion.pe/resizer/v2/DEWCO6AAGJHV5ACMUGK35XJKOQ.jpeg?auth=90fde525cfeb1a6477d9f6842d1a9e6f81149f1ed63bfca523c80a6a3070c232&smart=true&width=1280&height=853",
-        "publishedAt": "2026-10-20T04:02:00.000Z"
+        "url": "https://gestion.pe/economia/snp-pide-al-gobierno-dar-alivio-tributario-a-pesqueras-frente-a-mega-el-nino-que-buscan-noticia/",
+        "image": "https://gestion.pe/resizer/v2/S3RR5IDKMJA5DOUZZQRAHC4RTE.png?auth=88cd0ff0504b746ea4b3a8cfcb4b3d9d6c3262d63843687c5fce7609e57aa400&smart=true&width=1671&height=941",
+        "publishedAt": "2026-10-20T14:01:14.000Z"
       },
       {
-        "title": "Inversión minera lograría este año su mejor registro desde 2014: ¿de qué se trata?",
-        "summary": "La inversión privada tiene un panorama positivo. La inversión no minera, por su parte, mantendría su dinamismo en un entorno con expectativas favorables. ¿Cuánto crecería el indicador?",
+        "title": "Nueva ruta y cero alcohol para Viña Vieja: ¿qué mercados y consumidores busca ahora?",
+        "summary": "Bodegas Viña Vieja crece en volumen y ventas, refuerza su capacidad y apuesta por provincias, nuevos formatos y vino desalcoholizado.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/inversion-minera-lograria-este-ano-su-mejor-registro-desde-2014-de-que-se-trata-noticia/",
-        "image": "https://gestion.pe/resizer/v2/HMGFPGAGEBCPPFCY4X7WXMU3XA.jpg?auth=7470842b4f871f779e6d033a504ceafbc88f06c81bfb73644dba54069f146c20&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-20T03:46:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/bodega-vina-vieja-crecimiento-nuevos-formatos-y-mercados-noticia/",
+        "image": "",
+        "publishedAt": "2026-10-20T14:00:00.000Z"
       },
       {
-        "title": "LAP: concepto de ciudad aeropuerto se daría a conocer al inicio del 2027",
-        "summary": "Juan José Salmón, CEO de LAP, también destacó la necesidad de que el país se trace metas para el sector. Apuntó que, al 2031, se debe alcanzar los seis millones de turistas movilizados, en un escenario conservador.",
+        "title": "Día de la Canción Criolla: peñas refuerzan su operación y ajustan precios de sus entradas, ¿más del doble?",
+        "summary": "El Día de la Canción Criolla no solo representa una de las principales fechas del calendario cultural peruano. Para las peñas, también es uno de los momentos del año en que aumenta la demanda y se modifica la operación habitual del negocio. Este 2026, con la celebración central cayendo sábado, los establecimientos prep",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/lap-concepto-de-ciudad-aeropuerto-se-daria-a-conocer-al-inicio-del-2027-noticia/",
-        "image": "https://gestion.pe/resizer/v2/NF4C3SNTSNGGZMAQPDSDZF6UKE.jpg?auth=aefc19abe0cdfc27a217ce3636ca164265d4b66f97fd51e27ce855aeb9f1baca&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-20T03:30:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/dia-de-la-cancion-criolla-penas-como-don-porfirio-y-centro-musical-brena-elevan-hasta-80-precio-de-sus-entradas-y-refuerzan-operacion-halloween-31-de-octubre-noticia/",
+        "image": "https://gestion.pe/resizer/v2/KVTGC24T6RDGLL7NXPVIDTYAMU.JPG?auth=1d6c5d61403d0d7b518f808f717d70a4ad9eca3902c56ab16ca9f56113d01567&smart=true&width=1366&height=911",
+        "publishedAt": "2026-10-20T13:30:00.000Z"
       },
       {
-        "title": "Kion busca entrar al “top 10” de la agroexportación en 2027: ¿a quiénes debe “vencer”?",
-        "summary": "El kion de Perú busca escalar posiciones en las agroexportaciones. ¿Qué tan cerca está del top 10 y qué factores impulsan sus perspectivas para 2027?",
+        "title": "Chancay ya mueve más contenedores que Paita: ¿cuánto podría movilizar al cierre de 2026?",
+        "summary": "En siete meses, el puerto de Chancay ya superó lo que movilizó en todo 2025 y gana terreno en el mapa portuario. ¿Cuánto podría mover al cierre del año y qué pendientes advierte la CCL?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/kion-busca-entrar-al-top-10-de-la-agroexportacion-para-2027-a-quienes-debe-vencer-noticia/",
-        "image": "https://gestion.pe/resizer/v2/6XLCGZF2A5HWXKVJDWHES4DKMA.jpg?auth=59c5b2a06f059e9c7c3c894c3011197da0788aff02ca154076a93b12cd214be4&smart=true&width=10000&height=7500",
-        "publishedAt": "2026-10-20T03:16:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/chancay-supero-en-siete-meses-todo-su-2025-cuantos-contenedores-podria-mover-este-ano-noticia/",
+        "image": "https://gestion.pe/resizer/v2/E2BXQR2N7RAXVJ3UJHBCI4RLEU.jpeg?auth=6a59a8af0606905d04e4e29caf80160a60ba027728749a2072cf7d13371f9719&smart=true&width=6000&height=4000",
+        "publishedAt": "2026-10-20T13:23:25.000Z"
       },
       {
-        "title": "Petroperú subastará casa en San Isidro de 2,000 m² y también 8 de playa en Punta Sal: ¿cuándo?",
-        "summary": "Desde ProInversión detallaron lo que será la segunda convocatoria a subasta de activos no estratégicos de Petroperú. ¿Habrán más este año?",
+        "title": "Corea analiza nuevas cadenas de suministro en Latinoamérica y ve oportunidades en Perú",
+        "summary": "Empresas coreanas evalúan nuevas cadenas de suministro en Latinoamérica. Minería, digitalización y proveedores locales abren oportunidades para Perú.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/petroperu-subastara-8-casas-de-playa-en-punta-sal-y-otra-en-el-olivar-de-2000-m-cuando-noticia/",
-        "image": "https://gestion.pe/resizer/v2/264S7GQCNRDOJGVURUBWEV4TMI.png?auth=4351d0f53a665c2a7f64ee8e0863acbe5098436e3a7163dd78df1e2fd1287e68&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-10-20T03:00:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/corea-busca-nuevas-cadenas-de-suministro-en-latinoamerica-que-oportunidades-tiene-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/NEVNSZKMXVDOPHGBRCLAIZJRI4.png?auth=40e891a1cbc57fcdfe76e1fa7c2e50476f003b46a50a8d5c2397a65f777ac09b&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-10-20T13:20:17.000Z"
       }
     ],
     "sociedad": [
@@ -362,14 +362,6 @@
         "publishedAt": "2026-10-16T23:32:08.000Z"
       },
       {
-        "title": "Huancayo tendrá festival tecnológico gratuito con talleres de inteligencia artificial y programación - La República",
-        "summary": "Huancayo tendrá festival tecnológico gratuito con talleres de inteligencia artificial y programación &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM2R2b2RpV0tsVHB0dDZUT3FMYzVLQWFDT3B4WllLeDRRLVM3QkY2cUZBZkNiZEdmQ2w5UDExLUk2T3JNbFNNd2xwcFpoY3lZV1dsN2QxbDhrZzJhTEl0eURuNmpnT1NPRjFXeF9QQ0VveEhqN2NjaFNPTXlFWllVYnozeVdnMHo4TFNTTWptMWxVSGlueGxEY0NRODI2T0lfRGV4NFF6eUNKSnVRMXliUmlWbmRwNFk4dWtDMWJrdHJKNUZ0emlTY01oLWxnQmdhX0VqYjgtMDA5QmowdTdsalM3bkc5T293S1hHYy1PRmpTOGV5OVo3MTV3eVBTYm5KUVlnOXpyd296ZGFpVWU2QVM3TF80RXpv?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-16T18:41:00.000Z"
-      },
-      {
         "title": "Un coach de IA para cada profesor: así llega Muyu Education a Perú tras el retroceso en PISA 2025 - altavoz.pe",
         "summary": "Un coach de IA para cada profesor: así llega Muyu Education a Perú tras el retroceso en PISA 2025 &nbsp;&nbsp; altavoz.pe",
         "source": "altavoz.pe",
@@ -408,6 +400,14 @@
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeVREdGhkSk9WZGYtMGZpS003Yk1rU3ZOYUY0Wk5lN01YUi03X1ZxcU1PZnNEYnRfMEtyOTVpVjdlMVIySEtuMU0ycVVPREIzazkwWllvZzZwQzcyclpESWZvUnFnYUdhd0hqd1c4QW81ZUFlbG5vc2R3YTZaYldvYVJSdXdFa3FnZWszaFNZVTFxanhkczdyRmFfWVRITi1uNHExY05pZ19wd19BQmRjd1VwcDNVcXdNZHRUU1dRSXVnLWVhUlFOMA?oc=5",
         "image": "",
         "publishedAt": "2026-10-06T17:37:46.000Z"
+      },
+      {
+        "title": "Líderes y los 4 mitos a desaprender sobre IA: las claves para transformar sus empresas - Gestión",
+        "summary": "Líderes y los 4 mitos a desaprender sobre IA: las claves para transformar sus empresas &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQX3Y5WVhJMENjVU5TSTkzRkR0UTllckE4SFdRUktHQzhYXzBrTHJRVXI0djh2cUN5OTdPa3hEQkdjNHFXQWI5aTNCd0hva3UxeUJBdWRfbkItempMYkVPZHVWYm9nNk12VVZ1THBuUDkzeld3LXFvMW12MDl2MFdmTEdmWnJBckxtTjdjanNRWjR3UklwZndxNlZNblpvM29yNnBpcC1icU5id1B1WTZ0X3Bjdlg5SzJTam85RnZTM1lMRkRhMTd0XzhTVEdtUGlZTk1GVlhLT3E2ZWNFU2JNS0ZBWDBmTkFySk9BUi1GZ0hXeEhDWkRmZjZSbnFPWWRNQjE0SFdWa0JqeGJUUmJrQg?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-01T07:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -502,12 +502,12 @@
         "publishedAt": "2026-10-02T07:00:00.000Z"
       },
       {
-        "title": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” - Infobae",
-        "summary": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZFRYakI4T1o2cXhXN2pKSzc2bXBiLVlUZ1R1VFAxSWtDRW10LUl1TnNZaWJLRXpXSlBEZmJzN2lZdGF1SG5NUDBWQXUzZXp3VTlnbXlTODd1clZtRXZQUENXWlRydS0ydkhyWFg3SHJScVdKZ1VlU1l2cWpBM2RJcndGYjNWRVJNblpCa29EOHpXRGlnRVVCb0JOd0s4allqdVVjS0FEMGZXU2c5OXB4S214NUhIb1FFRWlaNVc3OHA0Uk0xcmpVbGFkdW1Kb1laTXZTSzZNY0J1WkFNM3BCRkRqdVNsV185WEdkSGtmMjZhLU00eW9mcExBdkvSAZcCQVVfeXFMTUlaaHZOVlluQ2hONUZIY1Y0bnBXNDVmN2tYNXFvbjNBVFBSR3RRUXNYOWVJdU9oQ0dHbUExc3FwTkEzWFM4UkVMTmFjX1dRdVR4VFRncThQWXFFV2pNUmhGZDBFRHZyUnZXcDVBWnhneG9fSklpMDFScE9nZlNjMzQ4aFI4MnNBTmtiTnM4SkhzRGFWWVZSai1IYnV4QkFsU1FSUGZXU1V4SGNlSjYtNUY1UFNiSXVDWEtEV3VjaXljZDZkdFEyMFJhenFNaXB3VVhRcTNEWTJzU2prTm1MMzkzOTdPT3laQV9sNkItOGRoWFo2SXZzRmZNTU9UYjhuYjd0VnZWTVY5WmNoRktEczI5b3dKbGVr?oc=5",
+        "title": "Conciertos en Lima para septiembre 2026: todos los eventos con fechas y precios de entradas - La República",
+        "summary": "Conciertos en Lima para septiembre 2026: todos los eventos con fechas y precios de entradas &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQN2t3dE0wQVRpT09kN3dmQktaTDViMEhxXzI5eDQyVWxTZ3FDNmlVMF9rVHhUejRQRkt1SHA1bmZYdWxzSnFuNzhEZUhQWGVFdE1QbjlGV3N0RG1LWTZrRm02Y0w3dTlCc0JPWjRTdHBBaFpEYndHYUNGdjc4aERId000UzdkdTBmWUF1cC1DWG1vdTVxSDdPaDJ5MzVhaDU0WUViellhX2NEUlJQdFR2RzJqNXM3V3psWUQwVk9HRmczejFzUFBxTkxaS0Y1Z0drVnEyRWFHSEtoUVlOTEdKUUExRDlkejI2ck1mLXVDcFRsLTlIWWdOVTg4SThqTndpSzVjTmNkZFE2QXR6cW9LVm1BUdIBmAJBVV95cUxNZVBScnpMYUdFeGdXck5BcWNUTGRfcG9rMEx2UHY2VDZXaFhLeFc4RzhmNzRWN1BFck4zM0RkMGxNSHlBTVFnN0RVMUdWZTM0Y29nbE1fSjBabk1DNFMwbFJRMFJBUzhEYWxkV2V4bm94VUxwY3JmVXlSRXo2NkQ2OGpBUzhCclU5ZnpWYU0tMDlNWFMySWx6dmQxSDVmTGVKTmdVMWVEOGw5TEh4OW9PLTFyWWtNYzEydHFrRVAtOWREdlFCOVh6YlB5TFNfRlRPcGpCQXVMYmpsbTRnSW5xMnA5MUN3LS13bHczalozcVdUV2tiVDZieHI4ZVoybllCZEtCek5QTXJKTmNxV3lBaHZHYXFBYjBT?oc=5",
         "image": "",
-        "publishedAt": "2026-09-09T07:00:00.000Z"
+        "publishedAt": "2026-09-17T07:00:00.000Z"
       },
       {
         "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
