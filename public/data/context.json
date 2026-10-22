@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T23:59:15.938Z",
+  "generatedAt": "2026-10-22T04:38:07.626Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,36 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Presidente del Congreso, Miguel Torres, firma autógrafa que faculta al Ejecutivo a legislar sobre seguridad ciudadana y FEN",
+        "title": "El pleno del Senado aprueba otorgar al Gobierno facultades legislativas en 27 puntos: así fue el debate",
+        "summary": "El pleno del Senado de la República debate este miércoles, desde las 10 de la mañana, el dictamen de la Comisión de Constitución que delegada facultades especiales al Gobierno para legislar en 27 materias referidas a la lucha contra la criminalidad y al fenómeno El Niño.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/en-vivo-pleno-del-senado-dictamen-sobre-delegacion-de-facultades-legislativas-al-gobierno-sobre-seguridad-ciudadana-y-fenomeno-el-nino-detalles-votacion-incidentes-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/VMVIPQKM6BFZDHVXY7MNUQBQFQ.jpeg?auth=2e2a7a4005b085b28966a600bab097109bdc7ada1d3b2216aef2a87f247683e9&smart=true&width=1280&height=853",
+        "publishedAt": "2026-10-22T01:55:48.000Z"
+      },
+      {
+        "title": "Gobierno asegura que decretos sobre facultades estarán listos entre 10 y 12 días",
+        "summary": "El presidente del Consejo de Ministros, Luis Galarreta, anunció que el Gobierno prevé tener listos los decretos legislativos derivados de las facultades aprobadas por el Senado en un plazo de entre 10 y 12 días. El jefe del gabinete aseguró que el Ejecutivo empleará las atribuciones concedidas para atender los asuntos ",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/gobierno-asegura-que-decretos-sobre-facultades-estaran-listos-entre-10-y-12-dias-ultimas-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/AZZKGWGEYZHTZPX4DJU3BHJ3FM.jpg?auth=276b5197666cdcb4049eaf05c9651303b2a778a6fb3119716206562471721486&smart=true&width=1152&height=735",
+        "publishedAt": "2026-10-22T01:22:20.000Z"
+      },
+      {
+        "title": "Luis Galarreta: “Tenemos que lamentar la mezquindad de un sector radical del Congreso”",
+        "summary": "El presidente del Consejo de Ministros, Luis Galarreta, criticó a un sector del Congreso por no respaldar la totalidad de las facultades legislativas solicitadas por el Gobierno de Keiko Fujimori. Tras la aprobación de 27 facultades en el pleno del Senado, el jefe del gabinete consideró que la negativa a conceder más a",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/luis-galarreta-presidente-del-consejo-de-ministros-tenemos-que-lamentar-la-mezquindad-de-un-sector-radical-del-congreso-ultimas-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/XAFQBSSF3RHRJAYCX6GMQXVRGA.jpg?auth=5ecce39006feb595dc7aefb71dbfb32dcc0fa1bdadfc84470bf5e62eb7974e29&smart=true&width=1152&height=768",
+        "publishedAt": "2026-10-22T00:28:04.000Z"
+      },
+      {
+        "title": "Presidente del Congreso, Miguel Torres, firma autógrafa que delega facultades legislativas al Gobierno",
         "summary": "El presidente del Congreso, Miguel Torres, defendió la aprobación de 27 facultades legislativas para el Poder Ejecutivo y aseguró que el Senado actuó dentro de sus atribuciones constitucionales y reglamentarias. Esto, luego de que la Cámara de Diputados aprobara previamente 20 de las 66 facultades solicitadas por el Go",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/congreso/presidente-del-congreso-miguel-torres-firma-autografa-que-faculta-al-ejecutivo-a-legislar-contra-la-delincuencia-y-frente-al-fenomeno-el-nino-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/BRPCQRY7EZEYJELPN4IERLXCLI.jpg?auth=6e779cfb2a684d513e94cc16ba4b71aff13cb6548bf34a5213741ae177b5ae22&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-10-21T23:57:05.000Z"
+        "image": "https://elcomercio.pe/resizer/v2/D2ZD57VUERCMJD2ZKRGAWDPU44.jpg?auth=5a8c2b9f5e90241494666900a1bb38c314d169f291d19a8bf3384578aec6e4f8&smart=true&width=2009&height=1121",
+        "publishedAt": "2026-10-22T00:03:15.000Z"
       },
       {
         "title": "Keiko Fujimori sobre llegada del papa al Perú: “Todavía no tenemos una opinión final de parte del Vaticano”",
@@ -54,80 +78,64 @@
         "url": "https://elcomercio.pe/politica/congreso/votos-de-dos-senadores-de-buen-gobierno-a-favor-de-delegacion-de-facultades-se-vera-en-la-interna-del-partido-anuncia-flavio-figallo-apuesplan-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/TP2EHSM23BBFHP6J2VT6NT2U2I.jpg?auth=1d0bc699d2a95b81fd0ce014923ee6752d300b79380ab539e79d79c8f69e4f74&smart=true&width=2048&height=1365",
         "publishedAt": "2026-10-21T20:59:21.000Z"
-      },
-      {
-        "title": "Fallece Dennis Vargas, periodista y excongresista, a los 74 años",
-        "summary": "Dennis Vargas Marín, periodista y excongresista de la república, falleció a los 74 años este miércoles 21 de octubre.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/actualidad/fallece-dennis-vargas-periodista-y-excongresista-a-los-74-anos-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/AXGTEMUCCNAMLAEX6UDT6P742M.jpeg?auth=02d825b6847c5ab1b9e4a83062450d123ce758db4024be0060ad2bf19a454ead&smart=true&width=1200&height=763",
-        "publishedAt": "2026-10-21T20:41:35.000Z"
-      },
-      {
-        "title": "El Perú y Ecuador, una paz que da frutos",
-        "summary": "Este martes recibí en Lima al presidente de Ecuador, Daniel Noboa, para el Encuentro Presidencial y XVII Gabinete Binacional, el primero de mi gobierno. Desde el 2007, este mecanismo es mucho más que una cita protocolar. Cada año reúne a los ministros de ambos países alrededor de una agenda concreta, que va del comerci",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/opinion/columnistas/el-peru-y-ecuador-una-paz-que-da-frutos-por-keiko-sofia-fujimori-higuchi-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/5KWAXAPZCBEV3NEEB3QTI5RB24.jpg?auth=c6352cd92a706dae82033886eda980d18ac8e5c0baeefbe34328e1fddbafee58&smart=true&width=600&height=316",
-        "publishedAt": "2026-10-21T20:04:00.000Z"
-      },
-      {
-        "title": "Propuesta de Ley MAPE: Comisión de Energía y Minas cita al ministro Guillermo Shinno",
-        "summary": "La comisión de Energía y Minas del Congreso Bicameral, presidida por Yenifer Paredes, acordó que el titular acuda hasta el Parlamento para que explique los alcances de Ley Mape. La sesión tuvo como invitados a los mineros informales de la Confemin.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/la-comision-de-energia-y-minas-cita-al-ministro-de-energia-y-minas-guillermo-shinno-para-que-explique-la-propuesta-de-ley-mape-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/O6C4P7WK5BBT3PBGBAGH4UIN4A.png?auth=f3310602854c1692c5ef931d93e055ad7fd29291fa492f2a30451663de0bb1c1&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-21T19:59:00.000Z"
       }
     ],
     "economia": [
       {
-        "title": "MMG, entre El Niño y el tercer tajo de Las Bambas: una operación que podría acelerarse",
-        "summary": "En el tercer trimestre de 2026, la minera china MMG Limited (MMG) mantuvo una producción estable, con un volumen total de cobre que aumentó 3% interanual. La producción total del mineral rojo, incluyendo cobre concentrado y cátodo, fue de 131,215 toneladas, respaldada por una sólida contribución de la mina peruana Las ",
+        "title": "No son mayoría, pero concentran el 51% de las oficinas prime ocupadas en Lima: ¿quiénes son?",
+        "summary": "Las empresas extranjeras concentran el 51% de los metros cuadrados ocupados en oficinas prime de Lima, pese a representar el 39% de las compañías analizadas por Binswanger. Mientras la vacancia apunta a cerrar el 2026 por debajo del 8%, la demanda combina expansiones empresariales, nuevas operaciones y búsqueda de mejo",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/las-bambas-mmg-se-prepara-para-fenomeno-el-nino-en-peru-mientras-ve-posible-acelerar-desarrollo-de-tajo-sulfobamba-noticia/",
-        "image": "https://gestion.pe/resizer/v2/E6JLZYYEA5DKHEL6PELQB3QXEE.jpg?auth=433c8219b55e2de9e736b8eb2e22466de9c5b4f3d123dbb284147eb4d3178c88&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-21T23:48:14.000Z"
+        "url": "https://gestion.pe/economia/empresas/oficinas-prime-extranjeras-ocupan-mas-m-que-las-locales-a-que-se-debe-noticia/",
+        "image": "https://gestion.pe/resizer/v2/FMIM4WPACJC25P4HBUOOONXWFI.jpg?auth=7bc116197f65a9367d8b271ac342d24e845235a791c44314fffe06bd2df383ca&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-22T04:00:00.000Z"
       },
       {
-        "title": "Crédito suplementario avanza: comisión aprueba sumar más de S/8,200 millones ante El Niño y más",
-        "summary": "El Congreso aprobó en comisión un crédito suplementario de S/ 8,228 millones para 2026, con recursos para enfrentar El Niño y atender necesidades de distintos sectores.",
+        "title": "Dulcefina apunta a Europa con tortas y amplía tienda-estudio en Surquillo",
+        "summary": "Una torta artesanal puede requerir varios días de trabajo, desde el diseño hasta los detalles de su decoración. En Dulcefina, la pastelería premium de Rosalyn Picón, ese trabajo se combina con una tienda-estudio en Surquillo y pedidos personalizados desde fuera de Perú.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/credito-suplementario-presupuesto-2026-sumara-s8228-millones-para-amortiguar-el-fen-y-otras-3-urgencias-noticia/",
-        "image": "https://gestion.pe/resizer/v2/M7F3YNHF7BCJNPILXMN5WFSOFQ.jpg?auth=41573458dd23a77619b86fb2e78f38acc51629acc765b103c507bd75b5faa744&smart=true&width=1920&height=1280",
-        "publishedAt": "2026-10-21T23:25:42.000Z"
+        "url": "https://gestion.pe/economia/empresas/dulcefina-mira-a-europa-como-mercado-para-pasteleria-fina-y-amplia-tienda-estudio-en-surquillo-noticia/",
+        "image": "https://gestion.pe/resizer/v2/KPF64YC37REKNBMNPMPMMG2TNU.jpeg?auth=98ba9d7958d224e5a72c95001bf4d88f0415c6bc9346232b4761df80494e77fb&smart=true&width=8098&height=5399",
+        "publishedAt": "2026-10-22T03:45:00.000Z"
       },
       {
-        "title": "Citi: Perú daría la mejor respuesta económica a El Niño en América Latina, ¿pero hay riesgos?",
-        "summary": "Perú se mantendría como una de las economías más prometedoras de América Latina este año. Y el paso del fenómeno de El Niño (FEN) no le dejaría secuelas con vista al 2027, proyectó Citi Research en su más reciente presentación “Perspectivas Económicas Q3-2026″.",
+        "title": "Hogares de Perú sacrificaron “gustos” por cubrir gastos en últimos 9 años: ¿seguirá en 2026?",
+        "summary": "El presupuesto de los hogares peruanos cambió entre 2016 y 2025: vivienda ganó participación y comer fuera perdió terreno. ¿Qué pasará en 2026?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/citi-peru-daria-la-mejor-respuesta-economica-a-el-nino-en-america-latina-y-si-defrauda-noticia/",
-        "image": "https://gestion.pe/resizer/v2/TKXYNM7SEND4BMS3Q4XONUPYSI.png?auth=85ea497fee8865e9eb8eca6f9d02c2730efb72bce77642a4a3fc65d7fed00f44&smart=true&width=1672&height=941",
-        "publishedAt": "2026-10-21T23:22:14.000Z"
+        "url": "https://gestion.pe/economia/hogares-de-peru-sacrificaron-gustos-por-cubrir-gastos-en-ultimos-9-anos-seguira-en-2026-noticia/",
+        "image": "https://gestion.pe/resizer/v2/LSOLTV2MYZGTVJQ56PWH56LOTQ.jpg?auth=a9a41664302c7088470afe4c13f74ca1141c674a9325aeba2a8a8526f3b87c15&smart=true&width=6240&height=4160",
+        "publishedAt": "2026-10-22T03:32:00.000Z"
       },
       {
-        "title": "Lote 207: 7 empresas compiten para adjudicarse lote petrolero en Talara por 30 años",
-        "summary": "Perupetro recibió siete ofertas para explotar el Lote 207 en Piura, que produce 750 barriles diarios de petróleo. Conoce cuándo se adjudicará.",
+        "title": "Déficit fiscal en su nivel más bajo en 4 años: ¿se cumplirá regla en 2026 pese a “Mega Niño”?",
+        "summary": "La propia presidenta Keiko Fujimori ha reconocido que el fenómeno climático será el más fuerte de la historia para el Perú. ¿Las cuentas fiscales están preparadas? Acá la respuesta.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/lote-207-7-empresas-compiten-para-adjudicarse-el-lote-petrolero-en-talara-por-30-anos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/OOMCHCF5WNBRFPSFZ4LB5IQF3M.jpg?auth=69a5dad73f0ca65c501da4a1a9664299e80e3efb90135f002c1a056a23083c75&smart=true&width=1200&height=715",
-        "publishedAt": "2026-10-21T23:18:26.000Z"
+        "url": "https://gestion.pe/economia/deficit-fiscal-en-su-nivel-mas-bajo-en-4-anos-mega-el-nino-evitara-cumplir-regla-2026-noticia/",
+        "image": "https://gestion.pe/resizer/v2/7E7GBJMG5BG75J7B5ADDC6Y6T4.png?auth=f957e97bd21d10581a72a8da1ca0b8409b0b92d26ef90e67002f7c6f0f6ddf8c&smart=true&width=1672&height=941",
+        "publishedAt": "2026-10-22T03:15:00.000Z"
       },
       {
-        "title": "¿Economía de Perú crecería más de 4% post El Niño? Credicorp Capital ve este “driver” clave",
-        "summary": "¿Cómo afectará el clima al PBI peruano y qué rol jugarán el cobre y el oro hacia el 2028? Este es el análisis macroeconómico de la recuperación del Perú",
+        "title": "Osaka, KO y Barrio: el grupo peruano que alista su salto a Dubái y una nueva marca en Lima",
+        "summary": "El grupo detrás de Osaka, KO y Barrio alista dos aperturas fuera del Perú y una nueva marca en Lima. ¿Qué concepto prepara y cuál es su meta al 2030?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/pbi-al-45-en-peru-cobre-y-oro-impulsaran-el-despegue-de-la-economia-hacia-el-2028-noticia/",
-        "image": "https://gestion.pe/resizer/v2/626JUDGB3ZGSVM7YLXLMPX3TGY.jpeg?auth=0c07eb1697ffc4eb22b1b78f739f37ddb2dacbab86e7dd30f9d8e4fac61ce39f&smart=true&width=1600&height=1200",
-        "publishedAt": "2026-10-21T22:23:52.000Z"
+        "url": "https://gestion.pe/economia/empresas/dueno-de-osaka-apunta-a-valer-mas-de-us-100-millones-al-2030-cual-es-su-plan-noticia/",
+        "image": "https://gestion.pe/resizer/v2/IOPLKJAZCVB7PJ67YOJW7GC2RQ.jpg?auth=9402c3fa778ba1568ee3e2610f793564fef24d4aa7b662401aa5cd88f1952f59&smart=true&width=1125&height=675",
+        "publishedAt": "2026-10-22T03:01:00.000Z"
       },
       {
-        "title": "Fintech se alistan a diversificar oferta en Perú: ¿llegará unicornio?",
-        "summary": "El segmento con mayor número de compañías es el de lending o préstamos; seguido por pagos y remesas; e infraestructura tecnológica para bancos y fintech.",
+        "title": "Gigante alemán de iluminación va por dos nuevos negocios en Perú: su plan al 2030",
+        "summary": "Ledvance crece por tercer año a doble dígito y prepara nuevas líneas fuera de la iluminación. Estos son sus planes para 2027.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/fintech-se-alistan-a-diversificar-oferta-en-peru-llegara-unicornio-noticia/",
-        "image": "https://gestion.pe/resizer/v2/NWB3LZQLVNDNZABJZPM47XZUD4.jpg?auth=7ee2f0ea62f0a48440077667f3ea9c90454faa8b11f328056f52978a03f05cfe&smart=true&width=1024&height=576",
-        "publishedAt": "2026-10-21T22:00:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/ledvance-prepara-su-ingreso-a-energia-solar-y-electrodomesticos-en-peru-su-plan-al-2030-noticia/",
+        "image": "https://gestion.pe/resizer/v2/UBTHBAZ7S5BBRPJFYSENM3I5XU.jpg?auth=db17a0a3220053ae7fe614c250e487992ec3dae279a90681fb02af501c96be3e&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-22T02:45:00.000Z"
+      },
+      {
+        "title": "Moody’s Perú: Precio del azúcar seguiría mostrando tendencia a la estabilización",
+        "summary": "El indicador dependerá de la capacidad del sector para mitigar la volatilidad del precio internacional.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/moodys-peru-precio-del-azucar-seguiria-mostrando-tendencia-a-la-estabilizacion-noticia/",
+        "image": "https://gestion.pe/resizer/v2/U6G6VCBV6BA2JGCBXLOI6OXYPE.jpg?auth=4835e998c11377f237033e40b0e983d599c2a2666477123dc8fe4fef0cbec9b6&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-22T02:30:00.000Z"
       },
       {
         "title": "Suplementos: empresa de capital suizo adelanta stock por El Niño y alista su plan al 2027",
@@ -135,15 +143,7 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/suplementos-en-peru-empresa-de-capital-suizo-adelanta-stock-por-el-nino-y-alista-lanzamientos-noticia/",
         "image": "https://gestion.pe/resizer/v2/ESKIFLMX7ZEM5I37G2I4SMCE7A.jpg?auth=9fff4223561aa43f3bed36d0485eeae7d15140649b3d153d7a17d0965eabe6ca&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-21T21:52:40.000Z"
-      },
-      {
-        "title": "De candidata a unicornio a ‘scale up’ rentable: las nuevas compras de Crehana y su plan en Perú",
-        "summary": "Crehana ya no busca rondas de inversión ni ser el primer unicornio peruano. ¿Cuál es su nueva apuesta y qué lugar ocupa el Perú en sus planes?",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/crehana-y-su-apuesta-con-la-inteligencia-artificial-y-porque-el-unicornio-no-esta-en-sus-planes-noticia/",
-        "image": "https://gestion.pe/resizer/v2/O74Q2JBXAFFLNK4DS6KOMEITNA.png?auth=d42ee9053da7d35c4f7ec5058f0c737570ccbe9479d735472660d18eee28a310&smart=true&width=1219&height=792",
-        "publishedAt": "2026-10-21T21:45:11.000Z"
+        "publishedAt": "2026-10-22T02:01:59.000Z"
       }
     ],
     "sociedad": [
@@ -162,14 +162,6 @@
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdHlxN3pWUU9DenhObS0temJHTWt6UGoxWThSTEVydk5Sa2U0T0tGZm00VDdEbUJIMnlUQlg4bnR4WEQzME41cnhTUWdYT2VfanpPa3VIS080Q1UycHB6eWtpZEF2ZnM0dDV0bkhmNUtfRzByY202dWt1d2hsWWlrUUdCaGsyZHJNcU1ydWNuOFdPUGcwb2gtSW9TbElROW9nakxmcm03cUFDMEZLT0pXbVpIMlNXdUQ2a0Q2UEw3WkNoVXBjYVc4ZUlFRXRfUVR5alRydkJ1dG5KUkxnQkVEVklGb1RDTWVsMFHSAe8BQVVfeXFMTURTcmlRY1NnMm1abmptUHIwOW1GN2lzc1Z6c29EZFN3bUFUOE50MlQ3MzNSdFhIY2o0X3JveTI2WnRqajNwOEljMU5TblZvbHhZUnMzVk5OaGdNelV6dmp2LWYzQl9ndWNjd0tFWnMyMEIxb2xlMm1nc0s2TEc3SlFrVlIyYTJ2aXl2N2NoZVRNZ1JkcjNhRVJuLWtGeThCQ2hMUUpiYWZfcTZaOEQwcm84TmNwSzlMbGY4dl9ObWNXMVFBbmVpSEdyS05XeG9VLWVGcjNZTDE2Tms1TTVfMWFXWmRrM1l3Tlg1N3JDVmc?oc=5",
         "image": "",
         "publishedAt": "2026-10-02T07:00:00.000Z"
-      },
-      {
-        "title": "Educación, inversión en capital humano - El Economista",
-        "summary": "Educación, inversión en capital humano &nbsp;&nbsp; El Economista",
-        "source": "El Economista",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbGxua3J0UGdsWkhtNWtRbVRwREltT05qZ3p6Q3RtV0xycEZNOHlkWi1PeFZvbUZCSEd2NDlSQWRyRVBUMnNiWndWRnhubXBFMDhUSlBoOUQ1SXlybXk0SkxFR0tZMVZ5RlhseHgzLURXa1JlUy1Oa2FsOEdUUlFaandBLVp2V0U2NUlxLUhQZEh3Wi1Qb2JSRktwQdIBoAFBVV95cUxQWkdMbXZUN0lBT0ttbFdhWHlFQ1ljRXNnaUJVcWxSUE1fb25xVmg2V0pYUzVqakZPc1Z4UVZDWUh5UG9kdVZkb0NXNjdQbnZmYjhidVdJbmxOek1YTUV5MjhCUzVXY0xMbC1TblN0TzNqTEE4QnZyZEprMUozdHpkSVoyNDF2b2JfbWlwdXhPWGl4dExuOG9NRmpGMUpFcEs5?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-01T07:00:00.000Z"
       },
       {
         "title": "Perú tiene espacio para elevar su competitividad - El Peruano",
@@ -210,6 +202,14 @@
         "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcXVYRHNkcFVTRXlocG5ySVlLRzZJSzNKWEJXRldLWkJHQUpkeFBHWFJSNzVNVFhrTS1WTnliRHBhbmlZTDBCSEVLWjRkSHB0TTd3S3E3bGFucVQ3c0ZoeVJiSkRsRHltQWx0UWlncnNTaUhOcmZpcEUtbWdoR0ZFS2pJczljLUpyR0ZRS1VyTFF4SXBEODlfWG5aVzhsOXF6eGxQYnRPMlpaRHN6TG1hNHZKbzFhZElxOUd2TUNndXJDTHJubmNXM1pMUkNYRkI5eHpaMUNlT0NjYVQzSHh5U2h3c3pUZ2c0TWd5QTRJYWh4bDhuT1g3SHVNQmZ0OHfSAYQCQVVfeXFMTmktbXh4RFU1eWJvVkw4SFRHV2dDbm1rLTRiVU41TW9ONV9tS1pUUmFWcFExb3lfTWYyczVGSjJWLUJBSHRuTDE5RlVBRHhxQ19OdHpvcEtLNEdBcjZNZzZhS3kwRkxBdmxFZUhWZkZWTXRheEQ0U21ZWEV0ZHA1MTBoWWJ3R0VDa3pXQWFpVDlSclVsSUtLT1VtREFId0JXeFpEU3Z0ZmxyclIzcEZSSUFXME5seENxRU9uWVhwVURIWjlTa3JXSTRjd09QMExqeGhNVXpYa0Rzb0d6elRjRGNDMVZES1E2b202dHBrNVZMRW11YURrOGdYY0tuU3dOSFRKZnM?oc=5",
         "image": "",
         "publishedAt": "2026-09-04T07:00:00.000Z"
+      },
+      {
+        "title": "Presupuesto 2027: Gobierno propone S/266.506 millones, pero reduce recursos para salud, seguridad y saneamiento - La República",
+        "summary": "Presupuesto 2027: Gobierno propone S/266.506 millones, pero reduce recursos para salud, seguridad y saneamiento &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMDFoTzVTMmhIcmplX0V4TUl0S0Q0R1I4dVFTVVFhNm9lR2Y3X1NoZ1NGazVhTXZRVS05bUZoSm9QV2M0RWdRcUI2MU1GTXBKTGtDSklXNzBzZzlFQXROWmNhV01UTFpfSXhoYWEtNnExd2VETEs2RE0yQ0k4ZzFva0lnRG5VYzFueFAycXdDREh1VjlHOFVlZUp5eXdWaWZyZ0RYVkljQjlZVUc4NlJEaWZubXBXdFF2SG5fbFc4emNhX2tRN1JjcFJZTjBSUi1UcnMwOXpCQmFVb05XdnBCVWNzWTNaci1US3VCWTZueWFlUnBxTEHSAfsBQVVfeXFMTnZFX2pnS1FfUXRpVDY0ZlJXRXJxRDhHcHZHWnIxZ3VKWkw1VndIOHFKLXRhcnpwTWFiZXlvVHlFR2dzcC1sLWs1bG9zR1ozTkhWVnZOUVlsMTFuRGpRQ0lQUkhUZGFCLU9HbHJXS3c3MmtKbmYwT2lQWXdpLU5ITlh2WHl0T1BqdUUwdUdYLXc3WGEtaXlrdFJOVlBDMXdBQVNsd2hwNFdWa0ZZV1pENXcyN0xuYWQyU2x1VUl5QlFENXh3UXFCWHdJMGVORTFfTkJsWXF0bXcwZWE0emtuRkNUcWNkN3haOGNQZDRnYUtZeXhxQ1hQaUpENEk?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-04T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -227,7 +227,7 @@
         "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORk04NFNkNFAzWTFTRTBmaXBPZ3VTY3pSelpWRjF0Rnh4Y3dJbDl2RVB2U05CSmdBcnJDdUE5U2tqVVpNQmxTMjJUbmNHdm1nem1EYUdMWlRvNEhGU2d0Q3lvUExOZ29CSVMyM01KSEwxak5GazBzekl2cTF5dXI5YmZ0RFFDWW1iOGgzaGUxaFVrQmM3RE9vWVQyOVRibDNvRHphYkpjVjNWWXpzS05VRnV2czExNXdoRTVaMlViWjJvMnJoRkNQTGRTbzQySjBLWXM0WVQ3al9xSkJrdU96OE9yVlQ0NVdfamZHUzc5cXluR0hfLWfSAYoCQVVfeXFMTlB6cm0wQnFpcnl6NTRqdS1hME1DV2lOSUsxSzYzWUV0LUxNU0NPZFJYTG1VdkVmTGxOd1FKaHlGTjctSnlKdWF1c1liZjdYdHJKeU0xZUhxYWY1Z3FoZTZQV2pxQ1Mwak0teXg4S3E4QW9LVkROdzg2cllCeWhoS1EyQzhjTDdvdEJTc2ZLVXpHUFZDQjc3ekYxUVQtcDYtd0wzRkpORnBoY0FoLVhhSVQ1SEdxWmtMbU5wdDR2aGd6T3pNaC1wUm5uX2hOa1dkeU1wejR0dWNwRm56eVcxS1g2bDdkeVFHZmRHRTFaR2dpMXMxc2M5SmU2aWFxbFRWMnZMeDdJTkxjdHc?oc=5",
         "image": "",
-        "publishedAt": "2026-10-13T12:57:24.000Z"
+        "publishedAt": "2026-10-13T07:00:00.000Z"
       },
       {
         "title": "Perú emprende, pero le cuesta escalar: por qué pocas empresas logran dar el salto y crecer fuera del país - Infobae",
@@ -304,14 +304,6 @@
         "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
-        "title": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional - Diario UNO",
-        "summary": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; Diario UNO",
-        "source": "Diario UNO",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjYxUUxNV1dqcXRBRzRyY1BNcm5UZE5abG00MVNLSWNWd2xkMVVhUkhTQVMyQ3U1dEFKeWdyTG5NX1hRRlJiTXJjRWppU2hmMnFKdXJkZHVKNW5GZWR4V1ZfZ2pBZW56T0d4Yk4zR3FJSHZEU1hYblNoZm1VQXFUYUN4RFpoRTloVF84OEt0VEtNcjBwM3JjemdQTnQtQ1dpa2tDZ0haTjg3OHNrNmtsMXdaaVBwaFpfUWhRbS04UWRFRFo5UDF2UjZGNGd4WFEwYkJLWW5GUzE?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-19T07:00:00.000Z"
-      },
-      {
         "title": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras - El Comercio Perú",
         "summary": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras &nbsp;&nbsp; El Comercio Perú",
         "source": "El Comercio Perú",
@@ -342,6 +334,14 @@
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNGRFXzc5Skp6cnFkd0Zfbmt3NVpwcC04eXJaekp6Z094a096R013M29yQ3hTUlFzRFF6eTE5SUZ0VHhLQjVEdTFIRlIyUERGM09nTzVZZHNXdmFVR3RITDF3X2RTeUdNb3FnT2otTUlBeGh0TUtKQWFzcURMY1JCMEhSdzM3cnpuUnBrUkh2TEpJOWZOMGY3bkkzTmE3RlY2YjJ3S0dZdVRqdFRBcDN3RFl4blQxeGVuTnM5WHVDRjdmUG1JZExSam9hLU8?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
+      },
+      {
+        "title": "Perú da un paso adelante en la seguridad energética con el uranio y litio % - larazon.pe",
+        "summary": "Perú da un paso adelante en la seguridad energética con el uranio y litio % &nbsp;&nbsp; larazon.pe",
+        "source": "larazon.pe",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYVU3eHAwN19tVTd6YlI0dE44dXc2cm96bmVxOEktWnBQbndNcVQzY0xqRkhVbE9rM2hVUXJEcm5CdXVxdTRYXzVMb1ptLU9IUWc1X3Q4UjNjZ0UzRkl0WmR4RTN6Ym5MXzU3SVFCbFB2QjZqZXBVVmMzMnFyajdfS2xrR2ptZ0Y2cXUyVzlHTFgxaC1iNmZPWg?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-09T07:00:00.000Z"
       }
     ],
     "ia": [
@@ -526,18 +526,18 @@
         "publishedAt": "2026-08-23T07:00:00.000Z"
       },
       {
-        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
-        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
-        "source": "Diario Correo",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-05T07:00:00.000Z"
-      },
-      {
         "title": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más informació",
         "summary": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; Facebook",
         "source": "Facebook",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdFRtVHlGS2ZUeUplTE1XU09ickJVSlBqR0Z3VGR1cjlrTG5NQlNuOFc5Si1OVXVLclh2T3Z1VEhKV1luN09INHpaRHp6U1Z1a2dRWWVjT1NzcG1pSnN2SVJGTnBvMzhzSXFlWnVFVXhKVmZtSUF1Z19rN1Z4U1BqNU02Qjd2dWRnWnZXemlkZlZHeVMxckFPT3pLeTNUek5uVkZOZUM5ZVVGMXFISG1GUEYxTXB2TW1PaUI1QkJsMFFOQ2g3TF9pOXVBdV9UVk95ZGN2M04tNDlLNFFhc2h0UHAzWU9QaC1mOW1Nb1B0U1RGTEs5Y204ZQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-05T07:00:00.000Z"
+      },
+      {
+        "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
+        "summary": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete &nbsp;&nbsp; Diario Correo",
+        "source": "Diario Correo",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2tDQ19IYWpFMEw3dWFKYWlhNkw4clpjdnVXdzdUdTZ1LWhmSXNlYjNsRm1GZHV6ZVFCb2hpeXkxVHRHSEJudV9Xd2FnWjQ3b2NaVTVIMGl4c1dKSGRtY2RvVF9OOEhuWDR4NWQyU3o1N3NTQkJ4R0Z0SkRPY3A1d1pvUnZOV1d6QlFtUl9EYmZpVDBBZ3NYbDRCbkcxMDJ1a0dzQTJoSGI5WUh5TGVQcVF30gHGAUFVX3lxTE1pQlE5WlFTR0RXRXJ5alhXUnVwbzh2azgyRVc2cHBnTms4ckhKTnBUWGkxTTgxN25EaVJlMkhDTEt4NDZWR1IyN3N2cHB3eTdhQWZQWmhuQUFUdlBRNFp6YzdfV3VoQzFmc2hGSk1hbjRrZUFtUG4teGRrbmc5Mkt0LUFLQlM3YUNmSzc5cnZTN3hRdWR5RHFhNzEtTjJ1S214dUVhRGR6TUlhLXhBYUY3V3RscGtSdzBTM1NzTzlJTDBoVUdFUQ?oc=5",
         "image": "",
         "publishedAt": "2026-08-05T07:00:00.000Z"
       }
@@ -550,6 +550,14 @@
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnVpRFk0NGJFekRIb01OR3E0ZlM3ZVFlWmcyZmdKVThzdUlSejRReF93bV9YVGtCRzVjOTMybjZCWDZCT1RkWFROUmxWZkhnbk9uRGMzajNmU2RFMFd1clJuVGpOTGFlXzctXzJ0aGxkNlc4aV83X2t0aUlMeWh3SG45c0hFVS1RWUs0YzR4aUhOS0NYcnFQdEZ5UmphZkx4SHJoYmZGanpJdkdDTVFEaUxPZFl1RTQwYW5JcFNJMmp3UGFQd3ViLVhjd1RBaXExSEFjdDNB?oc=5",
         "image": "",
         "publishedAt": "2026-10-19T20:38:32.000Z"
+      },
+      {
+        "title": "Festival ALAIRE 2027: ¡Así puedes comprar tus entradas para el evento! - Blog Joinnus",
+        "summary": "Festival ALAIRE 2027: ¡Así puedes comprar tus entradas para el evento! &nbsp;&nbsp; Blog Joinnus",
+        "source": "Blog Joinnus",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRWt0a1JBTGNRUHdwTDJiR1lkeU9sa0pJSVNrLVhLSGEwZjQ0bUllVXkxdGNCV1h0SFV6b3ZIY0pPWF9wbkZ0UFI0OUJ0V18zdm9qeDB4OTZnN2p2VkIwRE03WENuMFJTdEJmVGhrdWd2eUhwTUpOeVdCSjlQVmxlejlxbEczUHlLRGFlYi1ZaDdpbWR4SGFqMQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-16T14:33:19.000Z"
       },
       {
         "title": "Agenda cultural en Lima 17 al 24 de setiembre: Robbie Williams, 'La Cabaña', 'La mujer de negro' y el Festival de la Luna se imponen - Infobae",
@@ -598,14 +606,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNGVRUi1lRFpKUVBFNDlRVFp5OURydjNYaDhFVlFER2Q4UkZWSXZKZEI2Rk1nUzk2V0MxNG45WjVRTWFCbk1ZdkFBVnhveUFHVTBmdFA1SmtrZENxZm5VNzY0N0tBS0xySG94a3ZmY2ZVRjRydDVwYlZZUEtHYjlfU3N6RHZRRHVTWk5ZM3BIYUNxUWttbnRqSDN4T0duMjUtUmtEWjJTaFVUWEdHMnpQWFBlSUo5aFZSWlpQNE1FenBSdEU?oc=5",
         "image": "",
         "publishedAt": "2026-08-22T07:00:00.000Z"
-      },
-      {
-        "title": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones - Infobae",
-        "summary": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTTZDSUpUY3djZ1R3U0lOUzRLVVV6OGFpNGZvRm83N0dTV2VlclhHT3U5YlVzX1NLMUFzdUx4cHZrX2FhdGhDeGtYOWZwZ1VyUnZiZEIxRUw5NmhZUG93WHZJNUFHUzRTMHBtVTRQUE91OFprb1NlMXhsbkF5ZHZINWxweFVsVzRJZlpUcFI2Mks5andzSTgwNVhUZXJsaVl5bUhrMXFLX0JMWDgtNEtWbW92YXVBS19kQ1dYS1hqSEt4YVpnaFNqeFVHQzhqbVBIZnFnUEcyOXdqUnFZNllOZG5aVjlsbUtlV21JZ21aTjRkNlNyOEYwZnVhbnhSdDNadVRZbUNvYjPSAaMCQVVfeXFMT0lVVzhVeG9mNGZBb2diQW9Bd1ItVlppWDFzMmt4eDAyY1ZYMjVQUWpzN2hzMGpfR3RqRGhVS3NGZm04ZlBnaGxsUXozY1o1ZlFkWjl3aElHZjAyaWo0SDR1VU5SM09KSm1HWkRTeDlSa1Z5bGVpZS0yN0s2cVYxRFBvUjRwZHV1eHFnbUx0RlRaLUdSU0JPWmdSY0V2SXE0QUpFbGlCa3JtOE0tOHNCMWlsV19wTi1ienIyLTdubnJCUXQ0T2xkSTluVENhVENBeEcwZVM4NlZjS2IwS3NhbTRNQ3d0cFlLd3JWakw2Wl9YbTBkcGowYkVYU2NKbVl4eXdVa2FNZ3FlVVNpejg4T1FQaUxmZlR2Rk9idk9RLVV4cmtB?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-21T07:00:00.000Z"
       }
     ]
   },
