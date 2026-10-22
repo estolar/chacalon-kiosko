@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T15:14:06.082Z",
+  "generatedAt": "2026-10-22T19:13:04.434Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,28 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Transparencia exhorta al Congreso a precisar alcance de las competencias de sus cámaras",
-        "summary": "La Asociación Civil Transparencia exhortó al Congreso a precisar el alcance de las competencias de la Cámara de Diputados y del Senado, así como “los criterios para determinar cuándo una modificación es complementaria, incorpora materias distintas o desnaturaliza la propuesta original” de un dictamen que pasa de la cám",
+        "title": "Propuesta de Ley MAPE: Comisión de Energía y Minas cita al ministro Guillermo Shinno",
+        "summary": "La comisión de Energía y Minas del Congreso Bicameral, presidida por Yenifer Paredes, acordó que el titular acuda hasta el Parlamento para que explique los alcances de Ley Mape. La sesión tuvo como invitados a los mineros informales de la Confemin.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/transparencia-exhorta-al-congreso-a-precisar-alcance-de-las-competencias-de-sus-camaras-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/UJ5KKUG2RNECTG2JVURQWAMRME.jpg?auth=882f480c1e8a8f597ff45a84384c73d560c8bd0af794931840feef2e2a7d5fc5&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-10-22T14:45:46.000Z"
+        "url": "https://elcomercio.pe/politica/la-comision-de-energia-y-minas-cita-al-ministro-de-energia-y-minas-guillermo-shinno-para-que-explique-la-propuesta-de-ley-mape-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/O6C4P7WK5BBT3PBGBAGH4UIN4A.png?auth=f3310602854c1692c5ef931d93e055ad7fd29291fa492f2a30451663de0bb1c1&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-22T18:40:00.000Z"
+      },
+      {
+        "title": "Julián Pérez Mallqui: PJ rechaza su pedido para excluir examen médico legal de agresión contra su expareja",
+        "summary": "El Poder Judicial rechazó la solicitud de tutela de derechos presentada por la defensa técnica del diputado Julián Pérez Mallqui para excluir el certificado médico legal de su expareja, víctima de una presunta agresión. La resolución declara infundado el pedido del parlamentario e integró el documento oficial al expedi",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/julian-perez-mallqui-pj-rechaza-su-pedido-para-excluir-examen-medico-legal-de-agresion-contra-su-expareja-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/3NDOSXZEI5EFJFBITZ6QHE3WDY.jpeg?auth=133822804ca397ae25595ec63a8e1023ab7f066602e59b4df6e6bc19ed0b821f&smart=true&width=1116&height=744",
+        "publishedAt": "2026-10-22T18:19:03.000Z"
+      },
+      {
+        "title": "Fiscalía inicia investigación preliminar contra procuradora general María Caruajulca por no denunciar a excongresista Kelly Portalatino",
+        "summary": "La Primera Fiscalía Suprema en lo Penal, bajo el fiscal supremo provisional Boris Erasmo Olivera Espejo, declaró fundado el recurso de elevación de actuados interpuesto por el ciudadano Geisel Grandez Grandez y dispuso el inicio de una investigación preliminar por el plazo de 60 días contra la procuradora general del E",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/fiscalia-investigara-a-procuradora-general-maria-caruajulca-por-no-denunciar-a-excongresista-kelly-portalatino-los-detalles-del-caso-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/T6J2KO54JRDBZEM233MWJALAMI.png?auth=05e49a9f8c3b1de9061ec4c0f429d5b044d57cab4c4de044e15b3190e644bc0c&smart=true&width=1774&height=887",
+        "publishedAt": "2026-10-22T18:15:00.000Z"
       },
       {
         "title": "Pleno del Senado aprueba 27 facultades: ¿Qué bancadas votaron de forma dividida?",
@@ -37,7 +53,7 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/pleno-del-senado-aprueba-27-facultades-que-bancadas-votaron-de-forma-dividida-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/MNZIN3LSFVAMNLN6KBQN7IG6UI.jpg?auth=92ba1ae5605ebc393554c2aff220ddb1582f7d21673e2dd1487eb1db406f659c&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-10-22T14:15:00.000Z"
+        "publishedAt": "2026-10-22T17:50:00.000Z"
       },
       {
         "title": "Elecciones Lima 2026: ¿Cómo avanza la resolución de las actas observadas? ¿Dónde se registra el mayor retraso?",
@@ -45,15 +61,15 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/elecciones-lima-2026-como-avanza-la-resolucion-de-las-actas-observadas-donde-se-registra-el-mayor-retraso-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/7SVUPK37EVBL5CP2RZ22IK7WZA.jpg?auth=5da0385ee043b33e95689f990c350ff661f34342e1222d3b7967e377c4601d6e&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-22T11:00:01.000Z"
+        "publishedAt": "2026-10-22T17:35:00.000Z"
       },
       {
-        "title": "Las 72 horas críticas y el momento de la verdad para la supervivencia de las organizaciones en el Perú",
-        "summary": "En el entorno empresarial de Perú y América Latina, la digitalización dejó de ser una meta para convertirse en la espina dorsal del negocio. Sin embargo, este vertiginoso avance trae consigo una vulnerabilidad crítica: las ciberamenazas. Hoy, un ciberataque ya no es un mero fallo informático reservado al área de TI, si",
+        "title": "Jorge Nieto cuestiona facultades legislativas: “Se han aprobado rompiendo el reglamento del Senado. Que gobiernen, ya no hay excusas”",
+        "summary": "El líder del Partido del Buen Gobierno, Jorge Nieto cuestionó la aprobación de las facultades legislativas solicitadas por el Ejecutivo, afirmando que el Senado habría vulnerado su propio reglamento durante el procedimiento.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/opinion/columnistas/las-72-horas-criticas-y-el-momento-de-la-verdad-para-la-supervivencia-de-las-organizaciones-en-el-peru-por-yennyfer-freyre-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/KKUN5HNXK5DXROUULTBBVZEXTU.jpeg?auth=7c0c9faa8e12b6f632622272e04aaa6ba8f69d03ac339e9801089a5b1d1af8b8&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-22T11:00:01.000Z"
+        "url": "https://elcomercio.pe/politica/jorge-nieto-cuestiona-facultades-legislativas-se-han-aprobado-rompiendo-el-reglamento-del-senado-que-gobiernen-ya-no-hay-excusas-ultimas-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/IJWUUDUHPFBG3ON3SOUSTUKT6M.jpg?auth=61ef5b8932cae7f15ff3417a696a8a8d7bed4afde3652769baf6955f4e74eb91&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-22T17:32:21.000Z"
       },
       {
         "title": "Susana Villarán: Poder Judicial incrementa audiencias en juicio oral contra exalcaldesa de Lima",
@@ -61,89 +77,73 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/susana-villaran-el-tercer-juzgado-penal-colegiado-dispuso-aumentar-dos-sesiones-adicionales-en-el-juicio-en-su-contra-susana-villaran-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/47ZIAUGYRZB5RIRQL2KH57BQAI.jpg?auth=90566a0ef9e2cc4e25329228bb30f3b03e5edd17a746058dbbdc350ffd6078eb&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-22T11:00:01.000Z"
-      },
-      {
-        "title": "El pleno del Senado aprueba otorgar al Gobierno facultades legislativas en 27 puntos: así fue el debate",
-        "summary": "El pleno del Senado de la República debate este miércoles, desde las 10 de la mañana, el dictamen de la Comisión de Constitución que delegada facultades especiales al Gobierno para legislar en 27 materias referidas a la lucha contra la criminalidad y al fenómeno El Niño.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/en-vivo-pleno-del-senado-dictamen-sobre-delegacion-de-facultades-legislativas-al-gobierno-sobre-seguridad-ciudadana-y-fenomeno-el-nino-detalles-votacion-incidentes-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/VMVIPQKM6BFZDHVXY7MNUQBQFQ.jpeg?auth=2e2a7a4005b085b28966a600bab097109bdc7ada1d3b2216aef2a87f247683e9&smart=true&width=1280&height=853",
-        "publishedAt": "2026-10-22T01:55:48.000Z"
-      },
-      {
-        "title": "Gobierno asegura que decretos sobre facultades estarán listos entre 10 y 12 días",
-        "summary": "El presidente del Consejo de Ministros, Luis Galarreta, anunció que el Gobierno prevé tener listos los decretos legislativos derivados de las facultades aprobadas por el Senado en un plazo de entre 10 y 12 días. El jefe del gabinete aseguró que el Ejecutivo empleará las atribuciones concedidas para atender los asuntos ",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/gobierno-asegura-que-decretos-sobre-facultades-estaran-listos-entre-10-y-12-dias-ultimas-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/AZZKGWGEYZHTZPX4DJU3BHJ3FM.jpg?auth=276b5197666cdcb4049eaf05c9651303b2a778a6fb3119716206562471721486&smart=true&width=1152&height=735",
-        "publishedAt": "2026-10-22T01:22:20.000Z"
+        "publishedAt": "2026-10-22T17:15:30.000Z"
       }
     ],
     "economia": [
-      {
-        "title": "Peruanos adinerados podrán invertir en universidades y hoteles: ¿corren riesgos?",
-        "summary": "Las gestoras están ampliando sus carteras hacia empresas de distintos sectores, entre ellos educación, agroexportación, telecomunicaciones y hotelería, señala Credicorp Capital.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/peruanos-adinerados-podran-invertir-en-universidades-y-hoteles-corren-riesgos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/4WU4Y5PEIJBMDBXPFTCFEAQBYM.jpg?auth=29a6d6ca77923712ccebd9199f60dcfc9eef3294afaf2b4fc3d44cc86e14224f&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-22T14:52:29.000Z"
-      },
-      {
-        "title": "Claro Perú sumó 229,000 clientes de postpago: ¿qué hay detrás de su crecimiento?",
-        "summary": "La filial de América Móvil elevó 5.2% sus ingresos totales entre julio y septiembre de 2026, impulsada por el avance del segmento postpago, la banda ancha y las redes corporativas.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/claro-peru-acelera-sus-ingresos-al-tercer-trimestre-que-negocios-impulsaron-sus-resultados-noticia/",
-        "image": "https://gestion.pe/resizer/v2/4VLVIET3BRENFMDWBWRCPFBXXQ.png?auth=0690290426c8665a1c7ea83d140c737be4bcd68c11acd722417132f43458d94d&smart=true&width=474&height=291",
-        "publishedAt": "2026-10-22T14:48:27.000Z"
-      },
-      {
-        "title": "Delegación de facultades: Senado aprueba 15 medidas ante El Niño, ¿servirá para mejores obras?",
-        "summary": "El Ejecutivo había pedido facultades para 66 medidas. En la Cámara de Diputados se redujo a 20 y, camino al Senado, se aumentó a 27. ¿Qué se busca en infraestructura para atender al fenómeno climático?",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/delegacion-de-facultades-senado-aprueba-15-medidas-ante-el-nino-se-aceleraran-obras-noticia/",
-        "image": "https://gestion.pe/resizer/v2/WSXPO3HYP5AJRPDHGZZ545APVU.jpeg?auth=5e5874e942c8931f98b0ed351eb76b8717573b0c2d64d745f64091d4e058fef2&smart=true&width=1200&height=675",
-        "publishedAt": "2026-10-22T14:44:13.000Z"
-      },
-      {
-        "title": "Carlos Neuhaus propone líneas de garantía crediticia para empresas ante El Niño",
-        "summary": "Carlos Neuhaus, presidente del comando privado, propone líneas de garantía crediticia para empresas ante El Niño.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/presidente-del-comando-privado-carlos-neuhaus-propone-lineas-de-garantia-crediticia-para-empresas-ante-el-nino-noticia/",
-        "image": "https://gestion.pe/resizer/v2/WGIK3X7FM5BF3ARNN4KUPHNHBU.jpg?auth=0efc5dcbce67116f1284ecbcc407b160fac8e920f286f8ef491321e1aca652df&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-22T14:34:00.000Z"
-      },
-      {
-        "title": "Vinelli: no se descarta suspensión perfecta en agroexportación, pero no hay pedido por ahora",
-        "summary": "Hace unos días, el titular del Ministerio de Trabajo y Promoción del Empleo (MTPE), Juan Sheput, señaló que el Gobierno evalúa dar luz verde a suspensión perfecta de labores en empresas afectadas por El Niño. Sin embargo, desde el Ministerio de Desarrollo Agrario y Riego (Midagri), no validaron esa posición.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/marco-vinelli-no-se-descarta-suspension-perfecta-de-labores-en-agroexportacion-pero-no-hay-pedido-por-ahora-noticia/",
-        "image": "https://gestion.pe/resizer/v2/AURORZ2Y5JHSNKZ2JZDTK4VAJE.jpg?auth=f3151fb82f99dd0eb81e3d8798efaa9336e3c0dcd6cc623c2c3371736279de63&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-22T14:13:47.000Z"
-      },
       {
         "title": "Rebajarían el IGV a 8% de forma permanente a tres actividades económicas, ¿cuáles?",
         "summary": "Proyecto de ley de Fuerza Popular será debatido en el Congreso. Sepa los detalles.",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/rebajarian-el-igv-a-8-de-forma-permanente-a-tres-actividades-economicas-cuales-noticia/",
         "image": "https://gestion.pe/resizer/v2/E4BGVWAKOJGP3GTBS476R57Q54.jpeg?auth=4795319c61956a351416600a11d64236cd1b530d497b85c65e9bc6b8670d7cc7&smart=true&width=906&height=594",
-        "publishedAt": "2026-10-22T14:05:09.000Z"
+        "publishedAt": "2026-10-22T18:39:00.000Z"
       },
       {
-        "title": "Red Hat va por más en Perú: la estrategia para rebasar sus metas y su incursión en la minería",
-        "summary": "Durante siete años consecutivos, América Latina se ha mantenido en la cima del crecimiento global de Red Hat, la multinacional tecnológica especializada en software de código abierto para empresas. Sin embargo, en la alta dirección de la compañía existe la convicción de que el verdadero motor de la región apenas comien",
+        "title": "Best Fruits prevé duplicar ventas de mango en EE.UU., pero El Niño limita volumen",
+        "summary": "El fenómeno de El Niño ha recortado la oferta de mango peruano en plena campaña, mientras la demanda internacional se mantiene firme. En ese escenario, Best Fruits of Peru, exportadora dedicada solo a esta fruta y enfocada en el envío por vía aérea, cambió su forma de asegurar el producto y espera un crecimiento en Est",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/red-hat-empresa-de-software-para-empresas-va-por-mas-en-peru-la-estrategia-para-rebasar-sus-metas-y-su-incursion-en-la-mineria-noticia/",
-        "image": "https://gestion.pe/resizer/v2/ZGZHB3TFR5GIJP6BG4FKV4DJ6A.jpg?auth=cafcc716a845becb151a31a59dc29236e73f680a06d78871c15c6d9de2cfe2ef&smart=true&width=800&height=400",
-        "publishedAt": "2026-10-22T13:30:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/best-fruits-of-peru-espera-duplicar-ventas-de-mango-en-eeuu-en-una-campana-golpeada-por-el-nino-noticia/",
+        "image": "https://gestion.pe/resizer/v2/WQYZRSEPLFEVJCGXBCDVU2FQOA.jpg?auth=abba12f6a3e256824a9f685bd2fe3f69a9affb160a1243fa2f9f56e4508142a0&smart=true&width=739&height=415",
+        "publishedAt": "2026-10-22T18:31:24.000Z"
       },
       {
-        "title": "Doe Run: Indecopi observa cerca de US$ 10 millones en gastos sin sustento durante la liquidación",
-        "summary": "La sanción contra Consultores A-1 se suma a los cuestionamientos por el manejo de los recursos durante la liquidación de Doe Run Perú. Un acreedor solicitó una auditoría independiente y pidió suspender la ejecución de un fideicomiso de aproximadamente US$ 20 millones.",
+        "title": "El Niño mueve las fichas para la disponibilidad de agua en Perú: ¿cómo queda la minería?",
+        "summary": "La Sunass priorizará el consumo humano en zonas con riesgo de déficit hídrico frente al FEN. ¿Qué implica esta medida para la minería formal ante el fenómeno de El Niño 2026-2027?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/doe-run-indecopi-observa-cerca-de-us-10-millones-en-gastos-sin-sustento-durante-la-liquidacion-noticia/",
-        "image": "https://gestion.pe/resizer/v2/5BPG46ODYZD5LBRRNXEUPOFMNQ.jpg?auth=60b975a353dec5ee321edbcc067e515e088a54300dcad371c4f36407b7a39888&smart=true&width=1200&height=675",
-        "publishedAt": "2026-10-22T13:28:16.000Z"
+        "url": "https://gestion.pe/economia/el-nino-mueve-las-fichas-para-la-disponibilidad-de-agua-en-peru-como-queda-la-mineria-noticia/",
+        "image": "https://gestion.pe/resizer/v2/NI3Z4EKCIJD63BTPZXJOSX7VSY.png?auth=2e88473a49bcd4294b0c0b48fc0c04ae483d595d216dfcae43acab8037c4fc38&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-10-22T18:16:11.000Z"
+      },
+      {
+        "title": "Silver Mountain evalúa reinicio anticipado de mina Caudalosa tras exploración",
+        "summary": "Silver Mountain Resources evalúa adelantar el reinicio de su mina histórica Caudalosa, en Huancavelica, luego de reportar resultados de perforación con altas leyes de plata y cobre. La compañía también analiza aumentar la capacidad de procesamiento de su planta, aunque todavía no ha decidido reactivar la operación. ¿Qu",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/silver-mountain-evalua-adelantar-la-reactivacion-de-caudalosa-tras-hallar-plata-de-alta-ley-noticia/",
+        "image": "https://gestion.pe/resizer/v2/OSLSZ5Z7VFF7NN6YNUMGXQ66CY.jpeg?auth=57a470cb6eba9b74aef51dd4ec7c86415cd424bf21baa339a62e2698428c7870&smart=true&width=800&height=550",
+        "publishedAt": "2026-10-22T18:11:30.000Z"
+      },
+      {
+        "title": "Dueño de Osaka alista restaurante mediterráneo en Lima y abrirá en Dubái y Chicago en 2027",
+        "summary": "El grupo detrás de Osaka, KO y Barrio alista dos aperturas fuera del Perú y una nueva marca en Lima. ¿Qué concepto prepara y cuál es su meta al 2030?",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/dueno-de-osaka-apunta-a-valer-mas-de-us-100-millones-al-2030-cual-es-su-plan-noticia/",
+        "image": "https://gestion.pe/resizer/v2/UHQD6DY4NJBITLJESNKZB4IG6A.jpg?auth=2a7476b3e72b0acbad6c67312c74ff024bbbf5ec324cd26e82542e2a564e4e41&smart=true&width=887&height=565",
+        "publishedAt": "2026-10-22T18:08:25.000Z"
+      },
+      {
+        "title": "Crehana traerá su negocio de nómina al Perú en 2027 y busca cerrar dos compras este año",
+        "summary": "Crehana ya no busca rondas de inversión ni ser el primer unicornio peruano. ¿Cuál es su nueva apuesta y qué lugar ocupa el Perú en sus planes?",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/crehana-y-su-apuesta-con-la-inteligencia-artificial-y-porque-el-unicornio-no-esta-en-sus-planes-noticia/",
+        "image": "https://gestion.pe/resizer/v2/BZWNGV4OLZCGZGSWANTTLCDMOE.jpg?auth=83cfd4b96f25488dca19b862d2b380bd4cd96dfaac183615450415c15d7e4d25&smart=true&width=1300&height=792",
+        "publishedAt": "2026-10-22T18:07:50.000Z"
+      },
+      {
+        "title": "De focos a air fryers: Ledvance, ex Osram, diversifica su negocio en Perú desde 2027",
+        "summary": "Ledvance crece por tercer año a doble dígito y prepara nuevas líneas fuera de la iluminación. Estos son sus planes para 2027.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/ledvance-prepara-su-ingreso-a-energia-solar-y-electrodomesticos-en-peru-su-plan-al-2030-noticia/",
+        "image": "https://gestion.pe/resizer/v2/4QVHUY4MGZFTVNSUVCCHKCY5QA.jpg?auth=f4add04eb59497588cedfade79d562adaff7dc978e1222b2977e80491539c76d&smart=true&width=960&height=640",
+        "publishedAt": "2026-10-22T18:06:35.000Z"
+      },
+      {
+        "title": "Dueño de Vitagel, con ventas en Inkafarma y Mifarma, entra al negocio de gomitas en Perú",
+        "summary": "Vitador, empresa de capitales suizos detrás de Vitagel, apuesta por las gomitas vitamínicas con una marca española. Estos son sus lanzamientos y planes de expansión para lo que resta del 2026 y el 2027.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/suplementos-en-peru-empresa-de-capital-suizo-adelanta-stock-por-el-nino-y-alista-lanzamientos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/W2P2OWP7ZRCOBGIGPP5NF52UP4.jpg?auth=549608f8cec8ce360f5dfd7e94bf36943c63d54f0dfdb0fb03d8a25103a0818f&smart=true&width=887&height=550",
+        "publishedAt": "2026-10-22T18:04:06.000Z"
       }
     ],
     "sociedad": [
@@ -204,12 +204,12 @@
         "publishedAt": "2026-09-09T07:00:00.000Z"
       },
       {
-        "title": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud - La República",
-        "summary": "Presupuesto 2027: oposición cuestiona prioridades del Gobierno y pide más recursos para educación, seguridad y salud &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcXVYRHNkcFVTRXlocG5ySVlLRzZJSzNKWEJXRldLWkJHQUpkeFBHWFJSNzVNVFhrTS1WTnliRHBhbmlZTDBCSEVLWjRkSHB0TTd3S3E3bGFucVQ3c0ZoeVJiSkRsRHltQWx0UWlncnNTaUhOcmZpcEUtbWdoR0ZFS2pJczljLUpyR0ZRS1VyTFF4SXBEODlfWG5aVzhsOXF6eGxQYnRPMlpaRHN6TG1hNHZKbzFhZElxOUd2TUNndXJDTHJubmNXM1pMUkNYRkI5eHpaMUNlT0NjYVQzSHh5U2h3c3pUZ2c0TWd5QTRJYWh4bDhuT1g3SHVNQmZ0OHfSAYQCQVVfeXFMTmktbXh4RFU1eWJvVkw4SFRHV2dDbm1rLTRiVU41TW9ONV9tS1pUUmFWcFExb3lfTWYyczVGSjJWLUJBSHRuTDE5RlVBRHhxQ19OdHpvcEtLNEdBcjZNZzZhS3kwRkxBdmxFZUhWZkZWTXRheEQ0U21ZWEV0ZHA1MTBoWWJ3R0VDa3pXQWFpVDlSclVsSUtLT1VtREFId0JXeFpEU3Z0ZmxyclIzcEZSSUFXME5seENxRU9uWVhwVURIWjlTa3JXSTRjd09QMExqeGhNVXpYa0Rzb0d6elRjRGNDMVZES1E2b202dHBrNVZMRW11YURrOGdYY0tuU3dOSFRKZnM?oc=5",
+        "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
+        "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOF96RmlFdGF0MmZNd1M0VXdlM2tlQVU0MHBidWRKZ1ZaYmRYZjQteldIeDRYR0c4aFNENU1ackUzVzZ5Sm5OSU9JVXlhQU9ON0ZoYmt6UWRfX2xNcFd3bmNDbkpyUktwaVl4UUZwdlZIRmZDaldXd3dXRk02ZFZvb2VJNk9WLTZTVXJhQklYcWxGMkFWbmZHUG11OURpRE8xWWdpU3lOOHUxaFotNUJscW9qVUdfdFRkWUhubndPYnRYUUN5RncxVW1qVFMzck41SWJYeWV5eWVLZw?oc=5",
         "image": "",
-        "publishedAt": "2026-09-04T07:00:00.000Z"
+        "publishedAt": "2026-09-07T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -346,68 +346,68 @@
     ],
     "ia": [
       {
-        "title": "IA en retail: ¿cómo ayuda la tecnología a elegir lo que compran los peruanos? - Mercado Negro",
-        "summary": "IA en retail: ¿cómo ayuda la tecnología a elegir lo que compran los peruanos? &nbsp;&nbsp; Mercado Negro",
-        "source": "Mercado Negro",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQMmFveEhZakpSQ2hpcC01ZlM3VmQ5MGZSaGYyVUxBaWZ1YkswRk5lSl9Ucm5TVWlqQjVJQzVnM3FHeG1TQmMzckl6R0pON21PdEpBYm9mWjZpOUxGMXRmeDJpandOT3ZmcUZqQ1c2TTU?oc=5",
+        "title": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial - teleSUR",
+        "summary": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial &nbsp;&nbsp; teleSUR",
+        "source": "teleSUR",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzFCZlBlb0hJQ2QxVS1ZUzdTTTBMWGdETGRkSVR3ZHByRjBvVU9SdkU3RmhQRzZPN2sybE5jbmFvdkQxVEdEVVQ0amFOOFh6NkhOY1Q3S0l0X0J5aXNWWi13NTdmWElJXzZ3eVJKN2ZCSzNxRWxwM1o5aDM1OHVJcG5EUlpVQm1fM2hpWQ?oc=5",
         "image": "",
-        "publishedAt": "2026-10-20T22:01:45.000Z"
+        "publishedAt": "2026-09-10T07:00:00.000Z"
       },
       {
-        "title": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú - Diario Ahora",
-        "summary": "Cómo la inteligencia artificial podría transformar la agricultura y las pequeñas empresas en Perú &nbsp;&nbsp; Diario Ahora",
-        "source": "Diario Ahora",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUwwRm5ROVRhYTJuX0RCWEVaNW4yU1lQU0k0anlPcFRITnJEZTItWXJnVDF5MkYxODhCSV9sSWRJelduRjFLRnNYTDZGVG15WVdDQTJkRUpBVFd4V2FZazA2Q3ZvNGgxV2M3Z2FlcEl5cHJESEZoRWwyM0VPQ2MwWlpBc3BSakN3N25NTi1UNU1rWEhwejBONjQ1dTdUS3Y5Y1RUc0Y4dkpOZzFvTFJsWnZJREZGMmpwb2tPeFpyRnpha1Q5MWRlQw?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-18T16:46:20.000Z"
-      },
-      {
-        "title": "Del buscador al carrito de compras: el consumidor peruano aprueba la IA que lo ayuda a elegir - altavoz.pe",
-        "summary": "Del buscador al carrito de compras: el consumidor peruano aprueba la IA que lo ayuda a elegir &nbsp;&nbsp; altavoz.pe",
-        "source": "altavoz.pe",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMUZQeU9VcXJHX2JfaENRdEdaZm5JcDA3WmVCNE9OWGF3endXNDFBYVY0YWV1VEh3VHcyMkxGekJ4dDdFMVEweGs0LUpNWjFKdWZmNlFTYnJJVFZPTGtJRzUtTTRYRUJSRXZvVlRzXy1UaWxQSmdWQV9MbTdONE42Q3JfQ2lSUFNXTFN0VnI0QWthb0Zsc1hkRlRLTzUtN3JTdExnRFRBZkdraTBLWjFFUHRtbkFvWDZEb2xYZzJXb3kycnNuMkFPVkR1SnV2NUZXcU9GRWUtXy1uRDYw?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-17T14:53:44.000Z"
-      },
-      {
-        "title": "Un coach de IA para cada profesor: así llega Muyu Education a Perú tras el retroceso en PISA 2025 - altavoz.pe",
-        "summary": "Un coach de IA para cada profesor: así llega Muyu Education a Perú tras el retroceso en PISA 2025 &nbsp;&nbsp; altavoz.pe",
-        "source": "altavoz.pe",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVHMxUkxrVm0xWmVzb0R2TmdxZmZ0QUlyQ2V4VXJvRXY1Sm96VURzaWxwTndqWjZ6eDZpVDZRbWRBSVJrMk9ydDVSeHk0LU05MnhXUlZSUGNYMzh4S2E2T0dpMFJ2cEpaZ09nMG5ja2pPYUxzZ1EzbmkwMTFxYWV5VUg0QWV1UFJicnppUW85SW9JbXc5MVNPcWpsVHBzNVVydWdxZlJhTzVOYzNkYUNGVDVXRnNhYmlCel9DLVloNGdvQjZhVmtqWllIRENxSmVzd3BiVWNocXIxZUE1UkFBR0xB?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-15T23:09:39.000Z"
-      },
-      {
-        "title": "Inteligencia artificial en Perú alcanza adopción de 17.3% y Microsoft ve potencial de crecimiento - El Peruano",
-        "summary": "Inteligencia artificial en Perú alcanza adopción de 17.3% y Microsoft ve potencial de crecimiento &nbsp;&nbsp; El Peruano",
+        "title": "Impulsarán desarrollo de la inteligencia artificial en Perú - El Peruano",
+        "summary": "Impulsarán desarrollo de la inteligencia artificial en Perú &nbsp;&nbsp; El Peruano",
         "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVmRsM2lCcVpqUFBBaTYtemZrTllMVTNSQ0NWd2ZmZzlfa1NGOV9zY0w1VE1DZ1hwZDREYWNVaUtzbkwxNENoa1NVSWxrR0I0YVZJMnhMVzdYQWR4WEVQb1k0cGNpLTZucVpoMGEtclZZM3lkZnlSNW56TDUxRk0wYmIwc1lLTjFEMDM5aVdScG1zVjQxZGJBV1V4OGg4aFNhRUQzd1o4WmhDbXJFazRTYnBkTUtnWDlOUkxIUXVyQ0NRUE5ld3YzalF5UQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdWFvUGgxRUM0Z0FXQUl0LVdzTEQ0VGcxQ1JzTThXVmFCTjdEbERlelhqWC1CNWhjX3JHcXhacjdyalJVaWJHUGZVNzdPc29rNnVmOUpMNjRYa2ZUVW5vb1ZXeGhsTnJpNlRRQmhseVlNeW9JVTM0LTM2WGlYU2hCUjZpZjdIdGtXM1M3TjRPZ09fbWpEVzNIQnZKVQ?oc=5",
         "image": "",
-        "publishedAt": "2026-10-12T07:00:00.000Z"
+        "publishedAt": "2026-09-09T07:00:00.000Z"
       },
       {
-        "title": "Uso de IA crece en empresas, pero solo 30% reporta políticas de seguridad - La República",
-        "summary": "Uso de IA crece en empresas, pero solo 30% reporta políticas de seguridad &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPb0FkVUtxcW5KQUxGN1ByR2EzWEYwVmJ0V0ZQVExrMUlWSnpxc0laT0RfR3ZOMFJYRjlhamlDbDlwVnplYVNoUzRvWnFYeUVwMDlkd3FvUjBWTVRZcE9oRU0xcWRuanlTVHZZUDB2QXdTTThZWTZzTloxYzFiSTNNLTdfU1pibHBmLTRuMHBPSU96MkVRemlJLTN2anRPQnNpbWJUTGJaQ2JaWW1lRkhURlpQNHplZkRqaVFZZThHYnk5VWR5TUNrOGZHRGZXdmJQemF1THN5dTFzemk0cm9MYWpHTnN5bDJmU0hlR0ZrT21ib25VNTNfckZCU0xSRVRxampiZDRQRUpidw?oc=5",
+        "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
+        "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOF96RmlFdGF0MmZNd1M0VXdlM2tlQVU0MHBidWRKZ1ZaYmRYZjQteldIeDRYR0c4aFNENU1ackUzVzZ5Sm5OSU9JVXlhQU9ON0ZoYmt6UWRfX2xNcFd3bmNDbkpyUktwaVl4UUZwdlZIRmZDaldXd3dXRk02ZFZvb2VJNk9WLTZTVXJhQklYcWxGMkFWbmZHUG11OURpRE8xWWdpU3lOOHUxaFotNUJscW9qVUdfdFRkWUhubndPYnRYUUN5RncxVW1qVFMzck41SWJYeWV5eWVLZw?oc=5",
         "image": "",
-        "publishedAt": "2026-10-08T07:00:00.000Z"
+        "publishedAt": "2026-09-07T07:00:00.000Z"
       },
       {
-        "title": "Inteligencia artificial: cómo puede reducir el consumo de energía - La República",
-        "summary": "Inteligencia artificial: cómo puede reducir el consumo de energía &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORlpGTEJnYlE0VlFjaDZwQkIzTUUzMkhYTFVIcDA1NlpaSWdsM1BaYVR3MVFWN19LSVpDekpoU0dYb1FCdGI0bXVGYTljQ0JRTmRuc1owZkp5Z0d2TkpERkpyNi1PekhackRHOUNRQ3Zmb0VKRktjXzVHcjZ6b0F3STlvUlVPLU1LNlQ4UmxBZHFVREJPNGRSNXh2alphd19iYS1HbTNDRExIejVHNzFEMkhJLUV6RDZkYkw5LUNSLUM5aDFfTzZCbnp6YTRwVC1heTVJbm1qX0Jqd3gtR3c?oc=5",
+        "title": "La IA avanza en Perú, pero las empresas enfrentan un reto clave: mejorar su infraestructura tecnológica - Infobae",
+        "summary": "La IA avanza en Perú, pero las empresas enfrentan un reto clave: mejorar su infraestructura tecnológica &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcHcxMHZXbVRFdm1rYVdjR05vdWkwRC1YZEs1STVyMjNVNTJ6RjlmcVgwUUFMWDNpeU1aR3I3TWMzdVczRW4tRkg2S1pmR2haZE9WdE9MT0pwZFktcC0xQk5KbGpoYTZrWGE2VDViYmhRVmZfS1pkOHc1UGw3OU5oNmtfeU1Sc1Q0NnZ5amVPZFR2MzB1dkllZVB2U3dhYVFfN3Q4OWJxdXI5Z3dEMkcwdi1sWWtHNTBIZ0daa1E2bDN1UlU4UDdPN2dlOFVpZGZrTkZOenZVMl9TVkXSAfYBQVVfeXFMTWhZejBPWVJvRWc5VmowYS1ocnJIQlU3TnJxcUlzWGpRVHJOZGJVcXlKZll6SlhycDRMOC0wMkZIbnZOZVpKTDlSSHFNY21qYjRRWjBEeGVHdXFQOWRwSVVoVFR3UVZwTzRHb1ZidWktcklvOGZjYVRxZk00WnE5MmlVZXhzVVRaV0RjMk1VLThMak9lYUZOTERPWGtwcTZCTXZmT0stUkhxeVlkQ3V6SzJkYnVfMXBScTZuWHlrVVEyLWQtdENYZzlMSkpERl9xdWZyZmVkV1Z2bXVMRVBaajlzNUF0Q3pfT2R2S1kzaHA1NWNFeURB?oc=5",
         "image": "",
-        "publishedAt": "2026-10-08T07:00:00.000Z"
+        "publishedAt": "2026-08-26T07:00:00.000Z"
       },
       {
-        "title": "Perú, el más preocupado de Latam por impacto de la IA en el empleo, ¿riesgo real? - Gestión",
-        "summary": "Perú, el más preocupado de Latam por impacto de la IA en el empleo, ¿riesgo real? &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQbW0tdEdqMHU1VjFvLVl5TURURUhDSnI0Q0thbjJCOTc2TGRzMTcwMW1wazlIcUREQ1RsaTA2SUN2bVlwVWdQdUNEUkFFYlBOdDhkcElzTFFzVWZBRDAyUHJFVEN4b0tzbE5KMmM4eGdURVJ5U2s4QVZFUXUycVlHODYtUFJMckZIUHoyU2p3NGNwZ0hQa09BQXhKaUVvdUJ0OUtVcWlMdHZJeXlaaWJxZEd3SlgyMmt3T2E3X0pYdGMtZEp3SDJvWEtvUHd5T3YtWUlNWHdYT0VBRmlsVTBJbi04amdTeHdPbC1GcTM5c3MxdXFEV1hPbHpydThOcHJCRDRBaXAzdUxqUQ?oc=5",
+        "title": "Mercado de inteligencia artificial en Perú crecería 20% anual hasta 2027 - El Peruano",
+        "summary": "Mercado de inteligencia artificial en Perú crecería 20% anual hasta 2027 &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMXc5TUpmLW9YaEJMOXgwaW5wdHE2MUlrRzU3djFhcUhhMGxSZUVPSUZMTDkxUGZtRjV1dDZKNEluVEFlb1hOanhZa1lwWVI1Z2VVcWg1cTFVX19iZGJNSW9PU1BrNTFjLU9FdmpCOGRXSFVRY0xBNTVrWEdjQ2dyMklIM2FwX1ZERFFqc0Y0RmttZF9TWHF3MVdQTXAzQnRxVnMxNnFJVG1Salk?oc=5",
         "image": "",
-        "publishedAt": "2026-10-07T07:00:00.000Z"
+        "publishedAt": "2026-07-22T07:00:00.000Z"
+      },
+      {
+        "title": "Inteligencia artificial: plantean guía para convertir la tecnología en valor para las empresas - El Peruano",
+        "summary": "Inteligencia artificial: plantean guía para convertir la tecnología en valor para las empresas &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWU9QeVVMZWZqNkUtQXdqcjB3YXFvWERHQ0pDZ0RtSUdoUktaRk1wcENGWENlanFfRlljS0NHVTdnWEgxOUpkYWphRXdqa2RSTWF6SW8xSmhBRmdBZElfb1oxcWdSRGZzalNJaFQ0bDN6TzhHOFJTN01ORHdmaUJCcHMyTHp2Wlh4YVRPUExEZDNQRm1wWnU4d1FjeE1kNjRYZlk4dlJuNDhiMzlqZzVmSGdSX2QtT0Z6SEdGSzFsM0NVb0E0Y3pJWQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-13T07:00:00.000Z"
+      },
+      {
+        "title": "¿Por qué falla la inteligencia artificial en las empresas? Las claves detrás de la frustración corporativa - Infobae",
+        "summary": "¿Por qué falla la inteligencia artificial en las empresas? Las claves detrás de la frustración corporativa &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSGk3YmZ4cUZ0WkVpZXY4SElDQjJfQk00dGV2UTJOYzVpME9FZVhYb3hBTXp6VVpTQ1dveWp0VmdZVHViSERKRzJVVWxzVFRuZmRJQUlYOXpiejBjdXJiYWFQWjVoV21pa2w5MlRqZGQ1eTM5TmNwSUJiZHR5MDJXZmJYbTVxanNXbU1oV3NCUXpLQ25nbGdtaVBVVkVKTmlDOV8zbnU5RU0yc2x5cXZwWHVTYUpkbkdNNHFSdk5YRVZGUVBIRGczd2RjaTMzZzd2cmFwQ0Q1ZnFaUFEyUlHSAfgBQVVfeXFMTkpnZktLYVBWUko5WlV3dDcwdUYxYndEbjhVdjhhdDh0TG5HXzlfdDNWVzhHci1uMlFjM25XdEx6RTFZWWJObS1aUG5KUnR3ckZSNDNmd0pqTHhuMXh5Q3pIRW9SVHdEUzkzR29LcTY5WmlXNU1FVzg3WlRiRkFUOTV0YmZWYmJveWg1N1JPMXBTLUZwREdjXzlmdkJlY0lGQ0JmbHQ4eWxpbkhRWUhYdEtVd3hkRkJpYS1ZVzJEQ29ETUI0T2xSMXpvekRORUQ0am1kTnhibU5pN2tSSEItV09GaU9wczEtZkdnbVBWaEJfTmd6aWd0enY?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-20T07:00:00.000Z"
+      },
+      {
+        "title": "Inteligencia artificial transforma la salud y acelera la modernización hospitalaria en Perú - El Peruano",
+        "summary": "Inteligencia artificial transforma la salud y acelera la modernización hospitalaria en Perú &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeGcyN0M2VUxPY0gxN3d3Y2pGMF9fbFlYZmk2RGpXWS1neU1oUTBQME5hYnNaNXV0andvZmtrY1dqQ3lxbUtVYmxsN1BYY1hkLWJ4ZXVnaHZ3dFVBbE1uQ1o5aDF4QS0xZ1pmWjgzc3E3ajk1MmFOb19IM2dSd3dCdkxZZXBUeEZIY2xYdmx3el9LbHdaZlM0b0g1aURrTXlfdC14cWRCQzFCR19BMExtY1RtM2VRVFRoUzB3U1ctR0JYczEtci1zaXhuTQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-05-13T07:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -417,7 +417,7 @@
         "source": "Perú 21",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaWw3N01nTkUxV0tKenJJekIwcFZrMVBDR3g0dENOQTZibTB0bjQ0dzczUEQxZ0ZwaTNGUVoxZGhEbmN3UUhLWjgydUEyRlpQdUpuLWpWVFlwRS1oM3NMdkxTVWJhWDNLTE5jNXBHOW9fN0ZiT2d3MjRvNzRuWmxoRklQR1RDVE80YUQ2X1N3RGhnQk1YUWc?oc=5",
         "image": "",
-        "publishedAt": "2026-10-14T17:23:42.000Z"
+        "publishedAt": "2026-10-14T07:00:00.000Z"
       },
       {
         "title": "“El reto de las 48 horas”: la peligrosa tendencia viral que impulsa a adolescentes a desaparecer de sus casas - Infobae",
@@ -568,14 +568,6 @@
         "publishedAt": "2026-09-17T07:00:00.000Z"
       },
       {
-        "title": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales - La República",
-        "summary": "Lima Jazz Fest vuelve en octubre: fecha, lugar y entradas para el evento cultural que reunirá a músicos nacionales e internacionales &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdUdGMXlJY2xDbGJKMklhSXdTUVhaV051cWliMm5VNkE3RlRBdnJWS1lGVzN1bVBWRHAwUmZMR2VLTUI1VG43TUhabEFUZThmRUEyZ29pUkFuNVI3QzRoVFoyQ3hvLU92ek1abjItSGtyNUhLT2g2Q3BMMUxuTnJsLWdVMWQtUmlTUzJ6eTlNZ1puSnZ1SUZKT01oWkp3YlFTeU9HSWtZZXI0U0NLNUFSVG9zaXN3Nl9EZi10STlhVFA3RWRfUFRCV2J4VWVvb0tha3VNb0VBOHE2cWpnaHFlSzAwMU84QVJNOTc0Z2o4MWZyR0FGenYyckU5VGM5MzVaeUJ3YVZpTU5BODNKc1FqUHpSeTUxZ9IBmwJBVV95cUxNQnVtd2xlRmNOTVEwY1pVOG83NzZpckN6VWY3eTZPZGk1YmdMS041aERIcE9lS2htWU5hZktLOVpTa25Hd1FLUHg5clRrcklXNVk2alVhS0l4OG9FVW9Ic2JBaGE4SDN5ZWt6Y0RjOFFrU3pRdEhrUWJaR183X2xYVnVFWlZqRzBVZGFmZzB4V2U2R0JPRllXeG1ZTkhCN0dXZzNXNnNtdDBSNjBZeVlQaVFXTm85N2pPSnRuSmxfMGJUbklnRjh4bUhWb0E2eGZWOVFZYV9JUVVlOGUzX3NGN2Q4dzlLUFlUdlc1OGNVRVp2UjF0NjVvQzg1Wi1sMEY5OEdMWFpKNmwzc2ZNU05MUFpUcWROeENQMjZv?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-17T07:00:00.000Z"
-      },
-      {
         "title": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA - Infobae",
         "summary": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -606,6 +598,14 @@
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNGVRUi1lRFpKUVBFNDlRVFp5OURydjNYaDhFVlFER2Q4UkZWSXZKZEI2Rk1nUzk2V0MxNG45WjVRTWFCbk1ZdkFBVnhveUFHVTBmdFA1SmtrZENxZm5VNzY0N0tBS0xySG94a3ZmY2ZVRjRydDVwYlZZUEtHYjlfU3N6RHZRRHVTWk5ZM3BIYUNxUWttbnRqSDN4T0duMjUtUmtEWjJTaFVUWEdHMnpQWFBlSUo5aFZSWlpQNE1FenBSdEU?oc=5",
         "image": "",
         "publishedAt": "2026-08-22T07:00:00.000Z"
+      },
+      {
+        "title": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones - Infobae",
+        "summary": "Agenda cultural en Lima del 20 al 27 de agosto: ópera ítalo-peruana, salsa, música de películas, teatro, circo y una variedad de exposiciones &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTTZDSUpUY3djZ1R3U0lOUzRLVVV6OGFpNGZvRm83N0dTV2VlclhHT3U5YlVzX1NLMUFzdUx4cHZrX2FhdGhDeGtYOWZwZ1VyUnZiZEIxRUw5NmhZUG93WHZJNUFHUzRTMHBtVTRQUE91OFprb1NlMXhsbkF5ZHZINWxweFVsVzRJZlpUcFI2Mks5andzSTgwNVhUZXJsaVl5bUhrMXFLX0JMWDgtNEtWbW92YXVBS19kQ1dYS1hqSEt4YVpnaFNqeFVHQzhqbVBIZnFnUEcyOXdqUnFZNllOZG5aVjlsbUtlV21JZ21aTjRkNlNyOEYwZnVhbnhSdDNadVRZbUNvYjPSAaMCQVVfeXFMT0lVVzhVeG9mNGZBb2diQW9Bd1ItVlppWDFzMmt4eDAyY1ZYMjVQUWpzN2hzMGpfR3RqRGhVS3NGZm04ZlBnaGxsUXozY1o1ZlFkWjl3aElHZjAyaWo0SDR1VU5SM09KSm1HWkRTeDlSa1Z5bGVpZS0yN0s2cVYxRFBvUjRwZHV1eHFnbUx0RlRaLUdSU0JPWmdSY0V2SXE0QUpFbGlCa3JtOE0tOHNCMWlsV19wTi1ienIyLTdubnJCUXQ0T2xkSTluVENhVENBeEcwZVM4NlZjS2IwS3NhbTRNQ3d0cFlLd3JWakw2Wl9YbTBkcGowYkVYU2NKbVl4eXdVa2FNZ3FlVVNpejg4T1FQaUxmZlR2Rk9idk9RLVV4cmtB?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-21T07:00:00.000Z"
       }
     ]
   },
