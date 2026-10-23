@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T22:18:24.506Z",
+  "generatedAt": "2026-10-23T01:27:41.562Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -22,6 +22,14 @@
         "url": "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
         "image": "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
         "publishedAt": "2026-09-01T00:00:00.000Z"
+      },
+      {
+        "title": "Diputado César Holguín presenta un proyecto para derogar ley que regula el derecho de referéndum",
+        "summary": "El diputado César Holguín (Ahora Nación) presentó un proyecto de ley para derogar la Ley 31399, que regula el derecho de referéndum cuando se trata de reformas constitucionales.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/congreso-diputado-cesar-holguin-presenta-un-proyecto-para-derogar-ley-que-regula-el-derecho-de-referendum-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/2VNBRNZDMNAV5PF2HEN4JLHGUU.png?auth=069f211ed686699c0a04e9065e618638162554a428d4856c958336d6b42025b3&smart=true&width=600&height=600",
+        "publishedAt": "2026-10-22T22:36:44.000Z"
       },
       {
         "title": "Gobierno promulga ley que le otorga facultades legislativas por 90 días",
@@ -70,24 +78,48 @@
         "url": "https://elcomercio.pe/politica/fiscalia-investigara-a-procuradora-general-maria-caruajulca-por-no-denunciar-a-excongresista-kelly-portalatino-los-detalles-del-caso-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/T6J2KO54JRDBZEM233MWJALAMI.png?auth=05e49a9f8c3b1de9061ec4c0f429d5b044d57cab4c4de044e15b3190e644bc0c&smart=true&width=1774&height=887",
         "publishedAt": "2026-10-22T18:15:00.000Z"
-      },
-      {
-        "title": "Pleno del Senado aprueba 27 facultades: ¿Qué bancadas votaron de forma dividida?",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/pleno-del-senado-aprueba-27-facultades-que-bancadas-votaron-de-forma-dividida-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/MNZIN3LSFVAMNLN6KBQN7IG6UI.jpg?auth=92ba1ae5605ebc393554c2aff220ddb1582f7d21673e2dd1487eb1db406f659c&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-10-22T17:50:00.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Heidelberg Materials cierra compra del 70% de Cementos Inka: ¿qué estrategia adoptará?",
+        "summary": "Heidelberg Materials cerró la adquisición del 70% de Cementos Inka, la cementera peruana de la familia Choy, concretando así su ingreso directo al mercado local. La operación se suma a la llegada de Holcim, que tomó el control de Cementos Pacasmayo. ¿Qué posición ocupa Cementos Inka y qué atractivo encontró el grupo al",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/heidelberg-materials-cierra-compra-de-cementos-inka-en-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/PTCNLJSZABCATOCULHNTXXC35Q.jpg?auth=a4c93e6e2002357342655b98b716764ff39a2e3e41a47b6c8c1fce30bf1d3f1f&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-10-23T01:17:59.000Z"
+      },
+      {
+        "title": "Red Hat va por más en Perú: la estrategia para rebasar sus metas y su incursión en la minería",
+        "summary": "Durante siete años consecutivos, América Latina se ha mantenido en la cima del crecimiento global de Red Hat, la multinacional tecnológica especializada en software de código abierto para empresas. Sin embargo, en la alta dirección de la compañía existe la convicción de que el verdadero motor de la región apenas comien",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/red-hat-empresa-de-software-para-empresas-va-por-mas-en-peru-la-estrategia-para-rebasar-sus-metas-y-su-incursion-en-la-mineria-noticia/",
+        "image": "https://gestion.pe/resizer/v2/ZGZHB3TFR5GIJP6BG4FKV4DJ6A.jpg?auth=cafcc716a845becb151a31a59dc29236e73f680a06d78871c15c6d9de2cfe2ef&smart=true&width=800&height=400",
+        "publishedAt": "2026-10-23T01:15:18.000Z"
+      },
       {
         "title": "Alza del sueldo mínimo a S/ 1,300 podría revisarse por El Niño, según ministro Sheput",
         "summary": "El Niño podría afectar el aumento del sueldo mínimo a S/ 1,300, según el ministro de Trabajo, Juan Sheput.",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/fenomeno-el-nino-podria-afectar-aumento-del-sueldo-minimo-a-s-1300-segun-el-ministro-de-trabajo-juan-sheput-noticia/",
         "image": "https://gestion.pe/resizer/v2/RFINB7LYGJDGTOQTQT6EIDNOHY.jpg?auth=35481980e0bebbc01677725a4a6538e2e5c88bb6e199d73ee388f4d5f6f1a235&smart=true&width=1200&height=801",
-        "publishedAt": "2026-10-22T22:09:00.000Z"
+        "publishedAt": "2026-10-23T01:00:00.000Z"
+      },
+      {
+        "title": "Julio Velarde advierte: “Ahora, El Niño está preocupando”, ¿qué indicadores afecta?",
+        "summary": "El presidente de la entidad monetaria se hizo presente en el Congreso de Emprendedores Amazónicos (CEA) para analizar la coyuntura nacional.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/julio-velarde-advierte-ahora-el-fenomeno-el-nino-esta-preocupando-que-indicadores-afecta-noticia/",
+        "image": "https://gestion.pe/resizer/v2/QNXTUOANNVFIJBZWJX7DIKMS5A.jpg?auth=3143b843b9a6c5d3c2e2a2f4c399e89e7a62196e2e39793c2cef67c709e0962b&smart=true&width=1200&height=801",
+        "publishedAt": "2026-10-23T00:31:21.000Z"
+      },
+      {
+        "title": "El Niño mueve las fichas para la disponibilidad de agua en Perú: ¿cómo queda la minería?",
+        "summary": "La Sunass priorizará el consumo humano en zonas con riesgo de déficit hídrico frente al FEN. ¿Qué implica esta medida para la minería formal ante el fenómeno de El Niño 2026-2027?",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/el-nino-mueve-las-fichas-para-la-disponibilidad-de-agua-en-peru-como-queda-la-mineria-noticia/",
+        "image": "https://gestion.pe/resizer/v2/NI3Z4EKCIJD63BTPZXJOSX7VSY.png?auth=2e88473a49bcd4294b0c0b48fc0c04ae483d595d216dfcae43acab8037c4fc38&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-10-23T00:20:22.000Z"
       },
       {
         "title": "Rebajarían el IGV a 8% de forma permanente a tres actividades económicas, ¿cuáles?",
@@ -95,55 +127,23 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/rebajarian-el-igv-a-8-de-forma-permanente-a-tres-actividades-economicas-cuales-noticia/",
         "image": "https://gestion.pe/resizer/v2/E4BGVWAKOJGP3GTBS476R57Q54.jpeg?auth=4795319c61956a351416600a11d64236cd1b530d497b85c65e9bc6b8670d7cc7&smart=true&width=906&height=594",
-        "publishedAt": "2026-10-22T21:16:57.000Z"
+        "publishedAt": "2026-10-23T00:17:00.000Z"
       },
       {
-        "title": "El Niño frena a productores: Lima tendría solo un tercio de alimentos",
-        "summary": "En el preámbulo de los eventos climáticos más intensos pronosticados debido al fenómeno El Niño, el Perú se divide entre dos escenarios: en el norte, las lluvias volverían a causar estragos; y en el sur, la sequía podría hacer lo propio. Sin embargo, en el centro, no hay una previsión generalizada. Desde la Federación ",
+        "title": "Peruanos adinerados podrán invertir en universidades y hoteles: ¿corren riesgos?",
+        "summary": "Las gestoras están ampliando sus carteras hacia empresas de distintos sectores, entre ellos educación, agroexportación, telecomunicaciones y hotelería, señala Credicorp Capital.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/el-nino-lleva-a-productores-del-centro-a-sembrar-solo-un-tercio-pero-asoma-boom-de-palta-y-nuevo-polo-logistico-noticia/",
-        "image": "https://gestion.pe/resizer/v2/KGVHRV45QBFPZLGB6P7JEGPUCI.jpeg?auth=cc8270b84091a40f74a10e48827a2a577f5b2d435d821ba962b0446a98e9139a&smart=true&width=700&height=395",
-        "publishedAt": "2026-10-22T21:16:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/peruanos-adinerados-podran-invertir-en-universidades-y-hoteles-corren-riesgos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/4WU4Y5PEIJBMDBXPFTCFEAQBYM.jpg?auth=29a6d6ca77923712ccebd9199f60dcfc9eef3294afaf2b4fc3d44cc86e14224f&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-22T23:34:43.000Z"
       },
       {
-        "title": "Delegación de facultades: Senado aprueba 15 medidas ante El Niño, ¿servirá para mejores obras?",
-        "summary": "El Ejecutivo había pedido facultades para 66 medidas. En la Cámara de Diputados se redujo a 20 y, camino al Senado, se aumentó a 27. ¿Qué se busca en infraestructura para atender al fenómeno climático?",
+        "title": "MEF: este es el nuevo plan para enfrentar a El Niño y otros “choques” económicos",
+        "summary": "El ministro de Economía y Finanzas (MEF), Elmer Cuba, junto a la presidenta Keiko Fujimori, anunciaron las medidas de su nueva política “contracíclica”, que buscará evitar una desaceleración económica, frente a tres choques de oferta que podrían impactar su dinamismo.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/delegacion-de-facultades-senado-aprueba-15-medidas-ante-el-nino-se-aceleraran-obras-noticia/",
-        "image": "https://gestion.pe/resizer/v2/WSXPO3HYP5AJRPDHGZZ545APVU.jpeg?auth=5e5874e942c8931f98b0ed351eb76b8717573b0c2d64d745f64091d4e058fef2&smart=true&width=1200&height=675",
-        "publishedAt": "2026-10-22T21:00:00.000Z"
-      },
-      {
-        "title": "MVCS presentará 15 proyectos para destrabar obras de agua y desagüe",
-        "summary": "Mauricio Arnillas, ministro de Vivienda, Construcción y Saneamiento, informó que su cartera presentará 15 proyectos de ley al Congreso para destrabar obras de agua y desagüe.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/mvcs-presentara-al-congreso-15-proyectos-para-destrabar-obras-de-agua-y-desague-noticia/",
-        "image": "https://gestion.pe/resizer/v2/W2WXOGHGVBCSHMKYWNPI3EFADI.jpg?auth=3c19ab9e2eeeb42c4d4bc4416ca89cd651f200f58330480854ad987812083259&smart=true&width=1200&height=801",
-        "publishedAt": "2026-10-22T20:50:00.000Z"
-      },
-      {
-        "title": "Piura inundada en inicio de El Niño: ¿qué riesgo se prevé para su agricultura y carreteras?",
-        "summary": "Pese a los aniegos ya registrados en la región, las lluvias más extremas todavía están por llegar entre lo que resta del 2026 y el verano del 2027. Este es el escenario que se prevé.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/piura-riesgo-de-inundaciones-que-trae-el-nino-amenaza-al-87-de-su-poblacion-en-el-verano-noticia/",
-        "image": "https://gestion.pe/resizer/v2/PKB53EOK7ZFSTHD4FI54XMRQ4U.jpg?auth=92f765306a95caddccf54445b857bb7665c4bcd6d346fc559fd64bd4b85d9f6b&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-22T20:45:00.000Z"
-      },
-      {
-        "title": "Doe Run: Indecopi observa cerca de US$ 10 millones en gastos sin sustento durante la liquidación",
-        "summary": "La sanción contra Consultores A-1 se suma a los cuestionamientos por el manejo de los recursos durante la liquidación de Doe Run Perú. Un acreedor solicitó una auditoría independiente y pidió suspender la ejecución de un fideicomiso de aproximadamente US$ 20 millones.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/doe-run-indecopi-observa-cerca-de-us-10-millones-en-gastos-sin-sustento-durante-la-liquidacion-noticia/",
-        "image": "https://gestion.pe/resizer/v2/5BPG46ODYZD5LBRRNXEUPOFMNQ.jpg?auth=60b975a353dec5ee321edbcc067e515e088a54300dcad371c4f36407b7a39888&smart=true&width=1200&height=675",
-        "publishedAt": "2026-10-22T20:30:00.000Z"
-      },
-      {
-        "title": "Lío farmacéutico: gigante Pfizer y el litigio con peruana Pharmaris por medicamento",
-        "summary": "Detrás de los mostradores de las boticas y farmacias, los laboratorios no solo compiten por asegurar su presencia comercial de cara a entidades de salud y el consumidor final, sino también por proteger sus patentes, procedimientos y toda la inversión desplegada detrás de un nuevo medicamento. Así, la multinacional irla",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/gigante-pfizer-enfrenta-a-peruana-pharmaris-el-lio-por-medicamento-para-tumores-noticia/",
-        "image": "https://gestion.pe/resizer/v2/IZXHIUDIWRCS3LBIX54LXKY4IQ.jpg?auth=58b9a1f69d1a390c8bf5d18a099663b4f739c14d00f49936a92b00f49a7474f3&smart=true&width=1200&height=798",
-        "publishedAt": "2026-10-22T20:15:00.000Z"
+        "url": "https://gestion.pe/economia/mef-este-es-el-nuevo-plan-para-enfrentar-a-el-nino-y-otros-choques-economicos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/RMNEQ22MYRA3ZFBGQRPJRZKDZE.jpg?auth=352876ad1c668dfa2a0d4177cff9fa783536f12040acb82f2a3111ff4c38f267&smart=true&width=1280&height=854",
+        "publishedAt": "2026-10-22T23:15:00.000Z"
       }
     ],
     "sociedad": [
@@ -412,6 +412,30 @@
     ],
     "tendencias": [
       {
+        "title": "¡EL TREND QUE DA LA HORA!: ¿Cómo hago el video de la historia de amor zombie con IA? - Perú 21",
+        "summary": "¡EL TREND QUE DA LA HORA!: ¿Cómo hago el video de la historia de amor zombie con IA? &nbsp;&nbsp; Perú 21",
+        "source": "Perú 21",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaWw3N01nTkUxV0tKenJJekIwcFZrMVBDR3g0dENOQTZibTB0bjQ0dzczUEQxZ0ZwaTNGUVoxZGhEbmN3UUhLWjgydUEyRlpQdUpuLWpWVFlwRS1oM3NMdkxTVWJhWDNLTE5jNXBHOW9fN0ZiT2d3MjRvNzRuWmxoRklQR1RDVE80YUQ2X1N3RGhnQk1YUWc?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-14T07:00:00.000Z"
+      },
+      {
+        "title": "“El reto de las 48 horas”: la peligrosa tendencia viral que impulsa a adolescentes a desaparecer de sus casas - Infobae",
+        "summary": "“El reto de las 48 horas”: la peligrosa tendencia viral que impulsa a adolescentes a desaparecer de sus casas &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVXRuQnUzVFlpak42cWxYOVpfVVpBZDI1czRfY3I4cWpWdEtqOU9FWURLVjBmNjM0VzE3ZThLY0tLWXVaSmI3VDdsNEpqMUhNaUpJblFRX3E2VTBhSmdZcWtISVhFN01GeUhUbnhSVDEwejVpeFc3Wmp0a0ZTT0dXWGVpNkpSdFNDbC1od0xxRVVZbVB4MEZFUkdnQWlaeDNnNERJenpQS0RIQ1VPbDhPSkZjYVFJSDFDQ2h4enMzNzFRRy12MWhOZ1hNb2t5Z21UZXhIaldndkROWmZzb0pmcdIB-wFBVV95cUxPVlU3aUg1a2ZCaGg2c1M2WEV3cmFvNHc1N2UyYnZaRnlBVVR2Wngtdl9rNEEzT1B3YldhUHV3U3JBbnB2QzR3WEEyTVNCa2lpYWtNZ0J0VnM5ZzBCYlZST1lLX0NZb2ZPRVNIb2ZHQ2owLUpKYVFlcWEzMG5QaEo1OGtOVFVFR0d3Wm0wOUIwd1Y2enlYNm5WVXVVUGFSeGtYZ2F6X3Nrb0FSWEdmbWpZbHZBY1A0dWJCZUpTS0JSQy1FeG9kTW1EU2dhTWFvbC1YQ2hVSDVucDFWQ25UTFgtMUVITnpxendkYnpicWNoWHJiZXUyQjNydDJPRQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-29T07:00:00.000Z"
+      },
+      {
+        "title": "Augusto Thorndike se burla de las críticas en su contra tras estallar en vivo contra camarógrafo: “Así que soy tendencia, jojolete” - Infobae",
+        "summary": "Augusto Thorndike se burla de las críticas en su contra tras estallar en vivo contra camarógrafo: “Así que soy tendencia, jojolete” &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZkl0eXcxNEwyUDZrN1hILXpPcXg5NGtQOEw0OEl1bUVRdGY2Y1ZSQjNIbzY0Unk5czQ0MHRoUk9qRHhKQkJsVjVKMGVWLWx3b0wxYTMwM1ZNQ1NGSDA4dWcxTndOOTRuRW9qcU5WbndpaGpiellyQXlDNndLWU4yUkt0Y1NzX1dyNFYtM2xKRTBoTHQ2WHZzWDFBaXRwZzVKdEtIWW9sTVBTLVRWUEpJWGx1c0hUYWtyOWkxdFNkLXA2Tngya0RsUTNWV3I2Nm40LWpRTmF3TTdUX2pHNUg5NDBuUmlxOFVsNFhtUklFSXlLUFJpblMyY1drZ2bSAZcCQVVfeXFMT1o5dDZIVkxkRW9fa05iczBSeUxGUG9OaFlGaVp4ZmNNbkFpUWotS0ZScVdJNkpieG55VllmcUlscFExVHhYVHdfSjlHZm50SGJuNUp1NmFoOHRkeDR6dDdfOTVISXlodGt1MUcyaXRzNUNhc3o2cU1RVjc3amExb2kwZWl1Z3piMW1UYVNORzNZMFVwRmZneThyYW9WNktDX29SR0hGZUYzMm9JeDNWX0dGYjZCVlBKTWNBdnptSGFtZTI4Y0cxeWU4UGI4RGc3WVl5UXFKaXdyeVk3OWpZX0ZGOXZheU40NGg1b09LUksxRW1INjdLb3VtUmNZbUh2RFdQRU5mV2lCNEtEbzZJSGQ1emc1Z21v?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-24T07:00:00.000Z"
+      },
+      {
         "title": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso - El Comercio Perú",
         "summary": "Cómo replicar el trend viral que convierte una foto actual en un retrato de los años 80 |Paso a paso &nbsp;&nbsp; El Comercio Perú",
         "source": "El Comercio Perú",
@@ -436,14 +460,6 @@
         "publishedAt": "2026-09-09T07:00:00.000Z"
       },
       {
-        "title": "¿Farmeamos aura? Se trata de la última tendencia viral en redes que se ha tomado plazas o parques de ciudades como Buenos Aires, Ciudad de México y Santiago de Chile. Cientos de jó",
-        "summary": "¿Farmeamos aura? Se trata de la última tendencia viral en redes que se ha tomado plazas o parques de ciudades como Buenos Aires, Ciudad de México y Santiago de Chile. Cientos de jóvenes en América Latina están convocando a través de sus redes en &nbsp;&nbsp; Facebook",
-        "source": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRkcwaXFpWmltZGtWWjVaUVBoTXFrWFVQdFhLNjlyUm8yOTBHa0VkbE5UYjVwanlMVE52UEZyanZqU04ybHNrNWw1UmhTMUI3eTMybnFQRmpqUzNvWTNQRjRDVVZXeGNVMExTQ3VZSUc3aDdhdS16ZUZmNkNMRmRadzJCdllRVkt6Tm1wMVF0djVQc1lJQzkyTFFib1EzQUJFZDBSbHNFeHZVdEMyaWRNRkpkRFRsbEJlcXFsNFp5V3RkTHRmSlZjZTdrTDloVlBtVnhqS0xmNWpPcHhGbkVJWQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-05T07:00:00.000Z"
-      },
-      {
         "title": "🔴🔵 Una heladera y una emolientera se unieron al viral dle momento en las redes sociales y protagonizaron una batalla de 'farmear aura' causando furor con comentarios y reacciones",
         "summary": "🔴🔵 Una heladera y una emolientera se unieron al viral dle momento en las redes sociales y protagonizaron una batalla de 'farmear aura' causando furor con comentarios y reacciones diversos. &nbsp;&nbsp; Facebook",
         "source": "Facebook",
@@ -452,39 +468,15 @@
         "publishedAt": "2026-08-29T07:00:00.000Z"
       },
       {
-        "title": "“Farmear aura” es solo posar: así funciona la nueva tendencia viral de redes sociales - Infobae",
-        "summary": "“Farmear aura” es solo posar: así funciona la nueva tendencia viral de redes sociales &nbsp;&nbsp; Infobae",
+        "title": "Qué quiere decir la expresión “farmear aura”: así es la tendencia viral en redes sociales - Infobae",
+        "summary": "Qué quiere decir la expresión “farmear aura”: así es la tendencia viral en redes sociales &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaWdsN1N5WXRXN0NBb1ZwSVVBQnN5dlVnTlQ2X3lKRm5lQ0x1bWowcVFKelVZWWpaMzA1eHFzXzFZZ2hWb0VyM1Y1aGVkbFRhZkltcTBJZFgyR2o2alRERFFLNkZpb0taeFZEaVEzMnQ0S29oWnNsam1sRzZsYzZrQXlUYmFCQWZQMDlpRkZsNUpiWVFGVjYwOUJkWC13QVc0a2Y4RzNjUkxxbXQwS2hYUE9JSXZHQml0OFZ6bDhmbUo3Z9IB3AFBVV95cUxOQXp2Z0VaZ2w0TEZCbk9kdDRZWkVwZTh5cHNaTy1sMUlDcTNvamo1MWR1THMzR1RlUDZVdXhYeHdQVGdyNUVrUGZlbFk5Y1dZaXdoX2FlUjJjcll4YncxSXNfRDJOLUpmX3ZVY1pITXhGRmxQZVlCcG1sT0FsemdxZjJDM0JWckV5SEp4aktWam9ubVU5N05Ma2tNVjNxWU1WdGs1Zk1jWXFXM0RqdkNQdWhHNjBudWppdHBxMThaMFFxa09sWkpvakhZWlMzWjYxbFpmZzhYeGV4aE8t?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZGdDYk8yYWZZa1pGdmhMYWxkU2RkNDBFamVzRWg5dnZjal9kMUtiVGpENS1hUS1QdGhoMjAwSUZkYkpKMjlXSzhzaDhDcUVTU1RPVjdreHRJc0pGUWhnbERmNVhkOW9aNi1WSk1xQkhSdWdOWkhnUTNkSmo3VWNlU1pEUVg3NFI4VmFpTjlKang2enlMMFMwbFBXVkZjc2toUF8tZVBhal9Xa01YaUg1X0xxOUhjSDlBNjkwd3FGVDJmT3l20gHfAUFVX3lxTFA3WktjdXNIbUg3a2w0X200YW1sV04tYVJ0UVl1Mk40RWlCd25GTUt2YUl0dld4MTFMLWVsak5uejdOX0gwQ01iNWFfSGFxSDczb3UtNlVKaHJVRTlBLW52UVQtQmV6SXlUMUd5OHhCbThfSXZmUG0wMVVzZGQ0T0NySnN5OXdZS0FLMFlVUjRvQV8xTGFRWTN6Y2dYRzFZY00tb3U4N0FQUVRCalljSkIzRTVUYXhHV2o3VGZlQmRJSEY5dkgwd05ENXphLW83ZU9rRXNnbVRZcm1hcHhOOTg?oc=5",
         "image": "",
-        "publishedAt": "2026-08-24T07:00:00.000Z"
-      },
-      {
-        "title": "'Farmear aura' se vuelve viral en Perú: ¿En qué consiste el nuevo reto que enfrenta a jóvenes en las calles? - Perú 21",
-        "summary": "'Farmear aura' se vuelve viral en Perú: ¿En qué consiste el nuevo reto que enfrenta a jóvenes en las calles? &nbsp;&nbsp; Perú 21",
-        "source": "Perú 21",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTGJrT0V2UWN3cjU5aGlZemZGV2NpaTljN1FJclY0aDFKWm5sQ2N4X1ZSd3NRazNXYldwOU9vdENTbVUzdGdiZXgyMlVCZ19kMU9BQjRERUVaSEU0djhsTS1rOUZIV3I5VzJ3NGtOVjBYdHVIb2FzN05Ed05PcTFuQW9OYnNCbGE3?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-20T07:00:00.000Z"
-      },
-      {
-        "title": "Qué es farmear aura: de qué trata la nueva tendencia de TikTok entre jóvenes y cómo se gana una batalla - Infobae",
-        "summary": "Qué es farmear aura: de qué trata la nueva tendencia de TikTok entre jóvenes y cómo se gana una batalla &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVmN3WHprRm1HX1MtdXhjWk5ZajM2dVZLSjJmY1VVUnN5QUxaUmxBeW81amF5RVY0dXV6clgtUERMZG40bmpBd2txODRnOElyeTEwMlZVZ0ZtcEVlelpKaHdCbl9ZUWhFUVVkbUxWd0k5X2FBd2tJNGM4bFBoakU0RDdOS1NxSmJFbDRGOHZ0UEJ2aXVfM3pmUUROMUloQl9uTFZDa3ZtaUJ5bHIwcW5hMTgwMlNoWk13UGhfZkNwbjZkMndyOHQzQjBsMnF6N2tOeTdlVE1zSXdkWTJDNXVlNTZhTdIB_gFBVV95cUxQNU45c1NZNkFDWjhUYzJxYUxYRGp2Uk9NaF9CbkVfSmRiZW90RGRWRW9BR2FFX1FkRVNySWJhdzVneTNFXzBDSEt5Y3RpeThBYlFfQldWaHZ0ZFRtSlZfaEtNUkpSLU5mOHh6Y2lxbTU2ekhmdC1zNmZMcVQwLVVkam5vV1lzRktaVFdmclp1NlR6RHNpMlYtNzltT29YWXFXR1VUS0w0Q0c4RGlGVEM0NVVlckVqOHR4c0U1UjlMcjRPVW43MjJhYV9hcWRTYmpVTEI4aGpsalFHbFY2LTNKX3ZRNFdLTVg0ZGtoaDdENE54S09xeTVVTElrZTF6UQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-15T07:00:00.000Z"
+        "publishedAt": "2026-08-23T07:00:00.000Z"
       }
     ],
     "farandula": [
-      {
-        "title": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS - Trome.com",
-        "summary": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNekRuOHA2bzF2M0J2S21oMWpfOXlGaTR4LUFycU9xQ2ZXeUt2YmxJcmFZUk9WV3dUUTFIVUE5Tml3amdpNFo1OGNVY3pGcHVkREc5LU1fd3h4MDhNdFRfSG9JZnpnUmtlTXJHanBqUTNlUnhwWVphUkhvN1NtQ1h1TXB5NHJNNGJ1dTJzRGtlaWh5VExHZGRmR0RKRE1XeEZxeF9qLW9RRzZ0MU9mMTRQNWEzUEU4Zmk3NVhvWTItakZVdFczWjlHRDJINUFabERhTzhSN21ZN1ZZMnNXZmlib1JRUnJMdnotN1dFQkQ1V1l2NHhYX1ppdTlLbWVzUkZHRHNCU0ZTSGphSm1D0gGgAkFVX3lxTE9ueEZ2d3Jnbll2cVVyaGVuTGNfQkxpd2VLY1hqd0dXeThZM01wczNfcFBoWXYxSjVnYXNqQS1aZVFYTG9oYnVBTzdSZFhqeld6czVrV01QZlU2blUzYURQQm5zR1RBQUIza1V3NkVkSlBlZzF2cjRPZkxzMGR0M0ZWaHluSGRVdEsxUzdmaEVXX0NZZHUzMFZUYWZva2g4Vll6SmwyeDNlN2lUVlFYTXVqdmdEbzFFUDhzY1F1LVN4QkM2MEE4dHJBYzFvT21pNHBjZGpJT2d1QjhROUw2TVZBdzFFRVJxdHBuNE9BelM0eW03c1k1bnZWVzY3Z2VZUjhvdlB5dHQtZEJzdlZVUmE5MUxReG9xWWY4TThoWHY5MQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-07T07:00:00.000Z"
-      },
       {
         "title": "¡BTS ya está en Perú! Grupo de K-pop arribó para dar sus tres esperados conciertos en el Estadio San Marcos - Trome.com",
         "summary": "¡BTS ya está en Perú! Grupo de K-pop arribó para dar sus tres esperados conciertos en el Estadio San Marcos &nbsp;&nbsp; Trome.com",
@@ -534,12 +526,20 @@
         "publishedAt": "2026-09-09T07:00:00.000Z"
       },
       {
-        "title": "Jaime ‘Choca’ Mandros celebra que Feria Fusión sea Marca Perú: “Que el público pueda disfrutar de nuestra rica comida” - Trome.com",
-        "summary": "Jaime ‘Choca’ Mandros celebra que Feria Fusión sea Marca Perú: “Que el público pueda disfrutar de nuestra rica comida” &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSTVYYlBqX2t4N1ZWUmtaMHg2N0F6c1lscms1Q0pjWWZsc1hHVUZlbGU0VnNWVVJjN3kxU1EzakFUd0poUWpQSmVYOXgwUWxiT3M3VjFCQXJtaFBaVV9tOXcyVUZLRUJPNmpZRjBOUDdGUDNTWnVLTkhyUDhtVkd4TVlpRGJRTUN3VURKYVVPNnpkWkZ0Mkk4dmwtMkRSRXdVRVlFbllfOGJwZjZjVjJhcG9YNTZhakY5Y01DMWFuRDJTdzNiVGJiV0tyeVpRY3B1cXBNWUZvUkt5QzUyYjNNTFNHSjBGUdIB-gFBVV95cUxOVmpYdExMQzREcHh1bS1kMFY2azJHekdad0U0ZWMyX2QwN2Y3Y0ZKSWhzbFZKYjNlWW1HNXJmZzRVZWdXTjVIZmVqeGRfS0U5azFzT3VsdXZ3QXhUUkhjZFJBWmI0Y0kxWlUzdllGV2VtckR0VFpYRmZ4SGcwbkdGZEtXTnJuelhXbFExS0VBZF9jbXlpc0JCZDFrWGdsTFh5SXJUcllVZXV4V1Q0WFRpVVhjRlJ6YkxHNk1vaG9oMGNTdkJoU2VNS25kRVl6VTRfRVZzYW9XdG1VYVpxLTdJWDZVZVdMcWZUbmw2aHZiNlNiUEl3Y0lCLU5R?oc=5",
+        "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
+        "summary": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZTlkRllsLWtCdE54Y0p4b1dSZVZvOXQ0dDB4TnhmRWNZNGJlS1U4N0xmT0ZNN3Q3ZWpOYjFpOVVWRDk2ZC1ZTFNGMFlfOENwUnhTQktGdHRvNVNzY2I1T3puZXJiLUlic2huMUI4WENtemEtbTlPa00ycDgyVjZIUzBOTHh1VzRfV2NTUDQyZGNRcENTTGpVT0VzNHRWdG5iN2xnZFMwYWJBbHVuVU8wMVdYMzhaTmRsU1hnTVU5aUhxNWppRHg4eVVtZFpJODlIYmJaUm5WZ2Y3cEFBUTg2QV9ROFBBZGVFY19ncmkwc0lDUzBZT1FFVVhyNXg0YV8xM182a0Vlb9IBogJBVV95cUxPdElaTXBGNnNMeXRNU3BOYk1sWlhjSXJ0OVVrNGVMd1lweXJ1WTBQNWdiQk5adDhDSmJxNERrcEVhYjNKSDBfZUEyLU5fZVVrRFo3UmI0OVBTaGlDTVk5MUo2NmtYdi1sWWxtNHFhaGFwMjlLdmJjQVhzSHhlUHZfS29ZSWFxdld1N3NuU2s5bjJSZ3dyZnVLbEQ0dUhkQUk4eDhLY2lRekhiQndkSXJVNkVMWEh1SWRSTHJfVnJPVlRZd20tYVd1NVpjUGJzZkVmSUE4bFdRN0pYbGFHY3pTRWZnbFZkUjFfMkJOT3ZUYlpjaV9iRmlheTgzX24zZ2dyN1dFVFVhRGZ2aGs0RjljdU52czZseXJ5OUwyRW5JZ0s5Zw?oc=5",
         "image": "",
-        "publishedAt": "2026-09-04T07:00:00.000Z"
+        "publishedAt": "2026-09-03T07:00:00.000Z"
+      },
+      {
+        "title": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” - Trome.com",
+        "summary": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0ZKVXhOaUNRMF9DMldlUXBKT1hQdXFHRlc0cnpUUWRLdmJFZFFOV3h3eTA5QnlraDZNSGN6bWFjNHJiOVVuSDcxSHlKTWdYY2hSY0VvWDhWb0lJVDhZeWJQb3Q3eWhTdG1qTEJJWVJTdmdCUUU4Q2hpODRQYjQ1NUw5OEJ2aUxNeFRxVHpVZVdMZThWanlrTUE5X2RpSVNMenBEaUdXSzkyczJ0UXVVdGdoc0hXejDSAcsBQVVfeXFMT1NEd25TWlFTdmhlR040dk1hWTkzNzR1eWJGUE12ZU9QQUw4UGU5Y0R1MjVWNE1uRGh3TUJIWTBiaFVOYi1pVlNwZEV2NVRkUzROTDlqLUtIM2liMzcyM1lWdWZBX1RTZUhSLW1xTGprT1pNTHZtRWRLR0s2LXA5dXBwUzBYS0JCTWNNam5IeG1ZTDFKYUhua2xMaWNCajBra0dOWlpTR2h6Yk1rYVp2djU3aGlhN0JodVB4MlhnY0lPdGRmX090c0RZTmM?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-26T07:00:00.000Z"
       }
     ],
     "cultura": [
