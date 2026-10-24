@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T20:44:13.045Z",
+  "generatedAt": "2026-10-24T23:09:42.539Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,12 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Keiko Fujimori participa en reinicio de operaciones de Tren Macho en Junín",
-        "summary": "La presidenta de la República, Keiko Fujimori, encabezó este sábado el reinicio de operaciones del Tren Macho en Chilca, Junín. La reactivación ocurrió durante la ceremonia por el centenario del ferrocarril Huancayo-Huancavelica.",
+        "title": "Pedro Castillo: PJ rechaza nuevo recurso que buscaba su excarcelación ¿cuáles son los argumentos?",
+        "summary": "El Juzgado de Investigación Preparatoria de la Corte Superior de Justicia de Lima Este rechazó un nuevo recurso de Pedro Castillo, mediante el que buscaba ser excarcelado pese a su condena por conspiración para la rebelión.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/lima/sucesos/keiko-fujimori-participa-en-reinicio-de-operaciones-de-tren-macho-en-junin-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/LKRVS2AVEJAVVLC4OHCETYQRKU.jpg?auth=647482001f148776d824ba172aa28bc51ac4c5d48aae6478135e57290fedc938&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-10-24T20:24:22.000Z"
+        "url": "https://elcomercio.pe/politica/pedro-castillo-poder-judicial-rechaza-nuevo-recurso-de-expresidente-que-buscaba-su-excarcelacion-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/QPMSDTLPQBBMJK5CJWEKKMNYSM.png?auth=91d972922adae5c69cd379e7d9bcbbe35aa28eb36a325bc92133da5d9d57157d&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-24T23:03:00.000Z"
       },
       {
         "title": "TC: Estos son los criterios de evaluación que estableció la Comisión del Senado para la elección de magistrados",
@@ -37,23 +37,7 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/tc-estos-son-los-criterios-de-evaluacion-que-establecio-la-comision-de-constitucion-del-senado-para-la-eleccion-de-magistrados-del-tribunal-constitucional-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/KIXZ6IQY5RH6LP7Y2KEPZP7QHU.jpg?auth=186fbda294c6a4ddb470bf1f5804d43d2ba27834557cf688398dcc30d86c2696&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-24T20:03:22.000Z"
-      },
-      {
-        "title": "Pedro Castillo: PJ rechaza nuevo recurso que buscaba su excarcelación ¿cuáles son los argumentos?",
-        "summary": "El Juzgado de Investigación Preparatoria de la Corte Superior de Justicia de Lima Este rechazó un nuevo recurso de Pedro Castillo, mediante el que buscaba ser excarcelado pese a su condena por conspiración para la rebelión.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/pedro-castillo-poder-judicial-rechaza-nuevo-recurso-de-expresidente-que-buscaba-su-excarcelacion-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/QPMSDTLPQBBMJK5CJWEKKMNYSM.png?auth=91d972922adae5c69cd379e7d9bcbbe35aa28eb36a325bc92133da5d9d57157d&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-24T20:02:48.000Z"
-      },
-      {
-        "title": "Senador Gavidia del Buen Gobierno defiende su voto: “La abstención es peor que cometer un error. Es un cálculo político”",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/senador-gavidia-del-buen-gobierno-defiende-su-voto-la-abstencion-es-peor-que-cometer-un-error-es-un-calculo-politico-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/NZ5O7GVMCNCPLCUYY5Q6CIOTZA.jpg?auth=f93125736807b574bc00650db06a65547d64444869af207d686cf73d970c9c2b&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-24T20:02:11.000Z"
+        "publishedAt": "2026-10-24T22:30:00.000Z"
       },
       {
         "title": "Carlos y la silla vacía, una crónica de Fernando Vivas sobre el presidente de la Comisión de Constitución del Senado",
@@ -61,7 +45,7 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/actualidad/carlos-y-la-silla-vacia-una-cronica-de-fernando-vivas-sobre-el-senador-mesia-presidente-de-la-comision-de-constitucion-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/YNQ6WTUTXJF35ILMGMDDU5BFMA.jpg?auth=c1c3b181e4794c704868c9a66d7aab36bd3bcb43a0d3df7a865681037d17b61c&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-10-24T20:01:41.000Z"
+        "publishedAt": "2026-10-24T22:01:00.000Z"
       },
       {
         "title": "Keiko Fujimori recibe facultades: ¿Cuáles serán los primeros decretos legislativos que se dictarán?",
@@ -69,7 +53,23 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/keiko-fujimori-recibe-facultades-cuales-seran-los-primeros-decretos-legislativos-que-se-daran-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/5PCGEPDKGZAVPFEV2HY4CAJ4HQ.png?auth=75eb551f552a69d29778b2dcf7eb70bc564bdb4cbd403da736d834cc56c528ca&smart=true&width=1160&height=660",
-        "publishedAt": "2026-10-24T20:00:59.000Z"
+        "publishedAt": "2026-10-24T21:30:00.000Z"
+      },
+      {
+        "title": "Senador Gavidia del Buen Gobierno defiende su voto: “La abstención es peor que cometer un error. Es un cálculo político”",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/senador-gavidia-del-buen-gobierno-defiende-su-voto-la-abstencion-es-peor-que-cometer-un-error-es-un-calculo-politico-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/NZ5O7GVMCNCPLCUYY5Q6CIOTZA.jpg?auth=f93125736807b574bc00650db06a65547d64444869af207d686cf73d970c9c2b&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-24T21:20:00.000Z"
+      },
+      {
+        "title": "Keiko Fujimori participa en reinicio de operaciones de Tren Macho en Junín",
+        "summary": "La presidenta de la República, Keiko Fujimori, encabezó este sábado el reinicio de operaciones del Tren Macho en Chilca, Junín. La reactivación ocurrió durante la ceremonia por el centenario del ferrocarril Huancayo-Huancavelica.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/lima/sucesos/keiko-fujimori-participa-en-reinicio-de-operaciones-de-tren-macho-en-junin-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/LKRVS2AVEJAVVLC4OHCETYQRKU.jpg?auth=647482001f148776d824ba172aa28bc51ac4c5d48aae6478135e57290fedc938&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-10-24T20:24:22.000Z"
       },
       {
         "title": "Miguel Torres dice que hubo un “error material” en ley de facultades que se corregirá con una fe de erratas",
@@ -81,6 +81,14 @@
       }
     ],
     "economia": [
+      {
+        "title": "AFP en la mira de la IA: ¿cuáles aparecen al consultar de rentabilidad, retiros y traspasos?",
+        "summary": "Un estudio de NEO Consulting analizó la visibilidad de Prima AFP, AFP Integra, AFP Habitat y Profuturo AFP en ChatGPT y Gemini. Los resultados muestran que el liderazgo cambia según la consulta: Prima destaca en información previsional, Habitat en comparaciones e Integra en traspasos.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/afp-bajo-la-lupa-de-la-ia-quien-lidera-en-rentabilidad-retiros-y-traspasos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/WTIKFD4TBRDOBK45PIFVNE7XBQ.jpg?auth=d64ba5f6923f0efb2c79ddb2cca711bcbc8467b632feaaafac4871f7490c64d2&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-24T22:15:00.000Z"
+      },
       {
         "title": "Petrolera egipcia operará el Lote 192, el de mayores reservas del Perú",
         "summary": "El Ejecutivo aprobó la incorporación de un nuevo socio estratégico de Petroperú para la explotación del Lote 192, ubicado en la región Loreto. La medida autoriza la participación de Petroloreto S.A.C., subsidiaria de Cheiron Holdings Egypt Limited, en el contrato de licencia para la explotación de hidrocarburos del yac",
@@ -136,14 +144,6 @@
         "url": "https://gestion.pe/economia/rebajarian-el-igv-a-8-de-forma-permanente-a-tres-actividades-economicas-cuales-noticia/",
         "image": "https://gestion.pe/resizer/v2/E4BGVWAKOJGP3GTBS476R57Q54.jpeg?auth=4795319c61956a351416600a11d64236cd1b530d497b85c65e9bc6b8670d7cc7&smart=true&width=906&height=594",
         "publishedAt": "2026-10-24T15:58:59.000Z"
-      },
-      {
-        "title": "Mercados e indicadores – viernes 23 de octubre",
-        "summary": "Para tomar las decisiones más acertadas de inversión, manténgase diariamente bien informado sobre el desempeño de las acciones de la plaza bursátil, de la variación de las principales variables del mercado financiero, así como de la evolución de los precios de los commodities. La cotización en el mercado de Londres el ",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/mercados/mercados-e-indicadores-viernes-23-de-octubre-2026-noticia/",
-        "image": "https://gestion.pe/resizer/v2/CKBJCXWQXVCTXHZN5ZAGTM66RE.jpg?auth=c935a9816683dbd514d89311dedaf60293df727aefbd90da56a9830e4813f2eb&smart=true&width=1280&height=720",
-        "publishedAt": "2026-10-24T15:02:00.000Z"
       }
     ],
     "sociedad": [
@@ -162,14 +162,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ0x4ZTF4RHdDRjFtek5hU0pnTkl4Z0huWmRYUF9tUEk0RlltWUQyODhoWkdCZzgwNVVXdFBNX1J1dmM3TENQaUNYWHR5VzJ4MEQ3LWdpaFFzemVObXJiTjh0cDk0dmpySmxZcTdBWnB4ZjFaVGp5OWNSRU55UVlqZGt0RzF4cjRlNkRkZk9GVUEySWsxZXJrbnhpbjQ0dW1FOHVfSmJXMHlfRWptZ3VmSHdEdkN6SjZ2Y1V3WUNZZlhpTjTSAd4BQVVfeXFMT08wS1ozb0h5T2VwVjdaUmJyczhxc3VBa19TakFpZGZGUUR0ODZEMWd5aXBsUzhxeGFfeWk2NUZheTlYTDk2QWJLNlE3a0V3SmtzcU0zbWV1Tk9UcXNpRmYzNkhqaGpyX1hrTW5ray1tZHNGNE15dURPTzBLaTlCQ2pvb1JldTNjNmoxcDRzZmh4dUIwNjlwQ2NReWdwcnJFY2ZxWE9MRHlpTFVrU3I3ekJGQW45dHBpTkt4YlZPZXJZdGdmbmVhNDh3ZGw3Zlk5Q3Z4RTRoVjhLdkwwMEpR?oc=5",
         "image": "",
         "publishedAt": "2026-10-13T07:00:00.000Z"
-      },
-      {
-        "title": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? - Infobae",
-        "summary": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2x4NndiTVA4bUlRNXVjbHlRQVhsZmF6ZVlNTDQ3eFlzLUd1YTFGTDllMFlSOG1kdlllNFFDM3ltcThJbXJVbXJlVWV1amhzV05CTzZTcmxkczg3TlY1bW5JLUVWWVR0UktOWVp0dTcwR3hHSkxBWVFnbC1iTmJ2MlQzcjRJZjBfQkZ5RS12Qm9hVWdQNU4ydExiU2huSDIxVmlYb3BlUjVOZkg3YXhHTVBBQzV2WU1SRmlGbzZnN3l1Y0tPTDdCU0w0S2FxNDVFeGUtcnA4OXk2RlJ3NlVrXw?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-04T07:00:00.000Z"
       },
       {
         "title": "Gobierno pide crédito suplementario por S/8.228 millones: aviones caza, pensiones, seguridad, salud y FEN - La República",
@@ -204,6 +196,14 @@
         "publishedAt": "2026-09-24T07:00:00.000Z"
       },
       {
+        "title": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? - Infobae",
+        "summary": "Resultados a boca de urna en Carabayllo: ¿quién sería el nuevo alcalde del distrito? &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2x4NndiTVA4bUlRNXVjbHlRQVhsZmF6ZVlNTDQ3eFlzLUd1YTFGTDllMFlSOG1kdlllNFFDM3ltcThJbXJVbXJlVWV1amhzV05CTzZTcmxkczg3TlY1bW5JLUVWWVR0UktOWVp0dTcwR3hHSkxBWVFnbC1iTmJ2MlQzcjRJZjBfQkZ5RS12Qm9hVWdQNU4ydExiU2huSDIxVmlYb3BlUjVOZkg3YXhHTVBBQzV2WU1SRmlGbzZnN3l1Y0tPTDdCU0w0S2FxNDVFeGUtcnA4OXk2RlJ3NlVrX9IB-wFBVV95cUxQb3hrbHpSeVhpankxdWdERnpPNlpPOV9MS2ZPZjFKd0w0el9xS25jSld0akJJdkhiZ3BoNFVTME5fOHplb3ZnczdGNXVhSkkwSGhSSk9MZEM0N3lseVc3dVZvUjZRX3dnMUVKTGY4UlhaSk9sZERUMnkwSXo1MkpNdVd0T3ZoeVMxMTN2QVo1S2w1X3Vpa25GU1lEMmRTTHB0T2Y3dm9GUTZVMk9jNmR0UFdiNUVuYldpNEp6dFZoTFpIZVh3Yi1pQy0tWldDYldXbjlFWXlPM2JQVHVxTFZNOTczNzRaT1lHSDFoWUdySWtuR2lsM1FSRzVhOA?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-21T07:00:00.000Z"
+      },
+      {
         "title": "Voz Universitaria abre un diálogo inédito entre jóvenes y el Congreso de la República en la PUCP - PuntoEdu PUCP",
         "summary": "Voz Universitaria abre un diálogo inédito entre jóvenes y el Congreso de la República en la PUCP &nbsp;&nbsp; PuntoEdu PUCP",
         "source": "PuntoEdu PUCP",
@@ -214,20 +214,20 @@
     ],
     "negocios": [
       {
-        "title": "Perú Business Fest 2026: Cofide impulsa el ecosistema emprendedor y la inclusión financiera en Lima - Latina Noticias",
-        "summary": "Perú Business Fest 2026: Cofide impulsa el ecosistema emprendedor y la inclusión financiera en Lima &nbsp;&nbsp; Latina Noticias",
-        "source": "Latina Noticias",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVFJjYzhEVGVBdGJDdUdsaGMwa2FmT3RNeDdyanh2UVI5VG5Scko0ay0weGFwY1FnZGpPOGxOYTk5UXRFWHd2ZnRjWmJYOHRBTUdSWjd4TFdZenI4Nkd0ZEYtSW9yM3F3Vi1rRDV5MXZydW1nb2FnTVBac0lqWWRQbkFCX0RXUkczcFNoamtfWXFRVndkWDUwUDFQOHRVUWdDNVJTNGlwb1RSNDR0VUd6d29ScHh3R25MNEZraHl4alUzb0dXVFpxaXNGMThCV2dlQVh2WWpyY0FVbU9wb2c?oc=5",
+        "title": "Bsale organiza taller con expertos internacionales para impulsar a las pymes peruanas - Business Empresarial",
+        "summary": "Bsale organiza taller con expertos internacionales para impulsar a las pymes peruanas &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3NzdVpPX2xheWNMVEx1TDRiVE1adVA1V1ByNVhfd3lrQWNCS0VWbmZGTm4zYWZoQnplRWpEbUw4SkRmNnUyVXA3R21DUTJxUHNta25EcUQ0VXdrY0k3S1BGZG9mQk9qZjdaM3JOYjlqZGxUNUFuaFpaMHRLeXc4NWVjUzR3MVRkX2prYUhiemFsREpzVmFjLUtJV1VVT2FYQWFXRFNLUnNIdnpyMFptR3RxcTFCRktrY0VWQ0FEejAtbGc?oc=5",
         "image": "",
-        "publishedAt": "2026-10-13T21:45:15.000Z"
+        "publishedAt": "2026-10-22T10:49:44.000Z"
       },
       {
-        "title": "Perú Business Fest 2026: cómo acceder a financiamiento, asesoría y tecnología para hacer crecer tu negocio - Trome.com",
-        "summary": "Perú Business Fest 2026: cómo acceder a financiamiento, asesoría y tecnología para hacer crecer tu negocio &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORk04NFNkNFAzWTFTRTBmaXBPZ3VTY3pSelpWRjF0Rnh4Y3dJbDl2RVB2U05CSmdBcnJDdUE5U2tqVVpNQmxTMjJUbmNHdm1nem1EYUdMWlRvNEhGU2d0Q3lvUExOZ29CSVMyM01KSEwxak5GazBzekl2cTF5dXI5YmZ0RFFDWW1iOGgzaGUxaFVrQmM3RE9vWVQyOVRibDNvRHphYkpjVjNWWXpzS05VRnV2czExNXdoRTVaMlViWjJvMnJoRkNQTGRTbzQySjBLWXM0WVQ3al9xSkJrdU96OE9yVlQ0NVdfamZHUzc5cXluR0hfLWfSAYoCQVVfeXFMTlB6cm0wQnFpcnl6NTRqdS1hME1DV2lOSUsxSzYzWUV0LUxNU0NPZFJYTG1VdkVmTGxOd1FKaHlGTjctSnlKdWF1c1liZjdYdHJKeU0xZUhxYWY1Z3FoZTZQV2pxQ1Mwak0teXg4S3E4QW9LVkROdzg2cllCeWhoS1EyQzhjTDdvdEJTc2ZLVXpHUFZDQjc3ekYxUVQtcDYtd0wzRkpORnBoY0FoLVhhSVQ1SEdxWmtMbU5wdDR2aGd6T3pNaC1wUm5uX2hOa1dkeU1wejR0dWNwRm56eVcxS1g2bDdkeVFHZmRHRTFaR2dpMXMxc2M5SmU2aWFxbFRWMnZMeDdJTkxjdHc?oc=5",
+        "title": "Giovanna Chen, directora técnica del equipo campeón mundial de panettone, visitará por primera vez el Perú - Business Empresarial",
+        "summary": "Giovanna Chen, directora técnica del equipo campeón mundial de panettone, visitará por primera vez el Perú &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaDhxSE5CaDlKMThvOVBRcnRYSkljWUVWQWZoZFZqZm5Zc0ktV1pKVVBIb2VmbWx3UUExUmVoMEVmR2lNOG9weDJJVFI0NXN5aUZ1cnNSSks4b1JvNGlObk02RVBMY0xrUEZkNkYtenJzcllyTVd4ZUNBbWpzOTJaN1haS0tzanlhLUtzNUxIaEdRbWlsQUdQYXhpTVlzLWR3LThvMExGLUxiZ21rNXBRN2IwRkVVMnNTcXdpSHNfQ1BtZngzQmZIV0VLRTZrM1J0SW05dW1oQV9pZXgz?oc=5",
         "image": "",
-        "publishedAt": "2026-10-13T07:00:00.000Z"
+        "publishedAt": "2026-10-18T05:05:40.000Z"
       },
       {
         "title": "Perú emprende, pero le cuesta escalar: por qué pocas empresas logran dar el salto y crecer fuera del país - Infobae",
@@ -238,14 +238,6 @@
         "publishedAt": "2026-10-09T07:00:00.000Z"
       },
       {
-        "title": "El 44,9% de peruanos no emprende por miedo al fracaso: solo dos de cada 10 planean abrir un negocio en los próximos tres años - Infobae",
-        "summary": "El 44,9% de peruanos no emprende por miedo al fracaso: solo dos de cada 10 planean abrir un negocio en los próximos tres años &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNakhVY04xTW1nZFRxMHA4d3F1ZHBObE5qczdBVERnX1FoQ1otSldfaEQwS0hvQ3BRRkszWHZ1TmtheFJHdzVSNzRieFJRTUpwUzhvUjJXYzJUc2EweUt3RlBTOTc5eEhmMGpjTHVqMWRjOFhvODlsX0hWdWt4V0Uza0oySDEwS3lidm9TMFhBcWR2QVRRWVZETUJGb0s1V1FPdExnYmJSOVFiZmN5OVpVdWEyYzY1R0FXa2thSFZYbUxvOF9sSklzdDhQYW9FMEJHNTNXMXIxWlpPb1o2N1JldE5WNTRvdXpxOWY0MExfTWJ0cU1hUGfSAZACQVVfeXFMTXV2X3NuaHg2bm5KcEtseVRyUEpPUnVfTlQ1V0l0M29uY2N3cUdhQ2gyeGIzSGlGNEgtckw0RlZvYVZGaVFpY2szWlFwVTJZaUJjUE13a3p1ZU13WHJEU183aTVYdW1RYWFkXzVmR0dieGNpTGctM09ITW85WkxvQlMtRF9WbXE4YktObWI5RVpwQTU2UkpxSHBtUkg5T2kyOHgxUEh4dXk0OGR3cUhKdGVNYnkteDBQT29DSGhteXNVenB2UHRYWWhTZkgtQ0ZqUEl2SU53blJIeENETE1pOEVUOU1RMzRXd3JUYk1tQ3VuZThRQldtUllVVEFlb0V2VzJTTnFhRmMxZTVsT1Boa24?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-30T07:00:00.000Z"
-      },
-      {
         "title": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión - Infobae",
         "summary": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -254,28 +246,36 @@
         "publishedAt": "2026-07-21T07:00:00.000Z"
       },
       {
-        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - Business Empresarial",
-        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOclpab3k5dms5U3JOSXdvUU1pSnFnUnYzWDY3QUtyeU9ob2NhZnI5U092N3QxY19kVUtUX1JPR0tzUElTTXVlMGdUbV9tclI0Y0JQcU11QWhJQkkxalNIR3R3VmdGSHdMY0NJUVE1V09Tel9OX3R5eUVKV3owZnJ2VjJ0VVRlNFowbWZyVUl4SDAwc2lYUzZKcTZtTDhEUlV0LTJMY2hnSGJkQ0c5U1AwRkVGVm5qQXk3XzI0ZEZ3ZTE4RjBtbTcwTG15MVdKX1F3Y3VGby1IdVNrd0pB?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-04T07:00:00.000Z"
-      },
-      {
-        "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - Business Empresarial",
-        "summary": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVFwSXZrS2lPelhLNUlzRXRMZmM1WDhBVkptN0QyQ2dqSTQteTJaQVpnb2pUQldrSEJ2QjNpQWJZMC1lNmxtSjRQWUQ1N2JxcEhIcGY3M0xUdWdfV0YwYXBONWItcTlMVzlsekVJMW85VVRRN3Bmc2NjR0hlTlVVYmowYkprdDVwSTZ4T25tWnc0RDkzVUhRVUV4U1ZtQW9idWtuX0RqelF1TkpCbWxyQVQtUXJrMlRsLTg5SlFEQ0k5RS02Wkgw?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-26T07:00:00.000Z"
-      },
-      {
-        "title": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 - Infobae",
-        "summary": "Más de 89 mil empresas iniciaron o retomaron operaciones en Perú entre enero y marzo 2026 &nbsp;&nbsp; Infobae",
+        "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
+        "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFBQRGNLOWxaMy1mT2RjU0RCNGw4TVNrRmlfX25qei10R09YTWltOXdNX1Fya1g0NEk5S2hhUnQzZmstM3o4bFNJS3QwbkFvUGs3dmx6TktrMDZZSEkzTkJVZ0ZEdmFaa0NUZk9pT1prS1gzNjVDeVMyUzdjWXlNQTNtSThQcnRyRjJ6YlZEWkw1WUF0aTZsQXRTWnJtRnYyX1Z0NDBCYm1PWGlOekJpeGlBS29qLUkzbTBFa1FKMmJnNDNrNDAxeWZn0gHkAUFVX3lxTFB5cjR0aTlsOEl3ZkZEeV9XR05Vb0RHblRDVTRpMFdTZTllMWdRaEpoSlZpSm5JOUZCbzBXc2pic0NMdG9OOGcwQk5fNWF2Wk9FYVp5RnU1WVg4ckU4eTJfT3FEOTN6cURTMjU2d1U5NUJmZ0ZseC1YdllmbEpuZTlnbThqeF9vSlVTb0cxSkZtZFBpTmcwakkzemxzcGJucU9JbFFic2hqNU9jSGVHWkdUTVNuNFFIb0x3S2pTNFBzRXptSF91N0EtSElUMi1kVldUYl9ocmVQLVNSZDY0V25QNV9iRA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
         "image": "",
-        "publishedAt": "2026-06-18T07:00:00.000Z"
+        "publishedAt": "2026-06-17T07:00:00.000Z"
+      },
+      {
+        "title": "Ayudas económicas para pequeñas empresas en el Perú: programas y requisitos - BBVA",
+        "summary": "Ayudas económicas para pequeñas empresas en el Perú: programas y requisitos &nbsp;&nbsp; BBVA",
+        "source": "BBVA",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa3l6cnJyM1o0eTRtWVJGNWlyTFlYOU85ZGZEaXlrSUxJWm43a2RJV3V5MFp6T255S1B3S0lfUEpJQzlhc1JJQUlYSEdZVndZTktoMGphbkhrdHVkLXlNSnlReHB6aWp4SUxJM1J6WmpOZTZRTWZicTBfWC1HT1RSbzkwYUQ4S0Q2blNoUjBxLTljR0VRblRJTVpGWmwxQng2dkpjZDhGNTJRZlljMl9aSA?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-11T07:00:00.000Z"
+      },
+      {
+        "title": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión - Infobae",
+        "summary": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-10T07:00:00.000Z"
+      },
+      {
+        "title": "¿Tienes un emprendimiento o una MYPE? Accede gratis a asesoría y servicios con Produce Más - El Peruano",
+        "summary": "¿Tienes un emprendimiento o una MYPE? Accede gratis a asesoría y servicios con Produce Más &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVnduV1lWS0NqTEg5X0NZRnNwcHRGT3VJY0pjdjdHVDVjYlRVM092RXZYUjktV3R0aW9tQ3Zwd25acmRkZUNiMlhKUHREazFCYkcwU3RCd01nZ0FvUGtlbGplbkQ0aGEzNjhHQ0RMdUFNRWE2VU5UZ1VQMVVuTFdKNUlXYjhGZ190WGlWSWFxVk10ZVRuYnNCVlE0QklLWUNwTmhjUXVsbUNvY1hmNVRYU2ZnaEk2MXp5S3EzcnV4WjJvZw?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-03T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -304,14 +304,6 @@
         "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
-        "title": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional - Diario UNO",
-        "summary": "De los Andes al mundo: Dheivis Jara, el becario que convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; Diario UNO",
-        "source": "Diario UNO",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMjYxUUxNV1dqcXRBRzRyY1BNcm5UZE5abG00MVNLSWNWd2xkMVVhUkhTQVMyQ3U1dEFKeWdyTG5NX1hRRlJiTXJjRWppU2hmMnFKdXJkZHVKNW5GZWR4V1ZfZ2pBZW56T0d4Yk4zR3FJSHZEU1hYblNoZm1VQXFUYUN4RFpoRTloVF84OEt0VEtNcjBwM3JjemdQTnQtQ1dpa2tDZ0haTjg3OHNrNmtsMXdaaVBwaFpfUWhRbS04UWRFRFo5UDF2UjZGNGd4WFEwYkJLWW5GUzE?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-19T07:00:00.000Z"
-      },
-      {
         "title": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras - El Comercio Perú",
         "summary": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras &nbsp;&nbsp; El Comercio Perú",
         "source": "El Comercio Perú",
@@ -336,6 +328,14 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
+        "title": "Solo el 49% lleva con frecuencia sus ideas de mejora a la práctica, según el Índice de Innovación Ciudadana de la UPC - El Comercio Perú",
+        "summary": "Solo el 49% lleva con frecuencia sus ideas de mejora a la práctica, según el Índice de Innovación Ciudadana de la UPC &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONTZSZXM3ZnR3S3ZDYTkxM2tiZ29wNllSdWZ0MnBkQ0dhZzdHZERneWZSbmlIS0tGemgxcHB1WmdwN0c1Wi1SMTVMejNLODA1WmdXYVljMm9iSHdua1lSZ0FaeTNqbjZzczdPbHlvODcwZmJQLTVOYzN5SG9sdmlSdUQ0ME1BX3BvaHYxRDJKQlNqSGlRN1oxOWhrR19TLWFUa0doUjBQQ1o3YkhybUhuZUx3dUZBSEw4R0x3M1ItZEJyLXVV0gHYAUFVX3lxTE5fZkpMUlRpSTRQYTQwR2QtVzlHM0JRbmRLZ3d1a01MZVliT0U1UVZWRmYyMkZ6b3dlbDBjNEt2cUx0LXlWaGpXbHVtTFVNZ0FNUzFRdXpEZG5iVVVjUHVqOXBxc3ZCTVJldW51T0Q0V3RTbDJBRl90Q0x4S0lSWjBQckI3dTBCY1UyemJNa2dMV1dmc2hJYWY0UHRtcklPQVFoV3EtMFhNWWVjQjByRGNsR1pMUmM1cURnMHhPcHg2eEt2Y3NMaGVVb1REOTE5UWgxYjBROHZqYQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-12T07:00:00.000Z"
+      },
+      {
         "title": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" - Revista Minería & Energía",
         "summary": "Pamela Antonioli: \"La innovación no es solo tecnología; también transforma la manera de construir confianza\" &nbsp;&nbsp; Revista Minería & Energía",
         "source": "Revista Minería & Energía",
@@ -346,20 +346,20 @@
     ],
     "ia": [
       {
+        "title": "IA en retail: ¿cómo ayuda la tecnología a elegir lo que compran los peruanos? - Mercado Negro",
+        "summary": "IA en retail: ¿cómo ayuda la tecnología a elegir lo que compran los peruanos? &nbsp;&nbsp; Mercado Negro",
+        "source": "Mercado Negro",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQMmFveEhZakpSQ2hpcC01ZlM3VmQ5MGZSaGYyVUxBaWZ1YkswRk5lSl9Ucm5TVWlqQjVJQzVnM3FHeG1TQmMzckl6R0pON21PdEpBYm9mWjZpOUxGMXRmeDJpandOT3ZmcUZqQ1c2TTU?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-24T00:28:17.000Z"
+      },
+      {
         "title": "Una novela ganó un premio de 20.000 euros que vetaba la IA, pero un detector señala que el 99% del texto fue escrito con tecnología generativa - Infobae",
         "summary": "Una novela ganó un premio de 20.000 euros que vetaba la IA, pero un detector señala que el 99% del texto fue escrito con tecnología generativa &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPcjNKQzlSVUJoYmV6WHk2RXJMTVI1emZoNll2Q3I2RnJmSGtINDhiLUJvelNZbFhqSTRQdWM3Yy1ycE41LWViODJpa3d4Ym13V1pBbXp0YUVvSzdEM2NGbjV3NHBxZXZKTUxPcml3cGQyYkpHUC1YQUNlMzhacTN2OTdEdjhFWnJCQjFrVHVkbERmVlpRZmNQTUQ1QWpEdDFHNFVYZDZBb1liN19QbVMwT0tfeWQwblRhSUR1bFkzd19UQ2FOdlhyVDB6U3FXQW4weWRpUjVKRlhQeU55YjJpTXM1cVdFRnJQa2ZtS3ZSYm9OVUJ6aGVacVQzZ1FxWHBNNHUxVGJFZGZqNURXUS1NSNIBqwJBVV95cUxOVTFtRml0b1dQcV92a18xTlAwMEZqY0NnM0FSSndPUFhyaG0tWTViLWxjT09fNlZKdFZ0YmJTTVVtZ3d6TmhNMlVncHZQUFVDQXhLVXk5Rm5rcHdRMVVOR2hyUEJhV0pLd2kzdFFwTTc5RzdmamdSbjBXTTJWZWI4dl9HWmZ2UzdDU04zYWxCRHNIaEg5ajdWNjZraHlpV25XdXNiS3BxcmNDajJwd3RGekdTb0c0bHdhM1VaeGQtbmRJU1g5aWdIbk1ZSklfRG0zQm91Rmt4LUMxNHFITllaV3lWWkZVYk11YmlSM0RoQ0MxckZpNzdCUEYzbzZFNno0U2JZekVDaVRMaHE4NGFEaG9SZ3lrVmZMNzRpYnV0NXdyQWI1eVNWcTV1UQ?oc=5",
         "image": "",
         "publishedAt": "2026-10-23T17:55:00.000Z"
-      },
-      {
-        "title": "IA en retail: ¿cómo ayuda la tecnología a elegir lo que compran los peruanos? - Mercado Negro",
-        "summary": "IA en retail: ¿cómo ayuda la tecnología a elegir lo que compran los peruanos? &nbsp;&nbsp; Mercado Negro",
-        "source": "Mercado Negro",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQMmFveEhZakpSQ2hpcC01ZlM3VmQ5MGZSaGYyVUxBaWZ1YkswRk5lSl9Ucm5TVWlqQjVJQzVnM3FHeG1TQmMzckl6R0pON21PdEpBYm9mWjZpOUxGMXRmeDJpandOT3ZmcUZqQ1c2TTU?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-20T22:01:45.000Z"
       },
       {
         "title": "Del buscador al carrito de compras: el consumidor peruano aprueba la IA que lo ayuda a elegir - altavoz.pe",
@@ -518,12 +518,12 @@
         "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
-        "title": "Kelly Acuña, hermana de Richard y cuñada de Brunella Horna, celebró sus 40 años con Bacilos y La Mosca Tsé Tsé en vivo - Infobae",
-        "summary": "Kelly Acuña, hermana de Richard y cuñada de Brunella Horna, celebró sus 40 años con Bacilos y La Mosca Tsé Tsé en vivo &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUDJkcEwzajZOWGZWOFc3Z1VaZ3BjNlVZeWFpcGJRd2Z0TFI2X2NRRVkwRllORXdKS1htdmFCcnpSTEpzaGIwd1VmbUZ0cGYtYkdMUmtpckZFelBaYnQ1NUpyc2c5Vm9tc3ZxT2hZdW9hMDJlb21MRThEUy11ZmV3UENSaDRqblc3ZW9OREN2aWVBSEloRUNKSkNFVGlKQi00czhWYkZOR1NVbnk0NjFBYUg1TTFVM21LTkxTTHlvcWFaTXZqbmJneDZsaE5qUUtfdVNvSHNhQlBDSDFUNndReVNCUUhqeC1zRXhXNlJ30gGIAkFVX3lxTE91d19BTWZqYlFpTVdSbmJFNm5rM1FqR29CSzdBZ3kxOWpuT0Q4VUxuZDNLQWMya21rWGZySFhuWmpYeG9yLVdkY184eEZieXVZZkxodDNkbmJxaDl1SDJaNWFyVXRtblNnMGs1eFFmeHNsTmxZNTNPV0JFT1Z5OVczdXphMWZUVkVGTHJSTUtGS0trSC16NktRWXlJYlFGRTFoNXIwcmRUWXJUZFU1SWtiemtpMWlNcFJSYl9YZlp1LVpqMmttRHVPc3NwTjBFQlNWTkdLY3pxLXVGWTB6QkZtUTFraEN1ZnRaZTV1WWcxbFlqWm5MbDhEU19OM3RSaDNWYVQzb2IwVA?oc=5",
+        "title": "Jaime ‘Choca’ Mandros celebra que Feria Fusión sea Marca Perú: “Que el público pueda disfrutar de nuestra rica comida” - Trome.com",
+        "summary": "Jaime ‘Choca’ Mandros celebra que Feria Fusión sea Marca Perú: “Que el público pueda disfrutar de nuestra rica comida” &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSTVYYlBqX2t4N1ZWUmtaMHg2N0F6c1lscms1Q0pjWWZsc1hHVUZlbGU0VnNWVVJjN3kxU1EzakFUd0poUWpQSmVYOXgwUWxiT3M3VjFCQXJtaFBaVV9tOXcyVUZLRUJPNmpZRjBOUDdGUDNTWnVLTkhyUDhtVkd4TVlpRGJRTUN3VURKYVVPNnpkWkZ0Mkk4dmwtMkRSRXdVRVlFbllfOGJwZjZjVjJhcG9YNTZhakY5Y01DMWFuRDJTdzNiVGJiV0tyeVpRY3B1cXBNWUZvUkt5QzUyYjNNTFNHSjBGUdIB-gFBVV95cUxOVmpYdExMQzREcHh1bS1kMFY2azJHekdad0U0ZWMyX2QwN2Y3Y0ZKSWhzbFZKYjNlWW1HNXJmZzRVZWdXTjVIZmVqeGRfS0U5azFzT3VsdXZ3QXhUUkhjZFJBWmI0Y0kxWlUzdllGV2VtckR0VFpYRmZ4SGcwbkdGZEtXTnJuelhXbFExS0VBZF9jbXlpc0JCZDFrWGdsTFh5SXJUcllVZXV4V1Q0WFRpVVhjRlJ6YkxHNk1vaG9oMGNTdkJoU2VNS25kRVl6VTRfRVZzYW9XdG1VYVpxLTdJWDZVZVdMcWZUbmw2aHZiNlNiUEl3Y0lCLU5R?oc=5",
         "image": "",
-        "publishedAt": "2026-09-20T07:00:00.000Z"
+        "publishedAt": "2026-09-04T07:00:00.000Z"
       },
       {
         "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
