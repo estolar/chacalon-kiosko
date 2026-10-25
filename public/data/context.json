@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T16:10:56.875Z",
+  "generatedAt": "2026-10-25T19:00:28.735Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,6 +24,46 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
+        "title": "Rafael López Aliaga “He coordinado de manera informal con Reggiardo para que nos permita trabajar”",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-he-coordinado-de-manera-informal-con-reggiardo-para-que-nos-permita-trabajar-entrevista-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/NYRPWYLCZFBQ7KRXM7QP3OGZ4I.jpg?auth=b7f64de3e9988c2d50ad558480b0229663cdb622e90be5ffa319e116567064b5&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-10-25T18:02:40.000Z"
+      },
+      {
+        "title": "Daniel Barragán indica que Obras evaluará este lunes abstención de Juana Ticona en votación de facultades",
+        "summary": "El senador Daniel Barragán anunció que el partido Obras evaluará este lunes la abstención de Juana Ticona en la votación sobre la delegación de facultades legislativas al Ejecutivo, pese a que, según indicó, existía un acuerdo previo de la agrupación para respaldar la propuesta.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/daniel-barragan-indica-que-obras-evaluara-este-lunes-abstencion-de-juana-ticona-en-votacion-de-facultades-ultimas-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/GHYRCFTB7ZA4TMZYYFUVZXYHYQ.jpg?auth=45bf593ecbdca845fdd7ab49961f45db5b0aa90c8a5001b4918fa6242920ff0c&smart=true&width=1200&height=805",
+        "publishedAt": "2026-10-25T17:06:46.000Z"
+      },
+      {
+        "title": "Roberto Sánchez al banquillo: El PJ programó el inicio del juicio oral en su contra por presunta falsa declaración de aportes",
+        "summary": "El Poder Judicial (PJ) programó para el próximo 18 de diciembre el el inicio del juicio oral en contra de Roberto Sánchez, por el caso de presunta falsa declaración de aportes y reportes financieros ante la Oficina Nacional de Procesos Electorales (Onpe)",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/roberto-sanchez-el-poder-judicial-programo-para-el-proximo-18-de-diciembre-el-inicio-del-juicio-oral-en-su-contra-roberto-sanchez-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/R7K6HCZ7BRGSZBV2CHUAYTMMDE.png?auth=da5f2da96208dbb0f68d462d32885469f8cba6f2a08325f661dbfeefc3af19a1&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-25T16:35:00.000Z"
+      },
+      {
+        "title": "TC: Estos son los criterios de evaluación que estableció la Comisión del Senado para la elección de magistrados",
+        "summary": "El Senado debe iniciar el procedimiento de selección de los candidatos en diciembre, seis meses antes de que concluya el mandato de seis de los 7 miembros del Tribunal Constitucional.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/tc-estos-son-los-criterios-de-evaluacion-que-establecio-la-comision-de-constitucion-del-senado-para-la-eleccion-de-magistrados-del-tribunal-constitucional-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/KIXZ6IQY5RH6LP7Y2KEPZP7QHU.jpg?auth=186fbda294c6a4ddb470bf1f5804d43d2ba27834557cf688398dcc30d86c2696&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-25T16:15:00.000Z"
+      },
+      {
+        "title": "Alfonso López Chau sobre alianza con Juntos por el Perú, Obras y Buen Gobierno: “Quisiera que siga en pie”",
+        "summary": "El senador y líder de Ahora Nación, Alfonso López Chau, expresó su deseo de que se mantenga la alianza de su agrupación con Juntos por el Perú, Obras y el Partido del Buen Gobierno, pese a las diferencias que han surgido entre las organizaciones políticas.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/alfonso-lopez-chau-sobre-alianza-con-juntos-por-el-peru-obras-y-buen-gobierno-quisiera-que-siga-en-pie-ultimas-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/AZX5RY7RCNGJHA53E3DW5NNVUA.jpg?auth=f7c7e6a03d100398a97dca076b417d233daf0c1c31f6e4bc0ae937f9ac76761d&smart=true&width=1200&height=898",
+        "publishedAt": "2026-10-25T16:13:30.000Z"
+      },
+      {
         "title": "Pedro Castillo: PJ rechaza nuevo recurso que buscaba su excarcelación ¿cuáles son los argumentos?",
         "summary": "El Juzgado de Investigación Preparatoria de la Corte Superior de Justicia de Lima Este rechazó un nuevo recurso de Pedro Castillo, mediante el que buscaba ser excarcelado pese a su condena por conspiración para la rebelión.",
         "source": "El Comercio Perú",
@@ -38,49 +78,33 @@
         "url": "https://elcomercio.pe/politica/actualidad/carlos-y-la-silla-vacia-una-cronica-de-fernando-vivas-sobre-el-senador-mesia-presidente-de-la-comision-de-constitucion-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/YNQ6WTUTXJF35ILMGMDDU5BFMA.jpg?auth=c1c3b181e4794c704868c9a66d7aab36bd3bcb43a0d3df7a865681037d17b61c&smart=true&width=1920&height=1080",
         "publishedAt": "2026-10-25T15:40:00.000Z"
-      },
-      {
-        "title": "Senador Gavidia del Buen Gobierno defiende su voto: “La abstención es peor que cometer un error. Es un cálculo político”",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/senador-gavidia-del-buen-gobierno-defiende-su-voto-la-abstencion-es-peor-que-cometer-un-error-es-un-calculo-politico-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/NZ5O7GVMCNCPLCUYY5Q6CIOTZA.jpg?auth=f93125736807b574bc00650db06a65547d64444869af207d686cf73d970c9c2b&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-25T15:20:00.000Z"
-      },
-      {
-        "title": "Los primeros damnificados políticos",
-        "summary": "El primer choque de fuerzas de este quinquenio político ha terminado. Hubo momentos de tensión, gritos y pechadas, pero también algunos intercambios técnicos. Por ratos, parecía que las formalidades importaban más que el fondo. La necesidad de enfrentar la inseguridad ciudadana y el fenómeno de El Niño pasó a segundo p",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/opinion/columnistas/los-primeros-damnificados-politicos-por-hector-villalobos-delegacion-de-facultades-legislativas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/PUQAKFYPBVFYDAGJGSLHTVMJUE.jpg?auth=a4f8ebbfddffa9188fecc037fe6ff2aeaab0e7e73c071372abe3cddee595a438&smart=true&width=595&height=518",
-        "publishedAt": "2026-10-25T15:10:00.000Z"
-      },
-      {
-        "title": "Las grietas del nuevo Congreso bicameral: constitucionalistas analizan el trámite de las facultades",
-        "summary": "Natale Amprimo, Víctor García Toma, Enrique Ghersi y Delia Muñoz analizan las tensiones entre Diputados y el Senado por las facultades del Ejecutivo y los ajustes que requiere el Congreso bicameral.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/las-grietas-del-nuevo-congreso-bicameral-constitucionalistas-analizan-el-tramite-de-las-facultades-senado-diputados-keiko-fujimori-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/ZXP67SKNCZFYLGDRV4LMFMKA2U.jpg?auth=592a4de899c6c03d6645afe007c58da260c781c0ef393911370eb9e4812d76e1&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-25T14:50:00.000Z"
-      },
-      {
-        "title": "Manos a Obras, una crónica de Fernando Vivas sobres las facultades para el Ejecutivo",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/manos-a-obras-una-cronica-de-fernando-vivas-sobres-las-facultades-para-el-ejecutivo-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/OS5V4RWAZZCXPO4I7EHUM5PFTM.jpg?auth=ab9f624bffc3fe9574f77734e1ccdedb8125d344f310a08772e76b2c7b57cd35&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-25T14:35:00.000Z"
-      },
-      {
-        "title": "Rafael López Aliaga “He coordinado de manera informal con Reggiardo para que nos permita trabajar”",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-he-coordinado-de-manera-informal-con-reggiardo-para-que-nos-permita-trabajar-entrevista-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/NYRPWYLCZFBQ7KRXM7QP3OGZ4I.jpg?auth=b7f64de3e9988c2d50ad558480b0229663cdb622e90be5ffa319e116567064b5&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-10-25T14:15:00.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Gobierno prorroga por 60 días el estado de emergencia en Lima y Callao, ¿qué se mantiene?",
+        "summary": "Gobierno oficializa la prórroga del estado de emergencia en Lima y Callao por 60 días desde el 28 de octubre. Conoce las restricciones vigentes.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/gobierno-de-peru-prorroga-por-60-dias-el-estado-de-emergencia-en-lima-y-callao-que-se-mantiene-noticia/",
+        "image": "https://gestion.pe/resizer/v2/LPCVNLMMDNB6XNKWY23CSL5H4M.jpg?auth=c92f42532674ea8f7e9def8cf3a844caa475e076c7e12bdd4ff691f2367d8dc2&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-25T18:44:23.000Z"
+      },
+      {
+        "title": "¿Fondo soberano de riqueza sobre la mesa del Congreso? El proyecto que se alista",
+        "summary": "Alfonso López Chau anunció gestiones para impulsar un fondo soberano de riqueza en Perú y reveló conversaciones con bancos y organizaciones de trabajadores.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/fondo-soberano-de-riqueza-sobre-la-mesa-del-congreso-el-proyecto-que-se-alista-en-la-bancada-de-ahora-nacion-de-alfonso-lopez-chau-noticia/",
+        "image": "https://gestion.pe/resizer/v2/VKE5JOC26NHN3CVUEB4PWLIMOQ.jpg?auth=36645316df81edca5344076fcac25169256de48ae339169672a07a76ae06ebed&smart=true&width=1200&height=677",
+        "publishedAt": "2026-10-25T17:12:57.000Z"
+      },
+      {
+        "title": "El desempleo en Lima bajó a su mínimo histórico pero otro indicador preocupa, ¿cuál?",
+        "summary": "La tasa de desempleo en Lima se ubica en 4.4%, según datos del INEI. Sepa los detalles.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/el-desempleo-en-lima-bajo-a-su-minimo-historico-pero-otro-indicador-preocupa-cual-noticia/",
+        "image": "https://gestion.pe/resizer/v2/NKZ76XQB2JARLAGGF6YS37WEEM.jpg?auth=503905cb36a44ae53602a35b293fa9111bdc54ec3dbd68b7fc65a8db15f6518e&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-25T16:56:00.000Z"
+      },
       {
         "title": "Gobierno declara en emergencia el sector Vivienda: 15 millones de peruanos no tienen desagüe",
         "summary": "Gobierno declara en emergencia el sector Vivienda ante la falta de agua potable y desagüe. Conoce las medidas y los plazos establecidos.",
@@ -114,36 +138,12 @@
         "publishedAt": "2026-10-25T14:22:43.000Z"
       },
       {
-        "title": "El desempleo en Lima bajó a su mínimo histórico pero otro indicador preocupa, ¿cuál?",
-        "summary": "La tasa de desempleo en Lima se ubica en 4.4%, según datos del INEI. Sepa los detalles.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/el-desempleo-en-lima-bajo-a-su-minimo-historico-pero-otro-indicador-preocupa-cual-noticia/",
-        "image": "https://gestion.pe/resizer/v2/NKZ76XQB2JARLAGGF6YS37WEEM.jpg?auth=503905cb36a44ae53602a35b293fa9111bdc54ec3dbd68b7fc65a8db15f6518e&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-25T13:56:55.000Z"
-      },
-      {
         "title": "Fideicomisos empresariales: qué pueden hacer las empresas con sus fondos y qué está restringido",
         "summary": "Los fideicomisos se han convertido en una herramienta cada vez más utilizada para financiar proyectos, administrar flujos y ofrecer garantías tanto en proyectos privados como en obras públicas.",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/fideicomisos-empresariales-que-pueden-hacer-las-empresas-con-sus-fondos-y-que-esta-restringido-noticia/",
         "image": "https://gestion.pe/resizer/v2/DHIQXBJJRBGXJN4KYF6MHRITLI.jpg?auth=3cd26edef74b12455d20889dfb8bb420e115da43a32555a3919d87fa36834298&smart=true&width=1408&height=768",
         "publishedAt": "2026-10-25T13:55:00.000Z"
-      },
-      {
-        "title": "¿Qué implica una suspensión perfecta de labores? Gobierno evalúa esta medida ante El Niño",
-        "summary": "El impacto de El Niño podría hacer paralizar las operaciones de varias empresas.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/management-empleo/que-implica-una-suspension-perfecta-de-labores-gobierno-evalua-esta-medida-ante-el-nino-noticia/",
-        "image": "https://gestion.pe/resizer/v2/24HCDXFH55EIRMWHVCOKBK3WEU.jpg?auth=a0ee6c9b4eb25cb9e8f98e3e47e42f70eed5d10387e5fc511e510acca867e6e7&smart=true&width=1200&height=900",
-        "publishedAt": "2026-10-25T13:38:38.000Z"
-      },
-      {
-        "title": "¿Faltará atún por El Niño? La estrategia de Florida para cerrar un año récord y crecer en 2027",
-        "summary": "La marca líder de atún en el Perú crece por encima de su categoría y alista su salida a España. Sus planes para el 2027 y su apuesta por el segmento premium.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/atun-florida-y-su-plan-para-sortear-el-nino-entrar-al-segmento-premium-y-llegar-a-espana-noticia/",
-        "image": "https://gestion.pe/resizer/v2/UZMANE53HBGDDN4OEMMBY432DA.jpeg?auth=7f587a22bfb5b62629ab1b49e07863e72eda365e91163b0e2e4352ac7d306ee0&smart=true&width=6955&height=4637",
-        "publishedAt": "2026-10-25T13:30:00.000Z"
       }
     ],
     "sociedad": [
@@ -296,12 +296,12 @@
         "publishedAt": "2026-10-05T07:00:00.000Z"
       },
       {
-        "title": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional - Chimbote en Línea",
-        "summary": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; Chimbote en Línea",
-        "source": "Chimbote en Línea",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdUlfZ2hfaXNHTGtPY0RiYTFSLU9hOGp6UFpJb1JmLTBoLUlISTFoNlFDN1Vpc2pfVFhfNFpveDV3WVE3Q2lpRmZfdXZZRmVQRkhqYkw2OW9mMXRCWGJacjAzczhkOTVtc083b0djalZpUnNkOFdVdExpb3NkNjdrMDlBNFNkMDZnVEotZzM5eHZlM251TE5VbE9YVWFkSGJxVkhDcHhLaVpjbkdCc205bHRyVjFmMkNuNEhVOGlOVU5PTVZmeU5Dc09uRmxpMUpMbzdvVVNjaE9GdmpVczdfVUZpVDc0c01u?oc=5",
+        "title": "Dheivis Jara: becario que convirtió sus ideas en tecnología de alcance internacional - Editora Perú",
+        "summary": "Dheivis Jara: becario que convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; Editora Perú",
+        "source": "Editora Perú",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVWFHNmplUG5sdlhmMEhnYlV2Y0hLNFpiRTluQzA3eERGUkoxcC00NnJEc01fMnU1M3NUVFNkbjRteWxQZkdINVY1SC1FUml1QUlqNHBNb0JjNU15RVVqM2pLXzY1TGtXMFZQWjQ2ZTU3cEotX09kOWYxZHJ1UjJuQTVSUEFfcmhVZDQ5amFmWDN0SEcxVUxmNGJVdFJ3VGZFSnFNV0tnMjlkeXlkUlFtdFR0LW5NbDg2MHZNNjAwVF91WVQ4Nllfam85WHQ?oc=5",
         "image": "",
-        "publishedAt": "2026-09-21T07:00:00.000Z"
+        "publishedAt": "2026-09-19T07:00:00.000Z"
       },
       {
         "title": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras - El Comercio Perú",
@@ -370,6 +370,14 @@
         "publishedAt": "2026-10-21T23:00:00.000Z"
       },
       {
+        "title": "Agentes de IA: el 47% de trabajadores ya los utiliza para analizar datos o gestionar documentación - El Peruano",
+        "summary": "Agentes de IA: el 47% de trabajadores ya los utiliza para analizar datos o gestionar documentación &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM3dBZGpTTC1HV1VxMHo2bVZFckhmS1NkMHdpZmlHSHhHdUR1VTVsUVI5N3RmTU1RTkdaOGthZzRuQXF5WUxXdXdVTnIwc0pnR1ZCTUJiYlFZRnBXblhKVDg4cWY2aWRVQ2lMQTV6R1p0Q3p6T1VOUGRGM2xVQ3BPd1RlaVJhekV0Ymt5TlQ3b2hkZjZCREdDbmZJZ0lCM2tiZGFHeDV1TUJsemVNN0hLQzNLMVF6dUg2N0FzWmtMRnZZTlZ6WVptRVEtWlM?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-21T13:53:00.000Z"
+      },
+      {
         "title": "Gemini 4 Argon, la nueva IA de Google: ¿cuáles son sus funciones? - La República",
         "summary": "Gemini 4 Argon, la nueva IA de Google: ¿cuáles son sus funciones? &nbsp;&nbsp; La República",
         "source": "La República",
@@ -400,14 +408,6 @@
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVmRsM2lCcVpqUFBBaTYtemZrTllMVTNSQ0NWd2ZmZzlfa1NGOV9zY0w1VE1DZ1hwZDREYWNVaUtzbkwxNENoa1NVSWxrR0I0YVZJMnhMVzdYQWR4WEVQb1k0cGNpLTZucVpoMGEtclZZM3lkZnlSNW56TDUxRk0wYmIwc1lLTjFEMDM5aVdScG1zVjQxZGJBV1V4OGg4aFNhRUQzd1o4WmhDbXJFazRTYnBkTUtnWDlOUkxIUXVyQ0NRUE5ld3YzalF5UQ?oc=5",
         "image": "",
         "publishedAt": "2026-10-12T07:00:00.000Z"
-      },
-      {
-        "title": "Uso de IA crece en empresas, pero solo 30% reporta políticas de seguridad - La República",
-        "summary": "Uso de IA crece en empresas, pero solo 30% reporta políticas de seguridad &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPb0FkVUtxcW5KQUxGN1ByR2EzWEYwVmJ0V0ZQVExrMUlWSnpxc0laT0RfR3ZOMFJYRjlhamlDbDlwVnplYVNoUzRvWnFYeUVwMDlkd3FvUjBWTVRZcE9oRU0xcWRuanlTVHZZUDB2QXdTTThZWTZzTloxYzFiSTNNLTdfU1pibHBmLTRuMHBPSU96MkVRemlJLTN2anRPQnNpbWJUTGJaQ2JaWW1lRkhURlpQNHplZkRqaVFZZThHYnk5VWR5TUNrOGZHRGZXdmJQemF1THN5dTFzemk0cm9MYWpHTnN5bDJmU0hlR0ZrT21ib25VNTNfckZCU0xSRVRxampiZDRQRUpidw?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-08T07:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -521,9 +521,17 @@
         "title": "¿Grupo 5 abrirá los conciertos de BTS en Perú? Christian Yaipén desata locura total: \"Tenemos un secreto\" - La República",
         "summary": "¿Grupo 5 abrirá los conciertos de BTS en Perú? Christian Yaipén desata locura total: \"Tenemos un secreto\" &nbsp;&nbsp; La República",
         "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTzRDT09zWS1CTk5TTXRPcWpzTGxTd253VmNxT1lYZVRMSDk5WXlld2NPLXo2b0ZwR0VxV196Um5FcFVtWTZyZ1VMMFF6NHowMl9XWDFLLWlOM1ViLTNDa19ZX3ljSkhJaFFVdU1xODRVeGh1YkdEcVlETFFCS0tfaU9SM1d1cnM5MFo2SjI3dFY3Y2ctRi1QbDFWY3A1WU1sbFZpcG5Fd040Vk5PLW5yYkg2Tk9JckV0WW51eURGUGtqRjlVbzZjS3pFSV83MUZRbzNwLWI3dnFHYWJPYUEzOHdfWGFqTkczSlVYOHpQSdIB9AFBVV95cUxNc2hNUWNpZi0tWlNsM05fa3ZoM2dJQWMtTmc0OVNxQ3NRdFJJdkd2S3BkNjRTa2tqd0tHanBFdVZkM3gzX3F4QUxYeElPUk9CUXNpNkdvWGRjR29EM0M3dDJVUzIxd1JSN0M0ZGVaR19rVlVKbFZQUE5qa09pTnFXZ0djTEZRbkNOOEpvN21YVGtsZ2ZGVUdaMk1CZXhRdEp3aHhqQUhUY3dhblMtVnpHNV95S2wyQzJvMnpoUlFlSzhyV2dJZ3VDLThKdGxXSGlxak5iNDh5UU9HY0lod3JzTWU0alpTbGVPc2hDNi1MWTlDNk9a?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTzRDT09zWS1CTk5TTXRPcWpzTGxTd253VmNxT1lYZVRMSDk5WXlld2NPLXo2b0ZwR0VxV196Um5FcFVtWTZyZ1VMMFF6NHowMl9XWDFLLWlOM1ViLTNDa19ZX3ljSkhJaFFVdU1xODRVeGh1YkdEcVlETFFCS0tfaU9SM1d1cnM5MFo2SjI3dFY3Y2ctRi1QbDFWY3A1WU1sbFZpcG5Fd040Vk5PLW5yYkg2Tk9JckV0WW51eURGUGtqRjlVbzZjS3pFSV83MUZRbzNwLWI3dnFHYWJPYUEzOHdfWGFqTkczSlVYOHpQSQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-21T07:00:00.000Z"
+      },
+      {
+        "title": "Jaime ‘Choca’ Mandros celebra que Feria Fusión sea Marca Perú: “Que el público pueda disfrutar de nuestra rica comida” - Trome.com",
+        "summary": "Jaime ‘Choca’ Mandros celebra que Feria Fusión sea Marca Perú: “Que el público pueda disfrutar de nuestra rica comida” &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSTVYYlBqX2t4N1ZWUmtaMHg2N0F6c1lscms1Q0pjWWZsc1hHVUZlbGU0VnNWVVJjN3kxU1EzakFUd0poUWpQSmVYOXgwUWxiT3M3VjFCQXJtaFBaVV9tOXcyVUZLRUJPNmpZRjBOUDdGUDNTWnVLTkhyUDhtVkd4TVlpRGJRTUN3VURKYVVPNnpkWkZ0Mkk4dmwtMkRSRXdVRVlFbllfOGJwZjZjVjJhcG9YNTZhakY5Y01DMWFuRDJTdzNiVGJiV0tyeVpRY3B1cXBNWUZvUkt5QzUyYjNNTFNHSjBGUdIB-gFBVV95cUxOVmpYdExMQzREcHh1bS1kMFY2azJHekdad0U0ZWMyX2QwN2Y3Y0ZKSWhzbFZKYjNlWW1HNXJmZzRVZWdXTjVIZmVqeGRfS0U5azFzT3VsdXZ3QXhUUkhjZFJBWmI0Y0kxWlUzdllGV2VtckR0VFpYRmZ4SGcwbkdGZEtXTnJuelhXbFExS0VBZF9jbXlpc0JCZDFrWGdsTFh5SXJUcllVZXV4V1Q0WFRpVVhjRlJ6YkxHNk1vaG9oMGNTdkJoU2VNS25kRVl6VTRfRVZzYW9XdG1VYVpxLTdJWDZVZVdMcWZUbmw2aHZiNlNiUEl3Y0lCLU5R?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-04T07:00:00.000Z"
       },
       {
         "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
@@ -532,14 +540,6 @@
         "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZTlkRllsLWtCdE54Y0p4b1dSZVZvOXQ0dDB4TnhmRWNZNGJlS1U4N0xmT0ZNN3Q3ZWpOYjFpOVVWRDk2ZC1ZTFNGMFlfOENwUnhTQktGdHRvNVNzY2I1T3puZXJiLUlic2huMUI4WENtemEtbTlPa00ycDgyVjZIUzBOTHh1VzRfV2NTUDQyZGNRcENTTGpVT0VzNHRWdG5iN2xnZFMwYWJBbHVuVU8wMVdYMzhaTmRsU1hnTVU5aUhxNWppRHg4eVVtZFpJODlIYmJaUm5WZ2Y3cEFBUTg2QV9ROFBBZGVFY19ncmkwc0lDUzBZT1FFVVhyNXg0YV8xM182a0Vlb9IBogJBVV95cUxPdElaTXBGNnNMeXRNU3BOYk1sWlhjSXJ0OVVrNGVMd1lweXJ1WTBQNWdiQk5adDhDSmJxNERrcEVhYjNKSDBfZUEyLU5fZVVrRFo3UmI0OVBTaGlDTVk5MUo2NmtYdi1sWWxtNHFhaGFwMjlLdmJjQVhzSHhlUHZfS29ZSWFxdld1N3NuU2s5bjJSZ3dyZnVLbEQ0dUhkQUk4eDhLY2lRekhiQndkSXJVNkVMWEh1SWRSTHJfVnJPVlRZd20tYVd1NVpjUGJzZkVmSUE4bFdRN0pYbGFHY3pTRWZnbFZkUjFfMkJOT3ZUYlpjaV9iRmlheTgzX24zZ2dyN1dFVFVhRGZ2aGs0RjljdU52czZseXJ5OUwyRW5JZ0s5Zw?oc=5",
         "image": "",
         "publishedAt": "2026-09-03T07:00:00.000Z"
-      },
-      {
-        "title": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” - Trome.com",
-        "summary": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0ZKVXhOaUNRMF9DMldlUXBKT1hQdXFHRlc0cnpUUWRLdmJFZFFOV3h3eTA5QnlraDZNSGN6bWFjNHJiOVVuSDcxSHlKTWdYY2hSY0VvWDhWb0lJVDhZeWJQb3Q3eWhTdG1qTEJJWVJTdmdCUUU4Q2hpODRQYjQ1NUw5OEJ2aUxNeFRxVHpVZVdMZThWanlrTUE5X2RpSVNMenBEaUdXSzkyczJ0UXVVdGdoc0hXejDSAcsBQVVfeXFMT1NEd25TWlFTdmhlR040dk1hWTkzNzR1eWJGUE12ZU9QQUw4UGU5Y0R1MjVWNE1uRGh3TUJIWTBiaFVOYi1pVlNwZEV2NVRkUzROTDlqLUtIM2liMzcyM1lWdWZBX1RTZUhSLW1xTGprT1pNTHZtRWRLR0s2LXA5dXBwUzBYS0JCTWNNam5IeG1ZTDFKYUhua2xMaWNCajBra0dOWlpTR2h6Yk1rYVp2djU3aGlhN0JodVB4MlhnY0lPdGRmX090c0RZTmM?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-26T07:00:00.000Z"
       }
     ],
     "cultura": [
