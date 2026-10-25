@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T11:19:45.528Z",
+  "generatedAt": "2026-10-25T16:10:56.875Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,36 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Rafael López Aliaga “He coordinado de manera informal con Reggiardo para que nos permita trabajar” | ENTREVISTA",
+        "title": "Pedro Castillo: PJ rechaza nuevo recurso que buscaba su excarcelación ¿cuáles son los argumentos?",
+        "summary": "El Juzgado de Investigación Preparatoria de la Corte Superior de Justicia de Lima Este rechazó un nuevo recurso de Pedro Castillo, mediante el que buscaba ser excarcelado pese a su condena por conspiración para la rebelión.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/pedro-castillo-poder-judicial-rechaza-nuevo-recurso-de-expresidente-que-buscaba-su-excarcelacion-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/QPMSDTLPQBBMJK5CJWEKKMNYSM.png?auth=91d972922adae5c69cd379e7d9bcbbe35aa28eb36a325bc92133da5d9d57157d&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-25T15:55:00.000Z"
+      },
+      {
+        "title": "Carlos y la silla vacía, una crónica de Fernando Vivas sobre el presidente de la Comisión de Constitución del Senado",
+        "summary": "Carlos Mesía, presidente de la Comisión de Constitución del Senado, celebró cantando y con autocríticas la aprobación de los 7 puntos adicionales de la delegación de facultades.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/actualidad/carlos-y-la-silla-vacia-una-cronica-de-fernando-vivas-sobre-el-senador-mesia-presidente-de-la-comision-de-constitucion-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/YNQ6WTUTXJF35ILMGMDDU5BFMA.jpg?auth=c1c3b181e4794c704868c9a66d7aab36bd3bcb43a0d3df7a865681037d17b61c&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-10-25T15:40:00.000Z"
+      },
+      {
+        "title": "Senador Gavidia del Buen Gobierno defiende su voto: “La abstención es peor que cometer un error. Es un cálculo político”",
         "summary": "",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-he-coordinado-de-manera-informal-con-reggiardo-para-que-nos-permita-trabajar-entrevista-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/NYRPWYLCZFBQ7KRXM7QP3OGZ4I.jpg?auth=b7f64de3e9988c2d50ad558480b0229663cdb622e90be5ffa319e116567064b5&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-10-25T11:00:00.000Z"
+        "url": "https://elcomercio.pe/politica/senador-gavidia-del-buen-gobierno-defiende-su-voto-la-abstencion-es-peor-que-cometer-un-error-es-un-calculo-politico-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/NZ5O7GVMCNCPLCUYY5Q6CIOTZA.jpg?auth=f93125736807b574bc00650db06a65547d64444869af207d686cf73d970c9c2b&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-25T15:20:00.000Z"
+      },
+      {
+        "title": "Los primeros damnificados políticos",
+        "summary": "El primer choque de fuerzas de este quinquenio político ha terminado. Hubo momentos de tensión, gritos y pechadas, pero también algunos intercambios técnicos. Por ratos, parecía que las formalidades importaban más que el fondo. La necesidad de enfrentar la inseguridad ciudadana y el fenómeno de El Niño pasó a segundo p",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/opinion/columnistas/los-primeros-damnificados-politicos-por-hector-villalobos-delegacion-de-facultades-legislativas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/PUQAKFYPBVFYDAGJGSLHTVMJUE.jpg?auth=a4f8ebbfddffa9188fecc037fe6ff2aeaab0e7e73c071372abe3cddee595a438&smart=true&width=595&height=518",
+        "publishedAt": "2026-10-25T15:10:00.000Z"
       },
       {
         "title": "Las grietas del nuevo Congreso bicameral: constitucionalistas analizan el trámite de las facultades",
@@ -37,7 +61,7 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/las-grietas-del-nuevo-congreso-bicameral-constitucionalistas-analizan-el-tramite-de-las-facultades-senado-diputados-keiko-fujimori-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/ZXP67SKNCZFYLGDRV4LMFMKA2U.jpg?auth=592a4de899c6c03d6645afe007c58da260c781c0ef393911370eb9e4812d76e1&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-25T11:00:00.000Z"
+        "publishedAt": "2026-10-25T14:50:00.000Z"
       },
       {
         "title": "Manos a Obras, una crónica de Fernando Vivas sobres las facultades para el Ejecutivo",
@@ -45,57 +69,33 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/manos-a-obras-una-cronica-de-fernando-vivas-sobres-las-facultades-para-el-ejecutivo-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/OS5V4RWAZZCXPO4I7EHUM5PFTM.jpg?auth=ab9f624bffc3fe9574f77734e1ccdedb8125d344f310a08772e76b2c7b57cd35&smart=true&width=1200&height=647",
-        "publishedAt": "2026-10-25T11:00:00.000Z"
+        "publishedAt": "2026-10-25T14:35:00.000Z"
       },
       {
-        "title": "Al menos seis alcaldes electos tienen vínculos con el Reinfo",
+        "title": "Rafael López Aliaga “He coordinado de manera informal con Reggiardo para que nos permita trabajar”",
         "summary": "",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/al-menos-seis-alcaldes-electos-tienen-vinculos-con-el-reinfo-tras-elecciones-regionales-y-municipales-2026-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/IE4JBJR4VBF37AAUMMMTDEALLE.png?auth=724c66e1794c7196c64327240b9800d1b0ca6bd50e2de6a72230e8d9502fc25d&smart=true&width=1672&height=941",
-        "publishedAt": "2026-10-25T11:00:00.000Z"
-      },
-      {
-        "title": "El dictador feliz",
-        "summary": "Keiko Fujimori viajará a El Salvador, del 28 al 31 de octubre, ​​​por​ invitación del presidente Nayib Bukele. Recorrerá el Centro de Confinamiento del Terrorismo (Cecot), emblema de la exitosa lucha del régimen contra el crimen organizado. Construido en el 2022 para encerrar a 40.000 personas, es la cárcel más grande ",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/opinion/columnistas/el-dictador-feliz-por-ricardo-uceda-nayib-bukele-el-salvador-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/AC44LB6OFZA47GYYJOFGLUDBNQ.jpg?auth=c6f32e0fa9076599ea7e631642aacd3f52336b3f425caf8b8e5c6f1b39952a91&smart=true&width=1203&height=649",
-        "publishedAt": "2026-10-25T05:33:00.000Z"
-      },
-      {
-        "title": "La inútil batalla de las facultades",
-        "summary": "El gobierno ha obtenido del Congreso facultades para legislar. Algunos diputados cuestionan lo aprobado por el Senado. Sostienen que este se ha extralimitado. En este debate interviene algo de vanidad legislativa. Hay algo de ideología y algo también de posición política.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/opinion/columnistas/la-inutil-batalla-de-las-facultades-por-federico-salazar-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/4H6F7FXHIVB43HD4GIG5VUX5DQ.jpg?auth=d4760900f67376b7d06d91991c2bcc569567390284cd7d6b137df1c84372cb22&smart=true&width=1202&height=645",
-        "publishedAt": "2026-10-25T05:31:00.000Z"
-      },
-      {
-        "title": "Sillas vacías",
-        "summary": "Todos –hasta muchos excongresistas de derecha– sabían que el modelo de bicameralidad que se había aprobado era no solo precario, sino que iba a terminar tensando las relaciones entre ambas cámaras. La bicameralidad, en todos los países donde funciona bien, lo hace cuando las dos cámaras, por más rivales que sean, respe",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/opinion/columnistas/sillas-vacias-por-gonzalo-banda-delegacion-de-facultades-legislativas-congreso-ejecutivo-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/JQVA5JWLE5HXZOTLZIBQ7WCBA4.jpg?auth=700f88dfc6b3f3a350336a3206ffde17839624a11724b37be1d0f3c58012d33e&smart=true&width=680&height=522",
-        "publishedAt": "2026-10-25T05:30:00.000Z"
+        "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-he-coordinado-de-manera-informal-con-reggiardo-para-que-nos-permita-trabajar-entrevista-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/NYRPWYLCZFBQ7KRXM7QP3OGZ4I.jpg?auth=b7f64de3e9988c2d50ad558480b0229663cdb622e90be5ffa319e116567064b5&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-10-25T14:15:00.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Suplementos en Perú: dueño de Vitagel duplicará su portafolio en 2027 con marca española",
-        "summary": "Vitador, empresa de capitales suizos detrás de Vitagel, apuesta por las gomitas vitamínicas con una marca española. Estos son sus lanzamientos y planes de expansión para lo que resta del 2026 y el 2027.",
+        "title": "Gobierno declara en emergencia el sector Vivienda: 15 millones de peruanos no tienen desagüe",
+        "summary": "Gobierno declara en emergencia el sector Vivienda ante la falta de agua potable y desagüe. Conoce las medidas y los plazos establecidos.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/suplementos-en-peru-empresa-de-capital-suizo-adelanta-stock-por-el-nino-y-alista-lanzamientos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/AIAVYPEM75B2DAFQ77FGK7XTGI.jpg?auth=466fde49d37737853c0a8cbc0aac8abdc7593c53d827acf4478b2a36a2387676&smart=true&width=777&height=515",
-        "publishedAt": "2026-10-25T11:00:00.000Z"
+        "url": "https://gestion.pe/economia/sector-vivienda-en-emergencia-que-medidas-adoptara-el-gobierno-ante-la-falta-de-agua-y-desague-noticia/",
+        "image": "https://gestion.pe/resizer/v2/JID47CXEPRBDZBYXVOHVHHBVPA.jpg?auth=e185f7cba512c186260de484e806506012977057f5241161f01cf2f485d452be&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-10-25T15:25:23.000Z"
       },
       {
-        "title": "Cacao: exportaciones están en “caída libre” por El Niño tras récord, ¿hay más riesgos?",
-        "summary": "El cacao es otra de las víctimas del Fenómeno de El Niño. Pese a la mejora en los precios internacionales, las exportaciones del cacao seguirían a la baja debido a los efectos climáticos.",
+        "title": "Serfor actualiza protocolo para la presentación y revisión de expedientes de zonificación forestal",
+        "summary": "Serfor aprobó un nuevo protocolo para presentar y revisar expedientes de zonificación forestal en Perú. Conoce qué cambia y qué norma reemplaza.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/cacao-exportaciones-estan-en-caida-libre-por-el-nino-tras-record-hay-mas-riesgos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/O6JNFHDRBJG2RC6TKT6P54IIEI.jpg?auth=d4c70d9a4085c4a2f208801cc7336f54f73430f239e55218fc96141cff0092b1&smart=true&width=1800&height=1197",
-        "publishedAt": "2026-10-25T10:10:00.000Z"
+        "url": "https://gestion.pe/economia/serfor-actualiza-protocolo-de-zonificacion-forestal-en-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/S3HUJ5QK6NBI5DQNEFLYQRTHNY.jpg?auth=1c7ec147d4f8edb8b7ce6dd5e38af509e9c3ba90523e4bba3f5bcac244557488&smart=true&width=1536&height=1138",
+        "publishedAt": "2026-10-25T15:22:54.000Z"
       },
       {
         "title": "¿Qué pide Lima por delivery? El pollo lidera, pero estos platos “dan la pelea”",
@@ -103,39 +103,31 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/gastronomia-peruana-que-pide-lima-por-delivery-el-pollo-lidera-pero-estos-platos-dan-la-pelea-noticia/",
         "image": "https://gestion.pe/resizer/v2/KI3AGCHDRVGL5KDD5WPQ3ARQIQ.jpg?auth=43c8d7426dfd4539d3524401fce8d388f5a0d0e23ab2c721c44e9d54076df677&smart=true&width=7904&height=5272",
-        "publishedAt": "2026-10-25T10:10:00.000Z"
+        "publishedAt": "2026-10-25T14:23:20.000Z"
       },
       {
-        "title": "Air Canada vuelve a Perú y apunta a ocupaciones superiores al 90%: ¿ampliará sus vuelos?",
-        "summary": "La aerolínea reanuda sus rutas directas a Toronto y Montreal desde el 26 de octubre, antes de lo previsto. Alfredo Babun, gerente regional para los Países Andinos, explica qué impulsó el retorno, la meta de recuperar ocupaciones superiores al 90% y las tarifas de referencia desde US$ 322 más impuestos.",
+        "title": "Cacao: exportaciones están en “caída libre” por El Niño tras récord, ¿hay más riesgos?",
+        "summary": "El cacao es otra de las víctimas del Fenómeno de El Niño. Pese a la mejora en los precios internacionales, las exportaciones del cacao seguirían a la baja debido a los efectos climáticos.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/air-canada-vuelve-a-lima-tras-tres-anos-ampliara-sus-vuelos-y-cuanto-cuestan-los-pasajes-noticia/",
-        "image": "https://gestion.pe/resizer/v2/L34KXFXP7BFU3DKWQRPVW4VIAM.jpg?auth=be188035471c4318347101db66af50583091c1ac71d3a025cb43aad3f515911a&smart=true&width=1600&height=1280",
-        "publishedAt": "2026-10-25T00:04:00.000Z"
+        "url": "https://gestion.pe/economia/cacao-exportaciones-estan-en-caida-libre-por-el-nino-tras-record-hay-mas-riesgos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/O6JNFHDRBJG2RC6TKT6P54IIEI.jpg?auth=d4c70d9a4085c4a2f208801cc7336f54f73430f239e55218fc96141cff0092b1&smart=true&width=1800&height=1197",
+        "publishedAt": "2026-10-25T14:22:43.000Z"
       },
       {
-        "title": "AFP en la mira de la IA: ¿cuáles aparecen al consultar de rentabilidad, retiros y traspasos?",
-        "summary": "Un estudio de NEO Consulting analizó la visibilidad de Prima AFP, AFP Integra, AFP Habitat y Profuturo AFP en ChatGPT y Gemini. Los resultados muestran que el liderazgo cambia según la consulta: Prima destaca en información previsional, Habitat en comparaciones e Integra en traspasos.",
+        "title": "El desempleo en Lima bajó a su mínimo histórico pero otro indicador preocupa, ¿cuál?",
+        "summary": "La tasa de desempleo en Lima se ubica en 4.4%, según datos del INEI. Sepa los detalles.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/afp-bajo-la-lupa-de-la-ia-quien-lidera-en-rentabilidad-retiros-y-traspasos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/WTIKFD4TBRDOBK45PIFVNE7XBQ.jpg?auth=d64ba5f6923f0efb2c79ddb2cca711bcbc8467b632feaaafac4871f7490c64d2&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-24T22:15:00.000Z"
+        "url": "https://gestion.pe/economia/el-desempleo-en-lima-bajo-a-su-minimo-historico-pero-otro-indicador-preocupa-cual-noticia/",
+        "image": "https://gestion.pe/resizer/v2/NKZ76XQB2JARLAGGF6YS37WEEM.jpg?auth=503905cb36a44ae53602a35b293fa9111bdc54ec3dbd68b7fc65a8db15f6518e&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-25T13:56:55.000Z"
       },
       {
-        "title": "Petrolera egipcia operará el Lote 192, el de mayores reservas del Perú",
-        "summary": "El Ejecutivo aprobó la incorporación de un nuevo socio estratégico de Petroperú para la explotación del Lote 192, ubicado en la región Loreto. La medida autoriza la participación de Petroloreto S.A.C., subsidiaria de Cheiron Holdings Egypt Limited, en el contrato de licencia para la explotación de hidrocarburos del yac",
+        "title": "Fideicomisos empresariales: qué pueden hacer las empresas con sus fondos y qué está restringido",
+        "summary": "Los fideicomisos se han convertido en una herramienta cada vez más utilizada para financiar proyectos, administrar flujos y ofrecer garantías tanto en proyectos privados como en obras públicas.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/petrolera-egipcia-operara-el-lote-192-el-de-mayores-reservas-del-peru-noticia/",
-        "image": "https://gestion.pe/resizer/v2/3EHAOG247JEWJKYA6SY6TMDZTQ.jpg?auth=286cc988204f565e4580df761c416a4c1a168bfe09e7024aad271278fc7db723&smart=true&width=1200&height=808",
-        "publishedAt": "2026-10-24T20:35:00.000Z"
-      },
-      {
-        "title": "MEF seguirá con reforma tributaria tras El Niño: ¿qué exoneraciones le parecen correctas?",
-        "summary": "Si bien la atención económica al fenómeno El Niño (FEN) se roba hoy los reflectores por la emergencia, Elmer Cuba, ministro de Economía y Finanzas (MEF), recalcó en diálogo con Gestión que ello no quita que su cartera aún insista con implementar una reforma tributaria profunda en Perú.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/mef-seguira-con-reforma-tributaria-tras-el-nino-que-exoneraciones-le-parecen-correctas-noticia/",
-        "image": "https://gestion.pe/resizer/v2/MHBS6FRF6ZELJITDQIE66H444I.png?auth=2341864ffacac68bb650452e4131580b07358f47dfbb302d69e7ccde1a6fe777&smart=true&width=1672&height=941",
-        "publishedAt": "2026-10-24T19:19:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/fideicomisos-empresariales-que-pueden-hacer-las-empresas-con-sus-fondos-y-que-esta-restringido-noticia/",
+        "image": "https://gestion.pe/resizer/v2/DHIQXBJJRBGXJN4KYF6MHRITLI.jpg?auth=3cd26edef74b12455d20889dfb8bb420e115da43a32555a3919d87fa36834298&smart=true&width=1408&height=768",
+        "publishedAt": "2026-10-25T13:55:00.000Z"
       },
       {
         "title": "¿Qué implica una suspensión perfecta de labores? Gobierno evalúa esta medida ante El Niño",
@@ -143,7 +135,15 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/management-empleo/que-implica-una-suspension-perfecta-de-labores-gobierno-evalua-esta-medida-ante-el-nino-noticia/",
         "image": "https://gestion.pe/resizer/v2/24HCDXFH55EIRMWHVCOKBK3WEU.jpg?auth=a0ee6c9b4eb25cb9e8f98e3e47e42f70eed5d10387e5fc511e510acca867e6e7&smart=true&width=1200&height=900",
-        "publishedAt": "2026-10-24T16:49:09.000Z"
+        "publishedAt": "2026-10-25T13:38:38.000Z"
+      },
+      {
+        "title": "¿Faltará atún por El Niño? La estrategia de Florida para cerrar un año récord y crecer en 2027",
+        "summary": "La marca líder de atún en el Perú crece por encima de su categoría y alista su salida a España. Sus planes para el 2027 y su apuesta por el segmento premium.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/atun-florida-y-su-plan-para-sortear-el-nino-entrar-al-segmento-premium-y-llegar-a-espana-noticia/",
+        "image": "https://gestion.pe/resizer/v2/UZMANE53HBGDDN4OEMMBY432DA.jpeg?auth=7f587a22bfb5b62629ab1b49e07863e72eda365e91163b0e2e4352ac7d306ee0&smart=true&width=6955&height=4637",
+        "publishedAt": "2026-10-25T13:30:00.000Z"
       }
     ],
     "sociedad": [
@@ -296,12 +296,12 @@
         "publishedAt": "2026-10-05T07:00:00.000Z"
       },
       {
-        "title": "Dheivis Jara: becario que convirtió sus ideas en tecnología de alcance internacional - Editora Perú",
-        "summary": "Dheivis Jara: becario que convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; Editora Perú",
-        "source": "Editora Perú",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVWFHNmplUG5sdlhmMEhnYlV2Y0hLNFpiRTluQzA3eERGUkoxcC00NnJEc01fMnU1M3NUVFNkbjRteWxQZkdINVY1SC1FUml1QUlqNHBNb0JjNU15RVVqM2pLXzY1TGtXMFZQWjQ2ZTU3cEotX09kOWYxZHJ1UjJuQTVSUEFfcmhVZDQ5amFmWDN0SEcxVUxmNGJVdFJ3VGZFSnFNV0tnMjlkeXlkUlFtdFR0LW5NbDg2MHZNNjAwVF91WVQ4Nllfam85WHQ?oc=5",
+        "title": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional - Chimbote en Línea",
+        "summary": "De los Andes al mundo: becario peruano convirtió sus ideas en tecnología de alcance internacional &nbsp;&nbsp; Chimbote en Línea",
+        "source": "Chimbote en Línea",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdUlfZ2hfaXNHTGtPY0RiYTFSLU9hOGp6UFpJb1JmLTBoLUlISTFoNlFDN1Vpc2pfVFhfNFpveDV3WVE3Q2lpRmZfdXZZRmVQRkhqYkw2OW9mMXRCWGJacjAzczhkOTVtc083b0djalZpUnNkOFdVdExpb3NkNjdrMDlBNFNkMDZnVEotZzM5eHZlM251TE5VbE9YVWFkSGJxVkhDcHhLaVpjbkdCc205bHRyVjFmMkNuNEhVOGlOVU5PTVZmeU5Dc09uRmxpMUpMbzdvVVNjaE9GdmpVczdfVUZpVDc0c01u?oc=5",
         "image": "",
-        "publishedAt": "2026-09-19T07:00:00.000Z"
+        "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
         "title": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica: las razones de fondo detrás de estas cifras - El Comercio Perú",
@@ -510,14 +510,6 @@
         "publishedAt": "2026-09-24T07:00:00.000Z"
       },
       {
-        "title": "Conciertos en Lima 2026: lista de artistas confirmados, fechas, lugares y dónde comprar entradas - La República",
-        "summary": "Conciertos en Lima 2026: lista de artistas confirmados, fechas, lugares y dónde comprar entradas &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNkhLSXNGS3ZXcWUzcFh5eGpQM3h0ZUxDYXVtRXlXc0pVeVM3c19IU2E2cmdvZ2llZmVXQkxKME9HUkJyMmRsUEdlb3I5dmk0UGhuWWJPRVlSRGlIZGFGVFpSWWxRN2hJazdaaWxXbHpWQjVjNkh1eGFEYm1udEFEWkVTUFR3ZXgxWEVIdUd1QlVPSTZUa3VjREhQUDJ4OE1wS2V3RGxsbHVQWTdRX1gtNV9ibzB5Yk15RkZPZlF0cUlpMF9jcTFKRTdidEtjNXdkOTFvM3p0Z2NyUFI5UEQzcGtPWEJHak13UTRLRWFwVE1NMWdxVEUwWDZ1WnJVY2k2WllXT2U2RlhQbXlYLWYyQlZIQVpPbC05b2wwWUUzb01CYTDSAagCQVVfeXFMTlUyQXAxei13aVQwbmNabDBUdU9QSWM3Tm5CSmNvZVJTRDFzZUxpb3E2M1R5OUFyNXNudDhka2RHNVJ5bE1YS0dWNmFZWVgtSnlWUWR5enRUOTJxaHIzNkNMNkU3Z0llUy1Yb25YOGloZnJCOU5YbmlvMFlwSDA1UUVpLTNUR1NHS3psZzNYenM0NFNrVkotVWtlNWVXekV6Ty02Qngxcy1QX29hMTFPMTBqMkY0VEsyVU9pVl8tMlNNVVByOTR3V2N0YXB3eXdKbjc3cHFHX1hsdWhEYVQ4S0oxdVUtdDk0dlE4SVI3NW5PUzcyUzVSUWhrOVl1a19yWGdlUE9iS3RibHk2REpKNHp6TEdXZUN6aU1pcml3V2dnd2VyTVNPaXg?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-22T07:00:00.000Z"
-      },
-      {
         "title": "Conciertos elevan las expectativas del entretenimiento en Perú: sector crecería hasta 8% en 2026 - La República",
         "summary": "Conciertos elevan las expectativas del entretenimiento en Perú: sector crecería hasta 8% en 2026 &nbsp;&nbsp; La República",
         "source": "La República",
@@ -534,12 +526,20 @@
         "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
-        "title": "Jaime ‘Choca’ Mandros celebra que Feria Fusión sea Marca Perú: “Que el público pueda disfrutar de nuestra rica comida” - Trome.com",
-        "summary": "Jaime ‘Choca’ Mandros celebra que Feria Fusión sea Marca Perú: “Que el público pueda disfrutar de nuestra rica comida” &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSTVYYlBqX2t4N1ZWUmtaMHg2N0F6c1lscms1Q0pjWWZsc1hHVUZlbGU0VnNWVVJjN3kxU1EzakFUd0poUWpQSmVYOXgwUWxiT3M3VjFCQXJtaFBaVV9tOXcyVUZLRUJPNmpZRjBOUDdGUDNTWnVLTkhyUDhtVkd4TVlpRGJRTUN3VURKYVVPNnpkWkZ0Mkk4dmwtMkRSRXdVRVlFbllfOGJwZjZjVjJhcG9YNTZhakY5Y01DMWFuRDJTdzNiVGJiV0tyeVpRY3B1cXBNWUZvUkt5QzUyYjNNTFNHSjBGUdIB-gFBVV95cUxOVmpYdExMQzREcHh1bS1kMFY2azJHekdad0U0ZWMyX2QwN2Y3Y0ZKSWhzbFZKYjNlWW1HNXJmZzRVZWdXTjVIZmVqeGRfS0U5azFzT3VsdXZ3QXhUUkhjZFJBWmI0Y0kxWlUzdllGV2VtckR0VFpYRmZ4SGcwbkdGZEtXTnJuelhXbFExS0VBZF9jbXlpc0JCZDFrWGdsTFh5SXJUcllVZXV4V1Q0WFRpVVhjRlJ6YkxHNk1vaG9oMGNTdkJoU2VNS25kRVl6VTRfRVZzYW9XdG1VYVpxLTdJWDZVZVdMcWZUbmw2aHZiNlNiUEl3Y0lCLU5R?oc=5",
+        "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
+        "summary": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZTlkRllsLWtCdE54Y0p4b1dSZVZvOXQ0dDB4TnhmRWNZNGJlS1U4N0xmT0ZNN3Q3ZWpOYjFpOVVWRDk2ZC1ZTFNGMFlfOENwUnhTQktGdHRvNVNzY2I1T3puZXJiLUlic2huMUI4WENtemEtbTlPa00ycDgyVjZIUzBOTHh1VzRfV2NTUDQyZGNRcENTTGpVT0VzNHRWdG5iN2xnZFMwYWJBbHVuVU8wMVdYMzhaTmRsU1hnTVU5aUhxNWppRHg4eVVtZFpJODlIYmJaUm5WZ2Y3cEFBUTg2QV9ROFBBZGVFY19ncmkwc0lDUzBZT1FFVVhyNXg0YV8xM182a0Vlb9IBogJBVV95cUxPdElaTXBGNnNMeXRNU3BOYk1sWlhjSXJ0OVVrNGVMd1lweXJ1WTBQNWdiQk5adDhDSmJxNERrcEVhYjNKSDBfZUEyLU5fZVVrRFo3UmI0OVBTaGlDTVk5MUo2NmtYdi1sWWxtNHFhaGFwMjlLdmJjQVhzSHhlUHZfS29ZSWFxdld1N3NuU2s5bjJSZ3dyZnVLbEQ0dUhkQUk4eDhLY2lRekhiQndkSXJVNkVMWEh1SWRSTHJfVnJPVlRZd20tYVd1NVpjUGJzZkVmSUE4bFdRN0pYbGFHY3pTRWZnbFZkUjFfMkJOT3ZUYlpjaV9iRmlheTgzX24zZ2dyN1dFVFVhRGZ2aGs0RjljdU52czZseXJ5OUwyRW5JZ0s5Zw?oc=5",
         "image": "",
-        "publishedAt": "2026-09-04T07:00:00.000Z"
+        "publishedAt": "2026-09-03T07:00:00.000Z"
+      },
+      {
+        "title": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” - Trome.com",
+        "summary": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0ZKVXhOaUNRMF9DMldlUXBKT1hQdXFHRlc0cnpUUWRLdmJFZFFOV3h3eTA5QnlraDZNSGN6bWFjNHJiOVVuSDcxSHlKTWdYY2hSY0VvWDhWb0lJVDhZeWJQb3Q3eWhTdG1qTEJJWVJTdmdCUUU4Q2hpODRQYjQ1NUw5OEJ2aUxNeFRxVHpVZVdMZThWanlrTUE5X2RpSVNMenBEaUdXSzkyczJ0UXVVdGdoc0hXejDSAcsBQVVfeXFMT1NEd25TWlFTdmhlR040dk1hWTkzNzR1eWJGUE12ZU9QQUw4UGU5Y0R1MjVWNE1uRGh3TUJIWTBiaFVOYi1pVlNwZEV2NVRkUzROTDlqLUtIM2liMzcyM1lWdWZBX1RTZUhSLW1xTGprT1pNTHZtRWRLR0s2LXA5dXBwUzBYS0JCTWNNam5IeG1ZTDFKYUhua2xMaWNCajBra0dOWlpTR2h6Yk1rYVp2djU3aGlhN0JodVB4MlhnY0lPdGRmX090c0RZTmM?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-26T07:00:00.000Z"
       }
     ],
     "cultura": [
