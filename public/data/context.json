@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T06:08:30.243Z",
+  "generatedAt": "2026-10-26T12:54:01.010Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -22,6 +22,22 @@
         "url": "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
         "image": "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
         "publishedAt": "2026-09-01T00:00:00.000Z"
+      },
+      {
+        "title": "Reinfo, Ley Mape y más: La agenda minera que se alista en el Congreso",
+        "summary": "El Congreso debate nuevas propuestas sobre la Ley MAPE, la formalización minera, la minería ilegal y los cambios en las regalías e impuestos del sector.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/comision-de-energia-y-minas-pieza-debate-de-la-nueva-ley-de-la-pequena-mineria-y-mineria-artesanal-ley-mape-juntos-por-el-peru-congreso-diputados-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/TGVFP2MQQFAOPHFGZCCEFK5J7U.jpg?auth=99a96c8a6f9d60ff97b67d133a6e4fd270c1def46e691f632aae5a881188c8df&smart=true&width=1200&height=647",
+        "publishedAt": "2026-10-26T12:34:41.000Z"
+      },
+      {
+        "title": "Organismo adscrito a la PCM contrató proyecto liderado por sentenciado por caso Los Temerarios del Crimen",
+        "summary": "El Organismo de Estudio y Diseño de Proyectos de Inversión (OEDI) contrató en marzo a un consorcio para elaborar un expediente técnico de un proyecto de agua potable y alcantarillado en Satipo (distrito de Río Negro). Sin embargo, lo llamativo de este contrato es que el consorcio que ganó el contrato tiene como jefe de",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/organismo-adscrito-a-la-pcm-contrato-proyecto-liderado-por-sentenciado-por-caso-los-temerarios-del-crimen-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/TH2QG3J6ERDHZHO67C5OZ2WKIY.jpeg?auth=5ee97ae156e9d86679b5aca68868e3cc48a61852eaa72d9a30368fe125316bc8&smart=true&width=1376&height=768",
+        "publishedAt": "2026-10-26T12:34:26.000Z"
       },
       {
         "title": "Luis Galarreta sobre delegación de facultades: “Vamos a hacer un uso efectivo y contundente de lo que nos han dado”",
@@ -62,88 +78,72 @@
         "url": "https://elcomercio.pe/politica/manos-a-obras-una-cronica-de-fernando-vivas-sobres-las-facultades-para-el-ejecutivo-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/OS5V4RWAZZCXPO4I7EHUM5PFTM.jpg?auth=ab9f624bffc3fe9574f77734e1ccdedb8125d344f310a08772e76b2c7b57cd35&smart=true&width=1200&height=647",
         "publishedAt": "2026-10-26T02:20:04.000Z"
-      },
-      {
-        "title": "Rafael López Aliaga “He coordinado de manera informal con Reggiardo para que nos permita trabajar”",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-he-coordinado-de-manera-informal-con-reggiardo-para-que-nos-permita-trabajar-entrevista-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/NYRPWYLCZFBQ7KRXM7QP3OGZ4I.jpg?auth=b7f64de3e9988c2d50ad558480b0229663cdb622e90be5ffa319e116567064b5&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-10-26T02:19:47.000Z"
-      },
-      {
-        "title": "Catherin Palomino: Exasesor denuncia que diputada de JP direcciona presupuesto que piden gobiernos regionales y alcaldías",
-        "summary": "Un exasesor de la diputada Catherin Palomino (Juntos por el Perú) denunció que la legisladora direcciona el presupuesto que piden los gobiernos regionales o las alcaldías al Ministerio de Economía y Finanzas (MEF), según reveló “Panorama”.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/catherin-palomino-exasesor-denuncia-que-diputada-de-juntos-por-el-peru-direcciona-presupuesto-que-piden-gobiernos-regionales-y-alcaldias-huancavelica-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/QN42P5W6HFDV7CJIV6IBAZ2LRQ.jpg?auth=ef4e3f95104283c003834c3fb095a201e5c5584e904ae0d90c601c098ddd8cf6&smart=true&width=1034&height=850",
-        "publishedAt": "2026-10-26T02:08:33.000Z"
       }
     ],
     "economia": [
-      {
-        "title": "El desempleo en Lima bajó a su mínimo histórico pero otro indicador preocupa, ¿cuál?",
-        "summary": "La tasa de desempleo en Lima se ubica en 4.4%, según datos del INEI. Sepa los detalles.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/el-desempleo-en-lima-bajo-a-su-minimo-historico-pero-otro-indicador-preocupa-cual-noticia/",
-        "image": "https://gestion.pe/resizer/v2/NKZ76XQB2JARLAGGF6YS37WEEM.jpg?auth=503905cb36a44ae53602a35b293fa9111bdc54ec3dbd68b7fc65a8db15f6518e&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-26T06:00:00.000Z"
-      },
-      {
-        "title": "¿Qué pide Lima por delivery? El pollo lidera, pero estos platos “dan la pelea”",
-        "summary": "DiDi revela qué comen los limeños por delivery, cuáles son sus horarios favoritos y cómo evolucionan sus preferencias gastronómicas.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/gastronomia-peruana-que-pide-lima-por-delivery-el-pollo-lidera-pero-estos-platos-dan-la-pelea-noticia/",
-        "image": "https://gestion.pe/resizer/v2/KI3AGCHDRVGL5KDD5WPQ3ARQIQ.jpg?auth=43c8d7426dfd4539d3524401fce8d388f5a0d0e23ab2c721c44e9d54076df677&smart=true&width=7904&height=5272",
-        "publishedAt": "2026-10-26T04:45:00.000Z"
-      },
-      {
-        "title": "MEF seguirá con reforma tributaria tras El Niño: ¿qué exoneraciones le parecen correctas?",
-        "summary": "Si bien la atención económica al fenómeno El Niño (FEN) se roba hoy los reflectores por la emergencia, Elmer Cuba, ministro de Economía y Finanzas (MEF), recalcó en diálogo con Gestión que ello no quita que su cartera aún insista con implementar una reforma tributaria profunda en Perú.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/mef-seguira-con-reforma-tributaria-tras-el-nino-que-exoneraciones-le-parecen-correctas-noticia/",
-        "image": "https://gestion.pe/resizer/v2/MHBS6FRF6ZELJITDQIE66H444I.png?auth=2341864ffacac68bb650452e4131580b07358f47dfbb302d69e7ccde1a6fe777&smart=true&width=1672&height=941",
-        "publishedAt": "2026-10-26T04:16:00.000Z"
-      },
-      {
-        "title": "inPERU inicia en Nueva York reuniones con bancos de inversión para atraer capitales",
-        "summary": "Una delegación de más de 80 representantes del sector público y privado peruano llegó a Nueva York para participar en el XIX Roadshow de inPERU, que busca promover oportunidades de inversión en el país, fortalecer la confianza de los mercados internacionales en la economía peruana e impulsar negocios en sectores estrat",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/inperu-inicia-en-nueva-york-reuniones-con-bancos-de-inversion-para-atraer-capitales-noticia/",
-        "image": "https://gestion.pe/resizer/v2/BQYAVS4GQ5A4NFXPISNQ5U3OSU.jpg?auth=dc7c6c56b7d26d0616ac37e1350acb3ef075f84e838175d8034c5f251bd7e3d7&smart=true&width=1200&height=750",
-        "publishedAt": "2026-10-26T04:15:00.000Z"
-      },
-      {
-        "title": "Crehana traerá su negocio de nómina al Perú en 2027 y busca cerrar dos compras este año",
-        "summary": "Crehana ya no busca rondas de inversión ni ser el primer unicornio peruano. ¿Cuál es su nueva apuesta y qué lugar ocupa el Perú en sus planes?",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/crehana-y-su-apuesta-con-la-inteligencia-artificial-y-porque-el-unicornio-no-esta-en-sus-planes-noticia/",
-        "image": "https://gestion.pe/resizer/v2/BZWNGV4OLZCGZGSWANTTLCDMOE.jpg?auth=83cfd4b96f25488dca19b862d2b380bd4cd96dfaac183615450415c15d7e4d25&smart=true&width=1300&height=792",
-        "publishedAt": "2026-10-26T04:03:00.000Z"
-      },
-      {
-        "title": "OpenAI expande su publicidad en ChatGPT en nuevos mercados, incluido Perú",
-        "summary": "La expansión regional forma parte del despliegue de ChatGPT Ads en 26 países adicionales, lo que lleva su disponibilidad a 89 mercados en todo el mundo. Las expectativas son alta, considerando que desde su lanzamiento, hace poco más de ocho meses, más de 100,000 negocios han publicado anuncios en ChatGPT.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/tecnologia/openai-expande-su-publicidad-en-chatgpt-a-14-mercados-en-america-latina-incluido-peru-las-implicancias-noticia/",
-        "image": "https://gestion.pe/resizer/v2/5U47CUXHMVCZTCRSRVYH2VMGWE.jpg?auth=79dccf96f6ff2d86d645c722233f5f3931b2b1b7e595dbaa68bc4790fd0aa5db&smart=true&width=2226&height=1264",
-        "publishedAt": "2026-10-26T03:55:56.000Z"
-      },
-      {
-        "title": "Vivienda, desarrollo urbano y saneamiento en Perú se declaran en emergencia: ¿qué sucederá?",
-        "summary": "Gobierno declara en emergencia el sector Vivienda ante la falta de agua potable y desagüe. Conoce las medidas y los plazos establecidos.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/sector-vivienda-en-emergencia-que-medidas-adoptara-el-gobierno-ante-la-falta-de-agua-y-desague-noticia/",
-        "image": "https://gestion.pe/resizer/v2/NP47Q5KL6FC2JLOENGE42XXO3I.jpg?auth=a021d81e99569d4ac82126a75a52c922a492bd965122eb9008d5555b62b38389&smart=true&width=1200&height=800",
-        "publishedAt": "2026-10-26T01:57:46.000Z"
-      },
       {
         "title": "¿Faltará atún por El Niño? La estrategia de Florida para cerrar un año récord y crecer en 2027",
         "summary": "La marca líder de atún en el Perú crece por encima de su categoría y alista su salida a España. Sus planes para el 2027 y su apuesta por el segmento premium.",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/atun-florida-y-su-plan-para-sortear-el-nino-entrar-al-segmento-premium-y-llegar-a-espana-noticia/",
         "image": "https://gestion.pe/resizer/v2/UZMANE53HBGDDN4OEMMBY432DA.jpeg?auth=7f587a22bfb5b62629ab1b49e07863e72eda365e91163b0e2e4352ac7d306ee0&smart=true&width=6955&height=4637",
-        "publishedAt": "2026-10-26T01:25:15.000Z"
+        "publishedAt": "2026-10-26T12:00:00.000Z"
+      },
+      {
+        "title": "Agro en Perú “temblaría” más allá del verano 2027 por El Niño: esto alerta el Midagri",
+        "summary": "El ministro de Desarrollo Agrario y Riego (Midagri), Marco Vinelli, se presentó en el Congreso de Emprendedores Amazónicos (CEA) y se refirió al impacto que se espera ante el fenómeno de El Niño.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/agro-en-peru-temblaria-mas-alla-del-verano-2027-por-el-nino-esto-alerta-el-midagri-noticia/",
+        "image": "https://gestion.pe/resizer/v2/ISKFRD64ZRHX7NEA2IVYZSWOTQ.jpg?auth=6d235c2c96248feecec6abc057805ebc1cf8628e0573d87aafe9b5b88d1d6693&smart=true&width=1200&height=782",
+        "publishedAt": "2026-10-26T10:39:00.000Z"
+      },
+      {
+        "title": "De Surquillo a San Isidro: Urbana Perú vuelve a Lima Top con S/ 100 millones en terrenos",
+        "summary": "La inmobiliaria Urbana Perú, de capitales colombianos, ya compró cuatro terrenos este año, uno en San Isidro. Su plan apunta a casi duplicar ventas en 2027.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/urbana-peru-uelve-a-san-isidro-alista-s-200-millones-en-terrenos-al-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/JH63D6KGKRGA7KE5XINAKYIOWY.png?auth=90f904c0f29cafe265c1cce8729b1f656faf21647ec748ee7b676872a4107b90&smart=true&width=1200&height=800",
+        "publishedAt": "2026-10-26T10:30:00.000Z"
+      },
+      {
+        "title": "Mercados e indicadores – Hoy lunes 26 de octubre",
+        "summary": "Para tomar las decisiones más acertadas de inversión, manténgase diariamente bien informado sobre el desempeño de las acciones de la plaza bursátil, de la variación de las principales variables del mercado financiero, así como de la evolución de los precios de los commodities. La cotización en el mercado de Londres el ",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/mercados/mercados-e-indicadores-lunes-26-de-octubre-2026-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CKBJCXWQXVCTXHZN5ZAGTM66RE.jpg?auth=c935a9816683dbd514d89311dedaf60293df727aefbd90da56a9830e4813f2eb&smart=true&width=1280&height=720",
+        "publishedAt": "2026-10-26T10:30:00.000Z"
+      },
+      {
+        "title": "Leyes que elevan gasto del Estado: ¿qué dice el MEF sobre las dos que más preocupan?",
+        "summary": "En entrevista con Gestión, Elmer Cuba, ministro del MEF, comentó que la cartera no pretende tocar las puertas del TC de manera directa para revertir las normas que dejó el Congreso pasado.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/leyes-que-elevan-gasto-del-estado-peruano-que-dice-el-mef-sobre-las-dos-que-mas-preocupan-para-el-bolsillo-del-pais-noticia/",
+        "image": "https://gestion.pe/resizer/v2/A6SNDE7WBRAAVKJ723JA6LOJA4.jpg?auth=2c469df50afa8a9b7bc2d62f1c2dbaa2a1d79487432af0af3ed6b5dd56949339&smart=true&width=1280&height=720",
+        "publishedAt": "2026-10-26T10:20:00.000Z"
+      },
+      {
+        "title": "La ‘dulce ambición’ de Colombina en Perú: nuevas categorias para competir con Alicorp y Nestlé",
+        "summary": "La empresa colombiana, dueña de marcas de confitería como Bon Bon Bum y Nucita, crece en el Perú de la mano de los discounters y alista nuevas líneas de alimentos. ¿Qué categorías traerá y qué meta se fija para el 2027?",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/colombina-duena-de-bon-bon-bum-crece-de-la-mano-de-mass-y-prepara-su-salto-a-alimentos-en-el-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/RY7MHY3BUJE37IDL7LTHDDDZ6E.jpg?auth=5a0fa359fb20da67b43fbce127e60ba6b15d96e9ac10d480b65b8d21b5ad9dbf&smart=true&width=780&height=565",
+        "publishedAt": "2026-10-26T10:15:00.000Z"
+      },
+      {
+        "title": "Compañías de seguros peruanas: ¿deben ser menos pero más fuertes según KPMG?",
+        "summary": "La expansión de las fintech y la próxima implementación del open finance en el Perú forman parte de esta transformación del ecosistema financiero y asegurador, dijo a Gestión Pablo Vañó, socio de KPMG España.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/companias-de-seguros-peruanas-deben-ser-menos-pero-mas-fuertes-segun-kpmg-noticia/",
+        "image": "https://gestion.pe/resizer/v2/D4HWA4C27BB3RPC2OVCNYLDBVA.jpg?auth=14f7911838bf801ed6cdbae45ae08802670d30f1fb508f2449a102d4e367e445&smart=true&width=1408&height=768",
+        "publishedAt": "2026-10-26T10:10:00.000Z"
+      },
+      {
+        "title": "¿Cuánto quieren ganar los peruanos? Salario pretendido para jefaturas se dispara",
+        "summary": "Las pretensiones salariales subieron a S/ 3,553 en promedio (S/ bruto, por mes), pero el incremento no fue necesariamente trasversal a todos los niveles.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/management-empleo/sueldos-cuanto-quieren-ganar-los-peruanos-salario-requerido-para-puestos-de-jefe-o-supervisor-se-dispara-noticia/",
+        "image": "https://gestion.pe/resizer/v2/NB35Y4FIHVBMVPDFOK6I5L3LIM.jpg?auth=a078ffbba9d1ffd7a3c4559ec93b31359ff766a36fb9489ef59bc65f237ad15c&smart=true&width=1970&height=1028",
+        "publishedAt": "2026-10-26T10:10:00.000Z"
       }
     ],
     "sociedad": [
@@ -151,9 +151,9 @@
         "title": "Ministro Rafael Belaúnde anuncia una megacárcel modelo Bukele en Perú y asegura que puede estar lista en 10 meses - Infobae",
         "summary": "Ministro Rafael Belaúnde anuncia una megacárcel modelo Bukele en Perú y asegura que puede estar lista en 10 meses &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOLWhRdTBnU2N0N1hmY0E0NTgtcGRvenBtQXB3M1ZzVk5Zb3B6a055cFVWX0daNTVRN0ZZRmdrb05Wb3paV2N5U21JeEdHMjNmaXBrLVpPc0l0Y2R4UEt3bmJFNTFndExFVWRYR3dLS210ZG5mWS1TbE42dXVWazhoU0xjMXBMMHBxMEU2ZzVyY01wMUQwUjJabjc4bHlyWjdmeWMxZ0dPZEFtWlRVNGJVWTVnOEhEdEdQdVZOcWhzbEU5U2s4TVNLOWNScTM4bUtUeW5zZjFHUXZha05NRTNFa1VWdEdKaWktYWtheXdnclBVUdIBjAJBVV95cUxPTk1uWHpyU0U1S1c2Ykk4VW52Y1F0UVI0RHhZeDI3a1pXM1VQbGtnUU5nd0NOREE5TXpHenN0VlNQTFdUV1JmVGNuQVlQRGt6MlJpV3dPcFphSjhoZ2VuT05yM3AxUkZwYUFBZVFPY1lnUHFEWERvbHl3aFhMWW9vdV96cFlxYzNDdTkta18ybFEwdmhhOWN4bUZicnZuNE9wMXN1ZUNtNjRGVmRpTWF1MEVZNGhFeGdqa1ptbHJkblBXbWNmOFB4VWVWMUdEZTVSU2dRSDRDVVFLR2RBS1l0NUZ0ZkR1enVsdlktWFR0MUFpc1dIcWRRWUQyTEJaNHgyMjB0NTRldzRvUkxp?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPTk1uWHpyU0U1S1c2Ykk4VW52Y1F0UVI0RHhZeDI3a1pXM1VQbGtnUU5nd0NOREE5TXpHenN0VlNQTFdUV1JmVGNuQVlQRGt6MlJpV3dPcFphSjhoZ2VuT05yM3AxUkZwYUFBZVFPY1lnUHFEWERvbHl3aFhMWW9vdV96cFlxYzNDdTkta18ybFEwdmhhOWN4bUZicnZuNE9wMXN1ZUNtNjRGVmRpTWF1MEVZNGhFeGdqa1ptbHJkblBXbWNmOFB4VWVWMUdEZTVSU2dRSDRDVVFLR2RBS1l0NUZ0ZkR1enVsdlktWFR0MUFpc1dIcWRRWUQyTEJaNHgyMjB0NTRldzRvUkxp0gGMAkFVX3lxTE9OTW5YenJTRTVLVzZiSThVbnZjUXRRUjREeFl4MjdrWlczVVBsa2dRTmd3Q05EQTlNekd6c3RWU1BMV1RXUmZUY25BWVBEa3oyUmlXd09wWmFKOGhnZW5PTnIzcDFSRnBhQUFlUU9jWWdQcURYRG9seXdoWExZb291X3pwWXFjM0N1OS1rXzJsUTB2aGE5Y3htRmJydm40T3Axc3VlQ202NEZWZGlNYXUwRVk0aEV4Z2prWm1scmRuUFdtY2Y4UHhVZVYxR0RlNVJTZ1FINENVUUtHZEFLWXQ1RnRmRHV6dWx2WS1YVHQxQWlzV0hxZFFZRDJMQlo0eDIyMHQ1NGV3NG9STGk?oc=5",
         "image": "",
-        "publishedAt": "2026-10-26T01:46:00.000Z"
+        "publishedAt": "2026-10-25T22:29:50.000Z"
       },
       {
         "title": "Del encuentro con Francisco a una red internacional para prevenir el narcotráfico - Infobae",
@@ -204,15 +204,23 @@
         "publishedAt": "2026-09-21T07:00:00.000Z"
       },
       {
-        "title": "Voz Universitaria abre un diálogo inédito entre jóvenes y el Congreso de la República en la PUCP - PuntoEdu PUCP",
-        "summary": "Voz Universitaria abre un diálogo inédito entre jóvenes y el Congreso de la República en la PUCP &nbsp;&nbsp; PuntoEdu PUCP",
-        "source": "PuntoEdu PUCP",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXdMd3dYSHNqOVFWMzd5SURHRlVaUHVFQTFYaC1TWEItOG4wRll1Nm94eF9sbEpPcGtkTmJESnowMFB2SzNBZEpXX29LSEFPbHh6ZkdUM25oYWFRdDN3dkt1VUJhOGh4ejZqZHkwdFBTdHJyUmRuUDMtUjNKSVpTSThIRlo5QWluWEJtVi02Qi1IYXBxd1E2VUpLUnJTcjQ2MElRZV9KbkU4dDZqZFhyYS1RNWw4SVVtYW5DWlVkYUJGYjJHOGc?oc=5",
+        "title": "Elecciones en Piura: Pedro Alama plantea destrabar obras, reforzar la salud y mejorar la seguridad - Norte Sostenible",
+        "summary": "Elecciones en Piura: Pedro Alama plantea destrabar obras, reforzar la salud y mejorar la seguridad &nbsp;&nbsp; Norte Sostenible",
+        "source": "Norte Sostenible",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kMkgyOFQ3UzgzQUo2RmJmVnl3TGpOTE45eFFOWVYySkF1NFJKcXptcWtEdXRMdlBPUkNpMFdzT29TUDlpTTdfWFk2Q2lweEowLWFPVE9oS0xuLXZmRjRVT3IyM2RaQ19qOWh6VTRTX3dTNURIOHQwY1Bpb1dmUQ?oc=5",
         "image": "",
-        "publishedAt": "2026-09-11T07:00:00.000Z"
+        "publishedAt": "2026-09-10T07:00:00.000Z"
       }
     ],
     "negocios": [
+      {
+        "title": "Perú Business Fest 2026: Cofide impulsa el ecosistema emprendedor y la inclusión financiera en Lima - Latina Noticias",
+        "summary": "Perú Business Fest 2026: Cofide impulsa el ecosistema emprendedor y la inclusión financiera en Lima &nbsp;&nbsp; Latina Noticias",
+        "source": "Latina Noticias",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVFJjYzhEVGVBdGJDdUdsaGMwa2FmT3RNeDdyanh2UVI5VG5Scko0ay0weGFwY1FnZGpPOGxOYTk5UXRFWHd2ZnRjWmJYOHRBTUdSWjd4TFdZenI4Nkd0ZEYtSW9yM3F3Vi1rRDV5MXZydW1nb2FnTVBac0lqWWRQbkFCX0RXUkczcFNoamtfWXFRVndkWDUwUDFQOHRVUWdDNVJTNGlwb1RSNDR0VUd6d29ScHh3R25MNEZraHl4alUzb0dXVFpxaXNGMThCV2dlQVh2WWpyY0FVbU9wb2c?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-13T21:45:15.000Z"
+      },
       {
         "title": "Perú Business Fest 2026: cómo acceder a financiamiento, asesoría y tecnología para hacer crecer tu negocio - Trome.com",
         "summary": "Perú Business Fest 2026: cómo acceder a financiamiento, asesoría y tecnología para hacer crecer tu negocio &nbsp;&nbsp; Trome.com",
@@ -230,12 +238,20 @@
         "publishedAt": "2026-10-09T07:00:00.000Z"
       },
       {
-        "title": "Emprender no basta: Perú sumó casi 90 mil empresas en tres meses, pero más de 62 mil cesaron actividades - Infobae",
-        "summary": "Emprender no basta: Perú sumó casi 90 mil empresas en tres meses, pero más de 62 mil cesaron actividades &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTUlWSm9PSVNuR2RESE9DV3BpV21DVlhVTHdlQ2dqZHBLR0lOTjlha09aZ0g5MDhGVEl4OE5ZNFVLRmJ4NnBteDluZUFyRVpaX2lZUkdIYlZJTF85M2RKcVNRbUgxVkNidmo3TGQtQ2NYVGRoQW1zektYN291UnA5MW9hdVk2MUhWa29vWjRTT2c2UkpjVUdZN2p4WE5FUnVrYVhTRWlsbFBsQmxkdE9Idl9paDlVYVgtbk1GWk1wWG1FWGwtSTFOaU9ZRENQOVdSRWFZbm1mSGc1Q2fSAfYBQVVfeXFMUERpM0NfRWhYOFAzd3dvN1l1Wjh2RlVjVUR0amNGdGgwVHg5Zk9EMHdWQ0Y3THRxV2Q2blVNcXdab0pMcFdaazdieVVlZmdxTklSaVVnc2d0TnMwbTRiYm4xMlZNV0o5TkFZaC1HOUJfTFpubDRZd1JST2lsSkNyQVZ4dEMycmhQVko0SFV2WmZOa0dTdW55VnAwSHp3d1p5T3FOendOc2FWVWlSeUo1RUNDcG5XY2V1UEtlVUJEQlZuVGYteUQ1LWxYazd2U3R1WnU2TGNfNDZEQnhTRXMtNzhFOHZ2YmFaRFY2eGNDVmpUckp1YkxR?oc=5",
+        "title": "Venta directa en Perú: el modelo que evoluciona y abre nuevas oportunidades para emprender - Business Empresarial",
+        "summary": "Venta directa en Perú: el modelo que evoluciona y abre nuevas oportunidades para emprender &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFkzZzk5UmRVRjdLRTdCcEQtYnNjNGdVUnYtaGttS3NJN1BRbmNSd09nX0NhRWpFalYzTXVDQlA5VkNHX2ZHY1ZJVEh0SnlwdDRRMkhCTmlIdllBVmowX3lHY0lTVVlVVlU5QmYyRkZOLXFMZHVuTm9qOF9kRjBtSm9iRXRlajI2LUtUWG81RzFJYnMzS3NJalBhalJqTjRya1h4R2Z0NVZhWWplQm9scEZjYTBzOVZqY3ZhUXFkWlRwcHdnRnZJbkZpMA?oc=5",
         "image": "",
-        "publishedAt": "2026-09-28T07:00:00.000Z"
+        "publishedAt": "2026-09-22T07:00:00.000Z"
+      },
+      {
+        "title": "El 44,9% de peruanos no emprende por miedo al fracaso: solo dos de cada 10 planean abrir un negocio en los próximos tres años - Infobae",
+        "summary": "El 44,9% de peruanos no emprende por miedo al fracaso: solo dos de cada 10 planean abrir un negocio en los próximos tres años &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNakhVY04xTW1nZFRxMHA4d3F1ZHBObE5qczdBVERnX1FoQ1otSldfaEQwS0hvQ3BRRkszWHZ1TmtheFJHdzVSNzRieFJRTUpwUzhvUjJXYzJUc2EweUt3RlBTOTc5eEhmMGpjTHVqMWRjOFhvODlsX0hWdWt4V0Uza0oySDEwS3lidm9TMFhBcWR2QVRRWVZETUJGb0s1V1FPdExnYmJSOVFiZmN5OVpVdWEyYzY1R0FXa2thSFZYbUxvOF9sSklzdDhQYW9FMEJHNTNXMXIxWlpPb1o2N1JldE5WNTRvdXpxOWY0MExfTWJ0cU1hUGfSAZACQVVfeXFMTXV2X3NuaHg2bm5KcEtseVRyUEpPUnVfTlQ1V0l0M29uY2N3cUdhQ2gyeGIzSGlGNEgtckw0RlZvYVZGaVFpY2szWlFwVTJZaUJjUE13a3p1ZU13WHJEU183aTVYdW1RYWFkXzVmR0dieGNpTGctM09ITW85WkxvQlMtRF9WbXE4YktObWI5RVpwQTU2UkpxSHBtUkg5T2kyOHgxUEh4dXk0OGR3cUhKdGVNYnkteDBQT29DSGhteXNVenB2UHRYWWhTZkgtQ0ZqUEl2SU53blJIeENETE1pOEVUOU1RMzRXd3JUYk1tQ3VuZThRQldtUllVVEFlb0V2VzJTTnFhRmMxZTVsT1Boa24?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-30T07:00:00.000Z"
       },
       {
         "title": "Más de la mitad de las nuevas empresas en Perú son lideradas por mujeres: cómo la IA está impulsando su gestión - Infobae",
@@ -246,39 +262,31 @@
         "publishedAt": "2026-07-21T07:00:00.000Z"
       },
       {
-        "title": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial - Infobae",
-        "summary": "¿Perú, país de emprendedores? 7 de cada 10 lo hace porque no encuentra trabajo, según nuevo informe mundial &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
+        "title": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail - Business Empresarial",
+        "summary": "Emprendedores vendieron más de S/ 36 millones a través de canales físicos y digitales de Intercorp Retail &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOclpab3k5dms5U3JOSXdvUU1pSnFnUnYzWDY3QUtyeU9ob2NhZnI5U092N3QxY19kVUtUX1JPR0tzUElTTXVlMGdUbV9tclI0Y0JQcU11QWhJQkkxalNIR3R3VmdGSHdMY0NJUVE1V09Tel9OX3R5eUVKV3owZnJ2VjJ0VVRlNFowbWZyVUl4SDAwc2lYUzZKcTZtTDhEUlV0LTJMY2hnSGJkQ0c5U1AwRkVGVm5qQXk3XzI0ZEZ3ZTE4RjBtbTcwTG15MVdKX1F3Y3VGby1IdVNrd0pB?oc=5",
         "image": "",
-        "publishedAt": "2026-06-17T07:00:00.000Z"
+        "publishedAt": "2026-07-04T07:00:00.000Z"
       },
       {
-        "title": "Ayudas económicas para pequeñas empresas en el Perú: programas y requisitos - BBVA",
-        "summary": "Ayudas económicas para pequeñas empresas en el Perú: programas y requisitos &nbsp;&nbsp; BBVA",
-        "source": "BBVA",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa3l6cnJyM1o0eTRtWVJGNWlyTFlYOU85ZGZEaXlrSUxJWm43a2RJV3V5MFp6T255S1B3S0lfUEpJQzlhc1JJQUlYSEdZVndZTktoMGphbkhrdHVkLXlNSnlReHB6aWp4SUxJM1J6WmpOZTZRTWZicTBfWC1HT1RSbzkwYUQ4S0Q2blNoUjBxLTljR0VRblRJTVpGWmwxQng2dkpjZDhGNTJRZlljMl9aSA?oc=5",
+        "title": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores - Business Empresarial",
+        "summary": "Whatshome inaugura en Perú su primer Centro de Experiencia para clientes y emprendedores &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVFwSXZrS2lPelhLNUlzRXRMZmM1WDhBVkptN0QyQ2dqSTQteTJaQVpnb2pUQldrSEJ2QjNpQWJZMC1lNmxtSjRQWUQ1N2JxcEhIcGY3M0xUdWdfV0YwYXBONWItcTlMVzlsekVJMW85VVRRN3Bmc2NjR0hlTlVVYmowYkprdDVwSTZ4T25tWnc0RDkzVUhRVUV4U1ZtQW9idWtuX0RqelF1TkpCbWxyQVQtUXJrMlRsLTg5SlFEQ0k5RS02Wkgw?oc=5",
         "image": "",
-        "publishedAt": "2026-06-11T07:00:00.000Z"
-      },
-      {
-        "title": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión - Infobae",
-        "summary": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-10T07:00:00.000Z"
-      },
-      {
-        "title": "¿Tienes un emprendimiento o una MYPE? Accede gratis a asesoría y servicios con Produce Más - El Peruano",
-        "summary": "¿Tienes un emprendimiento o una MYPE? Accede gratis a asesoría y servicios con Produce Más &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVnduV1lWS0NqTEg5X0NZRnNwcHRGT3VJY0pjdjdHVDVjYlRVM092RXZYUjktV3R0aW9tQ3Zwd25acmRkZUNiMlhKUHREazFCYkcwU3RCd01nZ0FvUGtlbGplbkQ0aGEzNjhHQ0RMdUFNRWE2VU5UZ1VQMVVuTFdKNUlXYjhGZ190WGlWSWFxVk10ZVRuYnNCVlE0QklLWUNwTmhjUXVsbUNvY1hmNVRYU2ZnaEk2MXp5S3EzcnV4WjJvZw?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-03T07:00:00.000Z"
+        "publishedAt": "2026-06-26T07:00:00.000Z"
       }
     ],
     "ideas": [
+      {
+        "title": "Chicago: la innovación no necesita un Silicon Valley por César Burga Rivera - Perú 21",
+        "summary": "Chicago: la innovación no necesita un Silicon Valley por César Burga Rivera &nbsp;&nbsp; Perú 21",
+        "source": "Perú 21",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdmFsODNxWC1uTWNEdVpJb3RxQkNaR05meG1DVDViQVJHV1ZNbzRJak9TTmJEOUhQN085djN2c2VuTVJCbHgtZk0yQ0FURjVNNTRFdmJvdTJWNnBSMzU0dy1kNmMtU0toeEFXSE9lb3c3cXZ6WThoaVZ1Uy1LTDlHbHVkcmdPdnEwSmdMaFNkZndUa083Y0txMEUxc0s1MWJFRjZzVi11R0TSAagBQVVfeXFMT3ZhbDgzcVgtbk1jRHVaSW90cUJDWkdOZnhtQ1Q1YkFSR1dWTW80SWpPU05iRDlIUDdPOXYzdnNlbk1SQmx4LWZNMkNBVEY1TTU0RXZib3UyVjZwUjM1NHctZDZjLVNLaHhBV0hPZW93N3F2elk4aGlWdVMtS0w5R2x1ZHJnT3ZxMEpnTGhTZGZ3VGtPN2NLcTBFMXNLNTFiRUY2c1YtdUdE?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-24T23:34:59.000Z"
+      },
       {
         "title": "Escolares crean prototipos con ABB y Junior Achievement Perú - Revista ProActivo",
         "summary": "Escolares crean prototipos con ABB y Junior Achievement Perú &nbsp;&nbsp; Revista ProActivo",
@@ -334,14 +342,6 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRE5fZ3JJNF84QkRUbkg3dVFHbWlZbER1STBIYXZMdlU4VnUtYlo5MnROakM2RE1JNC1CbGswOVUyZG1iUWxDeTAtRzY0aEJLY1d3bFdRMlJ1elE5Qmp1UGx0S2I4LWdlSF9SQi1ZSVFveEJwRE1iakhBVTMtUEthOXZyVU1TdlM1dFNNR3ljb3hrR0pBNWpJWTlHUWFzbU1jNWtXVndDclN0Ul9RNGZwSHh6aVpxWWRtNWRnUk1xMHhIVU10NWx3RTQ3QXVyc3BIYm4zTDJXbl8?oc=5",
         "image": "",
         "publishedAt": "2026-07-30T07:00:00.000Z"
-      },
-      {
-        "title": "Hablar de minería es hablar de futuro - El Peruano",
-        "summary": "Hablar de minería es hablar de futuro &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LWkZBTjRrX1kzZDRoOE4xODA3VzZjbG5JQWFRcmNNTEhNWF9OeEJsMVJNY1daV0ltX2JFVFRVYWV6blIwaVB0SzhTdllGZk45OW1UaGc2NndtZkpRWDVXemJIMjZXLXd1T0pTSGc4WHhPMFVNOG5xdWtvdk12dw?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-20T07:00:00.000Z"
       }
     ],
     "ia": [
@@ -526,20 +526,20 @@
         "publishedAt": "2026-09-17T07:00:00.000Z"
       },
       {
-        "title": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” - Infobae",
-        "summary": "Magaly Medina recuerda su amistad con Andrea Montenegro: “La tomé como una protegida, pero se convirtió en una más de la farándula” &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZFRYakI4T1o2cXhXN2pKSzc2bXBiLVlUZ1R1VFAxSWtDRW10LUl1TnNZaWJLRXpXSlBEZmJzN2lZdGF1SG5NUDBWQXUzZXp3VTlnbXlTODd1clZtRXZQUENXWlRydS0ydkhyWFg3SHJScVdKZ1VlU1l2cWpBM2RJcndGYjNWRVJNblpCa29EOHpXRGlnRVVCb0JOd0s4allqdVVjS0FEMGZXU2c5OXB4S214NUhIb1FFRWlaNVc3OHA0Uk0xcmpVbGFkdW1Kb1laTXZTSzZNY0J1WkFNM3BCRkRqdVNsV185WEdkSGtmMjZhLU00eW9mcExBdkvSAZcCQVVfeXFMTUlaaHZOVlluQ2hONUZIY1Y0bnBXNDVmN2tYNXFvbjNBVFBSR3RRUXNYOWVJdU9oQ0dHbUExc3FwTkEzWFM4UkVMTmFjX1dRdVR4VFRncThQWXFFV2pNUmhGZDBFRHZyUnZXcDVBWnhneG9fSklpMDFScE9nZlNjMzQ4aFI4MnNBTmtiTnM4SkhzRGFWWVZSai1IYnV4QkFsU1FSUGZXU1V4SGNlSjYtNUY1UFNiSXVDWEtEV3VjaXljZDZkdFEyMFJhenFNaXB3VVhRcTNEWTJzU2prTm1MMzkzOTdPT3laQV9sNkItOGRoWFo2SXZzRmZNTU9UYjhuYjd0VnZWTVY5WmNoRktEczI5b3dKbGVr?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-09T07:00:00.000Z"
-      },
-      {
         "title": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula - Infobae",
         "summary": "Choca Mandros, las novedades de Fusión 2026 y por qué ‘Estás en todas’ dejó de priorizar la farándula &nbsp;&nbsp; Infobae",
         "source": "Infobae",
         "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZTlkRllsLWtCdE54Y0p4b1dSZVZvOXQ0dDB4TnhmRWNZNGJlS1U4N0xmT0ZNN3Q3ZWpOYjFpOVVWRDk2ZC1ZTFNGMFlfOENwUnhTQktGdHRvNVNzY2I1T3puZXJiLUlic2huMUI4WENtemEtbTlPa00ycDgyVjZIUzBOTHh1VzRfV2NTUDQyZGNRcENTTGpVT0VzNHRWdG5iN2xnZFMwYWJBbHVuVU8wMVdYMzhaTmRsU1hnTVU5aUhxNWppRHg4eVVtZFpJODlIYmJaUm5WZ2Y3cEFBUTg2QV9ROFBBZGVFY19ncmkwc0lDUzBZT1FFVVhyNXg0YV8xM182a0Vlb9IBogJBVV95cUxPdElaTXBGNnNMeXRNU3BOYk1sWlhjSXJ0OVVrNGVMd1lweXJ1WTBQNWdiQk5adDhDSmJxNERrcEVhYjNKSDBfZUEyLU5fZVVrRFo3UmI0OVBTaGlDTVk5MUo2NmtYdi1sWWxtNHFhaGFwMjlLdmJjQVhzSHhlUHZfS29ZSWFxdld1N3NuU2s5bjJSZ3dyZnVLbEQ0dUhkQUk4eDhLY2lRekhiQndkSXJVNkVMWEh1SWRSTHJfVnJPVlRZd20tYVd1NVpjUGJzZkVmSUE4bFdRN0pYbGFHY3pTRWZnbFZkUjFfMkJOT3ZUYlpjaV9iRmlheTgzX24zZ2dyN1dFVFVhRGZ2aGs0RjljdU52czZseXJ5OUwyRW5JZ0s5Zw?oc=5",
         "image": "",
         "publishedAt": "2026-09-03T07:00:00.000Z"
+      },
+      {
+        "title": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” - Trome.com",
+        "summary": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0ZKVXhOaUNRMF9DMldlUXBKT1hQdXFHRlc0cnpUUWRLdmJFZFFOV3h3eTA5QnlraDZNSGN6bWFjNHJiOVVuSDcxSHlKTWdYY2hSY0VvWDhWb0lJVDhZeWJQb3Q3eWhTdG1qTEJJWVJTdmdCUUU4Q2hpODRQYjQ1NUw5OEJ2aUxNeFRxVHpVZVdMZThWanlrTUE5X2RpSVNMenBEaUdXSzkyczJ0UXVVdGdoc0hXejDSAcsBQVVfeXFMT1NEd25TWlFTdmhlR040dk1hWTkzNzR1eWJGUE12ZU9QQUw4UGU5Y0R1MjVWNE1uRGh3TUJIWTBiaFVOYi1pVlNwZEV2NVRkUzROTDlqLUtIM2liMzcyM1lWdWZBX1RTZUhSLW1xTGprT1pNTHZtRWRLR0s2LXA5dXBwUzBYS0JCTWNNam5IeG1ZTDFKYUhua2xMaWNCajBra0dOWlpTR2h6Yk1rYVp2djU3aGlhN0JodVB4MlhnY0lPdGRmX090c0RZTmM?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-26T07:00:00.000Z"
       }
     ],
     "cultura": [
@@ -558,6 +558,14 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRWt0a1JBTGNRUHdwTDJiR1lkeU9sa0pJSVNrLVhLSGEwZjQ0bUllVXkxdGNCV1h0SFV6b3ZIY0pPWF9wbkZ0UFI0OUJ0V18zdm9qeDB4OTZnN2p2VkIwRE03WENuMFJTdEJmVGhrdWd2eUhwTUpOeVdCSjlQVmxlejlxbEczUHlLRGFlYi1ZaDdpbWR4SGFqMQ?oc=5",
         "image": "",
         "publishedAt": "2026-10-16T07:00:00.000Z"
+      },
+      {
+        "title": "Agenda cultural en Lima 17 al 24 de setiembre: Robbie Williams, 'La Cabaña', 'La mujer de negro' y el Festival de la Luna se imponen - Infobae",
+        "summary": "Agenda cultural en Lima 17 al 24 de setiembre: Robbie Williams, 'La Cabaña', 'La mujer de negro' y el Festival de la Luna se imponen &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOajlpTHJUcnhPRlNzcnlPYV9qbVJJR3pUZ19sN3Z4bWJtZ2xHTkhaWjZPVi14cjE3NHRCQ1ZWeHFWT0w4cnJCbzNwOXFnUWNIOTc5aWpUSy1xdHBZZWVyZzltM1lRTE1ia1kxNVFfRDVDUnFYSGptSjQ1bTdPQ0R3WE15Z1hILVlFV0txS05BaW04dUFqVk05YkVBdmNXTm5xcDFucGk3M29jaF9yUnFxa3cwY0RPUldLaEdxdnNmMVZzR3AxZ2tDU1FPU3o3T3hTcFgxRjVXc1AtQzB6ZWhSUG5jWjAtNng4N0lnQV9JNlZGNlhOcjB5TTlR0gGUAkFVX3lxTE5HY25QVmNINl9QU3c0WHdkTEw5ZWx4SWREOXJ1d3o3N3lORVV0aHZUbnl5X3ZvWEFxbW0ya0tVcmFFejlmWld0NnQ5Qm0xMXE2ckNBVE5FY1VWQ1REdWxlVEtuU0hyNFF1aXIxcnNsa0dfZm9yejM1cXVmcWpYT2hxOTNGeEdGcy1XTThVc1JQdGtFQ0pscHJpSWFqYVFCeVpIbmhodGk1eGtaaGJUODlwTnFMMVhEOHlhU1gzZXgyVF9Wbm10dkxZTERIZXVobnJielZXY3dWVGNoeUh0VnozRDJ0dDdNM0FlOHpYQnhqcG9qN3hDQlB1blN1MFczQ2piQXl2bnI5aDQxYmhFcDIxQTFZZw?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-17T07:00:00.000Z"
       },
       {
         "title": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA - Infobae",
@@ -598,14 +606,6 @@
         "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTTZDSUpUY3djZ1R3U0lOUzRLVVV6OGFpNGZvRm83N0dTV2VlclhHT3U5YlVzX1NLMUFzdUx4cHZrX2FhdGhDeGtYOWZwZ1VyUnZiZEIxRUw5NmhZUG93WHZJNUFHUzRTMHBtVTRQUE91OFprb1NlMXhsbkF5ZHZINWxweFVsVzRJZlpUcFI2Mks5andzSTgwNVhUZXJsaVl5bUhrMXFLX0JMWDgtNEtWbW92YXVBS19kQ1dYS1hqSEt4YVpnaFNqeFVHQzhqbVBIZnFnUEcyOXdqUnFZNllOZG5aVjlsbUtlV21JZ21aTjRkNlNyOEYwZnVhbnhSdDNadVRZbUNvYjPSAaMCQVVfeXFMT0lVVzhVeG9mNGZBb2diQW9Bd1ItVlppWDFzMmt4eDAyY1ZYMjVQUWpzN2hzMGpfR3RqRGhVS3NGZm04ZlBnaGxsUXozY1o1ZlFkWjl3aElHZjAyaWo0SDR1VU5SM09KSm1HWkRTeDlSa1Z5bGVpZS0yN0s2cVYxRFBvUjRwZHV1eHFnbUx0RlRaLUdSU0JPWmdSY0V2SXE0QUpFbGlCa3JtOE0tOHNCMWlsV19wTi1ienIyLTdubnJCUXQ0T2xkSTluVENhVENBeEcwZVM4NlZjS2IwS3NhbTRNQ3d0cFlLd3JWakw2Wl9YbTBkcGowYkVYU2NKbVl4eXdVa2FNZ3FlVVNpejg4T1FQaUxmZlR2Rk9idk9RLVV4cmtB?oc=5",
         "image": "",
         "publishedAt": "2026-08-21T07:00:00.000Z"
-      },
-      {
-        "title": "Agenda cultural en Lima del 13 al 19 de agosto: lo último del Festival de Cine PUCP, ópera y ballet, salsa, teatro y exposiciones gratuitas - Infobae",
-        "summary": "Agenda cultural en Lima del 13 al 19 de agosto: lo último del Festival de Cine PUCP, ópera y ballet, salsa, teatro y exposiciones gratuitas &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVEN4R0wzbk9BVWZvS0JOOS1TcXR1SkFWTzVHbEhDM0hjYzBaX056STYyZkgybnR1VDc0VEl3WWZjeE01ZkEtUGl4OHZoOWxEcDd0WFdGbnJsanpXS0lNOW1rR0ZPcm9YcHVORFYyRE5PYXpiYVpVdWtOeWFPN1Y5QmJUeGMxSVZ5YWZnb3VoT0VyelEtLUtDM0pRam9zOFlIWEpOZUxUUjFBSl9YZXlUSFJqenRuaE5LR0RqRGQyck50NFdxaV9nMi1KSmRFMVFNZ2c0Z0dhUzd2aU4yOGZyb20wNFQzR0pRaUxtWTZsRkMtbTVzNnhnZk13N3FHNlJlbkdmOXByRdIBogJBVV95cUxNSzdWSFA0MnYyRkhjdGRKRnVsUDlOUzZobWxGUGw2T083NG41MUVmX1ZObGpOZjcyLVRQTGg2NV9ObXJhSUtRQ3VVS2wzRUtxaFdocUozSEJPeHZXc2JabzhENS16QXZFYVVmY0ltS3BocnJTZEFLeVhOMHdXUWY4LWpFc3FzRWU3RndwYjZ5d1FLX09vNFBnemc1aldIN0tyUEE3NzJpZmwxOEN2Wmdpc1RBUU5uVXRVRTZNUzdsMW5oVmVJYUdZc0hLdG00S1o0TVB3NzlsSm8xTC1kMmo0SXNRTVhNUzFYaUYzd1dRRi1OVmprRlVMd1IxcG11Z1JqSElMMGc0QkFKQmxOYVlfUUJOd0IzbWtsa3h4RWNVQTFfdw?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-13T07:00:00.000Z"
       }
     ]
   },
