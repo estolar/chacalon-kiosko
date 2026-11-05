@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T18:37:05.134Z",
+  "generatedAt": "2026-11-05T00:21:07.332Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,44 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Futuro de proyecto de amnistía para golpista Castillo en manos del Buen Gobierno y divide a Obras: los escenarios de los votos",
+        "title": "Ministro Sheput sobre críticas por los primeros 100 días del Gobierno de Keiko Fujimori: “Tenemos una batahola en el Congreso de mala fe”",
+        "summary": "Ante las críticas de la oposición en el Congreso, que coincide en que es poco o nada lo que, avanzado el gobierno de Keiko Fujimori en sus 100 primeros días, el ministro de Trabajo y Promoción del Empleo, Juan Sheput, retó a debatir a diputados y senadores y consideró que hay “batahola de mala fe” en el referido poder ",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/ministro-de-trabajo-juan-sheput-sobre-criticas-de-la-oposicion-por-los-100-dias-tenemos-una-batahola-en-el-congreso-de-mala-fe-keiko-fujimori-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/BJXVFMFDLNAJ5FG3R5ZHJCNRX4.jpg?auth=30db245522e905c4d769a5c7a515cee3d91775dc723a0a7064d107acd080c768&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-11-04T23:02:00.000Z"
+      },
+      {
+        "title": "Elecciones a la Alcaldía de Lima 2026: ¿Que pasó con las 3 actas que faltan contabilizar para llegar al 100%?",
+        "summary": "Este miércoles 4 de noviembre se cumple un mes desde que los limeños acudieron a las urnas para elegir al próximo alcalde de Lima. No obstante, el conteo de votos todavía no concluye. Tres actas electorales permanecen pendientes de contabilización, de mesas de sufragio ubicadas en Villa María del Triunfo, Comas y Santa",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/elecciones/elecciones-a-la-alcaldia-de-lima-2026-donde-estan-las-3-actas-faltantes-para-llegar-al-100-onpe-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/6FYWCAIAYFCPZGQVLLRN4E7EZU.jpg?auth=05f4e371749915e920df43a59deee866b42bacba963bd1ad2e56d46fe2caf387&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-11-04T21:41:00.000Z"
+      },
+      {
+        "title": "Renzo Reggiardo cuestiona demora en entrega de resultados al 100% para la Alcaldía de Lima",
+        "summary": "El alcalde de Lima, Renzo Reggiardo, cuestionó a la Oficina Nacional de Procesos Electorales (ONPE) por la demora en proclamar los resultados oficiales al 100 % de las elecciones municipales en la capital y dijo que ha mostrado “poca eficiencia”.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/elecciones/renzo-reggiardo-cuestiona-a-la-onpe-por-demora-en-resultados-para-la-alcaldia-de-lima-ha-mostrado-poca-eficiencia-elecciones-regionales-y-municipales-2026-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/U3HMDFRPRVGPBMDC7SLT4L5I3Y.jpg?auth=a1b981363935e6cf20c4419c09ab78eeaf5b6c1a8698f196f58989f1bd5534a9&smart=true&width=1200&height=800",
+        "publishedAt": "2026-11-04T20:53:54.000Z"
+      },
+      {
+        "title": "Futuro de proyecto de amnistía para Pedro Castillo en manos del Buen Gobierno y divide a Obras: los escenarios de los votos",
         "summary": "",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/proyecto-de-amnistia-para-golpista-castillo-esta-en-manos-de-buen-gobierno-y-divide-a-obras-los-detalles-y-escenarios-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/KUTAM4X3A5GPBCBV7IVQ5PHM3A.jpg?auth=5007cb8e0144f2a9cb7f52060d8b6df8ad6ad3b1197b31a8c864d6019066795c&smart=true&width=1200&height=647",
-        "publishedAt": "2026-11-04T18:22:05.000Z"
+        "publishedAt": "2026-11-04T20:51:00.000Z"
+      },
+      {
+        "title": "Juntos por el Perú presenta proyecto de ley para ampliar el Reinfo hasta el 2028",
+        "summary": "La bancada de Juntos por el Perú (JP), a iniciativa de la diputada Analí Márquez, presentó un proyecto de ley que propone ampliar el Registro Integral de Formalización Minera (Reinfo) hasta el 31 de diciembre del 2028.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/congreso/reinfo-juntos-por-el-peru-presenta-proyecto-de-ley-para-ampliar-formalizacion-minera-hasta-el-2028-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/AQDLHBPAQJCXNLSX4QRE6CNRTY.jpg?auth=bf5d7079e582bc92b546c5d64f33840453bf0ea3bf8c3f0eabe8a0e1e6372fd9&smart=true&width=1200&height=799",
+        "publishedAt": "2026-11-04T20:42:17.000Z"
       },
       {
         "title": "Los 100 días de Keiko Fujimori en el poder: los aciertos y errores del gobierno de Fuerza Popular",
@@ -37,81 +69,25 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/los-100-dias-de-keiko-fujimori-en-el-poder-los-aciertos-y-errores-del-gobierno-de-fuerza-popular-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/SYPKT2MSEJEW3H3JBK24KYRKIM.png?auth=add95c28195dcb8880d0477b9d5c7a715141483f56dd6b1e87ff6c0944c88a7c&smart=true&width=1160&height=660",
-        "publishedAt": "2026-11-04T18:21:39.000Z"
+        "publishedAt": "2026-11-04T20:21:00.000Z"
       },
       {
-        "title": "Elecciones a la Alcaldía de Lima 2026: ¿Dónde están las 3 actas faltantes para llegar al 100% del conteo?",
-        "summary": "Este miércoles 4 de noviembre se cumple un mes desde que los limeños acudieron a las urnas para elegir al próximo alcalde de Lima. No obstante, el conteo de votos todavía no concluye. Tres actas electorales permanecen pendientes de contabilización, de mesas de sufragio ubicadas en Villa María del Triunfo, Comas y Santa",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/elecciones/elecciones-a-la-alcaldia-de-lima-2026-donde-estan-las-3-actas-faltantes-para-llegar-al-100-onpe-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/HLE2FLOR3RCOREFXSVXY4V4HRE.jpeg?auth=f8bf9d441dd1d6190485d6841881b4b737f90c56c77de1c02b3ea45566e52b91&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-04T18:21:16.000Z"
-      },
-      {
-        "title": "Keiko Fujimori confirma construcción de dos penales: “En pocos meses estaremos inaugurando”",
+        "title": "Keiko Fujimori confirma construcción de dos “grandes penales”: “En pocos meses estaremos inaugurando”",
         "summary": "La presidenta Keiko Fujimori confirmó la construcción de dos nuevos penales en el país, tras la entrega de dos predios estatales al Ministerio de Justicia y Derechos Humanos (Minjusdh).",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-confirma-construccion-de-dos-penales-en-pocos-meses-estaremos-inaugurando-inpe-minjusdh-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/QLRH2Q7CYBH3BABVEIN7FWHXSU.jpg?auth=36f6b638e8bb4dd9b3e2cdf894935e61115f6a49ece44c59472c3b55095a83f4&smart=true&width=799&height=533",
         "publishedAt": "2026-11-04T17:00:28.000Z"
-      },
-      {
-        "title": "Diputado Víctor Piñán, de Obras, sobre eventual rechazo a amnistía de Castillo: “Tendríamos que respetar la decisión y autonomía de nuestros senadores”",
-        "summary": "En el podcast “Tenemos Que Hablar” de El Comercio, el diputado Víctor Piñán, vocero de la bancada Obras, consideró que ante un posible rechazo al proyecto de amnistía para el expresidente Pedro Castillo en la cámara alta se debería “respetar” la decisión y autonomía de los senadores de su partido sobre el tema.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/diputado-victor-pinan-de-obras-sobre-eventual-rechazo-a-amnistia-de-pedro-castillo-tendriamos-que-respetar-la-decision-y-autonomia-de-nuestros-senadores-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/GV56TM75ZFE3ZMSCURRPTFJ62Y.jpg?auth=425ba3369da7b182a4fc2771c17a3e3a240dbebbf7e7bca45333d01f19cd26c0&smart=true&width=1144&height=862",
-        "publishedAt": "2026-11-04T16:56:30.000Z"
-      },
-      {
-        "title": "El peligro (tras los 100 días)",
-        "summary": "El Congreso bicameral tiene dos principales encargos antes del cierre del 2026: la ley de presupuesto 2027 y la ley de minería artesanal y de pequeña escala (MAPE). Ambas tienen fechas límite: la presupuestal porque el reglamento establece un plazo hasta el 30 de noviembre y la de minería porque en diciembre vence la v",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/opinion/columnistas/el-peligro-traslos-100-dias-por-martin-hidalgo-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/IL7GLKKYBBFJTPVDBPOACACPOI.jpeg?auth=5eee53a34350cf9492515f8bff49fa34b4fa8a922c7a216230f70c25c425941c&smart=true&width=1200&height=647",
-        "publishedAt": "2026-11-04T16:10:36.000Z"
-      },
-      {
-        "title": "TC analizará el 12 de noviembre demanda del Colegio de Abogados de Loreto contra ampliación del Reinfo",
-        "summary": "El Tribunal Constitucional (TC) programó para el próximo jueves 12 de noviembre la audiencia por la demanda de inconstitucionalidad presentada por el Colegio de Abogados de Loreto (ICAL) contra la ampliación del Registro Integral de Formalización Minera (Reinfo).",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/justicia/reinfo-tribunal-constitucional-programa-para-el-12-de-noviembre-audiencia-por-demanda-del-colegio-de-abogados-de-loreto-contra-ampliacion-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/5J2UYMJVTBEUXESHKNWLZVDPCU.jpg?auth=2208a453ea870f33ed9b0410fb86c410c142d882539f266f99374c7ee9a479b9&smart=true&width=1800&height=1350",
-        "publishedAt": "2026-11-04T15:26:38.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Inician obras en la Torre Trecca de EsSalud: “estará lista en 18 meses”, dice Keiko Fujimori",
-        "summary": "El ministro de Trabajo y Promoción del Empleo, Juan Sheput, explicó que cuando se habla de 18 meses, se refiere a que “en términos coloquiales, se ha colocado la primera piedra”. “Y es consecuencia de la confianza que existe de parte de Auna, que es la empresa que está a cargo de este proyecto”, mencionó.",
+        "title": "Trump tiene “salida” para seguir con aranceles tras perder el Congreso: ¿Perú debe preocuparse?",
+        "summary": "Donald Trump se juega en las elecciones de medio término la facilidad para impulsar sus políticas en lo que le resta al mando de la Casa Blanca. ¿Qué podría cambiar respecto a América Latina? Aquí la respuesta.",
         "source": "Gestión",
-        "url": "https://gestion.pe/peru/politica/inician-obras-y-modernizacion-del-proyecto-en-la-torre-trecca-de-essalud-estara-lista-en-18-meses-dice-keiko-fujimori-noticia/",
-        "image": "https://gestion.pe/resizer/v2/4VCOQSKDUBCVFFNZVAAIDD4HXQ.jpg?auth=3e96f207be4376090d8fa6ebb5e0955907acf0b5a37b2d63e579ee496d0942f6&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-04T17:28:00.000Z"
-      },
-      {
-        "title": "Indecopi: municipalidades no pueden exigir documentos legalizados, ¿en qué casos?",
-        "summary": "Indecopi advierte que exigir documentos legalizados puede ser ilegal. Conozca cuándo las municipalidades deben aceptar copias simples.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/municipalidades-no-pueden-exigir-documentos-legalizados-en-estos-casos-advierte-indecopi-noticia/",
-        "image": "https://gestion.pe/resizer/v2/AHNQZIYPLRCZHEOQCUMYSFPJXA.jpg?auth=fe238dd453050bd1cfd4de1d5fc00169207dc3df128aa07e0e22b5f9cec1bb36&smart=true&width=664&height=380",
-        "publishedAt": "2026-11-04T17:11:09.000Z"
-      },
-      {
-        "title": "Efecto “El Niño” en la industria automotriz: el segmento de vehículos que sería el más afectado",
-        "summary": "Industria automotriz viene a buen ritmo. El mercado atraviesa un año de gran dinamismo, impulsado por la recuperación económica, la confianza del consumidor y mayores facilidades de financiamiento. De acuerdo con cifras de la Asociación Automotriz del Perú (AAP), a septiembre del 2026, la industria creció por encima de",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/fenomeno-el-nino-y-su-impacto-en-el-sector-automotor-segmento-de-vehiculos-pesados-seria-el-mas-afectado-noticia/",
-        "image": "https://gestion.pe/resizer/v2/LAMZHRRVKZBRNCNJWGGVMHUOCU.png?auth=72d5b7838bce7af46d7e3e928eb63936206a4d837c5707dbeb81cd5be9502699&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-11-04T16:50:48.000Z"
-      },
-      {
-        "title": "Frutas y hortalizas: envíos crecieron 15% a agosto por cerca de US$5,000 millones",
-        "summary": "Los principales países de destino de las exportaciones agrarias fueron, Estados Unidos, Holanda, España, Inglaterra, China, Colombia y otros",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/frutas-y-hortalizas-envios-crecieron-15-a-agosto-por-cerca-de-us5000-millones-noticia/",
-        "image": "https://gestion.pe/resizer/v2/NQKA7JUCCJDMPFI3WQTAO6FTAI.jpg?auth=625d39a527067c699715c59d69ee1f5757bf0a808d99b5a7cb5ae1479ddc97f6&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-04T16:29:32.000Z"
+        "url": "https://gestion.pe/economia/donald-trump-tiene-una-salida-para-seguir-con-aranceles-si-pierde-el-congreso-peru-debe-preocuparse-noticia/",
+        "image": "https://gestion.pe/resizer/v2/3QH5GF64SNB6LJWISBQTXMEK4Q.png?auth=668adc9eb2a8d6ab5f3b8eb9648654037b32c4c7a4a5dcc5f184a660526de7c7&smart=true&width=1558&height=1009",
+        "publishedAt": "2026-11-04T23:33:31.000Z"
       },
       {
         "title": "El Niño: estos 11 alimentos de la canasta sobrepasan el precio promedio de últimos 2 años",
@@ -119,31 +95,55 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/el-nino-estos-11-de-15-alimentos-de-la-canasta-sobrepasan-el-precio-promedio-de-ultimos-2-anos-noticia/",
         "image": "https://gestion.pe/resizer/v2/ALIF6PJAHNC75DRUCVQ73BBVAM.jpg?auth=882d9422ceeb6994398aee64a9c4e948ecba72f08bd207c3a96d4d712f87dc4a&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-04T16:20:00.000Z"
+        "publishedAt": "2026-11-04T23:20:22.000Z"
       },
       {
-        "title": "Eólicas y solares: Minem alista propuesta de reglamento, pero esto preocupa a empresarios",
-        "summary": "Según reporte del COES, de enero a septiembre de este año, la producción hidroeléctrica cayó en 2.48% y la eólica retrocedió en 10.93%, mientras que la solar se incrementó en 63.80%.",
+        "title": "Energía nuclear: Estados Unidos busca invertir en data centers, puertos y minas en Perú",
+        "summary": "Perú y EEUU suscribieron ayer un nuevo acuerdo, esta vez, enfocado en energía nuclear. El memorando fue firmado por Thomas DiNanno, Subsecretario de Estado para el Control de Armas y la Seguridad Internacional, quien precisó a Gestión cuáles serán los pasos iniciales y objetivos puntuales del compromiso.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/eolicas-y-solares-minem-alista-propuesta-de-reglamento-para-energias-renovables-pero-esto-preocupa-a-empresarios-en-peru-noticia/",
-        "image": "https://gestion.pe/resizer/v2/QV2TYRBZWFFKBOBW5IDUDNY5VQ.jpg?auth=0b687c075941de6b24eb5e0a3dcface6796ece7841371d53e5bef03780f966c3&smart=true&width=1200&height=733",
-        "publishedAt": "2026-11-04T16:15:00.000Z"
+        "url": "https://gestion.pe/economia/energia-nuclear-estados-unidos-busca-invertir-en-data-centers-puertos-y-minas-en-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/NRPCFSAF55E43M2I7BVVZAIJS4.png?auth=b77beba7c78d60dca9ee4395715f81acd0735060acbc1e79656098fbb05fb015&smart=true&width=1672&height=941",
+        "publishedAt": "2026-11-04T23:19:39.000Z"
       },
       {
-        "title": "Suspensión perfecta por El Niño: ¿qué pasa con los puestos al término de la medida?",
-        "summary": "El Gobierno evalúa aplicar la suspensión perfecta por El Niño. Conoce qué ocurriría con los trabajadores después de 90 días y qué riesgos advierte Horizonte Laboral.",
+        "title": "Claves secretas de clientes bancarios: ¿corren riesgo en finanzas abiertas en Perú?",
+        "summary": "La SBS pre publicó un segundo bloque normativo que plantea reglas comunes de interoperabilidad, seguridad y continuidad operativa bajo el esquema de finanzas abiertas.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/el-nino-y-la-suspension-perfecta-de-labores-que-pasa-con-los-puestos-al-termino-de-la-medida-noticia/",
-        "image": "https://gestion.pe/resizer/v2/KBRMGILJDBDCBINT6GB67AWYGE.jpg?auth=7b222a5c8577f97c494b42e522e81d9cb6f5a5ecbeda36af679f3ff9d92f6ee6&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-04T16:15:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/claves-secretas-de-clientes-bancarios-corren-riesgo-en-finanzas-abiertas-en-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/REI5HYPAS5GP7NQBOCGBDN7T44.jpg?auth=f47113c8a374e9d7c98a27a1d7b0a901926c76876d16f2df728590faba5abe89&smart=true&width=1436&height=736",
+        "publishedAt": "2026-11-04T23:16:00.000Z"
       },
       {
-        "title": "Refinería Talara: Minem descarta concesión, pero sí apuntaría a otra modalidad, ¿cuál es?",
-        "summary": "En tanto, esa planta está en proceso de arranque, tras una nueva paralización que sufrió, esta vez, a raíz del corte del suministro eléctrico en el norte del país",
+        "title": "El nuevo negocio que prepara la Federación Peruana de Vóley con multinacionales",
+        "summary": "La Federación Peruana de Vóley prevé lanzar en los próximos seis meses una nueva línea de negocio con el fin de incrementar los ingresos.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/petroperu-y-refineria-talara-minem-descarta-concesion-pero-si-apuntaria-a-otra-modalidad-cual-es-noticia/",
-        "image": "https://gestion.pe/resizer/v2/3NYR73AHSZAD3BP2TCPM3K6BEM.jpg?auth=3c849d780080f524133c1f142afcc2ae894b12700b5ddb93a8a2ad3451595544&smart=true&width=1800&height=1199",
-        "publishedAt": "2026-11-04T16:14:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/federacion-peruana-de-voley-lanzara-merchandising-oficial-este-ano-con-apoyo-de-multinacionales-noticia/",
+        "image": "https://gestion.pe/resizer/v2/7OPK3TOIOVDEROAWAEMMW4VCEI.jpeg?auth=c0d4cf56fa7237acb4e99f5bca6be03c3bb0c8aed61988e856a1542b1244c37e&smart=true&width=1280&height=853",
+        "publishedAt": "2026-11-04T23:02:00.000Z"
+      },
+      {
+        "title": "TC: audiencia pública sobre Reinfo será el próximo 12 de noviembre",
+        "summary": "El TC realizará el 12 de noviembre una audiencia por la demanda contra la ley que amplió el Reinfo hasta diciembre de 2026. Conoce los detalles.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/mineria-informal-audiencia-publica-sobre-reninfo-seria-el-proximo-12-de-noviembre-segun-tc-noticia/",
+        "image": "https://gestion.pe/resizer/v2/UKOOCEYD2BAFTHFXWSLICNAQAI.png?auth=bf6e9d196d0f3f7d5ff6b4fa0bfc230e01946c7188408350754bdcc32a319f3d&smart=true&width=1672&height=941",
+        "publishedAt": "2026-11-04T23:00:20.000Z"
+      },
+      {
+        "title": "Vehículos eléctricos avanzan, pero sin electrolineras: despliegue se frena, ¿qué pasa?",
+        "summary": "El parque de vehículos electrificados acelera, pero la infraestructura de carga no lo acompaña. De enero a septiembre de 2026, se comercializaron 13,285 unidades en Perú, anotando un crecimiento de 83.1% y alcanzando una participación de 6.1% en el mercado total. De ese volumen, los híbridos enchufables (PHEV) represen",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/vehiculos-electricos-expansion-de-electrolineras-se-frena-en-lima-y-mas-de-50-empresas-proveedoras-miran-potencial-noticia/",
+        "image": "https://gestion.pe/resizer/v2/MNRNWI7F3ZBYLI65MI3BVB3SX4.jpg?auth=94e5d93aea5e4824b69d9637ab8003090d2202511da9ca505bf3620055d8cb25&smart=true&width=1024&height=683",
+        "publishedAt": "2026-11-04T22:45:00.000Z"
+      },
+      {
+        "title": "Bernie Navarro: negociaciones con Perú por aranceles avanzan hacia un “término medio”",
+        "summary": "Las negociaciones sobre los aranceles que aplica Estados Unidos (EE.UU.) al Perú actualmente avanzan positivamente. Así lo aseguró Bernie Navarro, embajador de este país, en declaraciones a Gestión.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/estados-unidos-negociaciones-con-peru-por-aranceles-avanzan-hacia-un-termino-medio-dice-embajador-bernie-navarro-noticia/",
+        "image": "https://gestion.pe/resizer/v2/SGHUNUQ67ZGE7DZVRIELIVV25M.png?auth=8335740fa5d3ed0369c1a68b94b57c4dbf56d6763bef5659c4df46aef8f3e15c&smart=true&width=1672&height=941",
+        "publishedAt": "2026-11-04T22:30:00.000Z"
       }
     ],
     "sociedad": [
@@ -156,12 +156,12 @@
         "publishedAt": "2026-11-04T17:00:18.000Z"
       },
       {
-        "title": "Ustea denuncia que la Junta dará 82 millones más a la Educación concertada mientras Andalucía pierde aulas públicas - lavozdelsur.es",
-        "summary": "Ustea denuncia que la Junta dará 82 millones más a la Educación concertada mientras Andalucía pierde aulas públicas &nbsp;&nbsp; lavozdelsur.es",
-        "source": "lavozdelsur.es",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT0pKOVFoTE9MVEJGbzY3YllNcWp0OGJMS0lvaXgzQ2tzaEgyZmQ2QkpWeHBkaTg3bWFfVTR3VVVPaXNzZHc1Ym5lSmYtVjhWbFF1Wl9YbHhTdGdWZFktcTNXbkRuRFAxTHQ4R3c4ZWtrcW9JdTNNV1NtWmdvZGZPaXc2eEVFeFFWbkFRMUpVSFA3dW5UYUpuNERqTkIxT3IzbktHYnBzN081Z0JoRWhWdTFoR19iU0ZnTDNWaGwxVURreGdnUGE4MFJfcVlVU1hGTGppSEpIelJjYUF5czFBYmlhLVNyOGNObU9fbmlMQU5GZzZ5OUEybDVBcnM?oc=5",
+        "title": "Seguridad, salud y obras públicas serán temas centrales de tercer informe de gobierno: Manolo Jiménez - vanguardia.com.mx",
+        "summary": "Seguridad, salud y obras públicas serán temas centrales de tercer informe de gobierno: Manolo Jiménez &nbsp;&nbsp; vanguardia.com.mx",
+        "source": "vanguardia.com.mx",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQjlnMld5Z05qY1BnZ3NqV0QtMnkzeFduN29sWVNDWTZHeW1YcFBybkZ4QVV3RTRJaTZ0OVlmcnVvaTdMS0RNVW16WW83cERQVVlXTXY3SF9QS3BuSjVhZlBwUy13SzlZdW1STVBmVEtoYlRhOGFtZVBQX0ZFZHluRmpiNzlCTVR4d21tZkRwaUtOaEkyYjFlWTQ2aUNaeXp3cTVFT0IxUFRVMDFDZ2Y1blIwNUQ2dFd1dmw0VFRpNmlSSWlvMWpXdFZLMEtaTlVMWE5USU9lMHhNZVBud0E?oc=5",
         "image": "",
-        "publishedAt": "2026-11-04T09:21:21.000Z"
+        "publishedAt": "2026-11-03T21:41:38.000Z"
       },
       {
         "title": "Maúrtua: visita de León XIV refleja el más alto nivel de las relaciones con la Santa Sede - El Peruano",
@@ -222,14 +222,6 @@
         "publishedAt": "2026-10-30T23:29:46.000Z"
       },
       {
-        "title": "EE.UU. ofrece becas con todos los gastos pagados a emprendedores peruanos: postula hasta el 8 de noviembre - Infobae",
-        "summary": "EE.UU. ofrece becas con todos los gastos pagados a emprendedores peruanos: postula hasta el 8 de noviembre &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZzA2b01wR1BJaTJsN08xN2hEa3JtczFNOUlkQlZPNGZMNW41M3Q3THFJWjlyRlBwMWNna1NHZTg3UnZQTkJnMENlbEpsZkh2Z2VPR0JyWEZfN0JIYnVqLXlSR1BlX1VfeHZsVmc3NU9KN19UT3FERklkelhiOXFYaTBxZ1NTYjB5VmhIc0pmdTZXRnRuTjhfelZ3c1hKX1BqRG9zTTh2WHFBNVppSTEyWGRpZnlqY2I3VUhHR3cxa3o1a1dtMHJFeXVoRC1KaS1vSEMxdGxWQTBPTHY00gH3AUFVX3lxTE51TEhLQzhPbkVxUl9wVldwZXBISkx2aUdac2ZXbUlUUXZ0T2ZOek0tZ0l5WVdlMHgyQjZhTTZOdVFOTW1qLWpmVFVqdmplNUY1NzI4ZktTbDVmNXhzSGNqR0FaZXJOSEg1b211VlNkeThQR2Z6Uk1wcTJZaDRhZTZJckZRdUZhRWdKRjJJeHlmT2E4dUVsRTBWeGI5ajVyVzJDSzB4Ri1oWTBYQ0RGaTB6ZUdHeHJYWFRyNkdMMTdMY3hKa0xwbWFNaUxTdktGbjB4MmpzdnphaHpzelJHc2lPOFd5NXhKdjRla2pfbDh5YnpSMmlNcGM?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-29T00:41:00.000Z"
-      },
-      {
         "title": "Perú emprende, pero le cuesta escalar: por qué pocas empresas logran dar el salto y crecer fuera del país - Infobae",
         "summary": "Perú emprende, pero le cuesta escalar: por qué pocas empresas logran dar el salto y crecer fuera del país &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -276,6 +268,14 @@
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVnduV1lWS0NqTEg5X0NZRnNwcHRGT3VJY0pjdjdHVDVjYlRVM092RXZYUjktV3R0aW9tQ3Zwd25acmRkZUNiMlhKUHREazFCYkcwU3RCd01nZ0FvUGtlbGplbkQ0aGEzNjhHQ0RMdUFNRWE2VU5UZ1VQMVVuTFdKNUlXYjhGZ190WGlWSWFxVk10ZVRuYnNCVlE0QklLWUNwTmhjUXVsbUNvY1hmNVRYU2ZnaEk2MXp5S3EzcnV4WjJvZw?oc=5",
         "image": "",
         "publishedAt": "2026-06-03T07:00:00.000Z"
+      },
+      {
+        "title": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú - Business Empresarial",
+        "summary": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BXc0NCUE53Q1dicXN4ZXFJY3RHNmhlQnh1UG81VHItc29JbE5KdDViOTB1OW5Ja3V4dTdWRWZGLW1zRlVHUVJPNFMyS2h6YzR0THpaeC1EbmdfTlJNQzB4RkJ2VU9wZWN5YjZuelBIUG1DZlVxeURaVTdIdjZTRGdtUmRKaEEzY2dKd2pKS0h2RjUtN1JualhXY3lPbVdIdDlaRFdnRWNUd2p2b1RtTjJQcUx6d21ZNkdkT0dSWU9hV3Nya09UckFMNmFIUQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-05-27T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -486,14 +486,6 @@
         "publishedAt": "2026-10-10T07:00:00.000Z"
       },
       {
-        "title": "Esta es la historia de HYBE, la empresa detrás del fenómeno BTS: De una pequeña agencia en crisis a un imperio global del entretenimiento - El Comercio Perú",
-        "summary": "Esta es la historia de HYBE, la empresa detrás del fenómeno BTS: De una pequeña agencia en crisis a un imperio global del entretenimiento &nbsp;&nbsp; El Comercio Perú",
-        "source": "El Comercio Perú",
-        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxObHM5dTdqa0M4Rk1iQmlZMWpzek5KOWVnVEJPa2dOZ1FHaU9KWTdvMm9lNU54bllKY2YwR2M4Zk1KNEw0ZUZtblJHLWN1LTZGVTlZd1puSUZDTVdfMkhnY0lxT2JzTW82Y2FfRHBxRlFvR09JNnpsQTVfdk8xMnBRdDRvVm9YQlR2X0o2Sm1yWVhJXzJBYXFITWxYQ2VySkp2ZVBicXByTm1CSERNbHFoTDI4TXlPOXI2ODVkZkh2OC13UzVnVExpRi1iRF9vOUtDaktSeHNtODd1ellLc2VtT2FIckJfZUQxcUhKa3lCcmxQQWxJV3pic3NkX21WTXF4Qk5hU1pPVExQdko2ZjdxSGtvcnl1dm91aVFyaGY4aWhLdU3SAbcCQVVfeXFMUDRVV2FEVTFaYm5NXzNualpESEREMEpfU2ZKVEpqN0hvckxNMHVjaXJlaXV3LWtQTWUwOEdhTXNzNVZtQ0xOajhSSEFpaE9HczNPYUQ3QVlaNmNUNjJpeDFaZUk2bXN1bGFlYUs5eVpVcVFDX3BweW1UVlM5WXBUdnQyQXNOY1R2Z01LUnlqYzZRaEptREI3Z3N3Z0hjY0pUcFh1RU95OEhjdGxnUVBpajF2Z3p0TkpIR3BKajY2NV8wcDRvZGxSQmNOZGJaSEJVRlhkaU4wQXNJR2FsOHQ2cllBdUFidkgybW5fNDF5Zy1maXlvWkVDNVV0QUNiUllMcGhNVG1RMmRiTTRSbmhCcFRnWWxmd21aUGo0YnozVmw3ZExHdmxqRkR3a082Zzk4VFU2d2gteUE?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-09T07:00:00.000Z"
-      },
-      {
         "title": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS - Trome.com",
         "summary": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
@@ -540,6 +532,14 @@
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0ZKVXhOaUNRMF9DMldlUXBKT1hQdXFHRlc0cnpUUWRLdmJFZFFOV3h3eTA5QnlraDZNSGN6bWFjNHJiOVVuSDcxSHlKTWdYY2hSY0VvWDhWb0lJVDhZeWJQb3Q3eWhTdG1qTEJJWVJTdmdCUUU4Q2hpODRQYjQ1NUw5OEJ2aUxNeFRxVHpVZVdMZThWanlrTUE5X2RpSVNMenBEaUdXSzkyczJ0UXVVdGdoc0hXejDSAcsBQVVfeXFMT1NEd25TWlFTdmhlR040dk1hWTkzNzR1eWJGUE12ZU9QQUw4UGU5Y0R1MjVWNE1uRGh3TUJIWTBiaFVOYi1pVlNwZEV2NVRkUzROTDlqLUtIM2liMzcyM1lWdWZBX1RTZUhSLW1xTGprT1pNTHZtRWRLR0s2LXA5dXBwUzBYS0JCTWNNam5IeG1ZTDFKYUhua2xMaWNCajBra0dOWlpTR2h6Yk1rYVp2djU3aGlhN0JodVB4MlhnY0lPdGRmX090c0RZTmM?oc=5",
         "image": "",
         "publishedAt": "2026-08-26T07:00:00.000Z"
+      },
+      {
+        "title": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más informació",
+        "summary": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo, recordado personaje de la televisión, tras un accidente de tránsito ocurrido en Cañete. 🌐Más información en: https://www.exitosanoticias.pe &nbsp;&nbsp; Facebook",
+        "source": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdFRtVHlGS2ZUeUplTE1XU09ickJVSlBqR0Z3VGR1cjlrTG5NQlNuOFc5Si1OVXVLclh2T3Z1VEhKV1luN09INHpaRHp6U1Z1a2dRWWVjT1NzcG1pSnN2SVJGTnBvMzhzSXFlWnVFVXhKVmZtSUF1Z19rN1Z4U1BqNU02Qjd2dWRnWnZXemlkZlZHeVMxckFPT3pLeTNUek5uVkZOZUM5ZVVGMXFISG1GUEYxTXB2TW1PaUI1QkJsMFFOQ2g3TF9pOXVBdV9UVk95ZGN2M04tNDlLNFFhc2h0UHAzWU9QaC1mOW1Nb1B0U1RGTEs5Y204ZQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-05T07:00:00.000Z"
       }
     ],
     "cultura": [
