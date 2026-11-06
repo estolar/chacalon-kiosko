@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T03:24:17.597Z",
+  "generatedAt": "2026-11-06T12:02:18.613Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,52 +24,20 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Caso Martín Vizcarra: PJ convoca a audiencia por pedido de tutela de derechos para el 10 de noviembre",
-        "summary": "El Juzgado Supremo de Investigación Preparatoria Nacional convocó para el próximo 10 de noviembre a una audiencia por pedido de tutela de derechos a favor del expresidente Martín Vizcarra (2018-2020), en el marco de la investigación que afronta por el presunto delito de tráfico de influencias.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/justicia/caso-martin-vizcarra-poder-judicial-convoca-a-audiencia-por-pedido-de-tutela-de-derechos-para-el-10-de-noviembre-ministerio-de-cultura-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/OJS3WUPH6JHNXLOJK3QHCD3GGI.jpg?auth=7b0b624abe246494025feb03f94a9b888bd0b330cc1d98d6f0997ff877eb2804&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-06T03:20:19.000Z"
-      },
-      {
-        "title": "EN VIVO: Keiko Fujimori brinda un balance de los primeros 100 días de gestión",
-        "summary": "La presidenta de la República, Keiko Fujimori, presenta esta noche un balance de los primeros 100 días de su gobierno, período marcado por el pedido de facultades al Congreso, las acciones frente al fenómeno de El Niño y los altos índices de criminalidad.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/en-vivo-hoy-keiko-fujimori-presenta-balance-de-los-primeros-100-dias-de-gestion-como-presidenta-del-peru-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/L6EOZJPGSZFAXMSQYQNXCI2FBU.jpg?auth=5adc7dbda1c7ff1887f299619944adb9a00d08d47d6054b4ca9044a54f92a427&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-11-06T03:18:54.000Z"
-      },
-      {
-        "title": "¿Puede ser expulsado pese a su renuncia? Partido del Buen Gobierno abre proceso disciplinario a Jorge Gavidia",
+        "title": "Alcaldía de Lima: ¿qué riesgos implica la demora en la transferencia de gestión?",
         "summary": "",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/partido-de-jorge-nieto-abre-proceso-disciplinario-a-renunciante-jorge-gavidia-puede-ser-expulsado-pese-a-su-renuncia-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/3OIZOGG5QJAWBBNO24SUHBS5MM.jpg?auth=b5d3d8d9839ed965d3e5f490574ec2f4518d227dc0afe9191445fd63cdfeb580&smart=true&width=1200&height=647",
-        "publishedAt": "2026-11-06T02:38:43.000Z"
+        "url": "https://elcomercio.pe/politica/alcaldia-de-lima-cuales-son-los-riesgos-por-la-demora-de-transferencia-de-gestionapuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/CEYCFKJT6RBG7M7AADGZEBVOVI.jpg?auth=5ed20c9432629e698868d95d60ca8c279729650c1e86052caacb1e71868adda6&smart=true&width=1200&height=647",
+        "publishedAt": "2026-11-06T11:00:01.000Z"
       },
       {
-        "title": "Ministros debatirán los primeros tres decretos legislativos: ¿Cuáles serán los alcances?",
-        "summary": "En la próxima sesión del Consejo de Ministros, que se dará entre el jueves y el viernes, se someterá a debate tres decretos legislativos sobre la reforma del sistema penitenciario, en amparo de las facultades que otorgó el Congreso bicameral al gobierno de Keiko Fujimori. Así lo informó el titular de Justicia y Derecho",
+        "title": "Pedro Castillo: ¿Cuáles son los mecanismos con los que busca impunidad en sus procesos?",
+        "summary": "Pese a que la justicia lo halló culpable por conspiración para la rebelión y arrastra otros procesos, ahora se intenta su excarcelación a través de una propuesta Ley de Amnistía desde el Congreso Bicameral.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/ministros-debatiran-los-primeros-tres-decretos-legislativos-cuales-seran-los-alcances-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/YOSTQYSK6JELXJJGMO6LZT2YVE.png?auth=10fa2166d22c5b6efe0deda394e77f7aceb2fa90db9d0d99c30a41da36dc1fea&smart=true&width=1160&height=660",
-        "publishedAt": "2026-11-06T01:28:59.000Z"
-      },
-      {
-        "title": "Rafael López Aliaga: ¿Cómo se han pronunciado los JEE sobre casos de presunta reelección encubierta?",
-        "summary": "Los Jurados Electorales Especiales (JEE) de Áncash, Ica, Junín, La Libertad y Lima Norte proclamaron como regidores a seis candidatos que buscaban volver a ejercer como alcaldes, en casos que involucran una presunta reelección encubierta. En cambio, los JEE de San Martín y Amazonas optaron por proclamarlos como alcalde",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/elecciones/rafael-lopez-aliaga-como-se-han-pronunciado-los-jee-sobre-casos-de-presunta-reeleccion-encubierta-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/56ODRB47R5F35A3YHQ7XXXRAZ4.jpg?auth=83a106f3b0612855f3391fbca41906e71a8fd7d0ccfa9686b88669aeec3cbcd8&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-06T00:33:46.000Z"
-      },
-      {
-        "title": "Luis Galarreta se reunió con el fiscal de la Nación este jueves en sesión de la comisión para la seguridad",
-        "summary": "El presidente del Consejo de Ministros, Luis Galarreta, encabezó este jueves una nueva sesión de la Comisión Multisectorial de Alto Nivel para Recuperar la Seguridad y el Orden Público, que contó con la participación del fiscal de la Nación, Tomás Gálvez.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/luis-galarreta-se-reune-con-el-fiscal-de-la-nacion-este-jueves-en-sesion-de-la-comision-para-la-seguridad-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/J32OUZ2MXFGBZMU5D5HM34L2UA.jpg?auth=7448a77d56ceb6b2092f4d2375f0bb814f3c6bf9de98f05ff932fc4e75c0328b&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-11-05T23:20:42.000Z"
+        "url": "https://elcomercio.pe/politica/pedro-castillo-y-los-mecanismos-que-han-buscado-su-impunidad-y-ahora-buscan-su-excarcelacion-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/6LCC5232TZFM5CWDCAGYKFD6KM.png?auth=33e413133f7b4cfe9e13787611d10dbbc3018e4c259a4b3acc580d7537e8910f&smart=true&width=1200&height=647",
+        "publishedAt": "2026-11-06T11:00:00.000Z"
       },
       {
         "title": "Elecciones para la Alcaldía de Lima: ¿Cuándo se realizarán las audiencias de recuento de votos de las últimas actas?",
@@ -77,76 +45,116 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/en-vivo-elecciones-para-la-alcaldia-de-lima-audiencias-de-recuento-de-votos-de-las-ultimas-actas-jurados-electorales-especiales-jee-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/SW4IXWS6EZGXVDW7FLD7IQFMCI.jpg?auth=c815de95fb4713cb3fa790f659ae45c13daf2d80c39f60c5ea444fa3b5658cc2&smart=true&width=1200&height=647",
-        "publishedAt": "2026-11-05T21:35:05.000Z"
+        "publishedAt": "2026-11-06T10:56:00.000Z"
+      },
+      {
+        "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
+        "summary": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/JMFK2PBLARF2FBGIW2NVED4RLI.jpg?auth=9e304a4d5091a8872c648aefa9b9c09d3bf9fece7d35bebe72483d3eb74ecba2&smart=true&width=700&height=395",
+        "publishedAt": "2026-11-06T05:01:00.000Z"
+      },
+      {
+        "title": "Keiko Fujimori brinda un balance de los primeros 100 días de gestión: “Hemos demostrado que sabemos a dónde vamos”",
+        "summary": "La presidenta de la República, Keiko Fujimori, presenta esta noche un balance de los primeros 100 días de su gobierno, período marcado por el pedido de facultades al Congreso, las acciones frente al fenómeno de El Niño y los altos índices de criminalidad.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/en-vivo-hoy-keiko-fujimori-presenta-balance-de-los-primeros-100-dias-de-gestion-como-presidenta-del-peru-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/L6EOZJPGSZFAXMSQYQNXCI2FBU.jpg?auth=5adc7dbda1c7ff1887f299619944adb9a00d08d47d6054b4ca9044a54f92a427&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-11-06T04:02:07.000Z"
+      },
+      {
+        "title": "Ministros debatirán los primeros tres decretos legislativos: ¿Cuáles serán los alcances?",
+        "summary": "En la próxima sesión del Consejo de Ministros, que se dará entre el jueves y el viernes, se someterá a debate tres decretos legislativos sobre la reforma del sistema penitenciario, en amparo de las facultades que otorgó el Congreso bicameral al gobierno de Keiko Fujimori. Así lo informó el titular de Justicia y Derecho",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/ministros-debatiran-los-primeros-tres-decretos-legislativos-cuales-seran-los-alcances-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/YOSTQYSK6JELXJJGMO6LZT2YVE.png?auth=10fa2166d22c5b6efe0deda394e77f7aceb2fa90db9d0d99c30a41da36dc1fea&smart=true&width=1160&height=660",
+        "publishedAt": "2026-11-06T03:29:00.000Z"
+      },
+      {
+        "title": "Caso Martín Vizcarra: PJ convoca a audiencia por pedido de tutela de derechos para el 10 de noviembre",
+        "summary": "El Juzgado Supremo de Investigación Preparatoria Nacional convocó para el próximo 10 de noviembre a una audiencia por pedido de tutela de derechos a favor del expresidente Martín Vizcarra (2018-2020), en el marco de la investigación que afronta por el presunto delito de tráfico de influencias.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/justicia/caso-martin-vizcarra-poder-judicial-convoca-a-audiencia-por-pedido-de-tutela-de-derechos-para-el-10-de-noviembre-ministerio-de-cultura-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/OJS3WUPH6JHNXLOJK3QHCD3GGI.jpg?auth=7b0b624abe246494025feb03f94a9b888bd0b330cc1d98d6f0997ff877eb2804&smart=true&width=1200&height=800",
+        "publishedAt": "2026-11-06T03:20:19.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Dólar y petróleo caen tras derrota de Trump: ¿tipo de cambio romperá S/ 3.40?",
-        "summary": "Dolar revierte tendencia y petróleo Brent retrocedió 8% a US$ 94 por barril, mientras que el oro y plata rebotaron más 3% y bolsas repuntaron. Cambio en la correlación de fuerzas entre el Gobierno y Congreso de EE.UU. traerá cola.",
+        "title": "Mercados e indicadores – Hoy viernes 6 de noviembre",
+        "summary": "Para tomar las decisiones más acertadas de inversión, manténgase diariamente bien informado sobre el desempeño de las acciones de la plaza bursátil, de la variación de las principales variables del mercado financiero, así como de la evolución de los precios de los commodities.",
         "source": "Gestión",
-        "url": "https://gestion.pe/tu-dinero/dolar-y-petroleo-caen-tras-derrota-de-trump-tipo-de-cambio-rompera-s-340-noticia/",
-        "image": "https://gestion.pe/resizer/v2/HN6KOMLSKVA43NV336JY24F4CA.jpg?auth=3b429fcb5515246930afecdb5915285d73f8682f1e1d6801a6c9ef0f093bbb50&smart=true&width=2400&height=1620",
-        "publishedAt": "2026-11-06T01:38:48.000Z"
+        "url": "https://gestion.pe/economia/mercados/mercados-e-indicadores-hoy-viernes-6-de-noviembre-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CKBJCXWQXVCTXHZN5ZAGTM66RE.jpg?auth=c935a9816683dbd514d89311dedaf60293df727aefbd90da56a9830e4813f2eb&smart=true&width=1280&height=720",
+        "publishedAt": "2026-11-06T11:02:31.000Z"
       },
       {
-        "title": "Tarifas eléctricas para usuarios domiciliarios en el SEIN se reducirán en noviembre",
-        "summary": "Sin embargo, tendrán un incremento las facturas de luz en los sistemas aislados.",
+        "title": "Parejas que compran un departamento y luego se separan: ¿quién se queda con la vivienda?",
+        "summary": "¿Qué pasa con un departamento comprado en pareja si la relación termina? Conoce quién conserva la propiedad, qué sucede con la hipoteca y cuándo puede venderse.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/tarifas-electricas-para-usuarios-domiciliarios-se-reduciran-en-noviembre-noticia/",
-        "image": "https://gestion.pe/resizer/v2/BHGP4FAJNRA65KE42MVYBTU4FA.jpg?auth=cee22e432ac727e33828e4f450e8ed4b0b129a5851fd2918249fb48e0bb3e733&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-06T01:24:09.000Z"
+        "url": "https://gestion.pe/economia/parejas-que-compran-un-departamento-y-luego-se-separan-quien-se-queda-con-la-vivienda-noticia/",
+        "image": "https://gestion.pe/resizer/v2/XDEQF6BI4VE3HIWO5Q6D44AW3E.jpeg?auth=ef9addce81dfee12a699294aef3b9de3b67181abd731d14f622d4459ba75c0c0&smart=true&width=1600&height=901",
+        "publishedAt": "2026-11-06T10:52:00.000Z"
       },
       {
-        "title": "Se facilitaría permisos a Reinfo para explotar, pero gran minería enfrentaría este riesgo",
-        "summary": "Una nueva disposición del Minem facilitará el camino para que estos mineros en formalización aceleren su obtención de permisos. Pero quienes se asocien con ellos deberán tomar mayores precauciones por este cambio regulatorio. Aquí los detalles.",
+        "title": "El Niño pone en riesgo a 58 lotes petroleros, ¿Perú debería preocuparse por su crudo?",
+        "summary": "OEFA advierte que el FEN puede afectar más de 2,300 instalaciones del sector hidrocarburos, en su mayor parte grifos, gasoductos, plantas envasadoras, el oleoducto, entre otros.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/oro-se-facilitaria-permisos-a-reinfo-para-explotar-pero-gran-mineria-enfrentaria-este-riesgo-en-peru-noticia/",
-        "image": "https://gestion.pe/resizer/v2/UKOOCEYD2BAFTHFXWSLICNAQAI.png?auth=bf6e9d196d0f3f7d5ff6b4fa0bfc230e01946c7188408350754bdcc32a319f3d&smart=true&width=1672&height=941",
-        "publishedAt": "2026-11-06T01:20:00.000Z"
+        "url": "https://gestion.pe/economia/el-nino-pone-en-riesgo-a-58-lotes-petroleros-peru-deberia-preocuparse-por-su-crudo-este-es-el-plan-para-evitar-golpe-noticia/",
+        "image": "https://gestion.pe/resizer/v2/AMAIQJLCEBC6JPXJPPZLINWUJQ.jpg?auth=54ee7ed15aabb9a831242295e4c89d7611645a38a3f34bb9ac2fb22924845488&smart=true&width=1800&height=1200",
+        "publishedAt": "2026-11-06T10:47:00.000Z"
       },
       {
-        "title": "Gamarra busca aliviar pérdidas por el FEN con la visita del papa y el efecto BTS",
-        "summary": "Para Gamarra, la llegada del papa León XIV al Perú representa una oportunidad comercial en un año marcado por las pérdidas que, según sus empresarios, ha dejado el fenómeno El Niño (FEN). El emporio textil estima que la campaña vinculada a la visita del pontífice podría generar un impacto de alrededor de S/ 5 millones,",
+        "title": "Más allá de Torre Trecca: EsSalud estudia nuevas alianzas con privados en hospitales, ¿cómo?",
+        "summary": "EsSalud reveló la intención de la gestión de Zulema Tomás de sumar más proyectos de Asociaciones Público-Privadas (APP) a su cartera, tras reactivar la esperada Torre Trecca.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/gamarra-busca-aliviar-perdidas-por-el-fenomeno-el-nino-con-la-visita-del-papa-leon-xiv-y-el-efecto-bts-noticia/",
-        "image": "https://gestion.pe/resizer/v2/R24X2MVEIREPPFTXU45K4L2YTA.jpg?auth=1160c8783269bfa8d7fbd436bcaae68143d6cbe069cc4d47c5ac920dfc8f30b6&smart=true&width=1376&height=768",
-        "publishedAt": "2026-11-06T00:40:43.000Z"
+        "url": "https://gestion.pe/economia/essalud-mas-alla-de-torre-trecca-seguro-social-de-salud-estudia-nuevas-alianzas-con-privados-en-hospitales-como-noticia/",
+        "image": "https://gestion.pe/resizer/v2/7YNXKMX4HVACBJMDWKOEOKTXQ4.png?auth=d3798278c49fafbc061f242ee72ecc128dacbc9349c1c64462c42ce956ce2a89&smart=true&width=1672&height=941",
+        "publishedAt": "2026-11-06T10:26:00.000Z"
       },
       {
-        "title": "Holcim lanza OPA para adquirir el 49.99% de Cementos Pacasmayo: ¿cuánto ofrece por acción?",
-        "summary": "La multinacional suiza Holcim, a través de su subsidiaria Inversiones ASPI, busca adquirir las 211.8 millones de acciones que aún no controla en la cementera peruana. La oferta contempla un pago de S/ 8.93 por acción, con un desembolso potencial de S/ 1,892 millones.",
+        "title": "Empresa española de explosivos afina su estrategia en el sur con nueva planta en La Joya",
+        "summary": "El crecimiento de la minería en el sur del país exige una cadena de suministro altamente especializada, donde el abastecimiento de explosivos y emulsiones juega un papel crítico para sostener las operaciones tanto a tajo abierto como subterráneas. En ese escenario, la compañía española MAXAM, fabricante de explosivos y",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/cementos-pacasmayo-holcim-lanza-opa-para-comprar-las-acciones-que-aun-no-controla-cual-es-el-precio-ofrecido-noticia/",
-        "image": "https://gestion.pe/resizer/v2/CI3ZG6MVLZEIDG5SLPYGOS4OEY.jpg?auth=5c6facbe7592625078f2b5fd4d11bd5749b6404fb294128662fbd5a129219b5a&smart=true&width=2000&height=1335",
-        "publishedAt": "2026-11-06T00:15:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/espanola-de-explosivos-maxam-afina-su-estrategia-en-el-sur-con-nueva-planta-en-la-joya-arequipa-y-busca-acercarse-a-tia-maria-noticia/",
+        "image": "https://gestion.pe/resizer/v2/SCWD2FGSP5A33BE5SWCJT6EV3Y.jpeg?auth=d1c634bb2cf37b4e0e1c8ca6c8a9ed59375d036bcd7930ea0870cd46ca24e4c7&smart=true&width=1600&height=1200",
+        "publishedAt": "2026-11-06T10:15:00.000Z"
       },
       {
-        "title": "Austral Group eleva en 12.5% la capacidad de su planta de harina de pescado en Áncash",
-        "summary": "Austral Group elevó en 12.5% la capacidad instalada de su planta de harina de pescado de alto contenido proteínico, ubicada en Coishco, provincia del Santa, en Áncash. La modificación fue aprobada por el Ministerio de la Producción (Produce), que autorizó incrementar la capacidad de procesamiento de la instalación de 1",
+        "title": "Lima corporativa sin espacio: la escasez de oficinas impulsa alza en renta de alquileres",
+        "summary": "Encontrar una gran oficina en Lima ha vuelto a ser una carrera contra el reloj. Tras años de sobreoferta en los que las empresas elegían y exigían descuentos, la nula entrega de nuevos edificios aceleró la ocupación de espacios, llevando la vacancia general al 6.9% al cierre del tercer trimestre de 2026. En el segmento",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/austral-group-eleva-en-125-la-capacidad-de-su-planta-de-harina-de-pescado-en-coishco-ancash-noticia/",
-        "image": "https://gestion.pe/resizer/v2/LPIFRBJKNJDQVFGYAZSCJSQ77A.jpg?auth=040487551bd74ee608e084b342e396d22e4cfd9b3fb9e4793b6b80e724a91a52&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-06T00:00:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/lima-corporativa-sin-espacio-la-escasez-de-oficinas-en-distritos-como-san-isdro-miraflores-magdalena-y-san-borja-impulsa-alza-en-renta-de-alquileres-noticia/",
+        "image": "https://gestion.pe/resizer/v2/FIDHXKZ2NRGB3EM5TH766JOH4U.jpg?auth=4e6783970223b52829a17204fc643bd827030776947cbd431b1254644980b39e&smart=true&width=980&height=528",
+        "publishedAt": "2026-11-06T10:15:00.000Z"
       },
       {
-        "title": "UN gana peso en EE.UU.: con planta en Norteamérica apuntará a Brasil, Argentina y Colombia",
-        "summary": "El consumo de vitaminas y suplementos en el Perú dejó de asociarse solo a fines estéticos y se consolidó como parte de rutinas preventivas de bienestar, energía y rendimiento. Según un estudio de Insight Hunting de Impulso elaborado para Vitaldin, las búsquedas y conversaciones digitales sobre vitaminas en Lima crecier",
+        "title": "Cencosud y los planes para Wong y Metro y el avance de su canal digital",
+        "summary": "El negocio de supermercados de Cencosud en Perú viene profundizando su estrategia comercial a través de dos frentes: el crecimiento de sus canales digitales y la ampliación de su presencia física. Durante el tercer trimestre de 2026, las ventas online avanzaron 20.1% interanual, mientras que los suscriptores de Wong Pr",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/los-nuevos-suplementos-corporacion-un-se-expande-mas-alla-del-gimnasio-y-prepara-incursion-en-eeuu-noticia/",
-        "image": "https://gestion.pe/resizer/v2/RE3IPRKMCVDHBH5ADJEXFAVB2U.png?auth=cc27e2862e16b5cba702d1a178c305872969f8372ecfc9a4cd29cd22d5448ff7&smart=true&width=1376&height=768",
-        "publishedAt": "2026-11-05T23:45:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/chilena-cencosud-avanza-en-peru-gracias-a-su-canal-digital-que-planes-tiene-para-wong-y-metro-noticia/",
+        "image": "https://gestion.pe/resizer/v2/UCD4R3H3VJC2NOWTCNLITJLD24.png?auth=eb16e8f5270fcebeb10640bb44765bda4b94b37c8a580c8c74fbed1eb70a4806&smart=true&width=1502&height=1117",
+        "publishedAt": "2026-11-06T10:15:00.000Z"
       },
       {
-        "title": "TC admite a trámite demanda contra ley que da pensión de S/ 3,500 a profesores",
-        "summary": "TC admite a trámite demanda contra ley que otorga pensión de S/3,500 a profesores jubilados y cesantes.",
+        "title": "Papa León XIV visitará 5 regiones del Perú: los retos que van más allá del crecimiento",
+        "summary": "Este “tour” del Papa permite que estas zonas salten a la palestra, no solo por una eventual disparada del turismo religioso, por ejemplo, sino porque permite poner los reflectores sobre los retos que las presionan negativamente, sobre todo, a nivel de desarrollo humano.",
         "source": "Gestión",
-        "url": "https://gestion.pe/peru/politica/tc-admite-a-tramite-demanda-contra-ley-que-otorgar-pension-de-s3300-a-docentes-cesantes-y-jubilados-noticia/",
-        "image": "https://gestion.pe/resizer/v2/ETR7MXMG45CCHEUI3KVPUDNXUI.jpg?auth=c002fcb4f8daa7e919434e552e064534229ef73efa329442f121e90ed5f3f8c8&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-05T22:30:00.000Z"
+        "url": "https://gestion.pe/economia/papa-leon-xiv-visitara-5-regiones-del-peru-los-retos-que-van-mas-alla-del-crecimiento-noticia/",
+        "image": "https://gestion.pe/resizer/v2/T26MVTJEBFAJFKPM7KVZQOVD3A.png?auth=a22ed5987d7a626f01be1560d04689459bab2150f857fc4a9234360b052ea3ff&smart=true&width=1672&height=941",
+        "publishedAt": "2026-11-06T10:09:00.000Z"
       }
     ],
     "sociedad": [
+      {
+        "title": "Seguridad, El Niño y obras: los tres frentes con los que el Gobierno peruano busca marcar sus primeros 100 días - ICNDiario",
+        "summary": "Seguridad, El Niño y obras: los tres frentes con los que el Gobierno peruano busca marcar sus primeros 100 días &nbsp;&nbsp; ICNDiario",
+        "source": "ICNDiario",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZWxEMENnQUlTOGFjcDJNTGdqQ3lVMDFTS1lNcVpBazRiZXotYjlMd3h0RjdHNm5WX2pxUjRyVEd2M2tucnZ5S0F5dDNTa051ZTlleWtIQVpJZFdETG1HTXVyS1pxUVB6bERzWnh0V05sRzd3dkplekZrSEFhOXc3QVRzUHdPQjRnNFpEUW9mdUhNTllvMHpJLVRsdlJhSVdPQ2pzSFljcjhZai1sNmxucjlGZ2Z2djI4VXprZDlCTXZ4bHExQVM3MTlTZUNxRVREZWEwNW9RWQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-06T11:15:48.000Z"
+      },
       {
         "title": "EDICIÓN JUEVES 05 DE NOVIEMBRE 2026 - DIARIO ASI",
         "summary": "EDICIÓN JUEVES 05 DE NOVIEMBRE 2026 &nbsp;&nbsp; DIARIO ASI",
@@ -180,22 +188,6 @@
         "publishedAt": "2026-11-04T18:31:00.000Z"
       },
       {
-        "title": "Ley de IA en Perú: cinco claves para empresas - La República",
-        "summary": "Ley de IA en Perú: cinco claves para empresas &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ25GSGJZSjRxRklEb2c4ZGFsM3VULVpHNHpsRVZYNThQYjB6OE1IZDdWRXJ3UzFVVzBYM2JzRjkzdVNwM244ZE5OeW5TVDlxMktmdGd4NDlkWmE4RmJfNEw2Sk91ajVnLVdVM3RYdUE2VVZIdGRVanQ3XzM5ZzVOUVI5SGM2OURPOHMxTnV1a0ZvRUlCRk9Db3R5c1FkRzNibGpvbzlPWkU3TURaV2VqenJETHVFZVJBdW10bjdSdTBGbmtVSW1sYjRkcVhCbk1FNmRkZy0tWng3TmtVbkxIRjlIdVN5d25DUWVXVDgxQm1sZXJNdjIzM2cxV08?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-04T17:00:18.000Z"
-      },
-      {
-        "title": "Seguridad, salud y obras públicas serán temas centrales de tercer informe de gobierno: Manolo Jiménez - vanguardia.com.mx",
-        "summary": "Seguridad, salud y obras públicas serán temas centrales de tercer informe de gobierno: Manolo Jiménez &nbsp;&nbsp; vanguardia.com.mx",
-        "source": "vanguardia.com.mx",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQjlnMld5Z05qY1BnZ3NqV0QtMnkzeFduN29sWVNDWTZHeW1YcFBybkZ4QVV3RTRJaTZ0OVlmcnVvaTdMS0RNVW16WW83cERQVVlXTXY3SF9QS3BuSjVhZlBwUy13SzlZdW1STVBmVEtoYlRhOGFtZVBQX0ZFZHluRmpiNzlCTVR4d21tZkRwaUtOaEkyYjFlWTQ2aUNaeXp3cTVFT0IxUFRVMDFDZ2Y1blIwNUQ2dFd1dmw0VFRpNmlSSWlvMWpXdFZLMEtaTlVMWE5USU9lMHhNZVBud0E?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-03T21:41:38.000Z"
-      },
-      {
         "title": "Progreso social en Perú: educación y conectividad avanzan, pero salud y derechos retroceden - La República",
         "summary": "Progreso social en Perú: educación y conectividad avanzan, pero salud y derechos retroceden &nbsp;&nbsp; La República",
         "source": "La República",
@@ -210,6 +202,14 @@
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vQlNNZEpOcjR1MzRSVm9tY1lEZjJNZmgxZDA4TDhsbVoxX0piTU5BRHF2QUZ4QkNFNEcyblk4c2NWTmZYZV9mUnJtVTBLTEZEaXd3ZEM0VmJjdW96WFZjNUtWeWJDUQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-13T07:00:00.000Z"
+      },
+      {
+        "title": "Empresas de IA en salud, educación y justicia deben adecuarse al reglamento hasta el 10 de setiembre - El Peruano",
+        "summary": "Empresas de IA en salud, educación y justicia deben adecuarse al reglamento hasta el 10 de setiembre &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS1o5c2NlVnJ6NHNsZ3A1TUNRMDJMcXllRW1JMU9fX3d1cXhTVFh6M3JidVNnVHNQQUJRMWpNTkp4RHY1U1U5dDF3RmtQRGY2bW9Ub3RNVERISG1wd1NjYThnVHpvaHFxc0hTS2JPdVpOU1lRVkZaY3ZIa3ByTi1HY18yZ0s2QXpYcEZFczR4eG1pRnhyWjJ3Nmp2Y1liVGItSWNQSll2UVZiZUViUHZHOTV2TXhmdXY2RkhGdU82NVFSeFJQYVdUajBRcXpINmtH?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-31T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -280,12 +280,12 @@
     ],
     "ideas": [
       {
-        "title": "Noruega y Perú exploran inversiones y tecnología para la minería - Rumbo Minero",
-        "summary": "Noruega y Perú exploran inversiones y tecnología para la minería &nbsp;&nbsp; Rumbo Minero",
-        "source": "Rumbo Minero",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0ZKM3Zyc29QUGx6Q2dKVDJja3RsQlgyUUp2ZlJBdWRfVUJ0aE9mZnJ5eFhMSUU5NWU4WUYzaEp2NGp3blgxVm53TlVWRENSVVNzalZCSHlKTEMzcS0weVBhOU4tS1NOeENVUGtBcFlrYTNQYXhrcmY1cTdlN1FMNU41WFpXWTV5d091MENfWXV1U09oTU9YMzVpdEh3RlNucDBrRkFtS29jN3paamNKeHlkQjVOZw?oc=5",
+        "title": "Imprime lo que imaginas: llega una nueva experiencia que transforma ideas en creaciones tangibles - Serperuano",
+        "summary": "Imprime lo que imaginas: llega una nueva experiencia que transforma ideas en creaciones tangibles &nbsp;&nbsp; Serperuano",
+        "source": "Serperuano",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMkZZMk9CNXFMVFBnN1Q5OFJ3c3dOazQtOW5lTm1wSHlfVUZBMkltdHlmc2hsX0R1NFNzMkI4NkZnc0FRS0hWc1F1X0ZnTGN0NEhCdFVRUUNGa3ZsZzVlRlB0a1FNS18weXp3UEJDYVQyRFdwM3M5ODFpVFVLVF9rV21CcjY5M0wyNmJ1eHQtOGtVN1VwNFkwQUlhTkZ1VzktSVRTQWVOVW16c0N5czdsUG15ZGIxNXIzVkZtT2tvWVNhOTVwVHdV?oc=5",
         "image": "",
-        "publishedAt": "2026-10-25T07:00:00.000Z"
+        "publishedAt": "2026-11-02T22:57:24.000Z"
       },
       {
         "title": "I Convención Nacional de Innovación Pública y Transformación Digital - Plataforma del Estado Peruano — gob.pe",
@@ -302,14 +302,6 @@
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnNuSHpJYVRQODAwb1V3YnlZbXJjY1RuTkdxVXIwWWVZUHN6LXlRZUNIeTduSEZoZXBiNW16V2t3YkQyNmlmbjVLRWJTQk9tQzBGRzk0ZGRpT1QxZ2E5UC1FZi1KNjJhRHFsbmhua3pjY0R5VnpYUnVkbmJ3MlVsQWFxQWhFNUhUY3NFc2JZMml4SnZKNllqaFRwd2dBYjUyX2dNbEhMa19lYkU1X1hDRUNtMVR0bTNBT0pmeGsteHBCcU5rb3hwQWhvaDNjZw?oc=5",
         "image": "",
         "publishedAt": "2026-10-15T07:00:00.000Z"
-      },
-      {
-        "title": "Fiscalía impulsa innovación tecnológica - El Peruano",
-        "summary": "Fiscalía impulsa innovación tecnológica &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbjZjRkNqZS1ia253Y1RhckVWdy10dEtuWHVaQTY0aktDSHJoVlFKTHdrVEhFMzI1ekQydC1EWFRmRWZNTzZmZVAyeHBWWGxXSUlvb0JQcWRZR1BoazN0RzNfUC0zcThmcVVsUG9DQ090WUU1bThXWUxWWWgzSnJBMw?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-26T07:00:00.000Z"
       },
       {
         "title": "Innovación en Perú: solo 49 % lleva sus ideas a la práctica pese a su alto potencial, de acuerdo con encuesta - Infobae",
@@ -342,9 +334,25 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNjM4OFhUMjFEZ0xoUW1Cc2ItSHI1dERZVTV5bjRCdUdSeVRuX1pLaGtnamZUUFVoUUotRkwwU05mVmFTS0RMcU5vbFR0WTIxLWdNVWhOQ21nWk5KcU5kV2JYR05IeHYweV9JMlV3MmJCbVBBOWVUYk1NdVVFV0w4emUzYjI2b2VuWHNCa2pMUVM2QQ?oc=5",
         "image": "",
         "publishedAt": "2026-06-17T07:00:00.000Z"
+      },
+      {
+        "title": "Perú retrocede en innovación: más allá del fintech, ¿dónde están las oportunidades? - Gestión",
+        "summary": "Perú retrocede en innovación: más allá del fintech, ¿dónde están las oportunidades? &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUTg0TnlVV3lUYTdjLVp2aVdLR3lmU0l0VnBuTUlYRUxtbE43SHplMGgyc3MwUTl5RnBGeE1pR0tkak1tVVVXakhuV0xPaHh5TmVZR283NkNuZUpTY1FxanJELTJLckdKSVlJOTF3QTBhNnBibnlldjQyQkU3c2JYeDBKcXEwaTJxQklVa2J0Y1Q1T0JRcEVrTlZGV1ZTMWtZNHlEbmJtSTVNUHg1eGRCZjhB?oc=5",
+        "image": "",
+        "publishedAt": "2026-05-01T07:00:00.000Z"
       }
     ],
     "ia": [
+      {
+        "title": "Google reconoce a la UCV como universidad referente en uso de Gemini e inteligencia artificial en Perú - Mercado Negro",
+        "summary": "Google reconoce a la UCV como universidad referente en uso de Gemini e inteligencia artificial en Perú &nbsp;&nbsp; Mercado Negro",
+        "source": "Mercado Negro",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNzNJYklqYUgzaURYTFNJMmlaSGxoY3pXMjFyeDBzeDhuYlR6TzNBMjdVRktVOWlxdG5DNXJTX29YVnNEdVlzN3RwUzFfd0ZSSncyb1FSeEQ5ci1JaC10TEVNRy04clItbXlJYk5BZ1pfeHN0YklLRW56aGREaHhNT1JWVzA2OFpJN0xxU2c3d2FkVUNzVnBHb1VuTHM4QjZNVnpFUFBvandiaXdNNzFiX2JCTnkwNjlFWHJHSnRVU1Y4ZG9ZZHhDTUhWSUF1WVRDOUpUOUJUeVY?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-05T21:51:31.000Z"
+      },
       {
         "title": "EY Perú: Las lecciones de las empresas de EE.UU. para evitar errores al adoptar IA - Gestión",
         "summary": "EY Perú: Las lecciones de las empresas de EE.UU. para evitar errores al adoptar IA &nbsp;&nbsp; Gestión",
@@ -360,14 +368,6 @@
         "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQY2IyNUxraHVzU09jVGp4WnNaUURmdUluaVgya2szVjV0UVFRVE9rRnlHelVyUmRYQmlqbGJxN05IR3VBcURhLVBtd0pIekY1Zmp6QmZfdVNjdjhOeVRpaTcyN2IxRnpEUFo1QnhCLXVBVVd5ZVlKTm9iYmJnOV9Nbk5LOElQUWJ6NHZrb0paNWo2c2ZQUUxtOGdpeFVmbzhGVlg4VlByQVhkTmZVYzRVYlU3d2NDZkpFVndCbE1wRnRLYkMzVjNFQ0ZZVW5ra2ZEZmlyckVMSzU2QkNZZmlIRWt1Wmt3RzVIU3Fsa25JVFNGV3JxTzY0VlNR?oc=5",
         "image": "",
         "publishedAt": "2026-11-05T00:49:56.000Z"
-      },
-      {
-        "title": "Ley de IA en Perú: cinco claves para empresas - La República",
-        "summary": "Ley de IA en Perú: cinco claves para empresas &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ25GSGJZSjRxRklEb2c4ZGFsM3VULVpHNHpsRVZYNThQYjB6OE1IZDdWRXJ3UzFVVzBYM2JzRjkzdVNwM244ZE5OeW5TVDlxMktmdGd4NDlkWmE4RmJfNEw2Sk91ajVnLVdVM3RYdUE2VVZIdGRVanQ3XzM5ZzVOUVI5SGM2OURPOHMxTnV1a0ZvRUlCRk9Db3R5c1FkRzNibGpvbzlPWkU3TURaV2VqenJETHVFZVJBdW10bjdSdTBGbmtVSW1sYjRkcVhCbk1FNmRkZy0tWng3TmtVbkxIRjlIdVN5d25DUWVXVDgxQm1sZXJNdjIzM2cxV08?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-04T17:00:18.000Z"
       },
       {
         "title": "Inteligencia artificial en Perú: estos son los sectores con mayor potencial y los desafíos pendientes - El Peruano",
@@ -478,6 +478,14 @@
     ],
     "farandula": [
       {
+        "title": "Rebeca Escribens llama celosa a Ana Paula Consorte tras su mensaje de Halloween sobre los falsos - Infobae",
+        "summary": "Rebeca Escribens llama celosa a Ana Paula Consorte tras su mensaje de Halloween sobre los falsos &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaVpxLXROd0dNVGxvSjIyZGJoQjRoX01JV1JreS1jRGZ5Vkw2cHIzdlRWbFU5TDhJN0JGa3hNQjRvTXBWa0dPRThGaENWWHpUSU1nVk5xZU9sTnNhWjNjS2pXeDRSMDkwYXVRZlN1ZmRXVDZYaUQ1Z0ZLaFNyVXJUbnZTX1lzWV9fbUh1WWRRS2N0U3JBejNPazdQblMxQ3Z1ZHpHN1l1SXAzZTFvT0QyWk5TdDN1U2Y3YlB1Rk16eF8wdVJzVU54YVhjN3NTaGdnQWJr0gHuAUFVX3lxTE1IRGtyU1pxRWtiMWNTQTA4RE5fZGdsMmJ1RDJDVk1IejBJX1dNRjF5WHMwd0pPOUItNGsyalR0Y2V6c1VoYTRZZFJjb05LXzl0NzAyQzc3SW45R2JYaVRJb1dhRHJBYlhiTFlwY0ctSkhiV3VqM0o3bGRMaHlFaUE4R1hxUUtKTFJCMkc3dzhFTnBVeThyY1hZZ0F4S2xWUjZ2LW5ibUFNZWI2dWZLb0p5dFZFUVVudlhfeXRMQVExQW1aQUpLWXlxSTNBbDNjT1pWa0xZM1lrcFMyalV0eV9ERTYxLU93R2NQVEdmZFE?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-02T21:40:00.000Z"
+      },
+      {
         "title": "¡De las pantallas a los conciertos de BTS! Conocido actor peruano sorprendió con su talento detrás de cámaras - Trome.com",
         "summary": "¡De las pantallas a los conciertos de BTS! Conocido actor peruano sorprendió con su talento detrás de cámaras &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
@@ -506,14 +514,6 @@
         "summary": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNekRuOHA2bzF2M0J2S21oMWpfOXlGaTR4LUFycU9xQ2ZXeUt2YmxJcmFZUk9WV3dUUTFIVUE5Tml3amdpNFo1OGNVY3pGcHVkREc5LU1fd3h4MDhNdFRfSG9JZnpnUmtlTXJHanBqUTNlUnhwWVphUkhvN1NtQ1h1TXB5NHJNNGJ1dTJzRGtlaWh5VExHZGRmR0RKRE1XeEZxeF9qLW9RRzZ0MU9mMTRQNWEzUEU4Zmk3NVhvWTItakZVdFczWjlHRDJINUFabERhTzhSN21ZN1ZZMnNXZmlib1JRUnJMdnotN1dFQkQ1V1l2NHhYX1ppdTlLbWVzUkZHRHNCU0ZTSGphSm1D0gGgAkFVX3lxTE9ueEZ2d3Jnbll2cVVyaGVuTGNfQkxpd2VLY1hqd0dXeThZM01wczNfcFBoWXYxSjVnYXNqQS1aZVFYTG9oYnVBTzdSZFhqeld6czVrV01QZlU2blUzYURQQm5zR1RBQUIza1V3NkVkSlBlZzF2cjRPZkxzMGR0M0ZWaHluSGRVdEsxUzdmaEVXX0NZZHUzMFZUYWZva2g4Vll6SmwyeDNlN2lUVlFYTXVqdmdEbzFFUDhzY1F1LVN4QkM2MEE4dHJBYzFvT21pNHBjZGpJT2d1QjhROUw2TVZBdzFFRVJxdHBuNE9BelM0eW03c1k1bnZWVzY3Z2VZUjhvdlB5dHQtZEJzdlZVUmE5MUxReG9xWWY4TThoWHY5MQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-07T07:00:00.000Z"
-      },
-      {
-        "title": "Carlos Orozco lanza dura crítica contra los papás de las ARMY en medio del primer concierto de BTS y redes explotan: “F por sus cuentas” - Trome.com",
-        "summary": "Carlos Orozco lanza dura crítica contra los papás de las ARMY en medio del primer concierto de BTS y redes explotan: “F por sus cuentas” &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcTdFUGJ5a284a2hXdEJwYlFhZkpYOFcyR3VKS2ZsNnM3R2x2QXlmZEcta0J5alhrdFpRY3JLYk5pSjh2ZzJjQW5FRlFWalZ2SF8yM0tYVWVDN01xaUoyQk9iVlhZdmRyY3RELXhWOVk4Q3NSOTZvM3NxbFBldnk1Mnh1T2hpQkFDb3ZOU0ttbWtTRFZZaWtxWEx6aGFobzRjajVESm9kaWhRNjFZMlloSzI5LUN1MXRrV0dfanJ5aUhTYWVvMm14ZVQzSlVKNVdXYWNndks3eEJGeEtPRVR4YmtHR0RkdXBYNUE0ZHZoWEl3UDRfYmFKNjJZX3I3X3ZiQzRtdDdPanh3enPSAZ8CQVVfeXFMTXNYSlpzVzh0bHFscE9XdlZzcERQaDZKUTN6THUtR1pqdTdrS3pNOEV0cU1CYm5XVXRmMnhYTVEwNjBUZFBCTGVtX0pHNGdJd2NwemtTTmJrbmEzclBHaUlqcW1pNDJSX1B6a2d6V1ZiV3d1ejR3aWFZdm85WWhkekpNY05keUUyNVhnUnAySk4yX0Z0MXg5TmNvME9ubFUya1E5SzNtLVM4R180WExoNDk1b2ctd1JCRmhldU5TcHFIeldNM3cyU1VPeVpDVzZzN0tKZkJmdC1mR3pZV2lpUTJqV0lEXzNqN2ZhdGNCLThEWklPOFlSbTVnM3JBSnJKNlpGdXFFcUdFUmtqX2stSlVWdWQ1NFVwWHRqSlVpY3c?oc=5",
         "image": "",
         "publishedAt": "2026-10-07T07:00:00.000Z"
       },
@@ -576,6 +576,14 @@
         "publishedAt": "2026-11-05T14:10:36.000Z"
       },
       {
+        "title": "The World 50 Best Restaurants 2026 en Lima: Tres restaurantes peruanos entre los mejores del mundo - Perú 21",
+        "summary": "The World 50 Best Restaurants 2026 en Lima: Tres restaurantes peruanos entre los mejores del mundo &nbsp;&nbsp; Perú 21",
+        "source": "Perú 21",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYlZwUVlETkl4SlRfR3hab0dYNG5Wc3Zlelk0SGthZXNGOXNWdGRrQ3NJdFR1VlBjeEw0UVFtaVFBMVRldUctNkNjazlsMXRTYmg4UnJRUklXYm1QVU1GbXJOSk53Z1d6dHp1MUVMUU9sYy15amp5b19mZnQycU5hUU4xMDFBMEZjTjkxTVQ0cVJfYzc5ZzFWaGVWOTNUU3F6bkYzanRNZzlZT2xLQUh6ejZGUXZnRzBIS3VwZjJPbGQ1ZmFIdHc?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-04T15:37:49.000Z"
+      },
+      {
         "title": "Rikki Tidball, directora general de Eventos del 50 Best: “Llevar nuestros premios a Lima nos permite celebrar la contribución del Perú a la gastronomía” - El Comercio Perú",
         "summary": "Rikki Tidball, directora general de Eventos del 50 Best: “Llevar nuestros premios a Lima nos permite celebrar la contribución del Perú a la gastronomía” &nbsp;&nbsp; El Comercio Perú",
         "source": "El Comercio Perú",
@@ -598,14 +606,6 @@
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWGRMSmhiUVlONTVrQU9xWmNpem4zZlByWS1XcGpnNHE4azhKVEV1ZlI2Q21TZGNVOWtNME9yWFItTlNROWNwbHVzSk9FUFh3RkJTeTUzUjlhSWl0NE44OVpBSm8wZUNGT1Y5YkpacFUzTVRMVncxTGc4SC1IaW5qQi1zRmdyN19ka0ZqNXFMenJzQ29hV0hF?oc=5",
         "image": "",
         "publishedAt": "2026-11-02T23:47:44.000Z"
-      },
-      {
-        "title": "Municipalidad de Lima despliega tecnología de vigilancia en eventos masivos como el Señor de los Milagros y la próxima llegada del papa León XIV - RPP Noticias",
-        "summary": "Municipalidad de Lima despliega tecnología de vigilancia en eventos masivos como el Señor de los Milagros y la próxima llegada del papa León XIV &nbsp;&nbsp; RPP Noticias",
-        "source": "RPP Noticias",
-        "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOWXU1WkZ3RElsWmJvRHlNcTdtbFhiZVhWOGljVlhzZW85ZG02M1RoOU1CS09NWXQ1RzJTS1p4ZzVtaDVHQXVxWlpiaHhMczNtamxDSUtZbnEwTlkxUnBmZC1DQnpsdUxXa0ZYTHI4TC1HTXRNX0ZzRF9maVNJOGh5VHdoT2ZnTGpBTGxUZzlCaXo2UEhzSm4tLVozWjNXNHY5cHphMHZaMEJvZXpUZnBYVndtTFdUZ2VjT1pJb1ZFYXJZNnc1UWNOQzNETWV3WWtLWnRKV0Zsak1odGt3QmlqbmdicDJmbjVZSWdobzdaMndEVUtsM1JBM011MlRJUlRvMTI2bUxHcENYS3ZZTk5uenFrMElQbDlhR0gwZEZYZDc1d1pReXcw?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-02T22:35:14.000Z"
       }
     ]
   },
