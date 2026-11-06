@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T12:02:18.613Z",
+  "generatedAt": "2026-11-06T19:19:57.698Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,28 +24,36 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
+        "title": "Keiko Fujimori tras balance de 100 días de gobierno: “Siempre se pueden hacer cosas con mayor rapidez”",
+        "summary": "La presidenta de la República, Keiko Fujimori, dijo que como autocrítica de sus primeros 100 días de gobierno, podrían haber trabajado con “mayor rapidez”. Adicionalmente, reiteró su reclamo porque esperaba obtener más facultades aprobadas por el Congreso.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-tras-balance-de-100-dias-de-gobierno-siempre-se-pueden-hacer-cosas-con-mayor-rapidez-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/JNGOEZMJIREXVOFQ53EYGDVUWQ.jpg?auth=e8d557c67204ec117229149090b9f0bb859fdf14b611780a2aff7094424fcf10&smart=true&width=1200&height=862",
+        "publishedAt": "2026-11-06T18:21:34.000Z"
+      },
+      {
+        "title": "Rafael López Aliaga: Renovación Popular pide apartar a Roberto Burneo de la decisión sobre las credenciales",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-renovacion-popular-pide-al-jne-apartar-a-roberto-burneo-presidente-del-jne-y-a-otros-magistrados-de-decision-sobre-resultados-y-entrega-de-credenciales-cuales-son-los-argumentos-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/ZT7TX5SRS5AC5IM47MV5X6KL2A.jpg?auth=05a75838bad4f3fdf465e2367beefc950771570e096d4ecdace24a5853c4958b&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-11-06T18:11:50.000Z"
+      },
+      {
+        "title": "De Belaunde Terry a Kuczynski: Los presidentes que recibieron a los papas, las crisis que encontraron y los mensajes que dejaron",
+        "summary": "Un repaso por las visitas de Juan Pablo II y Francisco al Perú, los presidentes que los recibieron, las crisis políticas y económicas que atravesaba el país y los mensajes que dejaron. La próxima visita de León XIV marcará un nuevo capítulo.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/de-fernando-belaunde-terry-alan-garcia-y-pedro-pablo-kuczynski-ppk-los-presidentes-que-recibieron-a-los-papas-las-crisis-que-enfrentaron-y-los-mensajes-que-dejaron-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/VXNTF6QEOZBDDAKG3X44GMSO5Q.jpg?auth=1833874bd96ef04652169577ece60600e9ffa2ef38f90c2bd341fa4de39d1573&smart=true&width=1200&height=647",
+        "publishedAt": "2026-11-06T17:45:20.000Z"
+      },
+      {
         "title": "Alcaldía de Lima: ¿qué riesgos implica la demora en la transferencia de gestión?",
         "summary": "",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/alcaldia-de-lima-cuales-son-los-riesgos-por-la-demora-de-transferencia-de-gestionapuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/CEYCFKJT6RBG7M7AADGZEBVOVI.jpg?auth=5ed20c9432629e698868d95d60ca8c279729650c1e86052caacb1e71868adda6&smart=true&width=1200&height=647",
-        "publishedAt": "2026-11-06T11:00:01.000Z"
-      },
-      {
-        "title": "Pedro Castillo: ¿Cuáles son los mecanismos con los que busca impunidad en sus procesos?",
-        "summary": "Pese a que la justicia lo halló culpable por conspiración para la rebelión y arrastra otros procesos, ahora se intenta su excarcelación a través de una propuesta Ley de Amnistía desde el Congreso Bicameral.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/pedro-castillo-y-los-mecanismos-que-han-buscado-su-impunidad-y-ahora-buscan-su-excarcelacion-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/6LCC5232TZFM5CWDCAGYKFD6KM.png?auth=33e413133f7b4cfe9e13787611d10dbbc3018e4c259a4b3acc580d7537e8910f&smart=true&width=1200&height=647",
-        "publishedAt": "2026-11-06T11:00:00.000Z"
-      },
-      {
-        "title": "Elecciones para la Alcaldía de Lima: ¿Cuándo se realizarán las audiencias de recuento de votos de las últimas actas?",
-        "summary": "Elecciones para la Alcaldía de Lima: ¿Cuándo se realizarán las audiencias de recuento de votos de las últimas actas?",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/en-vivo-elecciones-para-la-alcaldia-de-lima-audiencias-de-recuento-de-votos-de-las-ultimas-actas-jurados-electorales-especiales-jee-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/SW4IXWS6EZGXVDW7FLD7IQFMCI.jpg?auth=c815de95fb4713cb3fa790f659ae45c13daf2d80c39f60c5ea444fa3b5658cc2&smart=true&width=1200&height=647",
-        "publishedAt": "2026-11-06T10:56:00.000Z"
+        "publishedAt": "2026-11-06T17:45:02.000Z"
       },
       {
         "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
@@ -53,57 +61,57 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/JMFK2PBLARF2FBGIW2NVED4RLI.jpg?auth=9e304a4d5091a8872c648aefa9b9c09d3bf9fece7d35bebe72483d3eb74ecba2&smart=true&width=700&height=395",
-        "publishedAt": "2026-11-06T05:01:00.000Z"
+        "publishedAt": "2026-11-06T17:44:43.000Z"
       },
       {
-        "title": "Keiko Fujimori brinda un balance de los primeros 100 días de gestión: “Hemos demostrado que sabemos a dónde vamos”",
-        "summary": "La presidenta de la República, Keiko Fujimori, presenta esta noche un balance de los primeros 100 días de su gobierno, período marcado por el pedido de facultades al Congreso, las acciones frente al fenómeno de El Niño y los altos índices de criminalidad.",
+        "title": "Pedro Castillo: ¿Cuáles son los mecanismos con los que busca impunidad en sus procesos?",
+        "summary": "Pese a que la justicia lo halló culpable por conspiración para la rebelión y arrastra otros procesos, ahora se intenta su excarcelación a través de una propuesta Ley de Amnistía desde el Congreso Bicameral.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/en-vivo-hoy-keiko-fujimori-presenta-balance-de-los-primeros-100-dias-de-gestion-como-presidenta-del-peru-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/L6EOZJPGSZFAXMSQYQNXCI2FBU.jpg?auth=5adc7dbda1c7ff1887f299619944adb9a00d08d47d6054b4ca9044a54f92a427&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-11-06T04:02:07.000Z"
+        "url": "https://elcomercio.pe/politica/pedro-castillo-y-los-mecanismos-que-han-buscado-su-impunidad-y-ahora-buscan-su-excarcelacion-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/6LCC5232TZFM5CWDCAGYKFD6KM.png?auth=33e413133f7b4cfe9e13787611d10dbbc3018e4c259a4b3acc580d7537e8910f&smart=true&width=1200&height=647",
+        "publishedAt": "2026-11-06T17:44:27.000Z"
       },
       {
-        "title": "Ministros debatirán los primeros tres decretos legislativos: ¿Cuáles serán los alcances?",
-        "summary": "En la próxima sesión del Consejo de Ministros, que se dará entre el jueves y el viernes, se someterá a debate tres decretos legislativos sobre la reforma del sistema penitenciario, en amparo de las facultades que otorgó el Congreso bicameral al gobierno de Keiko Fujimori. Así lo informó el titular de Justicia y Derecho",
+        "title": "Elecciones para la Alcaldía de Lima: ¿Cuándo se realizarán las audiencias de recuento de votos de las últimas actas?",
+        "summary": "Elecciones para la Alcaldía de Lima: ¿Cuándo se realizarán las audiencias de recuento de votos de las últimas actas?",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/ministros-debatiran-los-primeros-tres-decretos-legislativos-cuales-seran-los-alcances-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/YOSTQYSK6JELXJJGMO6LZT2YVE.png?auth=10fa2166d22c5b6efe0deda394e77f7aceb2fa90db9d0d99c30a41da36dc1fea&smart=true&width=1160&height=660",
-        "publishedAt": "2026-11-06T03:29:00.000Z"
-      },
-      {
-        "title": "Caso Martín Vizcarra: PJ convoca a audiencia por pedido de tutela de derechos para el 10 de noviembre",
-        "summary": "El Juzgado Supremo de Investigación Preparatoria Nacional convocó para el próximo 10 de noviembre a una audiencia por pedido de tutela de derechos a favor del expresidente Martín Vizcarra (2018-2020), en el marco de la investigación que afronta por el presunto delito de tráfico de influencias.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/justicia/caso-martin-vizcarra-poder-judicial-convoca-a-audiencia-por-pedido-de-tutela-de-derechos-para-el-10-de-noviembre-ministerio-de-cultura-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/OJS3WUPH6JHNXLOJK3QHCD3GGI.jpg?auth=7b0b624abe246494025feb03f94a9b888bd0b330cc1d98d6f0997ff877eb2804&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-06T03:20:19.000Z"
+        "url": "https://elcomercio.pe/politica/en-vivo-elecciones-para-la-alcaldia-de-lima-audiencias-de-recuento-de-votos-de-las-ultimas-actas-jurados-electorales-especiales-jee-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/SW4IXWS6EZGXVDW7FLD7IQFMCI.jpg?auth=c815de95fb4713cb3fa790f659ae45c13daf2d80c39f60c5ea444fa3b5658cc2&smart=true&width=1200&height=647",
+        "publishedAt": "2026-11-06T16:30:05.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Mercados e indicadores – Hoy viernes 6 de noviembre",
-        "summary": "Para tomar las decisiones más acertadas de inversión, manténgase diariamente bien informado sobre el desempeño de las acciones de la plaza bursátil, de la variación de las principales variables del mercado financiero, así como de la evolución de los precios de los commodities.",
+        "title": "SBS declaró disolución de una cooperativa debido a pérdida del capital social",
+        "summary": "La Superintendencia de Banca, Seguros y AFP (SBS) declaró la disolución de la Cooperativa de Ahorro y Crédito Financoop Ltda. por no haber acreditado, dentro del plazo establecido, el levantamiento de la causal de pérdida total del capital social y de la reserva cooperativa, que motivó su sometimiento a régimen de inte",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/mercados/mercados-e-indicadores-hoy-viernes-6-de-noviembre-noticia/",
-        "image": "https://gestion.pe/resizer/v2/CKBJCXWQXVCTXHZN5ZAGTM66RE.jpg?auth=c935a9816683dbd514d89311dedaf60293df727aefbd90da56a9830e4813f2eb&smart=true&width=1280&height=720",
-        "publishedAt": "2026-11-06T11:02:31.000Z"
+        "url": "https://gestion.pe/economia/empresas/sbs-declaro-disolucion-de-cooperativa-financoop-por-perdida-del-capital-social-por-que-noticia/",
+        "image": "https://gestion.pe/resizer/v2/5EU7GFYCQRFOPDU226NBBM7ACY.jpg?auth=0becd6873bc0e48f9a2c1f9bf06817b848052afff01c3500d6008ff9e28345bb&smart=true&width=1200&height=800",
+        "publishedAt": "2026-11-06T19:13:14.000Z"
       },
       {
-        "title": "Parejas que compran un departamento y luego se separan: ¿quién se queda con la vivienda?",
-        "summary": "¿Qué pasa con un departamento comprado en pareja si la relación termina? Conoce quién conserva la propiedad, qué sucede con la hipoteca y cuándo puede venderse.",
+        "title": "Tipo de cambio hoy en Perú: ¿en cuánto cerró el dólar este viernes 6 de noviembre?",
+        "summary": "El viernes 6 de noviembre, el dólar en Perú comenzó el día con un descenso, impulsado por la búsqueda de activos refugio ante la incertidumbre de los inversionistas y las recientes caídas de las acciones tecnológicas.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/parejas-que-compran-un-departamento-y-luego-se-separan-quien-se-queda-con-la-vivienda-noticia/",
-        "image": "https://gestion.pe/resizer/v2/XDEQF6BI4VE3HIWO5Q6D44AW3E.jpeg?auth=ef9addce81dfee12a699294aef3b9de3b67181abd731d14f622d4459ba75c0c0&smart=true&width=1600&height=901",
-        "publishedAt": "2026-11-06T10:52:00.000Z"
+        "url": "https://gestion.pe/economia/mercados/tipo-de-cambio-dolar-hoy-en-peru-cuanto-esta-el-precio-del-dolar-este-viernes-6-de-noviembre-dolares-a-soles-compra-y-venta-bcrp-noticia/",
+        "image": "https://gestion.pe/resizer/v2/4YZ2HHE5BZATTFHT6FPEUEMP6I.jpg?auth=d79336a5a3b1aedd4936afab3b6b63eeabd7d3390aba80b76994c6ac8756683c&smart=true&width=1200&height=800",
+        "publishedAt": "2026-11-06T18:51:26.000Z"
       },
       {
-        "title": "El Niño pone en riesgo a 58 lotes petroleros, ¿Perú debería preocuparse por su crudo?",
-        "summary": "OEFA advierte que el FEN puede afectar más de 2,300 instalaciones del sector hidrocarburos, en su mayor parte grifos, gasoductos, plantas envasadoras, el oleoducto, entre otros.",
+        "title": "Expectativas sobre la economía a 3 meses se hunden: retorna el pesimismo",
+        "summary": "El Niño coloca al Perú en una situación de riesgo y causa que el futuro cercano se vea comprometido. Con el pesimismo de corto plazo, ¿cómo se ve la economía a 12 meses?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/el-nino-pone-en-riesgo-a-58-lotes-petroleros-peru-deberia-preocuparse-por-su-crudo-este-es-el-plan-para-evitar-golpe-noticia/",
-        "image": "https://gestion.pe/resizer/v2/AMAIQJLCEBC6JPXJPPZLINWUJQ.jpg?auth=54ee7ed15aabb9a831242295e4c89d7611645a38a3f34bb9ac2fb22924845488&smart=true&width=1800&height=1200",
-        "publishedAt": "2026-11-06T10:47:00.000Z"
+        "url": "https://gestion.pe/economia/el-nino-expectativas-sobre-la-economia-a-3-meses-se-hunden-retorna-el-pesimismo-en-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CC3JPLDPLJA3JKZ5YWKJTIJN6I.png?auth=e60ad70494134142340a0dad86e25473fb46936987ff3096c574a8c63e9f8b09&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-11-06T17:51:19.000Z"
+      },
+      {
+        "title": "Cusco recibiría más de US$ 11 millones por CADE 2026: ¿está listo para el turismo de negocios?",
+        "summary": "La edición 64 de CADE, que regresará al Valle Sagrado después de tres años, convocará a más de 1,000 participantes y generaría un movimiento económico de US$ 11.05 millones. Sin embargo, Cusco aún enfrenta desafíos para recuperar el turismo receptivo y fortalecer su infraestructura para eventos empresariales.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/cade-2026-cusco-proyecta-un-movimiento-economico-de-s-38-millones-y-espera-elevar-la-ocupacion-hotelera-noticia/",
+        "image": "https://gestion.pe/resizer/v2/RKOZL2TGSREQLE72VGSNH4KXKA.jpg?auth=3ac9f582d680db92832dc2fe82a6f72a27721c7835eef4fff91cba418549311f&smart=true&width=1200&height=800",
+        "publishedAt": "2026-11-06T17:38:27.000Z"
       },
       {
         "title": "Más allá de Torre Trecca: EsSalud estudia nuevas alianzas con privados en hospitales, ¿cómo?",
@@ -111,57 +119,41 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/essalud-mas-alla-de-torre-trecca-seguro-social-de-salud-estudia-nuevas-alianzas-con-privados-en-hospitales-como-noticia/",
         "image": "https://gestion.pe/resizer/v2/7YNXKMX4HVACBJMDWKOEOKTXQ4.png?auth=d3798278c49fafbc061f242ee72ecc128dacbc9349c1c64462c42ce956ce2a89&smart=true&width=1672&height=941",
-        "publishedAt": "2026-11-06T10:26:00.000Z"
+        "publishedAt": "2026-11-06T17:14:00.000Z"
       },
       {
-        "title": "Empresa española de explosivos afina su estrategia en el sur con nueva planta en La Joya",
-        "summary": "El crecimiento de la minería en el sur del país exige una cadena de suministro altamente especializada, donde el abastecimiento de explosivos y emulsiones juega un papel crítico para sostener las operaciones tanto a tajo abierto como subterráneas. En ese escenario, la compañía española MAXAM, fabricante de explosivos y",
+        "title": "DP World va por la fase 3 del Muelle Sur del Callao: plazos y la condición para invertir",
+        "summary": "DP World, operador del Muelle Sur del Callao, ya planifica la fase 3 de ese terminal apenas un año después de inaugurar su última ampliación. ¿Qué plazos maneja y de qué depende la inversión?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/espanola-de-explosivos-maxam-afina-su-estrategia-en-el-sur-con-nueva-planta-en-la-joya-arequipa-y-busca-acercarse-a-tia-maria-noticia/",
-        "image": "https://gestion.pe/resizer/v2/SCWD2FGSP5A33BE5SWCJT6EV3Y.jpeg?auth=d1c634bb2cf37b4e0e1c8ca6c8a9ed59375d036bcd7930ea0870cd46ca24e4c7&smart=true&width=1600&height=1200",
-        "publishedAt": "2026-11-06T10:15:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/puerto-del-callao-dp-world-alista-otra-ampliacion-del-muelle-sur-pero-pone-una-condicion-noticia/",
+        "image": "https://gestion.pe/resizer/v2/YTIELQZTZJHO3CAXOI7SJN57I4.jpg?auth=da10000f44d15f8326a83ec0ebbfc529e9da456e07477c6a0fa33cd403861750&smart=true&width=1200&height=668",
+        "publishedAt": "2026-11-06T16:13:10.000Z"
       },
       {
-        "title": "Lima corporativa sin espacio: la escasez de oficinas impulsa alza en renta de alquileres",
-        "summary": "Encontrar una gran oficina en Lima ha vuelto a ser una carrera contra el reloj. Tras años de sobreoferta en los que las empresas elegían y exigían descuentos, la nula entrega de nuevos edificios aceleró la ocupación de espacios, llevando la vacancia general al 6.9% al cierre del tercer trimestre de 2026. En el segmento",
+        "title": "Fibra Prime capta US$ 40.37 millones en la Bolsa de Lima: ¿en qué utilizará los recursos?",
+        "summary": "La sexta colocación del fideicomiso inmobiliario en la Bolsa de Valores de Lima registró 1,367 órdenes. Los recursos permitirán prepagar parcialmente el préstamo utilizado para adquirir el activo logístico, mientras que las personas naturales aportaron US$10.78 millones.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/lima-corporativa-sin-espacio-la-escasez-de-oficinas-en-distritos-como-san-isdro-miraflores-magdalena-y-san-borja-impulsa-alza-en-renta-de-alquileres-noticia/",
-        "image": "https://gestion.pe/resizer/v2/FIDHXKZ2NRGB3EM5TH766JOH4U.jpg?auth=4e6783970223b52829a17204fc643bd827030776947cbd431b1254644980b39e&smart=true&width=980&height=528",
-        "publishedAt": "2026-11-06T10:15:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/fibra-prime-capta-us-4037-millones-para-reducir-financiamiento-por-compra-de-parque-logistico-lima-sur-noticia/",
+        "image": "https://gestion.pe/resizer/v2/SNXQDPYS3RFGZJQULUJVZ2J2CY.jpg?auth=1f79426910138d0a7a6e1748785588c54224228eccd3bf8fef5487ae05ae9c6b&smart=true&width=1424&height=751",
+        "publishedAt": "2026-11-06T15:14:03.000Z"
       },
       {
-        "title": "Cencosud y los planes para Wong y Metro y el avance de su canal digital",
-        "summary": "El negocio de supermercados de Cencosud en Perú viene profundizando su estrategia comercial a través de dos frentes: el crecimiento de sus canales digitales y la ampliación de su presencia física. Durante el tercer trimestre de 2026, las ventas online avanzaron 20.1% interanual, mientras que los suscriptores de Wong Pr",
+        "title": "BCRP aprueba el estándar QR Perú para fortalecer los pagos digitales",
+        "summary": "",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/chilena-cencosud-avanza-en-peru-gracias-a-su-canal-digital-que-planes-tiene-para-wong-y-metro-noticia/",
-        "image": "https://gestion.pe/resizer/v2/UCD4R3H3VJC2NOWTCNLITJLD24.png?auth=eb16e8f5270fcebeb10640bb44765bda4b94b37c8a580c8c74fbed1eb70a4806&smart=true&width=1502&height=1117",
-        "publishedAt": "2026-11-06T10:15:00.000Z"
-      },
-      {
-        "title": "Papa León XIV visitará 5 regiones del Perú: los retos que van más allá del crecimiento",
-        "summary": "Este “tour” del Papa permite que estas zonas salten a la palestra, no solo por una eventual disparada del turismo religioso, por ejemplo, sino porque permite poner los reflectores sobre los retos que las presionan negativamente, sobre todo, a nivel de desarrollo humano.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/papa-leon-xiv-visitara-5-regiones-del-peru-los-retos-que-van-mas-alla-del-crecimiento-noticia/",
-        "image": "https://gestion.pe/resizer/v2/T26MVTJEBFAJFKPM7KVZQOVD3A.png?auth=a22ed5987d7a626f01be1560d04689459bab2150f857fc4a9234360b052ea3ff&smart=true&width=1672&height=941",
-        "publishedAt": "2026-11-06T10:09:00.000Z"
+        "url": "https://gestion.pe/tu-dinero/bcrp-aprueba-el-estandar-qr-peru-para-fortalecer-los-pagos-digitales-noticia/",
+        "image": "https://gestion.pe/resizer/v2/SSRQJEGDW5FY5L5UWPTUKNAJMQ.jpg?auth=e71f7e638c1c8da216f2ecf499dcf62701176b85082d1f30827e40c987212d86&smart=true&width=1200&height=800",
+        "publishedAt": "2026-11-06T14:01:30.000Z"
       }
     ],
     "sociedad": [
       {
-        "title": "Seguridad, El Niño y obras: los tres frentes con los que el Gobierno peruano busca marcar sus primeros 100 días - ICNDiario",
-        "summary": "Seguridad, El Niño y obras: los tres frentes con los que el Gobierno peruano busca marcar sus primeros 100 días &nbsp;&nbsp; ICNDiario",
-        "source": "ICNDiario",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZWxEMENnQUlTOGFjcDJNTGdqQ3lVMDFTS1lNcVpBazRiZXotYjlMd3h0RjdHNm5WX2pxUjRyVEd2M2tucnZ5S0F5dDNTa051ZTlleWtIQVpJZFdETG1HTXVyS1pxUVB6bERzWnh0V05sRzd3dkplekZrSEFhOXc3QVRzUHdPQjRnNFpEUW9mdUhNTllvMHpJLVRsdlJhSVdPQ2pzSFljcjhZai1sNmxucjlGZ2Z2djI4VXprZDlCTXZ4bHExQVM3MTlTZUNxRVREZWEwNW9RWQ?oc=5",
+        "title": "Manuelita: 162 años generando progreso y bienestar desde la agroindustria sostenible - Caracol Radio",
+        "summary": "Manuelita: 162 años generando progreso y bienestar desde la agroindustria sostenible &nbsp;&nbsp; Caracol Radio",
+        "source": "Caracol Radio",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSlN0bWsxX3JyRU1JWmlpRll0OVhhVUVQUjBxQ3RiZUVuZmRaeWpvQXdYZzJzVWRMdHEzZVBxek9FNk9NQ3lzTmJ4RGhFMVh2bEprQXRaTlp2djRWSUh0TWRFS3d0QXBmNG9teVN5NkF5eTl3d2p5Q3l2aWxhOEkyZ1JSQ19ILVVjUDBYLVU5MV8zZ2NydDlXTHVDWTNpblB4TmpQdV9zTExValZxNDcyUWplR3VLSHNWbmfSAc4BQVVfeXFMTkdZam5VQzBrTHJUUVhpaGt1Q1hvb201MXhIWDlReVFlbjZiVzhwQ1ozVS1sWVNPUFZEYmFtaXlYWERSdS04RG9hdUJyekpETGRicDZlcGM1ZjBGdTh3QkttbVF3TDZIV2prdUwtMmlsNS1mRzlrZ25fUmhFcTJqLVA3dUhZNU1oaWRlb3NOMmhwN1M4OVJZaFlxR0JkcW8wT0xPUFV2ZGxBeDhrRjNlZzA1c2V4c2JiZjdWS0ZJbExxNmJ5c2JwdUdjSmlaYXc?oc=5",
         "image": "",
-        "publishedAt": "2026-11-06T11:15:48.000Z"
-      },
-      {
-        "title": "EDICIÓN JUEVES 05 DE NOVIEMBRE 2026 - DIARIO ASI",
-        "summary": "EDICIÓN JUEVES 05 DE NOVIEMBRE 2026 &nbsp;&nbsp; DIARIO ASI",
-        "source": "DIARIO ASI",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTlZhdndyX3FaZnBrM0M5c3pPNFdQNDMzczBmWDMyaXdGOEJ0bmJBajQzV1lFa0dSYmpVNjhod3NRWnFyNGR2OUZON1pGODNGaGNLVkZ0bXB6Q2taWlhtVHZkNi1sb2lQcC0ya2Z4czFESUlmTmZDM2p2TGN1OXVBbU1uSHUycUVMOEJMdTFfaEdKdUl3S1FFVHVmWHFfbmM?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-05T18:19:00.000Z"
+        "publishedAt": "2026-11-06T16:17:42.000Z"
       },
       {
         "title": "AI pide a León XIV que inste a Gobierno argentino a garantizar derechos de los vulnerables - Infobae",
@@ -172,20 +164,12 @@
         "publishedAt": "2026-11-05T14:18:00.000Z"
       },
       {
-        "title": "Europa, sacudida por falsas amenazas de bomba: tres aviones que partieron de Madrid, entre los afectados - lavozdelsur.es",
-        "summary": "Europa, sacudida por falsas amenazas de bomba: tres aviones que partieron de Madrid, entre los afectados &nbsp;&nbsp; lavozdelsur.es",
-        "source": "lavozdelsur.es",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNlZvc2haQUZXQmduWW9jQkY0MUw5dWtfa2Q2X05fYWdpUndGVXd3eVlyazdLcWtCcWIzZnJncjlESlJSYkc5dFpwVXJ1Z1hZNzhCVUIzcjc4U1ZFWFF1RmpaM0lCazVKM2lsRTVONXpTY2xGWl81d2szdVJTdFpjVHhWOGVuQUpDMTVnR3dHNm02RG4xeEJ5ZE5kSDEzOFFEQVowM3VoWUszOGRfRnF1OHhZRGVmZXgzNGFkR0JUejZrbWVSa19qQjRLMl90cFM0MkFka1MyOVBUSEZzUllCNjU5aHlpUQ?oc=5",
+        "title": "Ley de IA en Perú: cinco claves para empresas - La República",
+        "summary": "Ley de IA en Perú: cinco claves para empresas &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ25GSGJZSjRxRklEb2c4ZGFsM3VULVpHNHpsRVZYNThQYjB6OE1IZDdWRXJ3UzFVVzBYM2JzRjkzdVNwM244ZE5OeW5TVDlxMktmdGd4NDlkWmE4RmJfNEw2Sk91ajVnLVdVM3RYdUE2VVZIdGRVanQ3XzM5ZzVOUVI5SGM2OURPOHMxTnV1a0ZvRUlCRk9Db3R5c1FkRzNibGpvbzlPWkU3TURaV2VqenJETHVFZVJBdW10bjdSdTBGbmtVSW1sYjRkcVhCbk1FNmRkZy0tWng3TmtVbkxIRjlIdVN5d25DUWVXVDgxQm1sZXJNdjIzM2cxV08?oc=5",
         "image": "",
-        "publishedAt": "2026-11-05T13:58:41.000Z"
-      },
-      {
-        "title": "Niños y adolescentes de nueve regiones presentaron al Congreso una agenda con propuestas en educación, salud y medioambiente - Infobae",
-        "summary": "Niños y adolescentes de nueve regiones presentaron al Congreso una agenda con propuestas en educación, salud y medioambiente &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNTJaU2Rvd3dNM200OWN6ODRyWVRObEdQT25LLVNrX19OdkxQTWlLVDJrMk12STFLVWZnbzEzRHhOUjNGaGhuTUdJT1pNZUYzS0pFUXdwdFMwNEIyOVJVaXZsS1FiZkdoWUNNMEpETnQ0RlhPT1J3endWcnFBMlUwLUJQWWpYa3duZTVJOGNKaVA1TFpnOVo4aUJxWlBSbl9sSUpBVHVDc3Axc2YxMUo5ZlkzSHJ0TzdnVGZVTjV2VllFSUNsT3FwZHZzekdsOUl0V3BwRDdKbW9haUpoVG9Xa2VhWHRnUEtSdjg1ZE5mdXU0M2ZfWkRR0gGSAkFVX3lxTE9MWFl0SFRnU2JrWUpCM196YmhDT2huNEFERmlnZ0JoS2ZEeHVFN1hfWWRORzNrbjkxb2VDbmhvZHZpOE5FYUxtdjJ6Ukx3OVJxQzhtQnhTRlJ3SVhieFl6enlqeEdIeEg3bXdYOHpEUXpPdUpKNzQweFU2WThaVlBaOFJNWkpMREJ1UXA3VlBDWXdtYmpoX2c0aHdsLXFrVjBPbFhtdkRMaTZ4X2FKbGJneFlmWHVFZDZEZTdfVWRQNHl3WFptV2w5cng5MkRiZE5VdkVDdzZlOXNmMnJLZnYzc3Z0emtMOFVZdGoyYkRTUXF0LW5HTXFSZW1tWXA3U3hpZUVLMmhfdkZ5V3ZmN2VXVWc?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-04T18:31:00.000Z"
+        "publishedAt": "2026-11-04T17:00:18.000Z"
       },
       {
         "title": "Progreso social en Perú: educación y conectividad avanzan, pero salud y derechos retroceden - La República",
@@ -210,9 +194,33 @@
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS1o5c2NlVnJ6NHNsZ3A1TUNRMDJMcXllRW1JMU9fX3d1cXhTVFh6M3JidVNnVHNQQUJRMWpNTkp4RHY1U1U5dDF3RmtQRGY2bW9Ub3RNVERISG1wd1NjYThnVHpvaHFxc0hTS2JPdVpOU1lRVkZaY3ZIa3ByTi1HY18yZ0s2QXpYcEZFczR4eG1pRnhyWjJ3Nmp2Y1liVGItSWNQSll2UVZiZUViUHZHOTV2TXhmdXY2RkhGdU82NVFSeFJQYVdUajBRcXpINmtH?oc=5",
         "image": "",
         "publishedAt": "2026-08-31T07:00:00.000Z"
+      },
+      {
+        "title": "TUO del Código de Ejecución Penal (Decreto Supremo 003-2021-JUS) [actualizado 2026] - LP | Pasión por el Derecho",
+        "summary": "TUO del Código de Ejecución Penal (Decreto Supremo 003-2021-JUS) [actualizado 2026] &nbsp;&nbsp; LP | Pasión por el Derecho",
+        "source": "LP | Pasión por el Derecho",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWUtGUDA1VU9FZzdpYWN3WXBRVEFuemtPQUhWTW5GMFBpb2F2dFhxOU95WTc0WU94VDgxSWc5S3liYV9RLUl3aWhyWGJ6eTM3V2w1TEtYNWJ2eDZEMTN6RS1iX0tKOFUzbEJhRlhKeEZSczhpeUJIdHhkVjdQSGFTc3d1MDlNZGIxaGg0MlMxcUFUUQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-02T07:00:00.000Z"
+      },
+      {
+        "title": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad - EL PAÍS",
+        "summary": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad &nbsp;&nbsp; EL PAÍS",
+        "source": "EL PAÍS",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdTZGRmVCRWs3MmpCV1RDRzhzeVJPanVZWlNrOG1BWGNOOWxCZFpPY3FJWWZNcFJudkk4YnROSHNxM2pOaHR2QVczaVhmLXN2NE5KLThVcE9KMDI0Vlg5SnFjQUtrcHB5dnNYa2RjdHlTb2g3OWs5RXZ1RmVBZ1FKREFka2MzVTVTTGJiOGxqQmNIODlucGpxLVpHNk1SVWdBeER4Nm85QUw2UjM4bG1aX0UzZEFBRkFNSVlRY0NFWmlzQ0IxNVZoQndieTRvaDRpWlRvc21JdmtaeEtTN3RYUWN0cVZSNVVudVVRejlta0Z3bGRHVkhv?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-07T07:00:00.000Z"
       }
     ],
     "negocios": [
+      {
+        "title": "Premios +50 Emprende Perú: diez emprendedores mayores de 50 años disputarán la final nacional - Revista Economía",
+        "summary": "Premios +50 Emprende Perú: diez emprendedores mayores de 50 años disputarán la final nacional &nbsp;&nbsp; Revista Economía",
+        "source": "Revista Economía",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ0g1bVpzX2kzU24yUGJmQUdaVzJ1Z1l4aHFkM0R4UnlDeW1JUGxyT2ZVU3pYamZON0swTldfUTBPaHlUVEZlT3B2bTRkdXJGTEJlTHVKTFczZHBxTWl3WmVlSXFLaXA5S3l2NUJLN3g4bjRWNHZNNUtTa1JJdHFGWkYzZzc3RFQya0FLbFZhWXlUdjNSSHVDbFRlN2hUaUZxdV9weUEzdHUzZU4xUVRjTF9mcG5tTE9ldTZnNXVrMXdOdw?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-06T17:30:44.000Z"
+      },
       {
         "title": "Emprendimiento silver: cinco formas de aprovechar la IA para hacer crecer sus negocios - Gestión",
         "summary": "Emprendimiento silver: cinco formas de aprovechar la IA para hacer crecer sus negocios &nbsp;&nbsp; Gestión",
@@ -268,17 +276,25 @@
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVnduV1lWS0NqTEg5X0NZRnNwcHRGT3VJY0pjdjdHVDVjYlRVM092RXZYUjktV3R0aW9tQ3Zwd25acmRkZUNiMlhKUHREazFCYkcwU3RCd01nZ0FvUGtlbGplbkQ0aGEzNjhHQ0RMdUFNRWE2VU5UZ1VQMVVuTFdKNUlXYjhGZ190WGlWSWFxVk10ZVRuYnNCVlE0QklLWUNwTmhjUXVsbUNvY1hmNVRYU2ZnaEk2MXp5S3EzcnV4WjJvZw?oc=5",
         "image": "",
         "publishedAt": "2026-06-03T07:00:00.000Z"
-      },
-      {
-        "title": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú - Business Empresarial",
-        "summary": "Emprendedores digitales en auge: Nuevas tendencias de consumo impulsan negocios online en Perú &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BXc0NCUE53Q1dicXN4ZXFJY3RHNmhlQnh1UG81VHItc29JbE5KdDViOTB1OW5Ja3V4dTdWRWZGLW1zRlVHUVJPNFMyS2h6YzR0THpaeC1EbmdfTlJNQzB4RkJ2VU9wZWN5YjZuelBIUG1DZlVxeURaVTdIdjZTRGdtUmRKaEEzY2dKd2pKS0h2RjUtN1JualhXY3lPbVdIdDlaRFdnRWNUd2p2b1RtTjJQcUx6d21ZNkdkT0dSWU9hV3Nya09UckFMNmFIUQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-05-27T07:00:00.000Z"
       }
     ],
     "ideas": [
+      {
+        "title": "El Ojo 2026 anunció los finalistas de Creative Commerce, Creative Data, Innovación y Media - LatinSpots.com",
+        "summary": "El Ojo 2026 anunció los finalistas de Creative Commerce, Creative Data, Innovación y Media &nbsp;&nbsp; LatinSpots.com",
+        "source": "LatinSpots.com",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHZ4WUItQUdQTkVOamlKeDJNNVdyYjd2NE9HUDBwcUhJSnpEbVFaRXZHdWNYZGVOQjVjNkV2N0VUdEJYLTZDNkFOenpfVWczazBIZzZXajhSc0NvT3E4SXVZdEs4T2p6WTBKMm1jR1kxVS1GM181Tk4wT3g3R3JfR1hLVnBqeWZNTElTN0U3Q3lTbm9CUXB6V2F4QThPLVFNdHVBOWtzQmdYby1XOGVPVDZDUzNsVDZEVWR3MkFjblhHX2ZMU0E?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-06T17:07:58.000Z"
+      },
+      {
+        "title": "Hackatón más grande del mundo, Nasa Space Apps, se realizará en Lima y otras cinco ciudades del país - Agencia Órbita",
+        "summary": "Hackatón más grande del mundo, Nasa Space Apps, se realizará en Lima y otras cinco ciudades del país &nbsp;&nbsp; Agencia Órbita",
+        "source": "Agencia Órbita",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNenlPU3dWYTF6XzM3RTFBRWg0TFpvM2xZY0ROeGJpOUVjcXMxaC1ERDEzOEM2ay11OEs5YTNueTZQbFp0SVJ1Y25PODc5NEdvTmZXbkpVcWRiQlF2UE1LUU1pZ2VQaC1fSE92dmJmTlhYaDRzSVQwcVExa0I3VDA1c29pcVBHWDVfMks2c05sU1N5LVhSbFdjZEJwY1hNczZ0eF9iYV9EWlpIUmVUUHVxalJpaTlHak5sN2xpbUpGVkJudXNFVGxJZ1Riem1GS0luSFE?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-03T19:29:16.000Z"
+      },
       {
         "title": "Imprime lo que imaginas: llega una nueva experiencia que transforma ideas en creaciones tangibles - Serperuano",
         "summary": "Imprime lo que imaginas: llega una nueva experiencia que transforma ideas en creaciones tangibles &nbsp;&nbsp; Serperuano",
@@ -294,14 +310,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVy1kb19KSGlWZVNma0hnLTVyQWlMSVRRdUExVm9wZmU0cFVQTUc3bkhMUE5scENJOC1Ea21iNWlSc1RkS212OGthWVhhVGVnOE1PdXdUckd4aTF6VmUtYlFUMW5DNnc1RzllajZLVjBJUE52MURnc1ZETDdEc2pXY25pOTVWbDFSb0xHRXh5YWJHaE04WGk3aUhjQ0c1S2tsT2ZGZF9lcU1WelNuYXNlc3Nod0xVZk4tZS1neFlsSzctZw?oc=5",
         "image": "",
         "publishedAt": "2026-10-22T07:00:00.000Z"
-      },
-      {
-        "title": "Ruth Escobar, Cerro Verde: la innovación tecnológica debe pasar tres filtros antes de ser adoptada - www.desdeadentro.pe",
-        "summary": "Ruth Escobar, Cerro Verde: la innovación tecnológica debe pasar tres filtros antes de ser adoptada &nbsp;&nbsp; www.desdeadentro.pe",
-        "source": "www.desdeadentro.pe",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnNuSHpJYVRQODAwb1V3YnlZbXJjY1RuTkdxVXIwWWVZUHN6LXlRZUNIeTduSEZoZXBiNW16V2t3YkQyNmlmbjVLRWJTQk9tQzBGRzk0ZGRpT1QxZ2E5UC1FZi1KNjJhRHFsbmhua3pjY0R5VnpYUnVkbmJ3MlVsQWFxQWhFNUhUY3NFc2JZMml4SnZKNllqaFRwd2dBYjUyX2dNbEhMa19lYkU1X1hDRUNtMVR0bTNBT0pmeGsteHBCcU5rb3hwQWhvaDNjZw?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-15T07:00:00.000Z"
       },
       {
         "title": "Innovación en Perú: solo 49 % lleva sus ideas a la práctica pese a su alto potencial, de acuerdo con encuesta - Infobae",
@@ -334,14 +342,6 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNjM4OFhUMjFEZ0xoUW1Cc2ItSHI1dERZVTV5bjRCdUdSeVRuX1pLaGtnamZUUFVoUUotRkwwU05mVmFTS0RMcU5vbFR0WTIxLWdNVWhOQ21nWk5KcU5kV2JYR05IeHYweV9JMlV3MmJCbVBBOWVUYk1NdVVFV0w4emUzYjI2b2VuWHNCa2pMUVM2QQ?oc=5",
         "image": "",
         "publishedAt": "2026-06-17T07:00:00.000Z"
-      },
-      {
-        "title": "Perú retrocede en innovación: más allá del fintech, ¿dónde están las oportunidades? - Gestión",
-        "summary": "Perú retrocede en innovación: más allá del fintech, ¿dónde están las oportunidades? &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUTg0TnlVV3lUYTdjLVp2aVdLR3lmU0l0VnBuTUlYRUxtbE43SHplMGgyc3MwUTl5RnBGeE1pR0tkak1tVVVXakhuV0xPaHh5TmVZR283NkNuZUpTY1FxanJELTJLckdKSVlJOTF3QTBhNnBibnlldjQyQkU3c2JYeDBKcXEwaTJxQklVa2J0Y1Q1T0JRcEVrTlZGV1ZTMWtZNHlEbmJtSTVNUHg1eGRCZjhB?oc=5",
-        "image": "",
-        "publishedAt": "2026-05-01T07:00:00.000Z"
       }
     ],
     "ia": [
@@ -368,6 +368,14 @@
         "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQY2IyNUxraHVzU09jVGp4WnNaUURmdUluaVgya2szVjV0UVFRVE9rRnlHelVyUmRYQmlqbGJxN05IR3VBcURhLVBtd0pIekY1Zmp6QmZfdVNjdjhOeVRpaTcyN2IxRnpEUFo1QnhCLXVBVVd5ZVlKTm9iYmJnOV9Nbk5LOElQUWJ6NHZrb0paNWo2c2ZQUUxtOGdpeFVmbzhGVlg4VlByQVhkTmZVYzRVYlU3d2NDZkpFVndCbE1wRnRLYkMzVjNFQ0ZZVW5ra2ZEZmlyckVMSzU2QkNZZmlIRWt1Wmt3RzVIU3Fsa25JVFNGV3JxTzY0VlNR?oc=5",
         "image": "",
         "publishedAt": "2026-11-05T00:49:56.000Z"
+      },
+      {
+        "title": "Ley de IA en Perú: cinco claves para empresas - La República",
+        "summary": "Ley de IA en Perú: cinco claves para empresas &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ25GSGJZSjRxRklEb2c4ZGFsM3VULVpHNHpsRVZYNThQYjB6OE1IZDdWRXJ3UzFVVzBYM2JzRjkzdVNwM244ZE5OeW5TVDlxMktmdGd4NDlkWmE4RmJfNEw2Sk91ajVnLVdVM3RYdUE2VVZIdGRVanQ3XzM5ZzVOUVI5SGM2OURPOHMxTnV1a0ZvRUlCRk9Db3R5c1FkRzNibGpvbzlPWkU3TURaV2VqenJETHVFZVJBdW10bjdSdTBGbmtVSW1sYjRkcVhCbk1FNmRkZy0tWng3TmtVbkxIRjlIdVN5d25DUWVXVDgxQm1sZXJNdjIzM2cxV08?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-04T17:00:18.000Z"
       },
       {
         "title": "Inteligencia artificial en Perú: estos son los sectores con mayor potencial y los desafíos pendientes - El Peruano",
@@ -400,14 +408,6 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzFCZlBlb0hJQ2QxVS1ZUzdTTTBMWGdETGRkSVR3ZHByRjBvVU9SdkU3RmhQRzZPN2sybE5jbmFvdkQxVEdEVVQ0amFOOFh6NkhOY1Q3S0l0X0J5aXNWWi13NTdmWElJXzZ3eVJKN2ZCSzNxRWxwM1o5aDM1OHVJcG5EUlpVQm1fM2hpWQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-10T07:00:00.000Z"
-      },
-      {
-        "title": "Impulsarán desarrollo de la inteligencia artificial en Perú - El Peruano",
-        "summary": "Impulsarán desarrollo de la inteligencia artificial en Perú &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdWFvUGgxRUM0Z0FXQUl0LVdzTEQ0VGcxQ1JzTThXVmFCTjdEbERlelhqWC1CNWhjX3JHcXhacjdyalJVaWJHUGZVNzdPc29rNnVmOUpMNjRYa2ZUVW5vb1ZXeGhsTnJpNlRRQmhseVlNeW9JVTM0LTM2WGlYU2hCUjZpZjdIdGtXM1M3TjRPZ09fbWpEVzNIQnZKVQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-09T07:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -468,23 +468,15 @@
         "publishedAt": "2026-08-14T07:00:00.000Z"
       },
       {
-        "title": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” - Infobae",
-        "summary": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” &nbsp;&nbsp; Infobae",
+        "title": "Jamás mezcles alcohol con esto: Minsa alerta por peligroso reto viral que podría causar un paro cardiorrespiratorio - Infobae",
+        "summary": "Jamás mezcles alcohol con esto: Minsa alerta por peligroso reto viral que podría causar un paro cardiorrespiratorio &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY1JKYUdUNlpDMThFMDBMcUtpSm9WX3hDME5FdlhTVkIySnFidkNRV3RNa2Z0LVB0ZzhIUlNPdnFSM3dGQl9SRXl2XzdRVVZNS3JoYkVoZzE5WDhnWDVpdlRCNVVWbTNYTjZHVEF5cERtNEZnT0RyRmEzUUlwT0JVcEhnRXEzWExJN2lxdjEtcHZCUm1vcVpWQ1VUQ21POUhFb2Fnb1FiaHFmZHg5YnctUWJfQk53Y0M1U0ZKSWhVVlRoYXFycEZDeFk1SdIB5gFBVV95cUxOX2lXTFZfYS02czhMamE1UE01SmozQVIzLXdxbTVwRFlJQlJhaGI2XzdnVlprZkVQb0J1MjllZ0pJbk9vS21OcWJTYUQ0OU1FLW1XNU04cXRRZUtvNFF6dGV5X0VyR2hFSEd1TU1yMl9EMkdVTFZxWlB2ZzZ1cHpMcHZLSVptbmpaTFpkQVkzOGV3MHdCN0FkUm1qWTJ5aWxVVkVNTmRFSkI0czZhZkM3SGtaYmtDSy0tVVJCNHE0QngySUFLN05tY2xESFVDRTh1M0dWeUgydHVyb1p1dkdhMUN3VkhUUQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcWNycG12MzRyUW9GS0RoMEc0bFZNTUc4YXpxZzhsZ1UwX0xZWlRiZVBycG1vaUZ3UWlBdjZZSlQtY3VNRUFSd0pkNThLNkowRmpHbHYwUkQ1OXJzcG9ZVWp6eFVxUXktOTZnYTBjVTdZRGJKcTJSMDI3UU9wMGRSVEdHcHhnZERmMU9qYXZfcDFzM3RDbTFnNC1sdG5oS3JacnVRM0EwZVJNTzQtSTRYaTlFMU9uakVoWXpWaXJhNHpNMDBXU2dSd3c3YmlVdnNWUzJLaEdBTE9ZSW43YWpYY1FqbXBCd0RybWpn0gGGAkFVX3lxTFAzSlM0MnRGSUk0ZXZlanZtX2ZTb0tEdnF4Mi1fUWtVNnhPeC10WkdhYVVwQ09hWTdvaWthazRmdVc5eGxpeUltdHpnVlY1VHZlUzJXSGUwT3FXdWpBZG1xNHBVX1Y5cUs5Nk9zWmYzNWxUQ0xsX3JOdG5hVHRfUTZPWHQ2X2FpcFZpSTAzMjBYSUV3UHRGSXZHajRaLXVSVlRobHVqNGFSS0VsVkNXRzBJaTRXcHRhaUhSaF84SFRhSldsNlBXU3NKaTl4Q3lQSFA2MXRIc0V2ZWFvVEZfWDhwdDNEOGtfZTh5REtibE12RDJkRHNJOTJlXzRzd1FZTkpjOTE1LXc?oc=5",
         "image": "",
-        "publishedAt": "2026-07-30T07:00:00.000Z"
+        "publishedAt": "2026-07-06T07:00:00.000Z"
       }
     ],
     "farandula": [
-      {
-        "title": "Rebeca Escribens llama celosa a Ana Paula Consorte tras su mensaje de Halloween sobre los falsos - Infobae",
-        "summary": "Rebeca Escribens llama celosa a Ana Paula Consorte tras su mensaje de Halloween sobre los falsos &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaVpxLXROd0dNVGxvSjIyZGJoQjRoX01JV1JreS1jRGZ5Vkw2cHIzdlRWbFU5TDhJN0JGa3hNQjRvTXBWa0dPRThGaENWWHpUSU1nVk5xZU9sTnNhWjNjS2pXeDRSMDkwYXVRZlN1ZmRXVDZYaUQ1Z0ZLaFNyVXJUbnZTX1lzWV9fbUh1WWRRS2N0U3JBejNPazdQblMxQ3Z1ZHpHN1l1SXAzZTFvT0QyWk5TdDN1U2Y3YlB1Rk16eF8wdVJzVU54YVhjN3NTaGdnQWJr0gHuAUFVX3lxTE1IRGtyU1pxRWtiMWNTQTA4RE5fZGdsMmJ1RDJDVk1IejBJX1dNRjF5WHMwd0pPOUItNGsyalR0Y2V6c1VoYTRZZFJjb05LXzl0NzAyQzc3SW45R2JYaVRJb1dhRHJBYlhiTFlwY0ctSkhiV3VqM0o3bGRMaHlFaUE4R1hxUUtKTFJCMkc3dzhFTnBVeThyY1hZZ0F4S2xWUjZ2LW5ibUFNZWI2dWZLb0p5dFZFUVVudlhfeXRMQVExQW1aQUpLWXlxSTNBbDNjT1pWa0xZM1lrcFMyalV0eV9ERTYxLU93R2NQVEdmZFE?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-02T21:40:00.000Z"
-      },
       {
         "title": "¡De las pantallas a los conciertos de BTS! Conocido actor peruano sorprendió con su talento detrás de cámaras - Trome.com",
         "summary": "¡De las pantallas a los conciertos de BTS! Conocido actor peruano sorprendió con su talento detrás de cámaras &nbsp;&nbsp; Trome.com",
@@ -518,6 +510,14 @@
         "publishedAt": "2026-10-07T07:00:00.000Z"
       },
       {
+        "title": "BTS en Perú 2026: horarios, accesos y rutas de ingreso al Estadio San Marcos - La República",
+        "summary": "BTS en Perú 2026: horarios, accesos y rutas de ingreso al Estadio San Marcos &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOM1M3WUh5aG9PTG5RRGxSRmVqaWsyLWFVVWc4NHZocnB0NG1WSFFkMFdNa29EZ0ZOMTVJdDA4aWYtbFo0OU0wR3pkV1FWdWN1amdPa2otRkFJTWp1Wng5VXpYcmtDSkszRWNsbkRwMzFEblhzWjdmTzdGTkdIdlJPVEJ1QzBMRG9xNDlvSTRVV2UzTUFKc09hdF9FNVdBajBGRWJPMElCTHMzMWpUWU5VaEhFMWp2WnFJcjkwemFZM0p0T1NKaXBjcmFVWlZvSkdTRFRLY0NoSTh5M3BNZGJOeUxzVFE5RTNOU1JJS19QdmxxWUnSAfgBQVVfeXFMTlg4aWJURWlpYVpCWU1Pd09jRTltZlR0NlZ3TmhlSjhrbF9JN0FweHFWeTJ2YmdxUmNwR0pqSGJLbU9TMVlzdnp4bXhhWFVEaWpiUkd2LUZRQjIxV0t6bnFocl8yX3ZQNzRkbmJKNTZFUk9zNkJPSzNReGN2TTRxdVFVMUVrOXFveWcxRk9sRGQzSUlVZkZ6NEo2SF9ybml4YVVTbTB6cDVMLWExNG1sWWRRemJERnBIeXZqSjZvT1pYcFdHNmhZRmtYeXpUZi1oU2Y3bWVtM3lUNG5RNVJ6dHdKUWdZMS00UXRUanZETXcwbnhZQkFuVHM?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-07T07:00:00.000Z"
+      },
+      {
         "title": "¡Atención Armys! Ticketmaster anunció venta de nuevas entradas para los tres conciertos de BTS en el Estadio San Marcos - La República",
         "summary": "¡Atención Armys! Ticketmaster anunció venta de nuevas entradas para los tres conciertos de BTS en el Estadio San Marcos &nbsp;&nbsp; La República",
         "source": "La República",
@@ -543,6 +543,14 @@
       }
     ],
     "cultura": [
+      {
+        "title": "El Niño: autorizan suspensión de clases presenciales en Lima Metropolitana por emergencias naturales - Prensa Mercosur",
+        "summary": "El Niño: autorizan suspensión de clases presenciales en Lima Metropolitana por emergencias naturales &nbsp;&nbsp; Prensa Mercosur",
+        "source": "Prensa Mercosur",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ1lKS1pSRVVPNGdVMVNqX3FIR0c2VEtRRXREeHJfNnZrNUxPVnpYekNrSHktVTN3QTgxbHQxVVg0dUc4SGwtSERTLXBPTjJocTFvbFBxbFdfYzItbkY0YkMyXzVSX2g5OFpCRl82ZUJhZW05VnZlSDlvOWlFQ2s2UWNra05nVUJycDFwVE9HS21hSmpOTkdNeGJ1OFBaV3h2NjhoRlZ4RjNMTHNUODlmSDhZU1g4a1BIMmVOR0ttdzhIMUwyTXYycmJRcEJtUktYekpQbQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-06T11:44:54.000Z"
+      },
       {
         "title": "No solo agua y alimentos: nueva ley del Congreso también permitiría el ingreso de bebidas alcohólicas a conciertos - Infobae",
         "summary": "No solo agua y alimentos: nueva ley del Congreso también permitiría el ingreso de bebidas alcohólicas a conciertos &nbsp;&nbsp; Infobae",
@@ -598,14 +606,6 @@
         "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRm9LVTBVY3NHSXAxU3lDSmJFb3ZxWXdDM09QOUxaZGdzMUNyTzk1azQ2cTdYdkhSbWJzOF9UVVBRZUhrblRaMlhydkRLU3JPdVkyNUEzSkdROGN6a2daRDJGUjA5LUxsZ2FQYl9CWDJidlN5aXVUaWlRazFDcDByWW0wcFBMTHdIYzlBejR1dkJDd0VXSVVwbkJfVHhVV3NLMUdJYS1xeVNScDlkZ09qUnI3aXcyTmhFMzJEX0phSVA5SFM0S21CcDRlQnAwQVdFM3pxdEpEamxyXy1UblFIS21pbG9keTBEQ0xOWXpUb2dOVHkzWjVpUElzZkR0MFFNeEZWZ21meFNiSTdv0gGSAkFVX3lxTE05dlNTTU5aWXpxUzBmb3NOc1F3Z21jYVpxX0J5UkdMcjU4ZEUxSXJZSDhfVzMtQl9DNnN5bktWdHV4Y1A4SlR5clFaTzh3Qkl4WV96RVFfTzU1bHlQNHZXY2JTWEtOYUtfWC0wbm9kZkgwQ0VPWWZJVk1ZdnlHMXlERWw0aDZTUmFQWEdfcEFSQW5OUTJJYnVPSE9vd0ExckczcDMtNmxkWnVPeHJfM19FTzBQc2JKZ3FpeGUxYnJIbWp3blJWVjlCVjhwRU1TR2loOGpxMGxLaGdxdXlJRU5SdHhLaTZ0aW4xRzJsdkFqeVZaTjVicFl5bU00eFQ2X043UmdRcnByX2NhSjFCdkhycEE?oc=5",
         "image": "",
         "publishedAt": "2026-11-03T18:54:26.000Z"
-      },
-      {
-        "title": "Señor de los Milagros y visita del papa León XIV: Lima refuerza vigilancia con tecnología - Perú 21",
-        "summary": "Señor de los Milagros y visita del papa León XIV: Lima refuerza vigilancia con tecnología &nbsp;&nbsp; Perú 21",
-        "source": "Perú 21",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWGRMSmhiUVlONTVrQU9xWmNpem4zZlByWS1XcGpnNHE4azhKVEV1ZlI2Q21TZGNVOWtNME9yWFItTlNROWNwbHVzSk9FUFh3RkJTeTUzUjlhSWl0NE44OVpBSm8wZUNGT1Y5YkpacFUzTVRMVncxTGc4SC1IaW5qQi1zRmdyN19ka0ZqNXFMenJzQ29hV0hF?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-02T23:47:44.000Z"
       }
     ]
   },
