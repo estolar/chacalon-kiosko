@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T05:53:06.629Z",
+  "generatedAt": "2026-11-07T12:54:35.899Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -22,6 +22,22 @@
         "url": "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
         "image": "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
         "publishedAt": "2026-09-01T00:00:00.000Z"
+      },
+      {
+        "title": "Marco Vinelli: “Hoy los indicadores de El Niño son mucho mayores que los anteriores”",
+        "summary": "El ministro de Desarrollo Agrario y Riego advierte que el Perú enfrenta un Fenómeno El Niño de mayor intensidad que los anteriores. Explica qué regiones están en riesgo, las acciones de prevención y las vulnerabilidades de Lima.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/fenomeno-el-nino-marco-vinelli-hoy-los-indicadores-de-el-nino-son-mucho-mayores-que-los-anteriores-gobierno-keiko-fujimori-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/CH5W5GNB7ZFXDFKWLCXEALJZ7M.JPG?auth=7492c5897104c46381c1e4a1c93d1f82e0f00475c4f1f3e60ac1e4bb73e0adac&smart=true&width=6000&height=4000",
+        "publishedAt": "2026-11-07T11:00:01.000Z"
+      },
+      {
+        "title": "Talarico, sorpresa tejana, una crónica de Fernando Vivas sobre el demócrata que gana un escaño en el Senado de EE.UU.",
+        "summary": "Los demócratas demoraron 38 años, dos más que los que tardamos en ir a un mundial, en llegar al Senado en Estados Unidos. La victoria es doble porque junto al escaño de James Talarico, la latina demócrata Gina Hinojosa ha ganado la gobernación del Estado al republicano Greg Abbott que postulaba a su cuarto mandato cons",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/talarico-sorpresa-tejana-una-cronica-de-fernando-vivas-sobre-el-democrata-que-gana-un-escano-en-el-senado-de-eeuu-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/ULZPSIIENVGZVFA6W7CJU2VW6Q.jpg?auth=bbb180f23f5c02af4a2dee1933e66e3082bd2727b9ad0b42bd4797db950499fb&smart=true&width=4416&height=2984",
+        "publishedAt": "2026-11-07T11:00:00.000Z"
       },
       {
         "title": "JNE resuelve que primeros regidores electos que hayan sido alcaldes no serán proclamados para ese cargo",
@@ -62,22 +78,6 @@
         "url": "https://elcomercio.pe/politica/pedro-castillo-y-los-mecanismos-que-han-buscado-su-impunidad-y-ahora-buscan-su-excarcelacion-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/6LCC5232TZFM5CWDCAGYKFD6KM.png?auth=33e413133f7b4cfe9e13787611d10dbbc3018e4c259a4b3acc580d7537e8910f&smart=true&width=1200&height=647",
         "publishedAt": "2026-11-06T20:07:45.000Z"
-      },
-      {
-        "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
-        "summary": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/JMFK2PBLARF2FBGIW2NVED4RLI.jpg?auth=9e304a4d5091a8872c648aefa9b9c09d3bf9fece7d35bebe72483d3eb74ecba2&smart=true&width=700&height=395",
-        "publishedAt": "2026-11-06T19:44:00.000Z"
-      },
-      {
-        "title": "Keiko Fujimori tras balance de 100 días de gobierno: “Siempre se pueden hacer cosas con mayor rapidez”",
-        "summary": "La presidenta de la República, Keiko Fujimori, dijo que como autocrítica de sus primeros 100 días de gobierno, podrían haber trabajado con “mayor rapidez”. Adicionalmente, reiteró su reclamo porque esperaba obtener más facultades aprobadas por el Congreso.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-tras-balance-de-100-dias-de-gobierno-siempre-se-pueden-hacer-cosas-con-mayor-rapidez-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/JNGOEZMJIREXVOFQ53EYGDVUWQ.jpg?auth=e8d557c67204ec117229149090b9f0bb859fdf14b611780a2aff7094424fcf10&smart=true&width=1200&height=862",
-        "publishedAt": "2026-11-06T18:21:34.000Z"
       }
     ],
     "economia": [
@@ -87,7 +87,55 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/papa-leon-xiv-visitara-5-regiones-del-peru-los-retos-que-van-mas-alla-del-crecimiento-noticia/",
         "image": "https://gestion.pe/resizer/v2/T26MVTJEBFAJFKPM7KVZQOVD3A.png?auth=a22ed5987d7a626f01be1560d04689459bab2150f857fc4a9234360b052ea3ff&smart=true&width=1672&height=941",
-        "publishedAt": "2026-11-07T05:42:33.000Z"
+        "publishedAt": "2026-11-07T12:00:00.000Z"
+      },
+      {
+        "title": "¿Empresas en Perú empezarían a trasladar alza de combustibles a sus precios de venta?",
+        "summary": "Al 85% de las compañías encuestadas les ha afectado el incremento del precio de los combustibles en sus costos en alguna medida, revela el BCRP.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/glp-gasolina-y-otros-en-peru-empresas-empezarian-a-trasladar-alza-de-combustibles-al-precio-de-venta-noticia/",
+        "image": "https://gestion.pe/resizer/v2/JKB5URGMQJCHZAJQR44MDSOK2Y.jpg?auth=dec9f1751da4211e290ae6af05553ebb64e9c793fc8079f504e5d55c305772a1&smart=true&width=1200&height=800",
+        "publishedAt": "2026-11-07T11:00:01.000Z"
+      },
+      {
+        "title": "¿Una alternativa para elevar la productividad del agro peruano? Los cultivos en el radar",
+        "summary": "La tecnología agrícola de Israel podría mejorar la productividad del agro peruano. Conoce las alternativas para optimizar el uso del agua y reducir costos en estos cultivos.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/agricultura-de-peru-una-alternativa-para-elevar-la-productividad-del-agro-los-cultivos-en-el-radar-noticia/",
+        "image": "https://gestion.pe/resizer/v2/JKQYBU564VGAPDRK5NXVDS4D7U.png?auth=70740d5848486e048711ed3769b8afe7733eb0525f40242a5c7a0a90307a1c2d&smart=true&width=1672&height=940",
+        "publishedAt": "2026-11-07T10:58:00.000Z"
+      },
+      {
+        "title": "Empresa estadounidense Vista Vineyards apuesta por Perú para la producción de uva",
+        "summary": "La estadounidense Vista Vineyards avanza en su estrategia de producción de uva de mesa en Perú. La compañía completó su primera plantación de más de 200 hectáreas en Olmos, Lambayeque, y prevé iniciar la producción comercial durante la temporada de importación 2027-2028, con el objetivo de complementar su oferta de Cal",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/empresa-estadounidense-vista-vineyards-apuesta-por-peru-sembro-mas-de-200-hectareas-de-uva-en-olmos-lambayeque-noticia/",
+        "image": "https://gestion.pe/resizer/v2/KSEJHSNF6ZF45OSP2WZWHLRK7Y.jpg?auth=8027e19d2d37900cde94bd9222979da35971e4baed58b55978913302d20afbb9&smart=true&width=1200&height=800",
+        "publishedAt": "2026-11-07T10:30:00.000Z"
+      },
+      {
+        "title": "Gloria acelera su negocio de panetones: ¿qué pasa dentro de su planta y cuánto espera crecer?",
+        "summary": "Gloria se prepara para la campaña navideña 2026 con una producción de 42,500 panetones diarios, nuevas variedades y una proyección de crecimiento de hasta 10%.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/que-hay-detras-del-paneton-gloria-asi-prepara-su-negocio-para-navidad-y-busca-crecer-hasta-10-noticia/",
+        "image": "https://gestion.pe/resizer/v2/TJI2IDU57NCLVNJGX6F22GD6EI.jpeg?auth=0b13e3f697e4e7e4307949fc16b7d034b979e36d98ec48d1876b8d29cb9c4eec&smart=true&width=1600&height=1200",
+        "publishedAt": "2026-11-07T10:30:00.000Z"
+      },
+      {
+        "title": "El papa en el Centro de Lima: negocios duplicarían ventas y hoteles alcanzarían el 100% de ocupación",
+        "summary": "La llegada del papa León XIV al Perú, prevista del 11 al 16 de noviembre, tendrá uno de sus principales momentos en el Centro Histórico de Lima. El jueves 12, el pontífice participará en actividades en el Palacio Arzobispal, la Catedral de Lima y la Plaza Mayor, luego de llegar a la capital el miércoles 11, cuando tamb",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/el-papa-leon-xiv-visitara-el-centro-de-lima-negocios-duplicarian-ventas-y-hoteles-alcanzarian-el-100-de-ocupacion-noticia/",
+        "image": "https://gestion.pe/resizer/v2/KFDXK57EBVGDFD6AY3DNYZM5LU.png?auth=db5a70b41950b114e7c5329080750cb3f670e26ba9eabbfe4efc4459efb2440b&smart=true&width=1672&height=941",
+        "publishedAt": "2026-11-07T10:30:00.000Z"
+      },
+      {
+        "title": "Empresas: ¿qué fallas en su modelo de prevención pueden exponerlas penalmente?",
+        "summary": "Implementar un modelo de prevención de delitos no garantiza, por sí solo, que una empresa esté protegida frente a una eventual responsabilidad penal. La diferencia está en cómo se identifican los riesgos, qué controles se aplican y si estos funcionan realmente dentro de la organización. Un sistema que existe únicamente",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/empresas-que-fallas-en-su-modelo-de-prevencion-pueden-exponerlas-penalmente-noticia/",
+        "image": "https://gestion.pe/resizer/v2/XXP24SZPFZGMBLDFFJ2FSGUV2I.png?auth=84ac8d0eddfd3c076e40927d1240a2b77994d36457f035e7c84060fba43f639c&smart=true&width=1200&height=800",
+        "publishedAt": "2026-11-07T10:20:00.000Z"
       },
       {
         "title": "Presupuesto Público 2027: Comisión Bicameral da luz verde a dictamen, ¿qué pedidos incluyeron?",
@@ -96,54 +144,6 @@
         "url": "https://gestion.pe/economia/presupuesto-publico-2027-comision-bicameral-da-luz-verde-a-dictamen-que-pedidos-incluyeron-noticia/",
         "image": "https://gestion.pe/resizer/v2/BVV3YCYSW5HL3G3SDRDLLLF36E.jpg?auth=2c36a52677804f21c0ad0577c3eb3947c9866988c41ca06b82b1754522666390&smart=true&width=4096&height=2730",
         "publishedAt": "2026-11-07T04:12:44.000Z"
-      },
-      {
-        "title": "UPC adquiere UCAL por US$ 35 millones y ampliará su capacidad en Lima",
-        "summary": "UPC adquirió UCAL por US$ 35 millones. El campus tiene capacidad para 5,000 estudiantes y se integrará en febrero de 2027.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/upc-adquiere-ucal-por-us35-millones-y-ampliara-su-capacidad-en-lima-noticia/",
-        "image": "https://gestion.pe/resizer/v2/OUVKUV27IZFA5MVRARR6RS55UM.png?auth=1e973dbbcdd83245807ecf3182f31203c276ef5452d3da3fe1fe7515cd268434&smart=true&width=1200&height=630",
-        "publishedAt": "2026-11-07T01:17:55.000Z"
-      },
-      {
-        "title": "Más allá de Torre Trecca: EsSalud estudia nuevas alianzas con privados en hospitales, ¿cómo?",
-        "summary": "EsSalud reveló la intención de la gestión de Zulema Tomás de sumar más proyectos de Asociaciones Público-Privadas (APP) a su cartera, tras reactivar la esperada Torre Trecca.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/essalud-mas-alla-de-torre-trecca-seguro-social-de-salud-estudia-nuevas-alianzas-con-privados-en-hospitales-como-noticia/",
-        "image": "https://gestion.pe/resizer/v2/7YNXKMX4HVACBJMDWKOEOKTXQ4.png?auth=d3798278c49fafbc061f242ee72ecc128dacbc9349c1c64462c42ce956ce2a89&smart=true&width=1672&height=941",
-        "publishedAt": "2026-11-07T01:16:00.000Z"
-      },
-      {
-        "title": "MEF insistirá en mover feriados al lunes, ¿qué falta para concretar la medida?",
-        "summary": "El ministro de Economía y Finanzas, Elmer Cuba, señaló que el Gobierno busca modificar la distribución de los feriados nacionales a partir del próximo año.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/peru/politica/mef-insistira-en-mover-feriados-al-lunes-que-falta-para-concretar-la-medida-noticia/",
-        "image": "https://gestion.pe/resizer/v2/HJF3WFVPBNE6HFM6QGIIV4KGFU.jpg?auth=8106a697e04bea358570464772e971d1c1bc75626a014a7c0c5d95c364b77f7e&smart=true&width=2000&height=1333",
-        "publishedAt": "2026-11-07T00:34:59.000Z"
-      },
-      {
-        "title": "Copa Airlines aumentará a ocho sus vuelos diarios entre Lima y Panamá por temporada alta",
-        "summary": "Copa Airlines incrementará temporalmente sus operaciones entre Lima y Panamá con la incorporación de una octava frecuencia diaria en esta ruta, que actualmente cuenta con siete vuelos al día. La medida estará vigente desde el 17 de diciembre de 2026 hasta el 31 de enero de 2027, en respuesta a la mayor demanda prevista",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/copa-airlines-aerolinea-panamena-aumentara-a-ocho-sus-vuelos-diarios-entre-lima-y-panama-por-temporada-alta-noticia/",
-        "image": "https://gestion.pe/resizer/v2/TTRC5IHNGRCXJD3YNKGX4VP3BY.jpeg?auth=9c82d3c7a93f60864f236cf1d04fc378c960948e455a7b1282c1a68738b396c6&smart=true&width=1600&height=1066",
-        "publishedAt": "2026-11-06T23:15:48.000Z"
-      },
-      {
-        "title": "El Niño pone en riesgo a 58 lotes petroleros, ¿Perú debería preocuparse por su crudo?",
-        "summary": "OEFA advierte que el FEN puede afectar más de 2,300 instalaciones del sector hidrocarburos, en su mayor parte grifos, gasoductos, plantas envasadoras, el oleoducto, entre otros.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/el-nino-pone-en-riesgo-a-58-lotes-petroleros-peru-deberia-preocuparse-por-su-crudo-este-es-el-plan-para-evitar-golpe-noticia/",
-        "image": "https://gestion.pe/resizer/v2/AMAIQJLCEBC6JPXJPPZLINWUJQ.jpg?auth=54ee7ed15aabb9a831242295e4c89d7611645a38a3f34bb9ac2fb22924845488&smart=true&width=1800&height=1200",
-        "publishedAt": "2026-11-06T22:30:00.000Z"
-      },
-      {
-        "title": "Empresa española de explosivos afina su estrategia en el sur con nueva planta en La Joya",
-        "summary": "El crecimiento de la minería en el sur del país exige una cadena de suministro altamente especializada, donde el abastecimiento de explosivos y emulsiones juega un papel crítico para sostener las operaciones tanto a tajo abierto como subterráneas. En ese escenario, la compañía española MAXAM, fabricante de explosivos y",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/espanola-de-explosivos-maxam-afina-su-estrategia-en-el-sur-con-nueva-planta-en-la-joya-arequipa-y-busca-acercarse-a-tia-maria-noticia/",
-        "image": "https://gestion.pe/resizer/v2/SCWD2FGSP5A33BE5SWCJT6EV3Y.jpeg?auth=d1c634bb2cf37b4e0e1c8ca6c8a9ed59375d036bcd7930ea0870cd46ca24e4c7&smart=true&width=1600&height=1200",
-        "publishedAt": "2026-11-06T21:43:58.000Z"
       }
     ],
     "sociedad": [
@@ -172,12 +172,12 @@
         "publishedAt": "2026-11-05T14:18:00.000Z"
       },
       {
-        "title": "Ley de IA en Perú: cinco claves para empresas - La República",
-        "summary": "Ley de IA en Perú: cinco claves para empresas &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ25GSGJZSjRxRklEb2c4ZGFsM3VULVpHNHpsRVZYNThQYjB6OE1IZDdWRXJ3UzFVVzBYM2JzRjkzdVNwM244ZE5OeW5TVDlxMktmdGd4NDlkWmE4RmJfNEw2Sk91ajVnLVdVM3RYdUE2VVZIdGRVanQ3XzM5ZzVOUVI5SGM2OURPOHMxTnV1a0ZvRUlCRk9Db3R5c1FkRzNibGpvbzlPWkU3TURaV2VqenJETHVFZVJBdW10bjdSdTBGbmtVSW1sYjRkcVhCbk1FNmRkZy0tWng3TmtVbkxIRjlIdVN5d25DUWVXVDgxQm1sZXJNdjIzM2cxV08?oc=5",
+        "title": "Niños y adolescentes de nueve regiones presentaron al Congreso una agenda con propuestas en educación, salud y medioambiente - Infobae",
+        "summary": "Niños y adolescentes de nueve regiones presentaron al Congreso una agenda con propuestas en educación, salud y medioambiente &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNTJaU2Rvd3dNM200OWN6ODRyWVRObEdQT25LLVNrX19OdkxQTWlLVDJrMk12STFLVWZnbzEzRHhOUjNGaGhuTUdJT1pNZUYzS0pFUXdwdFMwNEIyOVJVaXZsS1FiZkdoWUNNMEpETnQ0RlhPT1J3endWcnFBMlUwLUJQWWpYa3duZTVJOGNKaVA1TFpnOVo4aUJxWlBSbl9sSUpBVHVDc3Axc2YxMUo5ZlkzSHJ0TzdnVGZVTjV2VllFSUNsT3FwZHZzekdsOUl0V3BwRDdKbW9haUpoVG9Xa2VhWHRnUEtSdjg1ZE5mdXU0M2ZfWkRR0gGSAkFVX3lxTE9MWFl0SFRnU2JrWUpCM196YmhDT2huNEFERmlnZ0JoS2ZEeHVFN1hfWWRORzNrbjkxb2VDbmhvZHZpOE5FYUxtdjJ6Ukx3OVJxQzhtQnhTRlJ3SVhieFl6enlqeEdIeEg3bXdYOHpEUXpPdUpKNzQweFU2WThaVlBaOFJNWkpMREJ1UXA3VlBDWXdtYmpoX2c0aHdsLXFrVjBPbFhtdkRMaTZ4X2FKbGJneFlmWHVFZDZEZTdfVWRQNHl3WFptV2w5cng5MkRiZE5VdkVDdzZlOXNmMnJLZnYzc3Z0emtMOFVZdGoyYkRTUXF0LW5HTXFSZW1tWXA3U3hpZUVLMmhfdkZ5V3ZmN2VXVWc?oc=5",
         "image": "",
-        "publishedAt": "2026-11-04T17:00:18.000Z"
+        "publishedAt": "2026-11-04T18:31:00.000Z"
       },
       {
         "title": "Progreso social en Perú: educación y conectividad avanzan, pero salud y derechos retroceden - La República",
@@ -213,6 +213,14 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Premios +50 Emprende Perú: diez emprendedores mayores de 50 años disputarán la final nacional - Revista Economía",
+        "summary": "Premios +50 Emprende Perú: diez emprendedores mayores de 50 años disputarán la final nacional &nbsp;&nbsp; Revista Economía",
+        "source": "Revista Economía",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ0g1bVpzX2kzU24yUGJmQUdaVzJ1Z1l4aHFkM0R4UnlDeW1JUGxyT2ZVU3pYamZON0swTldfUTBPaHlUVEZlT3B2bTRkdXJGTEJlTHVKTFczZHBxTWl3WmVlSXFLaXA5S3l2NUJLN3g4bjRWNHZNNUtTa1JJdHFGWkYzZzc3RFQya0FLbFZhWXlUdjNSSHVDbFRlN2hUaUZxdV9weUEzdHUzZU4xUVRjTF9mcG5tTE9ldTZnNXVrMXdOdw?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-06T17:30:44.000Z"
+      },
       {
         "title": "Perú emprende, pero le cuesta escalar: por qué pocas empresas logran dar el salto y crecer fuera del país - Infobae",
         "summary": "Perú emprende, pero le cuesta escalar: por qué pocas empresas logran dar el salto y crecer fuera del país &nbsp;&nbsp; Infobae",
@@ -268,14 +276,6 @@
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1BXc0NCUE53Q1dicXN4ZXFJY3RHNmhlQnh1UG81VHItc29JbE5KdDViOTB1OW5Ja3V4dTdWRWZGLW1zRlVHUVJPNFMyS2h6YzR0THpaeC1EbmdfTlJNQzB4RkJ2VU9wZWN5YjZuelBIUG1DZlVxeURaVTdIdjZTRGdtUmRKaEEzY2dKd2pKS0h2RjUtN1JualhXY3lPbVdIdDlaRFdnRWNUd2p2b1RtTjJQcUx6d21ZNkdkT0dSWU9hV3Nya09UckFMNmFIUQ?oc=5",
         "image": "",
         "publishedAt": "2026-05-27T07:00:00.000Z"
-      },
-      {
-        "title": "Auge del emprendimiento senior: más negocios y reconfiguración del consumo - Gestión",
-        "summary": "Auge del emprendimiento senior: más negocios y reconfiguración del consumo &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcXdIOVdzRmx1VzJfeERKV2sybEYwbm5BbHNRYnRDMTltMGFjWVdsSHdnOTlvb0l2RllLaTc4SXJkalpPaHdlSVFsUW9VS2g2Z2JzUDlyUl9OYjhaeE5Fa2Rwb0VwWEhiX2ZOUmdVa21vdlZqSWxqVFBabHhzOUlUUHJHOW9CcU4zQWltY2hBY2g2eGFycXVtbl9GVElsR3RQc3VxY2RHZjU0RzRoSmxrLTZPM3J4OU9hMzFYUnRfbVhsRUx1VVphdXQySVoyYi1OUkJudU12WnFPYld0SXU2QnNFb3k?oc=5",
-        "image": "",
-        "publishedAt": "2026-04-28T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -288,12 +288,12 @@
         "publishedAt": "2026-11-06T17:07:58.000Z"
       },
       {
-        "title": "La inversión en tecnología triplicaría su contribución a la operatividad de las empresas minero energéticas hacia el 2030 - Gato Encerrado",
-        "summary": "La inversión en tecnología triplicaría su contribución a la operatividad de las empresas minero energéticas hacia el 2030 &nbsp;&nbsp; Gato Encerrado",
-        "source": "Gato Encerrado",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQTNPYmZxbmpCaVN0eWV3cUdSSVB1UWd5RkdkekdDaGR1bFAyVUZwaTZMV1l5aHNIQVQ5VVd5SGRWRkxfZWNfejFFOEFvRy10YThUM2c2SzhBN1c2dnM5Q3A5VVdoc0pKVFE5d2hmdmxOWTl6Ynl1N3FGWGxGUXRnV0JFSnB1aURkbzlzaXFTMGZseHd6T1N1cmU5VGQtMklQRDRYYlEzbEFVMm1DaVNXTGl6eS1fS1p4QVFMNnF1TEJqUEE0LWJyYzBFWXdlWGlnZjdkV3NCRXJaSEhGZGxUTFNxNWdINGs?oc=5",
+        "title": "Noruega y Perú exploran inversiones y tecnología para la minería - Rumbo Minero",
+        "summary": "Noruega y Perú exploran inversiones y tecnología para la minería &nbsp;&nbsp; Rumbo Minero",
+        "source": "Rumbo Minero",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0ZKM3Zyc29QUGx6Q2dKVDJja3RsQlgyUUp2ZlJBdWRfVUJ0aE9mZnJ5eFhMSUU5NWU4WUYzaEp2NGp3blgxVm53TlVWRENSVVNzalZCSHlKTEMzcS0weVBhOU4tS1NOeENVUGtBcFlrYTNQYXhrcmY1cTdlN1FMNU41WFpXWTV5d091MENfWXV1U09oTU9YMzVpdEh3RlNucDBrRkFtS29jN3paamNKeHlkQjVOZw?oc=5",
         "image": "",
-        "publishedAt": "2026-11-05T23:52:00.000Z"
+        "publishedAt": "2026-10-25T07:00:00.000Z"
       },
       {
         "title": "I Convención Nacional de Innovación Pública y Transformación Digital - Plataforma del Estado Peruano — gob.pe",
@@ -328,20 +328,20 @@
         "publishedAt": "2026-08-13T07:00:00.000Z"
       },
       {
-        "title": "Innovación en Perú: solo 49% de jóvenes lleva sus ideas a la práctica pese a su alto potencial - La República",
-        "summary": "Innovación en Perú: solo 49% de jóvenes lleva sus ideas a la práctica pese a su alto potencial &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd1VvSzdkRFl4UVNGd1lxWDYwQmVLVkJHRnlpV00xY29mSDNDQThwa2J6d2ZGbnpFdVF0Vnh5eFdhb0lPcUg3UVhtQ1VOY2VZTlFkRkpKZGJHTHBwWlJCUXFsNFRneWpCbmhucFBYNkR1VG0xc1h0WmRQYTE4Z1VjMmdvRnRjTXN5NUpEVktzakh1NlpJd05xMjg5eWJwNjhnaG5WdkQ4MXNuU0wxSkpqcGpNdDhOVmp3NEd3cUxJYnR6d0lVR2tNTmNiX3dBYVlmY3N0bkoydTJjV1B5aDMyT0xR0gHnAUFVX3lxTE5uU3RfVF94NzFidjdsSmd0UzBNWE45Y254cTVyNnRPMHQ2eEY5cWY2S2h0MWExX0FWQW5KLWRJb1JBa0ZVeFlsbVJUdnNMa1RVbTVKeE41YlhWSW5ITHc2NXQtelNmREh5blFGOFEzRXNPS0NMYzc1R0FWZ3pqYTJJZXZlSExhNExtZWNBbEhQQWJqVm5rTVhERzVESHpGVVRIRHpub1ZPenhkVFpCb1JkRjU5b1RUNHFKS1Nqd0hNakxwS0dvdkl2TUphQURSRlRVNUVEcXhNRE5BOExwdkp4VmZmLTZPSQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-12T07:00:00.000Z"
-      },
-      {
         "title": "Ingeniería electrónica, motor de desarrollo - El Peruano",
         "summary": "Ingeniería electrónica, motor de desarrollo &nbsp;&nbsp; El Peruano",
         "source": "El Peruano",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd1l3UjlBcXZfbXZPWG1QNHBaUDNWTkxfc2FJbkhZZG9fRXl6emhTVzBvOVBvZS1pQ0hCZjg1bUQwemdOWkZNOHRtNTlHUGJnaERLOUZjQVZnOTUtd09kS3FfWUpxQ29RMTVxWmphVmNfa0hmeUdfejJvSjdpRGRBR0F2UnA?oc=5",
         "image": "",
         "publishedAt": "2026-08-12T07:00:00.000Z"
+      },
+      {
+        "title": "24 semilleros de investigación de Cundinamarca mejoran sus capacidades con acompañamiento internacional de CONCYTEC - 24 semilleros de investigación de Cundinamarca mejoran sus cap",
+        "summary": "24 semilleros de investigación de Cundinamarca mejoran sus capacidades con acompañamiento internacional de CONCYTEC - 24 semilleros de investigación de Cundinamarca mejoran sus capacidades con acompañamiento internacional de CONCYTEC &nbsp;&nbsp; Gobernación de Cundinamarca",
+        "source": "Gobernación de Cundinamarca",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaG94YzZZUlRrbWhTOG1UTGlYSU0xNG5yUTYzN1dMQU5xbElHX2p5dm9FcHhNSk1ueFE5ZkFhaU52S1pBM0V2ZUM4clBrVDVmTVBqNEtYMVE2YTRmVDdCZlUxUjBEV1lobUphV0dCZFRjUU5GT3l0RnN1cWhQUVI3QlBIelNtS3V4LUJBb2tkQjN2cFZlS1FpYUUyYTZIaTFkS1Ewem5hYzJrbjRTMlUxQk9Fak1zeVlqbXprZWZjZWgwNWczcGdZQ3RWb2hhSTQ4Q3dWVDY3bVZjWDNCdl9Hektnc0tkRV80WGdvcg?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-01T20:32:44.000Z"
       }
     ],
     "ia": [
@@ -352,14 +352,6 @@
         "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQeWFZV0RIOUNjRDZ5VEFPQ1ZOTGVEYmY3QTBBRlZnOV9uSXJFemkzZjZSU1QtS21MYk5aaXZtY21rejU2cmJRWEt2b1VGS1dlRlZTVy1jajdTMmlxYzg5czdmUGlmNFhtaEdkYmY3bXhNMS1fdWdvc1pMcHpBblFvaURCeS1GeUJsLS1ySTJ0VjUzY1RtcVhPUGJLYjBUWTNwUkxWV3RNZTNXYlVpNk1iUnJESEY2WmFpWld5TkI1RHFMdVdFUzNEcl9GdmdCMzVtc2lncTNrZlVFMXVOWkxFdTEwZEFaTVJrU1hqUlNNQTNadmdQLWEyWnQwVHJqemNGY3JwQ3hkTWFxSXdrMUVvMkh5ZXdGUdIBqgJBVV95cUxORWg4dE5LNWpnZmlHdVFlUkxJeThmbDdxa2hLMUFla3BwSEdfLW14UDdmMGRyTDI5SFNyeU5sT2pnYThBN0R4M1VQZl93QWVGY3NZTTgwZjRJaGZDT3ZyY0FXTF9JVno1Y3Vpdkp5Rm5hZDdQcE80bmVyRHl2WE02Q0Y0NXNPbk5ieFc2clQxckx1d0JhcEVaQzdvdlg2Z0RHTW02dGtBTXJISUMzMldtbG5wZHdJOG1iT0ttWWotcXdsRENvdFhUZ2otTUdLY3B3anRUekJjekxnWE15aEZjenRZSHZETFZESjBUUFluc0xxV1k0ejVMc01hZXNFeXZ1R0c2eEtLZ095NzNqOHRRVXhyNlBoWkRxa1BWQVNVZks3V2FHMXlzQnh3?oc=5",
         "image": "",
         "publishedAt": "2026-11-06T14:55:38.000Z"
-      },
-      {
-        "title": "Google reconoce a la UCV como universidad referente en uso de Gemini e inteligencia artificial en Perú - Mercado Negro",
-        "summary": "Google reconoce a la UCV como universidad referente en uso de Gemini e inteligencia artificial en Perú &nbsp;&nbsp; Mercado Negro",
-        "source": "Mercado Negro",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNzNJYklqYUgzaURYTFNJMmlaSGxoY3pXMjFyeDBzeDhuYlR6TzNBMjdVRktVOWlxdG5DNXJTX29YVnNEdVlzN3RwUzFfd0ZSSncyb1FSeEQ5ci1JaC10TEVNRy04clItbXlJYk5BZ1pfeHN0YklLRW56aGREaHhNT1JWVzA2OFpJN0xxU2c3d2FkVUNzVnBHb1VuTHM4QjZNVnpFUFBvandiaXdNNzFiX2JCTnkwNjlFWHJHSnRVU1Y4ZG9ZZHhDTUhWSUF1WVRDOUpUOUJUeVY?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-05T21:51:31.000Z"
       },
       {
         "title": "EY Perú: Las lecciones de las empresas de EE.UU. para evitar errores al adoptar IA - Gestión",
@@ -376,14 +368,6 @@
         "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQY2IyNUxraHVzU09jVGp4WnNaUURmdUluaVgya2szVjV0UVFRVE9rRnlHelVyUmRYQmlqbGJxN05IR3VBcURhLVBtd0pIekY1Zmp6QmZfdVNjdjhOeVRpaTcyN2IxRnpEUFo1QnhCLXVBVVd5ZVlKTm9iYmJnOV9Nbk5LOElQUWJ6NHZrb0paNWo2c2ZQUUxtOGdpeFVmbzhGVlg4VlByQVhkTmZVYzRVYlU3d2NDZkpFVndCbE1wRnRLYkMzVjNFQ0ZZVW5ra2ZEZmlyckVMSzU2QkNZZmlIRWt1Wmt3RzVIU3Fsa25JVFNGV3JxTzY0VlNR?oc=5",
         "image": "",
         "publishedAt": "2026-11-05T00:49:56.000Z"
-      },
-      {
-        "title": "Ley de IA en Perú: cinco claves para empresas - La República",
-        "summary": "Ley de IA en Perú: cinco claves para empresas &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ25GSGJZSjRxRklEb2c4ZGFsM3VULVpHNHpsRVZYNThQYjB6OE1IZDdWRXJ3UzFVVzBYM2JzRjkzdVNwM244ZE5OeW5TVDlxMktmdGd4NDlkWmE4RmJfNEw2Sk91ajVnLVdVM3RYdUE2VVZIdGRVanQ3XzM5ZzVOUVI5SGM2OURPOHMxTnV1a0ZvRUlCRk9Db3R5c1FkRzNibGpvbzlPWkU3TURaV2VqenJETHVFZVJBdW10bjdSdTBGbmtVSW1sYjRkcVhCbk1FNmRkZy0tWng3TmtVbkxIRjlIdVN5d25DUWVXVDgxQm1sZXJNdjIzM2cxV08?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-04T17:00:18.000Z"
       },
       {
         "title": "Telemedicina en Lima Provincias: el reto de conectar más centros de salud - La República",
@@ -408,6 +392,22 @@
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUXU3bHFiYmxFVFlnNU1yYjdDR0JLNVJWMHBDZ3pMVlp3Uld5bHc1dVdVWDkwQjNfa3V2RnVPcGJ5ckttOW4xMGNNamVheVJNQ0I0MDFHelZId3VXNjJaYVRDVTJmNTVUUWpzWnFpeUtQaFpaNGRNekRzc0NMTEd6TnJ3RWdrRDhBUzcxMUwxczcxT2NTc1JjbVZNa29KV2o1NEtydFRXOV9jVEpWWTFjRFFQaHBVR3RRR3c?oc=5",
         "image": "",
         "publishedAt": "2026-10-15T07:00:00.000Z"
+      },
+      {
+        "title": "Inteligencia artificial en Perú alcanza adopción de 17.3% y Microsoft ve potencial de crecimiento - El Peruano",
+        "summary": "Inteligencia artificial en Perú alcanza adopción de 17.3% y Microsoft ve potencial de crecimiento &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVmRsM2lCcVpqUFBBaTYtemZrTllMVTNSQ0NWd2ZmZzlfa1NGOV9zY0w1VE1DZ1hwZDREYWNVaUtzbkwxNENoa1NVSWxrR0I0YVZJMnhMVzdYQWR4WEVQb1k0cGNpLTZucVpoMGEtclZZM3lkZnlSNW56TDUxRk0wYmIwc1lLTjFEMDM5aVdScG1zVjQxZGJBV1V4OGg4aFNhRUQzd1o4WmhDbXJFazRTYnBkTUtnWDlOUkxIUXVyQ0NRUE5ld3YzalF5UQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-12T07:00:00.000Z"
+      },
+      {
+        "title": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial - teleSUR",
+        "summary": "Perú y EE.UU. firman acuerdo para impulsar inteligencia artificial &nbsp;&nbsp; teleSUR",
+        "source": "teleSUR",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzFCZlBlb0hJQ2QxVS1ZUzdTTTBMWGdETGRkSVR3ZHByRjBvVU9SdkU3RmhQRzZPN2sybE5jbmFvdkQxVEdEVVQ0amFOOFh6NkhOY1Q3S0l0X0J5aXNWWi13NTdmWElJXzZ3eVJKN2ZCSzNxRWxwM1o5aDM1OHVJcG5EUlpVQm1fM2hpWQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-10T07:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -478,14 +478,6 @@
     ],
     "farandula": [
       {
-        "title": "Rebeca Escribens llama celosa a Ana Paula Consorte tras su mensaje de Halloween sobre los falsos - Infobae",
-        "summary": "Rebeca Escribens llama celosa a Ana Paula Consorte tras su mensaje de Halloween sobre los falsos &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaVpxLXROd0dNVGxvSjIyZGJoQjRoX01JV1JreS1jRGZ5Vkw2cHIzdlRWbFU5TDhJN0JGa3hNQjRvTXBWa0dPRThGaENWWHpUSU1nVk5xZU9sTnNhWjNjS2pXeDRSMDkwYXVRZlN1ZmRXVDZYaUQ1Z0ZLaFNyVXJUbnZTX1lzWV9fbUh1WWRRS2N0U3JBejNPazdQblMxQ3Z1ZHpHN1l1SXAzZTFvT0QyWk5TdDN1U2Y3YlB1Rk16eF8wdVJzVU54YVhjN3NTaGdnQWJr0gHuAUFVX3lxTE1IRGtyU1pxRWtiMWNTQTA4RE5fZGdsMmJ1RDJDVk1IejBJX1dNRjF5WHMwd0pPOUItNGsyalR0Y2V6c1VoYTRZZFJjb05LXzl0NzAyQzc3SW45R2JYaVRJb1dhRHJBYlhiTFlwY0ctSkhiV3VqM0o3bGRMaHlFaUE4R1hxUUtKTFJCMkc3dzhFTnBVeThyY1hZZ0F4S2xWUjZ2LW5ibUFNZWI2dWZLb0p5dFZFUVVudlhfeXRMQVExQW1aQUpLWXlxSTNBbDNjT1pWa0xZM1lrcFMyalV0eV9ERTYxLU93R2NQVEdmZFE?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-02T21:40:00.000Z"
-      },
-      {
         "title": "¡De las pantallas a los conciertos de BTS! Conocido actor peruano sorprendió con su talento detrás de cámaras - Trome.com",
         "summary": "¡De las pantallas a los conciertos de BTS! Conocido actor peruano sorprendió con su talento detrás de cámaras &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
@@ -518,6 +510,14 @@
         "publishedAt": "2026-10-07T07:00:00.000Z"
       },
       {
+        "title": "¡BTS ya está en Perú! Grupo de K-pop arribó para dar sus tres esperados conciertos en el Estadio San Marcos - Trome.com",
+        "summary": "¡BTS ya está en Perú! Grupo de K-pop arribó para dar sus tres esperados conciertos en el Estadio San Marcos &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNmx0Rnc5SWVnVTJKRTVIZmlrcHlaSEJhaDhGcDdxODduSEtDR2Fla2tIZHYyaExOejNKcHdQd2FXbHRRVlFoZlAxN0VGTHpVSWRyMkdkYjhmallqUEg1WmxDa19jNzRwbFhDSHJES0RlU0Q1U0xyRjBTRWZ5SmUzdXVjX1I2Z2NqUGlPMFo3N1VLbDlKUU82M2tmZDQ0c2dWM2xqajdDSmdzMDZNM0tWT3huMUNQNXZFeE1sVm91MmJWZ0V6ZGozNzRkd01CM3gyQ3Rsek5fTUx3TGY1WTFWbW9xMzEwamh10gH8AUFVX3lxTE9lM05WNjM2a2tXRzRLdUJKR3pOMmdxM1NNYUFsRFpWSWEzcjlOZjdyUk4xamNrZjA2TmtDU2NaZHByWDA0dVJ3aWRObFNEOTdCREF0emh1b0tpR2RWOUpyMGR1ZHpwN2RtQXZ5VHl4dEJlazBZUWd5WFhYUDAzOXFPTnloOUdTYi1HTEcwbTVLY3ZFOHZpaUlua3pweWRqRkVPU2VWY1NhTUduVm1zRVlucmhHRDFJRHNSUWRZMkc1UFB0dnhZTEk1STh3SHJ1ZzRHcVhrYXpmWk5KYzlWNWtJcmhqcjZqM0xJTDVmR2ZoblJSQThfRWpOSndZaA?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-06T07:00:00.000Z"
+      },
+      {
         "title": "¡Atención Armys! Ticketmaster anunció venta de nuevas entradas para los tres conciertos de BTS en el Estadio San Marcos - La República",
         "summary": "¡Atención Armys! Ticketmaster anunció venta de nuevas entradas para los tres conciertos de BTS en el Estadio San Marcos &nbsp;&nbsp; La República",
         "source": "La República",
@@ -526,20 +526,20 @@
         "publishedAt": "2026-10-06T07:00:00.000Z"
       },
       {
-        "title": "¡BTS ya está en Perú! Grupo de K-pop arribó para dar sus tres esperados conciertos en el Estadio San Marcos - Trome.com",
-        "summary": "¡BTS ya está en Perú! Grupo de K-pop arribó para dar sus tres esperados conciertos en el Estadio San Marcos &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNmx0Rnc5SWVnVTJKRTVIZmlrcHlaSEJhaDhGcDdxODduSEtDR2Fla2tIZHYyaExOejNKcHdQd2FXbHRRVlFoZlAxN0VGTHpVSWRyMkdkYjhmallqUEg1WmxDa19jNzRwbFhDSHJES0RlU0Q1U0xyRjBTRWZ5SmUzdXVjX1I2Z2NqUGlPMFo3N1VLbDlKUU82M2tmZDQ0c2dWM2xqajdDSmdzMDZNM0tWT3huMUNQNXZFeE1sVm91MmJWZ0V6ZGozNzRkd01CM3gyQ3Rsek5fTUx3TGY1WTFWbW9xMzEwamh10gH8AUFVX3lxTE9lM05WNjM2a2tXRzRLdUJKR3pOMmdxM1NNYUFsRFpWSWEzcjlOZjdyUk4xamNrZjA2TmtDU2NaZHByWDA0dVJ3aWRObFNEOTdCREF0emh1b0tpR2RWOUpyMGR1ZHpwN2RtQXZ5VHl4dEJlazBZUWd5WFhYUDAzOXFPTnloOUdTYi1HTEcwbTVLY3ZFOHZpaUlua3pweWRqRkVPU2VWY1NhTUduVm1zRVlucmhHRDFJRHNSUWRZMkc1UFB0dnhZTEk1STh3SHJ1ZzRHcVhrYXpmWk5KYzlWNWtJcmhqcjZqM0xJTDVmR2ZoblJSQThfRWpOSndZaA?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-05T07:00:00.000Z"
-      },
-      {
         "title": "Robbie Williams vuelve a Perú y confirma concierto: Cuándo, dónde, precio de entradas y su mensaje - Trome.com",
         "summary": "Robbie Williams vuelve a Perú y confirma concierto: Cuándo, dónde, precio de entradas y su mensaje &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeDhpck52bTJ5alVWN3U0V1dsVHppWHFQRV82NmlxVTJhZG5WRVgya1RLWGtPSTBXVWpPbGY3ZFNVdksyZ0VvSG14OHFkWmlWc3MwaW9KTVREdFVDZUdYdmNJSXZ0cmY5NkRGZk5KTGVGWlVQdGt2VVY5dk80RG1qcTRYdlBHdFNhbFdaYS1NRmhYQVl6OUt3V3daUzdabWNXcDY2R1pkS3l6OUJTS3ZMZlBrRHBKZ0tKU1Ewc2R0N3FoS1VVU1FTYklVTVZTMW42VjVEbW9MSzE0T1ZJdDctMUVMcVpEUDVHU0NZcUdXSWVKc1g5eUHSAYoCQVVfeXFMTzIyU2Rna3hnazdJN3NlTmc2SU8yM0h6ZV8xaDgtbUx1UWc1aXE5SVA3VXJZVktVQ0ZGckhHREQ0OHVKR0szRnVyM2RpcmhQbGFESzRpcEZiVXM4M2d1b0daeWVmcmNReWpOUFhlcDR6MzR4NTkwOXJDdEdQRmk1NEx4UG91YVJKVGU2YWlDX0FCbUJoUnlUc242cjJkR3d2bk5zbEg3ZU1wd0RlQTJMT3ZZNE5kSlppV09PMWVoRk5pQm9sXzlVbFBKLWRCUWY4SW9FUk5oUGQxcW1ZTHhiUTA4WjdPalo2R201LU91NHA2bm9oR0IyanY4SHFvUFl3b2RpYS1fQVlWTmc?oc=5",
         "image": "",
         "publishedAt": "2026-10-02T07:00:00.000Z"
+      },
+      {
+        "title": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” - Trome.com",
+        "summary": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0ZKVXhOaUNRMF9DMldlUXBKT1hQdXFHRlc0cnpUUWRLdmJFZFFOV3h3eTA5QnlraDZNSGN6bWFjNHJiOVVuSDcxSHlKTWdYY2hSY0VvWDhWb0lJVDhZeWJQb3Q3eWhTdG1qTEJJWVJTdmdCUUU4Q2hpODRQYjQ1NUw5OEJ2aUxNeFRxVHpVZVdMZThWanlrTUE5X2RpSVNMenBEaUdXSzkyczJ0UXVVdGdoc0hXejDSAcsBQVVfeXFMT1NEd25TWlFTdmhlR040dk1hWTkzNzR1eWJGUE12ZU9QQUw4UGU5Y0R1MjVWNE1uRGh3TUJIWTBiaFVOYi1pVlNwZEV2NVRkUzROTDlqLUtIM2liMzcyM1lWdWZBX1RTZUhSLW1xTGprT1pNTHZtRWRLR0s2LXA5dXBwUzBYS0JCTWNNam5IeG1ZTDFKYUhua2xMaWNCajBra0dOWlpTR2h6Yk1rYVp2djU3aGlhN0JodVB4MlhnY0lPdGRmX090c0RZTmM?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-26T07:00:00.000Z"
       }
     ],
     "cultura": [
