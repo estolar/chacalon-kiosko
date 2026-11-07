@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T18:01:05.477Z",
+  "generatedAt": "2026-11-07T21:45:37.353Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,20 +24,28 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Keiko Fujimori saluda a Pedro Alliana como nuevo presidente de Paraguay tras destitución de Santiago Peña",
-        "summary": "La presidenta de la República, Keiko Fujimori, envió un mensaje de saludo a Pedro Alliana por su asunción al cargo de presidente de Paraguay. La dirigente de Fuerza Popular difundió su pronunciamiento a través de la red X este 7 de noviembre.",
+        "title": "Pedro Castillo: ¿Cuáles son los mecanismos con los que busca impunidad en sus procesos?",
+        "summary": "Pese a que la justicia lo halló culpable por conspiración para la rebelión y arrastra otros procesos, ahora se intenta su excarcelación a través de una propuesta Ley de Amnistía desde el Congreso Bicameral.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-saluda-a-pedro-alliana-como-nuevo-presidente-de-paraguay-tras-destitucion-de-santiago-pena-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/WLWNRVRTOBFZPHC72DTOI6DMUM.jpg?auth=06f133cbb599b797e0ce1374346ed3dce3a1e3f37a4bcb5f35b95038852e2544&smart=true&width=1280&height=853",
-        "publishedAt": "2026-11-07T17:52:07.000Z"
+        "url": "https://elcomercio.pe/politica/pedro-castillo-y-los-mecanismos-que-han-buscado-su-impunidad-y-ahora-buscan-su-excarcelacion-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/6LCC5232TZFM5CWDCAGYKFD6KM.png?auth=33e413133f7b4cfe9e13787611d10dbbc3018e4c259a4b3acc580d7537e8910f&smart=true&width=1200&height=647",
+        "publishedAt": "2026-11-07T21:40:00.000Z"
       },
       {
-        "title": "Francis Allison se pronuncia tras decisión del JNE: “¿Debió manifestar públicamente su criterio antes? Por supuesto\"",
-        "summary": "Francis Allison, alcalde de Magdalena y quien postulara a la Municipalidad de Lima por Avanza País, dijo que el Jurado Nacional de Elecciones (JNE) debió pronunciarse antes sobre los candidatos que buscaban la reelección inmediata a través de llegar a ser primeros regidores. En esa línea, saludó a quien dijo que sería ",
+        "title": "Juntos por el Perú insiste con ampliar el Reinfo y ahora plantea extenderlo hasta 2030",
+        "summary": "La bancada de Juntos por el Perú (JP), a través del diputado Jesús Pérez Alccahuaman, planteó una nueva propuesta legislativa para ampliar la vigencia del Registro Integral de Formalización Minera (Reinfo) hasta el 31 de diciembre del 2030; es decir, por cuatro años más, ante el vencimiento de la última prórroga a fine",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/actualidad/francis-allison-se-pronuncia-tras-decision-del-jne-debio-manifestar-publicamente-su-criterio-antes-por-supuesto-rafael-lopez-aliaga-apuesplan-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/OWCJYG5OABEUZNZFJSPVGSW3QU.jpg?auth=77d72a89114f99d64e6782c9c7565b8c1fe10da855955a407be123978af398e6&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-07T17:12:15.000Z"
+        "url": "https://elcomercio.pe/politica/juntos-por-el-peru-insiste-con-ampliar-el-reinfo-y-ahora-plantea-extenderlo-hasta-2030-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/735WS4ZSNZC4DPBKZHWASWBZRU.jpg?auth=8fbd2f7c707ef435bb23506274a65f215672f97e3f81a3045d504de85f2970c9&smart=true&width=1280&height=853",
+        "publishedAt": "2026-11-07T21:22:02.000Z"
+      },
+      {
+        "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
+        "summary": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/JMFK2PBLARF2FBGIW2NVED4RLI.jpg?auth=9e304a4d5091a8872c648aefa9b9c09d3bf9fece7d35bebe72483d3eb74ecba2&smart=true&width=700&height=395",
+        "publishedAt": "2026-11-07T20:40:00.000Z"
       },
       {
         "title": "¿Puede ser expulsado pese a su renuncia? Partido del Buen Gobierno abre proceso disciplinario a Jorge Gavidia",
@@ -45,7 +53,7 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/partido-de-jorge-nieto-abre-proceso-disciplinario-a-renunciante-jorge-gavidia-puede-ser-expulsado-pese-a-su-renuncia-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/3OIZOGG5QJAWBBNO24SUHBS5MM.jpg?auth=b5d3d8d9839ed965d3e5f490574ec2f4518d227dc0afe9191445fd63cdfeb580&smart=true&width=1200&height=647",
-        "publishedAt": "2026-11-07T16:50:00.000Z"
+        "publishedAt": "2026-11-07T20:20:00.000Z"
       },
       {
         "title": "De Belaunde Terry a Kuczynski: Los presidentes que recibieron a los papas, las crisis que encontraron y los mensajes que dejaron",
@@ -53,7 +61,7 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/de-fernando-belaunde-terry-alan-garcia-y-pedro-pablo-kuczynski-ppk-los-presidentes-que-recibieron-a-los-papas-las-crisis-que-enfrentaron-y-los-mensajes-que-dejaron-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/VXNTF6QEOZBDDAKG3X44GMSO5Q.jpg?auth=1833874bd96ef04652169577ece60600e9ffa2ef38f90c2bd341fa4de39d1573&smart=true&width=1200&height=647",
-        "publishedAt": "2026-11-07T16:35:00.000Z"
+        "publishedAt": "2026-11-07T19:55:00.000Z"
       },
       {
         "title": "Talarico, sorpresa tejana, una crónica de Fernando Vivas sobre el demócrata que gana un escaño en el Senado de EE.UU.",
@@ -61,15 +69,7 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/talarico-sorpresa-tejana-una-cronica-de-fernando-vivas-sobre-el-democrata-que-gana-un-escano-en-el-senado-de-eeuu-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/ULZPSIIENVGZVFA6W7CJU2VW6Q.jpg?auth=bbb180f23f5c02af4a2dee1933e66e3082bd2727b9ad0b42bd4797db950499fb&smart=true&width=4416&height=2984",
-        "publishedAt": "2026-11-07T16:15:00.000Z"
-      },
-      {
-        "title": "¿Qué pasará con Rafael López Aliaga? JNE dispone que exalcaldes que postularon como regidores no podrán volver a ocupar alcaldías",
-        "summary": "JNE fija criterio que impediría a Rafael López Aliaga asumir la Alcaldía de Lima tras postular como primer regidor de Renovación Popular.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-jne-impide-que-exalcaldes-vuelvan-a-ser-alcaldes-roberto-burneo-alcaldia-de-lima-elecciones-2026-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/5C4IKNQXLJDUXALF2WV2H7IR5I.jpg?auth=7ec0e00375959f7d34d990d0a09a17048b8e7acd9bd296ee8f4fdd373772c207&smart=true&width=1200&height=647",
-        "publishedAt": "2026-11-07T16:08:30.000Z"
+        "publishedAt": "2026-11-07T19:35:00.000Z"
       },
       {
         "title": "Marco Vinelli: “Hoy los indicadores de El Niño son mucho mayores que los anteriores”",
@@ -77,10 +77,50 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/fenomeno-el-nino-marco-vinelli-hoy-los-indicadores-de-el-nino-son-mucho-mayores-que-los-anteriores-gobierno-keiko-fujimori-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/ELIXLPCZ5ZA35JX26MTWHF2FCI.jpg?auth=a67f2a61e008dc6e1dfc2c3d658ba9365cc2d45e5980fe3eee64dc78833d8076&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-07T15:45:00.000Z"
+        "publishedAt": "2026-11-07T19:15:00.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Perú superaría a Chile y sería la cuarta economía más grande de Sudamérica el 2027",
+        "summary": "Perú podría superar a Chile y convertirse en la cuarta economía más grande de Sudamérica en 2027, de acuerdo con la proyección del Fondo Monetario Internacional (FMI). En base en su informe World Economic Outlook, cuyas estimaciones fueron recogidas por el diario chileno La Tercera.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/peru-podria-superar-a-chile-y-convertirse-en-la-cuarta-economia-mas-grande-de-sudamerica-en-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/UFFKSENBI5EAFO34WJE7ECG7N4.jpg?auth=adacf43513a9b55a0990e35e8e9643398de62dc20cc12ff33e8a1e59d0e81ab8&smart=true&width=3888&height=2592",
+        "publishedAt": "2026-11-07T21:06:25.000Z"
+      },
+      {
+        "title": "Empresa estadounidense Vista Vineyards apuesta por Perú para la producción de uva",
+        "summary": "La estadounidense Vista Vineyards avanza en su estrategia de producción de uva de mesa en Perú. La compañía completó su primera plantación de más de 200 hectáreas en Olmos, Lambayeque, y prevé iniciar la producción comercial durante la temporada de importación 2027-2028, con el objetivo de complementar su oferta de Cal",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/empresa-estadounidense-vista-vineyards-apuesta-por-peru-sembro-mas-de-200-hectareas-de-uva-en-olmos-lambayeque-noticia/",
+        "image": "https://gestion.pe/resizer/v2/KSEJHSNF6ZF45OSP2WZWHLRK7Y.jpg?auth=8027e19d2d37900cde94bd9222979da35971e4baed58b55978913302d20afbb9&smart=true&width=1200&height=800",
+        "publishedAt": "2026-11-07T20:16:00.000Z"
+      },
+      {
+        "title": "Empresas: ¿qué fallas en su modelo de prevención pueden exponerlas penalmente?",
+        "summary": "Implementar un modelo de prevención de delitos no garantiza, por sí solo, que una empresa esté protegida frente a una eventual responsabilidad penal. La diferencia está en cómo se identifican los riesgos, qué controles se aplican y si estos funcionan realmente dentro de la organización. Un sistema que existe únicamente",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/empresas-que-fallas-en-su-modelo-de-prevencion-pueden-exponerlas-penalmente-noticia/",
+        "image": "https://gestion.pe/resizer/v2/XXP24SZPFZGMBLDFFJ2FSGUV2I.png?auth=84ac8d0eddfd3c076e40927d1240a2b77994d36457f035e7c84060fba43f639c&smart=true&width=1200&height=800",
+        "publishedAt": "2026-11-07T19:54:00.000Z"
+      },
+      {
+        "title": "UPC adquiere UCAL por US$ 35 millones y ampliará su capacidad en Lima",
+        "summary": "UPC adquirió UCAL por US$ 35 millones. El campus tiene capacidad para 5,000 estudiantes y se integrará en febrero de 2027.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/upc-adquiere-ucal-por-us35-millones-y-ampliara-su-capacidad-en-lima-noticia/",
+        "image": "https://gestion.pe/resizer/v2/OUVKUV27IZFA5MVRARR6RS55UM.png?auth=1e973dbbcdd83245807ecf3182f31203c276ef5452d3da3fe1fe7515cd268434&smart=true&width=1200&height=630",
+        "publishedAt": "2026-11-07T19:22:54.000Z"
+      },
+      {
+        "title": "¿Empresas en Perú empezarían a trasladar alza de combustibles a sus precios de venta?",
+        "summary": "Al 85% de las compañías encuestadas les ha afectado el incremento del precio de los combustibles en sus costos en alguna medida, revela el BCRP.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/glp-gasolina-y-otros-en-peru-empresas-empezarian-a-trasladar-alza-de-combustibles-al-precio-de-venta-noticia/",
+        "image": "https://gestion.pe/resizer/v2/JKB5URGMQJCHZAJQR44MDSOK2Y.jpg?auth=dec9f1751da4211e290ae6af05553ebb64e9c793fc8079f504e5d55c305772a1&smart=true&width=1200&height=800",
+        "publishedAt": "2026-11-07T18:13:19.000Z"
+      },
       {
         "title": "SBS declaró disolución de una cooperativa debido a pérdida del capital social",
         "summary": "La Superintendencia de Banca, Seguros y AFP (SBS) declaró la disolución de la Cooperativa de Ahorro y Crédito Financoop Ltda. por no haber acreditado, dentro del plazo establecido, el levantamiento de la causal de pérdida total del capital social y de la reserva cooperativa, que motivó su sometimiento a régimen de inte",
@@ -98,52 +138,12 @@
         "publishedAt": "2026-11-07T15:22:00.000Z"
       },
       {
-        "title": "Dueño de Clamore va por escuela de pastelería y un ‘campus gastronómico’ propio en Lima",
-        "summary": "El grupo dueño de la cafetería Clamore y de dos escuelas gastronómicas cerró un semestre a media máquina por las elecciones y el Mundial. Ahora alista una nueva cafetería en Lima moderna, una tercera escuela y la compra de un edificio propio. ¿Qué distritos mira?",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/cafe-aulas-y-tortas-para-llevar-la-nueva-apuesta-de-clamore-para-crecer-en-lima-noticia/",
-        "image": "https://gestion.pe/resizer/v2/MZ6TEHT75FHPBI2LKFI6K6C4IQ.jpg?auth=716aa26d9030dadde9100cc8ede1cb828231d65d9d2666c1142579e93ddd13ce&smart=true&width=3840&height=2160",
-        "publishedAt": "2026-11-07T13:30:00.000Z"
-      },
-      {
         "title": "inDrive, de la movilidad a la logística y dos nuevos servicios en la mira al 2027",
         "summary": "El mercado de apps de movilidad en Perú atraviesa un año de consolidación dentro y fuera de Lima. En concreto, un estudio de Ipsos reveló que ocho de cada 10 limeños usan esos aplicativos y seis de cada 10 en regiones ya los incorporó a su rutina diaria en el primer trimestre de 2026. En ese contexto, inDrive cumple oc",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/indrive-potenciara-logistica-para-pymes-y-explora-dos-nuevos-servicios-mas-alla-de-la-movillidad-para-el-2027-noticia/",
         "image": "https://gestion.pe/resizer/v2/MPJJYVPBFBALLOCUBRJQB2X56Y.jpg?auth=5a0c46db0e05d30b886f27f1f55116e1099a6a3baea0695e86bfbb3ff914aed0&smart=true&width=1920&height=1080",
         "publishedAt": "2026-11-07T13:30:00.000Z"
-      },
-      {
-        "title": "APM Terminals Callao alista plan para extender concesión con inversiones fuera del puerto",
-        "summary": "APM Terminals Callao ejecuta una inversión de US$ 600 millones y ya alista una propuesta para extender su concesión, con obras incluso fuera del puerto. ¿Qué plantea y cómo se prepara para El Niño?",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/el-nino-y-mas-concesion-el-plan-de-apm-terminals-para-el-puerto-del-callao-hacia-2027-noticia/",
-        "image": "https://gestion.pe/resizer/v2/4YTR7VWXCBFSJDMFYX6YKLWAIU.jpg?auth=997c0b599b6eae0990c1ca11a5a39e271bdf52ac384b02af8e93178837677d00&smart=true&width=1370&height=780",
-        "publishedAt": "2026-11-07T13:00:00.000Z"
-      },
-      {
-        "title": "Papa León XIV visitará 5 regiones del Perú: los retos que van más allá del crecimiento",
-        "summary": "Este “tour” del Papa permite que estas zonas salten a la palestra, no solo por una eventual disparada del turismo religioso, por ejemplo, sino porque permite poner los reflectores sobre los retos que las presionan negativamente, sobre todo, a nivel de desarrollo humano.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/papa-leon-xiv-visitara-5-regiones-del-peru-los-retos-que-van-mas-alla-del-crecimiento-noticia/",
-        "image": "https://gestion.pe/resizer/v2/T26MVTJEBFAJFKPM7KVZQOVD3A.png?auth=a22ed5987d7a626f01be1560d04689459bab2150f857fc4a9234360b052ea3ff&smart=true&width=1672&height=941",
-        "publishedAt": "2026-11-07T12:00:00.000Z"
-      },
-      {
-        "title": "¿Empresas en Perú empezarían a trasladar alza de combustibles a sus precios de venta?",
-        "summary": "Al 85% de las compañías encuestadas les ha afectado el incremento del precio de los combustibles en sus costos en alguna medida, revela el BCRP.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/glp-gasolina-y-otros-en-peru-empresas-empezarian-a-trasladar-alza-de-combustibles-al-precio-de-venta-noticia/",
-        "image": "https://gestion.pe/resizer/v2/JKB5URGMQJCHZAJQR44MDSOK2Y.jpg?auth=dec9f1751da4211e290ae6af05553ebb64e9c793fc8079f504e5d55c305772a1&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-07T11:00:01.000Z"
-      },
-      {
-        "title": "¿Una alternativa para elevar la productividad del agro peruano? Los cultivos en el radar",
-        "summary": "La tecnología agrícola de Israel podría mejorar la productividad del agro peruano. Conoce las alternativas para optimizar el uso del agua y reducir costos en estos cultivos.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/agricultura-de-peru-una-alternativa-para-elevar-la-productividad-del-agro-los-cultivos-en-el-radar-noticia/",
-        "image": "https://gestion.pe/resizer/v2/JKQYBU564VGAPDRK5NXVDS4D7U.png?auth=70740d5848486e048711ed3769b8afe7733eb0525f40242a5c7a0a90307a1c2d&smart=true&width=1672&height=940",
-        "publishedAt": "2026-11-07T10:58:00.000Z"
       }
     ],
     "sociedad": [
@@ -156,12 +156,12 @@
         "publishedAt": "2026-11-07T13:30:00.000Z"
       },
       {
-        "title": "AI pide a León XIV que inste a Gobierno argentino a garantizar derechos de los vulnerables - Infobae",
-        "summary": "AI pide a León XIV que inste a Gobierno argentino a garantizar derechos de los vulnerables &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONWlRZTRmVlV0Um00MXJXVmdtY05iQ3IwYUVkN0lBZUF4UHpPMGNtLTdWX0xQNTVWSlpxYVdiajlIN3dxRy1KaUs2aWUzWHNKa2NDQXlmV3gxY292OHp4elhDaUpSdnZqZnliRVFxeXBHcVdUSFlwbzdKeDVNNVJwWDNlWTJNOUZTWTR0aXNMaUd3Y1hvaXJ0N0lGQ0ZBNEdVY2NaV0ZHR1FLV0hNVUhGQ29ZRHdjcjBuUFE4UE12NWF3WnlRa3d1TkNVTDhoNTFLRmZhQ0Q2VXJXQ2PSAfYBQVVfeXFMTlRKT2treDhQQ3dJYl9MSTFMZzE3d3g0ZDAxTzhYcVVWbkVhY1dJa01TYlljaG9PTEtJbDUybVZyRWlSM0dfcmpWb3BmWklPem8yTHhNaTNSUzFlQXBCcmZsc0hiZWRjMnd2bHlxZWlONF9ZcncyVWhlYVBMVUduanIxaTZ3REZWU2k5enpTb3UyOExUdWN4MWdUeXRONG13Zmw3c090MHhVLTlJUUp4dXVnUHllNEhjeEgtQ0FNbXd4TkpMMDdLVDBhUG9IUVlrU3VPbWp4akhwMUVwbXNLbWliQTVQOFdha0ZLUTlScjFnVXhFQjRR?oc=5",
+        "title": "Amnistía Internacional pide ayuda a León XIV para instar al Gobierno argentino a garantizar derechos de los vulnerables - Religión Digital",
+        "summary": "Amnistía Internacional pide ayuda a León XIV para instar al Gobierno argentino a garantizar derechos de los vulnerables &nbsp;&nbsp; Religión Digital",
+        "source": "Religión Digital",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM1JadktZdWRmdXpHd3N6dEVSMHF1OE1qU1Q4aHhDWloxVkxNMVIxc2ZVQ3lNQ2o5VkNjOXk0VkFCRUJULURTYlJhaVlaT1JIRnY2VmdndHlCZGh1Tk9TTG1tdlA3QVlfVDV1b0ZuODZhMHM3aTNlZHVBcl9lcVZTSkdxRXZjZUJBS2RBSlZPR1pYTEpxaExsNVRXS3IwZGtCTkJv0gGoAUFVX3lxTFBsM1BnY21OcnJLRDBmRzdhcGRJd0Q5QnhLN1Axbldxc1dyTU9veFBEQmJqcU45c3h6d1d4RV9NcU5McS1kOTN1V0NwSjRvaUlEaVNOUVNvTi1XbzFWX1ZZbmpSdmxuelM1SmFlRGo1TWpMVlVOT21XQXd5OUZYRWpXZ2lXNFFXSVlLTWF0bDNvRWpiRG9hWGNDREFQNll6OGFodWlWcnVWOA?oc=5",
         "image": "",
-        "publishedAt": "2026-11-05T14:18:00.000Z"
+        "publishedAt": "2026-11-05T18:00:46.000Z"
       },
       {
         "title": "Niños y adolescentes de nueve regiones presentaron al Congreso una agenda con propuestas en educación, salud y medioambiente - Infobae",
@@ -214,6 +214,14 @@
     ],
     "negocios": [
       {
+        "title": "Emprendimiento silver: cinco formas de aprovechar la IA para hacer crecer sus negocios - Gestión",
+        "summary": "Emprendimiento silver: cinco formas de aprovechar la IA para hacer crecer sus negocios &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWDFlVmlNcU9PdDBlZTJUZlIyenU0RTdxU2RvbGFNcDFIRFdzTUJYdnRwRHNNYlZpNWpEd2RHTE4tZ0hXTm04TXFvOFM4REdTWldCbWVmUGNGNzU3bmR0Q2JhLXo4ZkM3MFNYUFpvWTkyMlNIcXV5S3hUSHRCRlJWS09PRWdxdWplSld5cVNUcHY4bkhIRXNVeGxmSFliUFRrWDVWRnN4SFd6YWlZdzhzQkNRWVByMjRjTzh1djIweDNmb2R6akVpbkpaTQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-30T23:29:46.000Z"
+      },
+      {
         "title": "Perú emprende, pero le cuesta escalar: por qué pocas empresas logran dar el salto y crecer fuera del país - Infobae",
         "summary": "Perú emprende, pero le cuesta escalar: por qué pocas empresas logran dar el salto y crecer fuera del país &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -244,14 +252,6 @@
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
         "image": "",
         "publishedAt": "2026-06-17T07:00:00.000Z"
-      },
-      {
-        "title": "Ayudas económicas para pequeñas empresas en el Perú: programas y requisitos - BBVA",
-        "summary": "Ayudas económicas para pequeñas empresas en el Perú: programas y requisitos &nbsp;&nbsp; BBVA",
-        "source": "BBVA",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa3l6cnJyM1o0eTRtWVJGNWlyTFlYOU85ZGZEaXlrSUxJWm43a2RJV3V5MFp6T255S1B3S0lfUEpJQzlhc1JJQUlYSEdZVndZTktoMGphbkhrdHVkLXlNSnlReHB6aWp4SUxJM1J6WmpOZTZRTWZicTBfWC1HT1RSbzkwYUQ4S0Q2blNoUjBxLTljR0VRblRJTVpGWmwxQng2dkpjZDhGNTJRZlljMl9aSA?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-11T07:00:00.000Z"
       },
       {
         "title": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión - Infobae",
@@ -288,12 +288,12 @@
         "publishedAt": "2026-11-06T17:07:58.000Z"
       },
       {
-        "title": "La inversión en tecnología triplicaría su contribución a la operatividad de las empresas minero energéticas hacia el 2030 - Gato Encerrado",
-        "summary": "La inversión en tecnología triplicaría su contribución a la operatividad de las empresas minero energéticas hacia el 2030 &nbsp;&nbsp; Gato Encerrado",
-        "source": "Gato Encerrado",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQTNPYmZxbmpCaVN0eWV3cUdSSVB1UWd5RkdkekdDaGR1bFAyVUZwaTZMV1l5aHNIQVQ5VVd5SGRWRkxfZWNfejFFOEFvRy10YThUM2c2SzhBN1c2dnM5Q3A5VVdoc0pKVFE5d2hmdmxOWTl6Ynl1N3FGWGxGUXRnV0JFSnB1aURkbzlzaXFTMGZseHd6T1N1cmU5VGQtMklQRDRYYlEzbEFVMm1DaVNXTGl6eS1fS1p4QVFMNnF1TEJqUEE0LWJyYzBFWXdlWGlnZjdkV3NCRXJaSEhGZGxUTFNxNWdINGs?oc=5",
+        "title": "Hackatón más grande del mundo, Nasa Space Apps, se realizará en Lima y otras cinco ciudades del país - Agencia Órbita",
+        "summary": "Hackatón más grande del mundo, Nasa Space Apps, se realizará en Lima y otras cinco ciudades del país &nbsp;&nbsp; Agencia Órbita",
+        "source": "Agencia Órbita",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNenlPU3dWYTF6XzM3RTFBRWg0TFpvM2xZY0ROeGJpOUVjcXMxaC1ERDEzOEM2ay11OEs5YTNueTZQbFp0SVJ1Y25PODc5NEdvTmZXbkpVcWRiQlF2UE1LUU1pZ2VQaC1fSE92dmJmTlhYaDRzSVQwcVExa0I3VDA1c29pcVBHWDVfMks2c05sU1N5LVhSbFdjZEJwY1hNczZ0eF9iYV9EWlpIUmVUUHVxalJpaTlHak5sN2xpbUpGVkJudXNFVGxJZ1Riem1GS0luSFE?oc=5",
         "image": "",
-        "publishedAt": "2026-11-05T23:52:00.000Z"
+        "publishedAt": "2026-11-03T19:29:16.000Z"
       },
       {
         "title": "I Convención Nacional de Innovación Pública y Transformación Digital - Plataforma del Estado Peruano — gob.pe",
@@ -354,6 +354,14 @@
         "publishedAt": "2026-11-07T15:00:00.000Z"
       },
       {
+        "title": "Google reconoce a la UCV como universidad referente en uso de Gemini e inteligencia artificial en Perú - Mercado Negro",
+        "summary": "Google reconoce a la UCV como universidad referente en uso de Gemini e inteligencia artificial en Perú &nbsp;&nbsp; Mercado Negro",
+        "source": "Mercado Negro",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNzNJYklqYUgzaURYTFNJMmlaSGxoY3pXMjFyeDBzeDhuYlR6TzNBMjdVRktVOWlxdG5DNXJTX29YVnNEdVlzN3RwUzFfd0ZSSncyb1FSeEQ5ci1JaC10TEVNRy04clItbXlJYk5BZ1pfeHN0YklLRW56aGREaHhNT1JWVzA2OFpJN0xxU2c3d2FkVUNzVnBHb1VuTHM4QjZNVnpFUFBvandiaXdNNzFiX2JCTnkwNjlFWHJHSnRVU1Y4ZG9ZZHhDTUhWSUF1WVRDOUpUOUJUeVY?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-05T21:51:31.000Z"
+      },
+      {
         "title": "EY Perú: Las lecciones de las empresas de EE.UU. para evitar errores al adoptar IA - Gestión",
         "summary": "EY Perú: Las lecciones de las empresas de EE.UU. para evitar errores al adoptar IA &nbsp;&nbsp; Gestión",
         "source": "Gestión",
@@ -400,14 +408,6 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzFCZlBlb0hJQ2QxVS1ZUzdTTTBMWGdETGRkSVR3ZHByRjBvVU9SdkU3RmhQRzZPN2sybE5jbmFvdkQxVEdEVVQ0amFOOFh6NkhOY1Q3S0l0X0J5aXNWWi13NTdmWElJXzZ3eVJKN2ZCSzNxRWxwM1o5aDM1OHVJcG5EUlpVQm1fM2hpWQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-10T07:00:00.000Z"
-      },
-      {
-        "title": "Impulsarán desarrollo de la inteligencia artificial en Perú - El Peruano",
-        "summary": "Impulsarán desarrollo de la inteligencia artificial en Perú &nbsp;&nbsp; El Peruano",
-        "source": "El Peruano",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdWFvUGgxRUM0Z0FXQUl0LVdzTEQ0VGcxQ1JzTThXVmFCTjdEbERlelhqWC1CNWhjX3JHcXhacjdyalJVaWJHUGZVNzdPc29rNnVmOUpMNjRYa2ZUVW5vb1ZXeGhsTnJpNlRRQmhseVlNeW9JVTM0LTM2WGlYU2hCUjZpZjdIdGtXM1M3TjRPZ09fbWpEVzNIQnZKVQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-09T07:00:00.000Z"
       }
     ],
     "tendencias": [
