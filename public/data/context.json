@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T00:49:33.924Z",
+  "generatedAt": "2026-11-09T07:54:29.733Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -22,6 +22,30 @@
         "url": "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
         "image": "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
         "publishedAt": "2026-09-01T00:00:00.000Z"
+      },
+      {
+        "title": "Luis Galarreta: “El Gabinete Ministerial está muy bien, tiene un solo norte”",
+        "summary": "El presidente del Consejo de Ministros, Luis Galarreta, negó cualquier conflicto dentro del Gabinete Ministerial y dijo que su equipo “está muy bien” y “tiene un solo norte” en cuanto a su dirección.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/gobierno/luis-galarreta-el-gabinete-ministerial-esta-muy-bien-tiene-un-solo-norte-keiko-fujimori-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/UENLR3N74FAZXHMXKVAKS73UWE.jpeg?auth=cccadae873fd9b21102497377a8f6ea64ad86bfbfd83a874146a50ad167ab898&smart=true&width=1152&height=768",
+        "publishedAt": "2026-11-09T05:23:04.000Z"
+      },
+      {
+        "title": "Rafael López Aliaga al ministro Juan Sheput: “Yo no entro en política para estar robando ni soga ni cabra a nadie”",
+        "summary": "El exalcalde de Lima Rafael López Aliaga se dirigió en duros términos contra el ministro de Trabajo, Juan Sheput, quien dijo que el líder del partido Renovación Popular “se quedaría sin soga y cabra” tras la resolución del Jurado Nacional de Elecciones (JNE) que le impediría ser proclamado burgomaestre.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-responde-al-ministro-juan-sheput-yo-no-entro-en-politica-para-estar-robando-ni-soga-ni-cabra-a-nadie-jne-elecciones-regionales-y-municipales-2026-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/ZT7TX5SRS5AC5IM47MV5X6KL2A.jpg?auth=05a75838bad4f3fdf465e2367beefc950771570e096d4ecdace24a5853c4958b&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-11-09T04:23:13.000Z"
+      },
+      {
+        "title": "Revelan que Juntos por el Perú contrató en el Congreso a familiares de agentes del INPE que custodian a Pedro Castillo",
+        "summary": "Juntos por el Perú (JP) contrató en el Congreso de la República a familiares de agentes de seguridad del Instituto Nacional Penitenciario (INPE) que custodian al golpista expresidente Pedro Castillo (2021-2022) en el penal Barbadillo, según reveló “Cuarto Poder”.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/actualidad/pedro-castillo-revelan-que-juntos-por-el-peru-contrato-en-el-congreso-a-familiares-de-agentes-del-inpe-que-custodian-al-expresidente-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/LQB46T42Q5GIXOELBGVQPFGAWU.webp?auth=833b93de8107ba23d76620f230df3f4aec7d2853f666cb3954ecbf9f910eaf04&smart=true&width=1800&height=1200",
+        "publishedAt": "2026-11-09T02:02:35.000Z"
       },
       {
         "title": "Keiko Fujimori: “Las cifras muestran que estamos yendo en el camino indicado”",
@@ -54,99 +78,83 @@
         "url": "https://elcomercio.pe/politica/fenomeno-el-nino-marco-vinelli-hoy-los-indicadores-de-el-nino-son-mucho-mayores-que-los-anteriores-gobierno-keiko-fujimori-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/ELIXLPCZ5ZA35JX26MTWHF2FCI.jpg?auth=a67f2a61e008dc6e1dfc2c3d658ba9365cc2d45e5980fe3eee64dc78833d8076&smart=true&width=1200&height=800",
         "publishedAt": "2026-11-08T23:55:00.000Z"
-      },
-      {
-        "title": "De Belaunde Terry a Kuczynski: Los presidentes que recibieron a los papas, las crisis que encontraron y los mensajes que dejaron",
-        "summary": "Un repaso por las visitas de Juan Pablo II y Francisco al Perú, los presidentes que los recibieron, las crisis políticas y económicas que atravesaba el país y los mensajes que dejaron. La próxima visita de León XIV marcará un nuevo capítulo.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/de-fernando-belaunde-terry-alan-garcia-y-pedro-pablo-kuczynski-ppk-los-presidentes-que-recibieron-a-los-papas-las-crisis-que-enfrentaron-y-los-mensajes-que-dejaron-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/VXNTF6QEOZBDDAKG3X44GMSO5Q.jpg?auth=1833874bd96ef04652169577ece60600e9ffa2ef38f90c2bd341fa4de39d1573&smart=true&width=1200&height=647",
-        "publishedAt": "2026-11-08T23:20:00.000Z"
-      },
-      {
-        "title": "López Aliaga: ¿Cuál es la opinión de los constitucionalistas Amprimo y Quiroga sobre la resolución del JNE?",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/lopez-aliaga-cual-es-la-opinion-de-los-constitucionalistas-natale-amprimo-y-anibal-quiroga-sobre-la-resolucion-del-jne-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/PY3Z2HG3KFCUPEOP2TJ7TW57YA.jpg?auth=6bb00d7289c9da5e2d23f2898a1f18eba1dce21e4056dc86e47a2e16e8c77495&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-08T23:18:00.000Z"
-      },
-      {
-        "title": "Pedro Castillo: ¿Cuáles son los mecanismos con los que busca impunidad en sus procesos?",
-        "summary": "Pese a que la justicia lo halló culpable por conspiración para la rebelión y arrastra otros procesos, ahora se intenta su excarcelación a través de una propuesta Ley de Amnistía desde el Congreso Bicameral.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/pedro-castillo-y-los-mecanismos-que-han-buscado-su-impunidad-y-ahora-buscan-su-excarcelacion-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/6LCC5232TZFM5CWDCAGYKFD6KM.png?auth=33e413133f7b4cfe9e13787611d10dbbc3018e4c259a4b3acc580d7537e8910f&smart=true&width=1200&height=647",
-        "publishedAt": "2026-11-08T22:55:00.000Z"
       }
     ],
     "economia": [
-      {
-        "title": "Claro Perú refuerza su red ante El Niño y acelera su negocio de nube e IA para empresas",
-        "summary": "Claro Empresas alista su red ante El Niño con un plan de tres frentes. Además, apunta a crecer a doble dígito en 2027. ¿En qué servicios?",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/claro-alista-su-red-ante-el-nino-y-apuesta-por-nube-e-ia-para-crecer-a-doble-digito-noticia/",
-        "image": "https://gestion.pe/resizer/v2/FREW2PB4PVEZ5IO7P5H4SLX654.png?auth=cdb2ff67c5f01de7ff61a13f5d63946e7adf5546eb5945236c40a813649f2d37&smart=true&width=1280&height=712",
-        "publishedAt": "2026-11-08T23:00:40.000Z"
-      },
-      {
-        "title": "Peruana Aarmy Gym apunta a tres nuevos gimnasios en 2027 y prepara su expansión fuera del país",
-        "summary": "Lo que comenzó en 2023 como un pequeño gimnasio para que sus propios fundadores pudieran entrenar y realizar sesiones de fotos terminó convirtiéndose en una cadena de seis sedes. Aarmy Gym pasó de nueve primeros usuarios a entre 2,900 y 3,500 clientes constantes, en un crecimiento que llevó a la compañía a replantear s",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/cadena-peruana-de-gimnasios-aarmy-gym-acelera-su-expansion-seis-sedes-en-tres-anos-y-el-sueno-internacional-a-eeuu-fitness-noticia/",
-        "image": "https://gestion.pe/resizer/v2/YK7ZBRHUQNCFRISFAD6OE46DYU.jpg?auth=52f1ce954bea20326ef4d989d1b9c1061d8712d291678c766c1cf4afea22049c&smart=true&width=800&height=500",
-        "publishedAt": "2026-11-08T23:00:00.000Z"
-      },
       {
         "title": "inDrive, de la movilidad a la logística y dos nuevos servicios en la mira al 2027",
         "summary": "El mercado de apps de movilidad en Perú atraviesa un año de consolidación dentro y fuera de Lima. En concreto, un estudio de Ipsos reveló que ocho de cada 10 limeños usan esos aplicativos y seis de cada 10 en regiones ya los incorporó a su rutina diaria en el primer trimestre de 2026. En ese contexto, inDrive cumple oc",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/indrive-potenciara-logistica-para-pymes-y-explora-dos-nuevos-servicios-mas-alla-de-la-movillidad-para-el-2027-noticia/",
         "image": "https://gestion.pe/resizer/v2/MPJJYVPBFBALLOCUBRJQB2X56Y.jpg?auth=5a0c46db0e05d30b886f27f1f55116e1099a6a3baea0695e86bfbb3ff914aed0&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-11-08T21:45:00.000Z"
+        "publishedAt": "2026-11-09T07:00:00.000Z"
       },
       {
-        "title": "Kjolle alcanza el séptimo puesto en The 50 Best: ¿qué prepara Pía León para lo que viene?",
-        "summary": "La fundadora de Kjolle habló con Gestión sobre el impacto de los reconocimientos internacionales en su negocio, la posibilidad de abrir nuevos restaurantes fuera del Perú y los proyectos que contempla desarrollar junto a MIL y Mater. Además, explicó los costos que implica sostener su propuesta gastronómica, que reúne a",
+        "title": "MEF plantea reducir aportes a salud y pensiones para trabajadores de menores ingresos",
+        "summary": "El ministro de Economía, Elmer Cuba, planteó reducir los aportes de salud y pensiones para los trabajadores de menores ingresos, como parte de una reforma laboral que su cartera pretende impulsar.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/pia-leon-abre-la-puerta-a-expandir-su-negocio-gastronomico-fuera-del-peru-noticia/",
-        "image": "https://gestion.pe/resizer/v2/H4JAATV7CBGSPJK5KRMX65DDRM.JPG?auth=10e175c4737aee6ed4f614bda379b6f2435135c89ffd7054f1b61cffd00c1fb0&smart=true&width=993&height=555",
-        "publishedAt": "2026-11-08T21:31:00.000Z"
+        "url": "https://gestion.pe/economia/mef-plantea-reducir-aportes-de-salud-y-pensiones-para-trabajadores-de-menores-ingresos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/6T3LIYHROVALHJ5F6SECPWP5EU.jpg?auth=ff7e81e9d7063d8494572ccd1b18fc7ed2c7588d9ad95493d9cf9b9752e1cabd&smart=true&width=1600&height=1064",
+        "publishedAt": "2026-11-09T06:00:00.000Z"
       },
       {
-        "title": "Grupo Sandoval amplía su negocio de coworking en Lima Cargo City: ¿qué viene para su próxima fase?",
-        "summary": "La unidad de coworking especializada en la comunidad de carga aérea creció 30% en área arrendable tras inaugurar su tercera fase. Inmobiliaria Koricancha evalúa una cuarta etapa en Lima Cargo City y analiza desarrollar una operación en el nuevo edificio corporativo del aeropuerto Jorge Chávez, que podría más que duplic",
+        "title": "UPC adquiere UCAL por US$ 35 millones y ampliará su capacidad en Lima",
+        "summary": "UPC adquirió UCAL por US$ 35 millones. El campus tiene capacidad para 5,000 estudiantes y se integrará en febrero de 2027.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/grupo-sandoval-evalua-ampliar-su-coworking-en-lima-cargo-city-y-llegar-al-aeropuerto-jorge-chavez-noticia/",
-        "image": "https://gestion.pe/resizer/v2/RMPVZ4HBYFGMPEKIJGO7VFANLE.png?auth=007bf5483ba2eeedee1506d4d39ecb3ba560921f0e39b5323ddc48f59f45ec99&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-11-08T21:21:24.000Z"
+        "url": "https://gestion.pe/economia/empresas/upc-adquiere-ucal-por-us35-millones-y-ampliara-su-capacidad-en-lima-noticia/",
+        "image": "https://gestion.pe/resizer/v2/OUVKUV27IZFA5MVRARR6RS55UM.png?auth=1e973dbbcdd83245807ecf3182f31203c276ef5452d3da3fe1fe7515cd268434&smart=true&width=1200&height=630",
+        "publishedAt": "2026-11-09T05:00:00.000Z"
       },
       {
-        "title": "DP World va por la fase 3 del Muelle Sur del Callao: plazos y la condición para invertir",
-        "summary": "DP World, operador del Muelle Sur del Callao, ya planifica la fase 3 de ese terminal apenas un año después de inaugurar su última ampliación. ¿Qué plazos maneja y de qué depende la inversión?",
+        "title": "Dueño de Clamore va por escuela de pastelería y un ‘campus gastronómico’ propio en Lima",
+        "summary": "El grupo dueño de la cafetería Clamore y de dos escuelas gastronómicas cerró un semestre a media máquina por las elecciones y el Mundial. Ahora alista una nueva cafetería en Lima moderna, una tercera escuela y la compra de un edificio propio. ¿Qué distritos mira?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/puerto-del-callao-dp-world-alista-otra-ampliacion-del-muelle-sur-pero-pone-una-condicion-noticia/",
-        "image": "https://gestion.pe/resizer/v2/YTIELQZTZJHO3CAXOI7SJN57I4.jpg?auth=da10000f44d15f8326a83ec0ebbfc529e9da456e07477c6a0fa33cd403861750&smart=true&width=1200&height=668",
-        "publishedAt": "2026-11-08T21:00:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/cafe-aulas-y-tortas-para-llevar-la-nueva-apuesta-de-clamore-para-crecer-en-lima-noticia/",
+        "image": "https://gestion.pe/resizer/v2/MZ6TEHT75FHPBI2LKFI6K6C4IQ.jpg?auth=716aa26d9030dadde9100cc8ede1cb828231d65d9d2666c1142579e93ddd13ce&smart=true&width=3840&height=2160",
+        "publishedAt": "2026-11-09T04:45:00.000Z"
       },
       {
-        "title": "Cusco recibiría más de US$ 11 millones por CADE 2026: ¿está listo para el turismo de negocios?",
-        "summary": "La edición 64 de CADE, que regresará al Valle Sagrado después de tres años, convocará a más de 1,000 participantes y generaría un movimiento económico de US$ 11.05 millones. Sin embargo, Cusco aún enfrenta desafíos para recuperar el turismo receptivo y fortalecer su infraestructura para eventos empresariales.",
+        "title": "¿Elifarma y una nueva apuesta para competir en el mercado farmacéutico?: esto prepara",
+        "summary": "Laboratorios Elifarma busca fortalecer su portafolio y avanzar en su expansión regional. Conoce qué se sabe de ELIPENPIC y su posible incorporación al mercado farmacéutico peruano.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/cade-2026-cusco-proyecta-un-movimiento-economico-de-s-38-millones-y-espera-elevar-la-ocupacion-hotelera-noticia/",
-        "image": "https://gestion.pe/resizer/v2/RKOZL2TGSREQLE72VGSNH4KXKA.jpg?auth=3ac9f582d680db92832dc2fe82a6f72a27721c7835eef4fff91cba418549311f&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-08T21:00:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/elifarma-loreal-vistony-y-rebeca-escribens-presentan-nuevas-marcas-al-indecopi-noticia/",
+        "image": "https://gestion.pe/resizer/v2/OHESPAM6WND4RBRYICLTUE7MZQ.png?auth=2a67d2a77457969a93e3fcd4f9c0fcdffba9a2533132af9bb79eb2cb889b3adb&smart=true&width=1672&height=941",
+        "publishedAt": "2026-11-09T04:35:36.000Z"
       },
       {
-        "title": "Parejas que compran un departamento y luego se separan: ¿quién se queda con la vivienda?",
-        "summary": "¿Qué pasa con un departamento comprado en pareja si la relación termina? Conoce quién conserva la propiedad, qué sucede con la hipoteca y cuándo puede venderse.",
+        "title": "Declaran nuevo día no laborable el 12 de noviembre por visita del papa León XIV: ¿a quiénes aplica?",
+        "summary": "Declaran día no laborable el 12 de noviembre por visita del papa León XIV. Conoce qué trabajadores descansarán y cómo deberán recuperar las horas.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/parejas-que-compran-un-departamento-y-luego-se-separan-quien-se-queda-con-la-vivienda-noticia/",
-        "image": "https://gestion.pe/resizer/v2/XDEQF6BI4VE3HIWO5Q6D44AW3E.jpeg?auth=ef9addce81dfee12a699294aef3b9de3b67181abd731d14f622d4459ba75c0c0&smart=true&width=1600&height=901",
-        "publishedAt": "2026-11-08T20:45:00.000Z"
+        "url": "https://gestion.pe/economia/nuevo-dia-no-laborable-el-12-de-noviembre-que-trabajadores-podran-acogerse-noticia/",
+        "image": "https://gestion.pe/resizer/v2/4JFASHDJ7ZG47KL6SRO4UNMRMI.png?auth=373c82acf9477edfd1961808d880c923d52f29c3fbafb20bb45b9b3f0b09fe5d&smart=true&width=1400&height=800",
+        "publishedAt": "2026-11-09T04:00:00.000Z"
+      },
+      {
+        "title": "¿Empresas en Perú pueden demandar a sindicatos por pérdidas durante huelgas ilegales?",
+        "summary": "Una minera chilena exige US$ 8.5 millones a un sindicato. Especialistas analizan si una demanda similar podría prosperar en Perú.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/huelgas-ilegales-empresas-pueden-exigir-indemnizaciones-millonarias-a-sindicatos-en-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/P42IRZCS2FHJ5F4RZRXQEHM46U.png?auth=9dc1485d821726ef005b353cc32f8bd39b2e3417c93a4493388a0fca5b3ab2da&smart=true&width=1672&height=941",
+        "publishedAt": "2026-11-09T04:00:00.000Z"
+      },
+      {
+        "title": "Perú superaría a Chile y sería la cuarta economía más grande de Sudamérica el 2027",
+        "summary": "Perú podría superar a Chile y convertirse en la cuarta economía más grande de Sudamérica en 2027, de acuerdo con la proyección del Fondo Monetario Internacional (FMI). En base en su informe World Economic Outlook, cuyas estimaciones fueron recogidas por el diario chileno La Tercera.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/peru-podria-superar-a-chile-y-convertirse-en-la-cuarta-economia-mas-grande-de-sudamerica-en-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/UFFKSENBI5EAFO34WJE7ECG7N4.jpg?auth=adacf43513a9b55a0990e35e8e9643398de62dc20cc12ff33e8a1e59d0e81ab8&smart=true&width=3888&height=2592",
+        "publishedAt": "2026-11-09T03:45:00.000Z"
       }
     ],
     "sociedad": [
+      {
+        "title": "Detienen en Cuautlancingo a hombre señalado por agredir a una persona en su domicilio - Reto Diario",
+        "summary": "Detienen en Cuautlancingo a hombre señalado por agredir a una persona en su domicilio &nbsp;&nbsp; Reto Diario",
+        "source": "Reto Diario",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONm80cjRpQTA1Q1pidmkycC1EU014elNScnYzaW1pdHRtZVdGRUkxdDFXc0pBV3JIVFR4VU4tREE1N3U0TU0xbzlDNG1ieUFGSTJBeWdUVjNhN1pGQS0yd01GX18xc1NhVjZzdTR0eGwtWENhZXR6YVdtM0ZON1hpaVNMc2ZOT0hHNC1FOXVMMWhWTVNmdC1GcFhHWWRNMUNFUGRWaGdadnlncmtaZVJNT3FCcGIyU3pZQU90S2p3a05wMWJDbms0?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-08T19:49:19.000Z"
+      },
       {
         "title": "Efemérides hoy 7 de noviembre: Perú conmemora el Día Internacional contra la Violencia, el Acoso y el ciberacoso en la Escuela - Infobae",
         "summary": "Efemérides hoy 7 de noviembre: Perú conmemora el Día Internacional contra la Violencia, el Acoso y el ciberacoso en la Escuela &nbsp;&nbsp; Infobae",
@@ -202,14 +210,6 @@
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS1o5c2NlVnJ6NHNsZ3A1TUNRMDJMcXllRW1JMU9fX3d1cXhTVFh6M3JidVNnVHNQQUJRMWpNTkp4RHY1U1U5dDF3RmtQRGY2bW9Ub3RNVERISG1wd1NjYThnVHpvaHFxc0hTS2JPdVpOU1lRVkZaY3ZIa3ByTi1HY18yZ0s2QXpYcEZFczR4eG1pRnhyWjJ3Nmp2Y1liVGItSWNQSll2UVZiZUViUHZHOTV2TXhmdXY2RkhGdU82NVFSeFJQYVdUajBRcXpINmtH?oc=5",
         "image": "",
         "publishedAt": "2026-08-31T07:00:00.000Z"
-      },
-      {
-        "title": "TUO del Código de Ejecución Penal (Decreto Supremo 003-2021-JUS) [actualizado 2026] - LP | Pasión por el Derecho",
-        "summary": "TUO del Código de Ejecución Penal (Decreto Supremo 003-2021-JUS) [actualizado 2026] &nbsp;&nbsp; LP | Pasión por el Derecho",
-        "source": "LP | Pasión por el Derecho",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWUtGUDA1VU9FZzdpYWN3WXBRVEFuemtPQUhWTW5GMFBpb2F2dFhxOU95WTc0WU94VDgxSWc5S3liYV9RLUl3aWhyWGJ6eTM3V2w1TEtYNWJ2eDZEMTN6RS1iX0tKOFUzbEJhRlhKeEZSczhpeUJIdHhkVjdQSGFTc3d1MDlNZGIxaGg0MlMxcUFUUQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-07-02T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -288,12 +288,12 @@
         "publishedAt": "2026-11-06T17:07:58.000Z"
       },
       {
-        "title": "Hackatón más grande del mundo, Nasa Space Apps, se realizará en Lima y otras cinco ciudades del país - Agencia Órbita",
-        "summary": "Hackatón más grande del mundo, Nasa Space Apps, se realizará en Lima y otras cinco ciudades del país &nbsp;&nbsp; Agencia Órbita",
-        "source": "Agencia Órbita",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNenlPU3dWYTF6XzM3RTFBRWg0TFpvM2xZY0ROeGJpOUVjcXMxaC1ERDEzOEM2ay11OEs5YTNueTZQbFp0SVJ1Y25PODc5NEdvTmZXbkpVcWRiQlF2UE1LUU1pZ2VQaC1fSE92dmJmTlhYaDRzSVQwcVExa0I3VDA1c29pcVBHWDVfMks2c05sU1N5LVhSbFdjZEJwY1hNczZ0eF9iYV9EWlpIUmVUUHVxalJpaTlHak5sN2xpbUpGVkJudXNFVGxJZ1Riem1GS0luSFE?oc=5",
+        "title": "Noruega y Perú exploran inversiones y tecnología para la minería - Rumbo Minero",
+        "summary": "Noruega y Perú exploran inversiones y tecnología para la minería &nbsp;&nbsp; Rumbo Minero",
+        "source": "Rumbo Minero",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0ZKM3Zyc29QUGx6Q2dKVDJja3RsQlgyUUp2ZlJBdWRfVUJ0aE9mZnJ5eFhMSUU5NWU4WUYzaEp2NGp3blgxVm53TlVWRENSVVNzalZCSHlKTEMzcS0weVBhOU4tS1NOeENVUGtBcFlrYTNQYXhrcmY1cTdlN1FMNU41WFpXWTV5d091MENfWXV1U09oTU9YMzVpdEh3RlNucDBrRkFtS29jN3paamNKeHlkQjVOZw?oc=5",
         "image": "",
-        "publishedAt": "2026-11-03T19:29:16.000Z"
+        "publishedAt": "2026-10-25T07:00:00.000Z"
       },
       {
         "title": "I Convención Nacional de Innovación Pública y Transformación Digital - Plataforma del Estado Peruano — gob.pe",
@@ -346,14 +346,6 @@
     ],
     "ia": [
       {
-        "title": "EY Perú: Las lecciones de las empresas de EE.UU. para evitar errores al adoptar IA - Gestión",
-        "summary": "EY Perú: Las lecciones de las empresas de EE.UU. para evitar errores al adoptar IA &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSkJvbVM5bWlYN2xKSUxuMXJfaG45SVZQT2FnOElraENnMzV4dVBYZ2RYNnVBTm1VUHc0ZEUzTlpXb0NYbzhBRzJkSzZxMU01NnljTlhHM0NTOG1rQ3JMWTNKalhRQ2hYMmd5TkpCdVNha0RQSm9mNWpCSGhDYVRqTXBGQTJyYWYtN2JtbjQxbk5UZFcwQkdiUTZHa1BzaGRPNEkyb1lkSTJBcWx4Wk8tZ2J3QW9FQU5rYkJSVmctUllnQ3BYN3NvTGt6bzBCMHRTa2ZCeFk0dVBlR3Vu?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-08T22:45:00.000Z"
-      },
-      {
         "title": "León XIV en Argentina: celebran “valentía” del papa sobre IA en vísperas de visita al país - El Comercio Perú",
         "summary": "León XIV en Argentina: celebran “valentía” del papa sobre IA en vísperas de visita al país &nbsp;&nbsp; El Comercio Perú",
         "source": "El Comercio Perú",
@@ -368,14 +360,6 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNzNJYklqYUgzaURYTFNJMmlaSGxoY3pXMjFyeDBzeDhuYlR6TzNBMjdVRktVOWlxdG5DNXJTX29YVnNEdVlzN3RwUzFfd0ZSSncyb1FSeEQ5ci1JaC10TEVNRy04clItbXlJYk5BZ1pfeHN0YklLRW56aGREaHhNT1JWVzA2OFpJN0xxU2c3d2FkVUNzVnBHb1VuTHM4QjZNVnpFUFBvandiaXdNNzFiX2JCTnkwNjlFWHJHSnRVU1Y4ZG9ZZHhDTUhWSUF1WVRDOUpUOUJUeVY?oc=5",
         "image": "",
         "publishedAt": "2026-11-05T21:52:13.000Z"
-      },
-      {
-        "title": "Inteligencia artificial y mapas en la nube: cómo la tecnología podría ayudar frente a desastres del fenómeno El Niño - RPP Noticias",
-        "summary": "Inteligencia artificial y mapas en la nube: cómo la tecnología podría ayudar frente a desastres del fenómeno El Niño &nbsp;&nbsp; RPP Noticias",
-        "source": "RPP Noticias",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQY2IyNUxraHVzU09jVGp4WnNaUURmdUluaVgya2szVjV0UVFRVE9rRnlHelVyUmRYQmlqbGJxN05IR3VBcURhLVBtd0pIekY1Zmp6QmZfdVNjdjhOeVRpaTcyN2IxRnpEUFo1QnhCLXVBVVd5ZVlKTm9iYmJnOV9Nbk5LOElQUWJ6NHZrb0paNWo2c2ZQUUxtOGdpeFVmbzhGVlg4VlByQVhkTmZVYzRVYlU3d2NDZkpFVndCbE1wRnRLYkMzVjNFQ0ZZVW5ra2ZEZmlyckVMSzU2QkNZZmlIRWt1Wmt3RzVIU3Fsa25JVFNGV3JxTzY0VlNR?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-05T00:49:56.000Z"
       },
       {
         "title": "Inteligencia artificial en Perú: estos son los sectores con mayor potencial y los desafíos pendientes - El Peruano",
@@ -408,6 +392,22 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzFCZlBlb0hJQ2QxVS1ZUzdTTTBMWGdETGRkSVR3ZHByRjBvVU9SdkU3RmhQRzZPN2sybE5jbmFvdkQxVEdEVVQ0amFOOFh6NkhOY1Q3S0l0X0J5aXNWWi13NTdmWElJXzZ3eVJKN2ZCSzNxRWxwM1o5aDM1OHVJcG5EUlpVQm1fM2hpWQ?oc=5",
         "image": "",
         "publishedAt": "2026-09-10T07:00:00.000Z"
+      },
+      {
+        "title": "Impulsarán desarrollo de la inteligencia artificial en Perú - El Peruano",
+        "summary": "Impulsarán desarrollo de la inteligencia artificial en Perú &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdWFvUGgxRUM0Z0FXQUl0LVdzTEQ0VGcxQ1JzTThXVmFCTjdEbERlelhqWC1CNWhjX3JHcXhacjdyalJVaWJHUGZVNzdPc29rNnVmOUpMNjRYa2ZUVW5vb1ZXeGhsTnJpNlRRQmhseVlNeW9JVTM0LTM2WGlYU2hCUjZpZjdIdGtXM1M3TjRPZ09fbWpEVzNIQnZKVQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-09T07:00:00.000Z"
+      },
+      {
+        "title": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre - El Peruano",
+        "summary": "¿Usas inteligencia artificial en tu empresa? Estas obligaciones serán exigibles desde el 10 de setiembre &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOF96RmlFdGF0MmZNd1M0VXdlM2tlQVU0MHBidWRKZ1ZaYmRYZjQteldIeDRYR0c4aFNENU1ackUzVzZ5Sm5OSU9JVXlhQU9ON0ZoYmt6UWRfX2xNcFd3bmNDbkpyUktwaVl4UUZwdlZIRmZDaldXd3dXRk02ZFZvb2VJNk9WLTZTVXJhQklYcWxGMkFWbmZHUG11OURpRE8xWWdpU3lOOHUxaFotNUJscW9qVUdfdFRkWUhubndPYnRYUUN5RncxVW1qVFMzck41SWJYeWV5eWVLZw?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-07T07:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -478,12 +478,12 @@
     ],
     "farandula": [
       {
-        "title": "¡Confirmado! Don Omar anuncia fecha y lugar de su concierto en Lima para el 2027: “¡Qué bonito anunciar nuestro regreso a Latinoamérica!” - La República",
-        "summary": "¡Confirmado! Don Omar anuncia fecha y lugar de su concierto en Lima para el 2027: “¡Qué bonito anunciar nuestro regreso a Latinoamérica!” &nbsp;&nbsp; La República",
+        "title": "Conciertos en Lima noviembre 2026: fechas, artistas, precios y dónde comprar entradas - La República",
+        "summary": "Conciertos en Lima noviembre 2026: fechas, artistas, precios y dónde comprar entradas &nbsp;&nbsp; La República",
         "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOc0V6N0ZkZ21ic1pfQTFnbjdQVE5lMW95bjg4Q3NOSE14WTFlWHcxeFhaYmlKOE85Z2ZGNjBCMUJIaDE5b0VBbFZ5R0NleVFzMXo4dkFfdXAwNjduZ2tCbjN2ZnBjemU3ejBETUhiZUNYbVFiQW9PU25lMVRTY1VPdlNvM3YycUVwOUpMYlFXQWtKTkF3dEM0QVN6UWRjQUtlUGhIemUwYmpudlF0bjdaUWlJSm5pUksySjFyaTB0dWxaVUVYVnpQaUs4YUNEdEhabXM3NlZTZFFTaXZheWVGS2dvYjVUbEZzVXdnNUxCZm45TWZKZjlKVmlaTWJJS3ZsVGpDMU5OTUNBV0VyNGRMb3dxYWJRMEplSDFR0gGgAkFVX3lxTE5kbDV0WkY1X2RvUUtvVXo5dzQtUmNwM3I4VnpqODd6b3pQV1gwaGdaMENVVkNDWDlSS2l1eVpnVWRnby1zUDdLalVnVFBxaElzaGhHeDBMbTc3Tm5INmZEN2lnNlJyUF8tUVN1SmJaUjlWenBVcUp0RTNFcWpKR1hoQVgzN1hEMHNOREozTVB1OENHNlA0RzhsNnlLYU0zLTBmbENvb2VEUkI1Q2ZzWHZGakczUll0X00zYmZJUExGejlQVHdqLXU4UkhmNS1UUXEyb3hOcEpkT0llYWZVVUVJYjJTbnJTUlc5Rzl6WHVMcjZMMGp6bTdSajYzLXpzcG02WFBKdXI4c2dOUXExUVdOMDRkdVBrZFJlbnhPQ2FlRQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPR1dWQV9EekN2TVZOLWZpTW1ycnpUYldmaXZxclJROEVjR0tqQWt2cTN1UnZWRUl5VUhRNnktTXN2cDNncUQ1UU82UzlESWVEdm1idlBWQ3JLcHVRdnBGUGpKWXkwQkwxWndhb21wZXR3eEdlNGUtUGs0a3NhMlFGQURKdE0zOWF3QzJPNUJtNjR4NGUxVEFiVnlRZWZtTmQ2cV9KWGhfNWdPX05nNDZQM0RNSUhaX0NDUU1aOTQtUC1SZDhhY1oxQkR0M0ZRdUxVRmZSRE9tR25NVTFXX1dPRGoyWnVqTmk5Z0FWZmlhOUVXTE5oTFowelBSRFRtM0xmeGc5RkZR0gGLAkFVX3lxTFBCLXRKcHp1dzFtWW9BbU1EQ3h0bVd6UjdFSnY5YnJTcDhEVEJHekVrYXRWeUhwRHVzWGN6alNyUlpWUmdYekRkS0NkV0JTUU9KLVJWOFBvTWdEcGxNS25Qd3FIRUJhVUxEa0lPNmRoZUEzWGMzOHF6bnJheVFra2lGbVpBM1hHOEFSVng2UHp6MlY2V2s0NHhac1I0LVd2U2c4Mk9rRmZLU0FNTWkzTDg3bVJ1QkcxSzB0OVhwSFFTaDR4MFZNUU9yUDdLcThTWkY4aVRUYXZ6clFlM2s4RHdCbXZadHBhbHgyRmQwV1ZWaWlxTXNONzJSMzMzWDAyLWpkU3dlSmlWMjEyZw?oc=5",
         "image": "",
-        "publishedAt": "2026-11-08T22:04:22.000Z"
+        "publishedAt": "2026-11-06T16:08:01.000Z"
       },
       {
         "title": "Conciertos por Halloween 2026 en Lima: guía de eventos, precios de entradas y artistas confirmados - La República",
@@ -500,14 +500,6 @@
         "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQWkxmNTAzVjlfajVtYVJkS2tfbGdYbXNRT2Nfd0lreFdXQXZKdmRvQnpQRThqT3JrODhQMTJrc0hzMTU0MGVVNV9DVTc1QzUwNGkyWkREV0t3SXBybWcwRVdXYWxPM2RXeHNzTTE1TXN1QTF6cmItUWFxZlB4TXhvN1Y5bmlKNUh6UUY1bExudEZGWHVESnFqN0xqd1ZpdlA4MUNHRFZQaHdWZzRGRGxOY1I3YU9HQWw2MUtZNWFPWGZ5XzdXQUtseXdGYnZyT05iVmJ2eERhN1A5UzhPdGRtc05GYUZVYXlSaFZQNlhnaWdPdXJlcVhESEw3Nmc5OUN5bHZLblZiaWZZUdIBjwJBVV95cUxPVEljR3dQT1dZYlBCNVdaMkR0RVQtNlFtV0dnSWxVRlpoVjlRQm5XVUlBLW13R0tDZGhrbVFoY1hBSl9SdDJFT3h5VVdkaEVhZ3ZMRE9tVW84Z3J0YWg2dWRtcjAyNXlFck5CX3hxM2ROZVp4WV9uNC1BcmpQWm9TRnZVOV9FMWtVaE1LNFJ1X3NTeGM4ZGFWWWlWQzRhQkNvTHFOeXRHeC1BMnJ6TGRWZVlycGM5cll2SnZ4TmhLSU42NjNWZGZvYVhOWGx3Y0FBVEFaWDRQbk1pa0NtVDRvdWIxOC1NM1ZZbkh3YXM2bENUalBxTlAzWGR1aUVrM0h0UElhZ0xGU3ZNMlZkNzRJ?oc=5",
         "image": "",
         "publishedAt": "2026-10-19T07:00:00.000Z"
-      },
-      {
-        "title": "¡De las pantallas a los conciertos de BTS! Conocido actor peruano sorprendió con su talento detrás de cámaras - Trome.com",
-        "summary": "¡De las pantallas a los conciertos de BTS! Conocido actor peruano sorprendió con su talento detrás de cámaras &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaFVKR3lPUm5HSTFySUVvUmVvMzFQSktELTZFaHVSN1JBdmlreHZIeC1vX3FBNDRpSXJPTHFIaXd3UUFjOW5TdnJvYXMxTlp0azdEUElvVEdrVEJRSHZ0RFp6UW03ai1rMVlTbXlaUUhqWFJJVGxBS1VDdHRDUVA0TmotWVNlQnN2TFoySTQzU0xXYUpZRW5RMjJIeVhZcFl0bmdWeDNNNU1WWmtUalQwdTV0TmltVWpZVTBmSVdUb01BbVVwZmNFbXpEOXNsa2JLcElxTEV3MDI4bTQxNlZqQktfLVI4VWViM2RqRGFzX0Nyc1MxcTlLZHd3YXJELWNTUnJF0gGXAkFVX3lxTE9JdFE0ZnRwejZSNm9DcUMySHE0U0tNZ3ltMDE0d0RFakhHYV90aHFSUDlnbDFMcXZiM0g4T1ZEUVMxN2lyUndfUlZDOVVZVFlQdm5xQ1Z2WjlEc3ZITW9vd2pkYjdhb3RIUXhNVUc2NUk1X3MtejAtN0VvNl93UERNX1JQT3R3dlUyOW85cHFnRTItMlU2dnozTFpHYkRmWXlBWHVoRzFIUUlreHhsYnZaaE9UX01WX2tyUExtYkpYZjgzSm9wWmtuTmFqbE5TT2YzQ0F3YWpEZHVwVk80RXhsOGxQNmlrN2dUb01yTG5fWlBYcWdMY0YtbVlWalljQ09jcERWM2Q0SG9iLXNRMTdicktBV3ZsQQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-12T07:00:00.000Z"
       },
       {
         "title": "Esta es la historia de HYBE, la empresa detrás del fenómeno BTS: De una pequeña agencia en crisis a un imperio global del entretenimiento - El Comercio Perú",
@@ -540,9 +532,25 @@
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZzdTLU5fYmNmQ0VxVlc2T04tQktMcTBRYW1tVUVkb0Jpdlc5UWJZeC1vYWk3RHV0MWtTeEhSZDRkbFdhaVd1UWRFWGQzUjFHeFp1dU1vVDFaU0kyckd1RGN1VFB5a0ZkZ3h2SkR5RnNmWjJOejR5cy1FUGctNWg2UmJEenppOTQwcS1YVkNhUjZHcHRiX2FQSUhxOHo0cWI2OUp4Zk82cldHTk9zdzFEUl9iZW9jM2YtUHhzNXlRMUV4U2ZIRUllMmlaQUQxLVdJeUpibjZZVEd4MWF2RWxDLXd0UzlJTnBleGoyQXdXZXRRYVZ0VWfSAfsBQVVfeXFMT0VJZHMydEp3Q2d5LWlCeGI5Mi1yanVDY3B2LWdsYjduYUdQbWphNkVzMTM2di03aFNkWGpsODZGYlJXN2t1czd6d3dsSDBSZFBRdWxQZDhNWDFIWndXY1ZoTllPRG5aMGdZS1VmVGVTbklZaUhubE9kRVRUOGVQWjNWV1ZISVdoMXdQZjZXblhCbUJFLV9aZEhCLU1wc210VFFlemtmc3lSdkxVdFU4UUg5QjM2b2dZSE9SaEM0cndTUGE0NGFNbXJoa0VwclQtY0oxbG85alpNcnFNQk9EbVJHMWdjQkNPVFI4RVRoVk4tbTNWMnZpbEJhbWs?oc=5",
         "image": "",
         "publishedAt": "2026-10-06T07:00:00.000Z"
+      },
+      {
+        "title": "Conciertos en Lima en octubre 2026: qué artistas faltan presentarse, fechas, lugares y entradas - La República",
+        "summary": "Conciertos en Lima en octubre 2026: qué artistas faltan presentarse, fechas, lugares y entradas &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOUW4ySzduQ2JxSEJmblVtT19uTHVZTUItZl9ZRFhwVEtJRk5GT1B2NklmbEk2aHdfNlBuUy1vNXdQWHdmc0FlYzNSZ21QcVdtTUFNeU5GQWpRdnhOMTI3b0lheUZUMWtha1AwZy1kYzloSWJfUXZ0VDBpTVpsTWJCbFh1TzgzR1l2WElFQTdfeGVScV9IZVdBS1hfeGh0UWgteE9ya0IzTjlrWGdsa2lTOVZSeGlydEd6LW1Xd2lFdTVHZkVqVzB5XzFKNzQ1clhoYmJqX19fZVhMWkZjd2YwdzlpNmlsajRwSWR2ZEppV240cWJyNGxwMnJiU0dfRDZ2aDZWWkhvaXh6eWlaOVHSAZMCQVVfeXFMT1BBQ2w3SjF1T25WR1pfdTBvV3VrS2cxVXVyU3VNTUNJa2tQY2xmRXdhVGlsUHlwMnJsU2VlSUZ5NjA2TXBlRkE5c2Y2cnE2VGJOSXE5S01XaFpJRGx3UHJLSldGVUlKWVYxVUlGb252T1BRSDI5SHNIVmVpLTk2Y2xsQ1AwZjV5UW1ZLXlwaTh3WTBFdU5xSERVd2stSEQ5enVHcWotVWswMEp3Y3Q3RzFkX1E4VEpuMjZoR2J1XzRZSUJfUjBldVlnMlFuX1pGbHV2NmdhTndQMEJ6dEh0NTBVMFhPenRGQjNfVlZPcHhUZURwNVI2YUtQeVdvYjJfc2FpYkoxNGRsX21OeUVHcnd6ams?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-28T07:00:00.000Z"
       }
     ],
     "cultura": [
+      {
+        "title": "Municipalidad de Lima clausura temporalmente el Estadio San Marcos tras detectar irregularidades en concierto - Perú 21",
+        "summary": "Municipalidad de Lima clausura temporalmente el Estadio San Marcos tras detectar irregularidades en concierto &nbsp;&nbsp; Perú 21",
+        "source": "Perú 21",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSjNvZndBWjhlc0xtMWIzZjVIZUx1TW9YYXNZVUNYUEZSMmhrNmhmbjFrUWIxU1NWeVBLTWEzZFBxbXJxb0dvNmh6Rkxua3AtaW1wQW9pTGNaUk9lMnY3X09YSnc5a2NhT29PNllZbzRnNjVZTTlwbEZpM2k2S19rWEs5RlpIa2NobE5xMXpVZFFQNEpvdVNCbTYzNGt3MjVsdVF2R1FlWWV2ZTUyZXE5QmpYdTBrSnR6YVg1bHlzNkNOM0laS2VnWFVzclZqQQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-08T21:21:51.000Z"
+      },
       {
         "title": "Senamhi reporta cifra histórica de llovizna acumulada en Lima Sur ante evento de El Niño - Infobae",
         "summary": "Senamhi reporta cifra histórica de llovizna acumulada en Lima Sur ante evento de El Niño &nbsp;&nbsp; Infobae",
@@ -550,14 +558,6 @@
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeEpLLWFaT1RQMWVOcFEySTRKOUNzMUZSREhHRDYxUVJxYzg2akFqVVFJSnl0aHRnS2ZDNlpPUEItVXBFekRVSGpIZDdDcUMybEZicmZoazE5SjdDN2RZd1FBV0F3eUZ1NU9NLThXMG02MVJHUVYzZ2Q3eFh4UldBdlc5dkZFaVktOFl5VG92RmJWcThjNEVCTk5UcUFUdGRJOEVxUjJTS3FnYXRkdGZmOGFFMExzNnQxMFFRZGdXNGtJSngxemsxQ3J3TkY2UGlVSlpreEJn?oc=5",
         "image": "",
         "publishedAt": "2026-11-07T06:53:04.000Z"
-      },
-      {
-        "title": "No solo agua y alimentos: nueva ley del Congreso también permitiría el ingreso de bebidas alcohólicas a conciertos - Infobae",
-        "summary": "No solo agua y alimentos: nueva ley del Congreso también permitiría el ingreso de bebidas alcohólicas a conciertos &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVk1DS3NmNEVWdm85ZmJHaDFOZVFwTjVRdlpKWjQyemp3MVMzR1A0WHF3ZXJZQUNYWW1fNVRFekZlcnhPdURRZWZ6V3ZiYmlIZE1DaXlKMHREYjljNUE4aHhsZUNuc2NydUtsUFBDVXBDN1VrWTIzc3Rsdng3UG9rN0hTOGs4dDNpeF96alBpU2Y0S3gzd0NxWjR4VWpFUFRDUk9LNHNVbWU1MTJEeVVvdHkxaHZTTlZSS3VELWNEYWRzUWJXSVhYOGJickxSTTk5aUtIZjY4LTl4MTVjY2YxbGRtaXRkeWRLWmfSAYQCQVVfeXFMTWVDalBWU0F2bllnWlJOTVphTlRWakpicGJ1ZzZvS1k2aGFLNzRsaW5URU1oNkhva0tLTTFRWVdCazZUOHVUZjJBMHZkWjFYeFVHQUV0b3U1RGZWQUlRZXMyRExvZXc3UkFlRmY5Q0NvcENnUVJMaDdSQWNrcDE3X29BQW9ncHJadGNYd0xGX254Ylc3WUEzRlZUYnZYTUdJdW5HZExzRTZMbmVheDdCTXJXemFkY2ZsQlZyV1h5c3MzTjA0MWFKTFFZRFhQQkRLa2NlaWg1WEZRNU1BLUJNUW1Ka3RFMkdoeW5rVVpFRjdidFNrdXkwNVk4VkVram8tVnRPY3A?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-05T22:07:00.000Z"
       },
       {
         "title": "Una visita al mundo del kung fu Shaolin en Lima - chnm.pe",
@@ -574,14 +574,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmhPTkJuR3ZIU1pQMU9tTEV0OTZacThlZVRUTmVxMWhBcjltZXlOYjBiOEVUODVHTXV0V0NVZjJURHlRTXJOclFkaklWclRrNjRqbkpFS2tJb184Qzk1Qk1JVjN0eENWWXp1TGVkc2NzUk9mV0Z4RFRMMUx4akdVbC1DLVhPRy1tRjRRdUdPbWNRSmVIMXlXS3ZQQjducEppSjY5ajZzdGFReGxZM0wwaUhRbXl4TGpzQ0pOQ2x2WW5jR1nSAd4BQVVfeXFMUGpWVjZyVXdBTTZsc1pReFgzUkVVQUUyWkdtNjRieEhoUi1MSGlnWG1xQUtXaHBJVGxhdnh3Qk85eFNvdDNjVWJJa29nbkNtRkprNWVmMHB2V0NlTEYtdWhEVVFCQUF0ZXRkM1R2U0RTdFBnWkt5cDgxeVc0U3JScFZfVjgyZ29MajJncDN4UU14djVqdUVxSUtLNkFpWG80RzVmS19TeUlTT0xuRFJrRW83MkNZTC1wSFc0dUFGODEwSHNRd01QMWwyQmdxMHR4dkpma2hQd1BSSmk1RUNB?oc=5",
         "image": "",
         "publishedAt": "2026-11-05T18:02:00.000Z"
-      },
-      {
-        "title": "Perú será sede de The World’s 50 Best Restaurants por primera vez - El Dia.com.do",
-        "summary": "Perú será sede de The World’s 50 Best Restaurants por primera vez &nbsp;&nbsp; El Dia.com.do",
-        "source": "El Dia.com.do",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZVzhTOHRGOXlxbTR4V3JoaEZYaHhtV2V6dWFFakxiQkkyMThrU2lHQTkxako5TlFicDFqUk15b2s4amRXTUtDXzY0S091ZExSUjgxOV93bjN5aGs2TGM5X3lWR0JyNHRQZzhkdkNTWVJjcWNlbUROTVd3?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-05T14:10:36.000Z"
       },
       {
         "title": "The World 50 Best Restaurants 2026 en Lima: Tres restaurantes peruanos entre los mejores del mundo - Perú 21",
@@ -606,6 +598,14 @@
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnVpRFk0NGJFekRIb01OR3E0ZlM3ZVFlWmcyZmdKVThzdUlSejRReF93bV9YVGtCRzVjOTMybjZCWDZCT1RkWFROUmxWZkhnbk9uRGMzajNmU2RFMFd1clJuVGpOTGFlXzctXzJ0aGxkNlc4aV83X2t0aUlMeWh3SG45c0hFVS1RWUs0YzR4aUhOS0NYcnFQdEZ5UmphZkx4SHJoYmZGanpJdkdDTVFEaUxPZFl1RTQwYW5JcFNJMmp3UGFQd3ViLVhjd1RBaXExSEFjdDNB?oc=5",
         "image": "",
         "publishedAt": "2026-10-19T07:00:00.000Z"
+      },
+      {
+        "title": "Festival ALAIRE 2027: ¡Así puedes comprar tus entradas para el evento! - Blog Joinnus",
+        "summary": "Festival ALAIRE 2027: ¡Así puedes comprar tus entradas para el evento! &nbsp;&nbsp; Blog Joinnus",
+        "source": "Blog Joinnus",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRWt0a1JBTGNRUHdwTDJiR1lkeU9sa0pJSVNrLVhLSGEwZjQ0bUllVXkxdGNCV1h0SFV6b3ZIY0pPWF9wbkZ0UFI0OUJ0V18zdm9qeDB4OTZnN2p2VkIwRE03WENuMFJTdEJmVGhrdWd2eUhwTUpOeVdCSjlQVmxlejlxbEczUHlLRGFlYi1ZaDdpbWR4SGFqMQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-16T07:00:00.000Z"
       }
     ]
   },
