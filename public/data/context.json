@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T01:29:34.834Z",
+  "generatedAt": "2026-11-12T09:44:53.928Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,28 +24,52 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
+        "title": "Keiko Fujimori y el papa León XIV: ¿De qué conversaron en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
+        "summary": "Tras concluir la primera mitad de su viaje a Sudamérica en Uruguay y Argentina, el papa León XIV llegó al Perú, su patria, recorrió las calles de Breña y el Centro de Lima a bordo del papamóvil ante una marea de personas y fue recibido en Palacio de Gobierno por la presidenta Keiko Fujimori, con quien sostuvo una reuni",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-papa-leon-xiv-de-que-conversaron-en-palacio-de-gobierno-apuesplany-por-que-invitaron-a-boluarte-y-otros-expresidentes-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/HHEG43T2SNEZTI5KL62NGBLGUQ.jpg?auth=c589da9132f660e47e4dd46622828a5e8e414245f0f9b6082482e4779bc67c5d&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-11-12T05:01:00.000Z"
+      },
+      {
+        "title": "Keiko Fujimori: Esta es la agenda que cumplirá la presidenta en China y Japón",
+        "summary": "Durante el debate, senadores de Ahora Nación, Juntos por el Perú y Buen Gobierno criticaron que la salida de la presidenta coincida con la visita del papa León XIV",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/el-senado-autoriza-viaje-de-fujimori-a-china-y-japon-esta-es-la-agenda-que-cumplira-la-presidenta-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/HCJC5PSWUNGURFLCZCHTSRICE4.jpg?auth=ea8bad10c06b0da0c1edc9ebfce11a21c5a4efd81af77277d4b3bc4c59c83f5d&smart=true&width=1200&height=647",
+        "publishedAt": "2026-11-12T05:01:00.000Z"
+      },
+      {
+        "title": "Papa León XIV destaca su relación con el Perú y llama a la unidad: los temas clave de su primer discurso",
+        "summary": "El papa León XIV se reúne este miércoles desde las 7.45 p.m. con las principales autoridades del Estado, representantes de la sociedad civil e integrantes del cuerpo diplomático en el Gran Teatro Nacional, en San Borja.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/actualidad/en-vivo-papa-leon-xiv-da-su-primer-discurso-en-su-visita-al-pais-en-el-gran-teatro-nacional-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/DV6AG45VLBBMBKYPFGOAAIKPEI.jpg?auth=ad15c1557df6f2f7c5a73c036b7397b8c0d5fab921fb13f5532a412313288488&smart=true&width=6720&height=4480",
+        "publishedAt": "2026-11-12T03:58:48.000Z"
+      },
+      {
+        "title": "Keiko Fujimori ante el papa León XIV: La tarea es “la reconciliación nacional”",
+        "summary": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/papa-leon-xiv-y-keiko-fujimori-se-reunen-en-palacio-de-gobierno-hoy-11-de-noviembre-en-inicio-de-su-visita-al-peru-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/NXNCHCK4VBGH3JP27KXC3RRZF4.jpg?auth=9699c0b37f9e3e8c88498a5dca749f63bc1f759e503fd9cbc0a058d6101c77bd&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-11-12T01:50:40.000Z"
+      },
+      {
+        "title": "Pedro Castillo busca la amnistía: El primer ministro detalla la postura del gobierno",
+        "summary": "El jefe del Gabinete Ministerial, Luis Galarreta, consideró que a Pedro Castillo no le correspondería una amnistía, al ser consultado en “Siempre a las ocho”, video pódcast de El Comercio, sobre el proyecto de ley presentado por Juntos por el Perú y Obras para liberar al expresidente sentenciado a 11 años y cinco meses",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/pedro-castillo-busca-la-amnistia-el-primer-ministro-detalla-la-postura-del-gobierno-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/NM7KCQO3Y5DLDN2KHT2EJ6KFII.png?auth=8794e2546935a209151245766e9c33a6bc1a107ce94532df2fbfe8bbda46c112&smart=true&width=1160&height=660",
+        "publishedAt": "2026-11-12T01:29:34.000Z"
+      },
+      {
         "title": "Dina Boluarte, José Jerí y Balcázar asisten a encuentro con el papa León XIV en Gran Teatro Nacional",
         "summary": "Los exmandatarios se encuentran en el Gran Teatro Nacional, donde el sumo pontífice ofrecerá un discurso esta noche. También está presente el expresidente José María Balcázar.",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/actualidad/papa-leon-xiv-expresidentes-asisten-a-presentacion-del-papa-leon-xiv-en-el-gran-teatro-nacional-gira-sudamerica-2026-apuesplan-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/4OJO25LHRFA2HOPRT2MVZWJR3E.jpg?auth=6ef809af3bb4623cab29838b40b06f3fd756dde747916710112443c1be670ce1&smart=true&width=680&height=453",
-        "publishedAt": "2026-11-12T01:23:09.000Z"
-      },
-      {
-        "title": "EN VIVO: Papa León XIV y Keiko Fujimori se reunieron en Palacio de Gobierno",
-        "summary": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/papa-leon-xiv-y-keiko-fujimori-se-reunen-en-palacio-de-gobierno-hoy-11-de-noviembre-en-inicio-de-su-visita-al-peru-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/NXNCHCK4VBGH3JP27KXC3RRZF4.jpg?auth=9699c0b37f9e3e8c88498a5dca749f63bc1f759e503fd9cbc0a058d6101c77bd&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-11-12T01:21:14.000Z"
-      },
-      {
-        "title": "EN VIVO: Papa León XIV da su primer discurso en su visita al país en el Gran Teatro Nacional",
-        "summary": "El papa León XIV se reúne este miércoles desde las 7.45 p.m. con las principales autoridades del Estado, representantes de la sociedad civil e integrantes del cuerpo diplomático en el Gran Teatro Nacional, en San Borja.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/actualidad/en-vivo-papa-leon-xiv-da-su-primer-discurso-en-su-visita-al-pais-en-el-gran-teatro-nacional-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/27NHJXQP2FDU5JWWBSRPYSHDHE.jpeg?auth=78971b91cf6586a42d80562558a7d9957af41c5c9160464136a9aad7610b9674&smart=true&width=1280&height=854",
-        "publishedAt": "2026-11-12T01:19:55.000Z"
+        "publishedAt": "2026-11-12T01:28:54.000Z"
       },
       {
         "title": "Papa León XIV entona el Himno Nacional en Palacio de Gobierno durante su esperado regreso al Perú",
@@ -54,33 +78,49 @@
         "url": "https://elcomercio.pe/politica/papa-leon-xiv-entona-el-himno-nacional-en-palacio-de-gobierno-durante-su-esperado-regreso-al-peru-lima-gira-sudamerica-2026-apuesplan-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/NKGV2AQTGBG6ZJMLKQA5D4OBVU.jpg?auth=dc0810fec908df640577c546e34df3c46b0d4905e613289c442d74879680ce23&smart=true&width=1200&height=800",
         "publishedAt": "2026-11-12T00:38:43.000Z"
-      },
-      {
-        "title": "Keiko Fujimori da la bienvenida al papa León XIV: “El Perú lo recibe con el corazón abierto”",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/papa-leon-xiv-keiko-fujimori-da-la-bienvenida-al-papa-el-peru-lo-recibe-con-el-corazon-abierto-gira-sudamerica-2026-apuesplan-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/BYTKI4APM5DRPOOC2NZTPDQ2WE.jpg?auth=9ae956e830f235b5bbe1a5da2c4a277f78ee27d5cc471cfaa204371c7f6bcc26&smart=true&width=6240&height=4160",
-        "publishedAt": "2026-11-12T00:13:38.000Z"
-      },
-      {
-        "title": "Rafael López Aliaga: ¿Cuál es la situación de los otros 20 exalcaldes que postularon como primeros regidores?",
-        "summary": "Los JEE empezaron a aplicar los criterios establecidos en la resolución del JNE que le cierra las puertas a la denominada “reelección encubierta”.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-cual-es-la-situacion-de-los-otros-20-exalcaldes-que-postularon-como-primeros-regidores-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/DUOV4OROQNFD5CPO6N2GDFWZXE.jpg?auth=1f987d6454efb517d9c86eaa8df72708154d602c30ea12c087dd46b551cb935b&smart=true&width=1200&height=647",
-        "publishedAt": "2026-11-11T21:58:00.000Z"
-      },
-      {
-        "title": "Keiko Fujimori: ¿Qué opinan tres excancilleres sobre ausencia de presidenta en despedida del papa León XIV?",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/keiko-fujimori-que-opinan-los-excancilleres-sobre-ausencia-de-presidenta-en-despedida-del-papa-leon-xiv-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/M737R5PNH5BKJO3JX4YVLMNZEU.jpg?auth=d2d6e199cca765b1cebd5e7890bbe5ba77c2b9a4ec1ddca76dfcdacf8ac6a017&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-11-11T21:57:00.000Z"
       }
     ],
     "economia": [
+      {
+        "title": "Industria de acero latinoamericana alista inversiones para hacerle competencia a China",
+        "summary": "La industria siderúrgica latinoamericana desempeña un papel estratégico en el desarrollo económico y productivo de la región, al ser uno de los principales motores de sectores como la construcción, la infraestructura, la automotriz y la manufactura.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/china-vs-la-industria-del-acero-latinoamericana-se-alistan-inversiones-para-competir-con-pais-asiatico-noticia/",
+        "image": "https://gestion.pe/resizer/v2/623XDYU4QJGZFFSSLDENXQDILQ.jpg?auth=f0cf7d50fdee7c3763128443806cceab84e8dc6129158c0ae544981e866936b7&smart=true&width=3000&height=2000",
+        "publishedAt": "2026-11-12T09:26:00.000Z"
+      },
+      {
+        "title": "Universidad de SJL elige construir y no comprar: pondrá US$ 10 millones en su nuevo campus",
+        "summary": "La UMA, universidad que nació en SJL, alista un nuevo campus y una torre para carreras de salud. Además, apunta a 10,000 alumnos en 2027 y mantiene en carpeta su salto fuera de Lima.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/universidad-maria-auxiliadora-alista-nuevo-campus-de-us-10-millones-y-torre-para-carreras-de-salud-noticia/",
+        "image": "https://gestion.pe/resizer/v2/K3TD4YWJQJA2LP6M6IU5AKZDOY.jpg?auth=805ffafe366f522cb18b178e58a6ced2c22d358af1b6e1e8e527efb9de54ab63&smart=true&width=1200&height=800",
+        "publishedAt": "2026-11-12T02:30:00.000Z"
+      },
+      {
+        "title": "Leche Gloria aumenta sus inversiones de capital en 84.6%: ¿en qué está destinando sus recursos?",
+        "summary": "Leche Gloria incrementó en 84.6% el saldo de sus trabajos en ejecución al cierre de setiembre de 2026, destinados principalmente a renovar equipos y maquinarias y ampliar su capacidad productiva. En paralelo, sus ventas crecieron 15.2% y su deuda financiera aumentó 20.5%.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/leche-gloria-eleva-a-s226-millones-sus-proyectos-en-curso-que-busca-ampliar-en-su-operacion-noticia/",
+        "image": "https://gestion.pe/resizer/v2/UUPTQQBVHFE25EBDWHC3Q536C4.jpg?auth=5aa8c79c735b9cd4172133e46f3c4b2e386d1c3a4a3cdda6b28d3f55d2b9c6cc&smart=true&width=1366&height=768",
+        "publishedAt": "2026-11-12T02:00:00.000Z"
+      },
+      {
+        "title": "Midagri se reorganiza: en diciembre se tendrá lista propuesta final, ¿qué podría incluir?",
+        "summary": "Además, el titular del sector señala que destinarán S/2,000 millones para indemnizar con el seguro agrario a los agricultores que resulten afectados por el fenómeno El Niño",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/ministro-vinelli-en-diciembre-se-tendra-lista-propuesta-final-para-reorganizar-al-midagri-noticia/",
+        "image": "https://gestion.pe/resizer/v2/N5SERGWAMBADTEOVVN35VOYVSM.jpg?auth=b3ec0b16dacd3d8de173031612d4c03aacc72f729950a5a35b85d234b75ee228&smart=true&width=1418&height=800",
+        "publishedAt": "2026-11-12T01:45:00.000Z"
+      },
+      {
+        "title": "Comunal alcanza 34,000 m2 de coworking en Lima con nueva sede",
+        "summary": "Comunal inauguró una nueva sede en Chacarilla, en el distrito de Santiago de Surco, con lo que alcanzó las 17 ubicaciones y aproximadamente 34,000 m2 de espacios de trabajo flexibles en Lima. La apertura se suma a la expansión de la compañía peruana en el mercado de oficinas corporativas y coworking, en un escenario de",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/comunal-inaugura-sede-en-chacarilla-surco-y-alcanza-34000-m2-de-espacios-de-coworking-en-lima-noticia/",
+        "image": "https://gestion.pe/resizer/v2/3QA3LZH6MBF73AFCMKDOMFZO7A.png?auth=041c99c6afceef48ae9014ac476924ecd332acd688c8acc91aef740fbed1612b&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-11-12T01:30:00.000Z"
+      },
       {
         "title": "Perú y Brasil avanzarán acuerdo comercial en “los próximos meses”: lo que alista el Mincetur",
         "summary": "Con ambos gobiernos renovados tras realizar elecciones en 2026, Perú y Brasil avanzarían, tras una década de espera, en la entrada en vigencia de un acuerdo que profundizaría inversiones y comercio mutuo.",
@@ -104,64 +144,40 @@
         "url": "https://gestion.pe/economia/papa-leon-xiv-visitara-5-regiones-del-peru-los-retos-que-van-mas-alla-del-crecimiento-noticia/",
         "image": "https://gestion.pe/resizer/v2/T26MVTJEBFAJFKPM7KVZQOVD3A.png?auth=a22ed5987d7a626f01be1560d04689459bab2150f857fc4a9234360b052ea3ff&smart=true&width=1672&height=941",
         "publishedAt": "2026-11-12T00:34:40.000Z"
-      },
-      {
-        "title": "Universidad de SJL elige construir y no comprar: pondrá US$ 10 millones en su nuevo campus",
-        "summary": "La UMA, universidad que nació en SJL, alista un nuevo campus y una torre para carreras de salud. Además, apunta a 10,000 alumnos en 2027 y mantiene en carpeta su salto fuera de Lima.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/universidad-maria-auxiliadora-alista-nuevo-campus-de-us-10-millones-y-torre-para-carreras-de-salud-noticia/",
-        "image": "https://gestion.pe/resizer/v2/K3TD4YWJQJA2LP6M6IU5AKZDOY.jpg?auth=805ffafe366f522cb18b178e58a6ced2c22d358af1b6e1e8e527efb9de54ab63&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-11T23:51:05.000Z"
-      },
-      {
-        "title": "Parque La Molina: así avanza el mall de Parque Arauco a casi dos años de su apertura",
-        "summary": "Parque La Molina crece en ventas a casi dos años de su apertura, mientras algunas marcas peruanas replantean su permanencia en el mall. ¿Cómo se vive la maduración de un centro comercial lifestyle desde ambos lados?",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/parque-la-molina-a-dos-anos-del-nuevo-larcomar-las-marcas-que-se-van-y-las-que-llegan-noticia/",
-        "image": "https://gestion.pe/resizer/v2/2DLFZALMM5GZJLQPVIQBTI5PSM.jpg?auth=e98c0357d37be6bb52cc4fb2f07c48a4860b019332dfe5bfe39316dd788fd370&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-11T23:50:48.000Z"
-      },
-      {
-        "title": "CEO de Minsur ve una “oportunidad única” para Perú: ¿qué falta para atraer más inversión?",
-        "summary": "Juan Luis Kruger, CEO de Minsur, conducirá en CADE 2026 un conversatorio con inversionistas de Grupo Hame, Citi y Southern Copper. ¿Qué necesitan para apostar más por el Perú? Su lectura sobre El Niño, el récord exportador y la demanda de minerales.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/cade-2026-ceo-de-minsur-anticipa-record-exportador-que-falta-para-atraer-mas-inversion-noticia/",
-        "image": "https://gestion.pe/resizer/v2/GFX53BRPBBAZLLEQTDO5PYJBJM.jpg?auth=a297256a2e5fcb35569ec62d413a2af9db96ac5f9176ba20b2b4642969dab4bc&smart=true&width=1920&height=1280",
-        "publishedAt": "2026-11-11T23:50:32.000Z"
-      },
-      {
-        "title": "Minsur dispara sus ganancias con el estaño, pero el oro de Pucamarca se agota: las cifras",
-        "summary": "Minsur elevó sus ventas 59% en el tercer trimestre de la mano del estaño, mientras el oro de Pucamarca siguió en retroceso. ¿Cuánto ganó la minera del Grupo Breca y a qué destinó su capex?",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/estano-dispara-ventas-de-minsur-y-la-minera-del-grupo-breca-invierte-en-extender-san-rafael-noticia/",
-        "image": "https://gestion.pe/resizer/v2/BJYKPO3OONARPLLZUCAHXDSE5M.jpg?auth=6c5c0c330781f79bfdc749cf27182bf073c6d70ef09fac1bd3511d26ffdedf64&smart=true&width=1200&height=750",
-        "publishedAt": "2026-11-11T23:50:11.000Z"
-      },
-      {
-        "title": "Comisión de Energía y Minas: en dos semanas tendrá dictamen de la nueva Ley MAPE",
-        "summary": "La presidenta de la Comisión de Energía y Minas de la Cámara de Diputados, Yenifer Paredes Navarro (Juntos por el Perú), anunció que en un plazo de dos semanas se emitirá el dictamen de la nueva Ley de la Pequeña Minería y Minería Artesanal (Ley MAPE).",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/comision-de-energia-y-minas-en-dos-semanas-tendra-dictamen-de-la-nueva-ley-mape-noticia/",
-        "image": "https://gestion.pe/resizer/v2/MNKN3FSGJFH6TG5LGFL4YG27I4.jpg?auth=d886dfddd6459703fc8e44d1f352ba67083c9e714555174c64b6cfa4d0872495&smart=true&width=1280&height=853",
-        "publishedAt": "2026-11-11T23:32:00.000Z"
       }
     ],
     "sociedad": [
       {
-        "title": "OxI: Summa Gold continúa liderando el desarrollo social con nueva obra de más de S/ 6.8 millones - https://stakeholders.com.pe/",
-        "summary": "OxI: Summa Gold continúa liderando el desarrollo social con nueva obra de más de S/ 6.8 millones &nbsp;&nbsp; https://stakeholders.com.pe/",
-        "source": "https://stakeholders.com.pe/",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc2RaUGtiVnlFRDUxMmdsdlFhTVcwc1Q4aXlkTW93RXkwckd3aDZONHQxTVJGR2VvRVoyYlNNVE1ETzAzazNVZXZCWUZxRHkxNUdQY0VRMmtMMlhVMkt2TW5rbWM4VzF5Q3F5cXpPRWtUbEYzeXpuLVFQaVIwQVBqcXpGZWpGeGlXUXJiOHZTcWRuWkh0a3FWUmlWN2tWeGlRM3lNWEZEX0dQNkVuZU1paUZyRE5DMnprRmJwV3lJR20yYWtib00yM2JWaHFYVS1w?oc=5",
+        "title": "Servicios sociales se quedaría con el 49,7% del gasto previsto en el Presupuesto 2027 de La Rioja - Fenix951",
+        "summary": "Servicios sociales se quedaría con el 49,7% del gasto previsto en el Presupuesto 2027 de La Rioja &nbsp;&nbsp; Fenix951",
+        "source": "Fenix951",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWbFl1eXZDdUM1Z3hOQmI1RkRNeG00dFQyRDVCelBHS0NvcjJhLU1oNkRrQm93eVlwNmI2NmphdV90dHZiOWVUTnhKbnpVY2VkTkc1Y1VjSzNvNnR4SlE?oc=5",
         "image": "",
-        "publishedAt": "2026-11-10T21:35:19.000Z"
+        "publishedAt": "2026-11-12T03:31:13.000Z"
       },
       {
-        "title": "Investigadora del CIISSS de Cayetano obtiene financiamiento de ProCiencia para desarrollar estudio sobre violencia y seguridad ciudadana - Universidad Peruana Cayetano Heredia",
-        "summary": "Investigadora del CIISSS de Cayetano obtiene financiamiento de ProCiencia para desarrollar estudio sobre violencia y seguridad ciudadana &nbsp;&nbsp; Universidad Peruana Cayetano Heredia",
-        "source": "Universidad Peruana Cayetano Heredia",
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxORVN2eDVWcU91cTR1VlhZUVE1aGNRWFNVLUoybW5LcjFUeGJDR3MyLWFRLWw0a0I1bDUwUmxjZjZodzJRdUJjb3VTUlhDWk5SYjZjLXBpR0twM3Nqay1EdEFJVjRQRWFmdHdGWW5lMGdTSXFDc1pLdmNuMDNpTzJIRS1Odlc4bWJpUkV4MmxxQWFpUWUwanVEaDJoeHBzUFFBREpZZmdNa09lWnBHZUJFTy14RFFNOVZNdVNOaFpNOGQyQ2Q0Y2xoMDJBZG8xVjZKeGVoM3VpXzdLU0JERC1pQmpoSGxDM0k4bWhpN1VSM0pRbGJLWFdqaGRiVTRlbnl3VVg0cHFBMzRrV1RtU1llSjlB?oc=5",
+        "title": "León XIV, una visita para despertar la esperanza y sacudir conciencias - Evidencia.pe",
+        "summary": "León XIV, una visita para despertar la esperanza y sacudir conciencias &nbsp;&nbsp; Evidencia.pe",
+        "source": "Evidencia.pe",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY3kxSWYxYWo0OXNrWlM4NFJXcUNHNTlXRHpta1NDdTdCdnlUZ3ZhUi1tcUVzS3RTdVhldkFzZGdJVlVKSkdvWUFfalhrUzZaOWl5NWJOSE96RGs1b295c3dFSlVIVlh3ZXVxMkJJYi1FeG45VkFfQVRBWHdYSFBoa216Rkp4YTl1RVIwaVAxWlBYQXdNR0HSAZsBQVVfeXFMTjdBd3pWQlMwalYzOFliOE1xU1BoQ2FETmRLNUMtRTlVQzJSZllwa0J3c1VWUUVRRHhpcXowTUduUVVlc2VyZHltQWZISHNyZk5fT1pPTDMzSXhQaHlMR19lVDkxOVB0SDVPbE50ak1qWWFUb0JzTXBzNDdfSGhMQnFIM0ZWOWVHQktsT1ByMDNnWDdWZm5nQ3dzdFk?oc=5",
         "image": "",
-        "publishedAt": "2026-11-10T19:19:16.000Z"
+        "publishedAt": "2026-11-12T02:34:36.000Z"
+      },
+      {
+        "title": "🔴 “Nos vamos a ajustar”: prevé Gobierno de Aguascalientes incremento al ISN - Facebook",
+        "summary": "🔴 “Nos vamos a ajustar”: prevé Gobierno de Aguascalientes incremento al ISN &nbsp;&nbsp; Facebook",
+        "source": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZV9tbUw5UURva2pCblNEM3EwT3Vvc1hfWWFWZ2t0LVZuS0VtTXRWN0VMQnZ1MlJrZjQ5eVdPeHYxc3M0UHA4WXZUU0tSd09QRGhRQVRwaXM3SlVxckhqV0hSYnFpLURfdUlzS3JuQmFEaDB2SUJoWFpuRHFoQ3g0TzNLN0dMQjJYNmlkclhmYWZKLVNHTjhOclFfalo1eENCQ2lmOEg0UU1lTGUtcUtkUnBPbVNJeDc2OVZaOWd6V2oxdFF3UDY1alREa1phWmdFajFYdm1n?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-11T21:53:39.000Z"
+      },
+      {
+        "title": "CAF y Brasil revisan ejecución de US$ 820 millones en financiamientos - CAF -banco de desarrollo de América Latina",
+        "summary": "CAF y Brasil revisan ejecución de US$ 820 millones en financiamientos &nbsp;&nbsp; CAF -banco de desarrollo de América Latina",
+        "source": "CAF -banco de desarrollo de América Latina",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSDRreTl2Q08xYjN2NkZNMWVZWmVycEphN2dLMGNZQUZpR2dzMW1ldUNwa3U3UzI2NmJ1NGxCaTRBQjlBNzZ3bkFCZUVrTFZCbzNPTWNkcVA0NEFRSUUtR1JwV283dndQNDFYbjNfbHd4MklyeUpYLU41OGNlOGtVRTMya2NGVktSUnlpaWNyOExXWmFTTFVjZ0RDbnVEMGFySTdRb08zdkx1bTRtZlIxU3IyQXJCUEpRWG1XM0J3eXBxeW90UDhn?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-10T20:51:17.000Z"
       },
       {
         "title": "Nobel de la Paz llegó al Perú para celebrar el 35.º aniversario de la UCV - Universidad César Vallejo",
@@ -170,14 +186,6 @@
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEYTBwcVVfSnhuMllhd2ZybDl1aVRIbzFCTVJQV2dad1J3MjdvRWV2eDNldXk3bWQxU1dLVVZCM29xNDVEcmRwY3FLZGMwaGNTbkF3UnhlZHFZVE12SlVTT0x2TDk5RFV5bHVjM2VB?oc=5",
         "image": "",
         "publishedAt": "2026-11-10T01:21:40.000Z"
-      },
-      {
-        "title": "Julio Velarde cuestiona salud y educación en Perú - América TV",
-        "summary": "Julio Velarde cuestiona salud y educación en Perú &nbsp;&nbsp; América TV",
-        "source": "América TV",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWmFEY1NmaFdSWkFSblVmXzdGSHNmb1RPWjZRbGZsT0E4TTIyVDh6SGZ1VmdJQjJPd0ZZb2tZdjlaRGJqR1R0LXVTQkQ5UEhxWDJWSUdYbU5aZWVZVUpZNHoyaEFxaFUxMmpQWVRiTGgxRHhjeGZSc29wYnJzcFlyTnlrbEVQRm9nMmlYbjRkLUJSNlVERlUzQlpBdmxKSGZONDNUd2NQLVRrUVZ6bWZYWGQzTdIBuAFBVV95cUxPTjlBYjV6bTM5WHJlSTFCU05uR1Y5VWtfcko5OE1Ya2NsWUNSbE94d0l5MUdZUXFQSW81SzUzVzZaRjZ0UzRXUW14RkpfSHJCSndiMk1iQlZzYzl0T2RZYUk1Slg5OXYwM19CeDl4bE9VdkJnV05WN0tYTVN6STJfemczY29WNFlmMnByckZMVWZDbXNUMnBSM3pBVGhYU2doSEdVRmxFVm00Q3dHNTN2RmdKRG5XeDBK?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-13T07:00:00.000Z"
       },
       {
         "title": "Educación - Desarrollo Sostenible - Welcome to the United Nations",
@@ -202,17 +210,17 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYzNoV0N1ZWRwaXppZmNuai1FNW5UdXBQbllqYThGa0h2V3poZ2sySjVhRlNyZHhDYkFmMUI4YzVaazlJSDV4aGJ2emprMkY3MTU5Qi1KSnU5eHdvb2xQbkZWak5mNkViUDZjQVJPbktwLUM3NzNrbVMyajVhSVlHaVUwSExZQ0pmOEw3WmVwNVFRaDlPbEpFOFd1M09hQ0dJRC13WlItV2hnTGVza0NlWk1EM0ZQZndRSmtBMzZSVzhjUEVmOVE?oc=5",
         "image": "",
         "publishedAt": "2026-06-02T07:00:00.000Z"
-      },
-      {
-        "title": "Plan de gobierno de Ahora Nación: Puntos clave y propuestas en salud, trabajo, economía y educación - Infobae",
-        "summary": "Plan de gobierno de Ahora Nación: Puntos clave y propuestas en salud, trabajo, economía y educación &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeV92RzBNaFF5amx4WnBWRXZoZm0tWGY5Y0REQlBPbUR4UkI2SnJ6VTlvZnc4cElfa1paVXlia2lodnNZY0x2SHdubjROelc2dnFDaUdmZ3p6TWowcUNnb0lZZk4yRzNScHFvTkNtc1E4STdicm9veVpuT05mT0NHYTBBeHV5RHZ3bUlwS0s5RFpnS0N2U3JvVXVVMGRFWkd2cHF3Rk5WUDlwZWJ6M3ZCdmxhUjAxSkxROGNDd0t6S3BxTDlyZEpGMl9PZWJaZkZ4RXlN0gHuAUFVX3lxTE5saVoyRmhWOEFYb211WjcxRmJrTk91M29YYVYxa1ZtZjBYd3J3MHdPamMzWEJETGZxS3QwWWpwR19qalZ0MmppQzU1ZzRPTi1mTDRnUGVtZ1poUDFXUGFqbVA3N2c2aDgzM2U0cElnUm94akZIY0xnaXlPSml6UXZUd0NJTW8tQU53M0lDajFnWk1BRDFjZzVDZmo3UERtZkpSamhpcTBIeE9SeXFJN1JFa2tvYnFzRVFtYmFIblFFVHlJbTJYUktULWpISERrczNKZDBhZjdKT3R1b3NIRmRqSWtjalFWR19ENnVlMnc?oc=5",
-        "image": "",
-        "publishedAt": "2026-04-06T07:00:00.000Z"
       }
     ],
     "negocios": [
+      {
+        "title": "El día después de la primera venta: cómo pasar de gestionar un emprendimiento a liderar una empresa en expansión - Infobae",
+        "summary": "El día después de la primera venta: cómo pasar de gestionar un emprendimiento a liderar una empresa en expansión &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQa3dCWXc4MFp3WjI0NUhWazhEOGN2X3g5Y0dnWGpjdzhLWmdQa1RHN0tVeEFpWmdveDJrUWx3REVCMWxUMkd4Qy1ESDFhVGgxNVdiWUtJUnZ3N3NtWVI3UHRVMzQ2UzhiNmwyZDdDblRaaEYwRzBDbTlsOUlsUXYyYk0yLXVFdGoyUlJFQ2ZQYVVFeHplQXNBNExiMk9PM2VqVmpQbU9NSUpyNDdNd3hxQnR6NlpBZ1p4eDJqSC1YbzF5bGVFQVNqOGU0eFFfclduUjVmekNBNlhDTlE2N0xTUG5mQWZKUFHSAYICQVVfeXFMUERLeFQ1WkZQTDNFcE5UQ3pBNU9WVDJZVjdXbHNqbVdMUXlGVGRlUDY4V2VIWFk2ZVdZbkVnRFhfQW1XczRSdGxtOUp5NHJLWjZnOW5oTi1pMUROQlk5ZE9wR2FJbU9rMmIwNFFsRmdhaktjWlo3N21ZUGhSRlhGRlpJeFh1UEVfN3lBbHA3cWhtdHZTblJTbXgxQTZkdjF5c2JKQWNxaUc0Y1pFeHR3VGpjYXlGcUVCanlXNnl0MGhmM3ZkYXk5ZkpVTzMyZGpvcjBMX2dFb0ZpZmtTRmpqY3lrWUtMRlpnNjZ2T0k4MUdOOHFmUmpUcVVfd0dSSkVjNHd3?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-09T15:44:00.000Z"
+      },
       {
         "title": "Perú emprende, pero le cuesta escalar: por qué pocas empresas logran dar el salto y crecer fuera del país - Infobae",
         "summary": "Perú emprende, pero le cuesta escalar: por qué pocas empresas logran dar el salto y crecer fuera del país &nbsp;&nbsp; Infobae",
@@ -244,14 +252,6 @@
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
         "image": "",
         "publishedAt": "2026-06-17T07:00:00.000Z"
-      },
-      {
-        "title": "Ayudas económicas para pequeñas empresas en el Perú: programas y requisitos - BBVA",
-        "summary": "Ayudas económicas para pequeñas empresas en el Perú: programas y requisitos &nbsp;&nbsp; BBVA",
-        "source": "BBVA",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa3l6cnJyM1o0eTRtWVJGNWlyTFlYOU85ZGZEaXlrSUxJWm43a2RJV3V5MFp6T255S1B3S0lfUEpJQzlhc1JJQUlYSEdZVndZTktoMGphbkhrdHVkLXlNSnlReHB6aWp4SUxJM1J6WmpOZTZRTWZicTBfWC1HT1RSbzkwYUQ4S0Q2blNoUjBxLTljR0VRblRJTVpGWmwxQng2dkpjZDhGNTJRZlljMl9aSA?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-11T07:00:00.000Z"
       },
       {
         "title": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión - Infobae",
@@ -346,6 +346,14 @@
     ],
     "ia": [
       {
+        "title": "Omnicom lanza Creo en Perú: influencer marketing con IA - El Ecosistema Startup",
+        "summary": "Omnicom lanza Creo en Perú: influencer marketing con IA &nbsp;&nbsp; El Ecosistema Startup",
+        "source": "El Ecosistema Startup",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTTJJbkFwcmUxWkhrMTJ6VWhidzBockJxTVZwMXpvb3c4b0E4N0VCZVp5S3UzWVB2RlVPU0FOVmdEa3h0WDJyMWtwemRINjhUMnYza1p4ekc3OE9DVThsd0JPOVMtbVBSdDdBTWhvOTE4M3BpbHBxTG4tV2FnV25RT3UxWnp1VzNyc3B3eE9B?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-12T07:33:23.000Z"
+      },
+      {
         "title": "Perú en el top 3 de América Latina en desarrollo de habilidades humanas e IA - https://stakeholders.com.pe/",
         "summary": "Perú en el top 3 de América Latina en desarrollo de habilidades humanas e IA &nbsp;&nbsp; https://stakeholders.com.pe/",
         "source": "https://stakeholders.com.pe/",
@@ -376,14 +384,6 @@
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXlYRUtfdmtnWjVRODBucHdFR21aLVZCSVhjWFRUZnp3MTB2OTJTRGlDckF6by0zWGpCanAyX3RxNzB0a3lVbGM2N3ZGSWI3LVowZGZaYjJiWGh4YWVQUVI3RUh0SGdmaUd5dDlOeUZfOW5ZenQ0STRRWTF0UjhkNFJVZnEtUk9iQXRIdDc2a3ZISWxF?oc=5",
         "image": "",
         "publishedAt": "2026-11-10T00:47:18.000Z"
-      },
-      {
-        "title": "La paradoja del empleo tecnológico en el Perú: Muchos puestos sin cubrir y profesionales sin las competencias requeridas para ocuparlos - Infobae",
-        "summary": "La paradoja del empleo tecnológico en el Perú: Muchos puestos sin cubrir y profesionales sin las competencias requeridas para ocuparlos &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQYlZUNm1iMFMwQzhIb2dZZThISGQtV29zVTNpMkhmOTR1TV9JZmpTY3V1UzA1Z2x4VllxelBzOS1HX0JJcnhhd1I5UGZQQ3lXdlpWcGhwNlRYZHdlZm5KOThfYU5ybXpmTWZaa0RISmotcnBXZ1BUeG1OaDVrZ0lKN2ZXd2tUTXRaWkNZQ3RiRXNBMXhpYnVYcl82cEc2eUJYMDFlWDVwN1c3TGxNaWlqbXFNTEp5Q3NOTHNNRDFPWkp3LUpoNGVXeXlDbHVud0t1NjlqR0RlOEZIaU9nMW5MMm8xT2MxREJoUmRwcVo2alRvdl9JeDNEaGh4b2RYSF94NV9lY1d30gGgAkFVX3lxTFB5bURmaVpKOWN3a2YyY3dLQTBzaUp2aTZPQi1KaWkyeWxnRkVQUHRTeEczVTZEazJZSXJ1SFJ6T1dwbUdqTWMwNTVrMnVCd3VxclF6X2M4cEo0Nk1jNk5vYV82SDJ5STVrRk5RUDluM1pTdC1zQUdfVGJhQllSR0FxOVpBWGhGeXVBd2VZdlJkX0phMVA1akZhMXAyWXVoYzVCLWkyaUp0clB0NnAzdVZVemU2RXk1c2JkandCYWQ4VVJtTnJsS1Q1dVFnZ2Nmb0Z6VFJKdU5jTGN1My1qTjFycVJlcEtQTFJnX3ZUUm5odzFVcmEzT2pBamFYSXRjeV9PYWpJcFJCTXo0cHF6dXdiWUt2R2tkTXJuNjZsQ2l6Yg?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-09T18:18:00.000Z"
       },
       {
         "title": "Inteligencia artificial: ¿qué tan preparados están los centros de datos en Perú? - El Peruano",
@@ -494,14 +494,6 @@
         "publishedAt": "2026-10-09T07:00:00.000Z"
       },
       {
-        "title": "Liberan nuevas entradas para conciertos de BTS en Perú 2026: hora y cómo comprar tickets del tour 'ARIRANG' en Estadio San Marcos - La República",
-        "summary": "Liberan nuevas entradas para conciertos de BTS en Perú 2026: hora y cómo comprar tickets del tour 'ARIRANG' en Estadio San Marcos &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQMF82SUZERGo1VHRXSlZGU2hLX280cDVzQXRwWFh0UGNKVVcxNmRSZXYzYW5ET01LNUlvSHV2WXZOOFQ5R3dZX1M3TnBnc0hUejJwbDFMcGoyZDI1dTQ2OHpYUXRqazNrb0VWRDZ6YVJ3SW81OHN4VXZqa2tMeDgzMVM3X0g3UjdCdnhTSnFIX2JTektDU3pQTUpJcVd2NkpCSkdKUzEyNUdCRlpmdGZXTWtJTEJoeHNVSE1HSTk0cFpBalVJQl9QaU1EMUJUNk1DQ3FOQ2NyemUzWUlVYWVoRi1aX0wxYmVIanFwVzFjYUdTeEtzT05Zd29VaUxWNHZmVndTWWg1WklMMGM4VEwyctIBlgJBVV95cUxNMU1JZlVjbEZQcWpIeWpWcGthUWg2SWZvamJ4ZE4yeG14RGYxbVhvdFBGeXNmT0V4VzE3bDhBYlhTMHliUmhoY2swZ0M5Z0poZndRZGU2dUZCS2VVYTRfR1RvLTFGTng4SXphN3JtUWEzUFhGaFllZmtpOXhKTFRKemk4aTltc2Q0aVhHbkw3ZkZwcXppZVNfQkhiS3VZTnpWN3RhX2c0QWxvQ1M4VlpkX0pqLTdfU1pKdlBJWGg1QlRRTjJXSFhCMkNucHJFanYxQzRCbF9QaGdLV2NtMVdkSUpNd0RycHhKbld2NEFjVWFfMy1yYjhxdnJoMzBzT1VmTF9LN1JwZk1Ja3F1SUFCTHU2bWtkUQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-08T07:00:00.000Z"
-      },
-      {
         "title": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS - Trome.com",
         "summary": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
@@ -526,20 +518,28 @@
         "publishedAt": "2026-10-06T07:00:00.000Z"
       },
       {
-        "title": "Conciertos en Lima en octubre 2026: qué artistas faltan presentarse, fechas, lugares y entradas - La República",
-        "summary": "Conciertos en Lima en octubre 2026: qué artistas faltan presentarse, fechas, lugares y entradas &nbsp;&nbsp; La República",
+        "title": "Conciertos en Lima para septiembre 2026: todos los eventos con fechas y precios de entradas - La República",
+        "summary": "Conciertos en Lima para septiembre 2026: todos los eventos con fechas y precios de entradas &nbsp;&nbsp; La República",
         "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOUW4ySzduQ2JxSEJmblVtT19uTHVZTUItZl9ZRFhwVEtJRk5GT1B2NklmbEk2aHdfNlBuUy1vNXdQWHdmc0FlYzNSZ21QcVdtTUFNeU5GQWpRdnhOMTI3b0lheUZUMWtha1AwZy1kYzloSWJfUXZ0VDBpTVpsTWJCbFh1TzgzR1l2WElFQTdfeGVScV9IZVdBS1hfeGh0UWgteE9ya0IzTjlrWGdsa2lTOVZSeGlydEd6LW1Xd2lFdTVHZkVqVzB5XzFKNzQ1clhoYmJqX19fZVhMWkZjd2YwdzlpNmlsajRwSWR2ZEppV240cWJyNGxwMnJiU0dfRDZ2aDZWWkhvaXh6eWlaOVHSAZMCQVVfeXFMT1BBQ2w3SjF1T25WR1pfdTBvV3VrS2cxVXVyU3VNTUNJa2tQY2xmRXdhVGlsUHlwMnJsU2VlSUZ5NjA2TXBlRkE5c2Y2cnE2VGJOSXE5S01XaFpJRGx3UHJLSldGVUlKWVYxVUlGb252T1BRSDI5SHNIVmVpLTk2Y2xsQ1AwZjV5UW1ZLXlwaTh3WTBFdU5xSERVd2stSEQ5enVHcWotVWswMEp3Y3Q3RzFkX1E4VEpuMjZoR2J1XzRZSUJfUjBldVlnMlFuX1pGbHV2NmdhTndQMEJ6dEh0NTBVMFhPenRGQjNfVlZPcHhUZURwNVI2YUtQeVdvYjJfc2FpYkoxNGRsX21OeUVHcnd6ams?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQN2t3dE0wQVRpT09kN3dmQktaTDViMEhxXzI5eDQyVWxTZ3FDNmlVMF9rVHhUejRQRkt1SHA1bmZYdWxzSnFuNzhEZUhQWGVFdE1QbjlGV3N0RG1LWTZrRm02Y0w3dTlCc0JPWjRTdHBBaFpEYndHYUNGdjc4aERId000UzdkdTBmWUF1cC1DWG1vdTVxSDdPaDJ5MzVhaDU0WUViellhX2NEUlJQdFR2RzJqNXM3V3psWUQwVk9HRmczejFzUFBxTkxaS0Y1Z0drVnEyRWFHSEtoUVlOTEdKUUExRDlkejI2ck1mLXVDcFRsLTlIWWdOVTg4SThqTndpSzVjTmNkZFE2QXR6cW9LVm1BUdIBmAJBVV95cUxNZVBScnpMYUdFeGdXck5BcWNUTGRfcG9rMEx2UHY2VDZXaFhLeFc4RzhmNzRWN1BFck4zM0RkMGxNSHlBTVFnN0RVMUdWZTM0Y29nbE1fSjBabk1DNFMwbFJRMFJBUzhEYWxkV2V4bm94VUxwY3JmVXlSRXo2NkQ2OGpBUzhCclU5ZnpWYU0tMDlNWFMySWx6dmQxSDVmTGVKTmdVMWVEOGw5TEh4OW9PLTFyWWtNYzEydHFrRVAtOWREdlFCOVh6YlB5TFNfRlRPcGpCQXVMYmpsbTRnSW5xMnA5MUN3LS13bHczalozcVdUV2tiVDZieHI4ZVoybllCZEtCek5QTXJKTmNxV3lBaHZHYXFBYjBT?oc=5",
         "image": "",
-        "publishedAt": "2026-09-28T07:00:00.000Z"
+        "publishedAt": "2026-09-17T07:00:00.000Z"
       },
       {
-        "title": "Conciertos en Perú 2026: fechas, artistas, lugares y precios de entradas - La República",
-        "summary": "Conciertos en Perú 2026: fechas, artistas, lugares y precios de entradas &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNkhLSXNGS3ZXcWUzcFh5eGpQM3h0ZUxDYXVtRXlXc0pVeVM3c19IU2E2cmdvZ2llZmVXQkxKME9HUkJyMmRsUEdlb3I5dmk0UGhuWWJPRVlSRGlIZGFGVFpSWWxRN2hJazdaaWxXbHpWQjVjNkh1eGFEYm1udEFEWkVTUFR3ZXgxWEVIdUd1QlVPSTZUa3VjREhQUDJ4OE1wS2V3RGxsbHVQWTdRX1gtNV9ibzB5Yk15RkZPZlF0cUlpMF9jcTFKRTdidEtjNXdkOTFvM3p0Z2NyUFI5UEQzcGtPWEJHak13UTRLRWFwVE1NMWdxVEUwWDZ1WnJVY2k2WllXT2U2RlhQbXlYLWYyQlZIQVpPbC05b2wwWUUzb01CYTDSAagCQVVfeXFMTlUyQXAxei13aVQwbmNabDBUdU9QSWM3Tm5CSmNvZVJTRDFzZUxpb3E2M1R5OUFyNXNudDhka2RHNVJ5bE1YS0dWNmFZWVgtSnlWUWR5enRUOTJxaHIzNkNMNkU3Z0llUy1Yb25YOGloZnJCOU5YbmlvMFlwSDA1UUVpLTNUR1NHS3psZzNYenM0NFNrVkotVWtlNWVXekV6Ty02Qngxcy1QX29hMTFPMTBqMkY0VEsyVU9pVl8tMlNNVVByOTR3V2N0YXB3eXdKbjc3cHFHX1hsdWhEYVQ4S0oxdVUtdDk0dlE4SVI3NW5PUzcyUzVSUWhrOVl1a19yWGdlUE9iS3RibHk2REpKNHp6TEdXZUN6aU1pcml3V2dnd2VyTVNPaXg?oc=5",
+        "title": "Robbie Williams se declara fascinado por Perú antes de sus conciertos en Lima: “¡Uno de los lugares más místicos del planeta!” - Infobae",
+        "summary": "Robbie Williams se declara fascinado por Perú antes de sus conciertos en Lima: “¡Uno de los lugares más místicos del planeta!” &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZU5ubU5PX3Z6eGJLa1NzZUY2TkdKSDBuMmM2OFh2cnVMd0pPb1hxWk5ucWIwd0JGVWJsR3h4X2tCWVlsazJiYmtkV29TT0VEN2d1blhQQWlQdmtLbEE0QTZseWg3eXNyY2wzd3l3RTJaU2FwRnpZY0dDSXJjS3Z4MEhsMWtyazdwZExPZ2NZYXBaSFgxTHZGVjc1dlVBOGZwYU5NZzhHUW5wQmVWUkFrSWhhWmdrb1FmcGpMMHlhQkNfdXpWY3BWVW1xcUtRYUFtazA4SENJUVJlbDBEQkRnNy0wamEyeFBiZjBpMEYwTVBBU2hh0gGPAkFVX3lxTE9SZVl5bTBIdUc0ZklmZlZjWnh1RjFGNS1NZHN6X0d1akh0UWRNUnBsSkcyTURpVjFKVlJjT082MVJhVDNqdmMwQkV3UDlXa09waGV0MWdfN2lHRE5YUUl6N3Y5elhvZnZIcU8tczZWMTAtTEF6cl91Y3RHU19UOV9JTF8yZ29xdUtWVlZhTXFhUU5Kb1lmU3VVdU5KQzB6ZFd1UTFoM21zM2R3dlN1eGZLakxraG04Q0hCVXo2dFduTExuNWFxTExaSzE5bTl5NTlfQTRsNmRiZ0Y0bThpTG1TRTJuYWVLRHNUb3UyTkoxZk9wWkdRZzFfVURuSXdnQ2lPWFhQMm8teGprUXdrd1E?oc=5",
         "image": "",
-        "publishedAt": "2026-09-22T07:00:00.000Z"
+        "publishedAt": "2026-09-10T07:00:00.000Z"
+      },
+      {
+        "title": "‘Choca’ Mandros revela los fuertes conflictos que tuvo con Johanna San Miguel cuando conducía ‘América Espectáculos’ - Infobae",
+        "summary": "‘Choca’ Mandros revela los fuertes conflictos que tuvo con Johanna San Miguel cuando conducía ‘América Espectáculos’ &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQkZvWG11SkFtaWFQQ2ZKWjNTUi1YMkdHd1Z6ajZHV3EtcXpzWk94YUNqMGJONkRpdTBuaTl6dm81ZmVzdmh5YWJEVkhrV2FSSG1NZjNlaDFmNG5sckdSYUItdFlTaWlqd2hKNTRWM3E5N05rZGtGTDY0SG9qejN6d3B4RElEUUNiRmNjbEw4S1oxX18tbVRJOGJTOTB4bUpoaDl6TkdISDIxV3lpVXZQOV9MQi1wM2ltUHhCUHVfazhnekpQSVhOYmZJajZOdlNpSWs2bUlBN1AxdlJOTnJ4Z2psYTVXYXVJ0gGDAkFVX3lxTE9hZ2NkcDZLMjUzYzBSZ3dtWjhncWJBcUExaFVlWDloMlNzUmdXN1dNQ3JhVzVnWmdQdUNONjNxTk5qV0xhTzB0bnNVazc0MGc1b1F0aUthTTc4TklTTTU1cjZ2Z21WclI0RzVJQ1NRYzZoSHpNOHFpc1paSVlHeFFIWHQwNWVSQUpiUEhyeC1Bdlp0QW5VbmhvY1o0cEsxc0pMc1VlR0tyaVVmZ1dvbWRnSEt2bm13SkFYcWpRTFFCbEtWNU5RT2M2cGIwLUhTNEZJNHcwU3RhMkN5ZGZKSmRSZ1pmamhBZmpNUXhNTGJTVmkyNFl4aVRwbHhTa1J3NHBta1U?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-03T07:00:00.000Z"
       }
     ],
     "cultura": [
@@ -558,14 +558,6 @@
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbGRNb1RBN01QU2Q5MFNjSGNsQ2Q4Tng2cnlWeXhOZXFET2tpaTJRVTJkMm9IQnJIazhVVjRINlFPRDFzNThLUFRqTmZLQmsxTEtGWkdkd2QwaW1PNjFQRm9ZaFZSRHllQjJvX2gydW9pSXYxMTktSDJ1bGFIVXJKLWFZd05mX1pPX2xnRHRrMU8yZFBadGJPQXVqVmhhbXg4T2ZDQ285dlhxdkFsc0x6bFNnQ1lZXzRDZlJrTlUyU1ItcEtiNjZJUFdpU2MzSE9oaDBzZXBVTkt5cERfZnFvUEhpWGhBVXZfSGc?oc=5",
         "image": "",
         "publishedAt": "2026-11-10T13:00:00.000Z"
-      },
-      {
-        "title": "Lima acogerá la Feria del Libro Ricardo Palma con actividades culturales y literarias - Diario Libre",
-        "summary": "Lima acogerá la Feria del Libro Ricardo Palma con actividades culturales y literarias &nbsp;&nbsp; Diario Libre",
-        "source": "Diario Libre",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM09OamxLY3RWZVBpYWtIMmpSbDNsZzFDUFI0d1dxQmNOWUZQRE1kNTktdzBkOXU2WTBFZ1Fyd0RrRUhXT1JBZGF1NjZWYk9kRDcxSXRieWk1QXQ2VE5mb0F2SjF0R21ld3ZnSGQyd1VuRFlDMklway1lM3U2dGo1LWNRdkZfZVpTMUNVaWhmQzhUVFFVRm9TQ2t3Y2RPVDFBWEp5cEtfanE1LUl3TXlSeHlid2xrUHY2Nk56Rlg4c9IBxAFBVV95cUxObXk4TkF6blYwWVpkaU9wWnhEWjlWclU4TzBrWEhrRHpXRFhsM3BWVVBEdVdtSWt6RWZmd0MzRzdTZTAydmtzS050V0RqZEVSU0dmUzczeWs3bjhNYWF6TDJvbm5EQm9LMEgxSG5NcHBGa3IwaTl5ZmNhdkI0Y2pyZGpfSE5md1lYRWFQM1FzMDNSdGRSOW8zOEt3S01JeTYzWDRLZ014bHlnMmdYbjlVNzJwTGN6TGp3SC1TTE05NDJhbG5v?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-10T11:48:00.000Z"
       },
       {
         "title": "Metro de Lima cerrará estación La Cultura por visita del papa León XIV: conoce el horario exacto de la medida - Expreso",
@@ -606,6 +598,14 @@
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYnVpRFk0NGJFekRIb01OR3E0ZlM3ZVFlWmcyZmdKVThzdUlSejRReF93bV9YVGtCRzVjOTMybjZCWDZCT1RkWFROUmxWZkhnbk9uRGMzajNmU2RFMFd1clJuVGpOTGFlXzctXzJ0aGxkNlc4aV83X2t0aUlMeWh3SG45c0hFVS1RWUs0YzR4aUhOS0NYcnFQdEZ5UmphZkx4SHJoYmZGanpJdkdDTVFEaUxPZFl1RTQwYW5JcFNJMmp3UGFQd3ViLVhjd1RBaXExSEFjdDNB?oc=5",
         "image": "",
         "publishedAt": "2026-10-19T07:00:00.000Z"
+      },
+      {
+        "title": "Festival ALAIRE 2027: ¡Así puedes comprar tus entradas para el evento! - Blog Joinnus",
+        "summary": "Festival ALAIRE 2027: ¡Así puedes comprar tus entradas para el evento! &nbsp;&nbsp; Blog Joinnus",
+        "source": "Blog Joinnus",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRWt0a1JBTGNRUHdwTDJiR1lkeU9sa0pJSVNrLVhLSGEwZjQ0bUllVXkxdGNCV1h0SFV6b3ZIY0pPWF9wbkZ0UFI0OUJ0V18zdm9qeDB4OTZnN2p2VkIwRE03WENuMFJTdEJmVGhrdWd2eUhwTUpOeVdCSjlQVmxlejlxbEczUHlLRGFlYi1ZaDdpbWR4SGFqMQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-16T07:00:00.000Z"
       }
     ]
   },
