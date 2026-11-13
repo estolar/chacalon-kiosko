@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T23:38:46.819Z",
+  "generatedAt": "2026-11-13T06:36:11.283Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -29,15 +29,7 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/el-senado-autoriza-viaje-de-fujimori-a-china-y-japon-esta-es-la-agenda-que-cumplira-la-presidenta-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/HCJC5PSWUNGURFLCZCHTSRICE4.jpg?auth=ea8bad10c06b0da0c1edc9ebfce11a21c5a4efd81af77277d4b3bc4c59c83f5d&smart=true&width=1200&height=647",
-        "publishedAt": "2026-11-12T22:08:39.000Z"
-      },
-      {
-        "title": "Papa León XIV destaca su relación con el Perú y llama a la unidad: los temas clave de su primer discurso",
-        "summary": "El papa León XIV se reúne este miércoles desde las 7.45 p.m. con las principales autoridades del Estado, representantes de la sociedad civil e integrantes del cuerpo diplomático en el Gran Teatro Nacional, en San Borja.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/actualidad/en-vivo-papa-leon-xiv-da-su-primer-discurso-en-su-visita-al-pais-en-el-gran-teatro-nacional-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/2CCGHRRCLZEP5ML5BH4ISX7R54.jpg?auth=b57dc949b52ac43a2242bfbe6317d05afffc00934a7ba8ae1a0403a5f46d4e93&smart=true&width=569&height=426",
-        "publishedAt": "2026-11-12T22:03:44.000Z"
+        "publishedAt": "2026-11-13T00:51:30.000Z"
       },
       {
         "title": "Keiko Fujimori y el papa León XIV: ¿De qué conversaron en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
@@ -45,7 +37,15 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-papa-leon-xiv-de-que-conversaron-en-palacio-de-gobierno-apuesplany-por-que-invitaron-a-boluarte-y-otros-expresidentes-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/HHEG43T2SNEZTI5KL62NGBLGUQ.jpg?auth=c589da9132f660e47e4dd46622828a5e8e414245f0f9b6082482e4779bc67c5d&smart=true&width=2048&height=1365",
-        "publishedAt": "2026-11-12T22:03:19.000Z"
+        "publishedAt": "2026-11-13T00:49:32.000Z"
+      },
+      {
+        "title": "Papa León XIV destaca su relación con el Perú y llama a la unidad: los temas clave de su primer discurso",
+        "summary": "El papa León XIV se reúne este miércoles desde las 7.45 p.m. con las principales autoridades del Estado, representantes de la sociedad civil e integrantes del cuerpo diplomático en el Gran Teatro Nacional, en San Borja.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/actualidad/en-vivo-papa-leon-xiv-da-su-primer-discurso-en-su-visita-al-pais-en-el-gran-teatro-nacional-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/2CCGHRRCLZEP5ML5BH4ISX7R54.jpg?auth=b57dc949b52ac43a2242bfbe6317d05afffc00934a7ba8ae1a0403a5f46d4e93&smart=true&width=569&height=426",
+        "publishedAt": "2026-11-13T00:03:00.000Z"
       },
       {
         "title": "Rafael López Aliaga: ¿Cuál es la situación de los otros 20 exalcaldes que postularon como primeros regidores?",
@@ -82,71 +82,79 @@
     ],
     "economia": [
       {
+        "title": "Mina Reliquias en Huancavelica: Silver Mountain concreta su primera venta por US$2.7 millones",
+        "summary": "Silver Mountain realizó su primer envío de concentrados de zinc desde la mina Reliquias, en Huancavelica, valorizado en US$2.7 millones.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/silver-mountain-inicia-generacion-de-ingresos-en-reliquias-con-primer-envio-valorizado-en-us27-millones-noticia/",
+        "image": "https://gestion.pe/resizer/v2/ZCDNMPLBTFCURBF4NOVSGZ5N3Q.png?auth=7865baae4945155e88cbcc715699f79f3369aba8feb13415a8eaf33f9ac10085&smart=true&width=1600&height=993",
+        "publishedAt": "2026-11-13T04:30:00.000Z"
+      },
+      {
+        "title": "Tisur alista nueva grúa en puerto de Matarani como parte de inversión por US$ 598 millones",
+        "summary": "La concesionaria del puerto de Matarani suma una grúa Konecranes a su plan de inversión de US$ 598 millones. Es la primera unidad nueva de este tipo que el fabricante vende en el país.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/puerto-de-matarani-tisur-suma-grua-konecranes-a-su-plan-de-inversion-de-us-598-millones-noticia/",
+        "image": "https://gestion.pe/resizer/v2/7OFXQVY2P5HMLFNHYT4HEI7OZI.jpg?auth=2251b2aee0e343d45e83de29734ef58e3f41d46d997151dd1891a8e3e66497f5&smart=true&width=1200&height=675",
+        "publishedAt": "2026-11-13T04:15:00.000Z"
+      },
+      {
+        "title": "Tacama ingresa al listado de las 100 mejores bodegas del mundo de Worldworthy",
+        "summary": "Tacama fue incluida en The Worldworthy 100, listado internacional que reconoce a las mejores bodegas del mundo. Conoce qué distingue a la viña iqueña y su propuesta vitivinícola.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/tacama-figura-entre-las-100-mejores-bodegas-del-mundo-en-ranking-internacional-noticia/",
+        "image": "https://gestion.pe/resizer/v2/UBU6GQSISFEXLCTBVRXONU65UI.jpg?auth=7f08622aae6bf86db20f5a269e171313f2f6db198cd492c06f216bfdd2919cbb&smart=true&width=924&height=530",
+        "publishedAt": "2026-11-13T04:00:00.000Z"
+      },
+      {
+        "title": "Entre minas chinas y retorno de capital de EE.UU.: el “boom” metalmecánico que asoma",
+        "summary": "El sector metalmecánico peruano, concentrado en Lima y Arequipa y dedicado principalmente a estructuras metálicas para minería y construcción, ha crecido a ritmo mínimo en los últimos años. Sin embargo, el panorama empieza a cambiar. El Gobierno destinó más de S/4,200 millones para preparación ante fenómeno El Niño y e",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/metalmecanicas-preven-boom-en-2027-por-mineria-reconstruccion-por-el-nino-y-demanda-de-eeuu-noticia/",
+        "image": "https://gestion.pe/resizer/v2/SED63FKGRZAHXJUYNIX5EP3U4Y.jpg?auth=1336a5ce9a568bb6008d90008e5b8eaeeff06023c73e289f9736835601a460ae&smart=true&width=800&height=547",
+        "publishedAt": "2026-11-13T03:59:29.000Z"
+      },
+      {
         "title": "BCRP rompe pausa y sube su tasa de referencia, ¿a qué nivel?",
         "summary": "Durante el 2025, el instituto emisor efectuó tres recortes a la tasa clave, en enero, mayo y septiembre, de 25 puntos básicos en cada caso.",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/bcrp-rompe-pausa-y-sube-su-tasa-de-referencia-a-que-nivel-noticia/",
         "image": "https://gestion.pe/resizer/v2/JOCFU2XKQFFKTFKY5R4WQHLNIA.jpg?auth=dcf015cd52ea7fb884c9030b02471d7d1b9e75ecac1d8f64b6787b033e5edbad&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-12T23:21:49.000Z"
+        "publishedAt": "2026-11-13T03:55:26.000Z"
       },
       {
-        "title": "Petróleo volvió a subir: avanza el Brent 3.3% por dudas de acuerdo entre Estados Unidos e Irán",
-        "summary": "Sube el petróleo brent: El crudo europeo cerró en US$ 95.82 por barril luego de que Donald Trump descartara la necesidad de un pacto con Teherán.",
+        "title": "Nuevo parque logístico en Lurín: LPA invertirá con socios tras vender Parque Lima Sur",
+        "summary": "Logistic Properties of the Americas (LPA) elevó 45.1% sus ingresos en Perú en el tercer trimestre y cerró la venta de Parque Lima Sur a FIBRA Prime por US$ 145 millones. Parte de esos recursos irá a un nuevo parque logístico en Lurín, de US$ 85 millones, que desarrollará con inversionistas locales.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/petroleo-volvio-a-subir-avanza-el-brent-33-por-dudas-de-acuerdo-entre-estados-unidos-e-iran-noticia/",
-        "image": "https://gestion.pe/resizer/v2/C3U4XRU5UBG4PBPFKMTRPWMFPA.jpg?auth=de0b0ae83cbbb0c5632da0e30f3b149676f4a0e99f320f3c9a27fa776dcbe5cc&smart=true&width=1200&height=794",
-        "publishedAt": "2026-11-12T23:01:05.000Z"
+        "url": "https://gestion.pe/economia/empresas/logistic-properties-tras-vender-parque-lima-sur-alista-parque-logistico-en-lurin-por-us-85-millones-noticia/",
+        "image": "https://gestion.pe/resizer/v2/3L6MZDMQ3VFU5IKGFZROZASDLQ.jpg?auth=c50a025c2dbaf2a5791cfa1fffd5ef6fd41a55b9e6b184b5bf631202ce6af122&smart=true&width=1920&height=1162",
+        "publishedAt": "2026-11-13T03:45:00.000Z"
       },
       {
-        "title": "Demanda eléctrica crece más de 5%, pero la de minería cae, ¿qué “jala” ahora el aumento?",
-        "summary": "Riesgo para el suministro de energía se mantiene en el norte, pero experto advierte de posible traba para resolver problemas de emergencia en la generación",
+        "title": "Industria del calzado con pasos en falso: producción cae, solo camina el segmento boutique",
+        "summary": "El sector calzado peruano atraviesa un desafío que va más allá de fabricar y vender zapatos. Según el Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual (Indecopi) Indecopi, seis de cada 10 pares en el país ya son de origen chino, con importaciones que aumentaron 123% entre 2",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/demanda-electrica-crece-mas-de-5-a-octubre-pero-la-de-mineria-cae-que-jala-ahora-el-aumento-noticia/",
-        "image": "https://gestion.pe/resizer/v2/5DD3EHYU5FCRVPYEGJ55SHJY3Q.jpg?auth=2f4336dab02a74ecffb911708fb5b6431a9a7533b4a9efce435a6c36ddb81219&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-12T22:49:09.000Z"
+        "url": "https://gestion.pe/economia/empresas/produccion-de-calzado-cae-en-peru-talleres-cierran-o-se-reconvierten-a-otros-rubros-y-surge-mercado-boutique-enfocado-en-nichos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/N2PC4PFA2NFUFFAUMXCJKRRRWI.jpg?auth=2cc326ad9d2074655f5f076f1a45281468dce6a590e7ea59b899f591453c6dc3&smart=true&width=619&height=347",
+        "publishedAt": "2026-11-13T03:45:00.000Z"
       },
       {
-        "title": "IA y planificación estratégica: ¿cuáles son las prioridades de las empresas peruanas?",
-        "summary": "Las empresas peruanas están redefiniendo sus prioridades hacia el 2030. En un entorno marcado por la incertidumbre política, la criminalidad y los riesgos climáticos, las compañías buscan actualizar sus estrategias, desarrollar nuevos negocios e incorporar tecnología para mejorar su competitividad. Sin embargo, el nive",
+        "title": "¿Puede una marca usar los colores de la competencia en su publicidad? Esto dice Indecopi",
+        "summary": "¿Qué límites tiene la publicidad comparativa en Perú? Especialistas analizan una reciente resolución del Indecopi y los riesgos del humor y las referencias a competidores.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/empresas-peruanas-al-2030-planificacion-estrategica-e-ia-ganan-prioridad-pero-falta-preparacion-en-ciberseguridad-noticia/",
-        "image": "https://gestion.pe/resizer/v2/6ECIJMA32JDHZOQE2OIC3W7FFY.png?auth=2d1c6e893c1ae46cfadcea582c683d8a980990d9d546a51dd3dac5bbcab8fe39&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-12T21:54:00.000Z"
-      },
-      {
-        "title": "El Niño: pese al golpe climático, empresarios son optimistas sobre 4 indicadores",
-        "summary": "El Índice de Confianza de Vistage alcanzó 139 puntos en el tercer trimestre. Aunque este no es su mejor resultado en el año (segundo trimestre alcanzó 140 puntos), es el tercero más destacable desde la pandemia.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/el-nino-pese-al-golpe-climatico-empresarios-se-mantienen-optimistas-sobre-estos-cuatro-indicadores-noticia/",
-        "image": "https://gestion.pe/resizer/v2/6W3XSGJGK5CUNBAKJDACOCK4IY.jpg?auth=96a7d45a866f42d2f0176498f3c7b86ab1f0dcea4484b96a07919ed9b287bff8&smart=true&width=1200&height=718",
-        "publishedAt": "2026-11-12T21:34:00.000Z"
-      },
-      {
-        "title": "Confiep: preocupa respuesta frente a El Niño porque nuevos alcaldes llegarán tarde a enfrentarlo",
-        "summary": "Con el fenómeno El Niño (FEN) ya atacando diversas zonas del país, Jorge Zapata, presidente de la Confiep, solicitó al Ejecutivo centralizar aún más la respuesta del Estado. El sector privado desconfía de que los nuevos alcaldes puedan ponerse al día rápidamente para atender la emergencia.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/confiep-sobre-el-nino-preocupa-respuesta-frente-al-fenomeno-porque-nuevos-alcaldes-llegaran-tarde-a-enfrentarlo-noticia/",
-        "image": "https://gestion.pe/resizer/v2/TJ7HTWMYIBGXPHQNLP7Y74K4NU.png?auth=e8ef291bcce31835ae8adb7af48bb9bdb318691b6d6c9b93695d997322cdc7ed&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-12T21:16:40.000Z"
-      },
-      {
-        "title": "¿Agro de Perú se “escuda” de El Niño con esta medida? Sector aún es optimista al invertir",
-        "summary": "Los agricultores peruanos mantienen expectativas favorables de gasto para 2026. McKinsey analiza las perspectivas de inversión del sector, sobre todo en los cultivos de especialidad.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/agro-de-peru-se-escuda-de-el-nino-con-esta-medida-sector-aun-es-optimista-al-invertir-noticia/",
-        "image": "https://gestion.pe/resizer/v2/7UPOT6UCVJBNLCNM5VO4O7YPSA.png?auth=cb6ccec4bd5749751a25611ecae3b904930ecff5ce8892ca03d004bc5f865c76&smart=true&width=1514&height=1039",
-        "publishedAt": "2026-11-12T20:22:59.000Z"
-      },
-      {
-        "title": "Industria de acero latinoamericana alista inversiones para hacerle competencia a China",
-        "summary": "La industria siderúrgica latinoamericana desempeña un papel estratégico en el desarrollo económico y productivo de la región, al ser uno de los principales motores de sectores como la construcción, la infraestructura, la automotriz y la manufactura.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/china-vs-la-industria-del-acero-latinoamericana-se-alistan-inversiones-para-competir-con-pais-asiatico-noticia/",
-        "image": "https://gestion.pe/resizer/v2/623XDYU4QJGZFFSSLDENXQDILQ.jpg?auth=f0cf7d50fdee7c3763128443806cceab84e8dc6129158c0ae544981e866936b7&smart=true&width=3000&height=2000",
-        "publishedAt": "2026-11-12T19:30:00.000Z"
+        "url": "https://gestion.pe/economia/indecopi-puede-una-marca-usar-los-colores-de-la-competencia-en-su-publicidad-esto-dice-la-entidad-noticia/",
+        "image": "https://gestion.pe/resizer/v2/VHJL4ODW65ATRMPJB2MONXBF7I.png?auth=82c8ebde5b7251c26a0e1349367e01b56cae99c60edb6a10357e13786a0ef2ac&smart=true&width=1672&height=941",
+        "publishedAt": "2026-11-13T03:30:00.000Z"
       }
     ],
     "sociedad": [
+      {
+        "title": "¿Tu empresa utiliza IA? Cinco claves para adaptarse a la nueva regulación en Perú - Magacín 247",
+        "summary": "¿Tu empresa utiliza IA? Cinco claves para adaptarse a la nueva regulación en Perú &nbsp;&nbsp; Magacín 247",
+        "source": "Magacín 247",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWpfV2xNOTNZTGVpZk91cTVwRUhZLVJabmJ5dHp0dUpoTVZrcDZzeE5mdndJMi1sNGJnQlRPSFFlYUVETTI1d19iQWxHVkl6V21wZW85WEdGaThQSDBkSFJQd2VlV05JaFY3VWpGaV9aeUtYeEVuN01mbXZSXzU5dXpwazJzS3htenBLY2dELTVTSGZ6QWgxYWFpUGFIUjZZVFFqXzZOcTloU2s?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-13T01:00:32.000Z"
+      },
       {
         "title": "Tortoriello puso a la salud pública como prioridad y advirtió sobre la falta de presupuesto en Río Negro - Neuquen Post",
         "summary": "Tortoriello puso a la salud pública como prioridad y advirtió sobre la falta de presupuesto en Río Negro &nbsp;&nbsp; Neuquen Post",
@@ -162,14 +170,6 @@
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY3kxSWYxYWo0OXNrWlM4NFJXcUNHNTlXRHpta1NDdTdCdnlUZ3ZhUi1tcUVzS3RTdVhldkFzZGdJVlVKSkdvWUFfalhrUzZaOWl5NWJOSE96RGs1b295c3dFSlVIVlh3ZXVxMkJJYi1FeG45VkFfQVRBWHdYSFBoa216Rkp4YTl1RVIwaVAxWlBYQXdNR0HSAZsBQVVfeXFMTjdBd3pWQlMwalYzOFliOE1xU1BoQ2FETmRLNUMtRTlVQzJSZllwa0J3c1VWUUVRRHhpcXowTUduUVVlc2VyZHltQWZISHNyZk5fT1pPTDMzSXhQaHlMR19lVDkxOVB0SDVPbE50ak1qWWFUb0JzTXBzNDdfSGhMQnFIM0ZWOWVHQktsT1ByMDNnWDdWZm5nQ3dzdFk?oc=5",
         "image": "",
         "publishedAt": "2026-11-12T02:34:36.000Z"
-      },
-      {
-        "title": "🔴 “Nos vamos a ajustar”: prevé Gobierno de Aguascalientes incremento al ISN - Facebook",
-        "summary": "🔴 “Nos vamos a ajustar”: prevé Gobierno de Aguascalientes incremento al ISN &nbsp;&nbsp; Facebook",
-        "source": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZV9tbUw5UURva2pCblNEM3EwT3Vvc1hfWWFWZ2t0LVZuS0VtTXRWN0VMQnZ1MlJrZjQ5eVdPeHYxc3M0UHA4WXZUU0tSd09QRGhRQVRwaXM3SlVxckhqV0hSYnFpLURfdUlzS3JuQmFEaDB2SUJoWFpuRHFoQ3g0TzNLN0dMQjJYNmlkclhmYWZKLVNHTjhOclFfalo1eENCQ2lmOEg0UU1lTGUtcUtkUnBPbVNJeDc2OVZaOWd6V2oxdFF3UDY1alREa1phWmdFajFYdm1n?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-11T21:53:39.000Z"
       },
       {
         "title": "Nobel de la Paz llegó al Perú para celebrar el 35.º aniversario de la UCV - Universidad César Vallejo",
@@ -196,20 +196,20 @@
         "publishedAt": "2026-08-31T07:00:00.000Z"
       },
       {
-        "title": "Naciones Unidas contribuyó a fortalecer servicios de salud, educación y oportunidades para millones de personas en el Perú durante 2025 - Naciones Unidas en Perú",
-        "summary": "Naciones Unidas contribuyó a fortalecer servicios de salud, educación y oportunidades para millones de personas en el Perú durante 2025 &nbsp;&nbsp; Naciones Unidas en Perú",
-        "source": "Naciones Unidas en Perú",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYzNoV0N1ZWRwaXppZmNuai1FNW5UdXBQbllqYThGa0h2V3poZ2sySjVhRlNyZHhDYkFmMUI4YzVaazlJSDV4aGJ2emprMkY3MTU5Qi1KSnU5eHdvb2xQbkZWak5mNkViUDZjQVJPbktwLUM3NzNrbVMyajVhSVlHaVUwSExZQ0pmOEw3WmVwNVFRaDlPbEpFOFd1M09hQ0dJRC13WlItV2hnTGVza0NlWk1EM0ZQZndRSmtBMzZSVzhjUEVmOVE?oc=5",
+        "title": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución - EL PAÍS",
+        "summary": "Las propuestas de Roberto Sánchez para gobernar Perú: industrialización, Estado plurinacional y una nueva Constitución &nbsp;&nbsp; EL PAÍS",
+        "source": "EL PAÍS",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeW5LcjdJa3V6MXlwdU1CVG4wR19lcXM5Ynoydmd3QVYxMWJ5amNPQVdYRnV3d05VZXFfMUc1M05RUTNBRWloaWFCX3U1LTloTHRLQ2NuaXVSWFllTHZ1aWFjVXNXR3M0LTRpVHBaUU9XSjZ4TXVTZ1hKMGhPVHFrem1MZU54RG52SWp5OXVTQlpHMlhYemVacWI5ZUVwTUJVT3d2MkJRdEpIekRCQmtIZDQxaFN0d0dZRE5zZ1NwS1JMd0NWaWlxeGttVFdaMlN2VlEwWFc5S0pfdTVNQ2JMZW9vempBTTJ2TW9CSDBEQU8?oc=5",
         "image": "",
-        "publishedAt": "2026-06-02T07:00:00.000Z"
+        "publishedAt": "2026-06-07T07:00:00.000Z"
       },
       {
-        "title": "Plan de gobierno de Ahora Nación: Puntos clave y propuestas en salud, trabajo, economía y educación - Infobae",
-        "summary": "Plan de gobierno de Ahora Nación: Puntos clave y propuestas en salud, trabajo, economía y educación &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeV92RzBNaFF5amx4WnBWRXZoZm0tWGY5Y0REQlBPbUR4UkI2SnJ6VTlvZnc4cElfa1paVXlia2lodnNZY0x2SHdubjROelc2dnFDaUdmZ3p6TWowcUNnb0lZZk4yRzNScHFvTkNtc1E4STdicm9veVpuT05mT0NHYTBBeHV5RHZ3bUlwS0s5RFpnS0N2U3JvVXVVMGRFWkd2cHF3Rk5WUDlwZWJ6M3ZCdmxhUjAxSkxROGNDd0t6S3BxTDlyZEpGMl9PZWJaZkZ4RXlN0gHuAUFVX3lxTE5saVoyRmhWOEFYb211WjcxRmJrTk91M29YYVYxa1ZtZjBYd3J3MHdPamMzWEJETGZxS3QwWWpwR19qalZ0MmppQzU1ZzRPTi1mTDRnUGVtZ1poUDFXUGFqbVA3N2c2aDgzM2U0cElnUm94akZIY0xnaXlPSml6UXZUd0NJTW8tQU53M0lDajFnWk1BRDFjZzVDZmo3UERtZkpSamhpcTBIeE9SeXFJN1JFa2tvYnFzRVFtYmFIblFFVHlJbTJYUktULWpISERrczNKZDBhZjdKT3R1b3NIRmRqSWtjalFWR19ENnVlMnc?oc=5",
+        "title": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad - EL PAÍS",
+        "summary": "Las propuestas de Keiko Fujimori para gobernar Perú: orden, inversión privada y un choque tecnológico contra la inseguridad &nbsp;&nbsp; EL PAÍS",
+        "source": "EL PAÍS",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdTZGRmVCRWs3MmpCV1RDRzhzeVJPanVZWlNrOG1BWGNOOWxCZFpPY3FJWWZNcFJudkk4YnROSHNxM2pOaHR2QVczaVhmLXN2NE5KLThVcE9KMDI0Vlg5SnFjQUtrcHB5dnNYa2RjdHlTb2g3OWs5RXZ1RmVBZ1FKREFka2MzVTVTTGJiOGxqQmNIODlucGpxLVpHNk1SVWdBeER4Nm85QUw2UjM4bG1aX0UzZEFBRkFNSVlRY0NFWmlzQ0IxNVZoQndieTRvaDRpWlRvc21JdmtaeEtTN3RYUWN0cVZSNVVudVVRejlta0Z3bGRHVkhv?oc=5",
         "image": "",
-        "publishedAt": "2026-04-06T07:00:00.000Z"
+        "publishedAt": "2026-06-07T07:00:00.000Z"
       }
     ],
     "negocios": [
@@ -280,12 +280,12 @@
     ],
     "ideas": [
       {
-        "title": "SOS POS de Circus Grey para BCP Perú gana el segundo Premio WOW! de FIAP - produ",
-        "summary": "SOS POS de Circus Grey para BCP Perú gana el segundo Premio WOW! de FIAP &nbsp;&nbsp; produ",
-        "source": "produ",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeFphNG1UbXJzR3MteER3ckhfMzVLTF9UN0RlNmFNbUdWMTZjdTJfaDFFNThvY1NDS3BRakRLMXlrV2FELVA1Q1RvRVh1aVBySUQ4d0JyZWZxaEZ5SEk5ZGlDUXNOaWdRSHZBZXo1OEdiY2NXaDhVdXgzaEwyNUoySHUyTkxkRTVOdWplUi1sbVUxcnA1RGljNE9XcVhoTU5ISTh1YjA1eWY4VTE4VHM4d1l3?oc=5",
+        "title": "VML NY + VML Spain logran el Gran Ojo Innovación para Aritium - LatinSpots.com",
+        "summary": "VML NY + VML Spain logran el Gran Ojo Innovación para Aritium &nbsp;&nbsp; LatinSpots.com",
+        "source": "LatinSpots.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYUktTENMRXEtVGdIT0dvY2hoTUZjazFmTjkzamJUZXNURGl0c2NsRWlDRHJxbGhkV09DaVRKc2hibl9pWFE1RklLdzgtZWwyekpIbnR0UmFvVUp6WUpadFYxdlpjbkt5c193ai1lSWNEbWhDbGRqSHRGVGdzbDNCQmRGc09Lb2x6UGhTOE53akNDdDdCTTUyTld4WlZUaXh5?oc=5",
         "image": "",
-        "publishedAt": "2026-11-05T09:38:54.000Z"
+        "publishedAt": "2026-11-13T00:44:43.000Z"
       },
       {
         "title": "I Convención Nacional de Innovación Pública y Transformación Digital - Plataforma del Estado Peruano",
@@ -346,6 +346,14 @@
     ],
     "ia": [
       {
+        "title": "La inteligencia artificial abre nuevas oportunidades para la economía peruana, pero exige fortalecer la seguridad digital - Revista Economía",
+        "summary": "La inteligencia artificial abre nuevas oportunidades para la economía peruana, pero exige fortalecer la seguridad digital &nbsp;&nbsp; Revista Economía",
+        "source": "Revista Economía",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcnlBZFkyZlMyQ01OdHlIUDVzY0phX0laaVlMSkktMTFDVllOb09Ub2IzYUp4TDE4RFF1SmktSGhUT3NxWVVyNEd3S3plWm5oSXZXX01lWkY5MVcwdk9ueXgtU1hkZUJhcFRkUTdnclR3a1JMR216S2wwS215ajFoeV9YQmVuYjVmUDMwazFRbUlqcERoMHR2ZzBLSlB0eG1VeTJmT0ZVek1DQWxLZ2RXRHVEMXpxcGI3RkpxV2hoU3pxMEV3WjY4cUdKanpZSEZ5b2lWbXcwRnJjd3RhOFhtaUE2TTVYRVIz?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-12T17:30:17.000Z"
+      },
+      {
         "title": "Omnicom lanza Creo en Perú: influencer marketing con IA - El Ecosistema Startup",
         "summary": "Omnicom lanza Creo en Perú: influencer marketing con IA &nbsp;&nbsp; El Ecosistema Startup",
         "source": "El Ecosistema Startup",
@@ -376,14 +384,6 @@
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcE9rU2hKOW42eW4yUzFqODVoVndwRG4zTHBtZ3Rja1V4NUZ2WS1hRHNNYUR3V3ozY2cwS0xsdUoyOHRoQmV3SUZ6UERkaWRHYkt1ajF0SnhBQVg3bGtiTXFtcmpsV0V2WWZHUnZiT2RDeHg0aEhENi1keUJIcVV0eVZnU0VDTkcya0lMVGNKU0RRZ1p1RTJkN2tzalBwd2luaExhWHcwVXUzOEdJZ2dLcmw3NTRTMzF5OGFIa0YyZHhENWtxdkVFbk1Iak9JQzZTd0Rz?oc=5",
         "image": "",
         "publishedAt": "2026-11-10T17:29:54.000Z"
-      },
-      {
-        "title": "Papa León XIV alerta sobre los riesgos de la IA: “El algoritmo no puede sustituir el discernimiento humano” - Perú 21",
-        "summary": "Papa León XIV alerta sobre los riesgos de la IA: “El algoritmo no puede sustituir el discernimiento humano” &nbsp;&nbsp; Perú 21",
-        "source": "Perú 21",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXlYRUtfdmtnWjVRODBucHdFR21aLVZCSVhjWFRUZnp3MTB2OTJTRGlDckF6by0zWGpCanAyX3RxNzB0a3lVbGM2N3ZGSWI3LVowZGZaYjJiWGh4YWVQUVI3RUh0SGdmaUd5dDlOeUZfOW5ZenQ0STRRWTF0UjhkNFJVZnEtUk9iQXRIdDc2a3ZISWxF?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-10T00:47:18.000Z"
       },
       {
         "title": "La paradoja del empleo tecnológico en el Perú: Muchos puestos sin cubrir y profesionales sin las competencias requeridas para ocuparlos - Infobae",
@@ -468,15 +468,23 @@
         "publishedAt": "2026-08-14T07:00:00.000Z"
       },
       {
-        "title": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” - Infobae",
-        "summary": "Guardaespaldas del rey de España desata furor en redes y usuarios le dedican videos: “¿Quién es ese hombre?” &nbsp;&nbsp; Infobae",
+        "title": "Jamás mezcles alcohol con esto: Minsa alerta por peligroso reto viral que podría causar un paro cardiorrespiratorio - Infobae",
+        "summary": "Jamás mezcles alcohol con esto: Minsa alerta por peligroso reto viral que podría causar un paro cardiorrespiratorio &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY1JKYUdUNlpDMThFMDBMcUtpSm9WX3hDME5FdlhTVkIySnFidkNRV3RNa2Z0LVB0ZzhIUlNPdnFSM3dGQl9SRXl2XzdRVVZNS3JoYkVoZzE5WDhnWDVpdlRCNVVWbTNYTjZHVEF5cERtNEZnT0RyRmEzUUlwT0JVcEhnRXEzWExJN2lxdjEtcHZCUm1vcVpWQ1VUQ21POUhFb2Fnb1FiaHFmZHg5YnctUWJfQk53Y0M1U0ZKSWhVVlRoYXFycEZDeFk1SdIB5gFBVV95cUxOX2lXTFZfYS02czhMamE1UE01SmozQVIzLXdxbTVwRFlJQlJhaGI2XzdnVlprZkVQb0J1MjllZ0pJbk9vS21OcWJTYUQ0OU1FLW1XNU04cXRRZUtvNFF6dGV5X0VyR2hFSEd1TU1yMl9EMkdVTFZxWlB2ZzZ1cHpMcHZLSVptbmpaTFpkQVkzOGV3MHdCN0FkUm1qWTJ5aWxVVkVNTmRFSkI0czZhZkM3SGtaYmtDSy0tVVJCNHE0QngySUFLN05tY2xESFVDRTh1M0dWeUgydHVyb1p1dkdhMUN3VkhUUQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcWNycG12MzRyUW9GS0RoMEc0bFZNTUc4YXpxZzhsZ1UwX0xZWlRiZVBycG1vaUZ3UWlBdjZZSlQtY3VNRUFSd0pkNThLNkowRmpHbHYwUkQ1OXJzcG9ZVWp6eFVxUXktOTZnYTBjVTdZRGJKcTJSMDI3UU9wMGRSVEdHcHhnZERmMU9qYXZfcDFzM3RDbTFnNC1sdG5oS3JacnVRM0EwZVJNTzQtSTRYaTlFMU9uakVoWXpWaXJhNHpNMDBXU2dSd3c3YmlVdnNWUzJLaEdBTE9ZSW43YWpYY1FqbXBCd0RybWpn0gGGAkFVX3lxTFAzSlM0MnRGSUk0ZXZlanZtX2ZTb0tEdnF4Mi1fUWtVNnhPeC10WkdhYVVwQ09hWTdvaWthazRmdVc5eGxpeUltdHpnVlY1VHZlUzJXSGUwT3FXdWpBZG1xNHBVX1Y5cUs5Nk9zWmYzNWxUQ0xsX3JOdG5hVHRfUTZPWHQ2X2FpcFZpSTAzMjBYSUV3UHRGSXZHajRaLXVSVlRobHVqNGFSS0VsVkNXRzBJaTRXcHRhaUhSaF84SFRhSldsNlBXU3NKaTl4Q3lQSFA2MXRIc0V2ZWFvVEZfWDhwdDNEOGtfZTh5REtibE12RDJkRHNJOTJlXzRzd1FZTkpjOTE1LXc?oc=5",
         "image": "",
-        "publishedAt": "2026-07-30T07:00:00.000Z"
+        "publishedAt": "2026-07-06T07:00:00.000Z"
       }
     ],
     "farandula": [
+      {
+        "title": "Conciertos en Perú 2026: fechas, artistas, lugares y precios de entradas - La República",
+        "summary": "Conciertos en Perú 2026: fechas, artistas, lugares y precios de entradas &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNkhLSXNGS3ZXcWUzcFh5eGpQM3h0ZUxDYXVtRXlXc0pVeVM3c19IU2E2cmdvZ2llZmVXQkxKME9HUkJyMmRsUEdlb3I5dmk0UGhuWWJPRVlSRGlIZGFGVFpSWWxRN2hJazdaaWxXbHpWQjVjNkh1eGFEYm1udEFEWkVTUFR3ZXgxWEVIdUd1QlVPSTZUa3VjREhQUDJ4OE1wS2V3RGxsbHVQWTdRX1gtNV9ibzB5Yk15RkZPZlF0cUlpMF9jcTFKRTdidEtjNXdkOTFvM3p0Z2NyUFI5UEQzcGtPWEJHak13UTRLRWFwVE1NMWdxVEUwWDZ1WnJVY2k2WllXT2U2RlhQbXlYLWYyQlZIQVpPbC05b2wwWUUzb01CYTDSAagCQVVfeXFMTlUyQXAxei13aVQwbmNabDBUdU9QSWM3Tm5CSmNvZVJTRDFzZUxpb3E2M1R5OUFyNXNudDhka2RHNVJ5bE1YS0dWNmFZWVgtSnlWUWR5enRUOTJxaHIzNkNMNkU3Z0llUy1Yb25YOGloZnJCOU5YbmlvMFlwSDA1UUVpLTNUR1NHS3psZzNYenM0NFNrVkotVWtlNWVXekV6Ty02Qngxcy1QX29hMTFPMTBqMkY0VEsyVU9pVl8tMlNNVVByOTR3V2N0YXB3eXdKbjc3cHFHX1hsdWhEYVQ4S0oxdVUtdDk0dlE4SVI3NW5PUzcyUzVSUWhrOVl1a19yWGdlUE9iS3RibHk2REpKNHp6TEdXZUN6aU1pcml3V2dnd2VyTVNPaXg?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-05T17:22:35.000Z"
+      },
       {
         "title": "Esta es la historia de HYBE, la empresa detrás del fenómeno BTS: De una pequeña agencia en crisis a un imperio global del entretenimiento - El Comercio Perú",
         "summary": "Esta es la historia de HYBE, la empresa detrás del fenómeno BTS: De una pequeña agencia en crisis a un imperio global del entretenimiento &nbsp;&nbsp; El Comercio Perú",
@@ -492,6 +500,14 @@
         "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQMF82SUZERGo1VHRXSlZGU2hLX280cDVzQXRwWFh0UGNKVVcxNmRSZXYzYW5ET01LNUlvSHV2WXZOOFQ5R3dZX1M3TnBnc0hUejJwbDFMcGoyZDI1dTQ2OHpYUXRqazNrb0VWRDZ6YVJ3SW81OHN4VXZqa2tMeDgzMVM3X0g3UjdCdnhTSnFIX2JTektDU3pQTUpJcVd2NkpCSkdKUzEyNUdCRlpmdGZXTWtJTEJoeHNVSE1HSTk0cFpBalVJQl9QaU1EMUJUNk1DQ3FOQ2NyemUzWUlVYWVoRi1aX0wxYmVIanFwVzFjYUdTeEtzT05Zd29VaUxWNHZmVndTWWg1WklMMGM4VEwyctIBlgJBVV95cUxNMU1JZlVjbEZQcWpIeWpWcGthUWg2SWZvamJ4ZE4yeG14RGYxbVhvdFBGeXNmT0V4VzE3bDhBYlhTMHliUmhoY2swZ0M5Z0poZndRZGU2dUZCS2VVYTRfR1RvLTFGTng4SXphN3JtUWEzUFhGaFllZmtpOXhKTFRKemk4aTltc2Q0aVhHbkw3ZkZwcXppZVNfQkhiS3VZTnpWN3RhX2c0QWxvQ1M4VlpkX0pqLTdfU1pKdlBJWGg1QlRRTjJXSFhCMkNucHJFanYxQzRCbF9QaGdLV2NtMVdkSUpNd0RycHhKbld2NEFjVWFfMy1yYjhxdnJoMzBzT1VmTF9LN1JwZk1Ja3F1SUFCTHU2bWtkUQ?oc=5",
         "image": "",
         "publishedAt": "2026-10-08T07:00:00.000Z"
+      },
+      {
+        "title": "Carlos Orozco lanza dura crítica contra los papás de las ARMY en medio del primer concierto de BTS y redes explotan: “F por sus cuentas” - Trome.com",
+        "summary": "Carlos Orozco lanza dura crítica contra los papás de las ARMY en medio del primer concierto de BTS y redes explotan: “F por sus cuentas” &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcTdFUGJ5a284a2hXdEJwYlFhZkpYOFcyR3VKS2ZsNnM3R2x2QXlmZEcta0J5alhrdFpRY3JLYk5pSjh2ZzJjQW5FRlFWalZ2SF8yM0tYVWVDN01xaUoyQk9iVlhZdmRyY3RELXhWOVk4Q3NSOTZvM3NxbFBldnk1Mnh1T2hpQkFDb3ZOU0ttbWtTRFZZaWtxWEx6aGFobzRjajVESm9kaWhRNjFZMlloSzI5LUN1MXRrV0dfanJ5aUhTYWVvMm14ZVQzSlVKNVdXYWNndks3eEJGeEtPRVR4YmtHR0RkdXBYNUE0ZHZoWEl3UDRfYmFKNjJZX3I3X3ZiQzRtdDdPanh3enPSAZ8CQVVfeXFMTXNYSlpzVzh0bHFscE9XdlZzcERQaDZKUTN6THUtR1pqdTdrS3pNOEV0cU1CYm5XVXRmMnhYTVEwNjBUZFBCTGVtX0pHNGdJd2NwemtTTmJrbmEzclBHaUlqcW1pNDJSX1B6a2d6V1ZiV3d1ejR3aWFZdm85WWhkekpNY05keUUyNVhnUnAySk4yX0Z0MXg5TmNvME9ubFUya1E5SzNtLVM4R180WExoNDk1b2ctd1JCRmhldU5TcHFIeldNM3cyU1VPeVpDVzZzN0tKZkJmdC1mR3pZV2lpUTJqV0lEXzNqN2ZhdGNCLThEWklPOFlSbTVnM3JBSnJKNlpGdXFFcUdFUmtqX2stSlVWdWQ1NFVwWHRqSlVpY3c?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-07T07:00:00.000Z"
       },
       {
         "title": "RM revela su emoción por estar en Perú y hace fuerte pedido a ARMY horas antes del primer concierto de BTS - Trome.com",
@@ -510,20 +526,12 @@
         "publishedAt": "2026-10-06T07:00:00.000Z"
       },
       {
-        "title": "Conciertos en Lima para septiembre 2026: todos los eventos con fechas y precios de entradas - La República",
-        "summary": "Conciertos en Lima para septiembre 2026: todos los eventos con fechas y precios de entradas &nbsp;&nbsp; La República",
+        "title": "¡Atención Armys! Ticketmaster anunció venta de nuevas entradas para los tres conciertos de BTS en el Estadio San Marcos - La República",
+        "summary": "¡Atención Armys! Ticketmaster anunció venta de nuevas entradas para los tres conciertos de BTS en el Estadio San Marcos &nbsp;&nbsp; La República",
         "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQN2t3dE0wQVRpT09kN3dmQktaTDViMEhxXzI5eDQyVWxTZ3FDNmlVMF9rVHhUejRQRkt1SHA1bmZYdWxzSnFuNzhEZUhQWGVFdE1QbjlGV3N0RG1LWTZrRm02Y0w3dTlCc0JPWjRTdHBBaFpEYndHYUNGdjc4aERId000UzdkdTBmWUF1cC1DWG1vdTVxSDdPaDJ5MzVhaDU0WUViellhX2NEUlJQdFR2RzJqNXM3V3psWUQwVk9HRmczejFzUFBxTkxaS0Y1Z0drVnEyRWFHSEtoUVlOTEdKUUExRDlkejI2ck1mLXVDcFRsLTlIWWdOVTg4SThqTndpSzVjTmNkZFE2QXR6cW9LVm1BUdIBmAJBVV95cUxNZVBScnpMYUdFeGdXck5BcWNUTGRfcG9rMEx2UHY2VDZXaFhLeFc4RzhmNzRWN1BFck4zM0RkMGxNSHlBTVFnN0RVMUdWZTM0Y29nbE1fSjBabk1DNFMwbFJRMFJBUzhEYWxkV2V4bm94VUxwY3JmVXlSRXo2NkQ2OGpBUzhCclU5ZnpWYU0tMDlNWFMySWx6dmQxSDVmTGVKTmdVMWVEOGw5TEh4OW9PLTFyWWtNYzEydHFrRVAtOWREdlFCOVh6YlB5TFNfRlRPcGpCQXVMYmpsbTRnSW5xMnA5MUN3LS13bHczalozcVdUV2tiVDZieHI4ZVoybllCZEtCek5QTXJKTmNxV3lBaHZHYXFBYjBT?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZzdTLU5fYmNmQ0VxVlc2T04tQktMcTBRYW1tVUVkb0Jpdlc5UWJZeC1vYWk3RHV0MWtTeEhSZDRkbFdhaVd1UWRFWGQzUjFHeFp1dU1vVDFaU0kyckd1RGN1VFB5a0ZkZ3h2SkR5RnNmWjJOejR5cy1FUGctNWg2UmJEenppOTQwcS1YVkNhUjZHcHRiX2FQSUhxOHo0cWI2OUp4Zk82cldHTk9zdzFEUl9iZW9jM2YtUHhzNXlRMUV4U2ZIRUllMmlaQUQxLVdJeUpibjZZVEd4MWF2RWxDLXd0UzlJTnBleGoyQXdXZXRRYVZ0VWfSAfsBQVVfeXFMT0VJZHMydEp3Q2d5LWlCeGI5Mi1yanVDY3B2LWdsYjduYUdQbWphNkVzMTM2di03aFNkWGpsODZGYlJXN2t1czd6d3dsSDBSZFBRdWxQZDhNWDFIWndXY1ZoTllPRG5aMGdZS1VmVGVTbklZaUhubE9kRVRUOGVQWjNWV1ZISVdoMXdQZjZXblhCbUJFLV9aZEhCLU1wc210VFFlemtmc3lSdkxVdFU4UUg5QjM2b2dZSE9SaEM0cndTUGE0NGFNbXJoa0VwclQtY0oxbG85alpNcnFNQk9EbVJHMWdjQkNPVFI4RVRoVk4tbTNWMnZpbEJhbWs?oc=5",
         "image": "",
-        "publishedAt": "2026-09-17T07:00:00.000Z"
-      },
-      {
-        "title": "Robbie Williams se declara fascinado por Perú antes de sus conciertos en Lima: “¡Uno de los lugares más místicos del planeta!” - Infobae",
-        "summary": "Robbie Williams se declara fascinado por Perú antes de sus conciertos en Lima: “¡Uno de los lugares más místicos del planeta!” &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZU5ubU5PX3Z6eGJLa1NzZUY2TkdKSDBuMmM2OFh2cnVMd0pPb1hxWk5ucWIwd0JGVWJsR3h4X2tCWVlsazJiYmtkV29TT0VEN2d1blhQQWlQdmtLbEE0QTZseWg3eXNyY2wzd3l3RTJaU2FwRnpZY0dDSXJjS3Z4MEhsMWtyazdwZExPZ2NZYXBaSFgxTHZGVjc1dlVBOGZwYU5NZzhHUW5wQmVWUkFrSWhhWmdrb1FmcGpMMHlhQkNfdXpWY3BWVW1xcUtRYUFtazA4SENJUVJlbDBEQkRnNy0wamEyeFBiZjBpMEYwTVBBU2hh0gGPAkFVX3lxTE9SZVl5bTBIdUc0ZklmZlZjWnh1RjFGNS1NZHN6X0d1akh0UWRNUnBsSkcyTURpVjFKVlJjT082MVJhVDNqdmMwQkV3UDlXa09waGV0MWdfN2lHRE5YUUl6N3Y5elhvZnZIcU8tczZWMTAtTEF6cl91Y3RHU19UOV9JTF8yZ29xdUtWVlZhTXFhUU5Kb1lmU3VVdU5KQzB6ZFd1UTFoM21zM2R3dlN1eGZLakxraG04Q0hCVXo2dFduTExuNWFxTExaSzE5bTl5NTlfQTRsNmRiZ0Y0bThpTG1TRTJuYWVLRHNUb3UyTkoxZk9wWkdRZzFfVURuSXdnQ2lPWFhQMm8teGprUXdrd1E?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-10T07:00:00.000Z"
+        "publishedAt": "2026-10-06T07:00:00.000Z"
       },
       {
         "title": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” - Trome.com",
@@ -532,14 +540,6 @@
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0ZKVXhOaUNRMF9DMldlUXBKT1hQdXFHRlc0cnpUUWRLdmJFZFFOV3h3eTA5QnlraDZNSGN6bWFjNHJiOVVuSDcxSHlKTWdYY2hSY0VvWDhWb0lJVDhZeWJQb3Q3eWhTdG1qTEJJWVJTdmdCUUU4Q2hpODRQYjQ1NUw5OEJ2aUxNeFRxVHpVZVdMZThWanlrTUE5X2RpSVNMenBEaUdXSzkyczJ0UXVVdGdoc0hXejDSAcsBQVVfeXFMT1NEd25TWlFTdmhlR040dk1hWTkzNzR1eWJGUE12ZU9QQUw4UGU5Y0R1MjVWNE1uRGh3TUJIWTBiaFVOYi1pVlNwZEV2NVRkUzROTDlqLUtIM2liMzcyM1lWdWZBX1RTZUhSLW1xTGprT1pNTHZtRWRLR0s2LXA5dXBwUzBYS0JCTWNNam5IeG1ZTDFKYUhua2xMaWNCajBra0dOWlpTR2h6Yk1rYVp2djU3aGlhN0JodVB4MlhnY0lPdGRmX090c0RZTmM?oc=5",
         "image": "",
         "publishedAt": "2026-08-26T07:00:00.000Z"
-      },
-      {
-        "title": "¿Qué circos hay en Lima 2026? Revisa precios, ubicaciones y entradas - La República",
-        "summary": "¿Qué circos hay en Lima 2026? Revisa precios, ubicaciones y entradas &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPdVZIRVExM1d5U0dHR3ZGazRKMGpjLU41UEhHaVAycWJHeUwtZnU1VmNHYTNEclBvRGJKczN0cGNMMWVRNmRfeDNUV2tnRUtDZGRlZEZVM0dSRU5xV1prTG9JaktJQzQyR2piYmE3LUlTOUpJbVRwSkFFc205a2d1aUtzdGNERUtYeE9SZ2plLTMxbXcwWi1IaGNaNEdyZHZuZUFuZXcweTZFV3FMQWlHcnhPM29lcU1DYkNhV1g1YXBMX3lzdWZNdFJER0RjLTQ0eF9aeU1zNVRpaXZySl9URXV6V1d0QmFLbm0yc1NLNmdrOFoydjdiNUFkRkR0MFJrTWJSY2djbE5uS0VMYlNjcFNBWmRmR2xhUjFzWWQ2cnpXN2R3YlV5cDRR0gGvAkFVX3lxTE9OUGkwUUNseFVrRnZZRU5CVlZLbjY5dmhaV21xamZiUlllLXR1V21NWm1oYjFlbU1WQW9Lb3ZBTWlzelFLemh0ZzN6UjNINERTa002T05PeEpWSTVUdENaanhBT1JVVFFyTWlHMlUwT2pxeGVsUWRCT0ZZdmlQS3ljVW16WFJvLWY0TUZWTDJhWER3VllsbldoeFo3U1NNdFk0ck1IZHEwYWZaQmtFQ2gxdmNCNTZoNVJZVUdVcHRmNTY3YndrYkpHTkFTLUs2QjJHcm9Fd0FGYm91MElUMEptWnFRVnhCcUdSSG16ZWgwSDJBR3dpVHJCYmNUeHdlUXRwc0U0bmt2Q0hmQnFqWlpYa0Uwb05VMEF0bzNkYVA0N0pXMEtlQV9Wd2tMWkpFSQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-18T07:00:00.000Z"
       }
     ],
     "cultura": [
