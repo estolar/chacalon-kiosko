@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T10:17:04.780Z",
+  "generatedAt": "2026-11-14T16:37:18.103Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,20 +24,36 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "A una acta del 100% del conteo en Lima: especialistas critican demora del JNE en proclamar resultados",
+        "title": "Encargan despacho presidencial a Luis Galarreta por viaje de Keiko Fujimori a China y Japón",
+        "summary": "El Poder Ejecutivo encarga el despacho de la Presidencia de la República al primer vicepresidente, Luis Galarreta, desde el 15 de noviembre. Esta medida responde a la salida del país de la presidenta Keiko Fujimori para participar en reuniones en China y Japón.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/actualidad/encargan-despacho-presidencial-a-luis-galarreta-por-viaje-de-keiko-fujimori-a-china-y-japon-ultimas-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/G2RK7P7I6VAOHAI4WB44DKPLN4.jpg?auth=85b83fff6cf03d9faa99429e78a8968ab0f1acb0b85259b83a0a2a9249466fc9&smart=true&width=1200&height=647",
+        "publishedAt": "2026-11-14T15:25:11.000Z"
+      },
+      {
+        "title": "Top ten del Congreso: Lo bueno, lo malo y lo feo de la era bicameral en sus primeros 100 días",
+        "summary": "En sus primeros 100 días, la nueva era bicameral estuvo marcada por entrampamientos, disidencias y casos de ética parlamentaria.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/top-ten-del-congreso-lo-bueno-lo-malo-y-lo-feo-de-la-era-bicameral-en-sus-primeros-100-dias-senado-diputados-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/NLCW2TJUEFHSPJPKTPP4HOTKEA.jpg?auth=03ba8fc5f774951974890677db7c9e26861fe2dfb35b14893182a91fb28b2bff&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-11-14T14:56:38.000Z"
+      },
+      {
+        "title": "A una acta del 100% del conteo en Lima: especialistas cuestionan demora del JNE en proclamar resultados",
         "summary": "Con el 99,996% de las actas contabilizadas, la lista de Renovación Popular, que tiene a Rafael López Aliaga como candidato a primer regidor, encabeza los resultados.",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-alcaldia-de-lima-a-una-acta-del-100-del-conteo-en-lima-especialistas-critican-demora-del-jne-en-proclamar-resultados-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/6G5Z2JM2WFEAPLAY55J4CZI7LM.jpg?auth=d87f07713e4b4ee37fe2c28089c0dfe1a92136091cd3ff5f8a6697c6d9b62840&smart=true&width=2048&height=1215",
-        "publishedAt": "2026-11-14T05:01:00.000Z"
+        "publishedAt": "2026-11-14T14:55:53.000Z"
       },
       {
-        "title": "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
-        "summary": "Vladimiro Montesinos, exasesor presidencial del Gobierno de Alberto Fujimori (1990 al 2000), permanecerá cumpliendo condena hasta el 2037, por el “Caso Pativilca”.",
+        "title": "León, arrullos y rugidos, una crónica de Fernando Vivas sobre el Papa y el Perú",
+        "summary": "Quien fuera entre nosotros, primero padre, luego monseñor Robert Prevost; regresó como Su Santidad León XIV. Más que una visita apostólica, es un reencuentro con el terruño.",
         "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/reves-para-vladimiro-montesinos-permanecera-en-prision-hasta-el-2037-cuales-fueron-los-argumentos-del-poder-judicial-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/GHZQ5A2UANHXRLWNVC5THHRHWI.jpg?auth=6476dd5a2aa2c37ed2bb283f8732fa5d8f1fa22616c3be9e559ca6ce1efd33a2&smart=true&width=1200&height=647",
-        "publishedAt": "2026-11-14T05:01:00.000Z"
+        "url": "https://elcomercio.pe/politica/leon-xiv-arrullos-y-rugidos-una-cronica-de-fernando-vivas-sobre-el-papa-y-el-peru-apuesta-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/FK7B62O6TNEY3DZCXZ5XIGD5I4.jpg?auth=a557d74280a8e24e54a1ab943e06b0871626bde8250b5769def6638a79589923&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-11-14T14:48:00.000Z"
       },
       {
         "title": "Dos diputadas de Obras retiran su apoyo al proyecto de amnistía para golpista Pedro Castillo: ¿qué dice la bancada?",
@@ -45,7 +61,15 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/dos-diputadas-de-obras-retiran-su-apoyo-al-proyecto-de-amnistia-para-golpista-castillo-que-dice-la-bancada-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/4TUMQJBVJVDK7O6BNBPR37V5FQ.jpg?auth=93a57d4a340abfc7d51d0735f250d7ea02dfa2560410ecc9c1a2e382952d4350&smart=true&width=4434&height=3058",
-        "publishedAt": "2026-11-14T05:01:00.000Z"
+        "publishedAt": "2026-11-14T14:48:00.000Z"
+      },
+      {
+        "title": "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
+        "summary": "Vladimiro Montesinos, exasesor presidencial del Gobierno de Alberto Fujimori (1990 al 2000), permanecerá cumpliendo condena hasta el 2037, por el “Caso Pativilca”.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/reves-para-vladimiro-montesinos-permanecera-en-prision-hasta-el-2037-cuales-fueron-los-argumentos-del-poder-judicial-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/GHZQ5A2UANHXRLWNVC5THHRHWI.jpg?auth=6476dd5a2aa2c37ed2bb283f8732fa5d8f1fa22616c3be9e559ca6ce1efd33a2&smart=true&width=1200&height=647",
+        "publishedAt": "2026-11-14T14:47:00.000Z"
       },
       {
         "title": "¿De qué conversaron Keiko Fujimori y el papa León XIV en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
@@ -54,64 +78,16 @@
         "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-papa-leon-xiv-de-que-conversaron-en-palacio-de-gobierno-apuesplany-por-que-invitaron-a-boluarte-y-otros-expresidentes-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/IUA3BUE62JFZ3FD5HNDRZ6247U.jpg?auth=c86f5e918fd48727634f9689ea275b9b1710de69043a472bf5571cd748c4f53f&smart=true&width=799&height=533",
         "publishedAt": "2026-11-14T02:21:45.000Z"
-      },
-      {
-        "title": "Las aguas siguen movidas en Buen Gobierno: Abren proceso a Juver Flores y expulsan a Jorge Gavidia",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/buen-gobierno-abre-proceso-disciplinario-a-juver-flores-y-expulsa-a-jorge-gavidia-por-romper-acuerdo-del-partido-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/SUBFNG5QS5CZPPMOJIBFRTJ72I.jpg?auth=90eae763782a6c5f0a27343ab06de13b2ae70247067ce4b51cd5e87ca8a774e9&smart=true&width=1200&height=647",
-        "publishedAt": "2026-11-14T01:16:37.000Z"
-      },
-      {
-        "title": "Congreso reduce su presupuesto para 2027 en casi S/450 millones",
-        "summary": "La Comisión Directiva del Congreso aprobó por unanimidad reducir en casi S/450 millones el presupuesto legislativo para 2027. Los titulares de ambas cámaras propondrán destinar esos recursos a enfrentar el fenómeno El Niño y fortalecer la seguridad ciudadana.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/congreso-reduce-su-presupuesto-para-2027-en-casi-s450-millones-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/KOZVGBJSPJECVCNUUAF2IORTD4.jpg?auth=e7195096d67d439bccbbbe7b90b8463fed447f15b2e7b2818349aeee2b5c7609&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-14T00:47:01.000Z"
-      },
-      {
-        "title": "Rafael López Aliaga: Tres expertos responden qué futuro tendría recurso contra decisión del JNE que le impide retornar como alcalde",
-        "summary": "Renovación Popular presentó un recurso de reconsideración ante el JNE para revertir el criterio que impediría a Rafael López Aliaga asumir la Alcaldía de Lima como primer regidor. Tres especialistas advierten que el pedido no prosperaría por razones legales y procesales.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-el-futuro-del-recurso-contra-la-decision-del-jne-primeros-regidores-alcalde-de-lima-elecciones-2026-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/PJENJOXCJBBA3HZVOOPTPJKAFI.jpg?auth=ca60bee1d2da156981877bdb3ec4506ad5f909932e34428099580f3bdcb9fabf&smart=true&width=1200&height=647",
-        "publishedAt": "2026-11-14T00:03:07.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Líneas 3 y 4 del Metro de Lima: contratación clave por S/ 150 millones en pausa por El Niño",
-        "summary": "Para la Autoridad de Transporte Urbano para Lima y Callao (ATU) 2026 era el año para relanzar las Líneas 3 y 4 del Metro de Lima. Sin embargo, por ahora, les está costando hacerlo.",
+        "title": "Visita del papa León XIV: ¿cómo convertir la exposición internacional en turismo para el Perú?",
+        "summary": "La visita del papa León XIV al Perú no solo ha movilizado a miles de personas hacia las ciudades incluidas en su recorrido. También ha puesto bajo los reflectores a destinos que, pese a contar con atractivos turísticos, buscan consolidar una mayor presencia en los circuitos nacionales e internacionales. Chiclayo y Puca",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/lineas-3-y-4-del-metro-de-lima-contratacion-clave-por-s-150-millones-en-pausa-por-el-nino-dice-la-atu-noticia/",
-        "image": "https://gestion.pe/resizer/v2/LLOMZP4VPFBAXDPFYBFCCQZPEA.png?auth=bb37c3b625ae40037b084f23101d6af328366d6a0da322e6d368bb63096cfe57&smart=true&width=1672&height=941",
-        "publishedAt": "2026-11-14T00:40:00.000Z"
-      },
-      {
-        "title": "⁠Metropolitano “arrancaría” etapa operativa en 2027: ¿qué sucederá cuando se concrete?",
-        "summary": "David Hernández, presidente de la Autoridad de Transporte Urbano para Lima y Callao (ATU), comentó a Gestión que las negociaciones con los concesionarios del Metropolitano ya están prácticamente cerradas. ¿Qué más falta para que operen plenamente? Acá la respuesta.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/metropolitano-arrancaria-etapa-operativa-en-2027-que-sucedera-cuando-se-concrete-noticia/",
-        "image": "https://gestion.pe/resizer/v2/WVD7WKEJKJBNJIUJDTAC4E5Y24.png?auth=0ff1e8516bc6f9d8ca2cd4cd2b8a5d4e89c775984657bcf228dabcf8cc702fc4&smart=true&width=1672&height=941",
-        "publishedAt": "2026-11-14T00:34:00.000Z"
-      },
-      {
-        "title": "Nuevo parque logístico en Lurín: LPA invertirá con socios tras vender Parque Lima Sur",
-        "summary": "Logistic Properties of the Americas (LPA) elevó 45.1% sus ingresos en Perú en el tercer trimestre y cerró la venta de Parque Lima Sur a FIBRA Prime por US$ 145 millones. Parte de esos recursos irá a un nuevo parque logístico en Lurín, de US$ 85 millones, que desarrollará con inversionistas locales.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/logistic-properties-tras-vender-parque-lima-sur-alista-parque-logistico-en-lurin-por-us-85-millones-noticia/",
-        "image": "https://gestion.pe/resizer/v2/3L6MZDMQ3VFU5IKGFZROZASDLQ.jpg?auth=c50a025c2dbaf2a5791cfa1fffd5ef6fd41a55b9e6b184b5bf631202ce6af122&smart=true&width=1920&height=1162",
-        "publishedAt": "2026-11-14T00:11:19.000Z"
-      },
-      {
-        "title": "Grupo de entretenimiento y hoteles va por más casinos en 2027: compras en Lima y el norte",
-        "summary": "Gladcon Group, de los tres mayores operadores de casinos del país, invirtió más de S/ 7 millones en renovar su hotel-casino en Chiclayo. Para 2027 alista compras de casinos en el norte y Lima, y apunta a crecer a doble dígito pese a El Niño.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/gladcon-group-duena-de-win-win-hotel-casino-alista-compras-en-el-norte-y-lima-para-2027-noticia/",
-        "image": "https://gestion.pe/resizer/v2/I2PIYLBDBZHYLD7GFBOHKFLNCE.webp?auth=62fe8daf6d3d81f246e465800686ae681cb26ee42cd83d7d207611c811c1e44c&smart=true&width=767&height=575",
-        "publishedAt": "2026-11-14T00:11:01.000Z"
+        "url": "https://gestion.pe/economia/empresas/visita-del-papa-leon-xiv-como-convertir-la-exposicion-internacional-en-turismo-para-el-peru-de-ciudades-como-pucallpa-y-chiclayo-noticia/",
+        "image": "https://gestion.pe/resizer/v2/NGPXF5OM4BFZNLLZVAMZY5YABY.jpg?auth=ce6155c68fa115e87e18c9df16bdad6a2c1ca376955d95d648d68f94af13da66&smart=true&width=1920&height=1280",
+        "publishedAt": "2026-11-14T13:00:00.000Z"
       },
       {
         "title": "Universidad de SJL invertirá US$ 10 millones en su nuevo campus y sumará nuevas carreras",
@@ -119,7 +95,15 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/universidad-maria-auxiliadora-alista-nuevo-campus-de-us-10-millones-y-torre-para-carreras-de-salud-noticia/",
         "image": "https://gestion.pe/resizer/v2/K3TD4YWJQJA2LP6M6IU5AKZDOY.jpg?auth=805ffafe366f522cb18b178e58a6ced2c22d358af1b6e1e8e527efb9de54ab63&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-14T00:10:41.000Z"
+        "publishedAt": "2026-11-14T12:00:00.000Z"
+      },
+      {
+        "title": "PC Moda llevará la colección de Pierre Cardin a Ecuador, Colombia y Venezuela desde 2027",
+        "summary": "PC Moda llevará la colección de Pierre Cardin a Ecuador, Colombia y Venezuela desde 2027. Conoce sus planes de expansión, producción y remodelación de tiendas.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/pc-moda-prepara-expansion-de-pierre-cardin-a-tres-paises-y-prioriza-remodelacion-de-tiendas-en-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/5MZIPMR3JRECHPA6CVC7KKONHU.jpeg?auth=9f5efff87cfdda8b80631065ce4b759224020637d21ecb285767e606f8893478&smart=true&width=1600&height=903",
+        "publishedAt": "2026-11-14T11:30:00.000Z"
       },
       {
         "title": "Parque La Molina: así avanza el mall de Parque Arauco a casi dos años de su apertura",
@@ -127,26 +111,50 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/empresas/parque-la-molina-a-dos-anos-del-nuevo-larcomar-las-marcas-que-se-van-y-las-que-llegan-noticia/",
         "image": "https://gestion.pe/resizer/v2/2DLFZALMM5GZJLQPVIQBTI5PSM.jpg?auth=e98c0357d37be6bb52cc4fb2f07c48a4860b019332dfe5bfe39316dd788fd370&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-14T00:10:21.000Z"
+        "publishedAt": "2026-11-14T11:00:01.000Z"
       },
       {
-        "title": "“Preocupa que Perú se quede con un piso de gasto enorme que no se pueda revertir”, analiza el CF",
-        "summary": "Alonso Segura, presidente del Consejo Fiscal, insistió que el cambio a las reglas fiscales por El Niño es necesario, pero dio observaciones sobre los ajustes vinculados al gasto. Aquí los detalles.",
+        "title": "Visita del papa León XIV en Pucallpa movería S/ 15 millones pero ¿hay oferta hotelera?",
+        "summary": "El papa León XIV está en Perú y su visita a Pucallpa está programada para este domingo 15 de noviembre. Su arribo supondrá una prueba para la capacidad de atención de la ciudad y, al mismo tiempo, un impulso para sus negocios. La Cámara de Comercio y Turismo de Ucayali (CCITSU) estima que la visita generará entre S/ 12",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/alonso-segura-del-consejo-fiscal-preocupa-que-peru-se-quede-con-un-piso-de-gasto-enorme-que-no-se-pueda-revertir-noticia/",
-        "image": "https://gestion.pe/resizer/v2/CC3JPLDPLJA3JKZ5YWKJTIJN6I.png?auth=e60ad70494134142340a0dad86e25473fb46936987ff3096c574a8c63e9f8b09&smart=true&width=1536&height=1024",
-        "publishedAt": "2026-11-13T23:27:00.000Z"
+        "url": "https://gestion.pe/economia/empresas/visita-del-papa-leon-xiv-a-pucallpa-moveria-hasta-s-15-millones-y-pone-a-prueba-oferta-hotelera-de-la-region-ucayali-noticia/",
+        "image": "https://gestion.pe/resizer/v2/KI346EAW7RFRZBN3KPKAUSF4Z4.png?auth=350622849a8540f9bfa7293c2eec698edd29bb891a1ac332bfef33393806ee07&smart=true&width=1670&height=941",
+        "publishedAt": "2026-11-14T10:59:00.000Z"
       },
       {
-        "title": "Millicom entra al Perú con la compra de Entel por US$ 1,714 millones: ¿cuáles son sus planes?",
-        "summary": "La compañía de telecomunicaciones firmó un acuerdo para adquirir Entel Perú por US$1.714 millones. Con esta operación, busca ingresar al mercado local, ampliar su presencia en América Latina y fortalecer su negocio de conectividad y servicios digitales.",
+        "title": "“Hay una nueva percepción de que se puede invertir más en Perú”, la mirada del Banco Mundial",
+        "summary": "Gestión conversó con Ariel Yépez, director del Banco Mundial para Bolivia, Chile, Colombia, Ecuador, Perú y Venezuela, para saber cómo se ve nuestra economía respecto a la región.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/millicom-llega-al-peru-con-la-compra-de-entel-por-us-1714-millones-y-apunta-a-expandir-sus-negocios-noticia/",
-        "image": "https://gestion.pe/resizer/v2/MHN56EYL2JHL7NK3DLLXBCI2TA.JPG?auth=e8764d11003ba895c2697fcf6083ec2096c8c189e80e7f93ef9ff7521364d792&smart=true&width=702&height=465",
-        "publishedAt": "2026-11-13T22:36:34.000Z"
+        "url": "https://gestion.pe/economia/banco-mundial-sobre-peru-hay-una-nueva-percepcion-de-que-se-puede-invertir-mas-en-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/TIONKBFJDREA5NOE6QKIX7LBFU.jpg?auth=6a85e7bef53d901860046a8b1a437daba51de2fc3bbf331827a89f7fe7ac6dc5&smart=true&width=1600&height=1067",
+        "publishedAt": "2026-11-14T10:59:00.000Z"
+      },
+      {
+        "title": "Tottus crece en Perú pero Hiperbodega Precio Uno toma ventaja ¿qué motivo su avance?",
+        "summary": "Grupo Falabella busca abrir una nueva etapa de crecimiento en la región, con oportunidades tanto en sus negocios actuales como en nuevos espacios físicos y capacidades digitales. En ese escenario, Perú aparece entre los mercados donde la compañía chilena concentrará parte de sus esfuerzos, en paralelo al fortalecimient",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/chilena-grupo-falabella-pone-a-peru-entre-sus-prioridades-de-crecimiento-que-negocios-impulsan-su-avance-tottus-sodimac-retail-noticia/",
+        "image": "https://gestion.pe/resizer/v2/O24ICHUV5FFF3NCITDCXLSCNUI.png?auth=ad3ae76ac8802b8da3a096f14165a54776da434d5108810c428aac7919efe0a1&smart=true&width=1672&height=941",
+        "publishedAt": "2026-11-14T10:44:00.000Z"
+      },
+      {
+        "title": "Perú puede aprovechar escasez de concentrado de cobre para negociar mejores contratos",
+        "summary": "La demanda mundial de cobre crece más rápido que la oferta. También importa quién procesa el mineral y quién puede demostrar su origen.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/peru-puede-aprovechar-escasez-de-concentrado-de-cobre-para-negociar-mejores-contratos-noticia/",
+        "image": "https://gestion.pe/resizer/v2/3PNHCIT4U5B63JF7BNY7AC6N5M.jpg?auth=38bac6c95fe1c2c66b58edd402c45f1f0134d1315718e1c5a53a3d62d770463c&smart=true&width=1200&height=801",
+        "publishedAt": "2026-11-14T10:40:00.000Z"
       }
     ],
     "sociedad": [
+      {
+        "title": "La generación Z, sin futuro, desafía el modelo social europeo - El Nacional",
+        "summary": "La generación Z, sin futuro, desafía el modelo social europeo &nbsp;&nbsp; El Nacional",
+        "source": "El Nacional",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEhKMEU5MEU1akQtSEVPdEg4U19MVV9RS0FmWVVtakNOVVUzdTZoaU41QVh4SGprZDVYaGd5ekM0aXlXSFNLQ09jSzZyZzlSd1hBWVNfOEpPQklDRVJKRUxISUxjMVJkVE1DVlo4dWg0a2o1d0xGN1U4NXNMc3Q4Zzc1c2lGX3lEempER3FyVW5WWWVyaFNiUGljWQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-14T06:02:09.000Z"
+      },
       {
         "title": "Más allá del acceso: el reto es convertir la inclusión financiera en desarrollo - Visión 360",
         "summary": "Más allá del acceso: el reto es convertir la inclusión financiera en desarrollo &nbsp;&nbsp; Visión 360",
@@ -154,14 +162,6 @@
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdDhZcERxSjRUY2JWVUMxeTFnNXdkS0dPell6YmlITFhvRmRTWVExT0s1dThGbm9RSF9fMndVRlpUemlOcEhrUFAzTnduQjVmNUpUejV2U0plb3E4WEMzMzkzUnhLSXU4dENWLTJ3bWdGclV3dlBaMTRDQVpwZFUxaXgxY2ZLcGNfOTNjakpRekNYeUJwUXR2YWsxYndqVTdqRVpmV1lfTjI3QVpMNElJWExpZ05FTEU1aGUtYXhScFUtSkVaVG5Ea9IBzgFBVV95cUxNdWdMbzBnRVBDeWhocVFETlRNSmt4RzlZTkd6aVpfWllDM2hxc3Q0Yl9aUllXUHJ0azh0WE9rdnRVWkNRdkczQjNlb2Y5UHRBekZjcDk4Q0lTY2ZfRkNDZDFGSWVkN2lISWhyY2w1dS1MTmxNZVQ2STJJc0E4Z2E0bm1yeHlvVVhzaUZkVGRfWHBneHdYN0lPb193bEhJSklmcGJUeVZ6dWRUTVRjV181WV9ESWhTenVxYkt2XzNCU2I5Q0szcjRjTThjZFFOdw?oc=5",
         "image": "",
         "publishedAt": "2026-11-14T04:00:17.000Z"
-      },
-      {
-        "title": "¿Tu empresa utiliza IA? Cinco claves para adaptarse a la nueva regulación en Perú - Magacín 247",
-        "summary": "¿Tu empresa utiliza IA? Cinco claves para adaptarse a la nueva regulación en Perú &nbsp;&nbsp; Magacín 247",
-        "source": "Magacín 247",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWpfV2xNOTNZTGVpZk91cTVwRUhZLVJabmJ5dHp0dUpoTVZrcDZzeE5mdndJMi1sNGJnQlRPSFFlYUVETTI1d19iQWxHVkl6V21wZW85WEdGaThQSDBkSFJQd2VlV05JaFY3VWpGaV9aeUtYeEVuN01mbXZSXzU5dXpwazJzS3htenBLY2dELTVTSGZ6QWgxYWFpUGFIUjZZVFFqXzZOcTloU2s?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-13T01:00:32.000Z"
       },
       {
         "title": "Tortoriello puso a la salud pública como prioridad y advirtió sobre la falta de presupuesto en Río Negro - Neuquen Post",
@@ -178,14 +178,6 @@
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY3kxSWYxYWo0OXNrWlM4NFJXcUNHNTlXRHpta1NDdTdCdnlUZ3ZhUi1tcUVzS3RTdVhldkFzZGdJVlVKSkdvWUFfalhrUzZaOWl5NWJOSE96RGs1b295c3dFSlVIVlh3ZXVxMkJJYi1FeG45VkFfQVRBWHdYSFBoa216Rkp4YTl1RVIwaVAxWlBYQXdNR0HSAZsBQVVfeXFMTjdBd3pWQlMwalYzOFliOE1xU1BoQ2FETmRLNUMtRTlVQzJSZllwa0J3c1VWUUVRRHhpcXowTUduUVVlc2VyZHltQWZISHNyZk5fT1pPTDMzSXhQaHlMR19lVDkxOVB0SDVPbE50ak1qWWFUb0JzTXBzNDdfSGhMQnFIM0ZWOWVHQktsT1ByMDNnWDdWZm5nQ3dzdFk?oc=5",
         "image": "",
         "publishedAt": "2026-11-12T02:34:36.000Z"
-      },
-      {
-        "title": "Nobel de la Paz llegó al Perú para celebrar el 35.º aniversario de la UCV - Universidad César Vallejo",
-        "summary": "Nobel de la Paz llegó al Perú para celebrar el 35.º aniversario de la UCV &nbsp;&nbsp; Universidad César Vallejo",
-        "source": "Universidad César Vallejo",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEYTBwcVVfSnhuMllhd2ZybDl1aVRIbzFCTVJQV2dad1J3MjdvRWV2eDNldXk3bWQxU1dLVVZCM29xNDVEcmRwY3FLZGMwaGNTbkF3UnhlZHFZVE12SlVTT0x2TDk5RFV5bHVjM2VB?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-10T01:21:40.000Z"
       },
       {
         "title": "Educación - Desarrollo Sostenible - Welcome to the United Nations",
@@ -210,9 +202,33 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYzNoV0N1ZWRwaXppZmNuai1FNW5UdXBQbllqYThGa0h2V3poZ2sySjVhRlNyZHhDYkFmMUI4YzVaazlJSDV4aGJ2emprMkY3MTU5Qi1KSnU5eHdvb2xQbkZWak5mNkViUDZjQVJPbktwLUM3NzNrbVMyajVhSVlHaVUwSExZQ0pmOEw3WmVwNVFRaDlPbEpFOFd1M09hQ0dJRC13WlItV2hnTGVza0NlWk1EM0ZQZndRSmtBMzZSVzhjUEVmOVE?oc=5",
         "image": "",
         "publishedAt": "2026-06-02T07:00:00.000Z"
+      },
+      {
+        "title": "Plan de gobierno de Ahora Nación: Puntos clave y propuestas en salud, trabajo, economía y educación - Infobae",
+        "summary": "Plan de gobierno de Ahora Nación: Puntos clave y propuestas en salud, trabajo, economía y educación &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeV92RzBNaFF5amx4WnBWRXZoZm0tWGY5Y0REQlBPbUR4UkI2SnJ6VTlvZnc4cElfa1paVXlia2lodnNZY0x2SHdubjROelc2dnFDaUdmZ3p6TWowcUNnb0lZZk4yRzNScHFvTkNtc1E4STdicm9veVpuT05mT0NHYTBBeHV5RHZ3bUlwS0s5RFpnS0N2U3JvVXVVMGRFWkd2cHF3Rk5WUDlwZWJ6M3ZCdmxhUjAxSkxROGNDd0t6S3BxTDlyZEpGMl9PZWJaZkZ4RXlN0gHuAUFVX3lxTE5saVoyRmhWOEFYb211WjcxRmJrTk91M29YYVYxa1ZtZjBYd3J3MHdPamMzWEJETGZxS3QwWWpwR19qalZ0MmppQzU1ZzRPTi1mTDRnUGVtZ1poUDFXUGFqbVA3N2c2aDgzM2U0cElnUm94akZIY0xnaXlPSml6UXZUd0NJTW8tQU53M0lDajFnWk1BRDFjZzVDZmo3UERtZkpSamhpcTBIeE9SeXFJN1JFa2tvYnFzRVFtYmFIblFFVHlJbTJYUktULWpISERrczNKZDBhZjdKT3R1b3NIRmRqSWtjalFWR19ENnVlMnc?oc=5",
+        "image": "",
+        "publishedAt": "2026-04-06T07:00:00.000Z"
       }
     ],
     "negocios": [
+      {
+        "title": "Falta de oportunidades e informalidad laboral: Desempleo juvenil duplica al de trabajadores adultos - Business Empresarial",
+        "summary": "Falta de oportunidades e informalidad laboral: Desempleo juvenil duplica al de trabajadores adultos &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWFJjalhJelpSeHFtcWlRQWRQUE9tYlk5SWZHckQ2blZLQU9HOEdkRnVDVW9EdDUtX0hHX2RiNWdzd3RxSDZkSHRkb1p1MWNCUU03ZGZna2xlMzk3RHlLUlN2YkV3TlIzVHJiOTE3b0RqMU9QQm96MTFReURlRXFIdk1rcVBLS0VKdmpocTZ0WHlUdDk5UllxNEsxOUtTdm9vRFlXUzgyRjhwdWdaLXdoVHJGRkJJSVlEQUZJbW42RmNfWlZKYzNEMk5udTZRa2VUd2ZkOQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-13T01:51:13.000Z"
+      },
+      {
+        "title": "¿Mejor me hago informal? Cerrar una pequeña empresa en Perú toma hasta 5.367 horas: dos años y medio de trabajo - Infobae",
+        "summary": "¿Mejor me hago informal? Cerrar una pequeña empresa en Perú toma hasta 5.367 horas: dos años y medio de trabajo &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMHlCSmNMYk1BMHNqd1N2RmJ1SDQxYnVVVFREQnNLS0E0Mjh3SkhWRVRHWVh5TVFVOHVBR29ZSWhaY2kweXk1OThsOW1NaXVNU1VuVEcyTFdKWmlmNXJEaTI4LWtmVlZsMWVuZTFBSkd4VjZ5UHZhRGljc0xndVVLTnNhYzFsMWNCQ3d1bE5rakVDMGpiWHdKSjJLcW9naFVGUU5vSDVSQlVMb0Y4R21aMmo5WHFpRTRBSUdnZkIzNnd4M3RwbmcyVURCT2hGc2xoNm1IWXZxVXdjYnUtVXA3NkZB0gH8AUFVX3lxTE0waDlhZEdWTWFYdE90Rzl3dDdBS1R6ZlhIUWhoTkNsZ2l3clpnZXlOWExFNzlmUk95em4wVVJHVGxlV2lyOE9FYy1xc3JNTkZQMjlUWVJWbXNCOHRpUXhQR1lWRjNuc0k1aUFta2NoUk5DUUFoTmg2NjNTZ1o0OWcwY2o1b0s4OG1DeVpkWlI3SXp4V3JubzUxSkR2dEFlOGkxR3J4aDh4cVk1S0owVHNqN0pWeGh5MGFkS2JlYzNOMDBWcVRTd1RvZEpKZ3FNWV9CY3d2dFlTaXZObDl5MkNwaHU4elpIZE5RTTY4M0hfek9TbHlwZFF3TGt5TA?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-12T18:23:00.000Z"
+      },
       {
         "title": "Perú ocupa el segundo peor lugar entre 27 países por trabas burocráticas para abrir una pequeña empresa - Revista Economía",
         "summary": "Perú ocupa el segundo peor lugar entre 27 países por trabas burocráticas para abrir una pequeña empresa &nbsp;&nbsp; Revista Economía",
@@ -220,22 +236,6 @@
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeV9CdFQzSnQzTEdzLTR0TFZiS2tnQ2hGU0R5Z0huMFBsZkx1eXM2N0xWNDlVQ2tXdkxOYTNpcU85TW5aWEJ3SWZZTFg3dXJVRkF1UjRLT1B6ZGY0MUlGeGhBTkdBbXBoRjdNOUVkeG4zZzdjeW0yc0FfWTNyUlRnNzlnMnpldlM0UWlDdjFBNmFTVjByRzRidzRFNW84OEVuRlBlM2tfaVpHRFZlTnROYnFDVW9iSjQ2emVPRnpyZ3F4ZUFoTE5BOGxPeW13V3RWS2c?oc=5",
         "image": "",
         "publishedAt": "2026-11-12T17:50:32.000Z"
-      },
-      {
-        "title": "Caja Arequipa premia a los 18 emprendedores del concurso nacional Orgullo Emprendedor 2026 - Business Empresarial",
-        "summary": "Caja Arequipa premia a los 18 emprendedores del concurso nacional Orgullo Emprendedor 2026 &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3I0V1ZTdEJRX3pYeFlsbzh1c09RZ3Q3UHZfRWZYc3dydVdBYTRQbFNfdVNyQjZUc2lBMnc1bHZ6SWZwRUpiVlgwR3MtellRV3lhT0JUbDR4dEFxY3VEZENJQ3o2bm9mTWgwMmRXc05vTHJXV3d0ZXI0QzkyN005YWp2RnhBdnJ0MC1XbVJ0VXhfckRlRmtyZ0laZkpSU2twZHFmRGViTUQzV0RfWXc0TFNGaWNpU2dHLWcwbGFsTWVILW83Y1JDM2pB?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-12T13:44:09.000Z"
-      },
-      {
-        "title": "Mel de Montaña gana el Gran Premio Orgullo Emprendedor 2026 de Caja Arequipa - Gan@Más",
-        "summary": "Mel de Montaña gana el Gran Premio Orgullo Emprendedor 2026 de Caja Arequipa &nbsp;&nbsp; Gan@Más",
-        "source": "Gan@Más",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXNYRFQzWkFNdVRVUExqaXlXVU9tRDlNbnpCQjJQOVRFTkpEQ0pQMm81aXBEWks3Q3JfWnUxMHlaTUpBcWhMMmdnZGtvR3VKVjY3c19CQWR0OVZCM19rdm1KQ0lnRTJwYzZxNS1oeDBJVUFvN3FzU3NuUmVFZXRiWlZxTWxrZ0FFT0pPRGRBOVdhb29YR1dHc1dhU3FETVJrZ09YM25ENEY5eWc?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-11T22:19:00.000Z"
       },
       {
         "title": "Emprendimiento silver: cinco formas de aprovechar la IA para hacer crecer sus negocios - Gestión",
@@ -280,20 +280,20 @@
     ],
     "ideas": [
       {
+        "title": "De la cultura deportiva a la innovación, los siete Grandes Ojos de El Ojo 2026 - Mi Punto de Vista",
+        "summary": "De la cultura deportiva a la innovación, los siete Grandes Ojos de El Ojo 2026 &nbsp;&nbsp; Mi Punto de Vista",
+        "source": "Mi Punto de Vista",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX1FPaXpoWllDNUh4d3VOcGlzZDRYMUI5eGdJR3pjYmdHTVphTkIwSEJ6QWJ6TldfYlU3TE1RYVNFZFM4dFNrel8ydng0ekxURDUxeVgyVW91UU00eTRZOURNRnNQVm1YU1g4ZEZpeGg5LU1QSzB2b21HbEdwaDdOSTVCalhSbEdzRVNEZHduVnV5QXJnelkyd0x0eWFWMVBvOUFzRGR4NWY0TGo3a0E5R3BB?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-14T01:12:58.000Z"
+      },
+      {
         "title": "VML NY + VML Spain logran el Gran Ojo Innovación para Aritium - LatinSpots.com",
         "summary": "VML NY + VML Spain logran el Gran Ojo Innovación para Aritium &nbsp;&nbsp; LatinSpots.com",
         "source": "LatinSpots.com",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYUktTENMRXEtVGdIT0dvY2hoTUZjazFmTjkzamJUZXNURGl0c2NsRWlDRHJxbGhkV09DaVRKc2hibl9pWFE1RklLdzgtZWwyekpIbnR0UmFvVUp6WUpadFYxdlpjbkt5c193ai1lSWNEbWhDbGRqSHRGVGdzbDNCQmRGc09Lb2x6UGhTOE53akNDdDdCTTUyTld4WlZUaXh5?oc=5",
         "image": "",
         "publishedAt": "2026-11-13T00:44:43.000Z"
-      },
-      {
-        "title": "El Ojo 2026 anunció los finalistas de Creative Commerce, Creative Data, Innovación y Media - LatinSpots.com",
-        "summary": "El Ojo 2026 anunció los finalistas de Creative Commerce, Creative Data, Innovación y Media &nbsp;&nbsp; LatinSpots.com",
-        "source": "LatinSpots.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHZ4WUItQUdQTkVOamlKeDJNNVdyYjd2NE9HUDBwcUhJSnpEbVFaRXZHdWNYZGVOQjVjNkV2N0VUdEJYLTZDNkFOenpfVWczazBIZzZXajhSc0NvT3E4SXVZdEs4T2p6WTBKMm1jR1kxVS1GM181Tk4wT3g3R3JfR1hLVnBqeWZNTElTN0U3Q3lTbm9CUXB6V2F4QThPLVFNdHVBOWtzQmdYby1XOGVPVDZDUzNsVDZEVWR3MkFjblhHX2ZMU0E?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-12T18:39:32.000Z"
       },
       {
         "title": "En el Día Mundial de la Ciencia, Samsung Latinoamérica destaca sus iniciativas gratuitas para impulsar a científicos e investigadores a desarrollar soluciones en salud - samsung.co",
@@ -370,14 +370,6 @@
         "publishedAt": "2026-11-12T17:30:17.000Z"
       },
       {
-        "title": "Perú en el top 3 de América Latina en desarrollo de habilidades humanas e IA - https://stakeholders.com.pe/",
-        "summary": "Perú en el top 3 de América Latina en desarrollo de habilidades humanas e IA &nbsp;&nbsp; https://stakeholders.com.pe/",
-        "source": "https://stakeholders.com.pe/",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOEQ1dlowOVZ3Qkowa0F2NFN4Zy03YmJmZ2QyNHJad01XNWd2SlZHQktlR1RXYVJ4OUJKaC1LSks5Y2ZuVmJFaTRvOFRTU2xUSUhfX3JaUWYyNnV3LW9wdno5NzNJSExZWlRleGxqMmpBbUE4TXJFWDBuUXp5WDZMUGRLbzkzR0tqUEFyNlVqTVBHcmQ2N18tSmJrcy1KSmNtNmtiTjk1UHNLWHI2YzZ2MjcxZUJQTTBnMnd4bnZyb0pVN1BpTGp3VXNFTkg4TFNtMDhN?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-11T09:29:49.000Z"
-      },
-      {
         "title": "Inteligencia artificial en Perú: estos son los sectores con mayor potencial y los desafíos pendientes - El Peruano",
         "summary": "Inteligencia artificial en Perú: estos son los sectores con mayor potencial y los desafíos pendientes &nbsp;&nbsp; El Peruano",
         "source": "El Peruano",
@@ -408,6 +400,14 @@
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOF96RmlFdGF0MmZNd1M0VXdlM2tlQVU0MHBidWRKZ1ZaYmRYZjQteldIeDRYR0c4aFNENU1ackUzVzZ5Sm5OSU9JVXlhQU9ON0ZoYmt6UWRfX2xNcFd3bmNDbkpyUktwaVl4UUZwdlZIRmZDaldXd3dXRk02ZFZvb2VJNk9WLTZTVXJhQklYcWxGMkFWbmZHUG11OURpRE8xWWdpU3lOOHUxaFotNUJscW9qVUdfdFRkWUhubndPYnRYUUN5RncxVW1qVFMzck41SWJYeWV5eWVLZw?oc=5",
         "image": "",
         "publishedAt": "2026-09-07T07:00:00.000Z"
+      },
+      {
+        "title": "La IA avanza en Perú, pero las empresas enfrentan un reto clave: mejorar su infraestructura tecnológica - Infobae",
+        "summary": "La IA avanza en Perú, pero las empresas enfrentan un reto clave: mejorar su infraestructura tecnológica &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcHcxMHZXbVRFdm1rYVdjR05vdWkwRC1YZEs1STVyMjNVNTJ6RjlmcVgwUUFMWDNpeU1aR3I3TWMzdVczRW4tRkg2S1pmR2haZE9WdE9MT0pwZFktcC0xQk5KbGpoYTZrWGE2VDViYmhRVmZfS1pkOHc1UGw3OU5oNmtfeU1Sc1Q0NnZ5amVPZFR2MzB1dkllZVB2U3dhYVFfN3Q4OWJxdXI5Z3dEMkcwdi1sWWtHNTBIZ0daa1E2bDN1UlU4UDdPN2dlOFVpZGZrTkZOenZVMl9TVkXSAfYBQVVfeXFMTWhZejBPWVJvRWc5VmowYS1ocnJIQlU3TnJxcUlzWGpRVHJOZGJVcXlKZll6SlhycDRMOC0wMkZIbnZOZVpKTDlSSHFNY21qYjRRWjBEeGVHdXFQOWRwSVVoVFR3UVZwTzRHb1ZidWktcklvOGZjYVRxZk00WnE5MmlVZXhzVVRaV0RjMk1VLThMak9lYUZOTERPWGtwcTZCTXZmT0stUkhxeVlkQ3V6SzJkYnVfMXBScTZuWHlrVVEyLWQtdENYZzlMSkpERl9xdWZyZmVkV1Z2bXVMRVBaajlzNUF0Q3pfT2R2S1kzaHA1NWNFeURB?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-26T07:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -526,23 +526,39 @@
         "publishedAt": "2026-10-07T07:00:00.000Z"
       },
       {
-        "title": "¡BTS ya está en Perú! Grupo de K-pop arribó para dar sus tres esperados conciertos en el Estadio San Marcos - Trome.com",
-        "summary": "¡BTS ya está en Perú! Grupo de K-pop arribó para dar sus tres esperados conciertos en el Estadio San Marcos &nbsp;&nbsp; Trome.com",
-        "source": "Trome.com",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNmx0Rnc5SWVnVTJKRTVIZmlrcHlaSEJhaDhGcDdxODduSEtDR2Fla2tIZHYyaExOejNKcHdQd2FXbHRRVlFoZlAxN0VGTHpVSWRyMkdkYjhmallqUEg1WmxDa19jNzRwbFhDSHJES0RlU0Q1U0xyRjBTRWZ5SmUzdXVjX1I2Z2NqUGlPMFo3N1VLbDlKUU82M2tmZDQ0c2dWM2xqajdDSmdzMDZNM0tWT3huMUNQNXZFeE1sVm91MmJWZ0V6ZGozNzRkd01CM3gyQ3Rsek5fTUx3TGY1WTFWbW9xMzEwamh10gH8AUFVX3lxTE9lM05WNjM2a2tXRzRLdUJKR3pOMmdxM1NNYUFsRFpWSWEzcjlOZjdyUk4xamNrZjA2TmtDU2NaZHByWDA0dVJ3aWRObFNEOTdCREF0emh1b0tpR2RWOUpyMGR1ZHpwN2RtQXZ5VHl4dEJlazBZUWd5WFhYUDAzOXFPTnloOUdTYi1HTEcwbTVLY3ZFOHZpaUlua3pweWRqRkVPU2VWY1NhTUduVm1zRVlucmhHRDFJRHNSUWRZMkc1UFB0dnhZTEk1STh3SHJ1ZzRHcVhrYXpmWk5KYzlWNWtJcmhqcjZqM0xJTDVmR2ZoblJSQThfRWpOSndZaA?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-06T07:00:00.000Z"
-      },
-      {
         "title": "¡Atención Armys! Ticketmaster anunció venta de nuevas entradas para los tres conciertos de BTS en el Estadio San Marcos - La República",
         "summary": "¡Atención Armys! Ticketmaster anunció venta de nuevas entradas para los tres conciertos de BTS en el Estadio San Marcos &nbsp;&nbsp; La República",
         "source": "La República",
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZzdTLU5fYmNmQ0VxVlc2T04tQktMcTBRYW1tVUVkb0Jpdlc5UWJZeC1vYWk3RHV0MWtTeEhSZDRkbFdhaVd1UWRFWGQzUjFHeFp1dU1vVDFaU0kyckd1RGN1VFB5a0ZkZ3h2SkR5RnNmWjJOejR5cy1FUGctNWg2UmJEenppOTQwcS1YVkNhUjZHcHRiX2FQSUhxOHo0cWI2OUp4Zk82cldHTk9zdzFEUl9iZW9jM2YtUHhzNXlRMUV4U2ZIRUllMmlaQUQxLVdJeUpibjZZVEd4MWF2RWxDLXd0UzlJTnBleGoyQXdXZXRRYVZ0VWfSAfsBQVVfeXFMT0VJZHMydEp3Q2d5LWlCeGI5Mi1yanVDY3B2LWdsYjduYUdQbWphNkVzMTM2di03aFNkWGpsODZGYlJXN2t1czd6d3dsSDBSZFBRdWxQZDhNWDFIWndXY1ZoTllPRG5aMGdZS1VmVGVTbklZaUhubE9kRVRUOGVQWjNWV1ZISVdoMXdQZjZXblhCbUJFLV9aZEhCLU1wc210VFFlemtmc3lSdkxVdFU4UUg5QjM2b2dZSE9SaEM0cndTUGE0NGFNbXJoa0VwclQtY0oxbG85alpNcnFNQk9EbVJHMWdjQkNPVFI4RVRoVk4tbTNWMnZpbEJhbWs?oc=5",
         "image": "",
         "publishedAt": "2026-10-06T07:00:00.000Z"
+      },
+      {
+        "title": "¡BTS ya está en Perú! Grupo de K-pop arribó para dar sus tres esperados conciertos en el Estadio San Marcos - Trome.com",
+        "summary": "¡BTS ya está en Perú! Grupo de K-pop arribó para dar sus tres esperados conciertos en el Estadio San Marcos &nbsp;&nbsp; Trome.com",
+        "source": "Trome.com",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNmx0Rnc5SWVnVTJKRTVIZmlrcHlaSEJhaDhGcDdxODduSEtDR2Fla2tIZHYyaExOejNKcHdQd2FXbHRRVlFoZlAxN0VGTHpVSWRyMkdkYjhmallqUEg1WmxDa19jNzRwbFhDSHJES0RlU0Q1U0xyRjBTRWZ5SmUzdXVjX1I2Z2NqUGlPMFo3N1VLbDlKUU82M2tmZDQ0c2dWM2xqajdDSmdzMDZNM0tWT3huMUNQNXZFeE1sVm91MmJWZ0V6ZGozNzRkd01CM3gyQ3Rsek5fTUx3TGY1WTFWbW9xMzEwamh10gH8AUFVX3lxTE9lM05WNjM2a2tXRzRLdUJKR3pOMmdxM1NNYUFsRFpWSWEzcjlOZjdyUk4xamNrZjA2TmtDU2NaZHByWDA0dVJ3aWRObFNEOTdCREF0emh1b0tpR2RWOUpyMGR1ZHpwN2RtQXZ5VHl4dEJlazBZUWd5WFhYUDAzOXFPTnloOUdTYi1HTEcwbTVLY3ZFOHZpaUlua3pweWRqRkVPU2VWY1NhTUduVm1zRVlucmhHRDFJRHNSUWRZMkc1UFB0dnhZTEk1STh3SHJ1ZzRHcVhrYXpmWk5KYzlWNWtJcmhqcjZqM0xJTDVmR2ZoblJSQThfRWpOSndZaA?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-06T07:00:00.000Z"
       }
     ],
     "cultura": [
+      {
+        "title": "De la cultura deportiva a la innovación, los siete Grandes Ojos de El Ojo 2026 - Roastbrief",
+        "summary": "De la cultura deportiva a la innovación, los siete Grandes Ojos de El Ojo 2026 &nbsp;&nbsp; Roastbrief",
+        "source": "Roastbrief",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbnZISFljcmktQWFod0VHcVRWTThrM1l5MkdMNlVtNHlSVFZyLU9jX3pIcnh3aWpsUkxnaGkzOFI4WW5TZzZ0bjltRGtWMHFxRFB2SG1yWFVTOGVoVlNYeS1Xd09RNHhrVXBSbWxoNHZzMXpfdlpwUWc1ZmNVQ3dDazIyWVpVbnVqNk1IYkhxWkJDVjltX3BUaVlvLXNZMjdTMnhhMktTUG9fS3V4aERkRUNB?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-13T01:00:00.000Z"
+      },
+      {
+        "title": "Papa León XIV atiende dos eventos masivos durante su agenda en Lima este jueves 12 de noviembre - El Comercio Perú",
+        "summary": "Papa León XIV atiende dos eventos masivos durante su agenda en Lima este jueves 12 de noviembre &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVXo1aUx6TXhUWUZja2gtSk9Lb1RFTG5palZ4dV84YjFZVmlnRjFLVE9EUlJuQmpIaTZEMTdNVjYyN3F3VWVFcnowaDdSU2pBTUFjdEhxOS1tQm1CeVl2clZ1VXYySkx2SVB1ZjJaQ09Zelk0Q3dGaUlPOWZSQzJBM1dPVHBjWE81MGdoM0tQM0FTZHFSUVVFRThHaTFCOFpRRVgydm1vZUY4WlJkUkdQTFVhN0FFY0R2OXNPZnotRXpzY1JGNnNyS1ZFTk5PM0JqaEw5TlJ1cmRiLTZPdzVsNDkwYV9GdXh2NG5NT2xmb3N1WWpMbHpWbDhPeUI0SW1oNjRReWJXRGQtUdIBngJBVV95cUxPbzBlUVV4N1YxdDMzVHRLZDREZ2lpckFqcWpkLURYUExFU2t5NGFRcHdCSlpPODlmZTlpR0ZNcnk5UXNnbXVLSmwxbVdoNkpBZ2s0XzVHNmI5TDNFaFQtaTZLTTdsXy0wZUxqQ2NwR0VvcXFBWEJEUjhYNHc3NEZROHJYTkFYbGFjWWZ3eGlvYlhnWTFpZWhQM0RTS2MwTERwcFZWalIxSjJ0QWpPdkh5YzlqclVFN21EYWxMTXJPbVBPXzVlM3NBSV9OQklDMHZreUNQRDVuMDQ0YTVlNmNMN1dDM3UtNFppQW5CLUhTb2NzN2I0SElFTUhHNDBVWGlNbTZ6b04tNmZocGlhdGJycEJvcFlSaVNHLXZfek5R?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-12T13:15:00.000Z"
+      },
       {
         "title": "Estación La Cultura del Metro de Lima cerrará este miércoles: ¿por qué motivo y por cuánto tiempo? - RPP Noticias",
         "summary": "Estación La Cultura del Metro de Lima cerrará este miércoles: ¿por qué motivo y por cuánto tiempo? &nbsp;&nbsp; RPP Noticias",
@@ -550,14 +566,6 @@
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbXVUb0c0Wm8zQXpVWXA3ZnJsZ0R2czVZaUtWV1ZTbm1ueDBTT015a1BZbVJDcXVjSTZoN1dTNndFdGVQYmVzWE5CZGktLURUTXZORWZkT1BPMUd4RmpRV2xDRGk2V0E0UElsNVpncmROSjhqLUdkOGJDYl9iUUxqMVRTRTZvMG1ZR3RMeF9sVlB4WDFXVkNTcVl1YjlPWXVnZU4tcldUeDFNVDNwOWdtUi1fSTMyZmEwT1ZUR3JrWlpPOW56SS1hZEUybWQxdzBNUFI4QUtQV3JJZw?oc=5",
         "image": "",
         "publishedAt": "2026-11-10T18:49:00.000Z"
-      },
-      {
-        "title": "La Candelaria y su plan para diversificar sus ingresos más allá de la peña en Barranco - Gestión",
-        "summary": "La Candelaria y su plan para diversificar sus ingresos más allá de la peña en Barranco &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbGRNb1RBN01QU2Q5MFNjSGNsQ2Q4Tng2cnlWeXhOZXFET2tpaTJRVTJkMm9IQnJIazhVVjRINlFPRDFzNThLUFRqTmZLQmsxTEtGWkdkd2QwaW1PNjFQRm9ZaFZSRHllQjJvX2gydW9pSXYxMTktSDJ1bGFIVXJKLWFZd05mX1pPX2xnRHRrMU8yZFBadGJPQXVqVmhhbXg4T2ZDQ285dlhxdkFsc0x6bFNnQ1lZXzRDZlJrTlUyU1ItcEtiNjZJUFdpU2MzSE9oaDBzZXBVTkt5cERfZnFvUEhpWGhBVXZfSGc?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-10T13:00:00.000Z"
       },
       {
         "title": "Estación La Cultura del Metro cerrará este miércoles 11 de noviembre por actividad del papa León XIV - Infobae",
@@ -598,14 +606,6 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa1NLeUdOY29NMk5uLURPdzNlSnlMa09yYVZlb0FVbVhCbVlYWW1hMUlTMUFidE9SaWdaMWVXak5pV0lGak1ZT19FUi1STE9FODBIbVctd1VmcFc3c0xhUlZFYWVaNFVBMnh5S284dXdWSGlzc1JZbjQwdTBPZDEtV1FzeG12TjF1UDN5QmdvaE1PNXcxUGsyazdUdjNKTUlDS29WX21yV1QydlhDQUVvc0tlbnZuMm1zMnFGd1ZkRXVTUnlhOXc?oc=5",
         "image": "",
         "publishedAt": "2026-10-07T07:00:00.000Z"
-      },
-      {
-        "title": "Conciertos Perú 2026: ¡Los shows que no te puedes perder en octubre! - Blog Joinnus",
-        "summary": "Conciertos Perú 2026: ¡Los shows que no te puedes perder en octubre! &nbsp;&nbsp; Blog Joinnus",
-        "source": "Blog Joinnus",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObE5jdThacG00eDdmY2hBcnIyVE5QWmdEcjl6LUZGcFkzYWIxbjAyN2ZvR2FkcGk4Sk10UGFrY3JjdThVbDlRazVwaks2WTItTHRsWllENFdDWUg1R3dnQzdta095eEpobUFYSnNSWENhTl9JMXRsaGJ3SG1kSjJYTWNRRmVHalhkQ1hrajlxUm5CeEdwN1E?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-01T07:00:00.000Z"
       }
     ]
   },
