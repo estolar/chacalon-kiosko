@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T02:23:20.542Z",
+  "generatedAt": "2026-11-14T10:17:04.780Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -22,6 +22,38 @@
         "url": "https://www.hildebrandtensustrece.com/reportaje/articulo/3053",
         "image": "https://www.hildebrandtensustrece.com/storage/reportaje/hVBeDlrEzIryyBCXiTEGcV4X7SxvFjgV1gMCGvCm.jpg",
         "publishedAt": "2026-09-01T00:00:00.000Z"
+      },
+      {
+        "title": "A una acta del 100% del conteo en Lima: especialistas critican demora del JNE en proclamar resultados",
+        "summary": "Con el 99,996% de las actas contabilizadas, la lista de Renovación Popular, que tiene a Rafael López Aliaga como candidato a primer regidor, encabeza los resultados.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-alcaldia-de-lima-a-una-acta-del-100-del-conteo-en-lima-especialistas-critican-demora-del-jne-en-proclamar-resultados-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/6G5Z2JM2WFEAPLAY55J4CZI7LM.jpg?auth=d87f07713e4b4ee37fe2c28089c0dfe1a92136091cd3ff5f8a6697c6d9b62840&smart=true&width=2048&height=1215",
+        "publishedAt": "2026-11-14T05:01:00.000Z"
+      },
+      {
+        "title": "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
+        "summary": "Vladimiro Montesinos, exasesor presidencial del Gobierno de Alberto Fujimori (1990 al 2000), permanecerá cumpliendo condena hasta el 2037, por el “Caso Pativilca”.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/reves-para-vladimiro-montesinos-permanecera-en-prision-hasta-el-2037-cuales-fueron-los-argumentos-del-poder-judicial-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/GHZQ5A2UANHXRLWNVC5THHRHWI.jpg?auth=6476dd5a2aa2c37ed2bb283f8732fa5d8f1fa22616c3be9e559ca6ce1efd33a2&smart=true&width=1200&height=647",
+        "publishedAt": "2026-11-14T05:01:00.000Z"
+      },
+      {
+        "title": "Dos diputadas de Obras retiran su apoyo al proyecto de amnistía para golpista Pedro Castillo: ¿qué dice la bancada?",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/dos-diputadas-de-obras-retiran-su-apoyo-al-proyecto-de-amnistia-para-golpista-castillo-que-dice-la-bancada-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/4TUMQJBVJVDK7O6BNBPR37V5FQ.jpg?auth=93a57d4a340abfc7d51d0735f250d7ea02dfa2560410ecc9c1a2e382952d4350&smart=true&width=4434&height=3058",
+        "publishedAt": "2026-11-14T05:01:00.000Z"
+      },
+      {
+        "title": "¿De qué conversaron Keiko Fujimori y el papa León XIV en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
+        "summary": "Tras concluir la primera mitad de su viaje a Sudamérica en Uruguay y Argentina, el papa León XIV llegó al Perú, su patria, recorrió las calles de Breña y el Centro de Lima a bordo del papamóvil ante una marea de personas y fue recibido en Palacio de Gobierno por la presidenta Keiko Fujimori, con quien sostuvo una reuni",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-papa-leon-xiv-de-que-conversaron-en-palacio-de-gobierno-apuesplany-por-que-invitaron-a-boluarte-y-otros-expresidentes-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/IUA3BUE62JFZ3FD5HNDRZ6247U.jpg?auth=c86f5e918fd48727634f9689ea275b9b1710de69043a472bf5571cd748c4f53f&smart=true&width=799&height=533",
+        "publishedAt": "2026-11-14T02:21:45.000Z"
       },
       {
         "title": "Las aguas siguen movidas en Buen Gobierno: Abren proceso a Juver Flores y expulsan a Jorge Gavidia",
@@ -46,38 +78,6 @@
         "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-el-futuro-del-recurso-contra-la-decision-del-jne-primeros-regidores-alcalde-de-lima-elecciones-2026-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/PJENJOXCJBBA3HZVOOPTPJKAFI.jpg?auth=ca60bee1d2da156981877bdb3ec4506ad5f909932e34428099580f3bdcb9fabf&smart=true&width=1200&height=647",
         "publishedAt": "2026-11-14T00:03:07.000Z"
-      },
-      {
-        "title": "Keiko Fujimori expresa su solidaridad con el ministro de Salud tras accidente de comitiva en Amazonas",
-        "summary": "El ministro de Salud, Luis Dyer, y los integrantes de su comitiva sufrieron un accidente de tránsito durante una jornada de supervisión en Amazonas. Keiko Fujimori expresó su solidaridad con los afectados, quienes fueron atendidos en un hospital y se encuentran fuera de peligro.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-expresa-su-solidaridad-con-el-ministro-de-salud-tras-accidente-de-comitiva-en-amazonas-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/N3JXXB4BGJEVTHXLJMCFDKMG3M.jpg?auth=065872e83e9d1e9f1c4bda615c1186103fc6020b9972123fe99cd652828f459e&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-13T21:45:40.000Z"
-      },
-      {
-        "title": "Luis Dyer: comitiva del ministro de Salud sufre accidente de tránsito en Amazonas",
-        "summary": "La comitiva del ministro de Salud, Luis Dyer, sufrió un accidente de tránsito a las 9:00 a.m. este viernes 13 de noviembre en la región Amazonas. El suceso ocurrió mientras el equipo realizaba el trayecto en el tramo entre Bagua Grande y Pedro Ruiz.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/actualidad/luis-dyer-comitiva-del-ministro-de-salud-sufre-accidente-de-transito-en-amazonas-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/GRYPEACVTFEUJLQ6XFXU2JRGEA.jpg?auth=4c089a13c22f3c7230dc51ebd88bf76984364f4452915925c834ba933e031087&smart=true&width=3105&height=2059",
-        "publishedAt": "2026-11-13T18:49:02.000Z"
-      },
-      {
-        "title": "Keiko Fujimori acude a misa del papa León XIV en Pampas de Pimentel en Chiclayo",
-        "summary": "La presidenta Keiko Fujimori estuvo presente en la masiva ceremonia que presidió el papa León XIV en Pampas de Pimentel. La mandataria estuvo entre las primeras filas de los miles de asistentes de la misa en Chiclayo.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/peru/lambayeque/keiko-fujimori-acude-a-misa-del-papa-leon-xiv-en-pampas-de-pimentel-en-chiclayo-gira-sudamericana-apuesplan-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/WQRJCCWDAJEUPKBES7NEEG25QM.jpg?auth=dca326a73321ac2126c6fec95ee6baf289a4d6f437d4c6969eda86fba2c4fd99&smart=true&width=925&height=496",
-        "publishedAt": "2026-11-13T18:25:00.000Z"
-      },
-      {
-        "title": "¿De qué conversaron Keiko Fujimori y el papa León XIV en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
-        "summary": "Tras concluir la primera mitad de su viaje a Sudamérica en Uruguay y Argentina, el papa León XIV llegó al Perú, su patria, recorrió las calles de Breña y el Centro de Lima a bordo del papamóvil ante una marea de personas y fue recibido en Palacio de Gobierno por la presidenta Keiko Fujimori, con quien sostuvo una reuni",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-papa-leon-xiv-de-que-conversaron-en-palacio-de-gobierno-apuesplany-por-que-invitaron-a-boluarte-y-otros-expresidentes-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/IUA3BUE62JFZ3FD5HNDRZ6247U.jpg?auth=c86f5e918fd48727634f9689ea275b9b1710de69043a472bf5571cd748c4f53f&smart=true&width=799&height=533",
-        "publishedAt": "2026-11-13T16:57:00.000Z"
       }
     ],
     "economia": [
@@ -148,6 +148,14 @@
     ],
     "sociedad": [
       {
+        "title": "Más allá del acceso: el reto es convertir la inclusión financiera en desarrollo - Visión 360",
+        "summary": "Más allá del acceso: el reto es convertir la inclusión financiera en desarrollo &nbsp;&nbsp; Visión 360",
+        "source": "Visión 360",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdDhZcERxSjRUY2JWVUMxeTFnNXdkS0dPell6YmlITFhvRmRTWVExT0s1dThGbm9RSF9fMndVRlpUemlOcEhrUFAzTnduQjVmNUpUejV2U0plb3E4WEMzMzkzUnhLSXU4dENWLTJ3bWdGclV3dlBaMTRDQVpwZFUxaXgxY2ZLcGNfOTNjakpRekNYeUJwUXR2YWsxYndqVTdqRVpmV1lfTjI3QVpMNElJWExpZ05FTEU1aGUtYXhScFUtSkVaVG5Ea9IBzgFBVV95cUxNdWdMbzBnRVBDeWhocVFETlRNSmt4RzlZTkd6aVpfWllDM2hxc3Q0Yl9aUllXUHJ0azh0WE9rdnRVWkNRdkczQjNlb2Y5UHRBekZjcDk4Q0lTY2ZfRkNDZDFGSWVkN2lISWhyY2w1dS1MTmxNZVQ2STJJc0E4Z2E0bm1yeHlvVVhzaUZkVGRfWHBneHdYN0lPb193bEhJSklmcGJUeVZ6dWRUTVRjV181WV9ESWhTenVxYkt2XzNCU2I5Q0szcjRjTThjZFFOdw?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-14T04:00:17.000Z"
+      },
+      {
         "title": "¿Tu empresa utiliza IA? Cinco claves para adaptarse a la nueva regulación en Perú - Magacín 247",
         "summary": "¿Tu empresa utiliza IA? Cinco claves para adaptarse a la nueva regulación en Perú &nbsp;&nbsp; Magacín 247",
         "source": "Magacín 247",
@@ -170,14 +178,6 @@
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY3kxSWYxYWo0OXNrWlM4NFJXcUNHNTlXRHpta1NDdTdCdnlUZ3ZhUi1tcUVzS3RTdVhldkFzZGdJVlVKSkdvWUFfalhrUzZaOWl5NWJOSE96RGs1b295c3dFSlVIVlh3ZXVxMkJJYi1FeG45VkFfQVRBWHdYSFBoa216Rkp4YTl1RVIwaVAxWlBYQXdNR0HSAZsBQVVfeXFMTjdBd3pWQlMwalYzOFliOE1xU1BoQ2FETmRLNUMtRTlVQzJSZllwa0J3c1VWUUVRRHhpcXowTUduUVVlc2VyZHltQWZISHNyZk5fT1pPTDMzSXhQaHlMR19lVDkxOVB0SDVPbE50ak1qWWFUb0JzTXBzNDdfSGhMQnFIM0ZWOWVHQktsT1ByMDNnWDdWZm5nQ3dzdFk?oc=5",
         "image": "",
         "publishedAt": "2026-11-12T02:34:36.000Z"
-      },
-      {
-        "title": "Cooperación con Uruguay fortalece capacidades para prevenir siniestros viales - AGN - Agencia Guatemalteca de Noticias | AGN",
-        "summary": "Cooperación con Uruguay fortalece capacidades para prevenir siniestros viales - AGN &nbsp;&nbsp; Agencia Guatemalteca de Noticias | AGN",
-        "source": "Agencia Guatemalteca de Noticias | AGN",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSmk5WERscWtqcEVoUm5kZmgwY05EXzl1b2pSTUs4VldYY200eFJfc3Z6ZUkybGVsYm42VlhuejBxRDYweGVrSVhvYzNySGJGUE02NVNrd05zc1JONDhCRjJQZHliczJ4Z2ZOdzk4UlNQTWppYUVZdmZsVDFUdXl2cndrb2trdVNzeXZHVlN2SFBtTGx3bnhN?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-12T00:41:50.000Z"
       },
       {
         "title": "Nobel de la Paz llegó al Perú para celebrar el 35.º aniversario de la UCV - Universidad César Vallejo",
@@ -214,22 +214,6 @@
     ],
     "negocios": [
       {
-        "title": "Falta de oportunidades e informalidad laboral: Desempleo juvenil duplica al de trabajadores adultos - Business Empresarial",
-        "summary": "Falta de oportunidades e informalidad laboral: Desempleo juvenil duplica al de trabajadores adultos &nbsp;&nbsp; Business Empresarial",
-        "source": "Business Empresarial",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWFJjalhJelpSeHFtcWlRQWRQUE9tYlk5SWZHckQ2blZLQU9HOEdkRnVDVW9EdDUtX0hHX2RiNWdzd3RxSDZkSHRkb1p1MWNCUU03ZGZna2xlMzk3RHlLUlN2YkV3TlIzVHJiOTE3b0RqMU9QQm96MTFReURlRXFIdk1rcVBLS0VKdmpocTZ0WHlUdDk5UllxNEsxOUtTdm9vRFlXUzgyRjhwdWdaLXdoVHJGRkJJSVlEQUZJbW42RmNfWlZKYzNEMk5udTZRa2VUd2ZkOQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-13T01:51:13.000Z"
-      },
-      {
-        "title": "¿Mejor me hago informal? Cerrar una pequeña empresa en Perú toma hasta 5.367 horas: dos años y medio de trabajo - Infobae",
-        "summary": "¿Mejor me hago informal? Cerrar una pequeña empresa en Perú toma hasta 5.367 horas: dos años y medio de trabajo &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMHlCSmNMYk1BMHNqd1N2RmJ1SDQxYnVVVFREQnNLS0E0Mjh3SkhWRVRHWVh5TVFVOHVBR29ZSWhaY2kweXk1OThsOW1NaXVNU1VuVEcyTFdKWmlmNXJEaTI4LWtmVlZsMWVuZTFBSkd4VjZ5UHZhRGljc0xndVVLTnNhYzFsMWNCQ3d1bE5rakVDMGpiWHdKSjJLcW9naFVGUU5vSDVSQlVMb0Y4R21aMmo5WHFpRTRBSUdnZkIzNnd4M3RwbmcyVURCT2hGc2xoNm1IWXZxVXdjYnUtVXA3NkZB0gH8AUFVX3lxTE0waDlhZEdWTWFYdE90Rzl3dDdBS1R6ZlhIUWhoTkNsZ2l3clpnZXlOWExFNzlmUk95em4wVVJHVGxlV2lyOE9FYy1xc3JNTkZQMjlUWVJWbXNCOHRpUXhQR1lWRjNuc0k1aUFta2NoUk5DUUFoTmg2NjNTZ1o0OWcwY2o1b0s4OG1DeVpkWlI3SXp4V3JubzUxSkR2dEFlOGkxR3J4aDh4cVk1S0owVHNqN0pWeGh5MGFkS2JlYzNOMDBWcVRTd1RvZEpKZ3FNWV9CY3d2dFlTaXZObDl5MkNwaHU4elpIZE5RTTY4M0hfek9TbHlwZFF3TGt5TA?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-12T18:23:00.000Z"
-      },
-      {
         "title": "Perú ocupa el segundo peor lugar entre 27 países por trabas burocráticas para abrir una pequeña empresa - Revista Economía",
         "summary": "Perú ocupa el segundo peor lugar entre 27 países por trabas burocráticas para abrir una pequeña empresa &nbsp;&nbsp; Revista Economía",
         "source": "Revista Economía",
@@ -254,6 +238,14 @@
         "publishedAt": "2026-11-11T22:19:00.000Z"
       },
       {
+        "title": "Emprendimiento silver: cinco formas de aprovechar la IA para hacer crecer sus negocios - Gestión",
+        "summary": "Emprendimiento silver: cinco formas de aprovechar la IA para hacer crecer sus negocios &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWDFlVmlNcU9PdDBlZTJUZlIyenU0RTdxU2RvbGFNcDFIRFdzTUJYdnRwRHNNYlZpNWpEd2RHTE4tZ0hXTm04TXFvOFM4REdTWldCbWVmUGNGNzU3bmR0Q2JhLXo4ZkM3MFNYUFpvWTkyMlNIcXV5S3hUSHRCRlJWS09PRWdxdWplSld5cVNUcHY4bkhIRXNVeGxmSFliUFRrWDVWRnN4SFd6YWlZdzhzQkNRWVByMjRjTzh1djIweDNmb2R6akVpbkpaTQ?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-30T07:00:00.000Z"
+      },
+      {
         "title": "Perú emprende, pero le cuesta escalar: por qué pocas empresas logran dar el salto y crecer fuera del país - Infobae",
         "summary": "Perú emprende, pero le cuesta escalar: por qué pocas empresas logran dar el salto y crecer fuera del país &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -276,6 +268,14 @@
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmFva2pGX0NBLWhWODZSX3BaUEFBYk55b1F6MTZZZDVIREZMMXB0bldtMmVVN3pIeHhuXy0wRkkyckY4T2tONXc3YXczX2tocGpmTU5ybWhKSks2RzhvRGdmMllWVzZkME14cUlyRDJuQUJ6cHVGcUpqZXo5NmJXMVVmcE1nS1ZvTnBhSVV0TVM0SURjXzNYeDExNldOUFFGODBvSGg2bEJHNFh0NEhXLXlVNjQwNU1oMHE3LVhuUjUza3IwdnJDZTBOVndJTGFTM2gyV3hla1ViZHZP0gH3AUFVX3lxTE9DbWlJUWxJRTBrUVJZNk12Z2N4Tk1HbGhfUWdTbkpoUXhkcm5sS2NralNwRzg2S3FpbWZhT3lFb0tzdDQyTldDUzNHcldmazhhQmV1MVBvNU93eldyX3lJcThUMXRlM0hickRuQjVNOEJZTnlSTU5xbkFyZmhtWHJ1andVUkpnYmg5cmp0ODk5UTV0azRiUTF6S3ZIMlJfQWpNVEUzSDF6NDRUdlpHR2xvdEd3X1VBSkZYdWo2TmJ3Ul9Sb1FlSjhrOXUtcUY3TWtvdUV5ck94bUI4NjBzQk00NFpabDNib0p2THNyVy11a3J3UzctcjA?oc=5",
         "image": "",
         "publishedAt": "2026-06-17T07:00:00.000Z"
+      },
+      {
+        "title": "Ayudas económicas para pequeñas empresas en el Perú: programas y requisitos - BBVA",
+        "summary": "Ayudas económicas para pequeñas empresas en el Perú: programas y requisitos &nbsp;&nbsp; BBVA",
+        "source": "BBVA",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa3l6cnJyM1o0eTRtWVJGNWlyTFlYOU85ZGZEaXlrSUxJWm43a2RJV3V5MFp6T255S1B3S0lfUEpJQzlhc1JJQUlYSEdZVndZTktoMGphbkhrdHVkLXlNSnlReHB6aWp4SUxJM1J6WmpOZTZRTWZicTBfWC1HT1RSbzkwYUQ4S0Q2blNoUjBxLTljR0VRblRJTVpGWmwxQng2dkpjZDhGNTJRZlljMl9aSA?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-11T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -378,12 +378,12 @@
         "publishedAt": "2026-11-11T09:29:49.000Z"
       },
       {
-        "title": "Perú entra al top 3 de América Latina en habilidades de inteligencia artificial y pensamiento crítico - Perú 21",
-        "summary": "Perú entra al top 3 de América Latina en habilidades de inteligencia artificial y pensamiento crítico &nbsp;&nbsp; Perú 21",
-        "source": "Perú 21",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMVB1LTBGbzV1cVJ4MVNFRWhPbjZZbTdJcTJ0ejVRTEJ1OFh3aGIxc04xUXo3bDVNSl8wX2VoYlh6ejMwZjI4ejhmd1hHNnh5WkhOZVpMY1JvYnF0aVVxZ2k1Rk1wenE0REU0VTdfV01Ud3JrdlhYT193dnRLMW9wRnV6c01wMDZhdFpHMThHRkwyWmF5U0N5SS01aU9pNWJQb2hZYTdLNlFyeHFXTXN4Z2JZMGhjUFpabGgzRVZXSXA0MWtkN1pKQkRwcw?oc=5",
+        "title": "Inteligencia artificial en Perú: estos son los sectores con mayor potencial y los desafíos pendientes - El Peruano",
+        "summary": "Inteligencia artificial en Perú: estos son los sectores con mayor potencial y los desafíos pendientes &nbsp;&nbsp; El Peruano",
+        "source": "El Peruano",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWUhGTFdCSUhqTUpBRS1mb1pMc3JNdER4aGVwZnRSUmhQQ2FFMktCREdpeEFwLVFydm5MNlF2Y1BTd3dkS0JhcEJPZHBlZTRQNThFdXhLRkcwYXU4N1lVTEtKdFNKVk8yaXpnTkNEZEQwVFBhSG1CS3dwTlZWR1lJMU1seXFGLWE3ZjhSbmFINEZCTENrVzRTWnNkMTc0aENXTE11UGNwR0wyM2hHcWF3RHI5eDJiQVJkWWpYVVRXUEJDR3BsVEExVWgyVF9RQ3hVMFE?oc=5",
         "image": "",
-        "publishedAt": "2026-11-10T18:08:53.000Z"
+        "publishedAt": "2026-10-26T07:00:00.000Z"
       },
       {
         "title": "Inteligencia artificial: ¿qué tan preparados están los centros de datos en Perú? - El Peruano",
@@ -452,14 +452,6 @@
         "publishedAt": "2026-08-29T07:00:00.000Z"
       },
       {
-        "title": "“Farmear aura” es solo posar: así funciona la nueva tendencia viral de redes sociales - Infobae",
-        "summary": "“Farmear aura” es solo posar: así funciona la nueva tendencia viral de redes sociales &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaWdsN1N5WXRXN0NBb1ZwSVVBQnN5dlVnTlQ2X3lKRm5lQ0x1bWowcVFKelVZWWpaMzA1eHFzXzFZZ2hWb0VyM1Y1aGVkbFRhZkltcTBJZFgyR2o2alRERFFLNkZpb0taeFZEaVEzMnQ0S29oWnNsam1sRzZsYzZrQXlUYmFCQWZQMDlpRkZsNUpiWVFGVjYwOUJkWC13QVc0a2Y4RzNjUkxxbXQwS2hYUE9JSXZHQml0OFZ6bDhmbUo3Z9IB3AFBVV95cUxOQXp2Z0VaZ2w0TEZCbk9kdDRZWkVwZTh5cHNaTy1sMUlDcTNvamo1MWR1THMzR1RlUDZVdXhYeHdQVGdyNUVrUGZlbFk5Y1dZaXdoX2FlUjJjcll4YncxSXNfRDJOLUpmX3ZVY1pITXhGRmxQZVlCcG1sT0FsemdxZjJDM0JWckV5SEp4aktWam9ubVU5N05Ma2tNVjNxWU1WdGs1Zk1jWXFXM0RqdkNQdWhHNjBudWppdHBxMThaMFFxa09sWkpvakhZWlMzWjYxbFpmZzhYeGV4aE8t?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-24T07:00:00.000Z"
-      },
-      {
         "title": "Qué es farmear aura: de qué trata la nueva tendencia de TikTok entre jóvenes y cómo se gana una batalla - Infobae",
         "summary": "Qué es farmear aura: de qué trata la nueva tendencia de TikTok entre jóvenes y cómo se gana una batalla &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -474,6 +466,14 @@
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTnY4M00wVmxjY21aNXlUSHhCdWhEYmJsemIyemVZM3lNMmwyNGFJdFFMMndwdVU4U3ZWX3BqZTYtQkQxWHVURktodDVjam5oc3JpcGdVNmFrLVRjTG51T3hFb2FhYW5palY5bWpBbzhxN0FadTdvNElHU25aNWFONUxTLWFlVjVpNUt3azdISHk0QzBkcHNKQUtWMU92S1dZYzBHTllkSURUZGt4VklJOTRIZzhiOUhuczZLY1ZSS09JbVRVcktoRWRwTXJFUkFhNVRpQ2VxaUNydFA1VHc?oc=5",
         "image": "",
         "publishedAt": "2026-08-14T07:00:00.000Z"
+      },
+      {
+        "title": "Jamás mezcles alcohol con esto: Minsa alerta por peligroso reto viral que podría causar un paro cardiorrespiratorio - Infobae",
+        "summary": "Jamás mezcles alcohol con esto: Minsa alerta por peligroso reto viral que podría causar un paro cardiorrespiratorio &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcWNycG12MzRyUW9GS0RoMEc0bFZNTUc4YXpxZzhsZ1UwX0xZWlRiZVBycG1vaUZ3UWlBdjZZSlQtY3VNRUFSd0pkNThLNkowRmpHbHYwUkQ1OXJzcG9ZVWp6eFVxUXktOTZnYTBjVTdZRGJKcTJSMDI3UU9wMGRSVEdHcHhnZERmMU9qYXZfcDFzM3RDbTFnNC1sdG5oS3JacnVRM0EwZVJNTzQtSTRYaTlFMU9uakVoWXpWaXJhNHpNMDBXU2dSd3c3YmlVdnNWUzJLaEdBTE9ZSW43YWpYY1FqbXBCd0RybWpn0gGGAkFVX3lxTFAzSlM0MnRGSUk0ZXZlanZtX2ZTb0tEdnF4Mi1fUWtVNnhPeC10WkdhYVVwQ09hWTdvaWthazRmdVc5eGxpeUltdHpnVlY1VHZlUzJXSGUwT3FXdWpBZG1xNHBVX1Y5cUs5Nk9zWmYzNWxUQ0xsX3JOdG5hVHRfUTZPWHQ2X2FpcFZpSTAzMjBYSUV3UHRGSXZHajRaLXVSVlRobHVqNGFSS0VsVkNXRzBJaTRXcHRhaUhSaF84SFRhSldsNlBXU3NKaTl4Q3lQSFA2MXRIc0V2ZWFvVEZfWDhwdDNEOGtfZTh5REtibE12RDJkRHNJOTJlXzRzd1FZTkpjOTE1LXc?oc=5",
+        "image": "",
+        "publishedAt": "2026-07-06T07:00:00.000Z"
       }
     ],
     "farandula": [
@@ -484,6 +484,14 @@
         "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNkhLSXNGS3ZXcWUzcFh5eGpQM3h0ZUxDYXVtRXlXc0pVeVM3c19IU2E2cmdvZ2llZmVXQkxKME9HUkJyMmRsUEdlb3I5dmk0UGhuWWJPRVlSRGlIZGFGVFpSWWxRN2hJazdaaWxXbHpWQjVjNkh1eGFEYm1udEFEWkVTUFR3ZXgxWEVIdUd1QlVPSTZUa3VjREhQUDJ4OE1wS2V3RGxsbHVQWTdRX1gtNV9ibzB5Yk15RkZPZlF0cUlpMF9jcTFKRTdidEtjNXdkOTFvM3p0Z2NyUFI5UEQzcGtPWEJHak13UTRLRWFwVE1NMWdxVEUwWDZ1WnJVY2k2WllXT2U2RlhQbXlYLWYyQlZIQVpPbC05b2wwWUUzb01CYTDSAagCQVVfeXFMTlUyQXAxei13aVQwbmNabDBUdU9QSWM3Tm5CSmNvZVJTRDFzZUxpb3E2M1R5OUFyNXNudDhka2RHNVJ5bE1YS0dWNmFZWVgtSnlWUWR5enRUOTJxaHIzNkNMNkU3Z0llUy1Yb25YOGloZnJCOU5YbmlvMFlwSDA1UUVpLTNUR1NHS3psZzNYenM0NFNrVkotVWtlNWVXekV6Ty02Qngxcy1QX29hMTFPMTBqMkY0VEsyVU9pVl8tMlNNVVByOTR3V2N0YXB3eXdKbjc3cHFHX1hsdWhEYVQ4S0oxdVUtdDk0dlE4SVI3NW5PUzcyUzVSUWhrOVl1a19yWGdlUE9iS3RibHk2REpKNHp6TEdXZUN6aU1pcml3V2dnd2VyTVNPaXg?oc=5",
         "image": "",
         "publishedAt": "2026-11-05T08:00:00.000Z"
+      },
+      {
+        "title": "Rodrigo González desmiente versión de Magaly Medina y le recuerda que la ayudó a llegar a Latina: “Ella es la pionera en espectáculos” - Infobae",
+        "summary": "Rodrigo González desmiente versión de Magaly Medina y le recuerda que la ayudó a llegar a Latina: “Ella es la pionera en espectáculos” &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZkxOVldmRGtuOTVzYl90d18tTHhja1ZiUFhyc1lxU0xWYzVSTzZzSTg5Z3ljb3JYZUdNcmVfUEVBei1sSU9WNm12VlpiSk1XYjJfS3g2Um9Gc1J0MTlEVThqM0N2RzFDMGVKTEs5bmhwU3JpSXRWWl8yUkJNSVFGNzNHbXJNTC14TEwzQVo0RC1yT3hKYU1pM3laTFlDa3dmSmltbjZFUWkwXzdyVzlYTmNxM3lwbXlKa3RLdVE0Q2czdXJIbDhQdmR2ZGk1ajk4WmxwRHFOQmlSV0ZyQkw1QThCaDhIbm4yMXh5bWFDRVdRT0RDN0pJblZGQXgzekZZSUHSAZwCQVVfeXFMTXpCZnFOUFF4VGN5NnVZaTNXbXRKZkZGNkJ3WkRIcEJJRGFicFlBdFQzSkkzZWlpQTNINDZLTHRVaDc3Sm9FRUxJRE42enlWSzZ1SEc3MGNwRTl6X3VzT0t5MU9yWm1xSkVUVVE0Mi1zNFN4c2F3em5fb2NpOWREYlBLVGppMzFobTFwRk1HMTg4ZXdZOHNDYTMyUXUxbXd6U3lsSFZOeHNOWU04NXR0b3dUYjJyRVdoNHotdGh1MEtpN0tPVjJ5WUloelRDX1lYMnVCMnhfcGdfQWZUS0xLUkxrWVh1dGZrTF9HTHR1N3dXUFM1N1k3MFpQZ2hLVmlvRkJqTlIxbUt2UC1YekxDQzlyRDVUV2NobGtOeF8?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-04T08:00:00.000Z"
       },
       {
         "title": "Conciertos por Halloween 2026 en Lima: guía de eventos, precios de entradas y artistas confirmados - La República",
@@ -532,14 +540,6 @@
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZzdTLU5fYmNmQ0VxVlc2T04tQktMcTBRYW1tVUVkb0Jpdlc5UWJZeC1vYWk3RHV0MWtTeEhSZDRkbFdhaVd1UWRFWGQzUjFHeFp1dU1vVDFaU0kyckd1RGN1VFB5a0ZkZ3h2SkR5RnNmWjJOejR5cy1FUGctNWg2UmJEenppOTQwcS1YVkNhUjZHcHRiX2FQSUhxOHo0cWI2OUp4Zk82cldHTk9zdzFEUl9iZW9jM2YtUHhzNXlRMUV4U2ZIRUllMmlaQUQxLVdJeUpibjZZVEd4MWF2RWxDLXd0UzlJTnBleGoyQXdXZXRRYVZ0VWfSAfsBQVVfeXFMT0VJZHMydEp3Q2d5LWlCeGI5Mi1yanVDY3B2LWdsYjduYUdQbWphNkVzMTM2di03aFNkWGpsODZGYlJXN2t1czd6d3dsSDBSZFBRdWxQZDhNWDFIWndXY1ZoTllPRG5aMGdZS1VmVGVTbklZaUhubE9kRVRUOGVQWjNWV1ZISVdoMXdQZjZXblhCbUJFLV9aZEhCLU1wc210VFFlemtmc3lSdkxVdFU4UUg5QjM2b2dZSE9SaEM0cndTUGE0NGFNbXJoa0VwclQtY0oxbG85alpNcnFNQk9EbVJHMWdjQkNPVFI4RVRoVk4tbTNWMnZpbEJhbWs?oc=5",
         "image": "",
         "publishedAt": "2026-10-06T07:00:00.000Z"
-      },
-      {
-        "title": "Robbie Williams en Perú 2026: horario, setlist y todo sobre sus conciertos en Arena Park - La República",
-        "summary": "Robbie Williams en Perú 2026: horario, setlist y todo sobre sus conciertos en Arena Park &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQWh2UW92WEduQm9IMWxybURneE1zcG1BSWV0U0VLNjAxT0V0VzZzcWwtS3ExR3J4eFBTZkE3dzRxOEYyaXhxdW9rNXJuVWRTTmlhVzNEWU9jWGhFdHVIUzBlUF9nWEZIWUpZOWhvYVo5YkdVZXRKaEx2UWNHMGVGTlRTMlcwUXhnRl9fOUN1Qk5RdkdlRGxjcTRDa25uNVJGQXU2ZUpYc3pKeXUxQ1NFaVRodDJFY1cwbHRvbV9GaUxLWTJiaHZqSU9sc0FwdU5YdkFCSURZOVB3dlJ2aVF5ZEQyRS1IYVVIc2R3WUtNcER6NEtVVWc0U1lKODA4dzhYbnF2aWRtY9IBjAJBVV95cUxQSU1Jb2FLZlNWR2NrT25UbVNxWFFzSFRGclVKSlRpekdUX2tIa1pBVTBFVkI0VUV1bUZHTGI4RS1LZnVRYlZLa0o1aTcxQUdYbkd6VVBoSmg1Y2lIc3pCNmt0Z0dvbDYxQjhQRW9zVnBRazdIWEZFRmd5bDBucHZIMG5iT1gtNzZDM0ZjX2NvOEx0MlVMMEdXdmJxMFdsamNlREJNQTRfR2JZc1BXc2dnS29FenRhTmE4RVI5UUVWSmx6LTBuRFBFVXhQU0ZZSjNMNFVMV3lLdXU2NnJZSGVsRlpkbk85SnZVcXFYY0xuemE1M1YtMU1FbUFOYWF2NzJJS3RaY3gwT0ZCT09x?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-24T07:00:00.000Z"
       }
     ],
     "cultura": [
