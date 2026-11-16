@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T21:44:35.939Z",
+  "generatedAt": "2026-11-16T01:59:18.906Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,52 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Keiko Fujimori inició su viaje a China y Japón: ¿cuál será su agenda oficial?",
+        "title": "Top ten del Congreso: Lo bueno, lo malo y lo feo de la era bicameral en sus primeros 100 días",
+        "summary": "En sus primeros 100 días, la nueva era bicameral estuvo marcada por entrampamientos, disidencias y casos de ética parlamentaria.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/top-ten-del-congreso-lo-bueno-lo-malo-y-lo-feo-de-la-era-bicameral-en-sus-primeros-100-dias-senado-diputados-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/NLCW2TJUEFHSPJPKTPP4HOTKEA.jpg?auth=03ba8fc5f774951974890677db7c9e26861fe2dfb35b14893182a91fb28b2bff&smart=true&width=2048&height=1365",
+        "publishedAt": "2026-11-16T01:51:31.000Z"
+      },
+      {
+        "title": "Dos diputadas de Obras retiran su apoyo al proyecto de amnistía para golpista Pedro Castillo: ¿qué dice la bancada?",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/dos-diputadas-de-obras-retiran-su-apoyo-al-proyecto-de-amnistia-para-golpista-castillo-que-dice-la-bancada-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/4TUMQJBVJVDK7O6BNBPR37V5FQ.jpg?auth=93a57d4a340abfc7d51d0735f250d7ea02dfa2560410ecc9c1a2e382952d4350&smart=true&width=4434&height=3058",
+        "publishedAt": "2026-11-16T01:44:00.000Z"
+      },
+      {
+        "title": "Elecciones Lima: Renovación Popular obtiene el 27,69% de votos válidos al 100% del conteo ¿qué viene ahora?",
+        "summary": "Más de un mes después de las elecciones, la ONPE culminó el cómputo al 100% de los resultados de la elección municipal de Lima, confirmándose así que el partido Renovación Popular, que tiene a Rafael López Aliaga como candidato a primer regidor, obtuvo el primer lugar con el 27.685% de los votos válidos.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/renovacion-popular-rafael-lopez-aliaga-obtiene-el-2769-de-votos-validos-al-100-del-conteo-que-viene-ahora-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/45WIMYC5TVA2JL5PVGXDKUKWIU.jpg?auth=ad54f7bed1c61fdbc0a256cd6f1a1fa8b49f0fb0f5d2d85f595dcbf117e36905&smart=true&width=2756&height=1838",
+        "publishedAt": "2026-11-16T01:33:48.000Z"
+      },
+      {
+        "title": "León, arrullos y rugidos, una crónica de Fernando Vivas sobre el Papa y el Perú",
+        "summary": "Quien fuera entre nosotros, primero padre, luego monseñor Robert Prevost; regresó como Su Santidad León XIV. Más que una visita apostólica, es un reencuentro con el terruño.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/leon-xiv-arrullos-y-rugidos-una-cronica-de-fernando-vivas-sobre-el-papa-y-el-peru-apuesta-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/FK7B62O6TNEY3DZCXZ5XIGD5I4.jpg?auth=a557d74280a8e24e54a1ab943e06b0871626bde8250b5769def6638a79589923&smart=true&width=1920&height=1080",
+        "publishedAt": "2026-11-16T01:32:31.000Z"
+      },
+      {
+        "title": "Keiko Fujimori viajó a China: ¿cuál será su agenda oficial en ese país y a Japón?",
         "summary": "Durante el debate, senadores de Ahora Nación, Juntos por el Perú y Buen Gobierno criticaron que la salida de la presidenta coincida con la visita del papa León XIV",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/el-senado-autoriza-viaje-de-fujimori-a-china-y-japon-esta-es-la-agenda-que-cumplira-la-presidenta-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/HCJC5PSWUNGURFLCZCHTSRICE4.jpg?auth=ea8bad10c06b0da0c1edc9ebfce11a21c5a4efd81af77277d4b3bc4c59c83f5d&smart=true&width=1200&height=647",
-        "publishedAt": "2026-11-15T20:55:23.000Z"
+        "publishedAt": "2026-11-16T01:32:09.000Z"
+      },
+      {
+        "title": "Ahora sí, la China, una crónica de Fernando Vivas sobre el viaje de Keiko Fujimori a China y Japón",
+        "summary": "Ahora sí, la China, una crónica de Fernando Vivas sobre el viaje de Keiko Fujimori a China y Japón",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/ahora-si-la-china-una-cronica-de-fernando-vivas-sobre-el-viaje-de-keiko-fujimori-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/EIO5MZGHJJFYLIVN5HBZBQCUVQ.jpg?auth=7a435c33185676c0dde9bfa16de96072e1e110e4f1c0304249c8b067be450e4e&smart=true&width=1200&height=647",
+        "publishedAt": "2026-11-15T23:42:56.000Z"
       },
       {
         "title": "Renovación Popular ganó en 26 distritos de Lima Metropolitana: ¿en qué zonas de la capital aumentó su respaldo?",
@@ -38,104 +78,16 @@
         "url": "https://elcomercio.pe/ecdata/rafael-lopez-aliaga-renovacion-popular-gano-en-26-distritos-de-lima-metropolitana-francis-allison-elecciones-onpe-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/NIJFD6LAHBBGTPPXQDY6DYYBWE.png?auth=9f2e2c4c465ab668da76119fcfbd9a5917236f46f848fadedeed26bfdc79b133&smart=true&width=1536&height=1024",
         "publishedAt": "2026-11-15T16:15:00.000Z"
-      },
-      {
-        "title": "Dos diputadas de Obras retiran su apoyo al proyecto de amnistía para golpista Pedro Castillo: ¿qué dice la bancada?",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/dos-diputadas-de-obras-retiran-su-apoyo-al-proyecto-de-amnistia-para-golpista-castillo-que-dice-la-bancada-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/4TUMQJBVJVDK7O6BNBPR37V5FQ.jpg?auth=93a57d4a340abfc7d51d0735f250d7ea02dfa2560410ecc9c1a2e382952d4350&smart=true&width=4434&height=3058",
-        "publishedAt": "2026-11-15T15:17:59.000Z"
-      },
-      {
-        "title": "Renovación Popular obtiene el 27,69% de votos válidos al 100% del conteo: ¿Qué viene ahora?",
-        "summary": "Más de un mes después de las elecciones, la ONPE culminó el cómputo al 100% de los resultados de la elección municipal de Lima, confirmándose así que el partido Renovación Popular, que tiene a Rafael López Aliaga como candidato a primer regidor, obtuvo el primer lugar con el 27.685% de los votos válidos.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/renovacion-popular-rafael-lopez-aliaga-obtiene-el-2769-de-votos-validos-al-100-del-conteo-que-viene-ahora-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/45WIMYC5TVA2JL5PVGXDKUKWIU.jpg?auth=ad54f7bed1c61fdbc0a256cd6f1a1fa8b49f0fb0f5d2d85f595dcbf117e36905&smart=true&width=2756&height=1838",
-        "publishedAt": "2026-11-15T15:15:00.000Z"
-      },
-      {
-        "title": "Gobierno declara en reorganización el Ministerio de Justicia y Derechos Humanos",
-        "summary": "El Ejecutivo declaró en reorganización el Ministerio de Justicia y Derechos Humanos (Minjusdh) y el Organismo Especializado para las Contrataciones Públicas Eficientes (OECE), mediante dos decretos supremos publicados este domingo 15 de noviembre en el diario oficial El Peruano.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/gobierno-declara-en-reorganizacion-el-ministerio-de-justicia-y-derechos-humanos-ultimas-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/TLZLG5CCENH4ZNU7Z7OLE6ZIUM.jpg?auth=5c00afa7dfda7484668b2e90e625cc0143fdc61514a1e387304062c00238e484&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-15T14:50:16.000Z"
-      },
-      {
-        "title": "Diputados de Juntos por el Perú y Obras blindan a Pedro Castillo de denuncia por caso ascensos en FF.AA.",
-        "summary": "La Cámara de Diputados rechazó este martes 10 la acusación constitucional contra el expresidente Pedro Castillo por los presuntos delitos de patrocinio ilegal, abuso de autoridad y cohecho pasivo propio, relacionados con las irregularidades en los ascensos de oficiales de las Fuerzas Armadas y la Policía Nacional duran",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/congreso/camara-de-diputados-archiva-denuncia-contra-pedro-castillo-por-ascensos-en-las-ffaa-que-bancadas-frenaron-la-acusacion-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/NCUL22E7EJE43GQXXAEZFRLV7M.jpg?auth=872aabd54e5357170c0d4558692ac4aad2c40e73bf732e35de440b2d84e88228&smart=true&width=1920&height=1080",
-        "publishedAt": "2026-11-15T14:24:59.000Z"
-      },
-      {
-        "title": "Javier Martínez-Brocal: “Esta visita al Perú quizá es el momento más personal de todo su pontificado”",
-        "summary": "El vaticanista Javier Martínez-Brocal analiza la visita del papa León XIV al Perú, sus raíces en Chiclayo y el mensaje de reconciliación que busca transmitir.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/papa-leon-xiv-javier-martinez-brocal-esta-visita-al-peru-quiza-es-el-momento-mas-personal-de-todo-su-pontificado-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/YUFN3GMX5NBV3EKQHECIJYF5WU.jpg?auth=ffbbc967a8d1be66e373b90eac150d526a49fafa83101db99128197b00edf8cb&smart=true&width=6720&height=4480",
-        "publishedAt": "2026-11-15T14:16:00.000Z"
       }
     ],
     "economia": [
-      {
-        "title": "El Niño: 3 productos de agroexportación enfrentarían riesgo alto hasta enero 2027",
-        "summary": "Temen que los envíos del cacao podrían salir este año de los cinco grandes cultivos de agroexportación que superan los US$1,000 millones",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/el-nino-tres-productos-de-agroexportacion-de-peru-enfrentarian-riesgo-alto-hasta-enero-2027-noticia/",
-        "image": "https://gestion.pe/resizer/v2/LESHTZUIIRG3FEHRM56NJ3JEDU.jpg?auth=8260938cf49111e2bea9a591029ce19b6849db8a5c7a3ca7016bf385045318a7&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-11-15T21:38:00.000Z"
-      },
       {
         "title": "Informalidad cae a 69.1% en Perú, pero aún 8 de cada 10 jóvenes no salen de esta situación",
         "summary": "En el tercer trimestre, la población ocupada del país fue de casi 18 millones de trabajadores, un crecimiento de 2% (347,400 personas más).",
         "source": "Gestión",
         "url": "https://gestion.pe/economia/management-empleo/informalidad-cae-a-691-en-peru-pero-aun-8-de-cada-10-jovenes-no-salen-de-esta-situacion-noticia/",
         "image": "https://gestion.pe/resizer/v2/PK6ATCRS7FAG7BDLZFDUIJLJCE.jpg?auth=6d4830cdf832d089419613e78f2ca905a07bdb1029e230d671f8b2ac3f3bebdc&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-15T21:30:27.000Z"
-      },
-      {
-        "title": "Trabajadores que cumplen funciones “mixtas”: ¿pueden ser repuestos si son despedidos?",
-        "summary": "La Corte Suprema analizó si un trabajador de confianza que también realiza funciones ordinarias puede exigir su reposición tras ser despedido.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/management-empleo/trabajadores-que-cumplen-funciones-mixtas-pueden-ser-repuestos-si-son-despedidos-tras-perder-confianza-noticia/",
-        "image": "https://gestion.pe/resizer/v2/J6BLL4JUAFGTPLRZW4VRJJVC7A.jpg?auth=dea6a0a937f6a83d3e493b699452693ab6db3d62e1c0776d7e64a5c9031a44ab&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-15T21:15:00.000Z"
-      },
-      {
-        "title": "Perú puede aprovechar escasez de concentrado de cobre para negociar mejores contratos",
-        "summary": "La demanda mundial de cobre crece más rápido que la oferta. También importa quién procesa el mineral y quién puede demostrar su origen.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/peru-puede-aprovechar-escasez-de-concentrado-de-cobre-para-negociar-mejores-contratos-noticia/",
-        "image": "https://gestion.pe/resizer/v2/3PNHCIT4U5B63JF7BNY7AC6N5M.jpg?auth=38bac6c95fe1c2c66b58edd402c45f1f0134d1315718e1c5a53a3d62d770463c&smart=true&width=1200&height=801",
-        "publishedAt": "2026-11-15T21:03:00.000Z"
-      },
-      {
-        "title": "GLP ante El Niño: las rutas alternas para abastecer a las regiones si se cierran las vías",
-        "summary": "Las lluvias de El Niño, además de afectar el suministro de alimentos en diferentes regiones del país tras el bloqueo de carreteras, también puede impactar el abastecimiento de combustibles en las regiones, incluso cuando el país cuenta con reservas suficientes.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/peru/glp-ante-el-nino-las-rutas-alternas-para-abastecer-a-las-regiones-si-se-cierran-las-vias-noticia/",
-        "image": "https://gestion.pe/resizer/v2/UNCAN25XNREZZPPPD46CYSD6NE.jpg?auth=5fec4787b0e60bbdcc1aa7975d2754eed77b567df5ab330e672ecb0b6141406d&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-15T20:45:00.000Z"
-      },
-      {
-        "title": "Economía peruana creció 2.43% en septiembre, pero hay 3 sectores que no pudieron “celebrar”",
-        "summary": "Economía peruana crece 2.43% en septiembre. Y, acumulado al noveno mes del año, el Producto Bruto Interno (PBI) de Perú se expandió 3.18%, según data del INEI.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/economia-peruana-crece-243-en-septiembre-pero-hay-3-sectores-que-no-pudieron-celebrar-noticia/",
-        "image": "https://gestion.pe/resizer/v2/FNNLOUWPARF3DJFEBQRNS3SVJY.jpg?auth=8e196b224d3553bf138aa3e3a2e9d7d73bd50a44618722771893073cc6c7961a&smart=true&width=1200&height=795",
-        "publishedAt": "2026-11-15T20:37:25.000Z"
-      },
-      {
-        "title": "Minería informal: queda al voto en el TC decidir si es inconstitucional prórroga del Reinfo",
-        "summary": "Parte demandante cuestiona que proyecto de Ley MAPE podría mantener el régimen que permite impunidad de mineros ilegales",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/mineria-informal-queda-al-voto-en-el-tc-decidir-si-es-inconstitucional-prorroga-del-reinfo-noticia/",
-        "image": "https://gestion.pe/resizer/v2/TS62LKIH7REQZLLZSYCGGMTNNE.jpg?auth=ee7451c8af220cd3812be1953aa3cca666a039758b70e3af497fafadd3a7a41d&smart=true&width=1571&height=893",
-        "publishedAt": "2026-11-15T20:00:00.000Z"
+        "publishedAt": "2026-11-16T01:51:52.000Z"
       },
       {
         "title": "“Hay una nueva percepción de que se puede invertir más en Perú”, la mirada del Banco Mundial",
@@ -143,7 +95,55 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/banco-mundial-sobre-peru-hay-una-nueva-percepcion-de-que-se-puede-invertir-mas-en-peru-noticia/",
         "image": "https://gestion.pe/resizer/v2/TIONKBFJDREA5NOE6QKIX7LBFU.jpg?auth=6a85e7bef53d901860046a8b1a437daba51de2fc3bbf331827a89f7fe7ac6dc5&smart=true&width=1600&height=1067",
-        "publishedAt": "2026-11-15T18:10:49.000Z"
+        "publishedAt": "2026-11-15T23:45:00.000Z"
+      },
+      {
+        "title": "InRetail adelanta compras por El Niño: Plaza Vea, Makro e Inkafarma se preparan",
+        "summary": "InRetail, el brazo de retail del grupo Intercorp, está tomando medidas para proteger el abastecimiento de sus negocios de alimentos y farmacias ante los posibles efectos del fenómeno de El Niño. La compañía adelantó compras de inventario en su operación farmacéutica y prepara nuevas adquisiciones para su negocio de ali",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/dueno-de-plaza-vea-adelanta-compras-ante-el-nino-y-espera-mantener-crecimiento-en-locales-noticia/",
+        "image": "https://gestion.pe/resizer/v2/AQWP62BP7FEEZDBHZYSIOUHBTY.jpg?auth=cd3667168cc4a299bb65db7fd09730211d8002971e8482c51e7ee5042b6bf015&smart=true&width=600&height=353",
+        "publishedAt": "2026-11-15T23:30:00.000Z"
+      },
+      {
+        "title": "“Preocupa que Perú se quede con un piso de gasto enorme que no se pueda revertir”, analiza el CF",
+        "summary": "Alonso Segura, presidente del Consejo Fiscal, insistió que el cambio a las reglas fiscales por El Niño es necesario, pero dio observaciones sobre los ajustes vinculados al gasto. Aquí los detalles.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/alonso-segura-del-consejo-fiscal-preocupa-que-peru-se-quede-con-un-piso-de-gasto-enorme-que-no-se-pueda-revertir-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CC3JPLDPLJA3JKZ5YWKJTIJN6I.png?auth=e60ad70494134142340a0dad86e25473fb46936987ff3096c574a8c63e9f8b09&smart=true&width=1536&height=1024",
+        "publishedAt": "2026-11-15T22:45:00.000Z"
+      },
+      {
+        "title": "⁠Metropolitano “arrancaría” etapa operativa en 2027: ¿qué sucederá cuando se concrete?",
+        "summary": "David Hernández, presidente de la Autoridad de Transporte Urbano para Lima y Callao (ATU), comentó a Gestión que las negociaciones con los concesionarios del Metropolitano ya están prácticamente cerradas. ¿Qué más falta para que operen plenamente? Acá la respuesta.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/metropolitano-arrancaria-etapa-operativa-en-2027-que-sucedera-cuando-se-concrete-noticia/",
+        "image": "https://gestion.pe/resizer/v2/WVD7WKEJKJBNJIUJDTAC4E5Y24.png?auth=0ff1e8516bc6f9d8ca2cd4cd2b8a5d4e89c775984657bcf228dabcf8cc702fc4&smart=true&width=1672&height=941",
+        "publishedAt": "2026-11-15T22:30:00.000Z"
+      },
+      {
+        "title": "Patrimonio familiar: ¿cuánto puede costar no profesionalizar su gestión?",
+        "summary": "Gestionar el patrimonio de una familia empresaria no implica únicamente decidir dónde invertir el dinero. También supone establecer reglas para tomar decisiones, separar los activos personales de los empresariales, preparar a las siguientes generaciones y reducir los riesgos derivados de concentrar la riqueza en un sol",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/patrimonio-familiar-cuanto-puede-costar-no-profesionalizar-su-gestion-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CSITDR4HBFGXHPTJS3UCJZAANU.png?auth=1f325efa4891a10c88c4fdcacf89ae4f77130d7f8917b4f96a804e5bee12a32f&smart=true&width=1200&height=675",
+        "publishedAt": "2026-11-15T22:15:00.000Z"
+      },
+      {
+        "title": "Machu Picchu: turistas ingresarán gratis hasta fin de año y estos serán los precios en 2027",
+        "summary": "Machupicchu tendrá entradas gratuitas hasta diciembre de 2026 y nuevas tarifas desde S/ 3 en 2027. Conoce cuánto pagarán peruanos y extranjeros.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/machu-picchu-turistas-ingresaran-gratis-hasta-fin-de-ano-y-estos-seran-los-precios-en-2027-noticia/",
+        "image": "https://gestion.pe/resizer/v2/VGFQ6OXE5VGDTGAMWBLOCJ6KDE.png?auth=b4998541661da6b7cb93f222f5836bd97650194cfe60fee7e90dd9c6d474ea88&smart=true&width=902&height=619",
+        "publishedAt": "2026-11-15T22:12:46.000Z"
+      },
+      {
+        "title": "Grupo Carsa: la expansión que alista en Lima tras su cambio de dueño y unificar sus marcas",
+        "summary": "Grupo Carsa cierra la unificación de sus marcas y proyecta ventas por S/ 500 millones este año. ¿Cuántas tiendas abrirá en 2027 y qué peso tendrá Lima? Su gerente general lo detalla.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/empresas/grupo-carsa-con-nuevo-dueno-y-una-sola-marca-va-por-mas-tiendas-en-lima-cuanto-crecera-noticia/",
+        "image": "https://gestion.pe/resizer/v2/CY35CV7FFRGW7JWBBHTJOKELVY.jpg?auth=3759c400dfab34661a744511af333b18e96d05c437c14d1ea837f9bd5321252e&smart=true&width=2048&height=1274",
+        "publishedAt": "2026-11-15T22:05:00.000Z"
       }
     ],
     "sociedad": [
@@ -156,20 +156,20 @@
         "publishedAt": "2026-11-15T18:45:05.000Z"
       },
       {
+        "title": "Seis detenidos por atracar una joyería en Toledo mientras los efectivos atendían el accidente ferroviario de Urda - lavozdelsur.es",
+        "summary": "Seis detenidos por atracar una joyería en Toledo mientras los efectivos atendían el accidente ferroviario de Urda &nbsp;&nbsp; lavozdelsur.es",
+        "source": "lavozdelsur.es",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZnVtU0c0NGlJT1gwQ1VKb3RJVEJKcUhvUW5ld1B6TXg2TlJodmN3ZFVRLUlSc3UwaWUtUUFjZ1h6eVlvWUNTQmd0Q0tJTUdEZ0Q4SXRtaWlNUUgxSGthX2RaZW5ZT2F4UXRqcnNPWUxhSnl2RnY5c0EzVV9Fb2RlSUZwalVtWWhHNXU3UEJKOEhGRFdnQVpGTnhYWFZhSEdESmRGMUREODdNUENuSUlXd0VmQlJNYVhTOEtVdTFhSk9xSmdoT0xjelNuTWFZX1A3MmZwVDhKWWZVR2dTQnJ2NTBHT0h6LVF3QzRQRmpjU21ndVhpN0V0eg?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-15T16:41:16.000Z"
+      },
+      {
         "title": "Más allá del acceso: el reto es convertir la inclusión financiera en desarrollo - eju.tv",
         "summary": "Más allá del acceso: el reto es convertir la inclusión financiera en desarrollo &nbsp;&nbsp; eju.tv",
         "source": "eju.tv",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVVBDcE5tZGFCYTdDc2Vxb3lfaS1iTG9UV19SWjN3MlA0aE9uVVNkR0w1LUczSERjdzdrSmpURWdxalIyQlg2eVFzVHRDS0Y5eVEtaTVaWk1KV1lEQWZxaG5reTh3aWdaV3FzQ3M4N3JHVWtabVhZdTkwcDBRcEtMN28wUEpjTkJibG1jbnYya0xTSnFWbVhGZ2pPQV94X3Y2bUhMQQ?oc=5",
         "image": "",
         "publishedAt": "2026-11-14T22:26:26.000Z"
-      },
-      {
-        "title": "Hablando Braavo | ¿Casa o casco? - Evidencia.pe",
-        "summary": "Hablando Braavo | ¿Casa o casco? &nbsp;&nbsp; Evidencia.pe",
-        "source": "Evidencia.pe",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9US3ZUcktZcDNfblQzaDhLTHdnVkdndHlPTjhkWmtDQnI0bjdSTnNfd2xwY1NkNWZKcG1DZHJSSjJPemhLS1dKeHRwdXNjRUU5QmFOcDVuQnRnRF9wOHpF0gGzAkFVX3lxTFA0d1lMeHRmd2xFY1lXbUhsYmoydm9rbUlwYXpzVG5ROC1USjNMTnFRZ3J1ZWJZa25Uak55T25YTVNJNTRBbDl1bzFkSFNHR2o2OFExUHJqNXdHdHlZeENuYWtsZ0JsUVBRMFkyMXZ0TXdTVXUxdTA0LTJfZUNfdHZrSEpyMnpXaDE1VHBmOUVDand4cHdwVV9BMkFYbi1vbHlsclVDeFJIdTJvQ29iZGZoSEVvQVJNakozckZMZmo5ZU5kcFByYzBnT3FzeXZ6Y2VWUGNvZ0R0TDBXRmhiemZCSzVyN1hWcHVtWWRUb0lzZVQxSGFLNmZ6X09OU3JiZzRGaXNGRkZrWGpocngzYnVfejRQSDdTYUVIQ3JhX2RBX3ZtQUZQM3E3VHZrWFFEY1dhUDA?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-14T16:39:39.000Z"
       },
       {
         "title": "Educación - Desarrollo Sostenible - Welcome to the United Nations",
@@ -213,6 +213,14 @@
       }
     ],
     "negocios": [
+      {
+        "title": "Perú ocupa el segundo peor lugar entre 27 países por trabas burocráticas para abrir una pequeña empresa - Business Empresarial",
+        "summary": "Perú ocupa el segundo peor lugar entre 27 países por trabas burocráticas para abrir una pequeña empresa &nbsp;&nbsp; Business Empresarial",
+        "source": "Business Empresarial",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaWtqelN0eFdPbEdtdW9sVG9QYTRPM3NxUWpYbVdURFM0NTV3d0hCS19TTE1CSVJpay1HeUhHdzRDRWpDVEdCRjFpanFuRUpXcVd0eHdwZWhkNXRMY3JVWXRWUFVLbjVVWkhEbGhCc1o1a2NmUmRwV0Fxa2ZqdjU2ek9mZWVlNFFPVW9qTGxoVDZkdHJzdnJLOVNIV044cWRmMkdXOE5yQ1VHVWs4c25ZNUlBc1VZejVVZDJrQ2dfc2NUVjVWSFYzRTZPbVhhS205aldKcUI1TUlXbVE?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-15T21:49:22.000Z"
+      },
       {
         "title": "Army Driver: APP peruana inicia operaciones de transporte seguro con conductores con formación militar - Business Empresarial",
         "summary": "Army Driver: APP peruana inicia operaciones de transporte seguro con conductores con formación militar &nbsp;&nbsp; Business Empresarial",
@@ -268,14 +276,6 @@
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa3l6cnJyM1o0eTRtWVJGNWlyTFlYOU85ZGZEaXlrSUxJWm43a2RJV3V5MFp6T255S1B3S0lfUEpJQzlhc1JJQUlYSEdZVndZTktoMGphbkhrdHVkLXlNSnlReHB6aWp4SUxJM1J6WmpOZTZRTWZicTBfWC1HT1RSbzkwYUQ4S0Q2blNoUjBxLTljR0VRblRJTVpGWmwxQng2dkpjZDhGNTJRZlljMl9aSA?oc=5",
         "image": "",
         "publishedAt": "2026-06-11T07:00:00.000Z"
-      },
-      {
-        "title": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión - Infobae",
-        "summary": "¿Quieres ser tu propio jefe?: estas son cuatro opciones de emprendimiento que puedes iniciar con poca inversión &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjh6Vl83aDZGTWZLY0p3Ym52X3luaGtMdC1ScHg4cE5xOXZ6ZzFycXBmeVN2NVRGMDRsSV91RmNXTWlUYWhDcEwyMVpLZWhMSU5UbnBlelctb2FxVXlRTHZ1SmozUGdlU0VqYk5BRVpHMGFKSl90UXhrT1MtMmozYlVFd1lVQjNzNGt1ZWgwWTBJMmQwLWlHMW1IM1VuRnN6V3VYV2VqRnNvTTBHU01tSHJvcUhBUGR3LXAyNzBDeDdYWGI5TVFBbHFKZzVFRnlpSnA0RzhfRXFfNEhPd2lUV054b9IB_gFBVV95cUxPeHNWNHhIVzBKWnc0VXdVYkM4UlJMaXBqSWd1WlZzSkJ5Z1RUMWFsY1htM3kxa1NRUE9nQ19OQVd0NERFYlI1QUdDckFBSnNvT0lmTEgzYWdUVWhMZm02QWhwWDVfNFZtRlBkS3ZMcm1lNmtfOW8tOXJDR3V2SHdXdms5MjMyblhubDEzaWtfRUNfakRBTWczZzFzNUFxdEI0Y1pzSzM0SWlBMm1FUWlOcGxGODA5S3RWSzdBb0gxRmJBdmFRd3BDTzN4TFZ0ZUU1eDZ2ZE0zMF9LVUNCQ1ZKbjQ3QVBoOUtMLVdmOVBxcEFaMHJpMG5kMFRpcHN3Zw?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-10T07:00:00.000Z"
       }
     ],
     "ideas": [
@@ -302,6 +302,14 @@
         "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOMnVPNFhFSXc4Y2JLU2lfM3V5c2ltUHMwQm9sM2I2R3ktei1XUkJxNXJLUzgwMEFGSllUcF9fTEVueU80NFhoWnZRUTVLME9PZXBpRy1DMW9zTjlybks0U2hEVTdVNVZPd1BMMmg4d01mSE1yVnhnRnJxRFRuTG1XQUFGSnBwSHZlTERVTU9SNmp0dTAwTVhDdi1GTmwyVFZiZ2VucmRFYmtXdk5sQ1lPbnlMS3pGdndyNVVwUGppaWFtSDF3QVpfQ0xGWFNnNnFHYnBPd0NuS2RLZGcwLVEtcXdtczhQY3dBLXVyZXc2b1JvZTNyaTBlVHBkeFpfX3NIY3hZNFlaUzRmYnAtRjNnbWYyUDFKTk9BRHRNSkgtRQ?oc=5",
         "image": "",
         "publishedAt": "2026-11-10T15:15:50.000Z"
+      },
+      {
+        "title": "TECSUP Trujillo fortalece su vínculo con los colegios con 32 convenios educativos - RPP Noticias",
+        "summary": "TECSUP Trujillo fortalece su vínculo con los colegios con 32 convenios educativos &nbsp;&nbsp; RPP Noticias",
+        "source": "RPP Noticias",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTHFPTGhydFoyWWdXTTRCOXpDZVRhS1A2YnhER2JINDY3MFpxNHlKNTNDTm4zMDE5TnUtWFJoX2pQaW5oZ2Q5Z0kyNENFcTdDTG9ieDNnNWYtUmlpVmZBdGdUSm9EaUJ6RE9BdV84ZFJmODFTSkV5dFQ2QzhJeUtqRGJEbXVNTW5TOFc1QmZYeTNma3dIT3BTS3I4d00zRHpRbDhQUDBKYmlWQTVuTTE1cDYyWHZ4YXdidDQ5Q2JSLWxWdW5oTnFGcHlxdjcyRzJvYndZ?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-28T07:00:00.000Z"
       },
       {
         "title": "I Convención Nacional de Innovación Pública y Transformación Digital - Plataforma del Estado Peruano",
@@ -334,14 +342,6 @@
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd1l3UjlBcXZfbXZPWG1QNHBaUDNWTkxfc2FJbkhZZG9fRXl6emhTVzBvOVBvZS1pQ0hCZjg1bUQwemdOWkZNOHRtNTlHUGJnaERLOUZjQVZnOTUtd09kS3FfWUpxQ29RMTVxWmphVmNfa0hmeUdfejJvSjdpRGRBR0F2UnA?oc=5",
         "image": "",
         "publishedAt": "2026-08-12T07:00:00.000Z"
-      },
-      {
-        "title": "Moquegua: Southern Perú promueve innovación escolar con FABLAB en Torata - Rumbo Minero",
-        "summary": "Moquegua: Southern Perú promueve innovación escolar con FABLAB en Torata &nbsp;&nbsp; Rumbo Minero",
-        "source": "Rumbo Minero",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNjM4OFhUMjFEZ0xoUW1Cc2ItSHI1dERZVTV5bjRCdUdSeVRuX1pLaGtnamZUUFVoUUotRkwwU05mVmFTS0RMcU5vbFR0WTIxLWdNVWhOQ21nWk5KcU5kV2JYR05IeHYweV9JMlV3MmJCbVBBOWVUYk1NdVVFV0w4emUzYjI2b2VuWHNCa2pMUVM2QQ?oc=5",
-        "image": "",
-        "publishedAt": "2026-06-17T07:00:00.000Z"
       }
     ],
     "ia": [
@@ -352,14 +352,6 @@
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tRjZCcGhGZWRWQkViUnRkRHhvMERldmFaQkRPU21DdEl4a29SellzZjNiSVJOck83dTFITmVscEFER1I5QWtDS1F5eHU4M1hYek5rcTNTOUVWYXhfX1lxemJIVUxtcXEtSUI0VWt1di05RWZ0R2NEVjRNMkdxTVk?oc=5",
         "image": "",
         "publishedAt": "2026-11-14T20:20:44.000Z"
-      },
-      {
-        "title": "IA para la salud: AWS destinará USD 100 millones en tecnología - La República",
-        "summary": "IA para la salud: AWS destinará USD 100 millones en tecnología &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVDNfdmVxUHgtdEJkNVZlc1RuVXRrVHRaQkhwSnVEVDBQX0h4eTJOQjdEZWNYcG81NGNOdmgwYU1yLXpIaWtwSkI3NWZuTW96RHRKZG9BY0xjZF9WaXVfa09EV2paaUdtYzFmWnRyaVJKVnVXSjhEVDRkM1Y4dThEeTFmZEJqRVZwamNuenBWSTRzbXBvS0YzUWVZLUhIVlRkNHpPdTZOMlhSOHJFOFhSUF96a2dCOHAyNk9ZeUpDczQwQnIzMU1UMlRSQW81eGF3bkI5eHZIMGFOVVk?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-13T23:37:31.000Z"
       },
       {
         "title": "Perú está expuesto a la dependencia tecnológica. Intelectuales reclaman una estrategia nacional de inteligencia artificial - Diario Altavoz",
@@ -408,6 +400,14 @@
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWU9QeVVMZWZqNkUtQXdqcjB3YXFvWERHQ0pDZ0RtSUdoUktaRk1wcENGWENlanFfRlljS0NHVTdnWEgxOUpkYWphRXdqa2RSTWF6SW8xSmhBRmdBZElfb1oxcWdSRGZzalNJaFQ0bDN6TzhHOFJTN01ORHdmaUJCcHMyTHp2Wlh4YVRPUExEZDNQRm1wWnU4d1FjeE1kNjRYZlk4dlJuNDhiMzlqZzVmSGdSX2QtT0Z6SEdGSzFsM0NVb0E0Y3pJWQ?oc=5",
         "image": "",
         "publishedAt": "2026-07-13T07:00:00.000Z"
+      },
+      {
+        "title": "¿Por qué falla la inteligencia artificial en las empresas? Las claves detrás de la frustración corporativa - Infobae",
+        "summary": "¿Por qué falla la inteligencia artificial en las empresas? Las claves detrás de la frustración corporativa &nbsp;&nbsp; Infobae",
+        "source": "Infobae",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSGk3YmZ4cUZ0WkVpZXY4SElDQjJfQk00dGV2UTJOYzVpME9FZVhYb3hBTXp6VVpTQ1dveWp0VmdZVHViSERKRzJVVWxzVFRuZmRJQUlYOXpiejBjdXJiYWFQWjVoV21pa2w5MlRqZGQ1eTM5TmNwSUJiZHR5MDJXZmJYbTVxanNXbU1oV3NCUXpLQ25nbGdtaVBVVkVKTmlDOV8zbnU5RU0yc2x5cXZwWHVTYUpkbkdNNHFSdk5YRVZGUVBIRGczd2RjaTMzZzd2cmFwQ0Q1ZnFaUFEyUlHSAfgBQVVfeXFMTkpnZktLYVBWUko5WlV3dDcwdUYxYndEbjhVdjhhdDh0TG5HXzlfdDNWVzhHci1uMlFjM25XdEx6RTFZWWJObS1aUG5KUnR3ckZSNDNmd0pqTHhuMXh5Q3pIRW9SVHdEUzkzR29LcTY5WmlXNU1FVzg3WlRiRkFUOTV0YmZWYmJveWg1N1JPMXBTLUZwREdjXzlmdkJlY0lGQ0JmbHQ4eWxpbkhRWUhYdEtVd3hkRkJpYS1ZVzJEQ29ETUI0T2xSMXpvekRORUQ0am1kTnhibU5pN2tSSEItV09GaU9wczEtZkdnbVBWaEJfTmd6aWd0enY?oc=5",
+        "image": "",
+        "publishedAt": "2026-06-20T07:00:00.000Z"
       }
     ],
     "tendencias": [
@@ -478,6 +478,14 @@
     ],
     "farandula": [
       {
+        "title": "Conciertos en Perú 2026: fechas, artistas, lugares y precios de entradas - La República",
+        "summary": "Conciertos en Perú 2026: fechas, artistas, lugares y precios de entradas &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNkhLSXNGS3ZXcWUzcFh5eGpQM3h0ZUxDYXVtRXlXc0pVeVM3c19IU2E2cmdvZ2llZmVXQkxKME9HUkJyMmRsUEdlb3I5dmk0UGhuWWJPRVlSRGlIZGFGVFpSWWxRN2hJazdaaWxXbHpWQjVjNkh1eGFEYm1udEFEWkVTUFR3ZXgxWEVIdUd1QlVPSTZUa3VjREhQUDJ4OE1wS2V3RGxsbHVQWTdRX1gtNV9ibzB5Yk15RkZPZlF0cUlpMF9jcTFKRTdidEtjNXdkOTFvM3p0Z2NyUFI5UEQzcGtPWEJHak13UTRLRWFwVE1NMWdxVEUwWDZ1WnJVY2k2WllXT2U2RlhQbXlYLWYyQlZIQVpPbC05b2wwWUUzb01CYTDSAagCQVVfeXFMTlUyQXAxei13aVQwbmNabDBUdU9QSWM3Tm5CSmNvZVJTRDFzZUxpb3E2M1R5OUFyNXNudDhka2RHNVJ5bE1YS0dWNmFZWVgtSnlWUWR5enRUOTJxaHIzNkNMNkU3Z0llUy1Yb25YOGloZnJCOU5YbmlvMFlwSDA1UUVpLTNUR1NHS3psZzNYenM0NFNrVkotVWtlNWVXekV6Ty02Qngxcy1QX29hMTFPMTBqMkY0VEsyVU9pVl8tMlNNVVByOTR3V2N0YXB3eXdKbjc3cHFHX1hsdWhEYVQ4S0oxdVUtdDk0dlE4SVI3NW5PUzcyUzVSUWhrOVl1a19yWGdlUE9iS3RibHk2REpKNHp6TEdXZUN6aU1pcml3V2dnd2VyTVNPaXg?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-05T08:00:00.000Z"
+      },
+      {
         "title": "Rodrigo González desmiente versión de Magaly Medina y le recuerda que la ayudó a llegar a Latina: “Ella es la pionera en espectáculos” - Infobae",
         "summary": "Rodrigo González desmiente versión de Magaly Medina y le recuerda que la ayudó a llegar a Latina: “Ella es la pionera en espectáculos” &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -532,20 +540,12 @@
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTzRDT09zWS1CTk5TTXRPcWpzTGxTd253VmNxT1lYZVRMSDk5WXlld2NPLXo2b0ZwR0VxV196Um5FcFVtWTZyZ1VMMFF6NHowMl9XWDFLLWlOM1ViLTNDa19ZX3ljSkhJaFFVdU1xODRVeGh1YkdEcVlETFFCS0tfaU9SM1d1cnM5MFo2SjI3dFY3Y2ctRi1QbDFWY3A1WU1sbFZpcG5Fd040Vk5PLW5yYkg2Tk9JckV0WW51eURGUGtqRjlVbzZjS3pFSV83MUZRbzNwLWI3dnFHYWJPYUEzOHdfWGFqTkczSlVYOHpQSdIB9AFBVV95cUxNc2hNUWNpZi0tWlNsM05fa3ZoM2dJQWMtTmc0OVNxQ3NRdFJJdkd2S3BkNjRTa2tqd0tHanBFdVZkM3gzX3F4QUxYeElPUk9CUXNpNkdvWGRjR29EM0M3dDJVUzIxd1JSN0M0ZGVaR19rVlVKbFZQUE5qa09pTnFXZ0djTEZRbkNOOEpvN21YVGtsZ2ZGVUdaMk1CZXhRdEp3aHhqQUhUY3dhblMtVnpHNV95S2wyQzJvMnpoUlFlSzhyV2dJZ3VDLThKdGxXSGlxak5iNDh5UU9HY0lod3JzTWU0alpTbGVPc2hDNi1MWTlDNk9a?oc=5",
         "image": "",
         "publishedAt": "2026-09-21T07:00:00.000Z"
-      },
-      {
-        "title": "Conciertos en Lima para septiembre 2026: todos los eventos con fechas y precios de entradas - La República",
-        "summary": "Conciertos en Lima para septiembre 2026: todos los eventos con fechas y precios de entradas &nbsp;&nbsp; La República",
-        "source": "La República",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQN2t3dE0wQVRpT09kN3dmQktaTDViMEhxXzI5eDQyVWxTZ3FDNmlVMF9rVHhUejRQRkt1SHA1bmZYdWxzSnFuNzhEZUhQWGVFdE1QbjlGV3N0RG1LWTZrRm02Y0w3dTlCc0JPWjRTdHBBaFpEYndHYUNGdjc4aERId000UzdkdTBmWUF1cC1DWG1vdTVxSDdPaDJ5MzVhaDU0WUViellhX2NEUlJQdFR2RzJqNXM3V3psWUQwVk9HRmczejFzUFBxTkxaS0Y1Z0drVnEyRWFHSEtoUVlOTEdKUUExRDlkejI2ck1mLXVDcFRsLTlIWWdOVTg4SThqTndpSzVjTmNkZFE2QXR6cW9LVm1BUdIBmAJBVV95cUxNZVBScnpMYUdFeGdXck5BcWNUTGRfcG9rMEx2UHY2VDZXaFhLeFc4RzhmNzRWN1BFck4zM0RkMGxNSHlBTVFnN0RVMUdWZTM0Y29nbE1fSjBabk1DNFMwbFJRMFJBUzhEYWxkV2V4bm94VUxwY3JmVXlSRXo2NkQ2OGpBUzhCclU5ZnpWYU0tMDlNWFMySWx6dmQxSDVmTGVKTmdVMWVEOGw5TEh4OW9PLTFyWWtNYzEydHFrRVAtOWREdlFCOVh6YlB5TFNfRlRPcGpCQXVMYmpsbTRnSW5xMnA5MUN3LS13bHczalozcVdUV2tiVDZieHI4ZVoybllCZEtCek5QTXJKTmNxV3lBaHZHYXFBYjBT?oc=5",
-        "image": "",
-        "publishedAt": "2026-09-17T07:00:00.000Z"
       }
     ],
     "cultura": [
       {
-        "title": "KG Supremacía MC 2026: el peruano que se coronó campeón internacional en Lima - urbanstreet.com.pe",
-        "summary": "KG Supremacía MC 2026: el peruano que se coronó campeón internacional en Lima &nbsp;&nbsp; urbanstreet.com.pe",
+        "title": "KG se coronó campeón internacional en Supremacía MC 2026 - urbanstreet.com.pe",
+        "summary": "KG se coronó campeón internacional en Supremacía MC 2026 &nbsp;&nbsp; urbanstreet.com.pe",
         "source": "urbanstreet.com.pe",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMllpOGJrSVZLbW9zWmdSTmFsd2JCczFnM1p2N1ptRmp2RjRQYk5qUWJFZnZjYU5udW1TT0ZFZi1RMzdiUmNTNjdBdzZVaTRLQzVsWndsQlhRWnRrUko2S0xNLWhhVkFnTUMzNl8wd0dORXRydjUxYkRSWmpjWlozejU4c08xY0NsMThVTjRR?oc=5",
         "image": "",
@@ -566,14 +566,6 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yaFBUcFAzaHF0LXlvX1BZbTRtM3JIb1RBVDdXUjFPWWVRbGo2OUtzR3VLZFBBZGRtRTBZemR5SFZhUFktNmIzZ3JUQmczakxvaFMwTTZkU3JnczJaMG5wWmhpX2pQcmtJWDMtRXFROGk4N2trMzUxVVRjVVM?oc=5",
         "image": "",
         "publishedAt": "2026-11-14T15:33:24.000Z"
-      },
-      {
-        "title": "Estación La Cultura del Metro de Lima cerrará este miércoles: ¿por qué motivo y por cuánto tiempo? - RPP Noticias",
-        "summary": "Estación La Cultura del Metro de Lima cerrará este miércoles: ¿por qué motivo y por cuánto tiempo? &nbsp;&nbsp; RPP Noticias",
-        "source": "RPP Noticias",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbXVUb0c0Wm8zQXpVWXA3ZnJsZ0R2czVZaUtWV1ZTbm1ueDBTT015a1BZbVJDcXVjSTZoN1dTNndFdGVQYmVzWE5CZGktLURUTXZORWZkT1BPMUd4RmpRV2xDRGk2V0E0UElsNVpncmROSjhqLUdkOGJDYl9iUUxqMVRTRTZvMG1ZR3RMeF9sVlB4WDFXVkNTcVl1YjlPWXVnZU4tcldUeDFNVDNwOWdtUi1fSTMyZmEwT1ZUR3JrWlpPOW56SS1hZEUybWQxdzBNUFI4QUtQV3JJZw?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-10T18:49:00.000Z"
       },
       {
         "title": "Estación La Cultura del Metro cerrará este miércoles 11 de noviembre por actividad del papa León XIV - Infobae",
@@ -606,6 +598,14 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa1NLeUdOY29NMk5uLURPdzNlSnlMa09yYVZlb0FVbVhCbVlYWW1hMUlTMUFidE9SaWdaMWVXak5pV0lGak1ZT19FUi1STE9FODBIbVctd1VmcFc3c0xhUlZFYWVaNFVBMnh5S284dXdWSGlzc1JZbjQwdTBPZDEtV1FzeG12TjF1UDN5QmdvaE1PNXcxUGsyazdUdjNKTUlDS29WX21yV1QydlhDQUVvc0tlbnZuMm1zMnFGd1ZkRXVTUnlhOXc?oc=5",
         "image": "",
         "publishedAt": "2026-10-07T07:00:00.000Z"
+      },
+      {
+        "title": "Conciertos Perú 2026: ¡Los shows que no te puedes perder en octubre! - Blog Joinnus",
+        "summary": "Conciertos Perú 2026: ¡Los shows que no te puedes perder en octubre! &nbsp;&nbsp; Blog Joinnus",
+        "source": "Blog Joinnus",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObE5jdThacG00eDdmY2hBcnIyVE5QWmdEcjl6LUZGcFkzYWIxbjAyN2ZvR2FkcGk4Sk10UGFrY3JjdThVbDlRazVwaks2WTItTHRsWllENFdDWUg1R3dnQzdta095eEpobUFYSnNSWENhTl9JMXRsaGJ3SG1kSjJYTWNRRmVHalhkQ1hrajlxUm5CeEdwN1E?oc=5",
+        "image": "",
+        "publishedAt": "2026-10-01T07:00:00.000Z"
       }
     ]
   },
