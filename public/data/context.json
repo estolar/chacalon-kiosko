@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T21:23:33.359Z",
+  "generatedAt": "2026-11-19T03:20:43.283Z",
   "timezone": "America/Lima",
   "region": "Perú y Lima",
   "currentFacts": [
@@ -24,12 +24,20 @@
         "publishedAt": "2026-09-01T00:00:00.000Z"
       },
       {
-        "title": "Renovación Popular: ¿Es viable la denuncia constitucional y pedido de destitución contra presidente del JNE?",
+        "title": "Presidente del JNE defiende decisión sobre primeros regidores: “La Constitución es clarísima”",
+        "summary": "El presidente del Jurado Nacional de Elecciones (JNE), Roberto Burneo, defendió la decisión del pleno del organismo electoral sobre la calificación de candidaturas de personas que, habiendo ejercido como alcaldes, postulaban como primeros regidores. Desde el Congreso, sostuvo que el pronunciamiento se adoptó conforme a",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/elecciones/presidente-del-jne-roberto-burneo-defiende-decision-sobre-primeros-regidores-la-constitucion-es-clarisima-ultimas-apuesplan-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/P7BR5MVWNRGIVCRU7PJVMYULLE.jpg?auth=0ad39b79610ac6c7a5048b8bd6582291c0249150ca2b6256ad90b1b9efa7bfe0&smart=true&width=1200&height=800",
+        "publishedAt": "2026-11-19T00:11:07.000Z"
+      },
+      {
+        "title": "Renovación Popular: ¿Tendría futuro o no denuncia constitucional y pedido de destitución contra presidente del JNE?",
         "summary": "Renovación Popular presentó una denuncia constitucional contra el presidente del JNE, Roberto Burneo, por presunta usurpación de funciones, abuso de autoridad e infracciones a la Constitución, y solicita su destitución e inhabilitación por diez años.",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/renovacion-popular-denuncia-al-presidente-del-jne-roberto-burneo-y-pide-su-destitucion-es-viable-expertos-responden-elecciones-2026-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/MQFVVWXBM5ENLMDBAC3KFMMEM4.jpg?auth=19338c346618baf18ba475c593ed42f79316ad202219afefc1eb88430ee4d09e&smart=true&width=1200&height=647",
-        "publishedAt": "2026-11-18T19:49:00.000Z"
+        "publishedAt": "2026-11-18T23:46:00.000Z"
       },
       {
         "title": "Keiko Fujimori se reúne con Xi Jinping: el impacto del encuentro bilateral en China",
@@ -37,7 +45,23 @@
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-xi-jinping-el-impacto-del-encuentro-bilateral-en-china-apuesplan-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/5MLMFIFTJ5HNHKZWLH43TWOVXQ.jpg?auth=d5665e3e3552cb64f91dc1da005ca929fad86fc3bba4856c3b3b8e530f0b1579&smart=true&width=1200&height=647",
-        "publishedAt": "2026-11-18T19:40:00.000Z"
+        "publishedAt": "2026-11-18T23:31:00.000Z"
+      },
+      {
+        "title": "La historia de la demanda por alimentos que afronta el diputado de Juntos por el Perú, Remigio Condori Flores",
+        "summary": "",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/la-historia-de-la-demanda-por-alimentos-que-afronta-el-diputado-de-juntos-por-el-peru-remigio-condori-flores-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/Q4SPK7FU4FF2FKBE44HR5ZD3X4.png?auth=16320bd5b9e4cb3cf3bfd5f5bcab1fe3f6aa0b04032c44c292d4af37dab3e3e5&smart=true&width=1200&height=647",
+        "publishedAt": "2026-11-18T23:30:00.000Z"
+      },
+      {
+        "title": "Proyecto de amnistía para golpista Pedro Castillo empieza a dividir a Ahora Nación",
+        "summary": "El diputado César Holguín aseguró que de aprobarse la iniciativa se produciría “un riesgo muy grande” que podría generar “cierta impunidad principalmente en casos de corrupción”.",
+        "source": "El Comercio Perú",
+        "url": "https://elcomercio.pe/politica/proyecto-de-amnistia-para-golpista-castillo-empieza-a-dividir-a-ahora-nacion-noticia/",
+        "image": "https://elcomercio.pe/resizer/v2/HA5ICJO235FQ7OESR4MFCAVNO4.jpg?auth=40fe5c43696d12d9dc4876d8785a8780892198a4d27bdf575ec321e32c34233e&smart=true&width=1200&height=647",
+        "publishedAt": "2026-11-18T23:30:00.000Z"
       },
       {
         "title": "Renzo Reggiardo: “En tanto no se sepa quién va a ser el alcalde o alcaldesa, no podemos continuar con los procesos de transferencia”",
@@ -48,46 +72,22 @@
         "publishedAt": "2026-11-18T18:51:07.000Z"
       },
       {
-        "title": "La historia de la demanda por alimentos que afronta el diputado de Juntos por el Perú, Remigio Condori Flores",
-        "summary": "",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/la-historia-de-la-demanda-por-alimentos-que-afronta-el-diputado-de-juntos-por-el-peru-remigio-condori-flores-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/Q4SPK7FU4FF2FKBE44HR5ZD3X4.png?auth=16320bd5b9e4cb3cf3bfd5f5bcab1fe3f6aa0b04032c44c292d4af37dab3e3e5&smart=true&width=1200&height=647",
-        "publishedAt": "2026-11-18T18:17:00.000Z"
-      },
-      {
-        "title": "Proyecto de amnistía para golpista Pedro Castillo empieza a dividir a Ahora Nación",
-        "summary": "El diputado César Holguín aseguró que de aprobarse la iniciativa se produciría “un riesgo muy grande” que podría generar “cierta impunidad principalmente en casos de corrupción”.",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/proyecto-de-amnistia-para-golpista-castillo-empieza-a-dividir-a-ahora-nacion-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/HA5ICJO235FQ7OESR4MFCAVNO4.jpg?auth=40fe5c43696d12d9dc4876d8785a8780892198a4d27bdf575ec321e32c34233e&smart=true&width=1200&height=647",
-        "publishedAt": "2026-11-18T18:15:00.000Z"
-      },
-      {
         "title": "Senador de Renovación Popular, Edgar Mancha, sobre Jeanette Alonzo: “No conocía a la señora, en esa conferencia la conocí”",
         "summary": "En el podcast “Tenemos Que Hablar” de El Comercio, el senador Edgar Mancha (Renovación Popular) reveló que no conocía a Jeanette Alonzo, quien podría asumir la Alcaldía de Lima en reemplazo de Rafael López Aliaga, y que recién lo hizo en la conferencia de prensa que brindó su partido en respaldo a su líder.",
         "source": "El Comercio Perú",
         "url": "https://elcomercio.pe/politica/elecciones/senador-de-renovacion-popular-edgar-mancha-sobre-jeanette-alonzo-no-conocia-a-la-senora-en-esa-conferencia-la-conoci-rafael-lopez-aliaga-apuesplan-ultimas-noticia/",
         "image": "https://elcomercio.pe/resizer/v2/NA3YHPRSA5CXHMUTS43HZPVGNU.jpeg?auth=6f8436ecf2c6d1393c0e26088ad4f9c943f2b3eab875c984b33124ebfdfe2004&smart=true&width=1600&height=1066",
         "publishedAt": "2026-11-18T18:06:52.000Z"
-      },
-      {
-        "title": "Keiko Fujimori y presidente chileno José Antonio Kast conversan sobre cooperación en seguridad y acciones frente a El Niño",
-        "summary": "La presidenta Keiko Fujimori continuará este miércoles 18 de noviembre con su agenda de actividades en China. Tiene programadas reuniones bilaterales con mandatarios y altos representantes de distintos países, entre ellas un encuentro con la presidenta de México, Claudia Sheinbaum, previsto para las 18:30 horas (05:30 ",
-        "source": "El Comercio Perú",
-        "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-los-presidentes-de-mexico-chile-y-vietnam-este-miercoles-en-shenzhen-estos-son-los-encuentros-bilaterales-que-sostendra-apec-apuesplan-noticia/",
-        "image": "https://elcomercio.pe/resizer/v2/KWABPFEWRRCWXCZBQFJOJB5JNM.jpg?auth=80ec5d452ff481b0b7e37a47b96e0c3c7fdbea8ea0f81177f9b8f2a9029ad687&smart=true&width=1279&height=844",
-        "publishedAt": "2026-11-18T14:24:14.000Z"
       }
     ],
     "economia": [
       {
-        "title": "Más allá de las renovaciones: qué convierte un contrato temporal en indefinido",
-        "summary": "Los baches y las pistas en mal estado no solo hacen más incómodos los viajes por avenidas, calles o carreteras, también generan gastos que golpean el bolsillo de los conductores.",
+        "title": "Anillo Vial: concesionaria entrega S/ 89 millones para avanzar liberación de terrenos",
+        "summary": "La concesionaria del Anillo Vial entregó 47 cheques por S/ 89 millones para adquirir terrenos necesarios para la construcción del proyecto.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/management-empleo/contratos-en-empresas-las-situaciones-que-pueden-convertir-a-un-trabajador-en-indefinido-noticia/",
-        "image": "https://gestion.pe/resizer/v2/BTNQJVEUSRATXNTHPRHC7UTDGI.jpg?auth=3b91f9e6096e9dae1b0705f6a4c468b49e0e85d086750ccdd6db344a28e8e57b&smart=true&width=1200&height=751",
-        "publishedAt": "2026-11-18T21:15:00.000Z"
+        "url": "https://gestion.pe/economia/anillo-vial-de-lima-y-callao-pagan-s-89-millones-por-22-predios-para-avanzar-con-proyecto-noticia/",
+        "image": "https://gestion.pe/resizer/v2/HOQ7GLOT65GTZCUZHA2WFBM56I.jpeg?auth=f56f5fce14fbcda4be553839489107877651bf708ebeed5d3f0e4a03af386efc&smart=true&width=1600&height=900",
+        "publishedAt": "2026-11-19T03:15:00.000Z"
       },
       {
         "title": "Canon y regalías: distritos “más ricos” tienen S/ 2,600 millones por invertir, ¿cuáles son?",
@@ -95,15 +95,7 @@
         "source": "Gestión",
         "url": "https://gestion.pe/economia/canon-y-regalias-distritos-mas-ricos-tienen-s-2600-millones-pendientes-de-invertir-quienes-son-estas-municipalidades-noticia/",
         "image": "https://gestion.pe/resizer/v2/L6PHXHVQIBCO3FFDG3QCLWCPHY.png?auth=c9c80df2a4e70281712654dfb9eedb26efc24d4ff10644191c0af3b5f20afc68&smart=true&width=1672&height=941",
-        "publishedAt": "2026-11-18T21:00:00.000Z"
-      },
-      {
-        "title": "Prohibirán el teletrabajo a tiempo completo a la mayoría de empleados en el Estado",
-        "summary": "El proyecto de decreto del MTPE amplía estas prohibiciones (resolución ministerial Nº 352-2026-TR). Sepa los detalles.",
-        "source": "Gestión",
-        "url": "https://gestion.pe/economia/management-empleo/prohibiran-el-teletrabajo-a-tiempo-completo-a-la-mayoria-de-empleados-en-el-estado-noticia/",
-        "image": "https://gestion.pe/resizer/v2/PDHLWAJIJNGJFBGN3CJGBWR4YQ.png?auth=5087bfb651fb99a39d69c94d5a790b2058360ae6b42c5011f485547c0ef491f6&smart=true&width=1005&height=668",
-        "publishedAt": "2026-11-18T20:59:00.000Z"
+        "publishedAt": "2026-11-19T03:00:00.000Z"
       },
       {
         "title": "“Factor miedo” se instala en mercados de crédito por tasas altas",
@@ -111,39 +103,47 @@
         "source": "Gestión",
         "url": "https://gestion.pe/mundo/internacional/factor-miedo-se-instala-en-mercados-de-credito-por-tasas-altas-noticia/",
         "image": "https://gestion.pe/resizer/v2/ZZDKMOLXKRFAVBWJCQCB5XXH2U.jpg?auth=9d9997d6be19b1b30bf52cc2cf3ada1e5338bf8f460e9eb204e03489c06f5967&smart=true&width=1200&height=800",
-        "publishedAt": "2026-11-18T20:51:05.000Z"
+        "publishedAt": "2026-11-19T02:47:00.000Z"
       },
       {
-        "title": "El Niño: concesionarias serán clave para que Servicios por Impuestos y OxI Exprés despeguen",
-        "summary": "Como contó Gestión hace 2 semanas, a pesar de haberse lanzado en septiembre, las versiones simplificadas de Obras Por Impuestos (OxI) y Servicios Por Impuestos (SxI), aún no rinden los frutos esperados. Pero ProInversión, su promotor, parece haber encontrado una solución: convocar a los concesionarios.",
+        "title": "Prohibirán el teletrabajo a tiempo completo a la mayoría de empleados en el Estado",
+        "summary": "El proyecto de decreto del MTPE amplía estas prohibiciones (resolución ministerial Nº 352-2026-TR). Sepa los detalles.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/el-nino-concesionarias-seran-clave-para-que-servicios-por-impuestos-y-oxi-expres-despeguen-noticia/",
-        "image": "https://gestion.pe/resizer/v2/FITMVBNSE5HJFLHS6HXER2TFEY.png?auth=d090564b1d303413d328ff0fcd271872711c4a0caa84a2435f74567f37afdf3a&smart=true&width=1672&height=941",
-        "publishedAt": "2026-11-18T20:45:00.000Z"
+        "url": "https://gestion.pe/economia/management-empleo/prohibiran-el-teletrabajo-a-tiempo-completo-a-la-mayoria-de-empleados-en-el-estado-noticia/",
+        "image": "https://gestion.pe/resizer/v2/PDHLWAJIJNGJFBGN3CJGBWR4YQ.png?auth=5087bfb651fb99a39d69c94d5a790b2058360ae6b42c5011f485547c0ef491f6&smart=true&width=1005&height=668",
+        "publishedAt": "2026-11-19T02:33:00.000Z"
       },
       {
-        "title": "Pastipan cambia de dueño: grupo detrás de Boticas Perú y Kio compra el 100% de la cadena",
-        "summary": "Grupo Yrsa, dueño de Boticas Perú y Chicharrones Kio, compró el 100% de Pastipan y entra al negocio de panadería y pastelería con una cadena de 17 locales en Lima. La venta, de monto no revelado, concreta la salida del fondo Fortaleza I de Macrocapitales, que tenía a la empresa entre sus desinversiones pendientes.",
+        "title": "¿Tu DNI ahora en tu celular? Reniec presenta versión digital del documento",
+        "summary": "Según informó Reniec, el DNI digital contiene la misma información que aparece en el documento físico. ¿Cómo obtenerlo?",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/macrocapitales-vende-pastipan-al-dueno-de-boticas-peru-y-chicharrones-kio-los-detalles-noticia/",
-        "image": "https://gestion.pe/resizer/v2/LP3RRQP7PJBWFPFMMFTHXVBPSY.jpg?auth=54a013137691211bc0e9750b5628621e8bc681be3627c78b48d04e648dc9e231&smart=true&width=600&height=406",
-        "publishedAt": "2026-11-18T20:33:25.000Z"
+        "url": "https://gestion.pe/economia/tu-dni-ahora-en-tu-celular-reniec-presenta-version-digital-del-documento-noticia/",
+        "image": "https://gestion.pe/resizer/v2/V2F3YERRX5CP5OB22TI5JZEJVU.png?auth=522cea59d02333a3480a1426664444c0359a14e82aa904638953a1729935cadc&smart=true&width=1672&height=941",
+        "publishedAt": "2026-11-19T02:24:33.000Z"
       },
       {
-        "title": "Casa Andina suma un quinto hotel en Cusco y amplía su oferta Premium",
-        "summary": "La cadena de hoteles Casa Andina amplió su presencia en Cusco con la apertura de Casa Andina Premium Cusco El Mercado, su quinto hotel en la ciudad imperial y el segundo bajo su marca Premium. El establecimiento cuenta con 32 habitaciones y está ubicado en una casona del centro histórico, a minutos de la Plaza Mayor de",
+        "title": "AFP: ¿cuánto más tendría un trabajador si su aporte previsional baja del 10% al 5%?",
+        "summary": "El Ministerio de Economía y Finanzas (MEF) evalúa reducir del 10% al 5% el aporte previsional de los trabajadores de menores ingresos en el Perú, como parte de una reforma laboral que busca incentivar la formalización en las microempresas. La propuesta fue anunciada en noviembre por el ministro Elmer Cuba y sería prese",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/casa-andina-cadena-de-hoteles-suma-un-quinto-hotel-en-cusco-y-amplia-su-oferta-premium-en-esa-ciudad-noticia/",
-        "image": "https://gestion.pe/resizer/v2/AZQBRXHHBNF3ZJGLOUT4DO4TO4.jpg?auth=472f22ffa233a7fab762ae7fb0e3e01fb2787ea2432177ba48d551cc18650087&smart=true&width=1200&height=669",
-        "publishedAt": "2026-11-18T20:31:37.000Z"
+        "url": "https://gestion.pe/peru/afp-cuanto-mas-tendria-un-trabajador-si-su-aporte-previsional-baja-del-10-al-5-noticia/",
+        "image": "https://gestion.pe/resizer/v2/ABNZ47HZ5NE7LFUEL2U5AOYM2E.jpg?auth=47024e8f2163ea9d9b3df5178ea14c873c6a354dd9d0970ee72524bd9d1afcdf&smart=true&width=1200&height=795",
+        "publishedAt": "2026-11-19T01:15:00.000Z"
       },
       {
-        "title": "Minera Poderosa gana 26% menos pese al alto precio del oro: ¿qué golpea sus minas en Pataz?",
-        "summary": "Minera Poderosa mantuvo su inversión en Pataz entre julio y setiembre, pero la menor ley del oro golpeó su producción ¿Cuánto cayó su utilidad y cómo resistieron sus ingresos?",
+        "title": "Pesca e industria “remarían” hacia terreno positivo en 2027, pero agro aún deberá esperar",
+        "summary": "Perú ampliaría su déficit fiscal a 2.5% en 2027 para financiar gasto contracíclico a causa del FEN. Álvaro Monge, de Macroconsult, analiza el alcance.",
         "source": "Gestión",
-        "url": "https://gestion.pe/economia/empresas/minera-poderosa-sube-a-us-123-millones-su-inversion-en-exploracion-pese-a-menor-ley-de-oro-noticia/",
-        "image": "https://gestion.pe/resizer/v2/LMFOBUF5TBEW7BKKD3V5ZGNKNU.jpg?auth=730ce1752b979bed065086deef909b035db33b587596a65be5f9b08e6887e4ef&smart=true&width=1200&height=703",
-        "publishedAt": "2026-11-18T20:30:44.000Z"
+        "url": "https://gestion.pe/economia/el-nino-pesca-e-industria-remarian-hacia-terreno-positivo-en-2027-pero-agro-aun-debera-esperar-noticia/",
+        "image": "https://gestion.pe/resizer/v2/REBGKNARZVFCFMMGHF7LS6OUEE.png?auth=04103f4078b4bfcdacd9380f5a8a2a85b7fc50f3d28fb9d0d6f81f58360cf8f6&smart=true&width=1200&height=800",
+        "publishedAt": "2026-11-19T01:02:20.000Z"
+      },
+      {
+        "title": "Sunafil: ministro Sheput anuncia que buscarán “reformular” al fiscalizador",
+        "summary": "El ministro Sheput habló del programa de empleo temporal, Llamkasum Perú. Espera que en el primer trimestre del próximo año puedan aumentar los recursos.",
+        "source": "Gestión",
+        "url": "https://gestion.pe/economia/sunafil-ministro-juan-sheput-anuncia-que-buscaran-reformular-al-fiscalizador-laboral-de-peru-noticia/",
+        "image": "https://gestion.pe/resizer/v2/BPY7J44B2ZGQRDO3HUYFJ2RJJI.jpg?auth=df03d95092ba7003a43a4367597652187b907366d9b0f795404dbe43ff624eee&smart=true&width=1200&height=800",
+        "publishedAt": "2026-11-19T00:57:28.000Z"
       }
     ],
     "sociedad": [
@@ -164,12 +164,12 @@
         "publishedAt": "2026-11-18T18:08:25.000Z"
       },
       {
-        "title": "Argentina presidirá durante un año la comisión antidrogas de la OEA - Infobae",
-        "summary": "Argentina presidirá durante un año la comisión antidrogas de la OEA &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN0d0WXIzblcwZWktZVVUVzQ5R29Na2h0TVlDMUJWeWczX3pGV2xscG4xLUNjMmdfbHRsUVJvNUs5anM5RUNDN2Vad2JPLURJLTJNZENyaTZRM1hSRnAydnp5SFFTek96SXJ4MDN6c3AwVFAyYldmbFRzVnlRdDZVWS1peEh5aDNTVFNremNxcUJhaTZ1X0xFZWJKcm5qVjFfcUJlaFFvV0d6Zk9BS25la3hn0gHMAUFVX3lxTE5Edk1Gb3NlcE9tQ3IydDA5OTdicmxyYVVUdTN3MDE5dUdvdXhLMEdQTTZtOTIxLU56RTNoNVZ3UnVyeVptRWtuTnRyZjl1ZHZMSDR6bjJNMElyR3dqUzdWOHhveGRnQzRxWGh0TE05YzVPUEN2N0cxSUpoXzlnTmVQXzEwTzZ0MDQ2TW9NWjloWkFPQ2VGc1lfa2M0Z2NVVW9PRzc2Uzdtd0xDUHhrSkpERW52X24wV05VYk1JTTRGTTBhVU1KQ1R0d0pPSw?oc=5",
+        "title": "Devolución del IDH sumará Bs 8,5 millones para Sucre - Correo del Sur",
+        "summary": "Devolución del IDH sumará Bs 8,5 millones para Sucre &nbsp;&nbsp; Correo del Sur",
+        "source": "Correo del Sur",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQk1uajFBVmtaYllFWnFXejhQUlRwTnVVUFRBSHZiSnlMZG5TNTBTYm4tTGNibDFzeHBkdTNVMWdlU1lRWWc1Rjh1ZnFXSVNtUmNpNHdxV1llVjZuRWZ1TUc2TEt3aHp0Q1Byc0FOZl80VEtVQ3lSN3JOSS0wcGZDNHctRGdKOXgwZEVYODllUlp6RDdiV2I4LTlJMVNYalJYV0E?oc=5",
         "image": "",
-        "publishedAt": "2026-11-18T16:36:00.000Z"
+        "publishedAt": "2026-11-18T10:37:00.000Z"
       },
       {
         "title": "Nuestra necesidad de formalizarnos; Por Carlos Gálvez Pinillos - CanalB.pe",
@@ -214,20 +214,20 @@
     ],
     "negocios": [
       {
+        "title": "Fernando Eguiluz, CEO de BBVA Perú: “Mi primer emprendimiento fue un negocio de agua embotellada” - Gestión",
+        "summary": "Fernando Eguiluz, CEO de BBVA Perú: “Mi primer emprendimiento fue un negocio de agua embotellada” &nbsp;&nbsp; Gestión",
+        "source": "Gestión",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbjBIUUgzOE1hX3lTVUpNd2pLNnhmcnVCLUJwZWpONkRrSEV5YjR6UFFUSnZwbGNPYWRBblJHcUZlcWI5N2R0c2U5UWVSZ1ZTaThVSlM3eG5MVEpGM2VWV0tNdVF1T051Q09FOHFpdmJDRFNoY3Q5WWZucWZwbjdIazN6RGQ4Z25YbTVGYjgtMTNXa1NscHlnbmI3WGJqenc4eGxLN3pZaGN2bHlxbjdjWFFWMWpLUVVkYjVWdlB0Zm9rVURmNDVvOTNUeEFfYUZZWEI2ejg1SEFpQ0owR1ZCT3BUb1RacW1FS3lJdGNaTmw3a0Jh?oc=5",
+        "image": "",
+        "publishedAt": "2026-11-19T00:26:26.000Z"
+      },
+      {
         "title": "Radiografía sobre el avance de la IA en las empresas de Perú 2026: un ranking revelador - Gestión",
         "summary": "Radiografía sobre el avance de la IA en las empresas de Perú 2026: un ranking revelador &nbsp;&nbsp; Gestión",
         "source": "Gestión",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWjVQVGdiYVZIZkJ5VmZROHlQc3NmaXl4bkJfeXhuc0VnZXpyWHhGZ2N2UmJ3TjlDZ2pzMjhfZFdJNXNKMEZicDItTlhBZ29nM01hU3FJZW42SDk2c3BQNVAzcmxGU3U5a3FKWEZEWUhMQUF3d3dXTUJEWllSNkIxRmhJV2QxdEx5Vjk0QWwtNGRnQnFYWkE1cEFack9TSGlIci1hMWEtZzB4VkJDZXpCTDNyVEFsd3BrTTA1ZlJPdVc4SmpQSGdZ?oc=5",
         "image": "",
         "publishedAt": "2026-11-18T20:30:00.000Z"
-      },
-      {
-        "title": "Fernando Eguiluz, CEO de BBVA Perú: “Mi primer emprendimiento fue un negocio de agua embotellada” - Gestión",
-        "summary": "Fernando Eguiluz, CEO de BBVA Perú: “Mi primer emprendimiento fue un negocio de agua embotellada” &nbsp;&nbsp; Gestión",
-        "source": "Gestión",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbjBIUUgzOE1hX3lTVUpNd2pLNnhmcnVCLUJwZWpONkRrSEV5YjR6UFFUSnZwbGNPYWRBblJHcUZlcWI5N2R0c2U5UWVSZ1ZTaThVSlM3eG5MVEpGM2VWV0tNdVF1T051Q09FOHFpdmJDRFNoY3Q5WWZucWZwbjdIazN6RGQ4Z25YbTVGYjgtMTNXa1NscHlnbmI3WGJqenc4eGxLN3pZaGN2bHlxbjdjWFFWMWpLUVVkYjVWdlB0Zm9rVURmNDVvOTNUeEFfYUZZWEI2ejg1SEFpQ0owR1ZCT3BUb1RacW1FS3lJdGNaTmw3a0Jh?oc=5",
-        "image": "",
-        "publishedAt": "2026-11-18T18:10:00.000Z"
       },
       {
         "title": "De ideas innovadoras a negocios tecnológicos: conoce a estas emprendedoras peruanas - Business Empresarial",
@@ -285,7 +285,7 @@
         "source": "La Ribera Web",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaVFYNHRRRkJ4T0x2eThiRWdkSDdkMUw5UWMyRHViRXRrYTU4QzA1UWh4bnQtSjFKNXRUakNEdUxCX2tRN3ZrVkRPVEdpMG1HaElGb2NTVUZ6Qmlha0p1M3A3U21CMk51V1VYdk5zcUJNR0pDbEpMeUlZVHNzNlBVSndVYW1sYnFFWXNPcHlGT1hJWjVLbG1Ta04yUkVqQjJRVzdyWHJFcDROX09kVTZJUFZRRXY3WVZLNHQ2YWZtMk1XdFRfS2NvTU81c1lfWnda?oc=5",
         "image": "",
-        "publishedAt": "2026-11-18T16:04:47.000Z"
+        "publishedAt": "2026-11-18T16:29:26.000Z"
       },
       {
         "title": "De ideas innovadoras a negocios tecnológicos: conoce a estas emprendedoras peruanas - Business Empresarial",
@@ -296,12 +296,12 @@
         "publishedAt": "2026-11-18T11:47:33.000Z"
       },
       {
-        "title": "Día de la Mujer Emprendedora: 4 claves para impulsar un negocio tecnológico en el Perú - Diario Correo",
-        "summary": "Día de la Mujer Emprendedora: 4 claves para impulsar un negocio tecnológico en el Perú &nbsp;&nbsp; Diario Correo",
-        "source": "Diario Correo",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb0poQURJU3pFU1hEWkgyeWljNzJrZGJvNXRZaExvaDZtbHVJdi0zRnJSSFBVV0tIakRhdWkxbWdBTTRWZklrVzRDd2x4VjR4MjRPb2xPVDExNGhCYmhKSWYyQzRERV9PR0h5UlM0X0k4YXhtYUFLMTYzbC1EX3lCUUtiTnN1c2xiMXBmVU93ZHZRSkZvN2NFUHcyU1E0TFAyUXZ3R1lrWk5lTkk4TWs4REhhdFFyNlNEZEJ2MEFDQl_SAdQBQVVfeXFMTkpZTkpPS1J5VkZXRW1MMHpxZFNfSXBfZ3RHM01Ld242bE9ZQnZiQ2FmTVVnVmtQcF9haG42R2dhM011a0tpVlFiUnYzcVpLa0FManVDOVhXd0VrUVdDMnFHZXpuamJQcUNKMUxFVmVxUkpycEx5YzlXX0FSLWJUSXVYakpCMjBWQVMyZXVOaU5BYlpvTF9TajB0MFBySTE1UmVmMFpvUEtxOWQ4MnZuQjd1U2lhZTdUbFVTbVJvaWhHclNmMkhrbGhnVlpReGpjTG9NcE4?oc=5",
+        "title": "De la mejora de productos a transformar negocios: ¿cómo ha evolucionado la innovación empresarial en el Perú? - El Comercio Perú",
+        "summary": "De la mejora de productos a transformar negocios: ¿cómo ha evolucionado la innovación empresarial en el Perú? &nbsp;&nbsp; El Comercio Perú",
+        "source": "El Comercio Perú",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQYXF5bEJqdFBmN3gxT3hISl8yRTdfS1Rub3BucW1CanlxWUdVTlBRZmtJNEdDcE5MWkc2c191VzNvbHZjN3pjU1hTdkFpWGc4VHNmUTI4amRzVXlPUmlfZHpPQm9SQWNZMmhzczhhbktkdWJjS0QyeEZFSlIzY2lUaHI2YWF5WFFlOFlfZDYxakhfamROLXZHMHAtV3dVSzBNdlk3R0RlMi1LRkxLdllBYzR2M3JCSGswLXJkVGVRbUNJRmhvZ1RqYVRUX2JJRldEd1Bib0liZXhEdXdfeUVEcTE0ME43RGJhMXphcWY5Z0ZtbGhzRTVCVjNuSEJWZzFjWTJoc0tiV2I5bmdv0gGgAkFVX3lxTE1zRVZMS0tBQ1VtYWhtelo1d1Q1VkhGOW9ZR0V2VE91SUJLUnRwaHFvcTYxY3VEMFloc0tvU29vSmxXQnphTFhTS0lGdTFhRjJXVjVsUktaV2NfYUZrTzhIcXBBYkV2d3U0LUI0OHNzRlN2LTR6SlJVcTcyTi0xMzhQNDVKS2N6cnE4cG5xMmU5dV8wZVRnbi1LSlBSdTdpUm1EYWZ4VDJZZ2F6N1ltSVh4MVpVNGpZa0xBdVRMZ3FZYlF5TXVBZWdKUmgzTW1IZzVXU2poQjR1Qk9semU2UzRVeElTZFJ1dy1CajQ2RVNnSkp5UEsxazcwN2E5SlJ6SDczZzV1UDNDeU52b0RrWHlzT29Oc0o4RUM3dVpDek11bw?oc=5",
         "image": "",
-        "publishedAt": "2026-11-17T19:23:58.000Z"
+        "publishedAt": "2026-11-18T11:34:00.000Z"
       },
       {
         "title": "De la cultura deportiva a la innovación, los siete Grandes Ojos de El Ojo 2026 - Mi Punto de Vista",
@@ -412,6 +412,14 @@
     ],
     "tendencias": [
       {
+        "title": "¿Por qué se regalan Hot Wheels cada 30 de septiembre? Conoce el origen de esta tendencia viral - https://hbanoticias.pe/",
+        "summary": "¿Por qué se regalan Hot Wheels cada 30 de septiembre? Conoce el origen de esta tendencia viral &nbsp;&nbsp; https://hbanoticias.pe/",
+        "source": "https://hbanoticias.pe/",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb2pxajF1S0ZrYUlvTjBFekZNaVNtM0w2MzZwOWlIS3VOUHRKeGdScmpmVndtVF9FNUVtbWdyWDAxTXZ4RG94TW5FMkZYc0lyakZQMWtTbEQxN1BFZEtRQXhfSDF5VE5JYURGTGJfNHY0d2NmQ3VSRHk1VGY1Q2I0b21Mck9wSUxRSkZMSFNQUFUwbkhDa3hLN2o2aktsQVhGb0R6eWVESE9UbXE1REpDWmlpaGpjeHM?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-30T07:00:00.000Z"
+      },
+      {
         "title": "“El reto de las 48 horas”: la peligrosa tendencia viral que impulsa a adolescentes a desaparecer de sus casas - Infobae",
         "summary": "“El reto de las 48 horas”: la peligrosa tendencia viral que impulsa a adolescentes a desaparecer de sus casas &nbsp;&nbsp; Infobae",
         "source": "Infobae",
@@ -460,20 +468,12 @@
         "publishedAt": "2026-08-29T07:00:00.000Z"
       },
       {
-        "title": "Qué es farmear aura: de qué trata la nueva tendencia de TikTok entre jóvenes y cómo se gana una batalla - Infobae",
-        "summary": "Qué es farmear aura: de qué trata la nueva tendencia de TikTok entre jóvenes y cómo se gana una batalla &nbsp;&nbsp; Infobae",
+        "title": "Qué quiere decir la expresión “farmear aura”: así es la tendencia viral en redes sociales - Infobae",
+        "summary": "Qué quiere decir la expresión “farmear aura”: así es la tendencia viral en redes sociales &nbsp;&nbsp; Infobae",
         "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVmN3WHprRm1HX1MtdXhjWk5ZajM2dVZLSjJmY1VVUnN5QUxaUmxBeW81amF5RVY0dXV6clgtUERMZG40bmpBd2txODRnOElyeTEwMlZVZ0ZtcEVlelpKaHdCbl9ZUWhFUVVkbUxWd0k5X2FBd2tJNGM4bFBoakU0RDdOS1NxSmJFbDRGOHZ0UEJ2aXVfM3pmUUROMUloQl9uTFZDa3ZtaUJ5bHIwcW5hMTgwMlNoWk13UGhfZkNwbjZkMndyOHQzQjBsMnF6N2tOeTdlVE1zSXdkWTJDNXVlNTZhTdIB_gFBVV95cUxQNU45c1NZNkFDWjhUYzJxYUxYRGp2Uk9NaF9CbkVfSmRiZW90RGRWRW9BR2FFX1FkRVNySWJhdzVneTNFXzBDSEt5Y3RpeThBYlFfQldWaHZ0ZFRtSlZfaEtNUkpSLU5mOHh6Y2lxbTU2ekhmdC1zNmZMcVQwLVVkam5vV1lzRktaVFdmclp1NlR6RHNpMlYtNzltT29YWXFXR1VUS0w0Q0c4RGlGVEM0NVVlckVqOHR4c0U1UjlMcjRPVW43MjJhYV9hcWRTYmpVTEI4aGpsalFHbFY2LTNKX3ZRNFdLTVg0ZGtoaDdENE54S09xeTVVTElrZTF6UQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZGdDYk8yYWZZa1pGdmhMYWxkU2RkNDBFamVzRWg5dnZjal9kMUtiVGpENS1hUS1QdGhoMjAwSUZkYkpKMjlXSzhzaDhDcUVTU1RPVjdreHRJc0pGUWhnbERmNVhkOW9aNi1WSk1xQkhSdWdOWkhnUTNkSmo3VWNlU1pEUVg3NFI4VmFpTjlKang2enlMMFMwbFBXVkZjc2toUF8tZVBhal9Xa01YaUg1X0xxOUhjSDlBNjkwd3FGVDJmT3l20gHfAUFVX3lxTFA3WktjdXNIbUg3a2w0X200YW1sV04tYVJ0UVl1Mk40RWlCd25GTUt2YUl0dld4MTFMLWVsak5uejdOX0gwQ01iNWFfSGFxSDczb3UtNlVKaHJVRTlBLW52UVQtQmV6SXlUMUd5OHhCbThfSXZmUG0wMVVzZGQ0T0NySnN5OXdZS0FLMFlVUjRvQV8xTGFRWTN6Y2dYRzFZY00tb3U4N0FQUVRCalljSkIzRTVUYXhHV2o3VGZlQmRJSEY5dkgwd05ENXphLW83ZU9rRXNnbVRZcm1hcHhOOTg?oc=5",
         "image": "",
-        "publishedAt": "2026-08-15T07:00:00.000Z"
-      },
-      {
-        "title": "🔴🔵 ¿Farmear aura? Conoce la nueva tendencia nacida en las redes sociales que es viral entre los más jóvenes. 📻 95.5 FM 📡 6.1 señal digital abierta 📺 Movistar: 34 SD - 734 HD ?",
-        "summary": "🔴🔵 ¿Farmear aura? Conoce la nueva tendencia nacida en las redes sociales que es viral entre los más jóvenes. 📻 95.5 FM 📡 6.1 señal digital abierta 📺 Movistar: 34 SD - 734 HD ?? http://exitosanoticias.pe &nbsp;&nbsp; Facebook",
-        "source": "Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNHB3Q3VNa2NsSkFlN0U0UzEtWFRURUNsNVFzWWJNcXBCTUNqeVhBdElLOEdfSTRZSURTUFIyNG9kMDBvUWFoeW9ham5tNDQzMmg4Z0RhN2tSeFJVUy0xYXBsZkpFcXB4RHFCNHgtSDUzWFdwTEI3VWRycWVkVWtCTmdWY2xrZlJjaDlXSkJPM19YSUxYS0tyMXhPR3VHTlNMUXI5RFRXd1NwbHppeWFNZ0RxOU56b3lhWFVKZ0hiU0NIWGlnaEE0RGVVa3NYbUd0NVFBM2FpMzh4Y1hZWDhz?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-14T07:00:00.000Z"
+        "publishedAt": "2026-08-23T07:00:00.000Z"
       }
     ],
     "farandula": [
@@ -510,20 +510,20 @@
         "publishedAt": "2026-10-02T07:00:00.000Z"
       },
       {
-        "title": "Yaco Eskenazi revela que carga solo con las deudas del hogar y genera polémica en farándula peruana - RPP Noticias",
-        "summary": "Yaco Eskenazi revela que carga solo con las deudas del hogar y genera polémica en farándula peruana &nbsp;&nbsp; RPP Noticias",
-        "source": "RPP Noticias",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNm1WZzNIVUtUendDZVRoZGVHRk9HdUJDVjdGMFVKOVVabzhHTXdxalRTVW1WR01kWnpwMThsTzY2Y0ttQW5MWXBpUDZLNzlVVHFNQVluYlBKdV9qTXBtd0FBelNWNVlTWjZRdi1yck42ZVpIWTkyS0MyRUI1QzZjODhPY1hiUlB6eV9iTHpNQ0RzclpYNVZxLTh2dXYyXzlIZDJfWGYyel92VU5nbjBqaV93aEZjM0NPRXZwbTUyMHlMVVI4UHFsenk4TWkzTS1qc1ZzRDQzUVhzeVFKaTY3M1A4LUR5YVE?oc=5",
-        "image": "",
-        "publishedAt": "2026-08-30T07:00:00.000Z"
-      },
-      {
         "title": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” - Trome.com",
         "summary": "‘Choca’ Mandros anuncia novedades en feria gastronómica ‘Fusión’: “Este año regresamos renovados” &nbsp;&nbsp; Trome.com",
         "source": "Trome.com",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0ZKVXhOaUNRMF9DMldlUXBKT1hQdXFHRlc0cnpUUWRLdmJFZFFOV3h3eTA5QnlraDZNSGN6bWFjNHJiOVVuSDcxSHlKTWdYY2hSY0VvWDhWb0lJVDhZeWJQb3Q3eWhTdG1qTEJJWVJTdmdCUUU4Q2hpODRQYjQ1NUw5OEJ2aUxNeFRxVHpVZVdMZThWanlrTUE5X2RpSVNMenBEaUdXSzkyczJ0UXVVdGdoc0hXejDSAcsBQVVfeXFMT1NEd25TWlFTdmhlR040dk1hWTkzNzR1eWJGUE12ZU9QQUw4UGU5Y0R1MjVWNE1uRGh3TUJIWTBiaFVOYi1pVlNwZEV2NVRkUzROTDlqLUtIM2liMzcyM1lWdWZBX1RTZUhSLW1xTGprT1pNTHZtRWRLR0s2LXA5dXBwUzBYS0JCTWNNam5IeG1ZTDFKYUhua2xMaWNCajBra0dOWlpTR2h6Yk1rYVp2djU3aGlhN0JodVB4MlhnY0lPdGRmX090c0RZTmM?oc=5",
         "image": "",
         "publishedAt": "2026-08-26T07:00:00.000Z"
+      },
+      {
+        "title": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo tras un accidente de tránsito ocurrido en Cañete. El recordado personaje de televisión dejó de existir a ",
+        "summary": "🔴🔵🚨 #LOÚLTIMO | Luto en la farándula peruana: falleció Víctor Angobaldo tras un accidente de tránsito ocurrido en Cañete. El recordado personaje de televisión dejó de existir a los 63 años de edad. 📻 95.5 FM 📡 6.1 señal digital abierta 📺 Movistar: 34 SD - &nbsp;&nbsp; Facebook",
+        "source": "Facebook",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPX1p0SXZsczZHY3QxaG1BVEtZSWVXNXZuUXluaXV3WkhMVjVCQzlZbjJvcU1lU2lDWWlvbTVkM2w5WjV4UjU4b3RZUTlUVWJtODJ3cFNWOEhERm1iQl9oTm5aVmktMzUtOWI5TEZiMzEyblZjcm5IOTR3TTU4WnlUX3FBWjBQcHFab3k1czBOb3gyTkJmMUpJLVZPM1ZuUFRzbjU3RWZ6LW9yU1ZpNWRrVmVqOVFpLW4tT1FzaTlJTFFmU0F4VlJTNmtIcWhXYWtIQ0pyX1BVcTlWamtieDRGNVVPT1F5VDJCQWxZRWk4YWlWVnFCV3lOVg?oc=5",
+        "image": "",
+        "publishedAt": "2026-08-05T07:00:00.000Z"
       },
       {
         "title": "Murió Víctor Angobaldo, recordado personaje de la farándula peruana, en un accidente de tránsito en Cañete - Diario Correo",
@@ -560,12 +560,12 @@
         "publishedAt": "2026-11-16T19:27:22.000Z"
       },
       {
-        "title": "Estación La Cultura del Metro cerrará este miércoles 11 de noviembre por actividad del papa León XIV - Infobae",
-        "summary": "Estación La Cultura del Metro cerrará este miércoles 11 de noviembre por actividad del papa León XIV &nbsp;&nbsp; Infobae",
-        "source": "Infobae",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdTNkd0ZBVmN4TmhTRHIxTGNQckZQaXpEMDJzYlM5SVhIaWVnMGlEemwwcFRwcUpCeTRyNzVkQm5KWEtPSTdMN0dtY3RvblBvNjNrMDVHc3NzcVBoT015YnZ2OFZULWdWTE84R011SU9iTmR4SmUzZjI3bk1QVlR2MGhpZjlDeE0tMVFObUxmbGZ5aEcwVHR6UFpfbHVlR1dNWm5YdVJWdVlYQWJPcHNLWFRxWFhXY05SREpHVTltRnBJWEHSAd4BQVVfeXFMUENPaTh4WVpFRDg1ZjFseGdlbThTY2RaREpJQVZRWkg3NWZwS2x4c0JiMGhCS2tndWtpa0pmZW1iOTZma3RtSHdSUTdpejdrZ3cwdGRvV0hRV1pFQ29wbm5COGZFcTB2WUtDbTczT1NNcHF6cnFhQXZ1ZlVEWUhkVFk4MEl1aXNCclJhUGhCWnZPanFORVVXYjBnc3pDR1d0T3FOWjZYT1V1T2VLdWJ4ZWhxSEFHcHVleWwtb0Fhblp6TFZjV1Nvb2hxd1ZSSmVkX2VFTFZTMW5LQS1lcC1R?oc=5",
+        "title": "Supremacía MC 2026 resultados: KG se corona campeón internacional en Lima - https://urbanstreet.com.pe/",
+        "summary": "Supremacía MC 2026 resultados: KG se corona campeón internacional en Lima &nbsp;&nbsp; https://urbanstreet.com.pe/",
+        "source": "https://urbanstreet.com.pe/",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdEJ3MmZMWlhvcVZTUWhCR3B2N2FuQ2NBX3NIQ2dzeE9mT2VSOEo0aWdFYzNRTmJMQ0I0M2xqYmowZFd5UDRYbkpVbWhXY0w1YnhkaU0wRUllTTR6bUl2N1ZoMHh4eGlRLXJHbUVZamhoQkl0aHBydXl0WjVWU2x1bHpwbmh4WThlNlMzRG9JM0tlU1ItOVpXVm90OTA0RnNVZ2I4dUJTcw?oc=5",
         "image": "",
-        "publishedAt": "2026-11-09T08:00:00.000Z"
+        "publishedAt": "2026-11-15T16:45:32.000Z"
       },
       {
         "title": "31 Minutos llega a Lima con “Radio Guaripolo Tour 2026”: humor, música y canciones que ya son parte de la cultura pop - Blog Joinnus",
@@ -584,20 +584,20 @@
         "publishedAt": "2026-10-16T07:00:00.000Z"
       },
       {
-        "title": "Anime Perú Fest 2026: tres días de anime, música, cosplay y más de 100 stands en el Castillo Rospigliosi - Blog Joinnus",
-        "summary": "Anime Perú Fest 2026: tres días de anime, música, cosplay y más de 100 stands en el Castillo Rospigliosi &nbsp;&nbsp; Blog Joinnus",
-        "source": "Blog Joinnus",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa1NLeUdOY29NMk5uLURPdzNlSnlMa09yYVZlb0FVbVhCbVlYWW1hMUlTMUFidE9SaWdaMWVXak5pV0lGak1ZT19FUi1STE9FODBIbVctd1VmcFc3c0xhUlZFYWVaNFVBMnh5S284dXdWSGlzc1JZbjQwdTBPZDEtV1FzeG12TjF1UDN5QmdvaE1PNXcxUGsyazdUdjNKTUlDS29WX21yV1QydlhDQUVvc0tlbnZuMm1zMnFGd1ZkRXVTUnlhOXc?oc=5",
-        "image": "",
-        "publishedAt": "2026-10-07T07:00:00.000Z"
-      },
-      {
         "title": "Conciertos Perú 2026: ¡Los shows que no te puedes perder en octubre! - Blog Joinnus",
         "summary": "Conciertos Perú 2026: ¡Los shows que no te puedes perder en octubre! &nbsp;&nbsp; Blog Joinnus",
         "source": "Blog Joinnus",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObE5jdThacG00eDdmY2hBcnIyVE5QWmdEcjl6LUZGcFkzYWIxbjAyN2ZvR2FkcGk4Sk10UGFrY3JjdThVbDlRazVwaks2WTItTHRsWllENFdDWUg1R3dnQzdta095eEpobUFYSnNSWENhTl9JMXRsaGJ3SG1kSjJYTWNRRmVHalhkQ1hrajlxUm5CeEdwN1E?oc=5",
         "image": "",
         "publishedAt": "2026-10-01T07:00:00.000Z"
+      },
+      {
+        "title": "Conciertos en Perú 2026: fechas, artistas, lugares y precios de entradas - La República",
+        "summary": "Conciertos en Perú 2026: fechas, artistas, lugares y precios de entradas &nbsp;&nbsp; La República",
+        "source": "La República",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNkhLSXNGS3ZXcWUzcFh5eGpQM3h0ZUxDYXVtRXlXc0pVeVM3c19IU2E2cmdvZ2llZmVXQkxKME9HUkJyMmRsUEdlb3I5dmk0UGhuWWJPRVlSRGlIZGFGVFpSWWxRN2hJazdaaWxXbHpWQjVjNkh1eGFEYm1udEFEWkVTUFR3ZXgxWEVIdUd1QlVPSTZUa3VjREhQUDJ4OE1wS2V3RGxsbHVQWTdRX1gtNV9ibzB5Yk15RkZPZlF0cUlpMF9jcTFKRTdidEtjNXdkOTFvM3p0Z2NyUFI5UEQzcGtPWEJHak13UTRLRWFwVE1NMWdxVEUwWDZ1WnJVY2k2WllXT2U2RlhQbXlYLWYyQlZIQVpPbC05b2wwWUUzb01CYTDSAagCQVVfeXFMTlUyQXAxei13aVQwbmNabDBUdU9QSWM3Tm5CSmNvZVJTRDFzZUxpb3E2M1R5OUFyNXNudDhka2RHNVJ5bE1YS0dWNmFZWVgtSnlWUWR5enRUOTJxaHIzNkNMNkU3Z0llUy1Yb25YOGloZnJCOU5YbmlvMFlwSDA1UUVpLTNUR1NHS3psZzNYenM0NFNrVkotVWtlNWVXekV6Ty02Qngxcy1QX29hMTFPMTBqMkY0VEsyVU9pVl8tMlNNVVByOTR3V2N0YXB3eXdKbjc3cHFHX1hsdWhEYVQ4S0oxdVUtdDk0dlE4SVI3NW5PUzcyUzVSUWhrOVl1a19yWGdlUE9iS3RibHk2REpKNHp6TEdXZUN6aU1pcml3V2dnd2VyTVNPaXg?oc=5",
+        "image": "",
+        "publishedAt": "2026-09-22T07:00:00.000Z"
       },
       {
         "title": "Agenda cultural en Lima del 10 al 17 de setiembre: El Lago de los Cisnes, la experiencia inmersiva Wankar de DanSa, El jefe del jefe y AQUA - Infobae",
